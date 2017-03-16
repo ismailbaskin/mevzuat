@@ -1,6 +1,4 @@
-**Anayasa Mahkemesi’nin 18/10/2012 tarihli **
-
-**ve E.: 2010/82, K.: 2012/159 sayılı Kararı ile değişik hali**
+**6495 sayılı Kanun ile değişik hali**
 
 **BELEDİYE KANUNU**
 
@@ -11,8 +9,6 @@ Kabul Tarihi : 3/7/2005
 Yayımlandığı R.Gazete : Tarih: 13/7/2005 Sayı : 25874
 
 Yayımlandığı Düstur : Tertip : 5 Cilt : 44
-
-** **
 
 ** **
 
@@ -360,13 +356,15 @@ başarı gösteren veya derece alan öğrencilere, sporculara, teknik
 yöneticilere ve antrenörlere belediye meclisi kararıyla ödül verebilir.
 Gıda bankacılığı yapabilir. ^(2)^
 
-**(Ek fıkra: 12/11/2012-6360/17 md.)** Belediyelerin birinci fıkranın
-(b) bendi uyarınca, sporu teşvik amacıyla yapacakları nakdî yardım bir
-önceki yıl genel bütçe vergi gelirlerinden belediyeleri için tahakkuk
-eden miktarın binde yedisini geçemez.
+**(Ek fıkra: 12/11/2012-6360/17 md.; Değişik: 12/7/2013-6495/100 md.)**
+Belediyelerin birinci fıkranın (b) bendi uyarınca, sporu teşvik etmek
+amacıyla yapacakları nakdi yardım, bir önceki yıl genel bütçe vergi
+gelirlerinden belediyeleri için tahakkuk eden miktarın; büyükşehir
+belediyeleri için binde yedisini, diğer belediyeler için binde on
+ikisini geçemez.
 
-**(İptal ikinci fıkra: Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E.
-2005/95, K. 2007/5 sayılı Kararı ile. )**
+**(İptal fıkra: Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E. 2005/95,
+K. 2007/5 sayılı Kararı ile. )**
 
 Hizmetlerin yerine getirilmesinde öncelik sırası, belediyenin malî
 durumu ve hizmetin ivediliği dikkate alınarak belirlenir.
@@ -506,6 +504,8 @@ görüşü ve İçişleri Bakanlığının kararıyla süresi kırkdokuz yılı 
 veya tekel oluşturmayacak şekilde ruhsat vermek suretiyle yerine
 getirebileceği gibi toplu taşıma hatlarını kiraya verme veya 67 nci
 maddedeki esaslara göre hizmet satın alma yoluyla yerine getirebilir.
+
+9474-2
 
 9475
 
@@ -843,7 +843,7 @@ tarafından yetkili mercilere suç duyurusunda bulunulur.
  *Meclisin bilgi edinme ve denetim yolları*
 ===========================================
 
-**MADDE 26.-** Belediye meclisi, bilgi edinme ve denetim yetkisini
+**Madde 26 -** Belediye meclisi, bilgi edinme ve denetim yetkisini
 faaliyet raporunu değerlendirme, denetim komisyonu, soru, genel görüşme
 ve gensoru yoluyla kullanır.
 
@@ -1812,8 +1812,7 @@ görüşülerek karara bağlanır.
 Kesinhesabın görüşülmesi ve kesinleşmesinde, bütçeye ilişkin hükümler
 uygulanır.
 
- *Bütçe sistemi*
-================
+*Bütçe sistemi*
 
 **Madde 65-** Belediye bütçesi ile muhasebe işlemlerine ilişkin esas ve
 usûller Maliye Bakanlığının görüşü alınarak İçişleri Bakanlığı
@@ -1946,7 +1945,7 @@ ilgili mevzuatta belirtilen usûllere göre şirket kurabilir.
 
 ALTINCI KISIM
 
-### *Çeşitli ve Son Hükümler*
+*Çeşitli ve Son Hükümler*
 
 BİRİNCİ BÖLÜM
 
@@ -2513,7 +2512,7 @@ Gazete’de yayımlanmıştır.*
                                                                                                                                                     
                                                                                   **Resmi Gazete Tarihi**                                           
 
-  1.     5538                       12/7/2006                                     12/7/2006                                                         14, 18
+         5538                       12/7/2006                                     12/7/2006                                                         14, 18
 
   1.     5568                       30/12/2006                                    30/12/2006                                                        Geçici Madde 5, Geçici Madde 6
 
@@ -2560,6 +2559,8 @@ Gazete’de yayımlanmıştır.*
                                                                                                             E.: 2010/82                             
                                                                                                                                                     
                                                                                                             K.: 2012/159                            
+
+  1.     6495                       2/8/2013                                      2/8/2013                  28726                                   14
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
 
