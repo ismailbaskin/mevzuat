@@ -1,4 +1,6 @@
-**6518 sayılı Kanun ile değişik hali **
+**6519 sayılı Kanun ile değişik hali**
+
+ 
 
  
 
@@ -7428,19 +7430,25 @@ yapılacak alımlarda da birinci fıkra hükmü uygulanır.
 
 *Uzman istihdamı*
 
-**Ek Madde 41-** **(Ek: 11/10/2011-KHK-666/3 md.)**
+**Ek Madde 41-** **(Ek: 11/10/2011-KHK-666/3 md.)^(2)^**
 
 Adalet, Dışişleri, İçişleri ve Millî Savunma Bakanlıklarının,
 Yükseköğretim Kurulu Başkanlığının ve Bakanlar Kurulunca belirlenen
-bakanlık bağlı kuruluşlarının merkez teşkilatlarında uzman ve uzman
-yardımcısı istihdam edilebilir. Bakanlık bağlı kuruluşlarının merkez
-teşkilatlarında istihdam edilecek uzman ve uzman yardımcısı kadro
+bakanlık bağlı kuruluşlarının merkez teşkilatları ile Genelkurmay
+Başkanlığı ve kuvvet komutanlıklarının merkez karargâhlarında uzman ve
+uzman yardımcısı istihdam edilebilir. Bakanlık bağlı kuruluşlarının
+merkez teşkilatlarında istihdam edilecek uzman ve uzman yardımcısı kadro
 unvanlarını tespit etmeye Bakanlar Kurulu yetkilidir.
 
 *–––––––––––––––––*
 
 *(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
 maddede yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.*
+
+*(2) 11/2/2014 tarihli ve 6519 sayılı Kanunun 22 nci maddesiyle, bu
+maddenin birinci fıkrasında yer alan “merkez teşkilatlarında” ibaresi
+“merkez teşkilatları ile Genelkurmay Başkanlığı ve kuvvet
+komutanlıklarının merkez karargâhlarında” şeklinde değiştirilmiştir.*
 
 4252
 
@@ -7548,11 +7556,13 @@ Cetvelde yer alan düzenleyici ve denetleyici kurumların uzman ve uzman
 yardımcıları hakkında da uygulanır. ^(1)(2)^
 
 Bakanlık bağlı kuruluşlarının merkez teşkilatlarında bu madde uyarınca
-istihdam edilen uzman ve uzman yardımcıları, bu madde ile bakanlıkların
-merkez teşkilatı için oluşturulan uzman ve uzman yardımcıları için
-mevzuatında öngörülmüş olan mali ve sosyal haklar ile 36 ncı maddenin
-“Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı bendi hükmünden
-aynı usul ve esaslar çerçevesinde yararlanırlar.
+istihdam edilen uzman ve uzman yardımcıları ile Genelkurmay Başkanlığı
+ve kuvvet komutanlıklarının merkez karargâhlarında istihdam edilen
+Silahlı Kuvvetler Uzmanları ve Silahlı Kuvvetler Uzman Yardımcıları, bu
+madde ile bakanlıkların merkez teşkilatı için oluşturulan uzman ve uzman
+yardımcıları için mevzuatında öngörülmüş olan mali ve sosyal haklar ile
+36 ncı maddenin “Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı
+bendi hükmünden aynı usul ve esaslar çerçevesinde yararlanırlar. ^(3)^
 
 **Ek Madde 42 -** **(Ek: 11/10/2011-KHK-666/3 md.)**
 
@@ -7578,6 +7588,13 @@ değiştirilmiş ve metne işlenmiştir.*
 *(2) 12/7/2013 tarihli ve 6495 sayılı Kanunun 8 inci maddesiyle, bu
 fıkrada yer alan “Üçüncü” ibaresi “İkinci, üçüncü” şeklinde
 değiştirilmiştir.*
+
+*(3) 11/2/2014 tarihli ve 6519 sayılı Kanunun 22 nci maddesiyle, bu
+fıkrada yer alan “istihdam edilen uzman ve uzman yardımcıları,” ibaresi
+“istihdam edilen uzman ve uzman yardımcıları ile Genelkurmay Başkanlığı
+ve kuvvet komutanlıklarının merkez karargâhlarında istihdam edilen
+Silahlı Kuvvetler Uzmanları ve Silahlı Kuvvetler Uzman Yardımcıları,”
+şeklinde değiştirilmiştir.*
 
 4252-2
 
@@ -13725,6 +13742,8 @@ fıkraları                                
   6514                                                                                   28, Ek Madde 33                                                        18/1/2014
 
   6518                                                                                   72                                                                     19/2/2014
+
+  6519                                                                                   Ek Madde 41                                                            22/2/2014
   -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- --------------------------------------
 
 
