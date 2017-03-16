@@ -1,4 +1,4 @@
-**4857 sayılım Kanunun 5538 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 5728 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -2367,19 +2367,22 @@ faaliyet gösteren işverene bir milyar lira para cezası verilir.
 
 **İş hayatının denetim ve teftişi ile ilgili hükümlere aykırılık**
 
-**MADDE 107. -** Bu Kanunun;
+**MADDE 107. –** **(Değişik madde:23/1/2008-5728/500 md.)**
+
+Bu Kanunun;
 
 a\) 92 nci maddesinin ikinci fıkrasındaki yükümlülüklerini yerine
 getirmeyen,
 
 b\) 96 ncı maddesindeki yasaklara uymayan,
 
-İşveren veya işveren vekiline beş milyar lira para cezası verilir.
+işveren veya işveren vekiline sekizbin Türk Lirası idarî para cezası
+verilir.
 
 İş müfettişlerinin bu Kanundan veya diğer kanunlardan doğan her çeşit
 teftiş, denetleme yetki ve görevleri gereğince görevlerinin yerine
 getirilmesi sırasında, görevlerini yapma ve sonuçlandırmaya engel olan
-kimselere eylem başka bir suçu oluştursa dahi ayrıca beş milyar lira
+kimselere, fiil suç oluşturmadığı takdirde, sekizbin Türk Lirası idarî
 para cezası verilir.
 
 **İdari para cezalarının uygulanmasına ilişkin hususlar **
@@ -2391,16 +2394,7 @@ Güvenlik Bakanlığı Bölge Müdürünce verilir. 101 inci madde kapsamındaki
 idari para cezaları ise, doğrudan Türkiye İş Kurumu İl Müdürü tarafından
 verilir.
 
-**(Mülga birinci cümle: 1/7/2005-5378/39 md.) (…)** Verilen idari para
-cezalarına dair kararlar ilgililere 11.2.1959 tarihli ve 7201 sayılı
-Tebligat Kanunu hükümlerine göre tebliğ edilir. Bu cezalara karşı tebliğ
-tarihinden itibaren en geç yedi gün içinde yetkili idare mahkemesine
-itiraz edilebilir. İtiraz, idarece verilen cezanın yerine getirilmesini
-durdurmaz. İtiraz üzerine verilen karar kesindir. İtiraz, zaruret
-görülmeyen hallerde evrak üzerinde inceleme yapılarak en kısa sürede
-sonuçlandırılır. Bu Kanuna göre verilen idari para cezaları, 21.7.1953
-tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
-hükümlerine göre tahsil olunur.
+**(Mülga ikinci fıkra:23/1/2008-5728/578 md.) **
 
 DOKUZUNCU BÖLÜM
 
@@ -2557,6 +2551,8 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     5378              7/7/2005                  7/7/2005                                 -                                        108
 
   1.     5538              12/7/2006                 12/7/2006                                -                                        2, 81
+
+  1.     5728              8/2/2008                  8/2/2008                                 -                                        107, 108
   ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------
 
 
