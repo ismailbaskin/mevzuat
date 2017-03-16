@@ -1,6 +1,6 @@
-**6487 sayılı Kanun ile değişik hali**
+** Anayasa Mahkemesi’nin 18/7/2012 tarihli ve **
 
- 
+**E.: 2011/113 K.: 2012/108 sayılı Kararı ile değişik hali**
 
  
 
@@ -574,9 +574,7 @@ kovuşturma yapılması ve haklarında dava açılması özel hükümlere tabidi
 
 4185
 
- 
-
-            İsnat ve iftiralara karşı koruma:
+*İsnat ve iftiralara karşı koruma:*
 
 **Madde 25 –** Devlet memurları hakkındaki ihbar ve şikayetler, garaz
 veya mücerret hakaret için, uydurma bir suç isnadı suretiyle yapıldığı
@@ -587,9 +585,9 @@ Cumhuriyet Savcılığından isterler.
 
 BÖLÜM: 4
 
-Yasaklar
+*Yasaklar*
 
-Toplu eylem ve hareketlerde bulunma yasağı:
+*Toplu eylem ve hareketlerde bulunma yasağı:*
 
 [[]{#OLE_LINK6 .anchor}]{#OLE_LINK5 .anchor}**Madde 26 – (Değişik:
 12/5/1982 - 2670/10 md.)**
@@ -602,7 +600,7 @@ görevlerine gelipte Devlet hizmetlerinin ve işlerinin yavaşlatılması
 veya aksatılması sonucunu doğuracak eylem ve hareketlerde bulunmaları
 yasaktır.
 
-Grev yasağı:
+*Grev yasağı:*
 
 **Madde 27 –** Devlet memurlarının greve karar vermeleri, grev
 tertiplemeleri, ilan etmeleri, bu yolda propaganda yapmaları yasaktır.
@@ -610,7 +608,7 @@ tertiplemeleri, ilan etmeleri, bu yolda propaganda yapmaları yasaktır.
 Devlet memurları, harhangi bir greve veya grev teşebbüsüne katılamaz,
 grevi destekliyemez veya teşvik edemezler.
 
-Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı:^(1)^
+*Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı:^(1)^*
 
 **Madde 28 – (Değişik: 30/5/1974 - KHK - 12; Değiştirilerek kabul:
 15/5/1975 - 1897/1 md.)**
@@ -620,26 +618,19 @@ gerektirecek bir faaliyette bulunamaz, ticaret ve sanayi müesseselerinde
 görev alamaz, ticari mümessil veya ticari vekil veya kollektif
 şirketlerde ortak veya komandit şirkette komandite ortak olamazlar.
 (Görevli oldukları kurumların iştiraklerinde kurumlarını temsilen
-alacakları görevler hariç). **(Ek cümle: 8/8/2011-KHK-650/38 md.)**
-Memurlar, meslekî faaliyette veya serbest meslek icrasında bulunmak
-üzere ofis, büro, muayenehane ve benzeri yerler açamaz; gerçek kişilere,
-özel hukuk tüzel kişilerine veya kamu kurumu niteliğindeki meslek
-kuruluşlarına ait herhangi bir işyerinde veya vakıf üniversitelerinde
-çalışamaz.
+alacakları görevler hariç). **(Ek cümle: 8/8/2011-KHK-650/38 md.; İptal
+cümle: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.:
+2012/108 sayılı Kararı ile. ) (…) ^(1)^**
 
-**(Değişik ikinci fıkra: 8/8/2011-KHK-650/38 md.)** Memurların üyesi
-oldukları yapı, kalkınma ve tüketim kooperatifleri, kamu kurumu
-niteliğindeki meslek kuruluşları ve kanunla kurulmuş yardım
-sandıklarının yönetim, denetim ve disiplin kurulları üyelikleri
-görevleri, özel kanunlarda belirtilen görevler ile kurumundan izin
-alınmak kaydıyla yapılan insanî ve sosyal amaçlı gönüllü çalışmalar bu
-yasaklamanın dışındadır.
+**(Değişik ikinci fıkra: 8/8/2011-KHK-650/38 md.; İptal ikinci fıkra:
+Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
+sayılı Kararı ile.) ^(1)^**
 
 Eşleri, reşit olmayan veya mahcur olan çocukları, yasaklanan
 faaliyetlerde bulunan memurlar bu durumu 15 gün içinde bağlı oldukları
 kuruma bildirmekle yükümlüdürler,
 
-Hediye alma, menfaat sağlama yasağı:
+*Hediye alma, menfaat sağlama yasağı:*
 
 **Madde 29 –** Devlet memurlarının doğrudan doğruya veya aracı eliyle
 hediye istemeleri ve görevleri sırasında olmasa dahi menfaat sağlama
@@ -652,14 +643,14 @@ eşiti seviyedeki üst düzey kamu görevlilerince alınan hediyelerin
 listesini gerektiğinde her takvim yılı sonunda bu görevlilerden istemeye
 yetkilidir.
 
-Denetimindeki teşebbüsten menfaat sağlama yasağı:
+*Denetimindeki teşebbüsten menfaat sağlama yasağı:*
 
 **Madde 30 –** Devlet memurunun, denetimi altında bulunan veya kendi
 görevi veya mensup olduğu kurum ile ilgisi olan bir teşebbüsten,
 doğrudan doğruya veya aracı eliyle her ne ad altında olursa olsun bir
 menfaat sağlaması yasaktır.
 
-Gizli bilgileri açıklama yasağı:
+*Gizli bilgileri açıklama yasağı:*
 
 **Madde 31 – (Değişik: 12/5/1982 - 2670/11 md.)**
 
@@ -669,11 +660,8 @@ olmadıkça açıklamaları yasaktır.
 
 \_\_\_\_\_\_\_\_\_\_
 
-\(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
-sayılı Kararı ile bu maddenin birinci fıkrasının son cümlesi ile ikinci
-fıkrası iptal edilmiş olup iptal hükmünün, kararın Resmî Gazete’de
-yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe
-girmesi hüküm altına alınmıştır.
+*(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra
+yürürlüğe girmiştir.*
 
 4186
 
@@ -13810,38 +13798,42 @@ fıkraları                                
 
 **GÖSTERİR LİSTE**
 
-  ----------------------- ---------------------------------------------------------------------- ----------------------------
-  **Değiştiren **         **657 sayılı Kanunun değişen veya yürürlükten kaldırılan maddeleri**   **Yürürlüğe Giriş Tarihi**
-                                                                                                 
-  **Kanunun/ KHK.’nin**                                                                          
-                                                                                                 
-  **Numarası**                                                                                   
+  ---------------------------------------------------------------------------- ---------------------------------------------------------------------- ----------------------------------------------
+  **Değiştiren **                                                              **657 sayılı Kanunun değişen veya yürürlükten kaldırılan maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                      
+  **Kanunun/ KHK.’nin**                                                                                                                               
+                                                                                                                                                      
+  **Numarası**                                                                                                                                        
 
-  6253                    36, Ek Madde 41, Geçici madde 39                                       18/12/2011
+  6253                                                                         36, Ek Madde 41, Geçici madde 39                                       18/12/2011
 
-  6291                    II Sayılı cetvel                                                       11/4/2012
+  6291                                                                         II Sayılı cetvel                                                       11/4/2012
 
-  6318                    36, 122                                                                3/6/2012
+  6318                                                                         36, 122                                                                3/6/2012
 
-  6328                    36                                                                     29/6/2012
+  6328                                                                         36                                                                     29/6/2012
 
-  6331                    II Sayılı cetvel                                                       30/6/2012
+  6331                                                                         II Sayılı cetvel                                                       30/6/2012
 
-  6332                    36, 152, I Sayılı cetvel                                               30/6/2012
+  6332                                                                         36, 152, I Sayılı cetvel                                               30/6/2012
 
-  6353                    59                                                                     12/7/2012
+  6353                                                                         59                                                                     12/7/2012
 
-  6354                    88                                                                     12/7/2012
+  6354                                                                         88                                                                     12/7/2012
 
-  6338                    156                                                                    1/1/2013
+  6338                                                                         156                                                                    1/1/2013
 
-  6428                    68, Geçici Madde 40                                                    9/3/2013
+  6428                                                                         68, Geçici Madde 40                                                    9/3/2013
 
-  6458                    36, 152, (I) sayılı cetvel                                             11/4/2013
+  6458                                                                         36, 152, (I) sayılı cetvel,                                            11/4/2013
 
-  6462                    53, 100, 101, Ek Madde 39                                              3/5/2013
+  6462                                                                         53, 100, 101, Ek Madde 39                                              3/5/2013
 
-  6487                    II Sayılı cetvel                                                       11/6/2013
-  ----------------------- ---------------------------------------------------------------------- ----------------------------
+  6487                                                                         II Sayılı cetvel                                                       11/6/2013
+
+  Anayasa                                                                      28 inci maddenin birinci fıkrasının son cümlesi ile ikinci fıkrası     1/1/2013 tarihinden başlayarak altı ay sonra
+                                                                                                                                                      
+  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                          (1/7/2013)
+  ---------------------------------------------------------------------------- ---------------------------------------------------------------------- ----------------------------------------------
 
 
