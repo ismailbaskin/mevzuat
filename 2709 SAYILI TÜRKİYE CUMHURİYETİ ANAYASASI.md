@@ -1,4 +1,4 @@
-**23/7/1995 tarihli ve 4121 sayılı Kanun ile değişik hali**
+**18/6/1999 tarihli ve 4388 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -2638,30 +2638,27 @@ yargılama usulleri kanunla düzenlenir.
 **Madde 143 – **Devletin ülkesi ve milletiyle bölünmez bütünlüğü, hür
 demokratik düzen ve nitelikleri Anayasada belirtilen Cumhuriyet aleyhine
 işlenen ve doğrudan doğruya Devletin iç ve dış güvenliğini ilgilendiren
-suçlara bakmakla görevli Devlet Güvenlik Mahkemeleri kurulur.
+suçlara bakmakla görevli Devlet Güvenlik Mahkemeleri kurulur. **(Ek
+cümle: 18/6/1999-4388/1 md.)** Ancak, sıkıyönetim ve savaş haline
+ilişkin hükümler saklıdır.
 
-Devlet Güvenlik Mahkemesinde bir Başkan, iki asıl ve iki yedek üye ile
-bir savcı ve yeteri kadar savcı yardımcısı bulunur.
+**(Değişik fıkra: 18/6/1999-4388/1 md.)** Devlet Güvenlik Mahkemesinde
+bir başkan, iki asıl ve bir yedek üye ile Cumhuriyet başsavcısı ve
+yeteri kadar Cumhuriyet savcısı bulunur.
 
-Başkan, bir asıl ve bir yedek üye ile savcı, birinci sınıfa ayrılmış
-hâkim ve Cumhuriyet savcıları arasından; bir asıl ve bir yedek üye,
-birinci sınıf askerî hâkimler arasından; savcı yardımcıları ise
-Cumhuriyet savcıları ve askerî hâkimler arasından özel kanunlarında
-gösterilen usule göre atanır.
-
-Devlet Güvenlik Mahkemesi Başkan, üye ve yedek üyeleri ile savcı ve
-savcı yardımcıları dört yıl için atanırlar, süresi bitenler yeniden
-atanabilirler.
+**(Değişik fıkra: 18/6/1999-4388/1 md.)** Başkan, iki asıl ve bir yedek
+üye ile Cumhuriyet başsavcısı, birinci sınıfa ayrılmış hâkim ve
+Cumhuriyet savcıları arasından; Cumhuriyet savcıları ise, diğer
+Cumhuriyet savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca
+özel kanununda gösterilen usule göre dört yıl için atanırlar; süresi
+bitenler yeniden atanabilirler.
 
 Devlet Güvenlik Mahkemeleri kararlarının temyiz mercii Yargıtaydır.
 
 Devlet Güvenlik Mahkemelerinin işleyişi, görev ve yetkileri ve yargılama
 usulleri ile ilgili diğer hükümler, kanunda gösterilir.
 
-Devlet Güvenlik Mahkemesinin yargı çevresine giren bölgelerde
-sıkıyönetim ilan edilmesi halinde, bu bölgelerle sınırlı olmak üzere
-kanunla belirlenen esaslara göre Devlet Güvenlik Mahkemesi, Sıkıyönetim
-Askeri Mahkemesine dönüştürülebilir.
+**(Mülga son fıkra: 18/6/1999-4388/1 md.)**
 
 *G. Hâkim ve savcıların denetimi*
 
@@ -3649,7 +3646,7 @@ Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
 
                          75                                                                                         İlk milletvekili genel seçiminin başlangıcı tarihinden itibaren
 
-                                                                                                                    
+  4388                   143                                                                                        18/6/1999
   ---------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
