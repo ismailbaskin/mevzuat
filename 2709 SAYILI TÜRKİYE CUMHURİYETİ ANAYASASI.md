@@ -1,4 +1,7 @@
-**7/5/2010 tarihli ve 5982 sayılı Kanun ile değişik hali**
+33
+
+Anayasa Mahkemesi’nin 7/7/2010 tarihli ve E.: 2010/49, K.: 2010/87
+sayılı Kararı ile değişik hali
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -2955,7 +2958,7 @@ hâkimlik teminatı esaslarına göre kanunla düzenlenir.
 
 *A. Anayasa Mahkemesi*
 
-*1. Kuruluşu *
+*1. Kuruluşu ^(1)^*
 
 **Madde 146  – (Değişik: 7/5/2010-5982/16 md.)**
 
@@ -2984,11 +2987,10 @@ raportörlük yapmış Anayasa Mahkemesi raportörleri arasından seçer.
 Yargıtay, Danıştay, Askerî Yargıtay, Askerî Yüksek İdare Mahkemesi ve
 Sayıştay genel kurulları ile Yükseköğretim Kurulundan Anayasa Mahkemesi
 üyeliğine aday göstermek için yapılacak seçimlerde, her boş üyelik için,
-bir üye ancak bir aday için oy kullanabilir; en fazla oy alan üç kişi
-aday gösterilmiş sayılır. Baro başkanlarının serbest avukatlar arasından
-gösterecekleri üç aday için yapılacak seçimde de her bir baro başkanı
-ancak bir aday için oy kullanabilir ve en fazla oy alan üç kişi aday
-gösterilmiş sayılır.
+(…) ^(1)^ en fazla oy alan üç kişi aday gösterilmiş sayılır. Baro
+başkanlarının serbest avukatlar arasından gösterecekleri üç aday için
+yapılacak seçimde (…) ^(1)^ en fazla oy alan üç kişi aday gösterilmiş
+sayılır.
 
 Anayasa Mahkemesine üye seçilebilmek için, kırkbeş yaşın doldurulmuş
 olması kaydıyla; yükseköğretim kurumları öğretim üyelerinin profesör
@@ -3004,7 +3006,7 @@ Süresi bitenler yeniden seçilebilirler.
 Anayasa Mahkemesi üyeleri aslî görevleri dışında resmi veya özel hiçbir
 görev alamazlar.
 
-*2. Üyelerin görev süresi ve üyeliğin sona ermesi ^(1)^*
+*2. Üyelerin görev süresi ve üyeliğin sona ermesi ^(2)^*
 
 **Madde 147 – (Değişik birinci fıkra: 7/5/2010-5982/17 md.)** Anayasa
 Mahkemesi üyeleri oniki yıl için seçilirler. Bir kimse iki defa Anayasa
@@ -3019,9 +3021,16 @@ görevini sağlık bakımından yerine getiremeyeceğinin kesin olarak
 anlaşılması halinde de, Anayasa Mahkemesi üye tamsayısının salt
 çoğunluğunun kararı ile sona erer.
 
-––––––––––––––––––
+–––––––––––––––––
 
-*(1) Bu maddenin kenar başlığı “2. Üyeliğin sona ermesi” iken, 7/5/2010
+*(1) Bu maddenin dördüncü fıkrasının birinci cümlesinde yer alan “… bir
+üye ancak bir aday için oy kullanabilir; …”  ibaresi, aynı fıkranın
+ikinci cümlesinde yer alan “… de her bir baro başkanı ancak bir aday
+için oy kullanabilir ve …” ibaresi, 1/8/2010 tarihli ve 27659 (Mükerrer)
+sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 7/7/2010 tarihli
+ve E.: 2010/49, K.: 2010/87 sayılı Kararı ile iptal edilmiştir. *
+
+*(2) Bu maddenin kenar başlığı “2. Üyeliğin sona ermesi” iken, 7/5/2010
 tarihli ve 5982 sayılı Kanunun 17 nci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
@@ -3317,19 +3326,18 @@ oluşur; üç daire halinde çalışır.
 
 Kurulun Başkanı Adalet Bakanıdır. Adalet Bakanlığı Müsteşarı Kurulun
 tabiî üyesidir. Kurulun, dört asıl üyesi, nitelikleri kanunda
-belirtilen; yükseköğretim kurumlarının hukuk, iktisat ve siyasal
-bilimler dallarında görev yapan öğretim üyeleri, üst kademe yöneticileri
-ile avukatlar arasından Cumhurbaşkanınca, üç asıl ve üç yedek üyesi
-Yargıtay üyeleri arasından Yargıtay Genel Kurulunca, iki asıl ve iki
-yedek üyesi Danıştay üyeleri arasından Danıştay Genel Kurulunca, bir
-asıl ve bir yedek üyesi Türkiye Adalet Akademisi Genel Kurulunca kendi
-üyeleri arasından, yedi asıl ve dört yedek üyesi birinci sınıf olup,
-birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş adlî yargı
-hâkim ve savcıları arasından adlî yargı hâkim ve savcılarınca, üç asıl
-ve iki yedek üyesi birinci sınıf olup, birinci sınıfa ayrılmayı
-gerektiren nitelikleri yitirmemiş idarî yargı hâkim ve savcıları
-arasından idarî yargı hâkim ve savcılarınca, dört yıl için seçilir.
-Süresi biten üyeler yeniden seçilebilir.
+belirtilen; yükseköğretim kurumlarının hukuk, (…) ^(1)^ dallarında görev
+yapan öğretim üyeleri, (…) ^(1)^ ile avukatlar arasından
+Cumhurbaşkanınca, üç asıl ve üç yedek üyesi Yargıtay üyeleri arasından
+Yargıtay Genel Kurulunca, iki asıl ve iki yedek üyesi Danıştay üyeleri
+arasından Danıştay Genel Kurulunca, bir asıl ve bir yedek üyesi Türkiye
+Adalet Akademisi Genel Kurulunca kendi üyeleri arasından, yedi asıl ve
+dört yedek üyesi birinci sınıf olup, birinci sınıfa ayrılmayı gerektiren
+nitelikleri yitirmemiş adlî yargı hâkim ve savcıları arasından adlî
+yargı hâkim ve savcılarınca, üç asıl ve iki yedek üyesi birinci sınıf
+olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş idarî
+yargı hâkim ve savcıları arasından idarî yargı hâkim ve savcılarınca,
+dört yıl için seçilir. Süresi biten üyeler yeniden seçilebilir. ^(1)^
 
 Kurul üyeliği seçimi, üyelerin görev süresinin dolmasından önceki altmış
 gün içinde yapılır. Cumhurbaşkanı tarafından seçilen üyelerin görev
@@ -3340,9 +3348,9 @@ boşalması halinde, asıl üyenin yedeği tarafından kalan süre tamamlanır.
 Yargıtay, Danıştay ve Türkiye Adalet Akademisi genel kurullarından
 seçilecek Kurul üyeliği için her üyenin, birinci sınıf adlî ve idarî
 yargı hâkim ve savcıları arasından seçilecek Kurul üyeliği için her
-hâkim ve savcının; ancak bir aday için oy kullanacağı seçimlerde, en
-fazla oy alan adaylar sırasıyla asıl ve yedek üye seçilir. Bu seçimler
-her dönem için bir defada ve gizli oyla yapılır.
+hâkim ve savcının; (…)^(1)^ oy kullanacağı seçimlerde, en fazla oy alan
+adaylar sırasıyla asıl ve yedek üye seçilir. Bu seçimler her dönem için
+bir defada ve gizli oyla yapılır. ^(1)^
 
 Kurulun, Adalet Bakanı ile Adalet Bakanlığı Müsteşarı dışındaki asıl
 üyeleri, görevlerinin devamı süresince; kanunda belirlenenler dışında
@@ -3403,7 +3411,7 @@ inceleme, denetleme ve hükme bağlama işlerini yapmakla görevlidir.
 Sayıştayın kesin hükümleri hakkında ilgililer yazılı bildirim tarihinden
 itibaren onbeş gün içinde bir kereye mahsus olmak üzere karar
 düzeltilmesi isteminde bulunabilirler. Bu kararlar dolayısıyla idarî
-yargı yoluna başvurulamaz. ^(1)^
+yargı yoluna başvurulamaz. ^(2)^
 
 Vergi, benzeri malî yükümlülükler ve ödevler hakkında Danıştay ile
 Sayıştay kararlan arasındaki uyuşmazlıklarda Danıştay kararları esas
@@ -3411,7 +3419,14 @@ alınır.
 
 **––––––––––––––––––––––**
 
-*(1)* *29/10/2005 tarihli ve 5428 sayılı Kanunun 2 nci maddesiyle, bu
+*(1) Bu maddenin üçüncü fıkrasının üçüncü cümlesinde yer alan “…iktisat
+ve siyasal bilimler …” ve “… üst kademe yöneticileri …” ibareleri ile
+aynı maddenin beşinci fıkrasının birinci cümlesinde yer alan “ … ancak
+bir aday için …” ibaresi, 1/8/2010 tarihli ve 27659 (Mükerrer) sayılı
+Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 7/7/2010 tarihli ve E.:
+2010/49, K.: 2010/87 sayılı Kararı ile iptal edilmiştir. *
+
+*(2)* *29/10/2005 tarihli ve 5428 sayılı Kanunun 2 nci maddesiyle, bu
 fıkrada yer alan “genel ve katma bütçeli dairelerin” ibaresi “merkezî
 yönetim bütçesi kapsamındaki kamu idareleri ile sosyal güvenlik
 kurumlarının” şeklinde değiştirilmiş ve metne işlenmiştir.*
@@ -3863,7 +3878,7 @@ Anayasanın 67 nci maddesinin son fıkrası 10/6/1983 tarihli ve 2839
 sayılı Milletvekili Seçimi Kanununun bağımsız adayların birleşik oy
 pusulasında yer almasına ilişkin hükümleri bakımından uygulanmaz.
 
-**Geçici Madde 18 – (Ek: 7/5/2010-5982/25 md.)**
+**Geçici Madde 18 – (Ek: 7/5/2010-5982/25 md.) ^(1)^**
 
 Bu Kanunun yürürlüğe girdiği tarihte Anayasa Mahkemesinin mevcut yedek
 üyeleri asıl üye sıfatını kazanır.
@@ -3879,8 +3894,8 @@ a\) Bu Kanunun yürürlüğe girdiği tarihten itibaren beş gün içinde,
 Sayıştay Başkanı adaylık başvurusunu ilan eder. İlan tarihinden itibaren
 beş gün içinde adaylar Başkanlığa başvurur. Başvuru tarihinin sona
 erdiği günden itibaren beş gün içinde Sayıştay Genel Kurulunca seçim
-yapılır. Her Sayıştay üyesinin ancak bir aday için oy kullanabileceği bu
-seçimde en fazla oy alan üç kişi aday gösterilmiş sayılır.
+yapılır. Her Sayıştay üyesinin (…) ^(1)^ oy kullanabileceği bu seçimde
+en fazla oy alan üç kişi aday gösterilmiş sayılır.
 
 b\) Bu Kanunun yürürlüğe girdiği tarihten itibaren beş gün içinde,
 Türkiye Barolar Birliği Başkanlığı adaylık başvurusunu ilan eder. İlan
@@ -3888,8 +3903,8 @@ tarihinden itibaren beş gün içinde adaylar Türkiye Barolar Birliği
 Başkanlığına başvurur. Başvuru tarihinin sona erdiği günden itibaren beş
 gün içinde Türkiye Barolar Birliği Başkanlığının ilanında gösterilen yer
 ve zamanda baro başkanları tarafından seçim yapılır. Her bir baro
-başkanının ancak bir aday için oy kullanabileceği bu seçimde, en fazla
-oy alan üç kişi aday gösterilmiş sayılır.
+başkanının (…) ^(1)^ oy kullanabileceği bu seçimde, en fazla oy alan üç
+kişi aday gösterilmiş sayılır.
 
 c\) (a) ve (b) bentleri uyarınca yapılan seçimlerin sonucunda aday
 gösterilmiş sayılanların isimleri seçimin yapıldığı günü takip eden gün
@@ -3922,39 +3937,49 @@ Bireysel başvuruya ilişkin gerekli düzenlemeler iki yıl içinde
 tamamlanır. Uygulama kanununun yürürlüğe girdiği tarihten itibaren
 bireysel başvurular kabul edilir.
 
-**Geçici Madde 19 – (Ek: 7/5/2010-5982/25 md.)**
+**Geçici Madde 19 – (Ek: 7/5/2010-5982/25 md.) ^(2)^**
 
 Bu Kanunun yürürlüğe girdiği tarihten itibaren otuz gün içinde aşağıda
 belirtilen esas ve usuller dahilinde Hâkimler ve Savcılar Yüksek Kurulu
 üyeleri seçilir:
 
 a\) Cumhurbaşkanı, hâkimlik mesleğine alınmasına engel bir hali olmayan;
-yükseköğretim kurumlarının hukuk, iktisat ve siyasal bilimler dallarında
-en az onbeş yıldan beri görev yapan öğretim üyeleri, üst kademe
-yöneticileri ile meslekte fiilen onbeş yılını doldurmuş avukatlar
-arasından dört üye seçer. Cumhurbaşkanı, üst kademe yöneticileri
-arasından seçeceği Kurul üyesini, bakanlık, müsteşarlık, müsteşar
-yardımcılığı, valilik, Cumhurbaşkanlığı Genel Sekreterliği, kamu kurum
-ve kuruluşlarında genel müdürlük veya teftiş kurulu başkanlığı
-görevlerini yapanlar arasından seçer.
+yükseköğretim kurumlarının hukuk, (…) ^(2)^ dallarında en az onbeş
+yıldan beri görev yapan öğretim üyeleri, (…) ^(2)^ ile meslekte fiilen
+onbeş yılını doldurmuş avukatlar arasından dört üye seçer. **(İptal
+ikinci cümle: Anayasa Mahkemesi’nin 7/7/2010 tarihli ve E.: 2010/49, K.:
+2010/87 sayılı Kararı ile.)**
+
+–––––––––––––––––
+
+*(1) Bu maddenin üçüncü fıkrasının (a) ve (b) bentlerinin son
+cümlelerinde yer alan “… ancak bir aday için…” ibareleri, 1/8/2010
+tarihli ve 27659 (Mükerrer) sayılı Resmi Gazete’de yayımlanan Anayasa
+Mahkemesi’nin 7/7/2010 tarihli ve E.: 2010/49, K.: 2010/87 sayılı Kararı
+ile iptal edilmiştir. *
+
+*(2) Bu maddenin birinci fıkrasının (a) bendinin birinci cümlesinde yer
+alan “… iktisat ve siyasal bilimler…” ve “… üst kademe yöneticileri…”
+ibareleri 1/8/2010 tarihli ve 27659 (Mükerrer) sayılı Resmi Gazete’de
+yayımlanan Anayasa Mahkemesi’nin 7/7/2010 tarihli ve E.: 2010/49, K.:
+2010/87 sayılı Kararı ile iptal edilmiştir.*
 
 b\) Yargıtay Genel Kurulu, Yargıtay üyeleri arasından üç asıl ve üç yedek
 üye seçer. Bu Kanunun yürürlüğe girdiği tarihten itibaren yedi gün
 içinde Yargıtay Birinci Başkanı adaylık başvurusunu ilan eder. İlan
 tarihinden itibaren yedi gün içinde adaylar Birinci Başkanlığa başvurur.
 Başvuru tarihinin sona erdiği günden itibaren onbeş gün içinde Yargıtay
-Genel Kurulu seçim yapar. Her Yargıtay üyesinin sadece bir aday için oy
+Genel Kurulu seçim yapar. Her Yargıtay üyesinin (…) ^(1)^ oy
 kullanabileceği seçimde, en fazla oy alan adaylar sırasıyla asıl ve
-yedek üye seçilmiş olur.
+yedek üye seçilmiş olur. ^(1)^
 
 c\) Danıştay Genel Kurulu, Danıştay üyeleri arasından iki asıl ve iki
 yedek üye seçer. Bu Kanunun yürürlüğe girdiği tarihten itibaren yedi gün
 içinde Danıştay Başkanı adaylık başvurusunu ilan eder. İlan tarihinden
 itibaren yedi gün içinde adaylar Başkanlığa başvurur. Başvuru tarihinin
 sona erdiği günden itibaren onbeş gün içinde Danıştay Genel Kurulu seçim
-yapar. Her Danıştay üyesinin sadece bir aday için oy kullanabileceği
-seçimde, en fazla oy alan adaylar sırasıyla asıl ve yedek üye seçilmiş
-olur.
+yapar. Her Danıştay üyesinin (…) ^(1)^ oy kullanabileceği seçimde, en
+fazla oy alan adaylar sırasıyla asıl ve yedek üye seçilmiş olur. ^(1)^
 
 ç) Türkiye Adalet Akademisi Genel Kurulu, kendi üyeleri arasından,
 Hâkimler ve Savcılar Yüksek Kuruluna bir asıl ve bir yedek üye seçer. Bu
@@ -3962,9 +3987,9 @@ Kanunun yürürlüğe girdiği tarihten itibaren yedi gün içinde Türkiye
 Adalet Akademisi Başkanı adaylık başvurusunu ilan eder. İlan tarihinden
 itibaren yedi gün içinde adaylar Başkanlığa başvurur. Başvuru tarihinin
 sona erdiği günden itibaren onbeş gün içinde Türkiye Adalet Akademisi
-Genel Kurulu seçim yapar. Her üyenin sadece bir aday için oy
-kullanabileceği seçimde, en fazla oy alan adaylar sırasıyla asıl ve
-yedek üye seçilmiş olur.
+Genel Kurulu seçim yapar. Her üyenin (…) ^(1)^ oy kullanabileceği
+seçimde, en fazla oy alan adaylar sırasıyla asıl ve yedek üye seçilmiş
+olur. ^(1)^
 
 d\) Yedi asıl ve dört yedek üye birinci sınıf olup, birinci sınıfa
 ayrılmayı gerektiren nitelikleri yitirmemiş olan adlî yargı hâkim ve
@@ -4029,6 +4054,14 @@ emeklilik hakkından aynen yararlanırlar. Ayrıca, Kurulun Başkanı
 dışındaki asıl üyelerine, (30000) gösterge rakamının memur aylıklarına
 uygulanan katsayı ile çarpımı sonucu bulunacak miktarda aylık ek
 tazminat ödenir.
+
+–––––––––––––––––
+
+*(1) Bu maddenin birinci fıkrasının (b), (c), (ç) bentlerinin son
+cümlelerinde yer alan “… sadece bir aday için…” ibareleri, 1/8/2010
+tarihli ve 27659 (Mükerrer) sayılı Resmi Gazete’de yayımlanan Anayasa
+Mahkemesi’nin 7/7/2010 tarihli ve E.: 2010/49, K.: 2010/87 sayılı Kararı
+ile iptal edilmiştir.*
 
 İlgili kanunlarda düzenleme yapılıncaya kadar, Hâkimler ve Savcılar
 Yüksek Kurulu;
@@ -4331,7 +4364,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
   5659                                                                            67, İşlenemeyen Hüküm                                                                                                                                                                   18/5/2007
 
-  5678 ^(1)^                                                                      77, 79, 96, 101, 102, İşlenemeyen Hüküm                                                                                                                                                 (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
+  5678 ^(1)^                                                                      77, 79, 96, 101, 102, İşlenemeyen Hüküm                                                                                                                                                 (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
 
   5735                                                                            10, 42, İşlenemeyen Hüküm                                                                                                                                                               23/2/2008
 
@@ -4345,12 +4378,14 @@ Cumhuriyeti Anayasasına eklenen geçici 18 ve 19 uncu maddeler,
 16/10/2007 tarihli ve 5697 sayılı Kanunla halkoylamasına sunulan
 metinden çıkarılmıştır.*
 
-  ----------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Değiştiren **                                                   **2709 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                          **Yürürlüğe Giriş Tarihi**
-                                                                                                                                                                                                                         
-  **Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**                                                                                                                                                        
+  ------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Değiştiren **                                                                                                           **2709 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                          **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                                                                                                                                                 
+  **Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**                                                                                                                                                                                                                
 
-  5982                                                              10, 20, 23, 41, 51, 53, 54, 74, 84, 94, 125, 128, 129, 144, 145, 146, 147,148, 149, 156, 157, 159, 166, Geçici Madde 15, 18, 19, İşlenemeyen Hüküm   (Bu Kanun 12/9/2010 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 23/9/2010 tarihli ve 27708 sayılı Resmi Gazete’de yayımlanmıştır.)
-  ----------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  5982                                                                                                                      10, 20, 23, 41, 51, 53, 54, 74, 84, 94, 125, 128, 129, 144, 145, 146, 147,148, 149, 156, 157, 159, 166, Geçici Madde 15, 18, 19, İşlenemeyen Hüküm   (Bu Kanun 12/9/2010 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 23/9/2010 tarihli ve 27708 sayılı Resmi Gazete’de yayımlanmıştır.)
+
+  [[]{#OLE_LINK1 .anchor}]{#OLE_LINK2 .anchor}Anayasa Mah.’nin 7/7/2010 tarihli ve E.: 2010/49, K.: 2010/87 sayılı Kararı   146, 159, Geçici Madde 18, 19                                                                                                                        1/8/2010
+  ------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
