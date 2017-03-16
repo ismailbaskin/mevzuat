@@ -1,4 +1,4 @@
-**5348 sayılı Kanun ile değişik hali**
+**5560 sayılı Kanun ile değişik hali**
 
 **KABAHATLER** **KANUNU**
 
@@ -43,12 +43,21 @@ yaptırım uygulanmasını öngördüğü haksızlık anlaşılır.
 
 **Genel kanun niteliği **
 
-**MADDE 3.-** (1) Bu Kanunun genel hükümleri diğer kanunlardaki
-kabahatler hakkında da uygulanır.
+**MADDE 3-** **(Değişik: 6/12/2006-5560/31 md.)**
+
+\(1) Bu Kanunun;
+
+a\) İdarî yaptırım kararlarına karşı kanun yoluna ilişkin hükümleri,
+diğer kanunlarda aksine hüküm bulunmaması halinde,
+
+b\) Diğer genel hükümleri, idarî para cezası veya mülkiyetin kamuya
+geçirilmesi yaptırımını gerektiren bütün fiiller hakkında,
+
+uygulanır.
 
 **Kanunîlik ilkesi **
 
-**MADDE 4.-** (1) Hangi fiillerin kabahat oluşturduğu, kanunda açıkça
+**MADDE 4-** (1) Hangi fiillerin kabahat oluşturduğu, kanunda açıkça
 tanımlanabileceği gibi; kanunun kapsam ve koşulları bakımından
 belirlediği çerçeve hükmün içeriği, idarenin genel ve düzenleyici
 işlemleriyle de doldurulabilir.
@@ -195,18 +204,36 @@ de belirlenebilir. Bu durumda, idarî para cezasının miktarı
 belirlenirken işlenen kabahatin haksızlık içeriği ile failin kusuru ve
 ekonomik durumu birlikte göz önünde bulundurulur.
 
-\(3) İdarî para cezası, Devlet Hazinesine ödenir. Kişinin ekonomik
-durumunun müsait olmaması halinde idarî para cezasının, ilk taksidinin
+\(3) **(Değişik: 6/12/2006-5560/32 md.)** 10/12/2003 tarihli ve 5018
+sayılı Kamu Mali Yönetimi ve Kontrol Kanununa ekli (I), (II) ve (III)
+sayılı cetvellerde yer alan kamu idareleri tarafından verilen idarî para
+cezalarının ilgili kanunlarında 1/6/2005 tarihinden sonra belirlenen
+oranın dışındaki kısmı ile Cumhuriyet başsavcılıkları ve mahkemeler
+tarafından verilen idarî para cezaları Genel Bütçeye gelir kaydedilir.
+Sosyal güvenlik kurumları ile mahalli idareler tarafından verilen idarî
+para cezaları kendi bütçelerine gelir kaydedilir. Diğer kamu kurum ve
+kuruluşları tarafından verilen idarî para cezaları ise, ilgili
+kanunlarındaki hükümler saklı kalmak kaydıyla, Genel Bütçeye gelir
+kaydedilir. Kamu kurumu niteliğindeki meslek kuruluşlarının verdiği para
+cezaları, kendi kanunlarındaki hükümlere tâbidir. Kişinin ekonomik
+durumunun müsait olmaması halinde, idarî para cezasının, ilk taksitinin
 peşin ödenmesi koşuluyla, bir yıl içinde ve dört eşit taksit halinde
 ödenmesine karar verilebilir. Taksitlerin zamanında ve tam olarak
-ödenmemesi halinde idarî para cezasının kalan kısmının tamamı tahsil
+ödenmemesi halinde, idarî para cezasının kalan kısmının tamamı tahsil
 edilir.
 
-\(4) Kesinleşen karar, derhal tahsil için mahallin en büyük mal memuruna
-verilir. İdarî para cezası, 21.7.1953 tarihli ve 6183 sayılı Amme
-Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil
-edilir. Tahsil edilen idarî para cezasının kanunla belirlenen bir oranı,
-ilgili kamu kurum ve kuruluşunun hesabına aktarılır.
+\(4) **(Değişik: 6/12/2006-5560/32 md.)** Genel Bütçeye gelir
+kaydedilmesi gereken idarî para cezalarına ilişkin kesinleşen kararlar,
+21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
+Hakkında Kanun hükümlerine göre tahsil edilmek üzere Maliye Bakanlığınca
+belirlenecek tahsil dairelerine gönderilir. Sosyal güvenlik kurumları ve
+mahalli idareler tarafından verilen idarî para cezaları, ilgili
+kanunlarında aksine hüküm bulunmadığı takdirde, Amme Alacaklarının
+Tahsil Usulü Hakkında Kanun hükümlerine göre kendileri tarafından tahsil
+olunur. Diğer kamu kurum ve kuruluşları tarafından verilen ve Genel
+Bütçeye gelir kaydedilmesi gerekmeyen idarî para cezaları, ilgili
+kanunlarında özel hüküm bulunmadığı takdirde genel hükümlere göre tahsil
+olunur.
 
 \(5) İdarî para cezası tamamen tahsil edildikten itibaren en geç bir ay
 içinde durum, ilgili kamu kurum ve kuruluşuna bildirilir.
@@ -283,7 +310,7 @@ hükümlerine uygun değişiklik yapılıncaya kadar saklıdır.
 **MADDE 20-** (1) Soruşturma zamanaşımının dolması halinde kabahatten
 dolayı kişi hakkında idarî para cezasına karar verilemez.
 
-\(2) Soruşturma zamanaşımı süresi;
+\(2) **(Değişik: 6/12/2006-5560/33 md.)** Soruşturma zamanaşımı süresi;
 
 a\) Yüzbin Türk Lirası veya daha fazla idarî para cezasını gerektiren
 kabahatlerde beş,
@@ -291,13 +318,10 @@ kabahatlerde beş,
 b\) Ellibin Türk Lirası veya daha fazla idarî para cezasını gerektiren
 kabahatlerde dört,
 
-c\) Yirmibin Türk Lirası veya daha fazla idarî para cezasını gerektiren
+c\) Ellibin Türk Lirasından az idarî para cezasını gerektiren
 kabahatlerde üç,
 
-d\) Yirmibin Türk Lirasına kadar idarî para cezasını gerektiren
-kabahatlerde iki,
-
-Yıldır.
+yıldır.
 
 \(3) Nispî idarî para cezasını gerektiren kabahatlerde zamanaşımı süresi
 sekiz yıldır.
@@ -433,10 +457,28 @@ karara karşı ileri sürülen deliller açık bir şekilde gösterilir.
 Dilekçede ayrıca, başvurunun süresinde yapılmasını engelleyen mücbir
 sebep dayanaklarıyla gösterilir.
 
-\(5) İdarî yaptırım kararının mahkeme tarafından verilmesi halinde bu
-madde hükmü uygulanmaz.
+\(5) **(Değişik: 6/12/2006-5560/34 md.)** İdarî yaptırım kararının
+mahkeme tarafından verilmesi halinde, bu karara karşı ancak itiraz
+yoluna gidilebilir.
 
-**Başvurunun incelenmesi **
+\(6) **(Ek: 6/12/2006-5560/34 md.)** Soruşturma konusu fiilin suç değil
+de kabahat oluşturduğu gerekçesiyle idarî yaptırım kararı verilmesi
+halinde; kovuşturmaya yer olmadığı kararına itiraz edildiği takdirde,
+idarî yaptırım kararına karşı başvuru da bu itiraz merciinde incelenir.
+
+\(7) **(Ek: 6/12/2006-5560/34 md.)** Kovuşturma konusu fiilin suç değil
+de kabahat oluşturduğu gerekçesiyle idarî yaptırım kararı verilmesi
+halinde; fiilin suç oluşturmaması nedeniyle verilen beraat kararına
+karşı kanun yoluna gidildiği takdirde, idarî yaptırım kararına karşı
+itiraz da bu kanun yolu merciinde incelenir.
+
+\(8) **(Ek: 6/12/2006-5560/34 md.)** İdarî yaptırım kararının verildiği
+işlem kapsamında aynı kişi ile ilgili olarak idarî yargının görev
+alanına giren kararların da verilmiş olması halinde; idarî yaptırım
+kararına ilişkin hukuka aykırılık iddiaları bu işlemin iptali talebiyle
+birlikte idarî yargı merciinde görülür.
+
+**Başvurunun incelenmesi ^(1)^**
 
 **MADDE 28-** (1) Başvuru üzerine mahkemece yapılan ön inceleme
 sonucunda;
@@ -495,8 +537,14 @@ kaldırılmasına",
 
 Karar verir.
 
-\(9) İkibin Türk Lirası dahil idarî para cezalarına karşı başvuru üzerine
-verilen kararlar kesindir.
+\(9) **(Ek: 6/12/2006-5560/35 md.)** İdarî para cezasının alt ve üst
+sınırının kanunda gösterildiği kabahatler dolayısıyla verilmiş idarî
+para cezasına karşı başvuruda bulunulması halinde, mahkeme idarî para
+cezasının miktarında değişiklik yaparak da başvurunun kabulüne karar
+verebilir. ^(1)^
+
+\(10) İkibin Türk Lirası dahil idarî para cezalarına karşı başvuru
+üzerine verilen kararlar kesindir. ^(1)^
 
 **İtiraz yolu **
 
@@ -532,6 +580,12 @@ başvurulması harca tâbi değildir.
 
 \(2) Kanun yoluna başvuru dolayısıyla oluşan bütün masraflar ve vekalet
 ücreti, başvurusu veya savunması reddedilen tarafça ödenir.
+
+–––––––––––––––––––––
+
+*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 35 inci maddesiyle, bu
+maddeye sekizinci fıkradan sonra gelmek üzere dokzuncu fıkra eklenmiş ve
+diğer fıkra numarası buna göre teselsül ettirilmiştir.*
 
 **İKİNCİ KISIM**
 
@@ -729,11 +783,12 @@ cezası verilir.
 \(1) 4.1.1961 tarihli ve 213 sayılı Vergi Usul Kanununda yer alan vergi
 mahkemelerinin görevine ilişkin hükümler saklıdır.
 
-**GEÇİCİ MADDE 1-** (1) Bu Kanunda geçen "Türk Lirası" ibaresi
-karşılığında, uygulamada, 28.1.2004 tarihli ve 5083 sayılı Türkiye
-Cumhuriyeti Devletinin Para Birimi Hakkında Kanun hükümlerine göre
-ülkede tedavülde bulunan para "Yeni Türk Lirası" olarak adlandırıldığı
-sürece bu ibare kullanılır.
+**GEÇİCİ MADDE 1-** (1) Bu Kanunda ve 1 Haziran 2005 tarihinden sonra
+yürürlüğe giren diğer kanunlardaki idarî para cezaları ile ilgili olarak
+geçen "Türk Lirası" ibaresi karşılığında, uygulamada, 28.1.2004 tarihli
+ve 5083 sayılı Türkiye Cumhuriyeti Devletinin Para Birimi Hakkında Kanun
+hükümlerine göre ülkede tedavülde bulunan para "Yeni Türk Lirası" olarak
+adlandırıldığı sürece bu ibare kullanılır. ^(1)^
 
 **GEÇİCİ MADDE 2-** (1) Bu Kanun hükümleri, yürürlüğe girdiği tarih
 itibarıyla idare mahkemelerinde dava açılarak iptali istenen idarî
@@ -748,6 +803,7 @@ sulh ceza mahkemesine başvuruda bulunulabilir.
 **Yürürlük**
 
 **MADDE 44**- (1) Bu Kanun 1 Haziran 2005 tarihinde yürürlüğe girer.
+^(2)^
 
 **Yürütme**
 
@@ -755,7 +811,12 @@ sulh ceza mahkemesine başvuruda bulunulabilir.
 
 –––––––––––––––––
 
-*(1) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
+*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 36 ncı maddesiyle, bu
+maddede yer alan, "Bu Kanunda" ibaresinden sonra gelmek üzere "ve 1
+Haziran 2005 tarihinden sonra yürürlüğe giren diğer kanunlardaki idarî
+para cezaları ile ilgili olarak" ibaresi eklenmiştir.*
+
+*(2) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
 5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde
 değiştirilmiştir.*
 
@@ -770,6 +831,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5326 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5328                                                                         44                                                            31/3/2005
   5348                                                                         EK MADDE 1                                                    18/5/2005
+  5560                                                                         3, 17, 20, 27, 28, GEÇİCİ MADDE 1                             19/12/2006
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
