@@ -1,4 +1,4 @@
-**6462 sayılı Kanun ile değişik hali **
+**6496 sayılı Kanun ile değişik hali**
 
  
 
@@ -180,7 +180,7 @@ başlangıcına kadar geçen süredir.
 muvazzaflık hizmeti süresi; Kara, Deniz, Hava Kuvvetleri ile Jandarma
 Genel Komutanlığında on sekiz aydır. Bu sürenin, barışta, önce on beş
 aya ve bilahare on iki aya kadar indirilmesine, Silahlı Kuvvetlerin de
-ihtiyacı dikkate alınarak, Bakanlar Kurulunca karar verilebilir.
+ihtiyacı dikkate alınarak, Bakanlar Kurulunca karar verilebilir.^(1)^
 
              **(Ek: 21/7/1999 - 4414/2 md.)** 1076 sayılı Kanun hükmüne
 tabi yükümlülerden; bu yükümlülüklerini istekleriyle veya seçim sonucu
@@ -225,6 +225,16 @@ evvel o yıl silah altına alınacak miktar, kaynak olarak Milli Savunma
 Bakanlığınca tespit edilerek Genelkurmay Başkanlığına bildirilir.
 Genelkurmay Başkanlığı da Türk Silahlı Kuvvetlerinin ihtiyaç miktarını
 tespit ederek Milli Savunma Bakanlığına bildirir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 21/10/2013 tarihli ve 2013/5501 sayılı Bakanlar Kurulu Kararı ile
+bu fıkrada yer alan Kara, Deniz ve Hava Kuvvetleri ile Jandarma Genel
+Komutanlığı ve Sahil Güvenlik Komutanlığında 1111 sayılı Askerlik
+Kanununa tabi yükümlülerin muvazzaf askerlik hizmet süresinin, 1/1/2014
+tarihinden geçerli olmak üzere, silah altındaki yükümlüleri de
+kapsayacak şekilde, erbaş ve erler için 15 aydan 12 aya indirilmesi
+kararlaştırılmıştır.*
 
 834
 
@@ -1228,7 +1238,7 @@ fıkrada yer alan “çürüklükleri” ve “çürüklük” ibareleri sıras�
 “askerliğe elverişli olmadıkları” ve “askerliğe elverişli olmadığı”
 şeklinde değiştirilmiştir.
 
-*849*
+849
 
 verenler ahvali askeriyelerinin tetkikına devam olunmak üzere
 seyahatlerinde serbest bırakılır. Hüviyeti sabit olmadığı gibi kefaleti
@@ -1260,16 +1270,18 @@ gün olarak hesap edilir ve bu izin süresi muvazzaflık hizmetinden
 sayılır. Bir yıl içerisinde verilen izin sürelerinin toplamı otuz günü
 geçemez. Muvazzaflık hizmetini yerine getirmek üzere kıt'a veya
 kurumlara katılmış olan erbaş ve erlere acemi eğitimini bitirmedikçe ve
-cezalılara ceza süresini tamamlamadıkça izin verilmez.Yılda otuz günden
-fazla izin ile acemi eğitimini tamamlamamış bulunan yükümlülerden
-fevkalade özürleri olduğu anlaşılanlara izin verebilmek hakkı asgari
-tugay komutanlığına (Deniz ve Hava Kuvvetlerinde eşidi) aittir. İzin ve
-hava değişimine gönderilecek olan erbaş ve erlerin ne kadar izinli veya
-hava değişimli olduklarını gösterir kıt'a komutanlığı veya askeri kurum
-amirliğince ellerine belge verildiği gibi ayrıca bu husus askerlik
-şubelerine yazılır ve şubeler de bu gibileri izinli ve hava değişimli
-defterlerine kaydederler ve süreleri sona erdiğinde kıtalarına sevk
-olunmalarını sağlarlar.
+cezalılara ceza süresini tamamlamadıkça izin verilmez. **(Değişik
+dördüncü cümle: 13/7/2013-6496/7 md.)**Yılda otuz günden fazla izin ile
+acemi eğitimini tamamlamamış bulunan yükümlülerden fevkalade özürleri
+olduğu anlaşılanlara izin verebilmek hakkı asgari alay ve eşiti
+komutanlığına (Deniz ve Hava Kuvvetleri ile Jandarma Genel Komutanlığı
+ve Sahil Güvenlik Komutanlığında eşiti) aittir. İzin ve hava değişimine
+gönderilecek olan erbaş ve erlerin ne kadar izinli veya hava değişimli
+olduklarını gösterir kıt'a komutanlığı veya askeri kurum amirliğince
+ellerine belge verildiği gibi ayrıca bu husus askerlik şubelerine
+yazılır ve şubeler de bu gibileri izinli ve hava değişimli defterlerine
+kaydederler ve süreleri sona erdiğinde kıtalarına sevk olunmalarını
+sağlarlar.
 
 Acemi eğitimini tamamlayanlara kanuni izinlerinden sayılmak üzere, yol
 dahil on güne kadar izin verilebilir.
@@ -1345,18 +1357,40 @@ değiştirilmiştir.
 
 Firar ve izinsizler
 
-**Madde 79 –** Firarların kaçtıkları tarih ve üzerlerinde ne gibi eşya
-ve teçhizat götürdükleri mensup oldukları kıta ve müessese kumandanları
-tarafından askerlik şubelerine yazılır. Şubeler de gelen haberler
-üzerine bunları firar defterine yazarak elde edilmeleri için mahalli
-Hükümetine veya sair icap edenlere bildirir.
+**Madde 79 – (Değişik: 13/7/2013-6496/8 md.)**
+
+Firar, izin veya hava değişimi tecavüzünde olan yükümlüler hakkında
+tanzim edilen suç dosyası, suçun oluşması için öngörülen sürelerin
+geçmesini müteakip, birlik veya kurum amirliklerince adli yönden bağlı
+bulunulan askerî mahkemenin teşkilatında kurulduğu kıta komutanlığı veya
+askerî kurum amirliğine derhal gönderilir. Hazırlanan suç dosyasında
+yükümlülerin kaçtıkları tarih ile üzerlerinde götürdükleri eşya ve
+teçhizat belirtilir. Yapılan bu işlemler ayrıca kayıtlı oldukları
+askerlik şubelerine bildirilir. Askerlik şubelerince yükümlülerin
+adreslerine bilgilendirme amaçlı yazı gönderilir
 
 **Madde 80 – (Değişik: 20/11/1935 - 2850/1 md.)**
 
-Kıt'a ve müesseselerden kaçan veya aldıkları izin ve tebdilihava
-müddetini geçiren erbaş ve er kıt'a ve şubelerce ele geçirilinceye kadar
-aranır ve elde edilenler nezaret altında kıt'alarına sevkedilmek üzere
-mahalli hükümetine teslim olunur.
+**(Değişik: 13/7/2013-6496/9 md.)** Firar, izin veya hava değişimi
+tecavüzünde olan yükümlülerden haklarında adli makamlarca çıkarılmış
+yakalama kararları olanlar, ele geçirilinceye kadar kolluk kuvvetlerince
+aranır. Yakalananlar hakkında ilgili adli makamın talimatı doğrultusunda
+işlem yapılır.
+
+**(Ek: 13/7/2013-6496/9 md.)** Haklarında adli makamlarca çıkarılmış
+yakalama kararı olmayanlardan kendiliğinden gelen ya da kolluk
+kuvvetleri tarafından askerlik şubelerine teslim edilenler, yol ve iaşe
+bedelleri ödenerek serbest olarak birlik ve kurumlarına sevk edilirler.
+
+**(Ek: 13/7/2013-6496/9 md.)** Terörle mücadele görevi sırasında veya bu
+görevinden dolayı alıkonulan veya kaybolan er ve erbaşların yeniden
+birliklerine dönmeleri hâlinde durumları, mensup oldukları kuvvet
+komutanlıklarınca teşkil edilecek kurul tarafından incelenir. Kaçırılma
+veya kaybolma ile ilgili olarak kusurlu görülenler hakkında soruşturma
+dosyası tanzim edilerek yetkili makamlara intikal ettirilir. Kurul
+tarafından kusursuz görülenler ile haklarında kovuşturmaya yer olmadığı
+veya beraat kararı verilenlerin birliklerinden ayrı geçirdiği süreler
+hizmetten sayılır ve ödenmemiş özlük hakları ödenir.
 
 **(Değişik ikinci fıkra: 31/1/2013-6413/45 md.)** Firar ve izinsiz
 olarak geçen müddetler, herhangi bir mahkemenin hükmettiği hapis
@@ -1725,8 +1759,6 @@ Kararının 1 inci maddesi ile bu madde uyarınca dövizle askerlik hizmeti
 yükümlüleri tarafından ödenmesi gereken 10.000 Avro tutarındaki döviz
 miktarı 6.000 Avro olarak yeniden belirlenmiştir.*
 
-*.*
-
 855
 
  
@@ -1842,69 +1874,110 @@ yardımı ödenmez.
 
 856-1
 
- 
+Tedavisi devam edenlerden;
 
-             Tedavisi devam edenlerden;
-
-             a) 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti
-Emekli Sandığı Kanununun mülga 45 inci maddesi kapsamında vazife malûlü
-ya da mülga 64 üncü maddesi kapsamında harp malûlü aylığı bağlananlar
-ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
-Sigortası Kanununun 47 nci maddesi kapsamında vazife/harp malûlü aylığı
+a\) 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı
+Kanununun mülga 45 inci maddesi kapsamında vazife malûlü ya da mülga 64
+üncü maddesi kapsamında harp malûlü aylığı bağlananlar ile 31/5/2006
+tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununun 47 nci maddesi kapsamında vazife/harp malûlü aylığı
 bağlananlara aylık bağlanma tarihini takip eden aybaşından itibaren,
 
-             b) Malûllük durumu oluşmaksızın tedavisi kesin işlemli
-sağlık kurulu raporu ile sonlandırılanlara, raporunu takip eden
-aybaşından itibaren,
+b\) Malûllük durumu oluşmaksızın tedavisi kesin işlemli sağlık kurulu
+raporu ile sonlandırılanlara, raporunu takip eden aybaşından itibaren,
 
-             sağlık yardımı ödenmesi sonlandırılır. Tedavi süresinde
-yapılan sağlık yardımı personelden tahsil edilmez.
+sağlık yardımı ödenmesi sonlandırılır. Tedavi süresinde yapılan sağlık
+yardımı personelden tahsil edilmez.
 
-             **Ek Madde 7 – (Ek: 5/2/2011-6109/1 md.)**
+**Ek Madde 7 – (Ek: 5/2/2011-6109/1 md.)**
 
-**            ** Emniyet Teşkilatı kadrolarında kadro ve/veya rütbeleri
-ile ilişkisi devam eden Emniyet Hizmetleri Sınıfına mensup personel ile
-polis eğitim ve öğretim kurumlarında öğrenim görenler veya bu kurumların
-giriş sınavlarını kazananlardan askerlik hizmetini yapmamış olanların
-her türlü askerlik işlemleri ertelenir.
+Emniyet Teşkilatı kadrolarında kadro ve/veya rütbeleri ile ilişkisi
+devam eden Emniyet Hizmetleri Sınıfına mensup personel ile polis eğitim
+ve öğretim kurumlarında öğrenim görenler veya bu kurumların giriş
+sınavlarını kazananlardan askerlik hizmetini yapmamış olanların her
+türlü askerlik işlemleri ertelenir.
 
-             Birinci fıkra kapsamındakilerden, Emniyet Teşkilatında on
-yıllık hizmet süresini, memuriyetten sayılmayacak haller hariç olmak
-üzere tamamlayanlar, askerliklerine karar alınmasını müteakip askerlik
+Birinci fıkra kapsamındakilerden, Emniyet Teşkilatında on yıllık hizmet
+süresini, memuriyetten sayılmayacak haller hariç olmak üzere
+tamamlayanlar, askerliklerine karar alınmasını müteakip askerlik
 hizmetini yerine getirmiş sayılır. Geçici süreli görevlendirmeler, yurt
 dışı misyon koruma, yurt dışında eğitim ve diğer görevler sebebiyle
 geçirilen süreler de on yıllık hizmet süresinin hesabında dikkate
 alınır. Bu yükümlüler ile ilgili bilgiler, İçişleri Bakanlığınca Milli
 Savunma Bakanlığına bildirilir.
 
-             On yıllık süre, polis eğitim ve öğretim kurumlarından mezun
-olarak fiilen göreve başlanılan tarihte başlar. On yıllık süreyi
-tamamlamadan herhangi bir nedenle Emniyet Teşkilatından ayrılan, başka
-kuruma nakledilen veya bu süre içinde meslekten ilişiği kesilen
-personel, ilgili kanun hükümlerine göre askerlik hizmetini yerine
-getirir.
+On yıllık süre, polis eğitim ve öğretim kurumlarından mezun olarak
+fiilen göreve başlanılan tarihte başlar. On yıllık süreyi tamamlamadan
+herhangi bir nedenle Emniyet Teşkilatından ayrılan, başka kuruma
+nakledilen veya bu süre içinde meslekten ilişiği kesilen personel,
+ilgili kanun hükümlerine göre askerlik hizmetini yerine getirir.
 
-             Seferberlik ve savaş hallerinde bu maddenin birinci ve
-ikinci fıkra hükümleri uygulanmaz.
+Seferberlik ve savaş hallerinde bu maddenin birinci ve ikinci fıkra
+hükümleri uygulanmaz.
 
-             **Geçici Madde 1 – (Ek: 27/7/1970 - 1315/2 md.)**
+**Ek Madde 8 – (Ek: 13/7/2013-6496/10 md.)**
 
-             Bu Kanunun yürürlüğe girdiği tarihten evvel sakata ayrılmış
-olanlar askere alınmazlar ve askerde olanlar terhis edilirler.
+Bu Kanun kapsamında askerlik yükümlülüğünü yerine getirenlere; askerliğe
+sevk edildiği tarihten, askerlik hizmet süresinin bitiş tarihine kadar
+ölenler ile sakatlanma sebebiyle süresinden önce terhis edilenlerden
+veya süresinde terhis edilmiş olsa bile yapılan tedaviye rağmen
+askerliğe elverişsiz hâle gelecek şekilde sakatlanmış olanlardan, 5434
+sayılı Kanun veya 5510 sayılı Kanun kapsamında aylık bağlanmaması veya
+3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması
+Hakkında Kanun gereğince tazminat ödenmemesi kaydıyla; ölenlerin dul ve
+yetimlerine (400.000) gösterge rakamının, sakatlananlara ise Vazife
+Malullüklerinin Nevileri ile Dereceleri Hakkında Nizamname hükümlerine
+göre tespit edilecek sakatlık derecelerine göre aşağıda belirlenen
+gösterge rakamlarının memur maaş katsayısı ile çarpımı sonucunda
+bulunacak miktar kadar, bir defaya mahsus olmak üzere tazminat ödenir.
 
-             **Geçici Madde 2 – (Ek: 27/7/1970 - 1315/2 md.)**
+Ancak, söz konusu olayların gerçekleştiği tarihte bakaya, firar, izin
+tecavüzü, hava değişimi tecavüzünde bulunanlar ile kendini askerliğe
+yaramayacak hâle getirmek ve askerlikten kurtulmak için hile kullanmak
+suçundan hüküm giyenlerin, suça konu eylemleri sonucu ölüm ve sakatlanma
+nedeniyle ve intihar sonucu meydana gelen ölüm ve sakatlanma olaylarında
+bu ödeme yapılmaz. Bu tazminattan damga vergisi dışında herhangi bir
+vergi ve kesinti yapılmaz ve bu tazminat haczedilemez. Tazminatın
+ödenmesine ilişkin usul ve esaslar İçişleri ve Millî Savunma
+bakanlıkları tarafından müştereken hazırlanan yönetmelikle düzenlenir.
 
-             Bu Kanunun yürürlüğe girdiği tarihten evvel son yoklama
-sırasında arızalı sağlam olarak ayrılanlardan henüz askere sevk
-edilmiyenler ile halen muvazzaflık hizmetini yapmakta olanlar yeniden
-muayeneye tabi tutulurlar.
+  --------------------- --------------------------------
+  *Sakatlık Derecesi*   *Ödenecek Tazminat Göstergesi*
+  1                     400.000
+  2                     360.000
+  3                     330.000
+  4                     300.000
+  5                     270.000
+  6                     240.000
+  --------------------- --------------------------------
 
-             Bunlardan Türk Silahlı Kuvvetleri Beden Kabiliyeti
-Yönetmeliği gereğince askerliğe elverişli olamadıkları anlaşılan
-muvazzaf  erat terhis edilir ve halen askere sevk edilmiyenler askere
-alınmazlar.
+856-2
 
- 
+**Ek Madde 9-(Ek: 13/7/2013-6496/11 md.)**
+
+İlgili mevzuat hükümlerine uygun olarak alınmış bir diploma, sertifika
+veya ehliyet gibi belgelere sahip olan, bu Kanun hükümlerine göre silah
+altına alınan ve askerlik yükümlülüğünü yerine getirmekte olan erbaş ve
+erler, özel kanunlarda belirtilen koşullara uyulması şartıyla, asgari
+alay komutanı ve eşiti komutanın onayı ile bu belgelerin kendilerine
+verdiği yetki kapsamındaki görevlerde çalıştırılabilir, mesleki
+hizmetlerin yürütülmesinde görevlendirilebilir.
+
+**Geçici Madde 1 – (Ek: 27/7/1970 - 1315/2 md.)**
+
+Bu Kanunun yürürlüğe girdiği tarihten evvel sakata ayrılmış olanlar
+askere alınmazlar ve askerde olanlar terhis edilirler.
+
+**Geçici Madde 2 – (Ek: 27/7/1970 - 1315/2 md.)**
+
+Bu Kanunun yürürlüğe girdiği tarihten evvel son yoklama sırasında
+arızalı sağlam olarak ayrılanlardan henüz askere sevk edilmiyenler ile
+halen muvazzaflık hizmetini yapmakta olanlar yeniden muayeneye tabi
+tutulurlar.
+
+Bunlardan Türk Silahlı Kuvvetleri Beden Kabiliyeti Yönetmeliği gereğince
+askerliğe elverişli olamadıkları anlaşılan muvazzaf erat terhis edilir
+ve halen askere sevk edilmiyenler askere alınmazlar.
 
 857
 
@@ -3133,26 +3206,10 @@ Madde 2                                     
   **6336**                                                                     **77**                                                                                                                                                                                                                                 **30/6/2012**
   **6413**                                                                     **77, 80, Geçici Madde 51**                                                                                                                                                                                                            **16/2/2013**
   **6462**                                                                     **67, 68, Geçici Madde 46**                                                                                                                                                                                                            **3/5/2013**
-  **8/7/2013 tarihli ve 2013/5048 sayılı Bakanlar Kurulu Kararı**              **Ek Madde 1**                                                                                                                                                                                                                         **20/7/2013**
+  **6496**                                                                     **77, 79, 80, Ek madde 8, Ek Madde 9**                                                                                                                                                                                                 **31/7/2013**
   ---------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
 
                 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
