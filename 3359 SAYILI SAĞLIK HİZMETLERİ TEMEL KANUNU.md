@@ -1,4 +1,4 @@
-**6462 sayılı Kanun ile değişik hali**
+**6514 sayılı Kanun ile değişik hali**
 
  
 
@@ -42,23 +42,23 @@ kamu ve özel bütün sağlık kurum ve kuruluşlarının kurulması ve
 işletilmesinde kaynak israfı ve atıl kapasiteye yol açılmaksızın
 gerektiğinde hizmet satın alınarak kaliteli hizmet arzı ve verimliliği
 esas alınır. Sağlık ve Sosyal Yardım Bakanlığı ilgili Bakanlığın
-muvafakatını alarak,kamu ve özel bütün sağlık kurum ve kuruluşlarına
+muvafakatını alarak, kamu ve özel bütün sağlık kurum ve kuruluşlarına
 koruyucu sağlık hizmeti görevi verir ve bu kurum ve kuruluşların bütün
 sağlık hizmetlerini denetler.
 
              c) Bütün sağlık kurum ve kuruluşları ile sağlık
 personelinin ülke sathında dengeli dağılımı ve yaygınlaştırılması
-esastır.Sağlık kurum ve kuruluşlarının kurulması ve işletilmesi bu esas
+esastır. Sağlık kurum ve kuruluşlarının kurulması ve işletilmesi bu esas
 içerisinde Sağlık ve Sosyal Yardım Bakanlığınca düzenlenir. Bu düzenleme
 ilgili Bakanlığın görüşü alınarak yapılır. Gerek görüldüğünde özel
 sağlık kuruluşlarının her türlü ücret tarifeleri sağlık ve Sosyal Yardım
-Bakanlığınca onaylanır.Kamu kurum ve kuruluşlarına ait sağlık
+Bakanlığınca onaylanır. Kamu kurum ve kuruluşlarına ait sağlık
 kuruluşları veya sağlık işletmelerinde verilen her türlü hizmetin
 fiyatları Sağlık ve Sosyal Yardım Bakanlığınca tespit ve ilan edilir.
 
              d) **(Mülga: 31/5/2006-5510/106 md.)**
 
-             e) Tesis edilecek eğitim,denetim, değerlendirme ve oto
+             e) Tesis edilecek eğitim, denetim, değerlendirme ve oto
 kontrol sistemi ile sağlık kuruluşlarının tespit edilen standart ve
 esaslar içinde hizmet vermesi sağlanır.
 
@@ -358,12 +358,17 @@ yerine geçer.
 
 Eş durumu ve sağlık mazereti nedeniyle yapılacak atamalar hariç
 personelin görev yerleri, tercih hakkı verilmek sureti ile kurayla
-belirlenir. Atama sonuçlarının internet sayfasında ilânını müteakip,
-gerekli hallerde belgelerini tamamlamak üzere ilgili personele yirmi gün
-süre verilir. Devlet hizmeti yükümlülük süresi, personelin atandığı
-yerde göreve katılması ile başlar.**(İptal dördüncü ve beşinci cümle:
-Anayasa Mahkemesi’nin 8/12/2011 tarihli ve E.: 2010/113, K.: 2011/164
-sayılı Kararı ile.)(…)**
+belirlenir. **(Ek cümle: 2/1/2014-6514/43 md.)** Ancak beşinci ve
+altıncı grup ilçe merkezlerine bağlı yerleşim yerleri ile Bakanlar
+Kurulunca tespit edilecek il merkezi ve il merkezlerine bağlı yerleşim
+yerlerinde Devlet hizmeti yükümlülüğünü yerine getirenler, tekrar Devlet
+hizmeti yükümlüsü olduklarında istekleri dışında bu yerlere atanamazlar.
+Atama sonuçlarının internet sayfasında ilânını müteakip, gerekli
+hallerde belgelerini tamamlamak üzere ilgili personele yirmi gün süre
+verilir. Devlet hizmeti yükümlülük süresi, personelin atandığı yerde
+göreve katılması ile başlar.**(İptal dördüncü ve beşinci cümle: Anayasa
+Mahkemesi’nin 8/12/2011 tarihli ve E.: 2010/113, K.: 2011/164 sayılı
+Kararı ile.)(…)**
 
 Devlet hizmeti yükümlülüğü kapsamındaki personel, bu görevlerini
 tamamlamadan mesleklerini icra edemezler.
@@ -484,17 +489,27 @@ Bakanlığın tâbi olduğu mevzuat uyarınca işletilir ve tesis,
 yönetilir. Birlikte kullanıma geçilen sağlık tesisinin kamu hastane
 birliği kapsamında olması hâlinde, o tesise ait yönetici
 görevlendirmeleri kamu hastaneleri birliği mevzuatı çerçevesinde
-yapılır.
+yapılır. **(Ek cümle: 2/1/2014-6514/44 md.)** Birlikte kullanımdaki
+sağlık tesislerinde mesai sonrası hizmetler için 31/5/2006 tarihli ve
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 73
+üncü maddesinin üçüncü fıkrasına göre ilave ücret alınmaz.
 
-Birlikte kullanımdaki sağlık tesislerinde fiilen görev yapan personele,
-üniversite personeli için 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim
-Kanununun 58 inci maddesinde öngörülen ek ödeme matrahı ve tavan ek
-ödeme oranları, Bakanlık ve bağlı kuruluşları personeli için ise
-4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları
-ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye
-Hakkında Kanunun 5 inci maddesinde öngörülen ek ödeme matrahı ve tavan
-ek ödeme oranları esas alınarak Bakanlığın tâbi olduğu ek ödeme mevzuatı
-doğrultusunda ek ödeme yapılır.
+**(Değişik dördüncü fıkra: 2/1/2014-6514/44 md.)** 2547 sayılı Kanunun
+58 inci maddesinin (c) fıkrasının (1) numaralı bendinde sayılan ve
+ilgili fakültenin temel tıp bilimlerinde görev yapan öğretim üyesi,
+öğretim görevlisi ve araştırma görevlisi ile birlikte kullanımdaki
+sağlık tesislerinde fiilen görev yapan personele, üniversite personeli
+için 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 58 inci
+maddesinde öngörülen ek ödeme matrahı ve tavan ek ödeme oranları,
+Bakanlık ve bağlı kuruluşları personeli için ise 4/1/1961 tarihli ve 209
+sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme
+(Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 5
+inci maddesinde öngörülen ek ödeme matrahı ve tavan ek ödeme oranları
+esas alınarak Bakanlığın tabi olduğu ek ödeme mevzuatı doğrultusunda ek
+ödeme yapılır. Üniversite rektörü, rektör yardımcıları, genel sekreteri,
+ilgili birimin dekanı ve dekan yardımcılarına 2547 sayılı Kanunun 58
+inci maddesi gereğince yönetici payı olarak yapılacak ek ödeme, birlikte
+kullanımdaki sağlık tesisinin döner sermaye hesabından yapılır.
 
 Birlikte kullanılan sağlık tesisinde görev yapan personelin disiplin ve
 tüm özlük işlemleri kadrosunun bulunduğu kurumun ilgili mevzuatına göre
@@ -521,10 +536,12 @@ müştereken çıkarılacak yönetmelikle belirlenir.
 
 **Ek Madde 10 – (Ek: 6/4/2011-6225/8 md.)**
 
-Herhangi bir tedavi yöntemi veya araçlarının veyahut ruhsat veya izin
-alınmış olsa dahi ilaç ve terkipleri, geleneksel bitkisel tıbbi ürünler
-ile tıbbi cihazların bilimsel araştırma amacıyla insanlar üzerinde
-kullanılabilmesi için, Sağlık Bakanlığından izin alınmasının yanında;
+**(Değişik bölüm: 2/1/2014-6514/45 md.)** Herhangi bir tedavi yöntemi
+veya araçlarının veyahut ruhsat veya izin alınmış olsa dahi ilaç ve
+terkiplerinin, tıbbi ve biyolojik ürünler, bitkisel ürünler, kozmetik
+ürünler ve hammaddeleri ile tıbbi cihazların bilimsel araştırma amacıyla
+insanlar üzerinde kullanılabilmesi için Sağlık Bakanlığı veya bağlı
+kuruluşlarından izin alınmasının yanında;
 
 a\) Araştırmanın, öncelikle insan dışı deney ortamında veya yeterli
 sayıda hayvan üzerinde yapılmış olması,
@@ -559,6 +576,10 @@ laboratuvar imkânlarına sahip olan üniversite sağlık uygulama ve
 araştırma merkezleri, üniversitelere bağlı onaylanmış
 araştırma-geliştirme merkezleri, Refik Saydam Hıfzıssıhha Merkezi ve
 Sağlık Bakanlığı eğitim ve araştırma hastaneleri tarafından yapılabilir.
+**(Ek cümle: 2/1/2014-6514/45 md.)** Bu merkezler ve hastanelerde
+yapılan klinik araştırmalara, gereğinde bu merkezlerin ve hastanelerin
+koordinatörlüğünde veya idari sorumluluğunda olmak kaydıyla, belirtilen
+nitelikleri haiz diğer sağlık kurum ve kuruluşları da dâhil edilebilir.
 
 Bu araştırmalarda, bireyin hakları ve sağlığının korunması herşeyin
 üstünde tutulur.
@@ -621,6 +642,67 @@ Klinik Araştırmalar Danışma Kurulunun ve klinik araştırma alanlarına
 göre etik kurulların teşkili, görevleri, çalışma usul ve esasları Sağlık
 Bakanlığınca çıkartılacak yönetmelikle tespit olunur.
 
+**Ek Madde 11 –** **(Ek: 2/1/2014-6514/46 md.)**
+
+Sağlık hizmeti sunumu ile ilgili tüm iş ve işlemler Sağlık Bakanlığınca
+denetlenir.
+
+Olağanüstü durumlarda mesleğini icraya yetkili kişilerce acil sağlık
+hizmeti ulaşana ve sağlık hizmeti devamlılık arz edene kadar verilecek
+olan sağlık hizmeti hariç, ruhsatsız olarak sağlık hizmeti sunan veya
+yetkisiz kişilerce sağlık hizmeti verdirenler, bir yıldan üç yıla kadar
+hapis ve yirmi bin güne kadar adli para cezası ile cezalandırılır. Özel
+izne tabi hizmet birimlerini Sağlık Bakanlığından izin almaksızın açan
+veya buralarda verilecek hizmetleri sunan sağlık kurum ve kuruluşları,
+bir önceki aya ait brüt hizmet gelirinin yarısına kadar idari para
+cezası ile cezalandırılır.
+
+Bakanlıkça belirlenen kayıtları uygun şekilde tutmayan veya bildirim
+zorunluluğunu yerine getirmeyen sağlık kurum ve kuruluşları iki defa
+uyarılır. Uyarıya uymayanlara bir önceki aya ait brüt hizmet gelirinin
+yüzde biri kadar idari para cezası verilir.
+
+Sağlık Bakanlığınca belirlenen acil hastaya müdahale esaslarına;
+personel, tıbbi cihaz ve donanım, bina ve hizmet birimleri, malzeme ile
+ilaç standartlarına uyulmaması hâllerinde bir önceki aya ait brüt hizmet
+gelirinin yüzde beşine kadar idari para cezası uygulanır.
+
+Bu maddedeki idari para cezasını gerektiren fiillerin bir yıl içinde
+tekrarı hâlinde idari para cezaları bir kat artırılarak uygulanır;
+üçüncü defa işlenmesinde ise sağlık kurum ve kuruluşunun ilgili
+bölümünün veya tamamının faaliyeti on güne kadar durdurulur. Aynı isim
+ve sahiplikte birden fazla sağlık kurum ve kuruluşu bulunması hâlinde
+idari yaptırımlar sadece ihlalin yapıldığı sağlık kurum ve kuruluşu ile
+sınırlı olarak uygulanır.
+
+Bu maddede belirtilen idari para cezalarını vermeye valiler, faaliyet
+durdurma cezasını vermeye Sağlık Bakanlığı yetkilidir. Bu maddenin
+uygulanmasına ilişkin usul ve esaslar, üniversite sağlık uygulama ve
+araştırma merkezleri yönünden Yükseköğretim Kurulunun görüşü alınarak
+Sağlık Bakanlığınca düzenlenir.
+
+6948-7
+
+**Ek Madde 12 –** **(Ek: 2/1/2014-6514/47 md.)**
+
+Sağlık kurum ve kuruluşlarında görev yapan personele karşı görevleri
+sırasında veya görevleri dolayısıyla işlenen kasten yaralama suçu,
+4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 100 üncü
+maddesinin üçüncü fıkrası kapsamında tutuklama nedeni varsayılan
+suçlardandır.
+
+Özel sağlık kurum ve kuruluşlarında görev yapan personel, bu
+görevleriyle bağlantılı olarak kendilerine karşı işlenen suçlar
+bakımından 5237 sayılı Türk Ceza Kanununun uygulanmasında kamu görevlisi
+sayılır.
+
+**Ek Madde 13 –** **(Ek: 2/1/2014-6514/48 md.)**
+
+İlkyardım eğitimlerinde teorik ve uygulamalı sınavlar için
+katılımcılardan alınacak sınav ücreti ile sınavlarda görev alan sınav
+gözetmenlerine ödenecek ücretler, her yıl Sağlık Bakanlığınca
+belirlenir.
+
 **Geçici Madde 1 –** Sağlık işletmesi uygulamasına geçirilen kuruluşun
 sağlık ve yardımcı sağlık personeli ile diğer personeli istekte
 bulunmaları halinde ve kuruluşun kabulü şartıyla yeni bir atamaya gerek
@@ -654,8 +736,6 @@ ile tıpta uzmanlık ve yan dal uzmanlık eğitimi yapmakta olanlar bu
 Kanunun ek 3 üncü maddesi hükümlerine göre Devlet hizmeti yapmakla
 yükümlüdürler.
 
-6948-7
-
 *Kamu sağlık hizmet işletmelerine ait borçların takibinden vazgeçme*
 
 **Geçici Madde** 7 – **(Ek: 1/7/2006-5538/12 md.) **
@@ -670,6 +750,25 @@ fazla ödemeler sebebiyle, kamu kurum ve kuruluşlarınca söz konusu
 işletmeler adına borç çıkarılmaz, çıkarılmış borçların takibinden
 vazgeçilerek tahsilat işlemine son verilir.
 
+6948-8
+
+**Geçici Madde** **8 –** **(Ek: 2/1/2014-6514/49 md.)**
+
+Bu maddenin yürürlüğe girdiği tarihten önce ek 9 uncu maddeye göre
+birlikte kullanımdaki sağlık tesislerinin döner sermayesinden,
+üniversite rektörü, rektör yardımcısı, genel sekreteri, ilgili birimin
+dekanı, dekan yardımcısı ve öğretim elemanlarına yapılmış ek ödemeler
+için borç çıkarılmaz.
+
+**Geçici Madde** **9 –** **(Ek: 2/1/2014-6514/50 md.)**
+
+1/1/2013 tarihinden önce yurt dışında mesleki faaliyette bulunan
+tabipler ve tıpta uzmanlık mevzuatına göre uzman olanlar ve bu maddenin
+yürürlüğe girdiği tarihten önce yurt dışında eğitimlerini tamamlayanlar,
+bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde
+Türkiye’ye dönmek ve en az üç yıl süreyle Türkiye’de fiilen meslek
+icrasında bulunmak şartıyla Devlet hizmeti yükümlülüğünden muaf tutulur.
+
 *Yürürlükten kaldırılan hükümler*
 
 **Madde 10 –** Diğer kanunların bu Kanuna aykırı hükümleri yürürlükten
@@ -682,10 +781,6 @@ kalkar.
 *Yürütme *
 
 **Madde 12 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-
-6948-8
-
-6949
 
 **7/5/1987 TARİHLİ VE 3359 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
@@ -700,15 +795,12 @@ tarafından, bilimsel çalışmaları ve eğitimci nitelikleri yönünden
 değerlendirilir. Bu değerlendirme sonucunda yeterli bulunanların fiilen
 yürüttükleri görevlere ait kadro unvanlarına göre atamaları yapılır.
 
-6950
+6949
 
-**3359 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+**3359 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA
+MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN **
 
-**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL**
-
-**EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
-
-**GÖSTERİR LİSTE**
+**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
   --------------------------------- --------------------------------------------- ----------------------------
   **Değiştiren Kanunun Numarası**   **3359 sayılı Kanunun değişen yürürlükten**   **Yürürlüğe Giriş Tarihi**
@@ -755,5 +847,21 @@ yürüttükleri görevlere ait kadro unvanlarına göre atamaları yapılır.
 
   6462                              3                                             3/5/2013
   --------------------------------- --------------------------------------------- ----------------------------
+
+6950
+
+**3359 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA **
+
+**ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN**
+
+**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+
+  --------------------------------- -------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun Numarası**   **3359 sayılı Kanunun değişen yürürlükten**        **Yürürlüğe Giriş Tarihi**
+                                                                                       
+                                    **kaldırılan maddeleri**                           
+
+  6514                              Ek Madde 4, 9, 10, 11, 12, 13, Geçici Madde 8, 9   18/1/2014
+  --------------------------------- -------------------------------------------------- ----------------------------
 
 
