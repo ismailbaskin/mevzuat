@@ -1,4 +1,4 @@
-**665 sayılı K.H.K ile değişik hali**
+**666 sayılı KHK ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -4819,22 +4819,31 @@ a\) Aylıklarını personel kanunlarına göre alan sigortalılar için;
 2\) Memuriyet taban aylık ve kıdem aylık tutarları,
 
 3\) Makam, temsil ve görev tazminatları, 657 sayılı Devlet Memurları
-Kanununun 152 nci maddesi uyarınca ödenen tazminatlar (bölge, kurum,
-birim, çalışma mahalli, görevin niteliği ve benzeri kriterlere dayalı
-olarak asıl tazminatlara ilave, ek veya ayrıca ödenen tazminatlar
-hariç), 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel
-Kanununun ek 17 nci maddesinin (A) bendinde yer alan cetvelde belirtilen
-oranlar üzerinden ödenen hizmet tazminatı (28/2/1982 tarihli ve 2629
-sayılı Kanun ile 17/11/1983 tarihli ve 2955 sayılı Kanuna göre tazminat
-veya üniversite ödeneği alanların sadece rütbelerinin karşılığı hizmet
-tazminatları), 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel
-Kanununun 12 nci maddesi uyarınca ödenen üniversite ödeneği, 2802 sayılı
-Hakimler ve Savcılar Kanununun 106 ncı maddesinin üçüncü fıkrası
-uyarınca ödenen ek ödeme,
+Kanununun 152 nci maddesi uyarınca (bölge, kurum, birim, çalışma
+mahalli, görevin niteliği ve benzeri kriterlere dayalı olarak asıl
+tazminatlara ilave, ek veya ayrıca ödenen tazminatlar hariç) ödenen
+tazminatlar (375 sayılı Kanun Hükmünde Kararname eki (III) sayılı
+Cetvelin 1 inci ve 2 nci sıralarında sayılanlar ile düzenleyici ve
+denetleyici kurumların emsali personeli için, 152 nci maddenin “II-
+Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (ğ) bendi ile
+“F- Denetim Tazminatı” bölümünün (b) bendinde yer alan tazminatlar esas
+alınır) 657 sayılı Devlet Memurları Kanununun 152 nci maddesi uyarınca
+ödenen tazminatlar (bölge, kurum, birim, çalışma mahalli, görevin
+niteliği ve benzeri kriterlere dayalı olarak asıl tazminatlara ilave, ek
+veya ayrıca ödenen tazminatlar hariç), 27/7/1967 tarihli ve 926 sayılı
+Türk Silahlı Kuvvetleri Personel Kanununun ek 17 nci maddesinin (A)
+bendinde yer alan cetvelde belirtilen oranlar üzerinden ödenen hizmet
+tazminatı (28/2/1982 tarihli ve 2629 sayılı Kanun ile 17/11/1983 tarihli
+ve 2955 sayılı Kanuna göre tazminat veya üniversite ödeneği alanların
+sadece rütbelerinin karşılığı hizmet tazminatları), 11/10/1983 tarihli
+ve 2914 sayılı Yükseköğretim Personel Kanununun 12 nci maddesi uyarınca
+ödenen üniversite ödeneği, 2802 sayılı Hakimler ve Savcılar Kanununun
+106 ncı maddesinin üçüncü fıkrası uyarınca ödenen ek ödeme, ^(1)^
 
-b\) Kadro karşılığı sözleşmeli olarak görev yapan sigortalılar için işgal
-ettikleri kadrolar esas alınmak suretiyle (a) bendinde öngörülen
-unsurlar üzerinden hesaplanan tutarı,
+b\) Kadro karşılığı sözleşmeli olarak görev yapan sigortalılar ile 375
+sayılı Kanun Hükmünde Kararnamenin ek 10 uncu maddesi kapsamındaki
+sigortalılar için işgal ettikleri kadrolar esas alınmak suretiyle (a)
+bendinde öngörülen unsurlar üzerinden hesaplanan tutarı, ^(2)^
 
 c\) Açıktan vekil olarak atanan sigortalılar için, (a) bendinde öngörülen
 unsurlardan ilgili mevzuatı uyarınca ödenen tutarı,
@@ -4908,14 +4917,34 @@ sınırının otuz günlük tutarı prime esas asgari kazanç tutarı olarak esa
 alınır. Ancak gelir testi sonucu, aile içindeki gelirleri asgari ücretin
 altında kalan genel sağlık sigortalılarının bu sürelerde gelir testi
 sonucuna göre ödemeleri gereken tutarların üzerinde yaptıkları ödemeler
-herhangi bir faiz uygulanmaksızın iade veya mahsup edilir. ^(1)^
+herhangi bir faiz uygulanmaksızın iade veya mahsup edilir. ^(3)^
 
 Bu maddenin uygulamasına ilişkin usûl ve esaslar, Kurum tarafından
 çıkarılacak yönetmelikle düzenlenir.
 
 –––––––––––––––––
 
-*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 37 nci maddesiyle, bu
+*(1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu alt
+bentte yer alan “657 sayılı Devlet Memurları Kanununun 152 nci maddesi
+uyarınca ödenen tazminatlar (bölge, kurum, birim, çalışma mahalli,
+görevin niteliği ve benzeri kriterlere dayalı olarak asıl tazminatlara
+ilave, ek veya ayrıca ödenen tazminatlar hariç)” ibaresi “657 sayılı
+Devlet Memurları Kanununun 152 nci maddesi uyarınca (bölge, kurum,
+birim, çalışma mahalli, görevin niteliği ve benzeri kriterlere dayalı
+olarak asıl tazminatlara ilave, ek veya ayrıca ödenen tazminatlar hariç)
+ödenen tazminatlar (375 sayılı Kanun Hükmünde Kararname eki (III) sayılı
+Cetvelin 1 inci ve 2 nci sıralarında sayılanlar ile düzenleyici ve
+denetleyici kurumların emsali personeli için, 152 nci maddenin “II-
+Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (ğ) bendi ile
+“F- Denetim Tazminatı” bölümünün (b) bendinde yer alan tazminatlar esas
+alınır)” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+*(2) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu
+bentte yer alan alan “sigortalılar” ibaresi “sigortalılar ile 375 sayılı
+Kanun Hükmünde Kararnamenin ek 10 uncu maddesi kapsamındaki
+sigortalılar” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+*(3) 13/2/2011 tarihli ve 6111 sayılı Kanunun 37 nci maddesiyle, bu
 fıkrada yer alan “(d) ve (g) bentlerinde” ibaresi “(d) bendinde”
 şeklinde, aynı fıkrada yer alan “Ancak, 60 ıncı maddenin birinci
 fıkrasının (c) bendinin (1) numaralı alt bendi kapsamında genel sağlık
@@ -7220,7 +7249,11 @@ girdiği tarihten önce 5434 sayılı Kanun hükümlerine tabi olarak çalışm�
 olup bu Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendine tabi
 olarak yeniden çalışmaya başlayanlar ile bunların dul ve yetimleri
 hakkında bu Kanunla yürürlükten kaldırılan hükümleri de dahil 5434
-sayılı Kanun hükümlerine göre işlem yapılır.
+sayılı Kanun hükümlerine göre işlem yapılır. **(Ek cümle:
+11/10/2011-KHK-666/5 md.)** Bu fıkra kapsamına girenlerden 375 sayılı
+Kanun Hükmünde Kararnamenin ek 10 uncu maddesi kapsamında bulunanların
+emekli kesenekleri ile kurum karşılıklarının hesabında, işgal ettikleri
+kadrolar için ilgili mevzuatında belirlenen unsurlar esas alınır.
 
 Bu madde kapsamına girenlerin aylıklarının bağlanması, artırılması,
 azaltılması, kesilmesi, yeniden bağlanması, toptan ödemeleri, ilgi
@@ -9007,6 +9040,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6191                                                                      40, 47, 49                                                                                                                                                                                                                                                                                                                                                                                                         22/3/2011
 
   KHK/665                                                                   4, 5                                                                                                                                                                                                                                                                                                                                                                                                               2/11/2011
+
+  KHK/666                                                                   80, Geçici Madde 4                                                                                                                                                                                                                                                                                                                                                                                                 15/1/2012
   ------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------------------
 
 
