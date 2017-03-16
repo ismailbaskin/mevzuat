@@ -1,6 +1,4 @@
-**6352 sayılı Kanun ile değişik hali**
-
-2243
+**6356 sayılı Kanun ile değişik hali**
 
 []{#K139 .anchor}**İŞ MAHKEMELERİ KANUNU**
 
@@ -21,8 +19,7 @@ yerlerde iş mahkemeleri kurulur.
 
 Bu mahkemeler:
 
-A\) 5018 sayılı kanunun 4 üncü maddesinin (E) fıkrasına göre sendikaların
-açacakları ve bu sıfatla aleyhlerine açılacak hukuk davalarına;
+A\) **(Mülga: 18/10/2012-6356/81 md.)**
 
 B\) İşçi Sigortaları Kurumu ile sigortalılar veya yerine kaim olan hak
 sahipleri arasındaki uyuşmazlıklardan doğan itiraz ve davalara da
@@ -119,6 +116,8 @@ kişilerin taraf oldukları iş davalarında mahkemece çağırılacak tercüman
 ve mütercim ücreti, mütekabiliyet şartı ile Devlet Hazinesinden
 karşılanır.
 
+2245-2263
+
 **Madde 12 – 14 – (İptal: Anayasa Mah. nin 13/4/1971 tarih ve E.
 1970/63, K. 1971/38 sayılı kararı ile.)**
 
@@ -155,45 +154,34 @@ gün içinde Yargıtay Hukuk Genel Kuruluna iletir.
 
 **Madde 18 –** Bu Kanunu Adalet ve Çalışma Bakanları yürütür.
 
-2245-2247
+2246-2318
 
-**5521 SAYILI KANUNDA EK VE DEĞİŞİKLİK YAPAN MEVZUATIN**
+**5521 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-**YÜRÜRLÜKTEN KALDIRDIĞI KANUN VE HÜKÜMLERİ**
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-**Yürürlükten Kaldırılan**
+  --------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------- ----------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **5521 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                     **Yürürlüğe Giriş **
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    **Tarihi**
 
-***Kanun veya Kanun Hükümleri Tarihi Sayısı Maddesi***
+  931                                                                               -                                                                                                               12/8/1967
 
-30/1/1950 tarihli ve 5521 sayılı Kanunun 11. maddesinin
+  2339                                                                              -                                                                                                               14/11/1980
 
-1\. fıkrası 21/11/1980 2345 3
+  2345                                                                              Bu Kanuna ilişkin hükümler Harcın konusuna yeni giren yıllık harçlar ile miktarları artırılan yıllık harçlar.   1/12/1980
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    1/1/1981
 
-2246-2262
+  5308 ^(1)^                                                                        8 ve Geçici Madde 1                                                                                             1/4/2005
 
-**5521 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+  6352                                                                              1, Geçici Madde 2                                                                                               5/7/2012
 
-**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
-
-**Değiştiren Kanun Yürürlüğe**
-
-***No. 5521 sayılı Kanunun değişen maddeleri giriş tarihi***
-
-931 – 12/8/1967
-
-2339 – 14/11/1980
-
-2345 Bu Kanuna ilişkin hükümler 1/12/1980
-
-Harcın konusuna yeni giren yıllık harçlar ile miktarları artırılan
-
-yıllık harçlar. 1/1/1981
-
-5308 ^(1)^ 8 ve Geçici Madde 1 1/4/2005
-
-6352 1, Geçici Madde 2 5/7/2012
+  6356                                                                              1                                                                                                               7/11/2012
+  --------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------- ----------------------
 
 –––––––––––––––––
 
