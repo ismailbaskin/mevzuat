@@ -1,4 +1,4 @@
-**4688 sayılı Kanunun ilk hali**
+**5198 sayılı Kanun ile değişik hali**
 
 **KAMU GÖREVLİLERİ SENDİKALARI KANUNU**
 
@@ -170,8 +170,8 @@ gönderir.
 Tüzüğün veya bu maddede sayılan belgelerin içerdikleri bilgilerin kanuna
 aykırılığının tespit edilmesi ya da bu Kanunda öngörülen kuruluş
 koşullarının gerçekleşmediğinin anlaşılması halinde, ilgili valilik
-eksikliklerin bir ay içinde tamamlanmasını ister.Tamamlanmadığı takdirde
-sendika veya konfederasyonun faaliyetinin durdurulması için iş
+eksikliklerin bir ay içinde tamamlanmasını ister. Tamamlanmadığı
+takdirde sendika veya konfederasyonun faaliyetinin durdurulması için iş
 mahkemesine başvurur.
 
 Mahkeme, kanuna aykırılığın veya eksikliğin giderilmesi için altmış günü
@@ -403,12 +403,16 @@ BİRİNCİ BÖLÜM
 
 **Sendika üyeliğinin kazanılması**
 
-**MADDE 14** - Sendikalara üye olmak serbesttir.
+**MADDE 14** – **(Değişik: 24/6/2004-5198/1 md.)**
+
+Sendikalara üye olmak serbesttir.
 
 Kamu görevlileri çalıştıkları işyerinin girdiği hizmet kolunda kurulu
 bir sendikaya üye olabilirler.
 
-Üyelik, başvurunun sendika yetkili organınca kabulü ile kazanılır.
+Sendikaya üyelik, kamu görevlisinin üç nüsha olarak doldurup imzaladığı
+üye formu ile sendikaya başvurması ve başvurunun sendika yetkili
+organınca kabulü ile kazanılır.
 
 Üyelik başvurusu, sendika tarafından en çok otuz gün içinde
 reddedilmediği takdirde üyelik istemi kabul edilmiş sayılır. Haklı bir
@@ -419,12 +423,14 @@ bakmakla görevli mahallî mahkemede dava açma hakkı vardır.
 Sendika, üyeliği kesinleşen kamu görevlisinin başvuru belgesinin bir
 örneğini üyenin kendisine verir, bir örneği sendikada kalır, bir
 örneğini üyelik ödentisine esas olmak ve dosyasında saklanmak üzere
-işverene, bir örneğini de her yılın şubat, mayıs, ağustos ve kasım
-aylarında bir liste ekinde Çalışma ve Sosyal Güvenlik Bakanlığına
-gönderir.
+onbeş gün içinde işverene gönderir.
 
 Birden çok sendikaya üye olunamaz. Birden çok sendikaya üyelik halinde
 sonraki üyelikler geçersizdir.
+
+Aynı tarihli birden fazla üyeliğe ilişkin bildirimler dikkate alınmaz ve
+bu husus kamu işvereni tarafından ilgiliye ve sendikalara yazılı olarak
+bildirilir.
 
 **Sendika üyesi olamayacaklar**
 
@@ -474,42 +480,38 @@ k\) Ceza infaz kurumlarında çalışan kamu görevlileri,
 
 **Üyeliğin sona ermesi**
 
-**MADDE 16** - Her üye üyelikten serbestçe çekilebilir.
+**MADDE 16** - **(Değişik: 24/6/2004-5198/2 md.)**
 
-Üyelikten çekilme, çekilme isteğinin sendikaya bildirilmesi ile
-gerçekleşir. Çekilme bildirimini alan sendika görevlisi, kayıt defterine
-işlemek ve alındığına ilişkin bir belgeyi derhal üyeye vermek
-zorundadır. Sendika, çekilme bildirimlerinin birer örneklerini her yılın
-şubat, mayıs, ağustos ve kasım aylarında bir liste ekinde Çalışma ve
-Sosyal Güvenlik Bakanlığına göndermek zorundadır. Üyelikten çekilen,
-bildirimin bir örneğini dosyasında saklanması için işverene gönderir.
+Her üye üyelikten serbestçe çekilebilir.
 
-Çekilme, sendikaya başvurma tarihinden başlayarak bir ay sonra geçerli
-olur. Çekilenin bu süre içinde başka bir sendikaya üye olması halinde
-yeni sendikaya üyeliği, bu sürenin bitim tarihinde kazanılır.
+Üyelikten çekilme, çekilmek isteyen kamu görevlisi tarafından, üç nüsha
+olarak doldurulup imzalanan üyelikten çekilme bildiriminin kurumuna
+verilmesi ile gerçekleşir. Kurum görevlisi, kayıt numarası ile tarih
+verilen çekilme bildiriminin bir suretini derhal üyeye vermek
+zorundadır. Kamu işvereni, bildirimin bir örneğini onbeş gün içinde
+sendikaya gönderir.
 
-Üyenin, sendikadan çıkarılma kararı genel kurulca alınır. Çıkarma
-kararı, çıkarılana ve işverene yazı ile bildirilir. Çıkarma kararına
-karşı üye, bildirim tarihinden itibaren onbeş gün içinde görevli
-mahkemeye itiraz edebilir. Mahkeme iki ay içinde kesin karar verir.
-Üyelik, çıkarılma kararı kesinleşinceye kadar sürer.
+Çekilme, kamu işverenine başvurma tarihinden başlayarak otuz gün sonra
+geçerli olur. Çekilenin bu süre içinde başka bir sendikaya üye olması
+halinde yeni sendikaya üyeliği, bu sürenin bitim tarihinde kazanılır.
 
-Çekilme, göreve son verilmesi veya sair nedenlerle kamu görevinden
-ayrılanlar ile farklı bir hizmet koluna giren kuruma atananlardan
-sendika üyesi olanların üyelikleri, varsa sendika şubesi, sendika veya
-konfederasyon organlarındaki görevleri sona erer. Emekliye ayrılanların
-sendika şubesi, sendika veya konfederasyon organlarındaki görevleri
-seçildikleri dönemin sonuna kadar devam eder.
+Üyenin, sendikadan çıkarılma kararı sendika merkez genel kurulunca
+alınır. Çıkarma kararı, çıkarılana ve işverene yazı ile bildirilir.
+Çıkarma kararına karşı üye, bildirim tarihinden itibaren onbeş gün
+içinde görevli iş mahkemesine itiraz edebilir. Mahkeme iki ay içinde
+kesin karar verir. Üyelik, çıkarılma kararı kesinleşinceye kadar sürer.
 
-İşverenler her yılın mayıs ve kasım ayı sonu itibarıyla kurumlarındaki
-sendika üyesi kamu görevlilerinin sendikalara göre dağılımları ile
-sendika üyeliği sona eren veya askıya alınanlara ilişkin bilgileri
-bilgisayar ortamında Çalışma ve Sosyal Güvenlik Bakanlığına göndermek
-zorundadırlar.
+Çekilme, göreve son v
 
-Çalışma ve Sosyal Güvenlik Bakanlığı sendika ve üyelik kayıtlarına
-ilişkin olarak derlediği bütün bilgileri bir ay içinde Devlet Personel
-Başkanlığına gönderir.
+erilmesi veya sair nedenlerle kamu görevinden ayrılanlar ile farklı bir
+hizmet koluna giren kuruma atananlardan sendika üyesi olanların
+üyelikleri, varsa sendika şubesi, sendika veya konfederasyon
+organlarındaki görevleri sona erer. Emekliye ayrılanların sendika
+şubesi, sendika veya konfederasyon organlarındaki görevleri seçildikleri
+dönemin sonuna kadar devam eder.
+
+Üyeliğin devamı ve askıya alınması hallerinde 2821 sayılı Sendikalar
+Kanununun 24 üncü maddesinde yer alan hükümler uygulanır.
 
 **Konfederasyon ve uluslararası kuruluş üyeliği**
 
@@ -537,51 +539,58 @@ Güvenceler
 
 **Sendika üyelerinin ve yöneticilerinin güvencesi**
 
-**MADDE 18** - Kamu görevlileri, iş saatleri dışında veya işverenin izni
-ile iş saatleri içinde sendika veya konfederasyonların bu Kanunda
-belirtilen faaliyetlerine katılmalarından dolayı farklı bir işleme tabi
-tutulamaz ve görevlerine son verilemez.
+**MADDE 18** - **(Değişik: 24/6/2004-5198/3 md.)**
+
+Kamu görevlileri, iş saatleri dışında veya işverenin izni ile işsaatleri
+içinde sendika veya konfederasyonların bu Kanunda belirtilen
+faaliyetlerine katılmalarından dolayı farklı bir işleme tâbi tutulamaz
+ve görevlerine son verilemez.
+
+Kamu işvereni, işyeri sendika temsilcisi ile sendika ve sendika şube
+yöneticilerinin işyerini haklı bir sebep olmadıkça ve sebebini açık ve
+kesin şekilde belirtmedikçe değiştiremez.
 
 Kamu işvereni kamu görevlileri arasında sendika üyesi olmaları veya
 olmamaları nedeniyle bir ayırım yapamaz.
 
-Sendika veya konfederasyon yönetim kurullarına seçilenler, seçildikleri
-tarihten başlayarak bu görevlerinde kaldıkları sürece kurumlarından
-aylıksız izinli sayılırlar.
+Sendika veya konfederasyonu ilk genel kurula kadar sevk ve idare edecek
+yönetim kurulu üyeleri, genel kurulda yönetim kuruluna seçilenler ile
+sendika şube yönetim kurulu üyeleri seçildikleri tarihten itibaren
+durumlarını en geç otuz gün içinde kurumlarına yazılı olarak
+bildirirler. Söz konusu yöneticiler seçildikleri tarihten itibaren otuz
+gün içerisinde sendika tüzüğünde belirtilen hükümlere göre, ayrıca
+yazılı talepte bulunmaları halinde bu görevleri süresince aylıksız izine
+ayrılırlar. Talepte bulunmayanlar ise kurumlarındaki görevlerine devam
+ederler. İzine ayrılmayan yönetim kurulu üyeleri haftada bir gün
+kurumlarından izinli sayılırlar.
 
-Mahalli ve genel seçimlerde aday olanların, sendika ve konfederasyonun
+Sendika şubeleri en az 400 üye ile kurulur.
+
+Mahallî ve genel seçimlerde aday olanların, sendika ve konfederasyonun
 organlarındaki görevleri adaylık süresince askıda kalır. Seçilmeleri
 halinde görevleri son bulur.
 
-Sendika şubeleri en az 500 üye ile kurulur. 500 ile 3000 üyesi olan
-sendika şubelerinde bir yönetim kurulu üyesi, 3001 ile 5000 üyesi olan
-sendika şubelerinde iki yönetim kurulu üyesi, 5001 ile 7500 üyesi olan
-sendika şubelerinde üç yönetim kurulu üyesi, 7501 ile 10 000 üyesi olan
-sendika şubelerinde dört yönetim kurulu üyesi ve 10 001 ve daha fazla
-üyesi olan sendika şubelerinde beş yönetim kurulu üyesi genel kurul
-kararı ile aylıksız izinli sayılır.
+Aylıksız izine ayrılan yöneticilerin bu süreleri, emekli kesenekleri ve
+karşılıklarının yöneticisi oldukları sendikaları tarafından her ay
+Türkiye Cumhuriyeti Emekli Sandığına ödenmesini kabul etmeleri koşuluyla
+kazanılmış hak aylığı ile emeklilik hizmetine sayılır.
 
-Kamu görevlilerinin bu süreleri, emekli kesenekleri ve karşılıklarının
-yöneticisi oldukları sendikaları tarafından her ay Türkiye Cumhuriyeti
-Emekli Sandığına gönderilmesini kabul etmeleri koşuluyla emeklilik
-derecelerinde değerlendirilir.
-
-Şube yönetim kuruluna seçilenlerden aylıksız izinli sayılanların dışında
-kalanlar, kamu kurumlarındaki görevlerini sürdürürler.
+Kurumlarından aylıksız izinli sayılan sendika, konfederasyon ve şube
+yönetim kurulu üyeleri ile bunların bakmakla yükümlü oldukları aile
+fertlerinin sağlık giderlerinin kurumlarınca karşılanmasına devam
+olunur.
 
 Aylıksız izinli sayılanlardan herhangi bir nedenle sendika veya
 konfederasyon organlarındaki görevlerinden ayrılanlar, görevlerinin son
-bulması tarihinden itibaren bir ay içinde ayrıldıkları kurum ve kuruluşa
-yazılı müracaat etmeleri durumunda, kamu işvereni bu kimseleri bir ay
-içinde eski görevlerine ya da uygun diğer bir göreve atamak zorundadır.
-Bir
+bulması tarihinden itibaren otuz gün içinde ayrıldıkları kurum ve
+kuruluşa yazılı müracaat etmeleri durumunda, kamu işvereni bu kimseleri
+otuz gün içinde eski görevlerine ya da uygun diğer bir göreve atamak
+zorundadır. Otuz gün içinde görevlerine başlamak için başvurmayanlar
+görevlerinden çekilmiş sayılırlar.
 
-ay içinde görevlerine başlamak için başvurmayanlar görevlerinden
-çekilmiş sayılırlar.
-
-Açığa alma, resen emeklilik, göreve son verilmesi, tayin veya sair
-hallerde görevlinin mahkemeye başvurması halinde, mahkeme kararı
-kesinleşinceye kadar sendikadaki görevi devam eder.
+Görevden uzaklaştırma, re’sen emeklilik, göreve son verilmesi, tayin
+veya sair hallerde görevlinin mahkemeye başvurması halinde, mahkeme
+kararı kesinleşinceye kadar sendikadaki görevi devam eder.
 
 **DÖRDÜNCÜ KISIM**
 
@@ -767,24 +776,28 @@ mevcudu tüzüklerinde gösterilir.
 
 **Üyelik ödentisi**
 
-**MADDE 25** - Aynı hizmet kolunda çalışan kamu görevlilerinin yüzde
-beşinden fazlasını üye kaydetmiş bulunan sendikaların üyelik ödentileri,
-14 üncü madde çerçevesinde üyenin üyelik beyannamesindeki istemine uygun
-olarak kamu işverenince aylığından kesilerek beş gün içinde sendikaların
-banka hesaplarına yatırılır ve ödenti listesinin bir örneği ilgili
-sendikaya gönderilir.
+**MADDE 25** - **(Değişik: 24/6/2004-5198/4 md.)**
 
-Aylık ödenti tutarı; 15 inci derecenin birinci kademesinden aylık alan
-Devlet memurunun, aylık, taban aylığı, kıdem aylığı, her türlü zam ve
-tazminatlar ile ödenekler toplamının net tutarının otuzda birini
-geçemez.
+Kamu görevlileri sendikasına, kamu görevlisinin ödeyeceği üyelik
+ödentileri, 14 üncü madde çerçevesinde doldurulan üyelik başvuru formuna
+ve sendika tüzüğünde belirtilen aylık ödenti tutarına göre kamu
+işverenince aylığından kesilerek beş gün içinde sendikaların banka
+hesaplarına yatırılır ve ödenti listesinin bir örneği ilgili sendikaya
+gönderilir. Kamu işvereni, sendikaya üye olan ve üyelik ödentisi kesilen
+kamu görevlilerinin listesini her ayın son haftasında, işyerinde
+herkesin görebileceği yerde ilan eder.
 
-Sendika tüzüklerine, üyelik ödentisi dışında her ne ad altında olursa
+Aylık üyelik ödenti tutarı; 15 inci derecenin birinci kademesinden aylık
+alan Devlet memurunun aylık, taban aylığı, her türlü zam ve tazminatlar
+ile ödenekler toplamının net tutarının binde beşinden az, otuzda
+birinden fazla olmamak üzere sendika tüzüğünde belirtilir.
+
+Sendika tüzüğüne, üyelik ödentisi dışında her ne ad altında olursa
 olsun, üyelerden başka bir kesinti yapılmasını öngören hükümler
 konulamaz.
 
-Üyeliği herhangi bir nedenle sona erenlerin sendikaca beş çalışma günü
-içinde işverene bildirilmesi zorunludur.
+Sendika merkez genel kurul kararıyla üyelikten çıkarılan üyelerin
+isimlerinin sendikaca onbeş gün içinde işverene bildirilmesi zorunludur.
 
 Konfederasyonlara üyelerince ödenecek ödenti miktarı, sendikaların
 ödenti tutarlarının yüzde beşinden aşağı olmamak üzere
@@ -892,20 +905,50 @@ Toplu Görüşme, Yetki, Mutabakat Metni
 
 **Yetki**
 
-**MADDE 30** - Her hizmet kolunda en çok üyeye sahip sendika ile
-bunların bağlı oldukları konfederasyonlar toplu görüşme yapmaya
-yetkilidir. En çok üyeye sahip konfederasyon temsilcisi toplu görüşme
-heyetinin başkanıdır.
+**MADDE 30** - **(Değişik: 24/6/2004-5198/5 md.)**
 
-Çalışma ve Sosyal Güvenlik Bakanlığı, kamu görevlileri sendikalarınca
-yapılan üyelik bildirimlerini dikkate alarak, her yıl 31 Mayıs
-itibariyle sendikaların üye sayılarını tespit eder; buna göre her hizmet
-kolundaki yetkili kamu görevlileri sendikaları ile en çok üyeye sahip
-konfederasyonu belirler ve sonuçları Temmuz ayının ilk haftasında Resmî
-Gazetede yayımlar. Bu sonuçlara beş çalışma günü içinde itiraz
-edilmediği takdirde, üye sayıları ile her hizmet kolundaki yetkili kamu
-görevlileri sendikaları ve en çok üyeye sahip konfederasyonun yetkisi
-kesinleşir.
+Her hizmet kolunda en çok üyeye sahip sendika ile bunların bağlı
+oldukları konfederasyonlar toplu görüşme yapmaya yetkilidir. En çok
+üyeye sahip konfederasyon temsilcisi toplu görüşme heyetinin başkanıdır.
+
+Yetkili sendika ve konfederasyonların belirlenmesinde aşağıdaki esaslar
+uygulanır:
+
+a\) Kurumlarca yapılacak tespit;
+
+Tespite ilişkin toplantıya kurumun işveren vekili ile tahakkuk memuru
+veya mali hizmetler birimi yetkilisi ve kurumun hizmet kolunda
+faaliyette bulunan sendikalardan birer temsilci katılır. Toplantı her
+yıl 15 mayıs tarihinden sonra beş iş günü içerisinde kurumca
+belirlenerek sendikalara bildirilen yer ve günde yapılır.
+
+Bu Kanuna tâbi olarak kurumda çalışan kamu görevlilerinin, 15 mayıs
+tarihi itibarıyla listesi ile üyelerinden aidat kesintisi yapılan
+sendikaların üyelerini gösterir liste, toplantıya katılanlarca
+değerlendirilir. Bu değerlendirmeden sonra, toplam kamu görevlisi sayısı
+ile sendika üyesi kamu görevlilerinin sendikalara göre toplam sayılarını
+belirten tutanak toplantıya katılan taraflarca imzalanır. İmzalı
+tutanak, kamu işvereni ve sendikalarca mayıs ayının son iş gününe kadar
+Çalışma ve Sosyal Güvenlik Bakanlığına gönderilir.
+
+Kurumların taşra teşkilatları, yukarıdaki esaslara göre tarafların
+katılımı ile yapılacak toplantı neticesinde düzenlenecek tutanakları
+kurum merkezinde yapılacak tespitte değerlendirilmek üzere 15 mayıs
+tarihini takip eden iki iş günü içerisinde kurum merkezine gönderirler.
+Bu tutanaklar kurum merkezinde tarafların katılımıile tek tutanak haline
+getirilir.
+
+b\) Çalışma ve Sosyal Güvenlik Bakanlığınca kurumlardan ve sendikalardan
+gelen müşterek imzalı listeler üzerinden yapılacak tespit;
+
+Çalışma ve Sosyal Güvenlik Bakanlığı, kurumlarda çalışan toplam kamu
+görevlisi sayısı ile sendikalar itibarıyla üyelik kesintisi yapılan üye
+sayılarını dikkate alarak her yıl 15 mayıs tarihi itibarıyla hizmet
+kollarındaki bütün kamu görevlileri sayısı ile hizmet kolundaki
+sendikaların üye sayılarını tespit eder. Buna göre her hizmet kolundaki
+yetkili kamu görevlileri sendikaları ile konfederasyonların toplam üye
+sayısını belirler ve sonuçları her yıl temmuz ayının ilk haftasında
+Resmî Gazetede yayımlar.
 
 **Yetki itirazı**
 
@@ -972,6 +1015,11 @@ hukuku, idare hukuku ve kamu maliyesi bilim dallarından seçilecek birer
 partilerin merkez karar ve yürütme kurullarında görev alamazlar. Üyeler
 iki yıl için seçilirler. Süresi biten üyeler yeniden seçilebilir.
 Kurulun sekretarya işleri Devlet Personel Başkanlığınca yürütülür.
+
+**(Ek fıkra: 24/6/2004-5198/6 md.)** Toplu görüşme çalışmaları ile
+Uzlaştırma Kurulu çalışmalarına katılacak olanların ağırlama, yolluk ve
+gündelikleri ile toplantı ücretleri Devlet Personel Başkanlığı bütçesine
+konacak ödenekten karşılanır.
 
 Uzlaştırma Kurulu, uyuşmazlık konularını inceler, gerektiğinde toplu
 görüşme taraflarının temsilcilerini dinler ve beş gün içinde kararını
@@ -1116,7 +1164,7 @@ uygulanır.
 
 **Değiştirilen kanun hükmü**
 
-**MADDE 44.** - 11.4.2001 tarihli ve 4641 sayılı Ekonomik ve Sosyal
+**MADDE 44** - 11.4.2001 tarihli ve 4641 sayılı Ekonomik ve Sosyal
 Konseyin Kuruluşu, Çalışma Esas ve Yöntemleri Hakkında Kanunun 2 nci
 maddesinde yer alan "Türkiye Odalar ve Borsalar Birliği, ..."
 ibaresinden sonra gelmek üzere "kamu görevlileri adına en çok üyeye
@@ -1207,6 +1255,18 @@ Kurulunca kamu yararına çalıştığı belirlenen kuruluşlara üç ay
 içerisinde devredebilirler. Devir ve intikal işlemleri her türlü vergi,
 resim ve harçtan muaftır.
 
+**GEÇİCİ MADDE 9 –** **(Ek : 24/6/2004-5198/6 md.)**
+
+2004 yılı için;
+
+a\) 30 uncu maddenin ikinci fıkrasının (a) bendinde öngörülen tespit, 15
+Temmuz 2004 tarihi itibarıyla gerçekleştirilerek 20 Temmuz 2004 tarihine
+kadar Çalışma ve Sosyal Güvenlik Bakanlığına gönderilir.
+
+b\) 30 uncu maddenin ikinci fıkrasının (b) bendi gereğince Çalışma ve
+Sosyal Güvenlik Bakanlığınca yapılacak tespit ise 30 Ağustos 2004
+tarihine kadar Resmî Gazetede yayımlanır.
+
 **Yürürlük**
 
 **MADDE 45** - Bu Kanun yayımını takip eden 30 uncu günün sonunda
@@ -1216,7 +1276,39 @@ yürürlüğe girer.
 
 **MADDE 46** - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-––––––––––––––––
+–––––––––––––––
 
 *(1) Bu maddede yer alan kadrolarla ilgili olarak 12/7/2001 tarihli ve
 24460 sayılı Resmi Gazete’ye bakınız.*
+
+**4688 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
+
+**1- 24/6/2004 TARİHLİ VE 5198 SAYILI KANUNUN GEÇİCİ MADDELERİ:**
+
+**GEÇİCİ MADDE 1 —** Bu Kanun çerçevesinde çıkarılacak yeni
+yönetmelikler yürürlüğe girinceye kadar, mevcut yönetmeliklerin 4688
+sayılı Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+
+**GEÇİCİ MADDE 2 —** 4688 sayılı Kanunun 18 inci maddesine göre,
+konfederasyonların ve sendikaların yönetim kurulu üyelerinin, bu Kanunun
+yayımı tarihinden önceki sendikal faaliyetleri ve aylıksız izinleri ile
+ilgili olarak idari ve mali takibat yapılamaz, başlatılmış olanlar
+işlemden kaldırılır.
+
+**GEÇİCİ MADDE 3 —** Bu Kanunun yayımı tarihinden önce, 4688 sayılı
+Kanunun 31 inci maddesi uyarınca açılmış bulunan davalar işlemden
+kaldırılır.
+
+**4688 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4688 sayılı Kanunun değişen veya iptal edilen maddeleri**    **Yürürlüğe Giriş Tarihi**
+  5198                                                                         14, 16, 18, 25, 30, 35, GEÇİCİ MADDE 9, İŞLENEMEYEN HÜKÜMLER   6/7/2007
+  ---------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------
+
+
