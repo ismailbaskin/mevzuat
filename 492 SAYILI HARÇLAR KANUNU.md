@@ -1,4 +1,4 @@
-6528 sayılı Kanun ile değişik hali
+**6545 sayılı Kanun ile değişik hali**
 
  
 
@@ -2468,7 +2468,7 @@ bentte yer alan “Bakanlar Kurulu” ibaresinden önce gelmek üzere “Tahkim
 yargılamasında bu bende göre hesaplanan harç yüzde elli oranında
 uygulanır.” ibaresi eklenmiştir.*
 
-3928
+[[]{#ole_link9 .anchor}]{#ole_link10 .anchor}3928
 
 **Uygulanan Kanunla Getirilen**
 
@@ -2558,8 +2558,8 @@ c\) Danıştaya yapılacak temyiz başvurularında (**123,60 T.L)** 90 TL
 
 d\) Yürütmenin durdurulmasına ilişkin itirazlar dahil olmak üzere bölge
 
-idare mahkemelerine itirazen yapılacak başvurularda **(68,60 T.L)** 50
-TL
+idare mahkemelerine yapılacak istinaf yolu başvurularında^(4)^ **(68,60
+T.L)** 50 TL
 
 ––––––––––––––––––––
 
@@ -2571,11 +2571,14 @@ tarihinden geçerli olmak üzere eklenmiş ve metne işlenmiştir.*
 tarihli ve 6217 sayılı Kanunun 13 üncü maddesiyle metne işlendiği
 şekilde değiştirilmiştir.*
 
-[[]{#ole_link9 .anchor}]{#ole_link10 .anchor}*(3) Bu kısmın (b) fıkrası
-Anayasa Mahkemesi’nin 20/10/2011 tarihli ve E.: 2011/54, K.: 2011/142
-sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de
-yayımlandığı 29/12/2011 tarihinden başlayarak altı ay sonra yürürlüğe
-girmesi hüküm altına alınmıştır.*
+*(3) Bu kısmın (b) fıkrası Anayasa Mahkemesi’nin 20/10/2011 tarihli ve
+E.: 2011/54, K.: 2011/142 sayılı Kararı ile iptal edilmiş olup, Kararın
+Resmi Gazete’de yayımlandığı 29/12/2011 tarihinden başlayarak altı ay
+sonra yürürlüğe girmesi hüküm altına alınmıştır.*
+
+*(4) Bu alt bentte yer alan “itirazen yapılacak başvurularda” ibaresi,
+18/6/2014 tarihli ve 6545 sayılı Kanunun 2 nci maddesiyle “yapılacak
+istinaf yolu başvurularında” şeklinde değiştirilmiştir.*
 
 3928-1
 
@@ -3019,9 +3022,9 @@ bentte yer alan “miras taksim mukaveleleri,” ibaresinden sonra gelmek
 
 **(Değişik : 21/11/1992 - 2588/16 md.)**
 
-**Uygulanan Kanunla Getirilen**
+Uygulanan Kanunla Getirilen
 
-***Miktar Miktar***
+*Miktar Miktar*
 
 **Vergi yargısı harçları:**
 
@@ -3033,9 +3036,9 @@ cezalara ilişkin uyuşmazlıklardan dolayı Vergi Mahkemelerinde, Bölge
 
 a\) Vergi Mahkemeleri ile Bölge İdare Mahkeme-
 
-lerine başvurma **(25,20 TL.)** 60.000 TL.
+lerine başvurma (25,20 TL.) 60.000 TL.
 
-b\) Danıştaya başvurma **(52,40 TL.)** 121.600 TL.
+b\) Danıştaya başvurma (52,40 TL.) 121.600 TL.
 
 c\) **(Ek: 4/6/2008-5766/11 md.)** Danıştay’a temyiz başvu-
 
@@ -3043,9 +3046,9 @@ rularında **(109,20 TL.)** 60 YTL
 
 d\) **(Ek: 4/6/2008-5766/11 md.)** Bölge İdare Mahkemesi-
 
-ne itirazen yapılan başvurularda **(72,80 TL.)** 40 YTL
+ne yapılacak istinaf yolu başvurularında^(2)^ **(72,80 TL.)** 40 YTL
 
-**II–Nispi harçlar** **: **
+II–Nispi harçlar :
 
 a)Vergi mahkemesi ile bölge idare mahkemesi kararlarında :
 
@@ -3072,32 +3075,32 @@ tahriyat veya ceza kesme ve diğer işlemlerle ilgili :
 
 a\) Vergi mahkemesi ve bölge idare mahkemesi
 
-kararlarında **(25,20 TL.)** 60.000 TL.
+kararlarında (25,20 TL.) 60.000 TL.
 
-b\) Danıştay kararlarında **(52,40 TL.)** 121.600 TL.
+b\) Danıştay kararlarında (52,40 TL.) 121.600 TL.
 
 c\) Bölge idare mahkemesi ve Danıştayın yürüt-
 
-menin durdurulması kararlarında **(52,40 TL.)** 121.600 TL.
+menin durdurulması kararlarında (52,40 TL.) 121.600 TL.
 
 **IV –Suret harçları :**
 
 Tarafların isteği üzerine verilecek karar suretleri
 
-için karar suretinin her sayfasından (Fotokopiler dahil) **(1,10 TL.)**
+için karar suretinin her sayfasından (Fotokopiler dahil) (1,10 TL.)
 5.000 TL.
 
 **(4) SAYILI TARİFE ^(1)^ **
 
 **(Değişik : 21/11/1980 - 2345/2 md.)**
 
-**Tapu ve Kadastro işlemlerinden alınacak harçlar :**
+Tapu ve Kadastro işlemlerinden alınacak harçlar :
 
 **I–Tapu İşlemleri :**
 
 1.Kayıt harici kalmış olan gayrimenkullerin tes-
 
-cilinden takdir olunan değer üzerinden **(Binde 11,38)** Binde 6
+cilinden takdir olunan değer üzerinden (Binde 11,38) Binde 6
 
 ——————————
 
@@ -3108,6 +3111,10 @@ Tebliği ile 1/1/2014 tarihinden itibaren uygulanacak maktu harç
 miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce
 bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan
 Mevzuat İzleme Cetveline bakınız.*
+
+*(2) Bu alt bentte yer alan “itirazen yapılacak başvurularda” ibaresi,
+18/6/2014 tarihli ve 6545 sayılı Kanunun 2 nci maddesiyle “yapılacak
+istinaf yolu başvurularında” şeklinde değiştirilmiştir.*
 
 3934
 
@@ -5527,6 +5534,8 @@ tarihinden geçerli olmak üzere 31/12/2004
   6458                                                                                  88                                                                      11/4/2013 tarihinden bir yıl sonra
                                                                                                                                                                 
                                                                                                                                                                 (11/4/2014)
+
+  6545                                                                                  \(1) ve (3) sayılı Tarife                                               28/6/2014
   ------------------------------------------------------------------------------------- ----------------------------------------------------------------------- -----------------------------------------------------------
 
 
