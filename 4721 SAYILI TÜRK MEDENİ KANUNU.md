@@ -1,6 +1,4 @@
-**Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2012/35,**
-
-**K.: 2012/203 sayılı Kararı ile değişik hali**
+8049
 
 **TÜRK MEDENİ KANUNU**
 
@@ -2166,7 +2164,8 @@ Rızayı sağlayamayan veya haklı bir sebep olmadan kendisine rıza
 verilmeyen eş,  hâkimin müdahalesini isteyebilir.
 
 Aile konutu olarak özgülenen taşınmaz malın maliki olmayan eş, tapu
-kütüğüne konutla ilgili gerekli şerhin verilmesini isteyebilir.
+kütüğüne konutla ilgili gerekli şerhin verilmesini tapu müdürlüğünden
+isteyebilir.^(1)^
 
 Aile konutu eşlerden biri tarafından kira ile sağlanmışsa, sözleşmenin
 tarafı olmayan eş, kiralayana yapacağı bildirimle sözleşmenin tarafı
@@ -2181,6 +2180,12 @@ olur.
 getirilmemesi veya evlilik birliğine ilişkin önemli bir konuda
 uyuşmazlığa düşülmesi hâlinde, eşler ayrı ayrı veya birlikte hâkimin
 müdahalesini isteyebilirler.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 44 üncü maddesiyle bu
+fıkrada yer alan “şerhin verilmesini” ibaresinden sonra gelmek üzere
+“tapu müdürlüğünden” ibaresi eklenmiştir.*
 
 8077
 
@@ -3315,8 +3320,6 @@ ibaresi, Anayasa Mahkemesi’nin 25/6/2009 tarihli ve E.: 2008/30, K.:
 
 8092
 
- 
-
 *C. Karinelerin çakışması*
 
 **Madde 290-** Çocuk evliliğin sona ermesinden başlayarak üçyüz gün
@@ -3327,7 +3330,7 @@ Bu karine çürütülürse ilk evlilikteki koca baba sayılır.
 
 *D. Diğer ilgililerin dava hakkı *
 
- **Madde 291-** Dava açma süresinin geçmesinden önce kocanın ölmesi veya
+**Madde 291-** Dava açma süresinin geçmesinden önce kocanın ölmesi veya
 gaipliğine karar verilmesi ya da sürekli olarak ayırt etme gücünü
 kaybetmesi hâllerinde kocanın altsoyu, anası, babası veya baba olduğunu
 iddia eden kişi, doğumu ve kocanın ölümünü, sürekli olarak ayırt etme
@@ -3336,8 +3339,8 @@ gücünü kaybettiğini veya hakkında gaiplik kararı alındığını
 açabilir.
 
 Ergin olmayan çocuğa atanacak kayyım, atama kararının kendisine
-tebliğinden başlayarak bir yıl, her hâlde doğumdan başlayarak beş yıl
-içinde soybağının reddi davasını açar.
+tebliğinden başlayarak bir yıl, (…) ^(1)^ içinde soybağının reddi
+davasını açar. ^(1)^
 
 Kocanın açacağı soybağının reddi davasına ilişkin hükümler kıyas yoluyla
 uygulanır.
@@ -3372,7 +3375,7 @@ edebilirler. İtiraz eden, kocanın baba olmadığını ispatla yükümlüdür.
 Çocuğun altsoyu da, çocuğun ölmüş ya da ayırt etme gücünü sürekli olarak
 kaybetmiş olması hâlinde itiraz hakkına sahiptir.
 
-Tanımanın iptaline  ilişkin hükümler kıyas yoluyla uygulanır.
+Tanımanın iptaline ilişkin hükümler kıyas yoluyla uygulanır.
 
 ÜÇÜNCÜ AYIRIM
 
@@ -3382,7 +3385,7 @@ TANIMA VE BABALIK HÜKMÜ
 
 *I. Koşulları ve şekli*
 
-**Madde 295-** Tanıma, babanın,  nüfus memuruna veya mahkemeye yazılı
+**Madde 295-** Tanıma, babanın, nüfus memuruna veya mahkemeye yazılı
 başvurusu ya da resmî senette veya vasiyetnamesinde yapacağı beyanla
 olur.
 
@@ -3391,6 +3394,13 @@ vasisinin de rızası gereklidir.
 
 Başka bir erkek ile soybağı bulunan çocuk, bu bağ geçersiz kılınmadıkça
 tanınamaz.
+
+–––––––––––––
+
+*(1) Bu fıkrada yer alan “...her hâlde doğumdan başlayarak beş yıl...”
+ibaresi, 10/12/2013 tarihli ve 28847 sayılı Resmi Gazete’de yayımlanan
+Anayasa Mahkemesi’nin 10/10/2013 tarihli ve E.: 2013/62, K.: 2013/115
+sayılı Kararı ile iptal edilmiştir.*
 
 8093
 
@@ -3725,11 +3735,10 @@ Noksanlıklar bu arada ortadan kalkmış veya sadece usule ilişkin olup
 ilişkinin kaldırılması evlâtlığın menfaatini ağır biçimde zedeleyecek
 olursa, bu yola gidilemez.
 
-*II. Hak düşürücü süre ^(1)^*
+*II. Hak düşürücü süre* ^(1)^
 
 **Madde 319-** Dava hakkı, evlâtlık ilişkisinin kaldırılması sebebinin
-öğrenilmesinden başlayarak bir yıl ve her hâlde evlât edinme işleminin
-üzerinden beş yıl geçmekle düşer.
+öğrenilmesinden başlayarak bir yıl (…) ^(1)^ geçmekle düşer. ^(1)^
 
 *F. Evlâtlık işlemlerinde aracılık*
 
@@ -3796,9 +3805,9 @@ yoluyla uygulanır.
 
 *(1) Bu maddede yer alan “…ve her hâlde evlât edinme işleminin üzerinden
 beş yıl…” ibaresi, Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.:
-2012/35, K.: 2012/203 sayılı Kararı ile iptal edilmiş olup, İptal
-Kararının Resmi Gazete’de yayımlandığı 12/7/2013 tarihden başlayarak
-altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.*
+2012/35, K.: 2012/203 sayılı Kararı ile iptal edilmiş olup, İptal Kararı
+Resmi Gazete’de yayımlandığı 12/7/2013 tarihinden başlayarak altı ay
+sonra yürürlüğe girmiştir.*
 
 *(2) Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2005/114, K.:
 2009/105 sayılı Kararı ile; bu maddenin birinci cümlesinde yer alan “…
@@ -4158,7 +4167,7 @@ Kazandırmada bulunan kişi, kazandırma sırasında açıkça aksini
 **Madde 358-** Ölüme bağlı tasarruf yoluyla çocuğun saklı payı ana ve
 babanın yönetimi dışında bırakılabilir.
 
-Mirasbırakanyönetimi bir üçüncü kişiye bırakmışsa, tasarrufunda bu
+Mirasbırakan yönetimi bir üçüncü kişiye bırakmışsa, tasarrufunda bu
 kişinin belirli zamanlarda sulh hâkimine hesap vermesini öngörebilir.
 
 *III. Meslek veya sanat için verilen mal ve kişisel kazanç*
@@ -5911,7 +5920,7 @@ TASARRUF ÖZGÜRLÜĞÜ
 olarak altsoyu, ana ve babası veya eşi bulunan miras bırakan, mirasının
 saklı paylar dışında kalan kısmında ölüme bağlı tasarrufta bulunabilir.
 
-Bu mirasçılardan hiç biri yoksa,mirasbırakan mirasının tamamında
+Bu mirasçılardan hiç biri yoksa, mirasbırakan mirasının tamamında
 tasarruf edebilir.
 
 *II. Saklı pay*
@@ -5942,7 +5951,7 @@ indirilir.
 
 *2. Sağlararası karşılıksız kazandırmalar*
 
-**Madde 508-**Mirasbırakanınsağlararası karşılıksız kazandırmaları,
+**Madde 508-**Mirasbırakanın sağlararası karşılıksız kazandırmaları,
 tenkise tâbi oldukları ölçüde, tasarruf edilebilir kısmın hesabında
 terekeye eklenir.
 
@@ -6123,7 +6132,7 @@ Bu kurallar belirli mal bırakmada da uygulanır.
 **Madde 522-** Tasarrufta geçiş anı belirtilmemişse miras, önmirasçının
 ölümüyle artmirasçıya geçer.
 
-Tasarrufta geçiş anı gösterilmiş olupönmirasçının ölümünde bu an henüz
+Tasarrufta geçiş anı gösterilmiş olup önmirasçının ölümünde bu an henüz
 gelmemişse miras, güvence göstermeleri koşuluyla önmirasçının
 mirasçılarına teslim edilir.
 
@@ -6160,7 +6169,7 @@ kazanır.
 Artmirasçı geçiş anından önce ölmüşse, tasarrufta aksi öngörülmüş
 olmadıkça, miras önmirasçıya kalır.
 
-Önmirasçımirasbırakanın ölümünde sağ değilse veya mirastan yoksun
+Önmirasçı mirasbırakanın ölümünde sağ değilse veya mirastan yoksun
 kalmışsa ya da mirası reddederse, miras artmirasçıya geçer.
 
 *G. Vakıf*
@@ -6678,7 +6687,7 @@ Bu kurallar, sağlararası kazandırmaların tenkisinde de uygulanır.
 tasarruflar gibi tenkise tâbidir:
 
 1\. Mirasbırakanın, mirasçılık sıfatını kaybeden yasal mirasçıya miras
-payına mahsuben yapmış olduğu sağlararasıkazandırmalar,geri verilmemek
+payına mahsuben yapmış olduğu sağlararası kazandırmalar, geri verilmemek
 kaydıyla altsoyuna malvarlığı devri veya borçtan kurtarma yoluyla
 yaptığı kazandırmalar ya da alışılmışın dışında verilen çeyiz ve kuruluş
 sermayesi,
@@ -7410,7 +7419,7 @@ olsa idi bundan yararlanacak olan mirasçılara verilir.
 
 *VIII. Ret hâlinde sorumluluk*
 
-**Madde 618-** Ödemeden âciz bir mirasbırakanınmirasını reddeden
+**Madde 618-** Ödemeden âciz bir mirasbırakanın mirasını reddeden
 mirasçılar, onun alacaklılarına karşı, ölümünden önceki beş yıl içinde
 ondan almış oldukları ve mirasın paylaşılmasında geri vermekle yükümlü
 olacakları değer ölçüsünde sorumlu olurlar.
@@ -7950,70 +7959,29 @@ değer sulh hâkimi tarafından belirlenir.
 
 *a. Koşulları*
 
-**Madde 659-** Terekede bulunan, ekonomik bütünlüğe ve yeterli tarımsal
-varlığa sahip bir tarımsal işletme, işletmeye ehil mirasçılardan birinin
-istemde bulunması hâlinde bu mirasçıya gelir değeri üzerinden
-bölünmeksizin özgülenir.
-
-Bir işletme, değerinde azalma olmaksızın birden çok yeterli tarımsal
-varlığa sahip işletmeye bölünebilecek nitelikte ise, sulh hâkimi
-bunları, istemde bulunan ve işletmeye  ehil olan birden çok mirasçıya
-ayrı ayrı özgüleyebilir.
-
-İşletmenin yeterli tarımsal varlığa sahip olup olmadığı, tarım
-bölgeleriyle tarım türlerinin özellikleri göz önünde tutularak ilgili
-bakanlıkça çıkarılacak yönetmelikle belirlenir.
+**Madde 659-** **(Mülga: 30/4/2014-6537/9 md.)**
 
 *b. Taşınırların özgülenmesi*
 
-**Madde 660-** Mirasçı, işletme için gerekli olan araç, gereç ve
-hayvanların işletme için taşıdığı değer üzerinden kendisine
-özgülenmesini isteyebilir.
+**Madde 660-** **(Mülga: 30/4/2014-6537/9 md.) **
 
 *c. Özgülenmenin hangi mirasçıya yapılacağı*
 
-**Madde 661-** Mirasçılardan birinin özgüleme istemine itiraz etmesi
-veya isteklilerin birden çok olması hâlinde, sulh hâkimi, kişisel
-yetenek ve durumları göz önünde tutmak suretiyle işletmenin hangi
-mirasçıya özgüleneceğine karar verir.
-
-İşletmeyi kendisi işletmek isteyen ve bunun için ehil olduğu anlaşılan
-mirasçıya özgülemede öncelik tanınır.
-
-İşletmeye ehil olmanın belirlenmesinde, özgülenme isteyen mirasçının
-eşinin yetenekleri de göz önünde tutulur.
+**Madde 661-** **(Mülga: 30/4/2014-6537/9 md.) **
 
 *d. Ölüme bağlı tasarruf ile düzenleme*
 
-**Madde 662-** İşletmenin kendisine özgülenmesini isteyen ve buna ehil
-olduğu anlaşılan mirasçının bu konudaki istem hakkı, ölüme bağlı
-tasarrufla ortadan kaldırılamaz.
-
-Mirasçılıktan çıkarma ve mirastan feragat hâlleri saklıdır.
-
-Birden çok mirasçıda özgülenme koşullarının bulunması hâlinde, kendisine
-özgülenme yapılacak mirasçı ölüme bağlı tasarrufla belirlenebilir.
+**Madde 662-** **(Mülga: 30/4/2014-6537/9 md.) **
 
 *e. Ergin olmayan mirasçılar*
 
-**Madde 663-** Mirasçılar arasında ergin olmayan ayırt etme gücüne sahip
-altsoy varsa; paylaşma, bunlar ergin oluncaya kadar ertelenebilir veya
-mirasçılar arasında özgülemeye karar verilebilecek tarihe kadar aile
-malları ortaklığı kurulur.
+**Madde 663-** **(Mülga: 30/4/2014-6537/9 md.) **
 
 *2. Aile malları ortaklığı*
 
 *a. İstem hakkı*
 
-**Madde 664-** Kendisine işletme özgülenen mirasçının, diğer
-mirasçıların payları karşılığında ödemesi gereken miktar ile daha önce
-işletme üzerinde kurulmuş bulunan rehinlerle güvence altına alınmış olan
-borçların toplamı, işletmenin gelir değerinin dörtte üçünüaşarsa,
-kendisine özgüleme yapılan mirasçının istemi üzerine özgülenen
-işletmenin paylaşılması uygun bir süre ertelenebilir.
-
-Bu takdirde mirasçılar arasında kazanç paylı aile malları ortaklığı
-kurulmuş olur.
+**Madde 664-** **(Mülga: 30/4/2014-6537/9 md.)**
 
 8153
 
@@ -8021,50 +7989,19 @@ kurulmuş olur.
 
 *b. Ortaklığın sona erdirilmesi*
 
-**Madde 665-** Kendisine işletme özgülenen mirasçı, aşırı borçlanma
-zorunda kalmaksızın diğer mirasçıların paylarının karşılığını ödeyecek
-duruma gelirse; mirasçılardan her biri, ortaklıktan çıktığını bildirerek
-payının karşılığının kendisine ödenmesini isteyebilir.
-
-Aksi kararlaştırılmış olmadıkça, kendisine özgülenme yapılan mirasçı
-ortaklığın sona erdirilmesini her zaman isteyebilir.
+**Madde 665-** **(Mülga: 30/4/2014-6537/9 md.) **
 
 *3. Diğer mirasçıların paylarının mirasçı irat senediyle karşılanması*
 
-**Madde 666-** Kendisine işletme özgülenen mirasçı paylaşmanın
-ertelenmesini isterse, diğer mirasçılardan her biri, kazanç paylı
-ortaklığa girme yerine, payının tarımsal işletmeye ait taşınmazlarla
-güvence altına alınan bir alacak hakkına dönüştürülmesini isteyebilir.
-
-Bu alacaklar karşılığı olarak mirasçılara beş yıldan önce paraya
-çevrilemeyen ve en fazla irat senetleri için geçerli oran üzerinden
-faizlendirilerek bir mirasçı irat senedi verilir.
-
-İrat senetlerindeki yükün üst sınırına ve Devletin sorumluluğuna ilişkin
-kurallar mirasçı irat senetlerinde uygulanmaz. 
+**Madde 666-** **(Mülga: 30/4/2014-6537/9 md.) **
 
 *4. Yan sınaî işletme *
 
-**Madde 667-** Tarımsal işletmeye sıkı şekilde bağlı bir yan sınaî
-işletme bulunur ve bunlar birlikte yeterli ekonomik varlığa sahip
-olurlarsa, ikisi bir bütün olarak istekli olan ve ehil görülen mirasçıya
-özgülenir.
-
-Bu durumda tarımsal işletme gelir değeriyle, sınaî işletme sürüm
-değeriyle özgülenir.
-
-Mirasçılardan birinin itiraz etmesi veya birden çok mirasçının özgülenme
-istemesi hâlinde, sulh hâkimi her iki işletmenin ekonomik varlıklarını
-sürdürme olanaklarını ve mirasçıların kişisel durumlarını göz önünde
-bulundurarak yan işletmenin birlikte veya ayrı olarak özgülenmesine ya
-da satışına karar verir.
+**Madde 667-** **(Mülga: 30/4/2014-6537/9 md.)**
 
 *5. İşletmenin satılması*
 
-**Madde 668-** Mirasçılardan hiç biri tarımsal işletmenin bir bütün
-olarak kendisine özgülenmesini istemez veya özgülenme istemi
-reddedilirse, mirasçılardan her biri işletmenin bir bütün olarak
-satılmasını isteyebilir.
+**Madde 668-** **(Mülga: 30/4/2014-6537/9 md.)**
 
 ÜÇÜNCÜ AYIRIM
 
@@ -11606,7 +11543,7 @@ REHİNLİ TAHVİL
 
 **Madde 970-** İşletme olarak taşınmaz rehni karşılığında ödünç verme
 işiyle uğraşmak üzere yetkili makamdan izin alanlar, özel bir rehin
-sözleşmesi ve teslim yükümlülüğü olmasa bile, taşınmaz rehniylegüvence
+sözleşmesi ve teslim yükümlülüğü olmasa bile, taşınmaz rehniyle güvence
 altına alınmış alacakları ile cari işlerinden doğan alacaklarını
 karşılık göstererek rehinli tahvil çıkarabilirler.
 
@@ -12151,7 +12088,7 @@ Sicildeki kaydın bir örneği isteyen ilgiliye verilir.
 
 Tescil ve terkin ile verilecek örneklerin şekli tüzükle belirlenir.
 
-2\. Taşınmaz lehine irtifaklarda
+*2. Taşınmaz lehine irtifaklarda*
 
 **Madde 1018-** Taşınmaz lehine irtifakların tescil ve terkini hem
 yüklü, hem  yararlanan taşınmazların sayfalarına kaydedilir.
@@ -12342,7 +12279,15 @@ kuruluşlar hakkında da uygulanır.
 
   6462                       3/5/2013                                                                                                   313, 340, 408, 417, 674
 
-                             12/7/2013 tarihden başlayarak altı ay sonra                        27/12/2012 E.: 2012/35 K.: 2012/203     319
+                             12/7/2013 tarihinden başlayarak altı ay sonra                      27/12/2012 E.: 2012/35 K.: 2012/203     319
+
+                             10/12/2013                                                         10/10/2013 E.: 2013/62                  291
+                                                                                                                                        
+                                                                                                K.: 2013/115                            
+
+  6518                       19/2/2014                                                          -                                       194
+
+  6537                       15/5/2014                                                                                                  659, 660, 661, 662, 663, 664, 665, 666, 667, 668
   -------------------------- ------------------------------------------------------------------ --------------------------------------- -------------------------------------------------------------
 
- 
+
