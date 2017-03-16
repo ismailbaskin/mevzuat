@@ -1,4 +1,4 @@
-6/12/2006 tarihli ve 5560 sayılı Kanunla değişik hali
+23/1/2008 tarihli ve 5728 sayılı Kanunla Değişen Hali
 
 **CEZA MUHAKEMESİ KANUNU**
 
@@ -4214,11 +4214,11 @@ bildirilir.
 \(4) Hüküm fıkrası herkes tarafından ayakta dinlenir.
 
 \(5) **(Ek: 6/12/2006-5560/23 md.)** Sanığa yüklenen suçtan dolayı
-yapılan yargılama sonunda hükmolunan ceza, bir yıl veya daha az süreli
+yapılan yargılama sonunda hükmolunan ceza, iki yıl veya daha az süreli
 hapis veya adlî para cezası ise; mahkemece, hükmün açıklanmasının geri
 bırakılmasına karar verilebilir. Uzlaşmaya ilişkin hükümler saklıdır.
 Hükmün açıklanmasının geri bırakılması, kurulan hükmün sanık hakkında
-bir hukukî sonuç doğurmamasını ifade eder.
+bir hukukî sonuç doğurmamasını ifade eder.*^(2)\ ^*
 
 \(6) **(Ek: 6/12/2006-5560/23 md.)**
 
@@ -4277,6 +4277,10 @@ hüküm ortadan kaldırılarak, davanın düşmesi kararı verilir.
 bölümün başlığı “Hükmün açıklanması” iken metne işlendiği şekilde
 değiştirilmiştir.*
 
+*(2) 23/1/2008 tarihli ve 5728 sayılı Kanunun 562 nci maddesiyle bu
+fıkrada yer alan “bir yıl” ibaresi “iki yıl” olarak, maddenin ondördüncü
+fıkrası aşağıdaki şekilde değiştirilmiştir.*
+
 \(11) **(Ek: 6/12/2006-5560/23 md.)** Denetim süresi içinde kasten yeni
 bir suç işlemesi veya denetimli serbestlik tedbirine ilişkin
 yükümlülüklere aykırı davranması halinde, mahkeme hükmü açıklar. Ancak
@@ -4295,9 +4299,10 @@ ancak bir soruşturma veya kovuşturmayla bağlantılı olarak Cumhuriyet
 savcısı, hâkim veya mahkeme tarafından istenmesi halinde, bu maddede
 belirtilen amaç için kullanılabilir.
 
-\(14) **(Ek: 6/12/2006-5560/33 md.)** Bu maddenin hükmün açıklanmasının
-geri bırakılmasına ilişkin hükümleri, soruşturulması ve kovuşturulması
-şikâyete bağlı suçlarla ilgili olarak uygulanabilir.
+\(14) **(Ek: 6/12/2006-5560/33 md.-Değişik:23/1/2008-5728/561 md.)** Bu
+maddenin hükmün açıklanmasının geri bırakılmasına ilişkin hükümleri,
+Anayasanın 174 üncü maddesinde koruma altına alınan inkılâp kanunlarında
+yer alan suçlarla ilgili olarak uygulanmaz.
 
 **Hükmün gerekçesi ve hüküm fıkrasının içereceği hususlar**
 
@@ -6176,6 +6181,56 @@ girer.*^(1)^*
 bağlanmış olmakla beraber henüz kesinleşmemiş olan dosyalarda, uzlaşma
 kapsamının genişlediğinden bahisle bozma kararı verilemez.
 
+*(2) 5728 sayılı Kanunun Geçici Maddeleri: *
+
+**GEÇİCİ MADDE 1-** Bu Kanunun yürürlüğe girdiği tarihte Yargıtay ilgili
+ceza dairesinde bulunan dosyalar hakkında bu Kanunun lehe hükümlerinin
+derhal uygulanabileceği hallerde**,** usule aykırılık bulunmadığı
+takdirde, dosya esastan incelenmek, acele işlerden sayılmak ve Türk Ceza
+Kanununun 7 nci maddesi dikkate alınmak suretiyle karar verilir.
+
+Bu Kanun yürürlüğe girdiği tarihten önce kesinleşmiş ve infaz edilmekte
+olan mahkûmiyet kararları hakkında, lehe kanun hükümleri, hükmü veren
+mahkemece 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik
+Tedbirlerinin İnfazı Hakkında Kanunun 98 ilâ 101 inci maddeleri dikkate
+alınmak ve dosya üzerinden incelenmek suretiyle belirlenir. Ancak,
+hükmün konusunun herhangi bir inceleme, araştırma, delil tartışması ve
+takdir hakkının kullanılmasını gerektirmesi halinde inceleme, duruşma
+açılmak suretiyle yapılabilir.
+
+Bu Kanunun yürürlüğe girdiği tarihten önce kesin hükümle sonuçlanmış
+olan davalarda lehe hükmün belirlenmesi ve uygulanması amacıyla, yapılan
+yargılama bakımından dava zamanaşımı hükümleri uygulanmaz.
+
+İşbu Kanun yürürlüğe girdiği tarih itibarıyla kesinleşmemiş olmakla
+beraber hükme bağlanmış olan dosyalarda uzlaşma kapsamının
+genişlediğinden bahisle bozma kararı verilemez.
+
+**GEÇİCİ MADDE 2-** Bu Kanunun yürürlüğe girdiği tarihte kovuşturma
+evresinde bulunan dava dosyaları hakkında:
+
+a\) Mahkemenin görevli olmaması hâlinde, dosya üzerinde yapılacak
+inceleme sonucunda verilecek görevsizlik kararıyla dosya, görevli
+mahkemeye gönderilir.
+
+b\) Daha önce soruşturma ve kovuşturma evrelerinde yapılmış olan işlem ve
+kararlar hukukî geçerliliklerini sürdürürler.
+
+**GEÇİCİ MADDE 3-** Bu Kanun hükümlerine göre suç karşılığı uygulanan
+yaptırımı idarî yaptırıma dönüşen fiiller nedeniyle;
+
+a\) Soruşturma evresinde Cumhuriyet başsavcılığınca,
+
+b\) Kovuşturma evresinde mahkemece,
+
+idarî yaptırım kararı verilir.
+
+Birinci fıkra kapsamına giren fiillerden, Yargıtay Cumhuriyet
+Başsavcılığında bulunan işlerde Yargıtay Cumhuriyet Başsavcılığınca,
+Yargıtayın ilgili dairesinde bulunan işlerde ise ilgili dairece, bu
+Kanuna göre işlem yapılmak üzere gelişlerindeki usule uygun olarak dava
+dosyası hükmü veren mahkemeye gönderilir.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle
@@ -6191,9 +6246,9 @@ değiştirilmiş ve metne işlenmiştir.*
 
   1.     5353                       1/6/2005                                      1/6/2005                                                          35, 75, 76, 80, 81, 85, 90, 91, 94, 98, 100, 103, 105, 109, 119, 127, 135, 137, 140, 142, 143, 151, 153, 161, 164, 173, 174, 193, 206, 223, 247
 
-  1.     5560                       19/12/2006                                    19/12/2006                                                        6, 100, 102, 109, 146, 150, 171, 231, 253, 254, 309, 310, 325 ve İşlenemeyen Hüküm
+  1.     5560                       19/12/2006                                    19/12/2006                                                        6, 100, 102, 109, 146, 150, 171, 231, 253, 254, 309, 310, 325
 
-  1.                                                                                                                                                
+  1.     5728                       8/2/2008                                      8/2/2008                                                          231 ve İşlenemeyen Hüküm
 
   1.                                                                                                                                                
 
