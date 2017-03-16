@@ -1,7 +1,6 @@
-**Anayasa Mahkemesi’nin 20/9/2012 tarihli ve E.: 2012/45, K.: 2012/125
-sayılı Kararı ile değişik hali**
+**Anayasa Mahkemesi’nin 20/9/2012 tarihli ve E.: 2011/80, **
 
- 
+**K.: 2012/122 sayılı Kararı ile değişik hali**
 
 []{#K41 .anchor}ASKERİ MAHKEMELER KURULUŞU VE
 
@@ -172,7 +171,8 @@ B\) Yedek askerler (Askeri hizmette bulundukları sürece),
 C\) **(İptal: Anayasa Mahkemesi’nin 20/9/2012 tarihli ve E.: 2012/45, K.:
 2012/125 sayılı Kararı ile.)**
 
-D\) Askeri işyerlerinde çalışan ve İş Kanununa tabi bulunan işçiler,
+D\) **(İptal: Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2012/117,
+K.: 2012/204 sayılı Kararı ile.)**
 
 E\) Rızası ile Türk Silahlı Kuvvetlerine katılanlar,
 
@@ -186,16 +186,13 @@ Uluslararası anlaşmalar gereğince yabancı asker kişilerin askerî
 mahkemede yargılanmalarını gerektiren suçları hakkında soruşturma ve
 kovuşturma yapılması Millî Savunma Bakanının iznine bağlıdır.
 
-*Müşterek suçlar:*
+*Müşterek suçlar: ^(4)^*
 
-**Madde 12 – **Askeri mahkemelere ve adliye mahkemelerine tabi kişiler
-tarafından bir suçun müştereken işlenmesi halinde eğer suç Askeri Ceza
-Kanununda yazılı bir suç ise sanıkların yargılanmaları askeri
-mahkemelere; eğer suç Askeri Ceza Kanununda yazılı olmıyan bir suç ise
-adliye mahkemelerine aittir.
+**Madde 12 – (İptal: Anayasa Mahkemesi’nin 20/9/2012 tarihli ve E.:
+2011/80, K.: 2012/122 sayılı Kararı ile.) ^(4)^**
 
 *Barış zamanında sivil kişilerin Askerî Ceza Kanununa tâbi  suçlarında
-yargılama mercii:^(2)^*
+yargılama mercii:^(3)^*
 
 **Madde 13 –** **(Değişik: 29/6/2006-5530/4 md.) **
 
@@ -228,7 +225,10 @@ bentte yer alan “uzman erbaşlar,” ibaresinden sonra gelmek üzere
 mahkemelerde yargılanmaları:”, 13 üncü maddenin başlığı “Askeri
 mahkemelere ve adliye mahkemelerine tabi iki suç işlenmesi halinde
 yargılama önceliği:” iken, 29/6/2006 tarihli ve 5530 sayılı Kanunun 3 ve
-4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.* 
+4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+
+*(4) Sözkonusu İptal Kararı 1/12/2012 tarihinden başlayarak altı ay
+sonra yürürlüğe girmiştir.*
 
 3762
 
@@ -3268,40 +3268,60 @@ başladıkları tarihte yürürlüğe girer.
 
 3797-3811
 
-**353 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+**353 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL**
 
-**Değiştiren Kanun Yürürlüğe**
+**EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
-***No. 353 sayılı Kanunun değişen maddeleri giriş tarihi***
+**GÖSTERİR LİSTE**
 
-1596 – 21/6/1972
+  -------------------------------------------------------------------------------------- ------------------------------------------------------------ ----------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**             **353 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş **
+                                                                                                                                                      
+                                                                                                                                                      **Tarihi**
 
-2376 – 23/1/1981
+  1596                                                                                   –                                                            21/6/1972
 
-2538 – 18/10/1981
+  2376                                                                                   –                                                            23/1/1981
 
-2875 – 13/8/1983
+  2538                                                                                   –                                                            18/10/1981
 
-3034 – 9/7/1984
+  2875                                                                                   –                                                            13/8/1983
 
-3150 – 22/1/1985
+  3034                                                                                   –                                                            9/7/1984
 
-4191 – 13/10/1996
+  3150                                                                                   –                                                            22/1/1985
 
-4893 – 17/6/2003
+  4191                                                                                   –                                                            13/10/1996
 
-4963 – 7/8/2003
+  4893                                                                                   –                                                            17/6/2003
 
-5078 66, 72, 73, 80, 163 29/1/2004
+  4963                                                                                   –                                                            7/8/2003
 
-5530 – 5/10/2006
+  5078                                                                                   66, 72, 73, 80, 163                                          29/1/2004
 
-6000 2, 3, 4, 5, 19, 45, 116, 244, Ek Geçici Madde 7 30/6/2010
+  5530                                                                                   –                                                            5/10/2006
 
-6191 10 22/3/2011
+  6000                                                                                   2, 3, 4, 5, 19, 45, 116, 244, Ek Geçici Madde 7              30/6/2010
 
-6318 93 3/6/2012
+  6191                                                                                   10                                                           22/3/2011
 
- 
+  6318                                                                                   93                                                           3/6/2012
+
+  Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2012/117, K.: 2012/204 sayılı Kararı   10 uncu maddenin birinci fıkrasının (D) bendi                6/3/2013
+  -------------------------------------------------------------------------------------- ------------------------------------------------------------ ----------------------
+
+3812
+
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------ -----------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**           **353 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş **
+                                                                                                                                                    
+                                                                                                                                                    **Tarihi**
+
+  Anayasa Mahkemesi’nin 20/9/2012 tarihli ve E.: 2011/80, K.: 2012/122 sayılı Kararı   12                                                           1/12/2012 tarihinden başlayarak altı ay sonra
+                                                                                                                                                    
+                                                                                                                                                    (1/5/2013)
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------ -----------------------------------------------
+
+
