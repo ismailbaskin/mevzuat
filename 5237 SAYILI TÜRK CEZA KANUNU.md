@@ -1,4 +1,4 @@
-**6545 sayılı Kanun ile değişik hali**
+**6638 sayılı Kanun ile değişik hali**
 
 **TÜRK CEZA KANUNU ^(1)^**
 
@@ -3837,12 +3837,12 @@ hapis ve adlî para cezası verilir.
 yürütülen bir meslek ve sanatın icrası kapsamında işlenmesi halinde,
 verilecek ceza üçte bir oranında artırılır.
 
-*Uyuşturucu veya uyarıcı madde imal ve ticareti^(3)^*
+*Uyuşturucu veya uyarıcı madde imal ve ticareti^(2)^*
 
 **Madde 188-** (1) Uyuşturucu veya uyarıcı maddeleri ruhsatsız veya
 ruhsata aykırı olarak imal, ithal veya ihraç eden kişi, yirmi yıldan
 otuz yıla kadar hapis ve yirmibin güne kadar adlî para cezası ile
-cezalandırılır.^(3)^
+cezalandırılır.^(2)^
 
 \(2) Uyuşturucu veya uyarıcı madde ihracı fiilinin diğer ülke açısından
 ithal olarak nitelendirilmesi dolayısıyla bu ülkede yapılan yargılama
@@ -3854,14 +3854,37 @@ hükmolunan cezadan mahsup edilir.
 olarak ülke içinde satan, satışa arz eden, başkalarına veren, sevk eden,
 nakleden, depolayan, satın alan, kabul eden, bulunduran kişi, on yıldan
 az olmamak üzere hapis ve yirmibin güne kadar adlî para cezası ile
-cezalandırılır.^(1)(3)^ **(Ek cümle: 18/6/2014 – 6545/66 md.)** Ancak,
+cezalandırılır.^(1)(2)^ **(Ek cümle: 18/6/2014 – 6545/66 md.)** Ancak,
 uyuşturucu veya uyarıcı madde verilen veya satılan kişinin çocuk olması
 hâlinde, veren veya satan kişiye verilecek hapis cezası on beş yıldan az
 olamaz.
 
-\(4) Uyuşturucu veya uyarıcı maddenin eroin, kokain, morfin veya
-bazmorfin olması halinde, yukarıdaki fıkralara göre verilecek ceza yarı
-oranında artırılır.^(2)^
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu fıkralarda geçen "nakleden" ibaresinden önce gelmek üzere,
+29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle, "sevk eden,"
+ibaresi eklenmiş ve metne işlenmiştir.*
+
+*(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 66 ncı maddesiyle, bu
+maddenin birinci fıkrasında yer alan “on yıldan az olmamak üzere”
+ibaresi “yirmi yıldan otuz yıla kadar” şeklinde, üçüncü fıkrasında yer
+alan “beş yıldan onbeş yıla kadar” ibaresi “on yıldan az olmamak üzere”
+ve yedinci fıkrasında yer alan “dört” ibaresi “sekiz” şeklinde
+değiştirilmiştir.*
+
+9012
+
+\(4) **(Değişik: 27/3/2015-6638/11 md.)** a) Yukarıdaki fıkralarda
+belirtilen uyuşturucu veya uyarıcı maddelerin eroin, kokain, morfin,
+sentetik kannabinoid ve türevleri veya bazmorfin olması,
+
+b\) Üçüncü fıkradaki fiillerin; okul, yurt, hastane, kışla veya
+ibadethane gibi tedavi, eğitim, askerî ve sosyal amaçla toplu bulunulan
+bina ve tesisler ile bunların varsa çevre duvarı, tel örgü veya benzeri
+engel veya işaretlerle belirlenen sınırlarına iki yüz metreden yakın
+mesafe içindeki umumi veya umuma açık yerlerde işlenmesi,
+
+hâlinde verilecek ceza yarı oranında artırılır.
 
 \(5) **(Değişik: 18/6/2014 – 6545/66 md.)** Yukarıdaki fıkralarda
 gösterilen suçların, üç veya daha fazla kişi tarafından birlikte
@@ -3880,26 +3903,7 @@ uyarıcı madde üretiminde kullanılan ve ithal veya imali resmi makamların
 iznine bağlı olan maddeyi ülkeye ithal eden, imal eden, satan, satın
 alan, sevk eden, nakleden, depolayan veya ihraç eden kişi, sekiz yıldan
 az olmamak üzere hapis ve yirmibin güne kadar adlî para cezası ile
-cezalandırılır.^(1)(3)^
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) Bu fıkralarda geçen "nakleden" ibaresinden önce gelmek üzere,
-29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle, "sevk eden,"
-ibaresi eklenmiş ve metne işlenmiştir.*
-
-*(2) Bu fıkrada geçen "uyuşturucu" ibaresinden sonra gelmek üzere,
-29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle "veya
-uyarıcı" ibaresi eklenmiş ve metne işlenmiştir.*
-
-*(3) 18/6/2014 tarihli ve 6545 sayılı Kanunun 66 ncı maddesiyle, bu
-maddenin birinci fıkrasında yer alan “on yıldan az olmamak üzere”
-ibaresi “yirmi yıldan otuz yıla kadar” şeklinde, üçüncü fıkrasında yer
-alan “beş yıldan onbeş yıla kadar” ibaresi “on yıldan az olmamak üzere”
-ve yedinci fıkrasında yer alan “dört” ibaresi “sekiz” şeklinde
-değiştirilmiştir.*
-
-9012
+cezalandırılır.^(1)(2)^
 
 \(8) Bu maddede tanımlanan suçların tabip, diş tabibi, eczacı, kimyager,
 veteriner, sağlık memuru, laborant, ebe, hemşire, diş teknisyeni,
@@ -3913,7 +3917,7 @@ oranında artırılır.
 suçlarının bir tüzel kişinin faaliyeti çerçevesinde işlenmesi halinde,
 tüzel kişi hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
 
-*Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma^(1)^*
+*Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma^(3)^*
 
 **        Madde 190-** (1) Uyuşturucu veya uyarıcı madde kullanılmasını
 kolaylaştırmak için;
@@ -3924,7 +3928,26 @@ b\) Kullananların yakalanmalarını zorlaştıracak önlemler alan,
 
 c\) Kullanma yöntemleri konusunda başkalarına bilgi veren,
 
-Kişi, beş yıldan on yıla kadar hapis cezası ile cezalandırılır.^(1)^
+Kişi, beş yıldan on yıla kadar hapis cezası ile cezalandırılır.^(3)^
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu fıkralarda geçen "nakleden" ibaresinden önce gelmek üzere,
+29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle, "sevk eden,"
+ibaresi eklenmiş ve metne işlenmiştir.*
+
+*(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 66 ncı maddesiyle, bu
+maddenin birinci fıkrasında yer alan “on yıldan az olmamak üzere”
+ibaresi “yirmi yıldan otuz yıla kadar” şeklinde, üçüncü fıkrasında yer
+alan “beş yıldan onbeş yıla kadar” ibaresi “on yıldan az olmamak üzere”
+ve yedinci fıkrasında yer alan “dört” ibaresi “sekiz” şeklinde
+değiştirilmiştir.*
+
+*(3) 18/6/2014 tarihli ve 6545 sayılı Kanunun 67 nci maddesiyle, bu
+maddenin birinci ve ikinci fıkralarında yer alan “iki yıldan beş”
+ibareleri “beş yıldan on” şeklinde değiştirilmiştir.*
+
+9012-1
 
 \(2) Uyuşturucu veya uyarıcı madde kullanılmasını alenen özendiren veya
 bu nitelikte yayın yapan kişi, beş yıldan on yıla kadar hapis cezası ile
@@ -3976,6 +3999,23 @@ veya uyarıcı madde satın alması, kabul etmesi veya bulundurması ya da
 uyuşturucu veya uyarıcı madde kullanması, dördüncü fıkra uyarınca ihlal
 nedeni sayılır ve ayrı bir soruşturma ve kovuşturma konusu yapılmaz.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 67 nci maddesiyle, bu
+maddenin birinci ve ikinci fıkralarında yer alan “iki yıldan beş”
+ibareleri “beş yıldan on” şeklinde değiştirilmiştir.*
+
+*(2) 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu
+maddenin ikinci fıkrası üçüncü fıkra, üçüncü fıkrası ise ikinci fıkra
+olarak değiştirilmiştir.*
+
+*(3) Bu maddenin başlığı “Kullanmak için uyuşturucu veya uyarıcı madde
+satın almak, kabul etmek veya bulundurmak” iken, 18/6/2014 tarihli ve
+6545 sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+9012-2
+
 \(6) Dördüncü fıkraya göre kamu davasının açılmasından sonra, birinci
 fıkrada tanımlanan suçun tekrar işlendiği iddiasıyla açılan
 soruşturmalarda ikinci fıkra uyarınca kamu davasının açılmasının
@@ -4003,20 +4043,12 @@ Kanununun kamu davasının açılmasının ertelenmesine ilişkin 171 inci
 maddesi veya hükmün açıklanmasının geri bırakılmasına ilişkin 231 inci
 maddesi hükümleri uygulanır.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\(1) *18/6/2014 tarihli ve 6545 sayılı Kanunun 67 nci maddesiyle, bu
-maddenin birinci ve ikinci fıkralarında yer alan “iki yıldan beş”
-ibareleri “beş yıldan on” şeklinde değiştirilmiştir.*
-
-*(2) 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu
-maddenin ikinci fıkrası üçüncü fıkra, üçüncü fıkrası ise ikinci fıkra
-olarak değiştirilmiştir.*
-
-*(3) Bu maddenin başlığı “Kullanmak için uyuşturucu veya uyarıcı madde
-satın almak, kabul etmek veya bulundurmak” iken, 18/6/2014 tarihli ve
-6545 sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
+\(10) **(Ek: 27/3/2015-6638/12 md.)** Birinci fıkradaki fiillerin; okul,
+yurt, hastane, kışla veya ibadethane gibi tedavi, eğitim, askerî ve
+sosyal amaçla toplu bulunulan bina ve tesisler ile bunların varsa çevre
+duvarı, tel örgü veya benzeri engel veya işaretlerle belirlenen
+sınırlarına iki yüz metreden yakın mesafe içindeki umumi veya umuma açık
+yerlerde işlenmesi hâlinde verilecek ceza yarı oranında artırılır.
 
 9013
 
@@ -5486,7 +5518,7 @@ tutulur.
 \(6) Aleyhine tanıklıkta bulunulan kimsenin ağırlaştırılmış müebbet hapis
 veya müebbet hapis cezasına mahkûmiyeti halinde, yirmi yıldan otuz yıla
 kadar hapis cezasına; süreli hapis cezasına mahkûmiyeti halinde, mahkûm
-olunan cezanın üçte ikisi kadar hapis cezasına hükmolunur.
+olunan cezanın üçte ikisi kadar hapis cezasına hükmolunur.^(1)^
 
 \(7) Aleyhine tanıklıkta bulunulan kimsenin mahkûm olduğu hapis cezasının
 infazına başlanmış ise, altıncı fıkraya göre verilecek ceza yarısı kadar
@@ -5509,6 +5541,15 @@ hatırlatılmadan gerçeğe aykırı olarak tanıklık yapması,
 
 Halinde, verilecek cezada indirim yapılabileceği gibi, ceza vermekten de
 vazgeçilebilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Anayasa Mahkemesinin 14/1/2015 tarihli ve E:2014/116, K:2015/4
+sayılı kararıyla bu bentte yer alan “…süreli hapis cezasına mahkûmiyeti
+halinde, mahkûm olunan cezanın üçte ikisi kadar hapis cezasına…” ibaresi
+iptal edilmiş olup, kararın Resmi Gazetede yayımlandığı 29/4/2015
+tarihinden başlayarak altı ay sonra yürürlüğe gireceği hüküm altına
+alınmıştır.*
 
 9031
 
@@ -6769,6 +6810,12 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6529                                                                                112, 113, 115, 122, 222                                              13/3/2014
 
   6545                                                                                12, 18, 102, 103, 104, 105, 142, 143, 149, 152, 188, 190, 191, 277   28/6/2014
+
+  6638                                                                                188, 191                                                             4/4/2015
+
+  Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E.: 2014/116, K.: 2015/4 sayılı Kararı   272                                                                  29/4/2015 tarihinden başlayarak altı ay sonra
+                                                                                                                                                           
+                                                                                                                                                           (29/10/2015)
   ----------------------------------------------------------------------------------- -------------------------------------------------------------------- ------------------------------------------------
 
 
