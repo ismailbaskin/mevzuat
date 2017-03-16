@@ -1,6 +1,4 @@
-**Anayasa Mahkemesi’nin 10/7/2013 tarihli ve **
-
-**E.: 2012/107 K.: 2013/90 sayılı Kararı ile değişik hali**
+**6526 sayılı Kanun ile değişik hali**
 
 []{#K10 .anchor}**İDARİ YARGILAMA USULÜ KANUNU ^(1)(2)^**
 
@@ -526,7 +524,7 @@ itibariyle tespit edilip Resmi Gazete'de ilan edilecek öncelikli işler
 gözönünde bulundurulmak suretiyle geliş tarihlerine göre incelenir ve
 tekemmül ettikleri sıra dahilinde bir karara bağlanır. Bunların dışında
 kalan dosyalar ise tekemmül ettikleri sıraya göre ve tekemmül tarihinden
-itibaren en geç altı ay içinde sonuçlandırılır.
+itibaren en geç altı ay içinde sonuçlandırılır. ^(1)^
 
 6\. **(Ek: 2/7/2012 - 6352/56 md.)** İdare ve vergi mahkemelerinde heyet
 halinde görülen davalarda, birinci fıkrada belirtilen bilgi ve
@@ -551,7 +549,7 @@ konulur ve karara bağlanır.
 ilişkin meselelerde azınlıkta kalanlar işin esası hakkında da oylarını
 kullanırlar. Azınlıkta kalanların görüşleri, kararların altına yazılır.
 
-Tutanaklar:
+*Tutanaklar:*
 
 **Madde 23 –** Her dava dosyası için görüşmelere katılan başkan ve
 üyelerin, Danıştayda düşünce veren savcının, tetkik hakiminin ve
@@ -568,6 +566,14 @@ saklanır.
 a\) Tarafların ve varsa vekillerinin veya temsilcilerinin ad ve soyadları
 yahut unvanları ve adresleri,
 
+——————————
+
+*(1) Bu fıkrada yer alan "...Başkanlık Kurulunca" ibaresi, 10/6/1994
+tarih ve 4001 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+5474
+
 b\) Davacının ileri sürdüğü olayların ve dayandığı hukuki sebeplerin
 özeti istem sonucu ile davalının savunmasının özeti,
 
@@ -579,14 +585,6 @@ bulunan taraflar ve vekil veya temsilcilerinin ad ve soyadları,
 
 e\) Kararın dayandığı hukuki sebepler ile gerekçesi ve hüküm:tazminat
 davalarında hükmedilen tazminatın miktarı,
-
-——————————
-
-*(1) Bu fıkrada yer alan "...Başkanlık Kurulunca" ibaresi, 10/6/1994
-tarih ve 4001 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
-
-5474
 
 f\) Yargılama giderleri ve hangi tarafa yükletildiği,
 
@@ -638,6 +636,15 @@ tarafa tebliğ edilir.
 idari mahkemelerde dava açılması dava edilen idari işlemin yürütülmesini
 durdurmaz.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 2/7/2012 tarihli ve 6352 sayılı Kanunun 57 nci maddesi ile bu
+maddenin (2) numaralı fıkrası değiştirilmiş, maddeye (2) numaralı
+fıkradan sonra gelmek üzere (3) numaralı fıkra eklenmiş ve diğer
+fıkralar buna göre teselsül ettirilmiştir.*
+
+5474-1
+
 2\. **(Değişik: 2/7/2012 - 6352/57 md.)** Danıştay veya idari mahkemeler,
 idari işlemin uygulanması halinde telafisi güç veya imkânsız zararların
 doğması ve idari işlemin açıkça hukuka aykırı olması şartlarının
@@ -645,13 +652,16 @@ birlikte gerçekleşmesi durumunda, davalı idarenin savunması alındıktan
 veya savunma süresi geçtikten sonra gerekçe göstererek yürütmenin
 durdurulmasına karar verebilirler. Uygulanmakla etkisi tükenecek olan
 idari işlemlerin yürütülmesi, savunma alındıktan sonra yeniden karar
-verilmek üzere, idarenin savunması alınmaksızın da durdurulabilir.
-Yürütmenin durdurulması kararlarında idari işlemin hangi gerekçelerle
-hukuka açıkça aykırı olduğu ve işlemin uygulanması halinde doğacak
-telafisi güç veya imkânsız zararların neler olduğunun belirtilmesi
-zorunludur. Sadece ilgili kanun hükmünün iptali istemiyle Anayasa
-Mahkemesine başvurulduğu gerekçesiyle yürütmenin durdurulması kararı
-verilemez.
+verilmek üzere, idarenin savunması alınmaksızın da durdurulabilir. **(Ek
+cümle: 21/2/2014-6526/17 md.)** Ancak, kamu görevlileri hakkında tesis
+edilen atama, naklen atama, görev ve unvan değişikliği, geçici veya
+sürekli görevlendirmelere ilişkin idari işlemler, uygulanmakla etkisi
+tükenecek olan idari işlemlerden sayılmaz.Yürütmenin durdurulması
+kararlarında idari işlemin hangi gerekçelerle hukuka açıkça aykırı
+olduğu ve işlemin uygulanması halinde doğacak telafisi güç veya imkânsız
+zararların neler olduğunun belirtilmesi zorunludur. Sadece ilgili kanun
+hükmünün iptali istemiyle Anayasa Mahkemesine başvurulduğu gerekçesiyle
+yürütmenin durdurulması kararı verilemez.
 
 3\. **(Ek: 2/7/2012 - 6352/57 md.)** Dava dilekçesi ve eklerinden
 yürütmenin durdurulması isteminin yerinde olmadığı anlaşılırsa, davalı
@@ -666,15 +676,6 @@ eder. Bu şekilde işlemden kaldırılan dosyanın yeniden işleme konulması
 ile ihtirazi kayıtla verilen beyannameler üzerine yapılan işlemlerle
 tahsilat işlemlerinden dolayı açılan davalar,tahsil işlemini durdurmaz.
 Bunlar hakkında yürütmenin durdurulması istenebilir.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 2/7/2012 tarihli ve 6352 sayılı Kanunun 57 nci maddesi ile bu
-maddenin (2) numaralı fıkrası değiştirilmiş, maddeye (2) numaralı
-fıkradan sonra gelmek üzere (3) numaralı fıkra eklenmiş ve diğer
-fıkralar buna göre teselsül ettirilmiş*
-
-5475
 
 5\. Yürütmenin durdurulması istemli davalarda 16 ncı maddede yazılı
 süreler kısaltılabileceği gibi, tebliğin memur eliyle yapılmasına da
@@ -698,6 +699,8 @@ yedi gün içinde bir defaya mahsus olmak üzere itiraz edilebilir. İtiraz
 edilen merciler, dosyanın kendisine gelişinden itibaren yedi gün içinde
 karar vermek zorundadır. İtiraz üzerine verilen kararlar kesindir.
 
+5475
+
 8\. Yürütmenin durdurulması kararı verilen dava dosyaları öncelikle
 incelenir ve karara bağlanır.
 
@@ -715,7 +718,17 @@ durdurulmasına ilişkin kararlarının icaplarına göre idare,gecikmeksizin
 işlem tesis etmeye veya eylemde bulunmaya mecburdur.Bu süre hiçbir
 şekilde kararın idareye tebliğinden başlayarak otuz günü geçemez.
 **(İptal cümle: Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107
-K.: 2013/90 sayılı Kararı ile)**
+K.: 2013/90 sayılı Kararı ile.)(…) (Ek cümleler: 21/2/2014-6526/18
+md.)** Kamu görevlileri hakkında tesis edilen atama, görevden alma,
+göreve son verme, naklen veya vekâleten atama, yer değiştirme, görev ve
+unvan değişikliği işlemleriyle ilgili olarak verilen iptal ve yürütmenin
+durdurulmasına ilişkin mahkeme kararlarının gereği; dava konusu edilen
+kadronun boş olması hâlinde bu kadroya, boş olmaması hâlinde ise aynı
+kurumda kazanılmış hak aylık derecesine uygun başka bir kadroya atanmak
+suretiyle yerine getirilir. Eski kadro ile atandığı yeni kadro arasında
+mali haklar bakımından bir fark bulunması durumunda, bu fark 14/7/1965
+tarihli ve 657 sayılı Devlet Memurları Kanununun 91 inci maddesinin
+ikinci fıkrasında düzenlenen usul ve esaslar çerçevesinde ödenir.
 
 2\. **(Değişik: 2/7/2012 - 6352/58 md.)** Konusu belli bir miktar paranın
 ödenmesini gerektiren davalarda hükmedilen miktar ile her türlü
@@ -731,10 +744,9 @@ kararlarına göre işlem tesis edilmeyen veya eylemde bulunulmayan
 hallerde idare aleyhine Danıştay ve ilgili idari mahkemede maddi ve
 manevi tazminat davası açılabilir.
 
-4\. Mahkeme kararlarının (otuz) ^(1)^ gün içinde kamu görevlilerince
-kasten yerine getirilmemesi halinde ilgili, idare aleyhine dava
-açabileceği gibi,kararı yerine getirmeyen kamu görevlisi aleyhine de
-tazminat davası açılabilir.
+4\. **(Değişik: 21/2/2014-6526/18 md.)** Mahkeme kararlarının süresi
+içinde kamu görevlilerince yerine getirilmemesi hâlinde tazminat davası
+ancak ilgili idare aleyhine açılabilir.
 
 5\. Vergi uyuşmazlıklarına ilişkin mahkeme kararlarının idareye
 tebliğinden sonra bu kararlara göre tespit edilecek vergi, resim,
@@ -755,12 +767,6 @@ için faiz işlemez.
 mahkemelerince verilen kararlar yeterince açık değilse, yahut birbirine
 aykırı hüküm fıkralarını taşıyorsa, taraflardan her biri kararın
 açıklanmasını veya aykırılığın giderilmesini isteyebilir.
-
-——————————
-
-*(1) Bu fıkrada yer alan "...altmış" kelimesi, 10/6/1994 tarih ve 4001
-sayılı Kanunun 13 üncü maddesiyle "otuz" olarak değiştirilmiş ve metne
-işlenmiştir.*
 
 5476
 
@@ -1713,5 +1719,12 @@ K.1995/49 sayılı Kararı ile.)**
                                                                                                                                                      
   Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107 K.: 2013/90 sayılı Kararı                                                                          
   ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------------------------
+
+5484-4
+
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2577 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  6526                                                                                 27, 28                                                        6/3/2014
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
 
 
