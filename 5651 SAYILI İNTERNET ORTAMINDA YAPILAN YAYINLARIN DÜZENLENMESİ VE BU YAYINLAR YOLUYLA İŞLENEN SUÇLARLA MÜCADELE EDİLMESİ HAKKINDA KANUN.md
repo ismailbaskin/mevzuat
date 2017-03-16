@@ -1,4 +1,4 @@
-**661 sayılı KHK ile değişik hali**
+**6495 sayılı Kanun ile değişik hali**
 
  
 
@@ -237,44 +237,41 @@ bil­di­ri­le­rek ge­re­ği­nin ye­ri­ne ge­ti­ril­me­si is­te­nir
 
 10106
 
- 
+\(5) Eri­şi­min en­gel­len­me­si ka­ra­rı­nın ge­re­ği, der­hal ve en geç
+ka­ra­rın bil­di­ril­me­si anın­dan iti­ba­ren yir­mi­dört sa­at için­de
+ye­ri­ne ge­ti­ri­lir.
 
-                (5) Eri­şi­min en­gel­len­me­si ka­ra­rı­nın ge­re­ği,
-der­hal ve en geç ka­ra­rın bil­di­ril­me­si anın­dan iti­ba­ren
-yir­mi­dört sa­at için­de ye­ri­ne ge­ti­ri­lir.
+\(6) Baş­kan­lık ta­ra­fın­dan ve­ri­len eri­şi­min en­gel­len­me­si
+ka­ra­rı­nın ko­nu­su­nu oluş­tu­ran ya­yı­nı ya­pan­la­rın
+kim­lik­le­ri­nin be­lir­len­me­si ha­lin­de, Baş­kan­lık ta­ra­fın­dan,
+Cum­hu­ri­yet baş­sav­cı­lı­ğı­na suç du­yu­ru­sun­da bu­lu­nu­lur.
 
-                (6) Baş­kan­lık ta­ra­fın­dan ve­ri­len eri­şi­min
-en­gel­len­me­si ka­ra­rı­nın ko­nu­su­nu oluş­tu­ran ya­yı­nı
-ya­pan­la­rın kim­lik­le­ri­nin be­lir­len­me­si ha­lin­de, Baş­kan­lık
-ta­ra­fın­dan, Cum­hu­ri­yet baş­sav­cı­lı­ğı­na suç du­yu­ru­sun­da
-bu­lu­nu­lur.
-
-                (7) So­ruş­tur­ma so­nu­cun­da ko­vuş­tur­ma­ya yer
-ol­ma­dı­ğı ka­ra­rı ve­ril­me­si ha­lin­de, eri­şi­min en­gel­len­me­si
-ka­ra­rı ken­di­li­ğin­den hü­küm­süz ka­lır. Bu du­rum­da Cum­hu­ri­yet
+\(7) So­ruş­tur­ma so­nu­cun­da ko­vuş­tur­ma­ya yer ol­ma­dı­ğı ka­ra­rı
+ve­ril­me­si ha­lin­de, eri­şi­min en­gel­len­me­si ka­ra­rı
+ken­di­li­ğin­den hü­küm­süz ka­lır. Bu du­rum­da Cum­hu­ri­yet
 sav­cı­sı, ko­vuş­tur­ma­ya yer ol­ma­dı­ğı ka­ra­rı­nın bir ör­ne­ği­ni
 Baş­kan­lı­ğa gön­de­rir.
 
-                (8) Ko­vuş­tur­ma ev­re­sin­de be­ra­at ka­ra­rı
-ve­ril­me­si ha­lin­de, eri­şi­min en­gel­len­me­si ka­ra­rı
-ken­di­li­ğin­den hü­küm­süz ka­lır. Bu du­rum­da mah­ke­me­ce be­ra­at
-ka­ra­rı­nın bir ör­ne­ği Baş­kan­lı­ğa gön­de­ri­lir.
+\(8) Ko­vuş­tur­ma ev­re­sin­de be­ra­at ka­ra­rı ve­ril­me­si ha­lin­de,
+eri­şi­min en­gel­len­me­si ka­ra­rı ken­di­li­ğin­den hü­küm­süz
+ka­lır. Bu du­rum­da mah­ke­me­ce be­ra­at ka­ra­rı­nın bir ör­ne­ği
+Baş­kan­lı­ğa gön­de­ri­lir.
 
-                (9) Ko­nu­su bi­rin­ci fık­ra­da sa­yı­lan suç­la­rı
-oluş­tu­ran içe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı ha­lin­de; eri­şi­min
+\(9) Ko­nu­su bi­rin­ci fık­ra­da sa­yı­lan suç­la­rı oluş­tu­ran
+içe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı ha­lin­de; eri­şi­min
 en­gel­len­me­si ka­ra­rı, so­ruş­tur­ma ev­re­sin­de Cum­hu­ri­yet
 sav­cı­sı, ko­vuş­tur­ma ev­re­sin­de mah­ke­me ta­ra­fın­dan
 kal­dı­rı­lır.
 
-                (10) Ko­ru­ma ted­bi­ri ola­rak ve­ri­len eri­şi­min
-en­gel­len­me­si ka­ra­rı­nın ge­re­ği­ni ye­ri­ne ge­tir­me­yen yer
-ve­ya eri­şim sağ­la­yı­cı­la­rı­nın so­rum­lu­la­rı, fi­il da­ha ağır
-ce­za­yı ge­rek­ti­ren baş­ka bir suç oluş­tur­ma­dı­ğı tak­dir­de,
-al­tı ay­dan iki yı­la ka­dar ha­pis ce­za­sı ile ce­za­lan­dı­rı­lır.
+\(10) Ko­ru­ma ted­bi­ri ola­rak ve­ri­len eri­şi­min en­gel­len­me­si
+ka­ra­rı­nın ge­re­ği­ni ye­ri­ne ge­tir­me­yen yer ve­ya eri­şim
+sağ­la­yı­cı­la­rı­nın so­rum­lu­la­rı, fi­il da­ha ağır ce­za­yı
+ge­rek­ti­ren baş­ka bir suç oluş­tur­ma­dı­ğı tak­dir­de, al­tı ay­dan
+iki yı­la ka­dar ha­pis ce­za­sı ile ce­za­lan­dı­rı­lır.
 
-                (11) İda­rî ted­bir ola­rak ve­ri­len eri­şi­min
-en­gel­len­me­si ka­ra­rı­nın ye­ri­ne ge­ti­ril­me­me­si ha­lin­de,
-Baş­kan­lık ta­ra­fın­dan eri­şim sağ­la­yı­cı­sı­na, on­bin Ye­ni Türk
+\(11) İda­rî ted­bir ola­rak ve­ri­len eri­şi­min en­gel­len­me­si
+ka­ra­rı­nın ye­ri­ne ge­ti­ril­me­me­si ha­lin­de, Baş­kan­lık
+ta­ra­fın­dan eri­şim sağ­la­yı­cı­sı­na, on­bin Ye­ni Türk
 Li­ra­sın­dan yüz­bin Ye­ni Türk Li­ra­sı­na ka­dar ida­rî pa­ra
 ce­za­sı ve­ri­lir. İda­rî pa­ra ce­za­sı­nın ve­ril­di­ği an­dan
 iti­ba­ren yir­mi­dört sa­at için­de ka­ra­rın ye­ri­ne
@@ -282,10 +279,10 @@ ge­ti­ril­me­me­si ha­lin­de ise Baş­kan­lı­ğın ta­le­bi üze­r
 Ku­rum ta­ra­fın­dan yet­ki­len­dir­me­nin ip­ta­li­ne ka­rar
 ve­ri­le­bi­lir.
 
-                (12) Bu Ka­nun­da ta­nım­la­nan ka­ba­hat­ler
-do­la­yı­sıy­la Baş­kan­lık ve­ya Ku­rum ta­ra­fın­dan ve­ri­len ida­rî
-pa­ra ce­za­la­rı­na iliş­kin ka­rar­la­ra kar­şı, 6/1/1982 ta­rih­li ve
-2577 sa­yı­lı İda­rî Yar­gı­la­ma Usu­lü Ka­nu­nu hü­küm­le­ri­ne gö­re
+\(12) Bu Ka­nun­da ta­nım­la­nan ka­ba­hat­ler do­la­yı­sıy­la
+Baş­kan­lık ve­ya Ku­rum ta­ra­fın­dan ve­ri­len ida­rî pa­ra
+ce­za­la­rı­na iliş­kin ka­rar­la­ra kar­şı, 6/1/1982 ta­rih­li ve 2577
+sa­yı­lı İda­rî Yar­gı­la­ma Usu­lü Ka­nu­nu hü­küm­le­ri­ne gö­re
 ka­nun yo­lu­na baş­vu­ru­la­bi­lir.
 
 \(13) **(Ek: 5/11/2008-5809/67 md.)** İşlemlerin yürütülmesi için
@@ -293,34 +290,41 @@ Başkanlığa gönderilen hakim ve mahkeme kararlarına 4/12/2004 tarihli ve
 5271 sayılı Ceza Muhakemesi Kanunu hükümlerine göre Başkanlıkça itiraz
 edilebilir.
 
-**                İçe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı ve ce­vap hak­kı
-**
+\(14) **(Ek: 12/7/2013-6495/47 md.)** 14/3/2007 tarihli ve 5602 sayılı
+Şans Oyunları Hasılatından Alınan Vergi, Fon ve Payların Düzenlenmesi
+Hakkında Kanunun 3 üncü maddesinin birinci fıkrasının (ç) bendinde
+tanımlanan kurum ve kuruluşlar, kendi görev alanına giren suçların
+internet ortamında işlendiğini tespit etmeleri hâlinde, bu yayınlarla
+ilgili olarak erişimin engellenmesi kararı alabilirler. Erişimin
+engellenmesi kararları uygulanmak üzere Telekomünikasyon İletişim
+Başkanlığına gönderilir.
 
-**                MAD­DE 9-** (1) İçe­rik ne­de­niy­le hak­la­rı ihlâl
-edil­di­ği­ni id­dia eden ki­şi, içe­rik sağ­la­yı­cı­sı­na, bu­na
-ula­şa­ma­ma­sı ha­lin­de yer sağ­la­yı­cı­sı­na baş­vu­ra­rak
-ken­di­si­ne iliş­kin içe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı­nı ve
-ya­yın­da­ki kap­sa­mın­dan faz­la ol­ma­mak üze­re ha­zır­la­dı­ğı
-ce­va­bı bir haf­ta sü­rey­le in­ter­net or­ta­mın­da
-ya­yım­lan­ma­sı­nı is­te­ye­bi­lir. İçe­rik ve­ya yer sağ­la­yı­cı
-ken­di­si­ne ulaş­tı­ğı ta­rih­ten iti­ba­ren iki gün için­de, ta­le­bi
-ye­ri­ne ge­ti­rir. Bu sü­re zar­fın­da ta­lep ye­ri­ne
-ge­ti­ril­me­di­ği tak­dir­de red­de­dil­miş sa­yı­lır.
+**İçe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı ve ce­vap hak­kı **
 
-                (2) Ta­le­bin red­de­dil­miş sa­yıl­ma­sı ha­lin­de,
-ki­şi on­beş gün için­de yer­le­şim ye­ri sulh ce­za mah­ke­me­si­ne
-baş­vu­ra­rak, içe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı­na ve ya­yın­da­ki
-kap­sa­mın­dan faz­la ol­ma­mak üze­re ha­zır­la­dı­ğı ce­va­bın bir
-haf­ta sü­rey­le in­ter­net or­ta­mın­da ya­yım­lan­ma­sı­na ka­rar
-ve­ril­me­si­ni is­te­ye­bi­lir. Sulh ce­za hâki­mi bu ta­le­bi üç gün
-için­de du­ruş­ma yap­mak­sı­zın ka­ra­ra bağ­lar. Sulh ce­za
-hâki­mi­nin ka­ra­rı­na kar­şı Ce­za Mu­ha­ke­me­si Ka­nu­nu
-hü­küm­le­ri­ne gö­re iti­raz yo­lu­na gi­di­le­bi­lir.
+**MAD­DE 9-** (1) İçe­rik ne­de­niy­le hak­la­rı ihlâl edil­di­ği­ni
+id­dia eden ki­şi, içe­rik sağ­la­yı­cı­sı­na, bu­na ula­şa­ma­ma­sı
+ha­lin­de yer sağ­la­yı­cı­sı­na baş­vu­ra­rak ken­di­si­ne iliş­kin
+içe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı­nı ve ya­yın­da­ki kap­sa­mın­dan
+faz­la ol­ma­mak üze­re ha­zır­la­dı­ğı ce­va­bı bir haf­ta sü­rey­le
+in­ter­net or­ta­mın­da ya­yım­lan­ma­sı­nı is­te­ye­bi­lir. İçe­rik
+ve­ya yer sağ­la­yı­cı ken­di­si­ne ulaş­tı­ğı ta­rih­ten iti­ba­ren iki
+gün için­de, ta­le­bi ye­ri­ne ge­ti­rir. Bu sü­re zar­fın­da ta­lep
+ye­ri­ne ge­ti­ril­me­di­ği tak­dir­de red­de­dil­miş sa­yı­lır.
 
-                (3) Sulh ce­za hâ­ki­mi­nin ke­sin­le­şen ka­ra­rı­nın,
-bi­rin­ci fık­ra­ya gö­re ya­pı­lan baş­vu­ru­yu ye­ri­ne ge­tir­me­yen
-içe­rik ve­ya yer sağ­la­yı­cı­sı­na teb­li­ğin­den iti­ba­ren iki gün
-için­de içe­rik ya­yın­dan çı­ka­rı­la­rak ha­zır­la­nan ce­va­bın
+\(2) Ta­le­bin red­de­dil­miş sa­yıl­ma­sı ha­lin­de, ki­şi on­beş gün
+için­de yer­le­şim ye­ri sulh ce­za mah­ke­me­si­ne baş­vu­ra­rak,
+içe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı­na ve ya­yın­da­ki kap­sa­mın­dan
+faz­la ol­ma­mak üze­re ha­zır­la­dı­ğı ce­va­bın bir haf­ta sü­rey­le
+in­ter­net or­ta­mın­da ya­yım­lan­ma­sı­na ka­rar ve­ril­me­si­ni
+is­te­ye­bi­lir. Sulh ce­za hâki­mi bu ta­le­bi üç gün için­de du­ruş­ma
+yap­mak­sı­zın ka­ra­ra bağ­lar. Sulh ce­za hâki­mi­nin ka­ra­rı­na
+kar­şı Ce­za Mu­ha­ke­me­si Ka­nu­nu hü­küm­le­ri­ne gö­re iti­raz
+yo­lu­na gi­di­le­bi­lir.
+
+\(3) Sulh ce­za hâ­ki­mi­nin ke­sin­le­şen ka­ra­rı­nın, bi­rin­ci
+fık­ra­ya gö­re ya­pı­lan baş­vu­ru­yu ye­ri­ne ge­tir­me­yen içe­rik
+ve­ya yer sağ­la­yı­cı­sı­na teb­li­ğin­den iti­ba­ren iki gün için­de
+içe­rik ya­yın­dan çı­ka­rı­la­rak ha­zır­la­nan ce­va­bın
 ya­yım­lan­ma­sı­na baş­la­nır.
 
 10107
@@ -856,6 +860,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **5651 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5809                                                                              8, Ek Madde 1 ve Geçici Madde 2, (I) Sayılı Liste             10/11/2008
   KHK/661                                                                           Ek Madde 1                                                    2/11/2011
+  6495                                                                              8                                                             2/8/2013
   --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
