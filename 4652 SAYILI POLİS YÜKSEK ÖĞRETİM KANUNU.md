@@ -1,4 +1,4 @@
-**4652 sayılı Kanunun ilk hali**
+**5917 sayılı Kanun ile değişik hali**
 
 POLİS YÜKSEK ÖĞRETİM KANUNU
 
@@ -833,20 +833,14 @@ konusunda 2547 sayılı Yüksek Öğretim Kanunu ve 2914 sayılı Yüksek
 Emniyet Teşkilâtındaki eğitim ve öğretim hizmetleri sınıfı personeline
 yapılan ek ödemeler bu grupta yer alan personele de aynen verilir.
 
-c\) Emniyet hizmetleri sınıfından olup Akademi ve polis meslek yüksek
-okullarında görevlendirilen öğretim görevlilerine, 2914 sayılı Yüksek
-Öğretim Personel Kanununun 12 nci maddesine göre hesaplanacak üniversite
-ödeneği ile 657 sayılı Devlet Memurları Kanunu hükümlerine göre ödenecek
-olan emniyet hizmetleri tazminatının net tutarları arasındaki fark
-tazminat olarak ödenir.
-
-Ayrıca, Başkan, başkan yardımcıları, dekan, dekan yardımcıları, enstitü
-müdürü, müdür yardımcıları, enstitü sekreteri, bölüm başkanları ile
-polis meslek yüksek okulu müdürleri ve müdür yardımcılarına 2914 sayılı
-Kanunun 13 üncü maddesine göre idari görev ödeneği verilir.
-
-Başkana rektör, başkan yardımcılarına rektör yardımcılarına ödenmekte
-olan oranda idari görev ödeneği verilir.
+c\) **(Değişik: 25/6/2009-5917/30 md.)** Başkan, başkan yardımcıları,
+dekan yardımcısı, enstitü sekreteri, bölüm başkanları, şube müdürleri,
+polis meslek yüksek okulu müdürleri, müdür yardımcıları ve şube
+müdürleri ile emniyet hizmetleri sınıfından olup polis yüksek öğretim
+kurumlarında görevlendirilen öğretim elemanlarına, almakta oldukları
+emniyet hizmetleri tazminatının, kadrolu öğretim elemanlarına da almakta
+oldukları üniversite ödeneğinin % 30’u oranında ayrıca ödeme yapılır. Bu
+ödeme damga vergisi hariç herhangi bir vergiye tabi tutulmaz.
 
 d\) Akademide görevli ek ders ücretliler, sahip oldukları statünün hak ve
 yükümlülüğünü taşırlar. Bunlara, okuttukları ders sayısına göre Genel
@@ -1038,7 +1032,7 @@ sayılı Kanun Hükmünde Kararnamenin eki cetvellerden çıkarılmıştır.
 Bu Kanuna ekli (3) sayılı cetvelde yer alan kadrolar polis meslek yüksek
 okullarının eğitim-öğretime başladığı tarihte hiç bir işleme gerek
 kalmaksızın iptal edilerek, 190 sayılı Kanun Hükmünde Kararnamenin eki
-cetvellerden çıkarılmış sayılır.
+cetvellerden çıkarılmış sayılır. ^(1)^
 
 **GEÇİCİMADDE 3 —** Bu Kanun ile yapılan yeni düzenlemeler sebebiyle
 kadro ve görev unvanları değişmeyenler, bu Kanunla ihdas edilen
@@ -1059,17 +1053,7 @@ müdürleri atanıncaya kadar, Akademi yönetim kurulu; Başkanın
 başkanlığında, eğitim ve öğretim işleriyle görevli başkan yardımcısı ile
 bölüm başkanlarından oluşur.
 
-**GEÇİCİMADDE 4 —** Bu Kanunun 25 inci maddesinin (c) bendi hükmü yerine
-31 Aralık 2008 tarihine kadar aşağıdaki hükümler uygulanacaktır:
-
-Polis Akademisi Başkanı, başkan yardımcıları, dekan yardımcısı, enstitü
-sekreteri, bölüm başkanları, şube müdürleri, polis meslek yüksek okulu
-müdürleri, müdür yardımcıları ve şube müdürleri ile emniyet hizmetleri
-sınıfından olup polis yüksek öğretim kurumlarında görevlendirilen
-öğretim elemanlarına, almakta oldukları emniyet hizmetleri tazminatının,
-kadrolu öğretim elemanlarına da almakta oldukları üniversite ödeneğinin
-% 30’u oranında ayrıca ödeme yapılır. Bu ödeme damga vergisi hariç
-herhangi bir vergiye tabi tutulmaz.
+**GEÇİCİMADDE 4 — (Mülga: 25/6/2009-5917/30 md.) **
 
 **GEÇİCİMADDE 5 —** Bu Kanunun yürürlüğe girmesinden önce polis
 enstitüsünün yüksek öğrenim kısmı ile Polis Akademisinden mezun
@@ -1078,3 +1062,22 @@ olanların kazanılmış hakları saklıdır.
 **MADDE 33 —** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 **MADDE 34 —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+——————————
+
+\(1) Bu maddede yer alan kadrolarla ilgili olarak 9/5/2001 tarihli ve
+24397 sayılı Resmi Gazete’ye bakınız.
+
+**4652 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4652 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5917                                                                         25, GEÇİCİ MADDE 4                                            1/1/2010
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+
+
