@@ -1,4 +1,4 @@
-5393 Sayılı Kanunun 5538 sayılı Kanun ile Değişik Hali
+5393 sayılı Kanunun 5568 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -1932,7 +1932,7 @@ hükümleri uygulanır.
 
 Değiştirilen, Eklenen ve Yürürlükten
 
-Kaldırılan Hükümler
+KaldırılanHükümler
 
 **MADDE 85. —** a) 1. 8.6.1949 tarihli ve 5434 sayılı Türkiye
 Cumhuriyeti Emekli Sandığı Kanununun 12 nci maddesinin (II) işaretli
@@ -1994,23 +1994,23 @@ geçen “her yılın ilk olağan toplantısında” ibareleri madde metinlerind
 çıkarılmıştır.
 
 e\) 22.2.2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 6 ncı
-maddesinin birinci fıkrasının (a) bendine, “erozyonun önlenmesi,”
-ibaresinden sonra gelmek üzere “kültür, sanat, turizm,” ibaresi
-eklenmiş; (b) bendinde yer alan “kültür, turizm, gençlik ve spor”
+maddesinin birinci fıkrasının (a) bendine, "erozyonun önlenmesi,"
+ibaresinden sonra gelmek üzere "kültür, sanat, turizm," ibaresi
+eklenmiş; (b) bendinde yer alan "kültür, turizm, gençlik ve spor"
 ibaresi madde metninden çıkarılmış ve aynı maddeye birinci fıkrasından
 sonra gelmek üzere aşağıdaki fıkra eklenmiş; 12 nci maddesinin birinci
-fıkrasında yer alan “Kasım ayı toplantısı dönem başı toplantısıdır.”
-Cümlesi ile 15 inci maddesinin üçüncü fıkrasında yer alan “on gün
-içinde” ibaresi madde metninden çıkarılmış; 16 ncı maddesinin birinci
-fıkrasının birinci cümlesi “İl genel meclisi, bir yıl görev yapmak üzere
+fıkrasında yer alan "Kasım ayı toplantısı dönem başı toplantısıdır."
+cümlesi ile 15 inci maddesinin üçüncü fıkrasında yer alan "on gün
+içinde" ibaresi madde metninden çıkarılmış; 16 ncı maddesinin birinci
+fıkrasının birinci cümlesi "İl genel meclisi, bir yıl görev yapmak üzere
 üyeleri arasından en az üç, en fazla beş kişiden oluşan ihtisas
-komisyonları kurabilir.” Şeklinde değiştirilmiş; 24 üncü maddesinin
-birinci fıkrasına “Meclis” ibaresinden sonra gelmek üzere “ve komisyon”
+komisyonları kurabilir." şeklinde değiştirilmiş; 24 üncü maddesinin
+birinci fıkrasına "Meclis" ibaresinden sonra gelmek üzere "ve komisyon"
 ibaresi eklenmiş ve aynı fıkradaki “2600” ibaresi “6000” olarak
 değiştirilmiş; 36 ncı maddesinin üçüncü ve dördüncü fıkraları madde
 metninden çıkarılmış ve “il özel idarelerinde sözleşmeli personel ile
 kısmi zamanlı sözleşmeli personel çalıştırılması hususunda Belediye
-Kanununun 49 uncu maddesi hükümleri uygulanır.” Cümlesi aynı maddeye
+Kanununun 49 uncu maddesi hükümleri uygulanır.” cümlesi aynı maddeye
 üçüncü fıkra olarak eklenmiştir.
 
 Merkezi idare tarafından yürütülen görev ve hizmetlere ait yatırımlardan
@@ -2099,11 +2099,19 @@ Bu maddeye göre yapılacak takas, mahsup ve kesinti işlemleri yılı bütçe
 kanunları ile ilişkilendirilmeksizin ilgili kuruluş ile uzlaşma
 komisyonu tarafından belirlenir; Hazine Müsteşarlığının bağlı olduğu
 Bakanın önerisi üzerine Bakanlar Kurulu tarafından karara bağlanır.
-Bakanlar Kurulu, ilgili kuruluşların borç ödeme kapasitelerini de
-dikkate alarak ödenecek tutarları taksitlendirmeye, taksitlendirilen
-kısma Kanunun yayımını izleyen günden itibaren zam ve faiz
-uygulatmamaya, bu borçların fer'i ve cezalarını geçmemek üzere indirim
-yapmaya yetkilidir.
+**(Ek ibare: 26/12/2006-5568/8 md.)** 30/6/2006 tarihi itibarı ile
+Uzlaşma Komisyonu ile takas, mahsup ve kesinti yapılmasına ilişkin
+kararları imzalayan ancak Bakanlar Kurulu tarafından söz konusu
+kararları henüz onaylanmayan ilgili kuruluşların işlemleri 28 Şubat 2007
+tarihine kadar karara bağlanır. Bakanlar Kurulu, ilgili kuruluşların
+borç ödeme kapasitelerini de dikkate alarak ödenecek tutarları
+taksitlendirmeye, taksitlendirilen kısma Kanunun yayımını izleyen günden
+itibaren zam ve faiz uygulatmamaya, bu borçların fer'i ve cezalarını
+geçmemek üzere indirim yapmaya yetkilidir.
+
+**(Ek: 26/12/2006-5568/8 md.)** Bu madde uyarınca takas, mahsup ve
+kesinti işlemine tâbi tutulan borç ve alacaklar için ilgili kanunlarda
+öngörülen zamanaşımı süreleri işlemez.
 
 İlgili kuruluşun uzlaşma ve hacizlerin kaldırılmasına dair başvurusunun
 uzlaşma komisyonunca kabul edilmesini müteakip 31.12.2004 tarihinden
@@ -2114,6 +2122,25 @@ görevlendirilecek bir başkan ile İçişleri Bakanlığı, Maliye Bakanlığı
 Devlet Plânlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı, Sayıştay
 Başkanlığı, Sosyal Sigortalar Kurumu Başkanlığı ve İller Bankası Genel
 Müdürlüğünden birer temsilciden oluşur.
+
+**GEÇİCİ MADDE 6** –**(Ek: 26/12/2006-5568/9 md.)**
+
+Belediyeler ve bunlara bağlı kuruluşların, 31/12/2006 tarihi itibariyle
+tahakkuk etmiş olan 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının
+Tahsil Usulü Hakkında Kanun hükümlerine göre takip edilen Devlete olan
+borçları, 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç
+Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında tanımlanan Hazine
+alacağı niteliğindeki borçları ve sosyal güvenlik kuruluşlarına olan
+borçları ile 5393 sayılı Kanunun geçici 5 inci maddesi kapsamında
+taksitlendirilmiş bulunan veya taksitlendirilecek borçlarına karşılık,
+bu idareler adına her ay genel bütçe vergi gelirleri tahsilat toplamı
+üzerinden ayrılacak payların % 40’ını geçmemek üzere, alacaklı
+idarelerin talebi üzerine, ilgisine göre Maliye Bakanlığı veya İller
+Bankası tarafından kesinti yapılarak alacaklı idarelere ödenir. Hazine
+Müsteşarlığının bağlı olduğu Bakan ile Maliye Bakanının müşterek önerisi
+üzerine bu maddede geçen % 40 oranını sıfıra kadar indirmeye veya kanunî
+orana yükseltmeye ve kesintilerin alacaklı kuruluşlara dağılımına
+ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
 
 **Yürürlük**
 
@@ -2130,7 +2157,7 @@ Müdürlüğünden birer temsilciden oluşur.
 
   1.     5538                       12/7/2006                                     12/7/2006                                                         14, 18
 
-  1.                                                                                                                                                
+  1.     5568                       30/12/2006                                    30/12/2006                                                        Geçici Madde 5, Geçici Madde 6
 
   1.                                                                                                                                                
 
