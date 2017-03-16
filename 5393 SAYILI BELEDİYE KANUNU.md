@@ -1,4 +1,5 @@
-5393 sayılı Kanunun 5675 sayılı Kanun ile Değişik Hali
+5393 sayılı Kanunun Anayasa Mahkemesinin 24/1/2007 tarihli ve E.:2005/95
+K.:2007/5 sayılı Kararı ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -233,26 +234,6 @@ mahalle kaldırılmasına, 11 inci maddede geçen belediye ve köy tüzel
 kişiliğinin kaldırılmasına veya bir beldenin köye dönüştürülmesine dair
 kararlar ilk mahallî idareler seçimlerinde uygulanır ve seçimler bu
 yerlerin yeni durumlarına göre yapılır.
-
-**(Ek: 6/3/2007-5594/2 md.)** Birleşme, katılma veya tüzel kişiliğin
-kaldırılması sonucu tüzel kişiliği ilk mahallî idare seçimlerine kadar
-devam edecek olan belediye ve köylerde, birleşme ve katılma işleminin
-gerçekleşmesi veya müşterek kararnamenin yayımlandığı tarihten itibaren
-yeni nazım ve uygulama planı yapılmaz; mevcut planlarda yapılması
-gereken zorunlu değişiklik ve her türlü imar uygulaması katılınacak
-belediyenin uygun görüşü alınarak yapılır. Uygun görüş verilmeyen plan
-değişiklikleri yapılamaz.
-
-**(Ek: 6/3/2007-5594/2 md.)** Tüzel kişiliği sona erecek belediye ve
-köylerin taşınmazlarının satılması ile vadesi tüzel kişiliğin sona
-ereceği tarihi aşan borçlanma yapılması İçişleri Bakanlığının onayına
-tabidir.
-
-**(Ek: 6/3/2007-5594/2 md.)** ihbar ve kıdem tazminatlarının ödenmesi
-konusunda, 68 inci maddenin (d) bendinde öngörülen sınırlamaya bağlı
-olmaksızın İçişleri Bakanlığının onayı ile borçlanma yapabilir. Bu
-amaçla yapılan borçlanmalar ihbar ve kıdem tazminatı dışında hiçbir
-gider için kullanılamaz.
 
 Bu Kanunda öngörülen nüfus büyüklüğü için Devlet İstatistik Enstitüsü
 Başkanlığınca bildirilen nüfus esas alınır.
@@ -592,14 +573,6 @@ birinin gerekçeli önerisi üzerine, toplantıya katılanların salt
 Meclis görüşmeleri görevlilerce tutanağa geçirilir, başkan ve kâtip
 üyeler tarafından imzalanır. Toplantılar, meclisin kararıyla sesli ve
 görüntülü cihazlarla da kaydedilebilir.
-
-**(Ek: 30/5/2007-5675/3 md.)** Belediye başkanı, acil durumlarda lüzum
-görmesi halinde belediye meclisini bir yılda üç defadan fazla olmamak ve
-her toplantı bir birleşimi geçmemek üzere toplantıya çağırır. Olağanüstü
-toplantı çağrısı ve gündem en az üç gün önceden meclis üyelerine yazılı
-olarak duyurulur ve ayrıca mutat usûllerle ilan edilir. Olağanüstü
-toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu
-görüşülemez.
 
 **Gündem**
 
@@ -2207,9 +2180,9 @@ ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
                                                                                                                                                     
                                                                                                             K.:2007/5                               
 
-  1.     5594                       10/3/2007                                     10/3/2007                                                         12
+  1.                                                                                                                                                
 
-  1.     5675                       7/6/2007                                      7/6/2007                                                          20
+  1.                                                                                                                                                
 
   1.                                                                                                                                                
 
@@ -2230,4 +2203,4 @@ ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
   1.                                                                                                                                                
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
-/
+
