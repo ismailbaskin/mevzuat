@@ -1,4 +1,4 @@
-5393 sayılı Kanunun İlk Hali
+5393 Sayılı Kanunun 5538 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -306,6 +306,10 @@ götürülebilir.
 
 4562 sayılı Organize Sanayi Bölgeleri Kanunu hükümleri saklıdır.
 
+**(Ek: 1/7/2006-5538/29 md.)** Sivil hava ulaşımına açık havaalanları
+ile bu havaalanları bünyesinde yer alan tüm tesisler bu Kanunun kapsamı
+dışındadır."
+
 **Belediyenin yetkileri ve imtiyazları**
 
 **MADDE 15. —** Belediyenin yetkileri ve imtiyazları şunlardır:
@@ -449,7 +453,11 @@ birimler ile fonksiyonel sınıflandırmanın birinci düzeyleri arasında
 aktarma yapmak.
 
 c\) Belediyenin imar plânlarını görüşmek ve onaylamak, büyükşehir ve il
-belediyelerinde il çevre düzeni plânını kabul etmek.
+belediyelerinde il çevre düzeni plânını kabul etmek. **(Ek cümle:
+1/7/2006-5538/29 md.)** Belediye sınırları il sınırı olan Büyükşehir
+Belediyelerinde il çevre düzeni planı ilgili Büyükşehir Belediyeleri
+tarafından yapılır veya yaptırılır ve doğrudan Belediye Meclisi
+tarafından onaylanır.
 
 d\) Borçlanmaya karar vermek.
 
@@ -1926,9 +1934,9 @@ Değiştirilen, Eklenen ve Yürürlükten
 
 Kaldırılan Hükümler
 
-**MADDE 85. —**a) 1. 8.6.1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti
-Emekli Sandığı Kanununun 12 nci maddesinin (II) işaretli fıkrasının (n)
-bendi aşağıdaki şekilde değiştirilmiştir.
+**MADDE 85. —** a) 1. 8.6.1949 tarihli ve 5434 sayılı Türkiye
+Cumhuriyeti Emekli Sandığı Kanununun 12 nci maddesinin (II) işaretli
+fıkrasının (n) bendi aşağıdaki şekilde değiştirilmiştir.
 
 n\) Sosyal güvenlik kuruluşlarına tâbi görevlerde bulunmadan veya bu
 kuruluşlara tâbi olarak çalışmakta iken illerin daimi komisyon üyeliğine
@@ -2114,3 +2122,39 @@ Müdürlüğünden birer temsilciden oluşur.
 **Yürütme**
 
 **MADDE 87. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+         **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5393 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                                    
+                                                                                  **Resmi Gazete Tarihi**                                           
+
+  1.     5538                       12/7/2006                                     12/7/2006                                                         14, 18
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+
+
