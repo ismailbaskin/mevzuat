@@ -1,4 +1,4 @@
-5393 sayılı Kanunun 5951 sayılı Kanun ile Değişik Hali
+5393 sayılı Kanunun 5996 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -1808,28 +1808,118 @@ BİRİNCİ BÖLÜM
 
 **Kentsel dönüşüm ve gelişim alanı**
 
-**MADDE 73. —** Belediye, kentin gelişimine uygun olarak eskiyen kent
-kısımlarını yeniden inşa ve restore etmek; konut alanları, sanayi ve
-ticaret alanları, teknoloji parkları ve sosyal donatılar oluşturmak,
-deprem riskine karşı tedbirler almak veya kentin tarihî ve kültürel
-dokusunu korumak amacıyla kentsel dönüşüm ve gelişim projeleri
+**MADDE 73. —** **(Değişik: 17/6/2010-5998/1 md.)**
+
+Belediye, belediye meclisi kararıyla; konut alanları, sanayi alanları,
+ticaret alanları, teknoloji parkları, kamu hizmeti alanları, rekreasyon
+alanları ve her türlü sosyal donatı alanları oluşturmak, eskiyen kent
+kısımlarını yeniden inşa ve restore etmek, kentin tarihi ve kültürel
+dokusunu korumak veya deprem riskine karşı tedbirler almak amacıyla
+kentsel dönüşüm ve gelişim projeleri uygulayabilir. Bir alanın kentsel
+dönüşüm ve gelişim alanı olarak ilan edilebilmesi için yukarıda sayılan
+hususlardan birinin veya bir kaçının gerçekleşmesi ve bu alanın belediye
+veya mücavir alan sınırları içerisinde bulunması şarttır. Ancak, kamunun
+mülkiyetinde veya kullanımında olan yerlerde kentsel dönüşüm ve gelişim
+proje alanı ilan edilebilmesi ve uygulama yapılabilmesi Bakanlar Kurulu
+kararına bağlıdır.
+
+Kentsel dönüşüm ve gelişim proje alanı olarak ilan edilecek alanın;
+üzerinde yapı olan veya olmayan imarlı veya imarsız alanlar olması, yapı
+yükseklik ve yoğunluğunun belirlenmesi, alanın büyüklüğünün en az 5 en
+çok 500 hektar arasında olması, etaplar halinde yapılabilmesi
+hususlarının takdiri münhasıran belediye meclisinin yetkisindedir.
+Toplamı 5 hektardan az olmamak kaydı ile proje alanı ile ilişkili birden
+fazla yer tek bir dönüşüm alanı olarak belirlenebilir.
+
+Büyükşehir belediye ve mücavir alan sınırları içinde kentsel dönüşüm ve
+gelişim projesi alanı ilan etmeye büyükşehir belediyeleri yetkilidir.
+Büyükşehir belediye meclisince uygun görülmesi halinde ilçe belediyeleri
+kendi sınırları içinde kentsel dönüşüm ve gelişim projeleri
 uygulayabilir.
 
-Kentsel dönüşüm ve gelişim projelerine konu olacak alanlar, meclis üye
-tam sayısının salt çoğunluğunun kararı ile ilân edilir.
-
-Kentsel dönüşüm ve gelişim proje alanlarında yıkılarak yeniden yapılacak
-münferit yapılarda ilgili resim ve harçların dörtte biri alınır.
-
-Bir yerin kentsel dönüşüm ve gelişim proje alanı olarak ilân
-edilebilmesi için; o yerin belediye veya mücavir alan sınırları
-içerisinde bulunması ve en az ellibin metrekare olması şarttır.
+Büyükşehir belediyeleri tarafından yapılacak kentsel dönüşüm ve gelişim
+projelerine ilişkin her ölçekteki imar planı, parselasyon planı, bina
+inşaat ruhsatı, yapı kullanma izni ve benzeri tüm imar işlemleri ve
+3/5/1985 tarihli ve 3194 sayılı İmar Kanununda belediyelere verilen
+yetkileri kullanmaya büyükşehir belediyeleri yetkilidir.
 
 Kentsel dönüşüm ve gelişim proje alanlarında bulunan yapıların
 boşaltılması, yıkımı ve kamulaştırılmasında anlaşma yolu esastır.
-Kentsel dönüşüm ve gelişim projesi kapsamında bulunan mülk sahipleri
-tarafından açılacak davalar, mahkemelerde öncelikle görüşülür ve karara
-bağlanır.
+Kentsel dönüşüm ve gelişim projesi kapsamında bulunan gayrimenkul
+sahipleri ve belediye tarafından açılacak davalar, mahkemelerde
+öncelikle görüşülür ve karara bağlanır.
+
+Kentsel dönüşüm ve gelişim alanları içinde yer alan eğitim ve sağlık
+alanları hariç kamuya ait gayrimenkuller harca esas değer üzerinden
+belediyelere devredilir. Kentsel dönüşüm ve gelişim proje alanlarında
+yıkılarak yeniden yapılacak münferit yapılarda ilgili vergi, resim ve
+harçların dörtte biri alınır.
+
+Kentsel dönüşüm ve gelişim proje alanlarındaki gayrimenkul sahipleri ve
+24/2/1984 tarihli ve 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı
+Yapılara Uygulanacak Bazı İşlemler ve 6785 Sayılı İmar Kanununun Bir
+Maddesinin Değiştirilmesi Hakkında Kanuna istinaden, hak sahibi olmuş
+kimselerle anlaşmaları halinde kentsel dönüşüm ve gelişim proje alanında
+hakları verilir. 2981 sayılı Kanun kapsamına girmeyen gecekondu
+sahiplerine enkaz ve ağaç bedelleri verilir veya belediye imkanları
+ölçüsünde kentsel dönüşüm ve gelişim proje alanı dışında arsa veya konut
+satışı yapılabilir. Bu kapsamda bulunanlara Toplu Konut İdaresi
+Başkanlığı ile işbirliği yapılmak suretiyle konut satışı da yapılabilir.
+Enkaz ve ağaç bedelleri arsa veya konut bedellerinden mahsup edilir.
+
+Kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde belediyelere ait
+gayrimenkuller ile belediyelerin anlaşma sağladığı veya
+kamulaştırdıkları gayrimenkuller üzerindeki inşaatların tamamı
+belediyeler tarafından yapılır veya yaptırılır. Belediye ile anlaşma
+yapmayan veya belediyece kamulaştırılmasına gerek duyulmayan gayrimenkul
+sahiplerinden proje alanında kendilerine 3194 sayılı Kanunun 18 inci
+maddesine göre ayrı ada ve parselde imar hakkı verilmemiş olanlar
+kamulaştırmasız el atma davası açabilir.
+
+Kentsel dönüşüm ve gelişim proje alanlarında yapılacak alt yapı ve
+rekreasyon harcamaları, proje ortak gideri sayılır. Belediyelere ait
+inşaatların proje ortak giderleri belediyeler tarafından karşılanır.
+Kendilerine ayrı ada veya parsel tahsis edilen gayrimenkul sahipleri ile
+kamulaştırma dışı kalan gayrimenkul sahipleri, sahip oldukları inşaatın
+toplam metrekaresi oranında proje ortak giderlerine katılmak zorundadır.
+Proje ortak gideri ödenmeden inşaat ruhsatı, yapılan binalara yapı
+kullanma izni verilemez; su, doğalgaz ve elektrik bağlanamaz.
+
+Dönüşüm alanı sınırı kesinleştiği tarihte, bu sınırlar içindeki
+gayrimenkullerin tapu kütüğünün beyanlar hanesine kaydedilmek üzere tapu
+sicil müdürlüğüne, paftasında gösterilmek üzere kadastro müdürlüğüne
+bildirilir. Söz konusu gayrimenkullerin kaydında meydana gelen
+değişiklikler belediyeye bildirilir.
+
+Kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde; ifraz, tevhit,
+sınırlı ayni hak tesisi ve terkini, cins değişikliği ve yapı ruhsatı
+verilmesine ilişkin işlemler belediyenin izni ile yapılır. Bu yerlerde
+devam eden inşaatlardan projeye uygunluğu belediye tarafından kabul
+edilenler dışındaki diğer inşaatlar beş yıl süreyle durdurulur. Bu
+sürenin sonunda durdurma kararının devam edip etmeyeceğine belediye
+tarafından karar verilir. Toplam durdurma süresi on yılı geçemez.
+
+Belediye, kentsel dönüşüm ve gelişim projelerini gerçekleştirmek
+amacıyla; imar uygulaması yapmaya, imar uygulaması yapılan alanlardaki
+taşınmazların değerlerini tespit etmeye ve bu değer üzerinden hak
+sahiplerine dağıtım yapmaya veya hasılat paylaşımını esas alan
+uygulamalar yapmaya yetkilidir.
+
+Kentsel dönüşüm ve gelişim projelerinin uygulanması sırasında, tapu
+kayıtlarında mülkiyet hanesi açık olan veya ayni hakları davalı olan
+taşınmazlar doğrudan kamulaştırılarak bedelleri mahkemece tayin edilen
+bankaya belli olacak hak sahipleri adına bloke edilir. Belediye kentsel
+dönüşüm ve gelişim projelerinin uygulama alanında bulunan taşınmazların
+kamulaştırılması sırasında veraset ilamı çıkarmaya veya tapudaki kayıt
+malikine göre işlem yapmaya yetkilidir.
+
+Kentsel dönüşüm ve gelişim projesi kapsamındaki işler, kamu idareleriyle
+75 inci madde çerçevesinde ortak hizmet projeleri aracılığıyla
+gerçekleştirilebilir.
+
+Bu Kanunun konusu ile ilgili hususlarda Başbakanlık Toplu Konut
+İdaresine 2985 sayılı Kanun ve diğer kanunlarla verilen yetkiler
+saklıdır.
 
 **Yurt dışı ilişkileri**
 
@@ -1977,14 +2067,12 @@ Hal'lerinin Sureti İdaresi Hakkında Kanun, 2.7.1964 tarihli ve 492
 sayılı Harçlar Kanunu, 13.10.1983 tarihli ve 2918 sayılı Karayolları
 Trafik Kanunu, 3.5.1985 tarihli ve 3194 sayılı İmar Kanunu, 14.6.1989
 tarihli ve 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun
-Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, 27.5.2004
-tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine
-Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun,
+Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, (…)*^(1)^*
 10.7.2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanunu, 1.5.2003
 tarihli ve 4856 sayılı Çevre ve Orman Bakanlığı Teşkilat ve Görevleri
 Hakkında Kanun ile 14.7.1965 tarihli ve 657 sayılı Devlet Memurları
 Kanununda bu Kanun hükümlerine aykırılık bulunması durumunda bu Kanun
-hükümleri uygulanır.
+hükümleri uygulanır.*^(1)^*
 
 İKİNCİ BÖLÜM
 
@@ -2050,6 +2138,14 @@ başı toplantısıdır." cümlesi ile 14 üncü maddesinin üçüncü fıkrası
 "her dönem başı toplantısında," ile 16 ncı maddesinin birinci fıkrasında
 geçen “her yılın ilk olağan toplantısında” ibareleri madde metinlerinden
 çıkarılmıştır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 11/6/2010 tarihli ve 5996 sayılı Kanunun 47 nci maddesi ile bu
+maddede yer alan “27.05.2004 tarihli ve 5179 sayılı Gıdaların Üretimi,
+Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin
+Değiştirilerek Kabulü Hakkındaki Kanun” ibareleri madde metninden
+çıkarılmıştır.*
 
 e\) 22.2.2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 6 ncı
 maddesinin birinci fıkrasının (a) bendine, "erozyonun önlenmesi,"
@@ -2192,6 +2288,16 @@ Müdürlüğünden birer temsilciden oluşur.
 
 **MADDE 87. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
+**3/7/2005 TARİHLİ VE 5393 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER **
+
+1)  *17/6/2010 tarihli ve 5998 sayılı Kanunun Geçici Maddesi: *
+
+**GEÇİCİ MADDE 1 –** Bu Kanunun yürürlüğe girmesinden önce yargı
+mercilerinde açılmış ve henüz kesin hükme bağlanmamış davalarda bu Kanun
+hükümleri uygulanır. Ancak bu Kanunla getirilen değişik hükümlerin
+uygulanması nedeniyle haksız çıkan tarafa harç, yargılama gideri ve
+avukatlık ücreti yükletilemez.
+
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
          **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5393 sayılı Kanunun değiştirilen maddeleri**
                                                                                                                                                     
@@ -2219,9 +2325,9 @@ Müdürlüğünden birer temsilciden oluşur.
 
   1.     5951                       5/2/2010                                      5/2/2010                                                          Geçici madde 6
 
-  1.                                                                                                                                                
+  1.     5998                       24/6/2010                                     24/6/2010                                                         73, İşlenemeyen Hüküm
 
-  1.                                                                                                                                                
+  1.     5996                       13/12/2010                                    13/6/2010                                                         84
 
   1.                                                                                                                                                
 
