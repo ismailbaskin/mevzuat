@@ -1,4 +1,4 @@
-**6645 sayılı Kanun ile değişik hali**
+6203
 
  
 
@@ -93,19 +93,16 @@ taksitlerle ödemek suretiyle kamulaştırma yapabilirler.
 
 6204
 
- 
-
-          Bakanlar Kurulunca kabul olunan, büyük enerji ve sulama
-projeleri ile iskan projelerinin gerçekleştirilmesi, yeni ormanların
-yetiştirilmesi, kıyıların korunması ve turizm amacıyla yapılacak
-kamulaştırmalarda, bir gerçek veya özel hukuk tüzelkişisine ödenecek
-kamulaştırma bedelinin o yıl Genel Bütçe Kanununda gösterilen miktarı,
-nakden ve peşin olarak ödenir. Bu miktar, kamulaştırma bedelinin altıda
-birinden az olamaz. Bu miktarın üstünde olan kamulaştırma bedelleri,
-peşin ödeme miktarından az olmamak ve en fazla beş yıl içinde faiziyle
-birlikte ödenmek üzere eşit taksitlere bağlanır. Taksitlere, peşin ödeme
-gününü takip eden günden itibaren, Devlet borçları için öngörülen en
-yüksek faiz haddi uygulanır.
+Bakanlar Kurulunca kabul olunan, büyük enerji ve sulama projeleri ile
+iskan projelerinin gerçekleştirilmesi, yeni ormanların yetiştirilmesi,
+kıyıların korunması ve turizm amacıyla yapılacak kamulaştırmalarda, bir
+gerçek veya özel hukuk tüzelkişisine ödenecek kamulaştırma bedelinin o
+yıl Genel Bütçe Kanununda gösterilen miktarı, nakden ve peşin olarak
+ödenir. Bu miktar, kamulaştırma bedelinin altıda birinden az olamaz. Bu
+miktarın üstünde olan kamulaştırma bedelleri, peşin ödeme miktarından az
+olmamak ve en fazla beş yıl içinde faiziyle birlikte ödenmek üzere eşit
+taksitlere bağlanır. Taksitlere, peşin ödeme gününü takip eden günden
+itibaren, Devlet borçları için öngörülen en yüksek faiz haddi uygulanır.
 
 Kamulaştırılan topraktan, o toprağı doğrudan doğruya işleten küçük
 çiftçiye ait olanların bedeli, her halde peşin ödenir.
@@ -113,7 +110,7 @@ Kamulaştırılan topraktan, o toprağı doğrudan doğruya işleten küçük
 **(Ek : 24/4/2001 - 4650/1 md.)** İdarelerce yeterli ödenek temin
 edilmeden kamulaştırma işlemlerine başlanılamaz.
 
-İrtifak hakkı kurulması
+*İrtifak hakkı kurulması *
 
 **Madde 4 –** Taşınmaz malın mülkiyetinin kamulaştırılması yerine, amaç
 için yeterli olduğu takdirde taşınmaz malın belirli kesimi, yüksekliği,
@@ -127,12 +124,11 @@ taşınmazların üstünde teleferik ve benzeri ulaşım hatları ile her türl�
 köprü, taşınmazların altında metro ve benzeri raylı taşıma sistemleri
 ile tünel yapılabilir. Taşınmazların mülkiyet hakkının kullanımının
 engellenmemesi hâlinde, taşınmazlara ilişkin herhangi bir kamulaştırma
-yapılmaz. Taşınmaz sahiplerine bu işlemler nedeniyle kamulaştırma,
-tazminat ve benzeri nam altında herhangi bir ücret ödenmez. Yapılan
-yatırım nedeniyle taşınmaz maliklerinden değer artış bedeli
-alınamaz.^(1)^
+yapılmaz. (**İptal üçüncü cümle: Anayasa Mahkemesi’nin 14/5/2015 tarihli
+ve E.: 2014/177, K.: 2015/49 sayılı Kararı ile.) (…)** Yapılan yatırım
+nedeniyle taşınmaz maliklerinden değer artış bedeli alınamaz.^(1)^
 
-Kamu yararı kararı verecek merciler
+*Kamu yararı kararı verecek merciler *
 
 **Madde 5 –** Kamu yararı kararı verecek merciler şunlardır:
 
@@ -175,7 +171,7 @@ idare meclislerinin, yoksa yetkili yönetim organlarının başvuruları
 üzerine gördükleri hizmet bakımından denetimine bağlı oldukları köy,
 belediye, özel idare veya bakanlık.
 
-Onay mercii
+*Onay mercii *
 
 **Madde 6 –** Kamu yararı kararı;
 
@@ -283,22 +279,27 @@ fıkradaki usullere göre taksitle ödenmesi suretiyle ve pazarlıkla satın
 almak veya idareye ait bir başka taşınmaz malla trampa yoluyla devralmak
 istediğini resmi taahhütlü bir yazıyla malike bildirir.
 
-             Malik veya yetkili temsilcisi tarafından, bu yazının tebliğ
-tarihinden itibaren onbeş gün içinde, kamulaştırmaya konu taşınmaz malı
-pazarlıkla ve anlaşarak satmak veya trampa isteği ile birlikte idareye
-başvurulması halinde; komisyonca tayin edilen tarihte pazarlık
-görüşmeleri yapılır, tespit edilen tahmini değeri geçmemek üzere bedelde
-veya trampada anlaşmaya varılması halinde, yapılan bu anlaşmaya ilişkin
-bir tutanak düzenlenir ve anlaşma konusu taşınmaz malın tüm hukuki ve
-fiili vasıfları ile kamulaştırma bedelini içeren tutanak malik veya
-yetkili temsilcisi ve komisyon üyeleri tarafından imzalanır.
+       **(Değişik beşinci fıkra: 20/8/2016-6745/31 md.)** Malik veya
+yetkili temsilcisi tarafından, bu yazının tebliğ tarihinden itibaren on
+beş gün içinde, kamulaştırmaya konu taşınmaz malı pazarlıkla ve
+anlaşarak satmak veya trampa isteği ile birlikte idareye başvurulması
+hâlinde; komisyonca tayin edilen tarihte pazarlık görüşmeleri yapılır,
+tespit edilen tahminî değeri geçmemek üzere bedelde veya trampada
+anlaşmaya varılması hâlinde, yapılan bu anlaşmaya ilişkin bir tutanak
+düzenlenir ve anlaşma konusu taşınmaz malın tüm hukuki ve fiili
+vasıfları ile kamulaştırma bedelini, malikin kimlik bilgilerini ve
+taşınmazların tapuda tesciline veya terkinine dair kabul beyanlarını da
+ihtiva eden tutanak, malik veya yetkili temsilcisi ve komisyon üyeleri
+tarafından imzalanır. Bu tutanak malikin ferağ beyanı ve tapuda idare
+adına yapılacak tescilin hukuki sebebi sayılır.
 
-             İdarece, anlaşma tutanağının tanzim tarihinden itibaren en
-geç kırkbeş gün içinde, tutanakta belirtilen bedel ödenmeye hazır hale
-getirilerek, bu durum malike veya yetkili temsilcisine yazıyla
-bildirilerek tapuda belirtilen günde idare adına tapuda ferağ vermesi
-istenilir. Malik veya yetkili temsilcisi tarafından idare adına tapuda
-ferağ verilmesi halinde, kamulaştırma bedeli kendilerine ödenir.
+**(Değişik altıncı fıkra: 20/8/2016-6745/31 md.)** İdarece, anlaşma
+tutanağının tanzim tarihinden itibaren en geç kırk beş gün içinde,
+tutanakta belirtilen bedel hazır edilerek, idarenin anlaşma tutanağı ve
+kamulaştırma öncesi taşınmaz üzerindeki tüm takyidat ve haklardan
+arındırıldığını bildiren yazıya istinaden idare adına tapuya resen
+tescil veya terkin edilir. Tapuya resen tescil veya terkinden sonra
+kamulaştırma bedeli kendilerine ödenir.
 
              Bu madde uyarınca satın alınan veya trampa edilen taşınmaz
 mal, kaynak veya irtifak hakkı, sahibinden kamulaştırma yolu ile alınmış
@@ -500,139 +501,133 @@ ise, gerçek hasma tebligat yapılmak suretiyle davaya devam olunur.
 
 6207
 
- 
+*Kamulaştırma bedelinin tespiti esasları: ^(1)(4)^*
 
-             *Kamulaştırma bedelinin tespiti esasları: ^(1)^*
+**Madde 11 – (Değişik: 24/4/2001 - 4650/6 md.)**
 
-             **Madde 11 – (Değişik: 24/4/2001 - 4650/6 md.)**
+15 inci madde uyarınca oluşturulacak bilirkişi kurulu, kamulaştırılacak
+taşınmaz mal veya kaynağın bulunduğu yere mahkeme heyeti ile birlikte
+giderek, hazır bulunan ilgilileri de dinledikten sonra taşınmaz mal veya
+kaynağın;
 
-             15 inci madde uyarınca oluşturulacak bilirkişi kurulu,
-kamulaştırılacak taşınmaz mal veya kaynağın bulunduğu yere mahkeme
-heyeti ile birlikte giderek, hazır bulunan ilgilileri de dinledikten
-sonra taşınmaz mal veya kaynağın;
+a)Cins ve nevini,
 
-             a)Cins ve nevini,
+b\) Yüzölçümünü.
 
-             b) Yüzölçümünü.
+c\) Kıymetini ektileyebilecek bütün nitelik ve unsarlarını ve her unsurun
+ayrı ayrı değerini,
 
-             c) Kıymetini ektileyebilecek bütün nitelik ve unsarlarını
-ve her unsurun ayrı ayrı değerini,
+d)Varsa vergi beyanını,
 
-             d)Varsa vergi beyanını,
-
-             e)Kamulaştırma tarihindeki resmi makamlarca yapılmış kıymet
+e)Kamulaştırma tarihindeki resmi makamlarca yapılmış kıymet
 takdirlerini,
 
-             f) Arazilerde, taşınmaz mal veya kaynağın kamulaştırma
-tarihindeki mevkii ve şartlarına göre ve olduğu gibi kullanılması
-halinde getireceği net gelirini.
+f\) Arazilerde, taşınmaz mal veya kaynağın (…) ^(2)^ mevkii ve şartlarına
+göre ve olduğu gibi kullanılması halinde getireceği net gelirini. ^(2)^
 
-             g) Arsalarda, kamulaştırılma gününden önceki özel amacı
-olmayan emsal satışlara göre satış değerini,
+g\) Arsalarda, kamulaştırılma gününden önceki özel amacı olmayan emsal
+satışlara göre satış değerini,
 
-             h) Yapılarda, (…)^(2)^ resmi birim fiyatları ve yapı
-maliyet hesaplarını ve yıpranma payını,
+h\) Yapılarda, (…)^(3)^ resmi birim fiyatları ve yapı maliyet hesaplarını
+ve yıpranma payını,
 
-             ı) Bedelin tespitinde etkili olacak diğer objektif
-ölçüleri,
+ı) Bedelin tespitinde etkili olacak diğer objektif ölçüleri,
 
-             Esas tutarak düzenleyecekleri raporda bütün bu unsurların
-cevaplarını ayrı ayrı belirtmek suretiyle ve ilgililerin beyanını da
-dikkate alarak gerekçeli bir değerlendirme raporuna dayalı olarak
-taşınmaz malın değerini tespit ederler.
+Esas tutarak düzenleyecekleri raporda bütün bu unsurların cevaplarını
+ayrı ayrı belirtmek suretiyle ve ilgililerin beyanını da dikkate alarak
+Sermaye Piyasası Kurulu tarafından kabul edilen değerleme standartlarına
+uygun, gerekçeli bir değerlendirme raporuna dayalı olarak taşınmaz malın
+değerini tespit ederler. ^(4)^
 
-             Taşınmaz malın değerinin tespitinde, kamulaştırmayı
-gerektiren imar ve hizmet teşebbüsünün sebep olacağı değer artışları ile
-ilerisi için düşünülen kullanma şekillerine göre getireceği kâr dikkate
-alınmaz.
+Taşınmaz malın değerinin tespitinde, kamulaştırmayı gerektiren imar ve
+hizmet teşebbüsünün sebep olacağı değer artışları ile ilerisi için
+düşünülen kullanma şekillerine göre getireceği kâr dikkate alınmaz.
 
-             Kamulaştırma yoluyla irtifak hakkı tesisinde, bu
-kamulaştırma sebebiyle taşınmaz mal veya kaynakta meydana gelecek kıymet
-düşüklüğü gerekçeleriyle belirtilir. Bu kıymet düşüklüğü kamulaştırma
-bedelidir.
+Kamulaştırma yoluyla irtifak hakkı tesisinde, bu kamulaştırma sebebiyle
+taşınmaz mal veya kaynakta meydana gelecek kıymet düşüklüğü
+gerekçeleriyle belirtilir. Bu kıymet düşüklüğü kamulaştırma bedelidir.
 
-             Kısmen kamulaştırma
+*Kısmen kamulaştırma *
 
-             **Madde 12** – Kısmen kamulaştırılan taşınmaz malın değeri;
+**Madde 12** – Kısmen kamulaştırılan taşınmaz malın değeri;
 
-             a) Kamulaştırılmayan kısmın değerinde, kamulaştırma
-sebebiyle bir değişiklik olmadığı takdirde, o malın 11 inci maddede
-belirtilen esaslara göre takdir edilen bedelinden kamulaştırılan kısma
-düşen miktarıdır.
+a\) Kamulaştırılmayan kısmın değerinde, kamulaştırma sebebiyle bir
+değişiklik olmadığı takdirde, o malın 11 inci maddede belirtilen
+esaslara göre takdir edilen bedelinden kamulaştırılan kısma düşen
+miktarıdır.
 
-             b) Kamulaştırma dışında kalan kısmın kıymetinde,
-kamulaştırma nedeniyle eksilme meydana geldiği takdirde; bu eksilen
-değer miktarı tespit edilerek, kamulaştırılan kısmın (a) bendinde
-belirtilen esaslar dairesinde tayin olunan kamulaştırma bedeline eksilen
-değerin eklenmesiyle bulunan miktardır.
+b\) Kamulaştırma dışında kalan kısmın kıymetinde, kamulaştırma nedeniyle
+eksilme meydana geldiği takdirde; bu eksilen değer miktarı tespit
+edilerek, kamulaştırılan kısmın (a) bendinde belirtilen esaslar
+dairesinde tayin olunan kamulaştırma bedeline eksilen değerin
+eklenmesiyle bulunan miktardır.
 
- 
+*——————————*
 
- 
-
- 
-
-——————————
-
-(1)  Bu madde başlığı; “Kıymet takdiri esasları” iken, 24/4/2001 tarihli
+*(1) Bu madde başlığı; “Kıymet takdiri esasları” iken, 24/4/2001 tarihli
 ve 4650 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde
-değiştirilmiştir.
+değiştirilmiştir.*
 
-*(2) Bu arada yer alan "kamulaştırma tarihindeki" ibaresi, Anayasa
-Mahkemesi’nin 9/4/2003 tarihli ve E.:2002/79, K.:2003/29 sayılı  Kararı
+*(2) Bu bentte yer alan “kamulaştırma tarihindeki” ibaresi Anayasa
+Mahkemesi’nin 26/5/2016 tarihli ve E.: 2015/55, K.: 2016/45 sayılı
+Kararı ile iptal edilmiştir*
+
+*(3) Bu arada yer alan "kamulaştırma tarihindeki" ibaresi, Anayasa
+Mahkemesi’nin 9/4/2003 tarihli ve E.:2002/79, K.:2003/29 sayılı Kararı
 ile iptal edildiğinden metinden çıkarılmıştır. *
+
+*(4) 3/11/2016 tarihli ve 6754 sayılı Kanunun 38 inci maddesiyle, bu
+maddenin birinci fıkrasına “ilgililerin beyanını da dikkate alarak”
+ibaresinden sonra gelmek üzere “Sermaye Piyasası Kurulu tarafından kabul
+edilen değerleme standartlarına uygun,” ibaresi eklenmiştir.*
 
 6208
 
- 
+c\) Kamulaştırma dışında kalan kısmın bedelinde kamulaştırma nedeniyle
+artış meydana geldiği takdirde ise, artış miktarı tespit edilerek,
+kamulaştırılan kısmın (a) bendinde belirtilen esaslar dairesinde tayin
+edilen bedelinden artan değerin çıkarılmasıyla bulunan miktardır.
 
-             c) Kamulaştırma dışında kalan kısmın bedelinde kamulaştırma
-nedeniyle artış meydana geldiği takdirde ise, artış miktarı tespit
-edilerek, kamulaştırılan kısmın (a) bendinde belirtilen esaslar
-dairesinde tayin edilen bedelinden artan değerin çıkarılmasıyla bulunan
-miktardır.
+Şu kadar ki, (c) bendi gereğince yapılacak indirme, kamulaştırma
+bedelinin yüzde ellisinden fazla olamaz.
 
-             Şu kadar ki, (c) bendi gereğince yapılacak indirme,
-kamulaştırma bedelinin yüzde ellisinden fazla olamaz.
+\(b) ve (c) bentlerinde sözü edilen bedelin düşüş ve artış miktarları, 11
+inci maddede belirtilen esaslara göre bedel takdiri suretiyle tespit
+olunur.
 
-             (b) ve (c) bentlerinde sözü edilen bedelin düşüş ve artış
-miktarları, 11 inci maddede belirtilen esaslara göre bedel takdiri
-suretiyle tespit olunur.
+Kamulaştırma dışında kalan kısım, imar mevzuatına göre yararlanmaya
+elverişli olduğu takdirde;kesilen bina, ihata duvarı, kanalizasyon, su,
+elektrik, havagazı kanalları, makine gibi tesislerden mal sahiplerine
+kalacak olanlarının eski nitelikleri dairesinde kullanılabilecek duruma
+getirilebilmeleri için gereken gider ve bedel, belirlenerek kamulaştırma
+bedeline ilave olunur. Bu masraf ve bedeller (b) bendinde yazılı kıymet
+düşüklüğü miktarının belirlenmesinde gözönünde tutulmaz.
 
-             Kamulaştırma dışında kalan kısım, imar mevzuatına göre
-yararlanmaya elverişli olduğu takdirde;kesilen bina, ihata duvarı,
-kanalizasyon, su, elektrik, havagazı kanalları, makine gibi tesislerden
-mal sahiplerine kalacak olanlarının eski nitelikleri dairesinde
-kullanılabilecek duruma getirilebilmeleri için gereken gider ve bedel,
-belirlenerek kamulaştırma bedeline ilave olunur. Bu masraf ve bedeller
-(b) bendinde yazılı kıymet düşüklüğü miktarının belirlenmesinde
-gözönünde tutulmaz.
+Bir kısmı kamulaştırılan taşınmaz maldan artan kısmı yararlanmaya
+elverişli bir durumda değil ise, kamulaştırma işlemine karşı idari
+yargıda dava açılmayan hallerde mal sahibinin en geç kamulaştırma
+kararının tebliğinden itibaren otuz gün içinde yazılı başvurusu üzerine,
+bu kısmın da kamulaştırılması zorunludur.
 
-             Bir kısmı kamulaştırılan taşınmaz maldan artan kısmı
-yararlanmaya elverişli bir durumda değil ise, kamulaştırma işlemine
-karşı idari yargıda dava açılmayan hallerde mal sahibinin en geç
-kamulaştırma kararının tebliğinden itibaren otuz gün içinde yazılı
-başvurusu üzerine, bu kısmın da kamulaştırılması zorunludur.
+Baraj inşası için yapılan kamulaştırmalar sonunda kamulaştırma sahasına
+mücavir taşınmaz mallar, çevrenin sosyal, ekonomik veya yerleşme
+düzeninin bozulması, ekonomik veya sosyal yönden yararlanılmasının
+mümkün olmaması hallerinde, sahiplarinin yazılı başvurusu üzerine
+kamulaştırmaya tabi tutulur. Bu hususları düzenleyen yönetmelik, Enerji
+ve Tabii Kaynaklar Bakanlığınca; İçişleri, Maliye, Bayındırlık, Tarım ve
+Orman, Köyişleri ve Kooperatifler bakanlıklarının görüşü de alınmak
+suretiyle hazırlanır. Bu yönetmelik, Kanunun yürürlüğe girdiği tarihten
+itibaren bir yıl içerisinde Bakanlar Kurulu kararıyla yürürlüğe konulur
+ve Resmi Gazete'de yayımlanır. Bu suretle kamulaştırılan mücavir
+taşınmaz mallar hakkında 22 ve 23 üncü maddeler hükmü uygulanmaz. İdare,
+bu taşınmaz mallar üzerinde imar mevzuatı hükümlerini de gözönünde
+tutarak dilediği gibi tasarrufta bulunabilir ve gerektiğinde Hazineye
+bedelsiz olarak devredebilir.
 
-             Baraj inşası için yapılan kamulaştırmalar sonunda
-kamulaştırma sahasına mücavir taşınmaz mallar, çevrenin sosyal, ekonomik
-veya yerleşme düzeninin bozulması, ekonomik veya sosyal yönden
-yararlanılmasının mümkün olmaması hallerinde, sahiplarinin yazılı
-başvurusu üzerine kamulaştırmaya tabi tutulur. Bu hususları düzenleyen
-yönetmelik, Enerji ve Tabii Kaynaklar Bakanlığınca; İçişleri, Maliye,
-Bayındırlık, Tarım ve Orman, Köyişleri ve Kooperatifler bakanlıklarının
-görüşü de alınmak suretiyle hazırlanır. Bu yönetmelik, Kanunun yürürlüğe
-girdiği tarihten itibaren bir yıl içerisinde Bakanlar Kurulu kararıyla
-yürürlüğe konulur ve Resmi Gazete'de yayımlanır. Bu suretle
-kamulaştırılan mücavir taşınmaz mallar hakkında 22 ve 23 üncü maddeler
-hükmü uygulanmaz. İdare, bu taşınmaz mallar üzerinde imar mevzuatı
-hükümlerini de gözönünde tutarak dilediği gibi tasarrufta bulunabilir ve
-gerektiğinde Hazineye bedelsiz olarak devredebilir.
-
-             Kısmen kamulaştırılan paylı mülkiyete konu taşınmaz mal,
-evvelce paydaşlar arasında fiilen bölünerek bir veya birkaç paydaşın
-tasarruf ve yararlanmasına bırakılmış ve yapılan kısmi kamulaştırma bu
-yerin tamamını veya bir kısmını kapsıyor ise, bu durumda kamulaştırmaya
+Kısmen kamulaştırılan paylı mülkiyete konu taşınmaz mal, evvelce
+paydaşlar arasında fiilen bölünerek bir veya birkaç paydaşın tasarruf ve
+yararlanmasına bırakılmış ve yapılan kısmi kamulaştırma bu yerin
+tamamını veya bir kısmını kapsıyor ise, bu durumda kamulaştırmaya
 ilişkin işlemler sadece bu paydaş veya paydaşlar hakkında yürütülerek
 kamulaştırma bedeli payları oranında kendilerine ödenir. Pay veya
 paydaşların sadece bu kısım için dava hakları vardır. Taşınmaz malın
@@ -640,24 +635,22 @@ kamulaştırılmayan kısmı üzerinde hakları kalmaz ve adları paydaşlar
 arasından çıkarılır. Kamulaştırılan bu yerler tapu sicilinde idare adına
 tescil olunur.
 
-             Bu maddenin uygulanmasından doğacak anlaşmazlıklar adli
-yargıda çözümlenir.
+Bu maddenin uygulanmasından doğacak anlaşmazlıklar adli yargıda
+çözümlenir.
 
 İKİNCİ BÖLÜM
 
-Dava Hakkı ve Bilirkişiler ^(1)^
+*Dava Hakkı ve Bilirkişiler ^(1)\ ^*
 
-             Tebligat
+*Tebligat*
 
-             **Madde 13 – (Mülga: 24/4/2001 - 4650/21 md.)**
+**Madde 13 – (Mülga: 24/4/2001 - 4650/21 md.)**
 
- 
+*——————————*
 
-——————————
-
-(1)  Bu bölüm başlığı; “Tebliğ İşlemleri, Dava Hakkı ve Bilirkişiler”
-iken, 24/4/2001 tarihli ve 4650 sayılı Kanunun 4 üncü maddesiyle  metne
-işlendiği şekilde değiştirilmiştir.
+*(1) Bu bölüm başlığı; “Tebliğ İşlemleri, Dava Hakkı ve Bilirkişiler”
+iken, 24/4/2001 tarihli ve 4650 sayılı Kanunun 4 üncü maddesiyle metne
+işlendiği şekilde değiştirilmiştir.*
 
 6209
 
@@ -691,82 +684,34 @@ Açılan davaların sonuçları dava açmayanları etkilemez.
 
 *Bilirkişiler*
 
-**Madde 15 – (Değişik: 24/4/2001 - 4650/8 md.)**
+**Madde 15 – (Değişik: 3/11/2016-6754/39 md.)**
 
-**(Değişik birinci cümle: 16/5/2012-6306/12 md.)** Türk Mühendis ve
-Mimar Odaları Birliğine bağlı meslek odalarının her biri tarafından,
-üyelerinin oturdukları yer göz önünde bulundurularak; illerden nüfusu
-beşyüzbinin altında olanlar için yirmibeş ila elli, nüfusu beşyüzbin ile
-birmilyon arasında olanlar için elli ila yüz, nüfusu birmilyon ile
-üçmilyon arasında olanlar için yüz ila yüzelli, nüfusu üçmilyonun
-üzerinde olanlar için yüzelli ila üçyüzelli bilirkişi ve ayrıca il
-merkezleri için il idare kurulları ve ilçeler için ilçe idare kurulları
-tarafından, bu bölgelerde oturan ve mühendis veya mimar olan taşınmaz
-mal sahipleri veya kiracılar arasından nüfusa göre belirlenen bilirkişi
-sayılarının en az üçte biri kadar bilirkişi, her yıl ocak ayının ilk
-haftasında seçilerek isim ve adreslerini belirten listeler valiliklere
-verilir. Bilirkişi olarak görev yapacakların nitelikleri ve çalışma
-esasları, Türk Mühendis ve Mimar Odaları Birliğinin görüşü alınmak
-suretiyle Maliye Bakanlığı ile Bayındırlık ve İskan Bakanlığının
-birlikte hazırlayacakları bir yönetmelikle belirlenir.
+Bu Kanun uyarınca mahkemelerce görevlendirilen bilirkişiler,
+bilirkişilik bölge kurulları tarafından hazırlanan listelerden seçilir
+ve bunlar hakkında Bilirkişilik Kanunu ve 12/1/2011 tarihli ve 6100
+sayılı Hukuk Muhakemeleri Kanununun ilgili maddeleri uygulanır.
 
-Valilikçe onanan listelerden, odalar tarafından seçilenler il merkezi ve
-ilçelerdeki asliye hukuk mahkemelerine, idare kurulları tarafından
-seçilenler de seçildikleri yerin asliye hukuk mahkemelerine bildirilir.
+Kamulaştırmaya konu olan yerin cins ve niteliğine göre en az üç kişilik
+bilirkişi kurulunun oluşturulması zorunludur. Bilirkişilerden birinin
+taşınmaz geliştirme konusunda yüksek lisans veya doktora yapmış uzmanlar
+ya da 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa göre
+yetkilendirilen gayrimenkul değerleme uzmanları arasından seçilmesi
+zorunludur. Gayrimenkul değerleme uzmanları bakımından, bilirkişiliğe
+kabul için aranan temel eğitim alma ve fiilen beş yıl görev yapma
+şartları; yüksek lisans veya doktora yapmış uzmanlar bakımından ise
+fiilen beş yıl görev yapma şartı aranmaz ve bu uzmanlar kayıtlı
+oldukları bilirkişilik bölge kurulunun yargı çevresiyle sınırlı
+olmaksızın görevlendirilir.
 
-Süresi bitenler tekrar seçilebilir.
+Bilirkişilerin uzmanlık alanları, kamulaştırılacak taşınmazın niteliği
+göz önüne alınarak belirlenir.
 
-Bilirkişi kurulu; kamulaştırmaya konu olan yerin cins ve niteliğine
-göre, üçü odalar listesinden, ikisi de idare kurulu listesinden seçilmek
-suretiyle beş kişiden oluşur.
+Bilirkişi kurulu, taşınmaz malın değerini 11 inci ve 12 nci maddelerde
+yer alan hükümlere göre tayin ve takdir ederek gerekçeli raporunu on beş
+gün içinde mahkemeye verir.
 
-Kamulaştırılan taşınmaz malın üstün niteliği gözönüne alınarak,
-bilirkişilerden üçü aynı uzmanlık kolundan seçilebilir.
-
-Kamulaştırmayı yapan idarede görevli olanlar, kamulaştırılan taşınmaz
-malın sahipleri ve bunların usul ve füruu, karı-koca, üçüncü derece
-dahil, kan ve sıhri hısımları ve mal sahipleri ile menfaat ortaklığı
-olanlar bilirkişi seçilemezler.
-
-İhtisas odalarının liste veremediği veya verilen listelerden fiili ve
-hukuki sebeplerle bilirkişi seçiminin imkansız olduğu il ve ilçelerde,
-kamulaştırılan taşınmaz malın cins ve özelliğine göre, Bayındırlık ve
-İskan, Tarım ve Köyişleri ve Orman Bakanlıklarının taşra birimleri ile
-diğer resmi daire ve kurumlardan alınacak fen adamları ile bilirkişi
-kurulu tamamlanır. Bunların da bulunmadığı veya fiili veya hukuki
-sebeplerle bilirkişi seçimlerine imkan olmadığı takdirde, komşu illerin
-oda listelerinden, yoksa bu fıkrada belirtilen resmi daire ve
-kurumlardan alınacak fen adamları ile kurul tamamlanır.
-
-6210
-
-**(Değişik sekizinci fıkra: 16/5/2012-6306/12 md.)** Taraflar,
-mahkemelere bildirilen listelerde yazılı olanlar ve yukarıdaki fıkrada
-belirtilen kimseler arasından bilirkişi seçmekte anlaşamadıkları
-takdirde; bilirkişiler, hâkimin kararı ile tayin edilen gün ve saatte,
-valilikçe, tarafların huzurunda ve gelmeyenin gıyabında kura yolu ile
-seçilir. Valilik, kuranın adil olarak yapılabilmesi için gerekli
-tedbirleri alır. Kuraya ilişkin itirazlar, davanın görüldüğü mahkemece
-karara bağlanır.
-
-Hakim, bilirkişilere yemin ettirir.
-
-Bilirkişi kurulu, taşınmaz malın değerini 11 ve 12 nci maddeler
-hükümlerine göre tayin ve takdir ederek, gerekçeli raporunu onbeş gün
-içinde mahkemeye verir.
-
-Bilirkişilerce yapılan değer tespitinde, idarece belgelerin mahkemeye
-verildiği gün esas tutulur.
-
-**(Ek fıkra: 16/5/2012-6306/12 md.)** Sermaye Piyasası Kuruluna kayıtlı
-olarak faaliyet gösteren lisanslı değerleme kuruluşlarının isim ve
-adreslerini belirten listeler, her yıl ocak ayı içinde, ikinci fıkradaki
-mahkemelere bildirilmek üzere Sermaye Piyasası Kurulunca valiliklere
-gönderilir. Yeterli sayıda değerleme uzmanı bulunan yerlerde, 10 uncu
-maddede öngörülen değer tespitleri, bilirkişi sıfatıyla öncelikle
-Sermaye Piyasası Kurulundan lisanslı değerleme uzmanlarına, taşınmaz
-geliştirme konusunda yüksek lisans veya doktora yapmış olan uzmanlara
-yaptırılır.
+Bilirkişilerce yapılan değer tespitinde, idare tarafından belgelerin
+mahkemeye verildiği gün esas tutulur.
 
 6211
 
@@ -1275,6 +1220,20 @@ kullanılamaz. Aksi takdirde devreden idare, 23 üncü madde uyarınca
 taşınmaz malı geri alabilir. Bu husus tapu kütüğünün beyanlar hanesine
 şerh verilir.
 
+**(Ek fıkra: 20/8/2016-6745/32 md.)** İçişleri Bakanlığının güvenlik
+gerekçesiyle ihtiyaç duyduğu, kamu kurum ve kuruluşları, belediyeler ve
+il özel idareleri dâhil mahalli idareler ve diğer kamu tüzel kişilerine
+ait taşınmazlar, kaynak veya irtifak hakları, Bakanlar Kurulu kararıyla
+resen Hazine adına tescil ve İçişleri Bakanlığına tahsis edilir.
+Taşınmazın bedeli, tescil işleminden itibaren altmış gün içinde bu
+Kanunun 11 inci maddesinde belirtilen kriterler de dikkate alınmak
+suretiyle valiliklerce resen tespit edilir. Bedele ilişkin itirazlar
+Danıştaya yapılır. İtirazlar tescil işlemini durdurmaz. Mahkemelerce
+ihtiyati tedbir ve yürütmenin durdurulması kararları verilemez, 3533
+sayılı Kanun hükümleri uygulanmaz. Bu taşınmazlara ilişkin olarak
+ihtiyaç duyulan imar planı değişiklikleri Çevre ve Şehircilik
+Bakanlığınca resen yapılır veya yaptırılır.
+
 YEDİNCİ KISIM
 
 Yasak İşler ve Ceza Hükümleri
@@ -1314,88 +1273,84 @@ edilmesi veya bunlara yardımcı olunması.
 
 6217
 
- 
+İKİNCİ BÖLÜM
 
-[[]{#OLE_LINK2 .anchor}]{#OLE_LINK1 .anchor}İKİNCİ BÖLÜM
+*Görevli Kişilerin Suçları ve Ceza Hükümleri*
 
-Görevli Kişilerin Suçları ve Ceza Hükümleri
+*Görevli kişilerin suçları *
 
-             Görevli kişilerin suçları
+**Madde 32 –** Bu Kanuna göre görevlendirilenlerden suç işleyenler,
+Devlet memuru gibi cezalandırılırlar. Şu kadar ki verilecek cezalar; o
+suç için muayyen olan cezanın yarısından az olmamak üzere iki katına
+kadar artırılır.
 
-             **Madde 32 –** Bu Kanuna göre görevlendirilenlerden suç
-işleyenler, Devlet memuru gibi cezalandırılırlar. Şu kadar ki verilecek
-cezalar; o suç için muayyen olan cezanın yarısından az olmamak üzere iki
-katına kadar artırılır.
+*Cezalar *
 
-             Cezalar
+**Madde 33 – (Değişik: 24/4/2001 - 4650/19 md.)**
 
-             **Madde 33 – (Değişik: 24/4/2001 - 4650/19 md.)**
-
-**            ** Fiilleri daha ağır cezayı gerektiren ayrı bir suç
-teşkil etmediği takdirde, bu Kanunun 31 inci maddesinin (a) bendine
-aykırı hareket edenler iki yıldan aşağı olmamak üzere hapis ve iki
-milyar liradan dört milyar liraya kadar; (d), (e) ve (f) bentlerine
-aykırı hareket edenler ise, bir yıldan aşağı olmamak üzere hapis ve
-beşyüz milyon liradan bir milyar liraya kadar ağır para cezasıyla, (b)
-ve (c) bentlerine aykırı hareket edenler, altı aydan iki yıla kadar
-hapis ve ikiyüz milyon liradan dörtyüz milyon liraya kadar ağır para
-cezasıyla cezalandırılırlar. Bu maddedeki para cezaları her yıl 1/3/1926
-tarihli ve 765 sayılı TürkCeza Kanununun ek 2 nci maddesi hükümleri
-uyarınca artırılır.
+Fiilleri daha ağır cezayı gerektiren ayrı bir suç teşkil etmediği
+takdirde, bu Kanunun 31 inci maddesinin (a) bendine aykırı hareket
+edenler iki yıldan aşağı olmamak üzere hapis ve iki milyar liradan dört
+milyar liraya kadar; (d), (e) ve (f) bentlerine aykırı hareket edenler
+ise, bir yıldan aşağı olmamak üzere hapis ve beşyüz milyon liradan bir
+milyar liraya kadar ağır para cezasıyla, (b) ve (c) bentlerine aykırı
+hareket edenler, altı aydan iki yıla kadar hapis ve ikiyüz milyon
+liradan dörtyüz milyon liraya kadar ağır para cezasıyla
+cezalandırılırlar. Bu maddedeki para cezaları her yıl 1/3/1926 tarihli
+ve 765 sayılı TürkCeza Kanununun ek 2 nci maddesi hükümleri uyarınca
+artırılır.
 
 SEKİZİNCİ KISIM
 
-Çeşitli Hükümler
+*Çeşitli Hükümler *
 
-             Mal sahibinin sağladığı yararları geri alma hakkı
+*Mal sahibinin sağladığı yararları geri alma hakkı *
 
-             **Madde 34 –** Mal sahiplerinin 31 inci maddedeki yasaklara
-rağmen avukat veya dava vekillerine veya bu Kanuna göre
-görevlendirilenlere veya üçüncü şahıslara verdikleri paraları veya
-sağladıkları yararlar karşılığını bir yıl içinde geri almaya hakları
-vardır.
+**Madde 34 –** Mal sahiplerinin 31 inci maddedeki yasaklara rağmen
+avukat veya dava vekillerine veya bu Kanuna göre görevlendirilenlere
+veya üçüncü şahıslara verdikleri paraları veya sağladıkları yararlar
+karşılığını bir yıl içinde geri almaya hakları vardır.
 
-             İmar mevzuatı uygulanan veya özel parselasyon yapılan
-yerler:
+*İmar mevzuatı uygulanan veya özel parselasyon yapılan yerler: *
 
-             **Madde 35 –** İmar mevzuatı gereğince düzenlemeye tabi
-tutulan parsellerden düzenleme ortaklık payı karşılığı olarak bir defaya
-mahsus alınan yol, yeşil saha ve bunun gibi kamu hizmet ve tesislerine
-ayrılan yerlerle, özel parselasyon sonunda malikinin muvafakatı ile kamu
-hizmet ve tesisleri için ayrılmış bulunan yerler için eski malikleri
-tarafından mülkiyet iddiasında bulunulamaz ve karşılığı istenemez.
+**Madde 35 –** İmar mevzuatı gereğince düzenlemeye tabi tutulan
+parsellerden düzenleme ortaklık payı karşılığı olarak bir defaya mahsus
+alınan yol, yeşil saha ve bunun gibi kamu hizmet ve tesislerine ayrılan
+yerlerle, özel parselasyon sonunda malikinin muvafakatı ile kamu hizmet
+ve tesisleri için ayrılmış bulunan yerler için eski malikleri tarafından
+mülkiyet iddiasında bulunulamaz ve karşılığı istenemez.
 
-             Kamulaştırmadan sonra alınan tapu kaydının iptali
+*Kamulaştırmadan sonra alınan tapu kaydının iptali *
 
-             **Madde 36 –** Kamulaştırma kanunları uyarınca gerekli
-işlemler tamamlanıp tapuda kayıtlı olanların idare adına intikallerinin
+**Madde 36 –** Kamulaştırma kanunları uyarınca gerekli işlemler
+tamamlanıp tapuda kayıtlı olanların idare adına intikallerinin
 yapılmasından, tapuda kayıtlı olmayanların tescillerinin sağlanmasından
 sonra, kamulaştırılan yer için herhangi bir nedenle gerçek ve
 tüzelkişiler adına yeniden tapu tesis edildiği takdirde, idarenin isteği
 üzerine hakim, evrak üzerinde ve lüzum gördüğü takdirde mahallinde
 inceleme yaparak sonraki kaydın iptali hakkında bir karar verir.
 
-             Bu işlemler harca ve resme bağlı değildir.
+Bu işlemler harca ve resme bağlı değildir.
 
-             Yetkili ve görevli mahkeme ve yargılama usulü
+*Yetkili ve görevli mahkeme ve yargılama usulü *
 
-             **Madde 37 –** Bu Kanundan doğan tüm anlaşmazlıkların adli
-yargıda çözümlenmesi gerekenleri, taşınmaz malın bulunduğu yer asliye
-hukuk mahkemelerinde basit yargılama usulü ile görülür.
+**Madde 37 –** Bu Kanundan doğan tüm anlaşmazlıkların adli yargıda
+çözümlenmesi gerekenleri, taşınmaz malın bulunduğu yer asliye hukuk
+mahkemelerinde basit yargılama usulü ile görülür.
 
-             Hak düşürücü süre
+*Hak düşürücü süre *
 
 **Madde 38 – (İptal:Ana.Mah.’nin 10/4/2003 tarih ve E.2002/112,
-K.2003/33 sayılı kararı ile)**  
+K.2003/33 sayılı kararı ile)**
 
-             Vergilendirme
+*Vergilendirme *
 
-             **Madde 39 – (Değişik: 24/4/2001 - 4650/20 md.)**
+**Madde 39 – (Değişik: 24/4/2001 - 4650/20 md.)**
 
-**            ** Kamulaştırılan taşınmazın kamulaştırıldığı yıla ait
-emlak vergisi tarhına esas olan vergi değeri, kesinleşen kamulaştırma
-bedelinden az olduğu takdirde, kamulaştırma bedeli ile vergi değeri
-arasındaki fark üzerinden, cezalı emlak vergisi tarh olunur.
+Kamulaştırılan taşınmazın kamulaştırıldığı yıla ait emlak vergisi
+tarhına esas olan vergi değeri, kesinleşen kamulaştırma bedelinden az
+olduğu takdirde, kamulaştırma bedeli ile vergi değeri arasındaki fark
+üzerinden, cezalı emlak vergisi tarh olunur.
 
 6218
 
@@ -1406,7 +1361,7 @@ olması halinde, kesinleşen kamulaştırma bedeli, kamulaştırmanın
 yapıldığı yıla ait vergi değeri yerine geçer ve bu değer üzerinden
 cezalı emlak vergisi tarhiyatı yapılır.
 
-             Kaldırılan ve saklı tutulan hükümler
+*             Kaldırılan ve saklı tutulan hükümler*
 
              **Madde 40 –** 31/8/1956 tarih ve 6830 sayılı İstimlak
 Kanunu ile ek ve değişiklikleri, 8/7/1981 tarih ve 2487 sayılı Toplu
@@ -1419,11 +1374,52 @@ değişiklikleri, 15/4/1955 tarih ve 6538 sayılı İstanbul Kapalıçarşısın
 Tamir ve İhyası Hakkında Kanun hükümleri ile diğer özel kanunlardaki
 kamulaştırmaya ilişkin hükümler saklıdır.
 
-             İstimlak Kanununa yapılan atıflar
+*             İstimlak Kanununa yapılan atıflar *
 
              **Madde 41 –** Diğer kanunlarda İstimlak Kanununa veya
 belli maddelerine yapılan atıflar bu Kanuna veya bu Kanunun aynı
 konuları düzenleyen madde veya maddelerine yapılmış sayılır.
+
+**Ek Madde 1- (Ek: 20/8/2016-6745/33 md.)**
+
+Uygulama imar planlarında umumi hizmetlere ve resmî kurumlara ayrılmak
+suretiyle mülkiyet hakkının özüne dokunacak şekilde tasarrufu hukuken
+kısıtlanan taşınmazlar hakkında, uygulama imar planlarının yürürlüğe
+girmesinden itibaren beş yıllık süre içerisinde imar programları veya
+imar uygulamaları yapılır ve bütçe imkânları dâhilinde bu taşınmazlar
+ilgili idarelerce kamulaştırılır veya her hâlde mülkiyet hakkını
+kullanmasına engel teşkil edecek kısıtlılığı kaldıracak şekilde imar
+planı değişikliği yapılır/yaptırılır. Bu süre içerisinde belirtilen
+işlemlerin yapılmaması hâlinde taşınmazların malikleri tarafından, bu
+Kanunun geçici 6 ncı maddesindeki uzlaşma sürecini ve 3194 sayılı İmar
+Kanununda öngörülen idari başvuru ve işlemleri tamamlandıktan sonra
+taşınmazın kamulaştırmasından sorumlu idare aleyhine idari yargıda dava
+açılabilir.
+
+Birinci fıkra uyarınca dava açılması hâlinde taşınmazın ya da üzerinde
+tesis edilen irtifak hakkının dava tarihindeki değeri, mahkemece; bu
+Kanunun 15 inci maddesine göre bilirkişi incelemesi yapılarak,
+taşınmazın hukuken tasarrufunun kısıtlandığı veya fiilen el konulduğu
+tarihteki nitelikleri esas alınmak suretiyle tespit edilir ve taşınmazın
+veya hakkın idare adına tesciline veya terkinine hükmedilir.
+
+Bu madde kapsamında kalan taşınmazlar hakkında açılacak dava ve
+takiplerde, bu Kanunun geçici 6 ncı maddesinin üçüncü, yedinci,
+sekizinci ve on birinci fıkra hükümleri, bu maddenin yürürlüğe girdiği
+tarihten önce açılan ancak henüz karara bağlanmayan veya kararı
+kesinleşmeyen davalara bu madde hükümleri, kesinleşen ancak henüz
+ödemesi yapılmayan kararlar hakkında ise geçici 6 ncı maddenin üçüncü,
+sekizinci ve on birinci fıkra hükümleri uygulanır.
+
+Bu Kanunun geçici 6 ncı maddesinin sekizinci fıkrası uyarınca ayrılması
+gereken yüzde iki oranındaki ödenekler, yüzde dört olarak ayrılır. İlave
+olarak ayrılan yüzde iki oranındaki ödenekler, münhasıran bu ek madde
+ile geçici 11 inci ve geçici 12 nci maddeler kapsamında yapılacak
+ödemelerde kullanılır. Yapılacak ödemelerin toplam tutarının ilave
+olarak ayrılan ödeneğin toplamını aşması hâlinde, ödemeler, en fazla on
+yılda ve geçici 6 ncı maddenin sekizinci fıkrası hükmüne göre yapılır.
+
+6218-1
 
              **Geçici Madde 1 –** Bu Kanunun yürürlüğe girmesinden önce
 verilmiş olan kamu yararı ve kamulaştırma kararları geçerlidir. Ancak,
@@ -1458,8 +1454,6 @@ davalarda sözü edilen 221 sayılı Kanunun hükümleri uygulanır.
 Kanunun değişik 15 inci maddesinde öngörülen yönetmelik çıkarılıncaya
 kadar bilirkişiler önceki hükme göre seçilir.
 
-6218-1
-
 *Kamulaştırılmaksızın kamu hizmetine ayrılan taşınmazların bedel
 tespiti^(1)^*
 
@@ -1487,6 +1481,14 @@ fıkrasına göre teşkil olunan uzlaşma komisyonunca, idarenin daveti veya
 malikin müracaat tarihinden itibaren en geç altı ay içinde 7201 sayılı
 Kanun hükümlerine göre tebliğ edilen bir yazı ile, tahmini değer
 bildirilmeksizin, talep sahibi uzlaşma görüşmelerine davet edilir.
+
+–––––––––––––
+
+*(1) 24/52013 tarihli ve 6487 sayılı Kanunun 21 inci maddesi ile bu
+maddenin başlığı “Kamulaştırmasız el koyma sebebiyle tazmin” iken metne
+işlendiği şekilde değiştirilmiştir.*
+
+6218-2
 
 Uzlaşma; idareye ait taşınmazın trampası, idareye ait taşınmaz üzerinde
 sınırlı ayni hak tanınması veya imar mevzuatı çerçevesinde başka bir
@@ -1522,14 +1524,6 @@ sekizinci fıkrasına göre idarece ödenir. Tescile veya terkine ilişkin
 hüküm kesin olup tarafların hükmedilen bedele ilişkin temyiz hakkı
 saklıdır.
 
-–––––––––––––
-
-*(1) 24/52013 tarihli ve 6487 sayılı Kanunun 21 inci maddesi ile bu
-maddenin başlığı “Kamulaştırmasız el koyma sebebiyle tazmin” iken metne
-işlendiği şekilde değiştirilmiştir.*
-
-6218-2
-
 Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her
 türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde
 maktu olarak belirlenir.
@@ -1553,6 +1547,8 @@ yerine, üçüncü fıkrada belirtilen diğer uzlaşma yolları da teklif
 edilebilir ve bu maddenin uzlaşmaya ilişkin hükümlerine göre işlem
 yapılabilir.
 
+6218-3
+
 Bu maddenin bedele ilişkin hükümleri, vuku bulduğu tarih itibarı ile bu
 maddenin kapsamında olan kamulaştırmasız el koymadan dolayı açtıkları
 tazminat davası süre bakımından dava hakkının düştüğü gerekçesiyle
@@ -1573,13 +1569,10 @@ girmesinden itibaren üç ay içinde idareye ve mahkemeye verecekleri
 dilekçeler ile bildirebilirler. Uzlaşma talebi üzerine, uzlaşma
 görüşmelerinin neticesine kadar dava bekletilir; uzlaşılamaması hâlinde,
 uzlaşmazlık tutanağının mahkemeye sunulmasından sonra davaya devam
-edilir. Uygulama imar planlarında umumi hizmetlere ve resmî kurumlara
-ayrılmak suretiyle veya ilgili kanunların uygulamasıyla tasarrufu
-kısıtlanan taşınmazlar hakkında, 3/5/1985 tarihli ve 3194 sayılı İmar
-Kanununda öngörülen idari başvuru ve işlemler tamamlandıktan sonra idari
-yargıda dava açılabilir. Bu madde hükümleri karara bağlanmamış veya
-kararı kesinleşmemiş tüm davalara uygulanır. Kararı kesinleşen davalara
-ise, bu maddenin yalnızca sekizinci fıkra hükümleri uygulanır.
+edilir. **(Mülga üçüncü cümle: 20/8/2016-6745/34 md.)** Bu madde
+hükümleri karara bağlanmamış veya kararı kesinleşmemiş tüm davalara
+uygulanır. Kararı kesinleşen davalara ise, bu maddenin yalnızca
+sekizinci fıkra hükümleri uygulanır.
 
 Bu madde uyarınca ödenecek olan bedelin tahsili sebebiyle idarelerin
 mal, hak ve alacakları haczedilemez.
@@ -1587,21 +1580,16 @@ mal, hak ve alacakları haczedilemez.
 **(İptal onikinci fıkra: Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.:
 2013/95, K.: 2014/176 sayılı Kararı ile.)**
 
-6218-3
-
 **(İptal onüçüncü fıkra: Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.:
 2013/95, K.: 2014/176 sayılı Kararı ile.)**
 
-**Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.) ^(1)^**
+**(Ek fıkra: 3/11/2016-6754/40 md.)** Bu madde uyarınca açılacak
+davalarda 15 inci maddede düzenlenen bilirkişiliğe ilişkin hükümler
+uygulanır.
 
-Mülga 31/8/1956 tarihli ve 6830 sayılı İstimlak Kanununun 16 ve 17 nci
-maddeleri ile 2942 sayılı Kanunun mülga 16 ve 17 nci maddeleri uyarınca
-mahkemelerce idare adına tescil kararı verilen kamulaştırmalarda
-tebligatlar ve diğer kamulaştırma işlemleri tamamlanmış sayılır. Bu
-kamulaştırma işlemleri sebebiyle hiçbir hak ve alacak talebinde
-bulunulamaz; kamulaştırmaya veya bedeline karşı itiraz davaları
-açılamaz; açılmış ve devam eden davalar bu madde hükmü uygulanarak
-sonuçlandırılır.
+**Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.; İptal; Anayasa
+Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı
+Kararı ile) ^(1)^**
 
 **Geçici Madde 8 – (Ek: 12/7/2013-6495/28 md.)**
 
@@ -1611,16 +1599,28 @@ işlemleri nedeniyle, kamulaştırılan taşınmazların eski malikleri veya
 mirasçıları tarafından bu taşınmazların geri alınması, bedel veya
 tazminat talebiyle açılan ve henüz kesinleşmeyen davalarda da uygulanır.
 
-**Geçici Madde 9 – (Ek: 10/9/2014-6552/101 md.)**
+**Geçici Madde 9 – (Ek: 10/9/2014-6552/101 md.) ^(2)^**
 
-Bu maddeyi ihdas eden Kanunla değiştirilen veya eklenen bu Kanunun 22
-nci maddesinin birinci, ikinci ve üçüncü fıkra hükümleri ile 23 üncü
-maddesinin üçüncü fıkrası hükmü; bu maddenin yürürlüğe girdiği tarihten
-önce gerçekleştirilen kamulaştırma işlemleri nedeniyle, kamulaştırılan
-taşınmaz malların eski malikleri veya mirasçıları tarafından bu taşınmaz
-malların geri alınması, bedel veya tazminat talebiyle açılan ve henüz
-kesinleşmeyen davalarda da uygulanır. Bu maddenin uygulanması nedeniyle
-reddedilen davaların yargılama giderleri davalı idare tarafından ödenir.
+Bu maddeyi ihdas eden Kanunla değiştirilen veya eklenen bu Kanunun (…)
+^(2)^ 23 üncü maddesinin üçüncü fıkrası hükmü; bu maddenin yürürlüğe
+girdiği tarihten önce gerçekleştirilen kamulaştırma işlemleri nedeniyle,
+kamulaştırılan taşınmaz malların eski malikleri veya mirasçıları
+tarafından bu taşınmaz malların geri alınması, bedel veya tazminat
+talebiyle açılan ve henüz kesinleşmeyen davalarda da uygulanır. Bu
+maddenin uygulanması nedeniyle reddedilen davaların yargılama giderleri
+davalı idare tarafından ödenir. ^(2)^
+
+––––––––––––––––––
+
+*(1) Söz konusu İptal Kararı Resmi Gazete’de yayımlandığı 13/3/2015
+tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.*
+
+*(2) Bu maddenin birinci cümlesinde yer alan “…22 nci maddesinin
+birinci, ikinci ve üçüncü fıkra hükümleri ile…” ibaresi, Anayasa
+Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı
+Kararı ile iptal edilmiştir. *
+
+6218-4
 
 **Geçici Madde 10 – (Ek:** **4/4/2015-6645/12 md.)**
 
@@ -1640,6 +1640,35 @@ açamazlar. Bu şahıslar hakkında başlatılmış icra takipleri ödeme
 süresince durur, ödemeyi müteakip sonlandırılır, icra ve yargılama
 masrafları talep edilmez.
 
+**Geçici Madde 11-** **(Ek: 20/8/2016-6745/34 md.)**
+
+Bu Kanunun ek 1 inci maddesinin birinci fıkrası kapsamında kalan ve bu
+maddenin yürürlüğe girdiği tarihten önce tasarrufu hukuken kısıtlanan
+taşınmazlar hakkında aynı fıkrada belirtilen süre, bu maddenin yürürlüğe
+girdiği tarihten itibaren başlar.
+
+Bu Kanunun ek 1 inci maddesinin üçüncü fıkrası hükmü, bu madde
+kapsamında kalan taşınmazlara ilişkin dava ve takipler hakkında da
+uygulanır.
+
+**Geçici Madde 12-** **(Ek: 20/8/2016-6745/35 md.)**
+
+24/2/1984 tarihli ve 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı
+Yapılara Uygulanacak Bazı İşlemler ve 6785 sayılı İmar Kanununun Bir
+Maddesinin Değiştirilmesi Hakkında Kanun hükümlerine göre yapılan imar
+uygulamalarından doğan idarelerin taraf olduğu her türlü alacak ve bedel
+artırım davalarında taşınmazın değeri; uygulamanın tapuda tescil
+edildiği tarih değerlendirme tarihi olarak esas alınmak ve o tarihteki
+nitelikleri gözetilmek suretiyle tespit edilir. Tespit edilen bu bedel,
+Türkiye İstatistik Kurumu tarafından açıklanan Yurt İçi Üretici Fiyat
+Endeksi tablosu esas alınmak suretiyle dava tarihi itibarıyla
+güncellenir ve ortaya çıkan gerçek bedel hak sahibine ödenir.
+
+Bu Kanunun geçici 6 ncı maddesinin üçüncü, yedinci, sekizinci ve on
+birinci fıkra hükümleri, bu madde kapsamındaki davalar ve icra takipleri
+için de uygulanır. Devam eden dava ve icra takipleri ise, bu madde
+hükümlerine göre sonuçlandırılır.
+
 **Madde 42 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 **Madde 43 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
@@ -1654,22 +1683,12 @@ masrafları talep edilmez.
 kararı alınmış ancak henüz tebligata çıkarılmamış kamulaştırmalarda bu
 Kanun hükümleri, diğerlerinde önceki hükümler uygulanır.
 
-––––––––––––––––––
+6218-5
 
-*(1) Bu madde Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95,
-K.: 2014/176 sayılı Kararı ile iptal edilmiş olup, İptal Kararının Resmi
-Gazete’de yayımlandığı 13/3/2015 tarihinden başlayarak altı ay sonra
-yürürlüğe girmesi hüküm altına alınmıştır.*
+**2942 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA
+MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE **
 
-6218-4
-
-**2942 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
-
-**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL**
-
-**EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
-
-**GÖSTERİR LİSTE**
+**GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
   ------------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**            **2942 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
@@ -1705,6 +1724,22 @@ yürürlüğe girmesi hüküm altına alınmıştır.*
   6639                                                                                  4                                                             15/4/2015
 
   6645                                                                                  Geçici Madde 10                                               23/4/2015
+
+  Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı    4, Geçici Madde 9                                             11/6/2015
   ------------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------
+
+6218-6
+
+**2942 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA
+MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE **
+
+**GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+
+  ----------------------------------------------------------------------------------- --------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**          **2942 sayılı Kanunun değişen veya iptal edilen maddeleri**           **Yürürlüğe Giriş Tarihi**
+  Anayasa Mahkemesi’nin 26/5/2016 tarihli ve E.: 2015/55, K.: 2016/45 sayılı Kararı   11                                                                    28/6/2016
+  6745                                                                                8, 30, Ek Madde 1, Geçici Madde 6, Geçici Madde 11, Geçici Madde 12   7/9/2016
+  6754                                                                                11, 15, Geçici Madde 6                                                24/11/2016
+  ----------------------------------------------------------------------------------- --------------------------------------------------------------------- ----------------------------
 
 
