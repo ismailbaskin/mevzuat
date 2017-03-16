@@ -1,4 +1,6 @@
-**5996 sayılı Kanunun ilk hali**
+ **Anayasa Mahkemesinin 20/3/2013 tarihli ve**
+
+**E: 2012/76, K: 2013/44 sayılı Kararı ile değişik hali**
 
 **VETERİNER HİZMETLERİ, BİTKİ SAĞLIĞI, GIDA VE YEM KANUNU**
 
@@ -739,12 +741,19 @@ yerlerde şube açabilir, asli görevlerini yürütmek üzere teknik ve sağlık
 personeli çalıştırabilir. Bakanlık; birliklere teknik hizmetler, sağlık
 hizmetleri ve eğitim konusunda gerektiğinde aynî ve nakdî destek
 verebilir, birliklerin personel ve tesislerinden yararlanma talebinde
-bulunabilir.
+bulunabilir.^(1)^
 
 \(7) Bakanlık, hayvan ırklarının tescili ile ilgili iş ve işlemleri
 belirler ve yürütür. Tescil edilen hayvanların sınaî mülkiyet hakları
 bunları tescil ettiren gerçek ve tüzel kişilere veya onların kanunî
 temsilcilerine aittir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1)7/11/2013 tarihli ve 28814 sayılı Resmi Gazete’de yayımlanan Anayasa
+Mahkemesinin 20/3/2013 tarihli ve E:2012/76, K: 2013/44 numaralı Kararı
+ile bu fıkra iptal edilmiş ve kararın Resmî Gazete’de yayımlanmasından
+başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.*
 
 10570
 
@@ -3117,5 +3126,41 @@ MESLEK MENSUPLARI**
                                                                
                                                                
   --- -------------------------------------------------------- --------------------------------------------------------------------------- ----------------------------------------------------
+
+ 
+
+10606
+
+ 
+
+ 
+
+ 
+
+ 
+
+ **5996 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  -------------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**       **5996 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe GirişTarihi**
+  Anayasa Mahkemesinin 20/3/2013 tarihli ve E: 2012/76, K: 2013/44 sayılı Kararı   10                                                            7/11/2014
+  -------------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
