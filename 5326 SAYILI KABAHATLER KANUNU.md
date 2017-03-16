@@ -1,26 +1,36 @@
-**6217 sayılı Kanun ile değişik hali**
+9337
 
-**KABAHATLER** **KANUNU**
+1.   
+    =
 
-  **   Kanun Numarası : 5326**
+    KABAHATLER KANUNU
+    =================
 
-**Kabul Tarihi : 30/3/2005**
+ 
 
-**Yayımlandığı R.Gazete : Tarih: 31/3/2005 Sayı : 25772 (Mükerrer)**
+          Kanun Numarası              : 5326
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 44 **
+          Kabul Tarihi                     : 30/3/2005
 
-**BİRİNCİ KISIM**
+          Yayımlandığı R.Gazete     : Tarih: 31/3/2005 Sayı : 25772 (M.)
 
-**Genel Hükümler**
+          Yayımlandığı Düstur         : Tertip : 5  Cilt : 44 
 
-**BİRİNCİ BÖLÜM**
+ 
 
-**Amaç ve Kapsam, Tanım, Kanunîlik İlkesi ve Kanunun Uygulama Alanı**
+BİRİNCİ KISIM
 
-**Amaç ve kapsam **
+*Genel Hükümler*
 
-**MADDE 1-** (1) Bu Kanunda; toplum düzenini, genel ahlâkı, genel
+BİRİNCİ BÖLÜM
+
+*Amaç ve Kapsam, Tanım, Kanunîlik İlkesi ve Kanunun Uygulama Alanı*
+
+* *
+
+*Amaç ve kapsam *
+
+**Madde 1-** (1) Bu Kanunda; toplum düzenini, genel ahlâkı, genel
 sağlığı, çevreyi ve ekonomik düzeni korumak amacıyla;
 
 a\) Kabahatlere ilişkin genel ilkeler,
@@ -36,14 +46,14 @@ e\) İdarî yaptırım kararlarının yerine getirilmesine ilişkin esaslar,
 
 Belirlenmiş ve çeşitli kabahatler tanımlanmıştır.
 
-**Tanım **
+*Tanım *
 
-**MADDE 2**- (1) Kabahat deyiminden; kanunun, karşılığında idarî
+**Madde 2**- (1) Kabahat deyiminden; kanunun, karşılığında idarî
 yaptırım uygulanmasını öngördüğü haksızlık anlaşılır.
 
-**Genel kanun niteliği **
+*Genel kanun niteliği *
 
-**MADDE 3-** **(Değişik: 6/12/2006-5560/31 md.)**
+**Madde 3-** **(Değişik: 6/12/2006-5560/31 md.) **
 
 \(1) Bu Kanunun;
 
@@ -55,9 +65,9 @@ geçirilmesi yaptırımını gerektiren bütün fiiller hakkında,
 
 uygulanır.
 
-**Kanunîlik ilkesi **
+*Kanunîlik ilkesi *
 
-**MADDE 4-** (1) Hangi fiillerin kabahat oluşturduğu, kanunda açıkça
+**Madde 4-** (1) Hangi fiillerin kabahat oluşturduğu, kanunda açıkça
 tanımlanabileceği gibi; kanunun kapsam ve koşulları bakımından
 belirlediği çerçeve hükmün içeriği, idarenin genel ve düzenleyici
 işlemleriyle de doldurulabilir.
@@ -65,37 +75,43 @@ işlemleriyle de doldurulabilir.
 \(2) Kabahat karşılığı olan yaptırımların türü, süresi ve miktarı, ancak
 kanunla belirlenebilir.
 
-**Zaman bakımından uygulama**
+*Zaman bakımından uygulama*
 
-**MADDE 5**- (1) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun
+**Madde 5**- (1) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun
 zaman bakımından uygulamaya ilişkin hükümleri kabahatler bakımından da
 uygulanır. Ancak, kabahatler karşılığında öngörülen idarî yaptırımlara
 ilişkin kararların yerine getirilmesi bakımından derhal uygulama kuralı
 geçerlidir.
 
-\(2) Kabahat, failin icraî veya ihmali davranışı gerçekleştirdiği zaman
+ (2) Kabahat, failin icraî veya ihmali davranışı gerçekleştirdiği zaman
 işlenmiş sayılır. Neticenin oluştuğu zaman, bu bakımdan dikkate alınmaz.
 
-**Yer bakımından uygulama**
+*Yer bakımından uygulama*
 
-**MADDE 6-** (1) 5237 sayılı Türk Ceza Kanununun yer bakımından
+**Madde 6-** (1) 5237 sayılı Türk Ceza Kanununun yer bakımından
 uygulamaya ilişkin 8 inci maddesi hükümleri, kabahatler bakımından da
 uygulanır. Ancak, kanunlarda aksine hüküm bulunan haller saklıdır.
 
-**İKİNCİ BÖLÜM**
+9338
 
-**Kabahatten Dolayı Sorumluluğun Esasları**
+ 
 
-**Kabahatin ihmali davranışla işlenmesi**
+İKİNCİ BÖLÜM
 
-**MADDE 7-** (1) Kabahat, icraî veya ihmali davranışla işlenebilir.
+*Kabahatten Dolayı Sorumluluğun Esasları*
+
+ 
+
+*Kabahatin ihmali davranışla işlenmesi*
+
+**Madde 7-** (1) Kabahat, icraî veya ihmali davranışla işlenebilir.
 İhmali davranışla işlenmiş kabahatin varlığı için kişi açısından belli
 bir icraî davranışta bulunma hususunda hukukî yükümlülüğün varlığı
 gereklidir.
 
-**Organ veya temsilcinin davranışından dolayı sorumluluk**
+*Organ veya temsilcinin davranışından dolayı sorumluluk*
 
-**MADDE 8-** (1) Organ veya temsilcilik görevi yapan ya da organ veya
+**Madde 8-** (1) Organ veya temsilcilik görevi yapan ya da organ veya
 temsilci olmamakla birlikte, tüzel kişinin faaliyeti çerçevesinde görev
 üstlenen kişinin bu görevi kapsamında işlemiş bulunduğu kabahatten
 dolayı tüzel kişi hakkında da idarî yaptırım uygulanabilir.
@@ -113,19 +129,19 @@ nitelikler aradığı hallerde de yukarıdaki fıkralar hükümleri uygulanır.
 hizmet ilişkisinin dayanağını oluşturan işlemin hukuken geçerli olmaması
 halinde de uygulanır.
 
-**Kast veya taksir**
+*Kast veya taksir*
 
-**MADDE 9-** (1) Kabahatler, kanunda açıkça hüküm bulunmayan hallerde,
+**Madde 9.-** (1) Kabahatler, kanunda açıkça hüküm bulunmayan hallerde,
 hem kasten hem de taksirle işlenebilir.
 
-**Hata**
+*Hata*
 
-**MADDE 10-** (1) Türk Ceza Kanununun hata hallerine ilişkin hükümleri,
+**Madde 10-** (1) Türk Ceza Kanununun hata hallerine ilişkin hükümleri,
 ancak kasten işlenen kabahatler bakımından uygulanır.
 
-**Sorumluluk**
+*Sorumluluk*
 
-**MADDE 11-** (1) Fiili işlediği sırada onbeş yaşını doldurmamış çocuk
+**Madde 11-** (1) Fiili işlediği sırada onbeş yaşını doldurmamış çocuk
 hakkında idarî para cezası uygulanamaz.
 
 \(2) Akıl hastalığı nedeniyle, işlediği fiilin hukukî anlam ve
@@ -133,24 +149,28 @@ sonuçlarını algılayamayan veya bu fiille ilgili olarak davranışlarını
 yönlendirme yeteneği önemli derecede azalmış olan kişi hakkında idarî
 para cezası uygulanmaz.
 
-**Hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenler **
+*Hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenler *
 
-**MADDE 12-** (1) Bu Kanunda aksine hüküm bulunmayan hallerde, Türk Ceza
+**Madde 12-** (1) Bu Kanunda aksine hüküm bulunmayan hallerde, Türk Ceza
 Kanununun hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran
 nedenlere ilişkin hükümleri, kabahatler bakımından da uygulanır.
 
-**Teşebbüs**
+*Teşebbüs*
 
-**MADDE 13-**(1) Kabahate teşebbüs cezalandırılmaz. Ancak, teşebbüsün de
-cezalandırılabileceğine dair ilgili kanunda hüküm bulunan haller
+**Madde 13-** (1) Kabahate teşebbüs cezalandırılmaz. Ancak, teşebbüsün
+de cezalandırılabileceğine dair ilgili kanunda hüküm bulunan haller
 saklıdır. Bu durumda, Türk Ceza Kanununun suça teşebbüse ve gönüllü
 vazgeçmeye ilişkin hükümleri, kabahatler bakımından da uygulanır.
 
-**İştirak**
+*İştirak*
 
-**MADDE 14**- (1) Kabahatin işlenişine birden fazla kişinin iştirak
+**Madde 14**- (1) Kabahatin işlenişine birden fazla kişinin iştirak
 etmesi halinde bu kişilerin her biri hakkında, fail olarak idarî para
 cezası verilir.
+
+9339
+
+ 
 
 \(2) Özel faillik niteliğinin arandığı durumlarda, kabahate iştirak eden
 ve bu niteliği taşımayan kişi hakkında da fail olarak idarî para cezası
@@ -166,9 +186,10 @@ kişiler açısından kabahat olarak tanımlanan fiilin, bu niteliği taşıyan
 ve taşımayan kişiler tarafından ortaklaşa işlenmesi halinde suça
 iştirake ilişkin hükümler uygulanır.
 
-**İçtima **
+*       İçtima *
+================
 
-**MADDE 15**- (1) Bir fiil ile birden fazla kabahatin işlenmesi halinde
+**Madde 15**- (1) Bir fiil ile birden fazla kabahatin işlenmesi halinde
 bu kabahatlere ilişkin tanımlarda sadece idarî para cezası öngörülmüşse,
 en ağır idarî para cezası verilir. Bu kabahatlerle ilgili olarak kanunda
 idarî para cezasından başka idarî yaptırımlar da öngörülmüş ise, bu
@@ -183,21 +204,25 @@ kadar fiil tek sayılır.
 suçtan dolayı yaptırım uygulanabilir. Ancak, suçtan dolayı yaptırım
 uygulanamayan hallerde kabahat dolayısıyla yaptırım uygulanır.
 
-**ÜÇÜNCÜ BÖLÜM**
+ 
 
-**İdarî Yaptırımlar**
+ÜÇÜNCÜ BÖLÜM
 
-**Yaptırım türleri **
+*İdarî Yaptırımlar*
 
-**MADDE 16**- (1) Kabahatler karşılığında uygulanacak olan idarî
+* *
+
+*Yaptırım türleri *
+
+**Madde 16**- (1) Kabahatler karşılığında uygulanacak olan idarî
 yaptırımlar, idarî para cezası ve idarî tedbirlerden ibarettir.
 
 \(2) İdarî tedbirler, mülkiyetin kamuya geçirilmesi ve ilgili kanunlarda
-yer alan diğer tedbirlerdir.
+yer alan diğer tedbirlerdir. 
 
-**İdarî para cezası **
+*İdarî para cezası *
 
-**MADDE 17-** (1) İdarî para cezası, maktu veya nispi olabilir.
+**Madde 17-** (1) İdarî para cezası, maktu veya nispi olabilir.
 
 \(2) İdarî para cezası, kanunda alt ve üst sınırı gösterilmek suretiyle
 de belirlenebilir. Bu durumda, idarî para cezasının miktarı
@@ -238,6 +263,10 @@ olunur.
 \(5) İdarî para cezası tamamen tahsil edildikten itibaren en geç bir ay
 içinde durum, ilgili kamu kurum ve kuruluşuna bildirilir.
 
+9340
+
+ 
+
 \(6) Kabahat dolayısıyla idarî para cezası veren kamu görevlisi,
 ilgilinin rıza göstermesi halinde bunun tahsilatını derhal kendisi
 gerçekleştirir. İdarî para cezasını kanun yoluna başvurmadan önce ödeyen
@@ -251,9 +280,9 @@ değerleme oranında artırılarak uygulanır. Bu suretle idarî para
 cezasının hesabında bir Türk Lirasının küsuru dikkate alınmaz. Bu fıkra
 hükmü, nispi nitelikteki idarî para cezaları açısından uygulanmaz.
 
-**Mülkiyetin kamuya geçirilmesi**
+*Mülkiyetin kamuya geçirilmesi*
 
-**MADDE 18-** (1) Kabahatin konusunu oluşturan veya işlenmesi suretiyle
+**Madde 18-** (1) Kabahatin konusunu oluşturan veya işlenmesi suretiyle
 elde edilen eşyanın mülkiyetinin kamuya geçirilmesine, ancak kanunda
 açık hüküm bulunan hallerde karar verilebilir.
 
@@ -288,9 +317,9 @@ mümkün olmazsa imha edilir.
 \(8) Mülkiyetin kamuya geçirilmesine ilişkin karar, kesinleşmesi halinde
 yerine getirilir.
 
-**Saklı tutulan hükümler **
+*Saklı tutulan hükümler *
 
-**MADDE 19-** (1) Diğer kanunlarda kabahat karşılığında öngörülen
+**Madde 19-** (1) Diğer kanunlarda kabahat karşılığında öngörülen
 belirli bir süre için;
 
 a\) Bir meslek ve sanatın yerine getirilmemesi,
@@ -305,35 +334,48 @@ alıkonulması,
 Gibi yaptırımlara ilişkin hükümler, ilgili kanunlarda bu Kanun
 hükümlerine uygun değişiklik yapılıncaya kadar saklıdır.
 
-**Soruşturma zamanaşımı **
+*Soruşturma zamanaşımı ^(1)^*
 
-**MADDE 20-** (1) Soruşturma zamanaşımının dolması halinde kabahatten
+**Madde 20-** (1) Soruşturma zamanaşımının dolması halinde kabahatten
 dolayı kişi hakkında idarî para cezasına karar verilemez.
 
-\(2) **(Değişik: 6/12/2006-5560/33 md.)** Soruşturma zamanaşımı süresi;
+             (2) **(Değişik: 6/12/2006-5560/33 md.)** Soruşturma
+zamanaşımı süresi;
 
-a\) Yüzbin Türk Lirası veya daha fazla idarî para cezasını gerektiren
-kabahatlerde beş,
+             a) Yüzbin Türk Lirası veya daha fazla idarî para cezasını
+gerektiren kabahatlerde beş,
 
-b\) Ellibin Türk Lirası veya daha fazla idarî para cezasını gerektiren
-kabahatlerde dört,
+             b) Ellibin Türk Lirası veya daha fazla idarî para cezasını
+gerektiren kabahatlerde dört,
 
-c\) Ellibin Türk Lirasından az idarî para cezasını gerektiren
-kabahatlerde üç,
+             c) Ellibin Türk Lirasından az idarî para cezasını
+gerektiren kabahatlerde üç,
 
-yıldır.
+             yıldır.
 
-**(Ek cümle: 13/2/2011-6111/22 md.)** Ancak, 89 uncu maddesi hariç olmak
-üzere 1111 sayılı Askerlik Kanunu, 2839 sayılı Milletvekili Seçimi
-Kanunu, 2918 sayılı Karayolları Trafik Kanunu, 2972 sayılı Mahalli
-İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında
-Kanun, 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması
-Hakkında Kanun, 4925 sayılı Karayolu Taşıma Kanunu, 5490 sayılı Nüfus
-Hizmetleri Kanunu ve 6001 sayılı Karayolları Genel Müdürlüğünün Teşkilat
-ve Görevleri Hakkında Kanunda belirtilen ve idari para cezasını
-gerektiren fiilin işlendiği tarihi takip eden takvim yılının son günü
-bitimine kadar idari para cezası verilerek tebliğ edilmediği takdirde
-idari yaptırım kararı verilemez, verilmiş olanlar düşer. ^(1)^
+             **(Ek cümle: 13/2/2011-6111/22 md.)** Ancak, 89 uncu
+maddesi hariç olmak üzere 1111 sayılı Askerlik Kanunu, 2839 sayılı
+Milletvekili Seçimi Kanunu, 2918 sayılı Karayolları Trafik Kanunu, 2972
+sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri
+Seçimi Hakkında Kanun, 3376 sayılı Anayasa Değişikliklerinin Halkoyuna
+Sunulması Hakkında Kanun, 4925 sayılı Karayolu Taşıma Kanunu, 5490
+sayılı Nüfus Hizmetleri Kanunu ve 6001 sayılı Karayolları Genel
+Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunda belirtilen ve idari
+para cezasını gerektiren fiilin işlendiği tarihi takip eden takvim
+yılının son günü bitimine kadar idari para cezası verilerek tebliğ
+edilmediği takdirde idari yaptırım kararı verilemez, verilmiş olanlar
+düşer.
+
+–––––––––––––––
+
+*(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
+maddenin ikinci fıkrasında yer alan “Ancak” ibaresinden sonra gelmek
+üzere “, 89 uncu maddesi hariç olmak üzere” ibaresi eklenmiş ve metne
+işlenmiştir.*
+
+9341
+
+ 
 
 \(3) Nispî idarî para cezasını gerektiren kabahatlerde zamanaşımı süresi
 sekiz yıldır.
@@ -344,9 +386,9 @@ veya neticenin gerçekleşmesiyle işlemeye başlar.
 \(5) Kabahati oluşturan fiilin aynı zamanda suç oluşturması halinde suça
 ilişkin dava zamanaşımı hükümleri uygulanır.
 
-**Yerine getirme zamanaşımı**
+*Yerine getirme zamanaşımı*
 
-**MADDE 21-** (1) Yerine getirme zamanaşımının dolması halinde idarî
+**Madde 21-** (1) Yerine getirme zamanaşımının dolması halinde idarî
 para cezasına veya mülkiyetin kamuya geçirilmesine ilişkin karar artık
 yerine getirilemez.
 
@@ -375,19 +417,17 @@ itibaren işlemeye başlar.
 \(5) Kanun hükmü gereği olarak idarî yaptırımın yerine getirilmesine
 başlanamaması veya yerine getirilememesi halinde zamanaşımı işlemez.
 
-–––––––––––––––––––––––
+ 
 
-*(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
-fıkrada yer alan “Ancak” ibaresinden sonra gelmek üzere “, 89 uncu
-maddesi hariç olmak üzere” ibaresi eklenmiştir.*
+DÖRDÜNCÜ BÖLÜM
 
-**DÖRDÜNCÜ BÖLÜM**
+*Karar Verme Yetkisi ve Kanun Yolları*
 
-**Karar Verme Yetkisi ve Kanun Yolları**
+* *
 
-**İdarî yaptırım kararı verme yetkisi**
+*İdarî yaptırım kararı verme yetkisi*
 
-**MADDE 22-** (1) Kabahat dolayısıyla idarî yaptırım kararı vermeye
+**Madde 22-** (1) Kabahat dolayısıyla idarî yaptırım kararı vermeye
 ilgili kanunda açıkça gösterilen idarî kurul, makam veya kamu
 görevlileri yetkilidir.
 
@@ -401,9 +441,9 @@ idarî yaptırım kararı vermeye yetkilidir.
 \(4) 4.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun yer
 bakımından yetki kuralları kabahatler açısından da geçerlidir.
 
-**Cumhuriyet savcısının karar verme yetkisi **
+*Cumhuriyet savcısının karar verme yetkisi *
 
-**MADDE 23-** (1) Cumhuriyet savcısı, kanunda açıkça hüküm bulunan
+**Madde 23-** (1) Cumhuriyet savcısı, kanunda açıkça hüküm bulunan
 hallerde bir kabahat dolayısıyla idarî yaptırım kararı vermeye
 yetkilidir.
 
@@ -417,14 +457,18 @@ Cumhuriyet savcısı bu nedenle idarî yaptırım kararı verir. Ancak, bunun
 için ilgili kamu kurum ve kuruluşu tarafından idarî yaptırım kararı
 verilmemiş olması gerekir.
 
-**Mahkemenin karar verme yetkisi**
+9342
 
-**MADDE 24**- (1) Kovuşturma konusu fiilin kabahat oluşturduğunun
+* *
+
+*Mahkemenin karar verme yetkisi*
+
+**Madde 24**- (1) Kovuşturma konusu fiilin kabahat oluşturduğunun
 anlaşılması halinde mahkeme tarafından idarî yaptırım kararı verilir.
 
-**İdarî yaptırım kararı **
+*İdarî yaptırım kararı *
 
-**MADDE 25-** (1) İdarî yaptırım kararına ilişkin tutanakta;
+**Madde 25-** (1) İdarî yaptırım kararına ilişkin tutanakta;
 
 a\) Hakkında idarî yaptırım kararı verilen kişinin kimlik ve adresi,
 
@@ -437,9 +481,10 @@ d\) Karar tarihi ve kararı veren kamu görevlilerinin kimliği,
 Açık bir şekilde yazılır. Tutanakta, ayrıca kabahati oluşturan fiil,
 işlendiği yer ve zaman gösterilerek açıklanır.
 
-**Kararların tebliği **
+*Kararların tebliği *
+=====================
 
-**MADDE 26-** (1) İdarî yaptırım kararı, 11.2.1959 tarihli ve 7201
+**Madde 26-** (1) İdarî yaptırım kararı, 11.2.1959 tarihli ve 7201
 sayılı Tebligat Kanunu hükümlerine göre ilgili kişiye tebliğ edilir.
 Tebligat metninde bu karara karşı başvurulabilecek kanun yolu, mercii ve
 süresi açık bir şekilde belirtilir.
@@ -454,9 +499,9 @@ tutanağının bir örneği kişiye verilir.
 \(3) Tüzel kişi hakkında verilen idarî yaptırım kararları her halde
 ilgili tüzel kişiye tebliğ edilir.
 
-**Başvuru yolu **
+*Başvuru yolu *
 
-**MADDE 27-** (1) İdarî para cezası ve mülkiyetin kamuya geçirilmesine
+**Madde 27-** (1) İdarî para cezası ve mülkiyetin kamuya geçirilmesine
 ilişkin idarî yaptırım kararına karşı, kararın tebliği veya tefhimi
 tarihinden itibaren en geç onbeş gün içinde, sulh ceza mahkemesine
 başvurulabilir. Bu süre içinde başvurunun yapılmamış olması halinde
@@ -480,26 +525,33 @@ sebep dayanaklarıyla gösterilir.
 mahkeme tarafından verilmesi halinde, bu karara karşı ancak itiraz
 yoluna gidilebilir.
 
-\(6) **(Ek: 6/12/2006-5560/34 md.)** Soruşturma konusu fiilin suç değil
-de kabahat oluşturduğu gerekçesiyle idarî yaptırım kararı verilmesi
-halinde; kovuşturmaya yer olmadığı kararına itiraz edildiği takdirde,
-idarî yaptırım kararına karşı başvuru da bu itiraz merciinde incelenir.
+             (6) **(Ek: 6/12/2006-5560/34 md.)** Soruşturma konusu
+fiilin suç değil de kabahat oluşturduğu gerekçesiyle idarî yaptırım
+kararı verilmesi halinde; kovuşturmaya yer olmadığı kararına itiraz
+edildiği takdirde, idarî yaptırım kararına karşı başvuru da bu itiraz
+merciinde incelenir.
 
-\(7) **(Ek: 6/12/2006-5560/34 md.)** Kovuşturma konusu fiilin suç değil
-de kabahat oluşturduğu gerekçesiyle idarî yaptırım kararı verilmesi
-halinde; fiilin suç oluşturmaması nedeniyle verilen beraat kararına
-karşı kanun yoluna gidildiği takdirde, idarî yaptırım kararına karşı
-itiraz da bu kanun yolu merciinde incelenir.
+             (7) **(Ek: 6/12/2006-5560/34 md.)** Kovuşturma konusu
+fiilin suç değil de kabahat oluşturduğu gerekçesiyle idarî yaptırım
+kararı verilmesi halinde; fiilin suç oluşturmaması nedeniyle verilen
+beraat kararına karşı kanun yoluna gidildiği takdirde, idarî yaptırım
+kararına karşı itiraz da bu kanun yolu merciinde incelenir.
 
-\(8) **(Ek: 6/12/2006-5560/34 md.)** İdarî yaptırım kararının verildiği
-işlem kapsamında aynı kişi ile ilgili olarak idarî yargının görev
-alanına giren kararların da verilmiş olması halinde; idarî yaptırım
-kararına ilişkin hukuka aykırılık iddiaları bu işlemin iptali talebiyle
-birlikte idarî yargı merciinde görülür.
+            
 
-**Başvurunun incelenmesi ^(1)^**
+9342-1
 
-**MADDE 28-** (1) Başvuru üzerine mahkemece yapılan ön inceleme
+ 
+
+             (8) **(Ek: 6/12/2006-5560/34 md.)** İdarî yaptırım
+kararının verildiği işlem kapsamında aynı kişi ile ilgili olarak idarî
+yargının görev alanına giren kararların da verilmiş olması halinde;
+idarî yaptırım kararına ilişkin hukuka aykırılık iddiaları bu işlemin
+iptali talebiyle birlikte idarî yargı merciinde görülür.
+
+*Başvurunun incelenmesi *
+
+**Madde 28-** (1) Başvuru üzerine mahkemece yapılan ön inceleme
 sonucunda;
 
 a\) Yetkili olmadığının anlaşılması halinde dosyanın yetkili sulh ceza
@@ -509,6 +561,10 @@ b\) Başvurunun süresi içinde yapılmadığının, başvuru konusu idarî
 yaptırım kararının sulh ceza mahkemesinde incelenebilecek kararlardan
 olmadığının veya başvuranın buna hakkı bulunmadığının anlaşılması
 halinde, bu nedenlerle başvurunun reddine,
+
+9343
+
+ 
 
 c\) (a) ve (b) bentlerinde sayılan nedenlerin bulunmaması halinde
 başvurunun usulden kabulüne,
@@ -560,45 +616,51 @@ Karar verir.
 sınırının kanunda gösterildiği kabahatler dolayısıyla verilmiş idarî
 para cezasına karşı başvuruda bulunulması halinde, mahkeme idarî para
 cezasının miktarında değişiklik yaparak da başvurunun kabulüne karar
-verebilir. ^(1)^
+verebilir.
 
 \(10) Üçbin Türk Lirası dahil idarî para cezalarına karşı başvuru üzerine
 verilen kararlar kesindir. ^(1)(2)^
 
-**İtiraz yolu **
+*İtiraz yolu *
 
-**MADDE 29-** (1) Mahkemenin verdiği son karara karşı, Ceza Muhakemesi
+**Madde 29-** (1) Mahkemenin verdiği son karara karşı, Ceza Muhakemesi
 Kanununa göre itiraz edilebilir. Bu itiraz, kararın tebliği tarihten
 itibaren en geç yedi gün içinde yapılır. ^(3)^
 
 \(2) İtirazla ilgili karar, dosya üzerinden inceleme yapılarak verilir.
 
-–––––––––––––––––––––
+\(3) Mahkeme, her bir itirazla ilgili olarak “itirazın kabulüne” veya
+“itirazın reddine” karar verir.
 
-*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 35 inci maddesiyle, bu
-maddeye sekizinci fıkradan sonra gelmek üzere dokuzuncu fıkra eklenmiş
-ve diğer fıkra numarası buna göre teselsül ettirilmiştir. *
-
-*(2) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
-fıkrada yer alan “İkibin” ibaresi “Üçbin” şeklinde değiştirilmiştir.*
-
-*(3) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
-fıkrada yer alan “yargı çevresinde yer aldığı ağır ceza mahkemesine”
-ibaresi “Ceza Muhakemesi Kanununa göre” şeklinde değiştirilmiştir.*
-
-\(3) Mahkeme, her bir itirazla ilgili olarak "itirazın kabulüne" veya
-"itirazın reddine" karar verir.
-
-\(4) Mahkemenin verdiği karar taraflara tebliğ edilir. Vekil olarak
+ (4) Mahkemenin verdiği karar taraflara tebliğ edilir. Vekil olarak
 avukatla temsil edilme halinde ayrıca taraflara tebligat yapılmaz.
 
 \(5) **(Değişik: 31/3/2011-6217/27 md.)** İdarî yaptırım kararının ağır
 ceza mahkemesi tarafından verilmesi halinde bu karara karşı Ceza
 Muhakemesi Kanununa göre itiraz edilebilir.
 
-**Vazgeçme ve kabul **
+*––––––––––––––––––*
 
-**MADDE 30-** (1) Kanun yoluna başvuran kişi, bu konuda karar
+*(1)   6/12/2006 tarihli ve 5560 sayılı Kanunun 35 inci maddesiyle
+sekizinci fıkradan sonra gelmek üzere (9) numaralı  fıkra eklenmiş ve
+diğer fıkra numarası buna göre (10) olarak teselsül ettirilmiştir.*
+
+*(2)  31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
+fıkrada yer alan “İkibin” ibaresi “Üçbin” şeklinde değiştirilmiş ve
+metne işlenmiştir.*
+
+*(3)  31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
+fıkrada yer alan “yargı çevresinde yer aldığı ağır ceza mahkemesine”
+ibaresi “Ceza Muhakemesi Kanununa göre” şeklinde değiştirilmiş ve metne
+işlenmiştir.*
+
+9344
+
+ 
+
+*Vazgeçme ve kabul *
+
+**Madde 30 -** (1) Kanun yoluna başvuran kişi, bu konuda karar
 verilinceye kadar başvurusundan vazgeçebilir. Vazgeçme halinde bir daha
 aynı konuda başvuruda bulunulamaz.
 
@@ -606,25 +668,29 @@ aynı konuda başvuruda bulunulamaz.
 verilinceye kadar kanun yolu başvurusunu kabul ederek idarî yaptırım
 kararını geri alabilir.
 
-**Masrafların ve vekalet ücretinin ödenmesi**
+*Masrafların ve vekalet ücretinin ödenmesi*
 
-**MADDE 31-** (1) İdarî yaptırım kararına karşı başvuru yolu harca tâbi
+**Madde 31 -** (1) İdarî yaptırım kararına karşı başvuru yolu harca tâbi
 değildir. ^(1)^
 
 \(2) Kanun yoluna başvuru dolayısıyla oluşan bütün masraflar ve vekalet
 ücreti, başvurusu veya savunması reddedilen tarafça ödenir.
 
-**İKİNCİ KISIM**
+ 
 
-**Çeşitli Kabahatler**
+İKİNCİ KISIM
 
-**Emre aykırı davranış **
+*Çeşitli Kabahatler*
 
-**MADDE 32-** (1) Yetkili makamlar tarafından adlî işlemler nedeniyle ya
-da kamu güvenliği, kamu düzeni veya genel sağlığın korunması amacıyla,
-hukuka uygun olarak verilen emre aykırı hareket eden kişiye yüz Türk
-Lirası idarî para cezası verilir. Bu cezaya emri veren makam tarafından
-karar verilir.
+* *
+
+*Emre aykırı davranış *
+
+**Madde 32 -** (1) Yetkili makamlar tarafından adlî işlemler nedeniyle
+ya da kamu güvenliği, kamu düzeni veya genel sağlığın korunması
+amacıyla, hukuka uygun olarak verilen emre aykırı hareket eden kişiye
+yüz Türk Lirası idarî para cezası verilir. Bu cezaya emri veren makam
+tarafından karar verilir.
 
 \(2) Bu madde, ancak ilgili kanunda açıkça hüküm bulunan hallerde
 uygulanabilir.
@@ -632,9 +698,9 @@ uygulanabilir.
 \(3) 1.3.1926 tarihli ve 765 sayılı Türk Ceza Kanununun 526 ncı maddesine
 diğer kanunlarda yapılan yollamalar, bu maddeye yapılmış sayılır.
 
-**Dilencilik**
+*Dilencilik*
 
-**MADDE 33-** (1) Dilencilik yapan kişiye, elli Türk Lirası idarî para
+**Madde 33 -** (1) Dilencilik yapan kişiye, elli Türk Lirası idarî para
 cezası verilir. Ayrıca, dilencilikten elde edilen gelire elkonularak
 mülkiyetin kamuya geçirilmesine karar verilir.
 
@@ -642,25 +708,25 @@ mülkiyetin kamuya geçirilmesine karar verilir.
 belediye zabıta görevlileri, mülkiyetin kamuya geçirilmesine mülkî amir
 veya belediye encümeni karar verir.
 
-**Kumar **
+*Kumar *
 
-**MADDE 34-** (1) Kumar oynayan kişiye, yüz Türk Lirası idarî para
+**Madde 34 -** (1) Kumar oynayan kişiye, yüz Türk Lirası idarî para
 cezası verilir. Ayrıca, kumardan elde edilen gelire elkonularak
 mülkiyetin kamuya geçirilmesine karar verilir.
 
 \(2) Bu kabahat dolayısıyla idarî para cezasına ve elkoymaya kolluk
 görevlileri, mülkiyetin kamuya geçirilmesine mülkî amir karar verir.
 
-**Sarhoşluk**
+*Sarhoşluk*
 
-**MADDE 35-** (1) Sarhoş olarak başkalarının huzur ve sükununu bozacak
+**Madde 35 -** (1) Sarhoş olarak başkalarının huzur ve sükununu bozacak
 şekilde davranışlarda bulunan kişiye, kolluk görevlileri tarafından elli
 Türk Lirası idarî para cezası verilir. Kişi, ayrıca sarhoşluğun etkisi
 geçinceye kadar kontrol altında tutulur.
 
-**Gürültü**
+*Gürültü*
 
-**MADDE 36**- (1) Başkalarının huzur ve sükununu bozacak şekilde
+**Madde 36** - (1) Başkalarının huzur ve sükununu bozacak şekilde
 gürültüye neden olan kişiye, elli Türk Lirası idarî para cezası verilir.
 
 \(2) Bu fiilin bir ticarî işletmenin faaliyeti çerçevesinde işlenmesi
@@ -670,23 +736,29 @@ beşbin Türk Lirasına kadar idarî para cezası verilir.
 \(3) Bu kabahat dolayısıyla idarî para cezasına kolluk veya belediye
 zabıta görevlileri karar verir.
 
-**Rahatsız etme**
+*–––––––––––––––––*
 
-**MADDE 37-** (1) Mal veya hizmet satmak için başkalarını rahatsız eden
+*(1)  31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
+fıkrada yer alan “kanun yoluna başvurulması” ibaresi “başvuru yolu”
+şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+ 
+
+9345
+
+ 
+
+*Rahatsız etme*
+
+**Madde 37-** (1) Mal veya hizmet satmak için başkalarını rahatsız eden
 kişi, elli Türk Lirası idarî para cezası ile cezalandırılır.
 
 \(2) Bu kabahat dolayısıyla idarî para cezası vermeye kolluk veya
 belediye zabıta görevlileri yetkilidir.
 
-–––––––––––––––––––––
+*İşgal*
 
-*(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
-fıkrada yer alan “kanun yoluna başvurulması” ibaresi “başvuru yolu”
-şeklinde değiştirilmiştir.*
-
-**İşgal**
-
-**MADDE 38-** (1) Yetkili makamların açık ve yazılı izni olmaksızın
+**Madde 38-** (1) Yetkili makamların açık ve yazılı izni olmaksızın
 meydan, cadde, sokak veya yayaların gelip geçtiği kaldırımları işgal
 eden veya buralarda mal satışa arz eden kişiye, belediye zabıta
 görevlileri tarafından elli Türk Lirası idarî para cezası verilir.
@@ -698,9 +770,9 @@ beşyüz Türk Lirasına kadar idarî para cezası verilir.
 
 \(3) Özel kanunlardaki hükümler saklıdır.
 
-**Tütün mamullerinin tüketilmesi**
+*Tütün mamullerinin tüketilmesi*
 
-**MADDE 39-** (1) Kamu hizmet binalarının kapalı alanlarında tütün
+**Madde 39-** (1) Kamu hizmet binalarının kapalı alanlarında tütün
 mamulü tüketen kişiye, ilgili idarî birim amirinin yetkili kıldığı kamu
 görevlileri tarafından elli Türk Lirası idarî para cezası verilir. Bu
 fıkra hükmü, tütün mamulü tüketilmesine tahsis edilen alanlarda
@@ -713,15 +785,15 @@ ilk başvurulan kolluk birim yetkilileri tarafından verilir. Kamuya ait
 toplu taşıma araçlarında işlenmesi halinde idarî para cezası verme
 yetkisi bakımından birinci fıkra hükmü uygulanır.
 
-\(3) Özel hukuk kişilerine ait olan ve herkesin girebileceği binaların
+ (3) Özel hukuk kişilerine ait olan ve herkesin girebileceği binaların
 kapalı alanlarında, tütün mamullerinin tüketilemeyeceğini belirtir açık
 bir işarete yer verilmesine rağmen, bu yasağa aykırı hareket eden
 kişiye, elli Türk Lirası idarî para cezası verilir. Bu ceza, şikâyet
 üzerine en yakın kolluk birimi yetkililerince verilir.
 
-**Kimliği bildirmeme **
+*Kimliği bildirmeme *
 
-**MADDE 40**- (1) Görevle bağlantılı olarak sorulması halinde kamu
+**Madde 40**- (1) Görevle bağlantılı olarak sorulması halinde kamu
 görevlisine kimliği veya adresiyle ilgili bilgi vermekten kaçınan veya
 gerçeğe aykırı beyanda bulunan kişiye, bu görevli tarafından elli Türk
 Lirası idarî para cezası verilir.
@@ -736,9 +808,9 @@ Muhakemesi Kanunu hükümleri uygulanır.
 \(3) Kişinin kimliğinin belirlenmesi durumunda, bu nedenle gözaltına
 alınma veya tutuklanma haline derhal son verilir.
 
-**Çevreyi kirletme**
+*Çevreyi kirletme*
 
-**MADDE 41**- (1) Evsel atık ve artıkları, bunların toplanmasına veya
+**Madde 41**- (1) Evsel atık ve artıkları, bunların toplanmasına veya
 depolanmasına özgü yerler dışına atan kişiye, yirmi Türk Lirası idarî
 para cezası verilir. Bireysel atık ve artıkların atılması halinde de bu
 fıkra hükmü uygulanır.
@@ -747,11 +819,15 @@ fıkra hükmü uygulanır.
 sahibi gerçek veya tüzel kişiye, beşyüz Türk Lirasından beşbin Türk
 Lirasına kadar idarî para cezası verilir.
 
-\(3) Hayvan kesimine tahsis edilen yerler dışında hayvan kesen veya
+9346
+
+ 
+
+ (3) Hayvan kesimine tahsis edilen yerler dışında hayvan kesen veya
 kesilen hayvan atıklarını sokağa veya kamuya ait sair bir alana bırakan
 kişiye, elli Türk Lirası idarî para cezası verilir.
 
-\(4) İnşaat atık ve artıklarını bunların toplanmasına veya depolanmasına
+ (4) İnşaat atık ve artıklarını bunların toplanmasına veya depolanmasına
 özgü yerler dışına atan kişiye, yüz Türk Lirasından üçbin Türk Lirasına
 kadar idarî para cezası verilir. İnşaat faaliyetinin bir tüzel kişi
 adına yürütülmesi halinde bu tüzel kişi hakkında verilecek idarî para
@@ -780,9 +856,9 @@ derhal giderilmesi halinde idarî para cezasına karar verilmeyebilir.
 
 \(10) Özel kanunlardaki hükümler saklıdır.
 
-**Afiş asma **
+*Afiş asma *
 
-**MADDE 42-** (1) Meydanlara veya parklara, cadde veya sokak
+**Madde 42-** (1) Meydanlara veya parklara, cadde veya sokak
 kenarlarındaki kamuya ait duvar veya alanlara, rızası olmaksızın özel
 kişilere ait alanlara bez, kâğıt ve benzeri afiş ve ilân asan kişiye,
 yüz Türk Lirasından üçbin Türk Lirasına kadar idarî para cezası verilir.
@@ -794,7 +870,7 @@ afiş ve ilânın asılacağı zaman dilimi açık bir şekilde gösterilir. Bu
 afiş ve ilânlar izin verilen gerçek veya tüzel kişi tarafından bu
 sürenin dolmasını müteakip derhal toplatılır. Toplatma yükümlülüğüne
 aykırı hareket edilmesi halinde birinci fıkra hükmüne göre idarî para
-cezası verilir.
+cezası verilir. 
 
 \(3) Bu afiş ve ilânların kaldırılmasına ilişkin masraflar da ilgili
 kişilerden ayrıca tahsil edilir.
@@ -804,16 +880,16 @@ zabıta görevlileri karar verir.
 
 \(5) Özel kanunlardaki hükümler saklıdır.
 
-**Silah taşıma **
+*Silah taşıma *
 
-**MADDE 43-** (1) Yetkili makamlardan ruhsat almaksızın kanuna göre
+**Madde 43-** (1) Yetkili makamlardan ruhsat almaksızın kanuna göre
 yasak olmayan silahları park, meydan, cadde veya sokaklarda görünür bir
 şekilde taşıyan kişiye, kolluk tarafından elli Türk Lirası idarî para
 cezası verilir.
 
-**Tüzel kişilerin sorumluluğu**
+*Tüzel kişilerin sorumluluğu*
 
-**MADDE 43/A –** **(Ek: 26/6/2009-5918/9 md.)**
+**Madde 43/A- (Ek: 26/6/2009-5918/9 md.)**
 
 \(1) Daha ağır idarî para cezasını gerektiren bir kabahat oluşturmadığı
 hallerde, bir özel hukuk tüzel kişisinin organ veya temsilcisi ya da
@@ -828,6 +904,8 @@ a\) 5237 sayılı Türk Ceza Kanununun;
 
 3\) 236 ncı maddesinde tanımlanan edimin ifasına fesat karıştırma
 suçunun,
+
+9347
 
 4\) 252 nci maddesinde tanımlanan rüşvet suçunun,
 
@@ -854,47 +932,63 @@ verilir.
 fıkrada sayılan suçlardan dolayı yargılama yapmakla görevli mahkeme
 yetkilidir.
 
-**EK MADDE 1** — **(Ek: 11/5/2005-5348/5 md.)**
+*Tüzel kişilerin bildirim yükümlülüğü*
+
+**Madde 43/B –** **(Ek: 2/7/2012-6352/102 md.)**
+
+\(1) 5411 sayılı Kanunun 3 üncü maddesinde tanımlanan; bankalara,
+finansal kuruluşlara veya paranın sayım ve incelemesini yaparak
+bankalara destek hizmeti veren kuruluşlar ile mevzuat çerçevesinde
+dövize ilişkin işlemler yapmasına izin verilen şirketlere, her ne amaçla
+olursa olsun ibraz edilen paranın sahte olduğunun anlaşılması halinde,
+5237 sayılı Kanunun 278 inci maddesinde düzenlenen bildirim yükümlülüğü
+yerine getirilmediği takdirde, bu maddede sayılan tüzel kişilere
+Cumhuriyet savcısı tarafından bin Türk Lirasından beşbin Türk Lirasına
+kadar idarî para cezası verilir.
+
+**Ek Madde 1- (Ek: 11/5/2005-5348/5 md.)**
 
 \(1) 4.1.1961 tarihli ve 213 sayılı Vergi Usul Kanununda yer alan vergi
 mahkemelerinin görevine ilişkin hükümler saklıdır.
 
-**GEÇİCİ MADDE 1-** (1) Bu Kanunda ve 1 Haziran 2005 tarihinden sonra
+**Geçici Madde 1-** (1) Bu Kanunda ve 1 Haziran 2005 tarihinden sonra
 yürürlüğe giren diğer kanunlardaki idarî para cezaları ile ilgili olarak
 geçen "Türk Lirası" ibaresi karşılığında, uygulamada, 28.1.2004 tarihli
 ve 5083 sayılı Türkiye Cumhuriyeti Devletinin Para Birimi Hakkında Kanun
 hükümlerine göre ülkede tedavülde bulunan para "Yeni Türk Lirası" olarak
 adlandırıldığı sürece bu ibare kullanılır. ^(1)^
 
-**GEÇİCİ MADDE 2-** (1) Bu Kanun hükümleri, yürürlüğe girdiği tarih
+**Geçici Madde 2-** (1) Bu Kanun hükümleri, yürürlüğe girdiği tarih
 itibarıyla idare mahkemelerinde dava açılarak iptali istenen idarî
 yaptırım kararları hakkında uygulanmaz.
 
-**GEÇİCİ MADDE 3-** (1) Daha önce verilmiş olan idarî para cezasına
+**Geçici Madde 3-** (1) Daha önce verilmiş olan idarî para cezasına
 ilişkin kararlara karşı henüz iptal davası açılmamış olmakla birlikte
 dava açma süresinin geçmemiş olması halinde, bu Kanunun yürürlüğe
 girdiği tarihten itibaren onbeş gün içinde 27 nci madde hükümlerine göre
 sulh ceza mahkemesine başvuruda bulunulabilir.
 
-**Yürürlük**
+*Yürürlük*
 
-**MADDE 44**- (1) Bu Kanun 1 Haziran 2005 tarihinde yürürlüğe girer.
+**Madde 44**- (1) Bu Kanun 1 Haziran 2005 tarihinde yürürlüğe girer.
 ^(2)^
 
-**Yürütme**
+*Yürütme*
 
-**MADDE 45-** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**Madde 45-** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 –––––––––––––––––
 
-*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 36 ncı maddesiyle, bu
-maddede yer alan, "Bu Kanunda" ibaresinden sonra gelmek üzere "ve 1
+*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 36 ncı maddesiyle bu
+maddede yer alan "Bu Kanunda" ibaresinden sonra gelmek üzere "ve 1
 Haziran 2005 tarihinden sonra yürürlüğe giren diğer kanunlardaki idarî
-para cezaları ile ilgili olarak" ibaresi eklenmiştir.*
+para cezaları ile ilgili olarak" ibaresi eklenmiş ve metne işlenmiştir.*
 
 *(2) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
 5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde
-değiştirilmiştir.*
+değiştirilmiş ve metne işlenmiştir.*
+
+9348
 
 **5326 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -912,6 +1006,11 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6009                                                                         21                                                            1/8/2010
   6111                                                                         20                                                            25/2/2011
   6217                                                                         20, 28, 29, 31                                                14/4/2011
+  6352                                                                         43/B                                                          5/7/2012
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
+ 
 
+ 
+
+ 
