@@ -1,4 +1,4 @@
-5737 sayılı Kanunun 5917 Kanun İle Değişik Hali
+5737 sayılı Kanunun 6111 sayılı Kanun İle Değişik Hali
 
 **VAKIFLAR KANUNU**
 
@@ -180,6 +180,16 @@ vakıflarla, bu Kanuna göre mazbut vakıflar arasına alınan vakıflara bir
 daha yönetici seçimi ve ataması yapılamaz.
 
 İlgililerin vakfiye şartlarına göre intifa hakları saklıdır.
+
+**(Ek: 13/2/2011-6111/208 md.)** İntifa haklarına ilişkin talepler galle
+fazlası almaya hak kazanıldığını gösteren mahkeme kararının kesinleştiği
+tarihten itibaren beş yıl geçmekle düşer.
+
+**(Ek: 13/2/2011-6111/208 md.)** Mazbut vakıflarda intifa hakları, galle
+fazlası almaya hak kazanıldığını gösteren mahkeme kararının kesinleştiği
+tarihten itibaren, vakfın son beş yıl içindeki malvarlığı, gelirleri ve
+giderleri ile sınırlı olmak ve galle fazlasının mevcudiyeti şartıyla
+Genel Müdürlükçe belirlenir.
 
 **Yeni vakıf organlarının tamamlanması**
 
@@ -1668,6 +1678,13 @@ işletmelerin yeniden yapılandırılması ile ilgili düzenleme yapılıncaya
 kadar faaliyetlerini döner sermaye işletmesi olarak yürütmeye devam
 ederler.
 
+**GEÇİCİ MADDE 10- (Ek: 13/2/2011-6111/209 md.)**
+
+Bu maddenin yürürlüğe girdiği tarih itibarıyla bu Kanunun 7 nci
+maddesine eklenen hükümler, bu maddenin yürürlüğe girdiği tarihten önce
+açılmış ve halen devam eden intifa haklarının ödenmesi, malvarlığı ve
+gelirlerinin tespitine ilişkin davalarda da uygulanır.
+
 **Yürürlük**
 
 **MADDE 81 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
@@ -1815,7 +1832,7 @@ ederler.
 
   5917                       1/7/2009                                      10/7/2009                                                         \(III) Sayılı Cetvel
 
-                                                                                                                                             
+  6111                       25/2/2011                                     25/2/2011                                                         7, Geçici Madde 10
 
                                                                                                                                              
 
