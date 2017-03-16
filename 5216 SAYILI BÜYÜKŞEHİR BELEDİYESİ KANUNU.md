@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5335 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun 5378 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -920,6 +920,18 @@ kaldırılmıştır.
 Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında
 Kanun ile değişikliklerine yapılan atıflar bu Kanuna yapılmış sayılır.
 
+**EK MADDE 1. — (EK: 1/7/2005-5378/ 40 md.) **
+
+Büyükşehir belediyelerinde özürlülerle ilgili bilgilendirme,
+bilinçlendirme, yönlendirme, danışmanlık, sosyal ve mesleki
+rehabilitasyon hizmetleri vermek üzere özürlü hizmet birimleri
+oluşturulur. Bu birimler, faaliyetlerini özürlülere hizmet amacıyla
+kurulmuş vakıf, dernek ve bunların üst kuruluşlarıyla işbirliği hâlinde
+sürdürürler. Özürlü hizmet birimlerinin kuruluş, görev, yetki,
+sorumluluk ve işleyişine ilişkin usûl ve esaslar Özürlüler İdaresi
+Başkanlığının görüşü alınarak İçişleri Bakanlığınca hazırlanacak
+yönetmelikle belirlenir.
+
 **GEÇİCİ MADDE 1.-** Büyükşehir belediyeleri, bu Kanunun yürürlüğe
 girdiği tarihten itibaren en geç iki yıl içinde büyükşehirin 1/25.000
 ölçekli nazım imar plânlarını yapar veya yaptırır.
@@ -1057,7 +1069,7 @@ Sigortalar Kurumu Başkanlığı" ibaresi eklenmiştir.*
 
   5335                       27/4/2005                                                                27/4/2005                                                         6, 7, 23, 27, Geçici Madde 3
 
-                                                                                                                                                                        
+  5378                       7/7/2005                                                                 7/7/2055                                                          Ek Madde 1
 
                                                                                                                                                                         
 
