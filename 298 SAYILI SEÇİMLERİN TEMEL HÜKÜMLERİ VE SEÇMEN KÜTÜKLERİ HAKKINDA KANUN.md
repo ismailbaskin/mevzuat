@@ -1,4 +1,4 @@
-**6462 sayılı Kanun ile değişik hali**
+3627
 
 []{#K23 .anchor}**SEÇİMLERİN TEMEL HÜKÜMLERİ VE SEÇMEN**
 
@@ -1711,7 +1711,7 @@ Siyasi partiler isterlerse ilçe seçim kurulunun düzenleyeceği programa
 göre varsa belediye hoparlörlerinden bedeli karşılığında eşit surette
 faydalanabilirler.
 
-*Propaganda amaçlı yayın ve malzeme dağıtma ^(1)^*
+Propaganda amaçlı yayın ve malzeme dağıtma ^(1)^
 
 **Madde 57 – (Değişik: 8/4/2010-5980/6 md.)**
 
@@ -1726,17 +1726,19 @@ bir hediye ve eşantiyon dağıtmaları, dağıttırmaları veya bunların üç�
 Bu maddede belirtilen yayın veya malzemeleri dağıtacak kimselerin on
 sekiz yaşını doldurmuş olması şarttır.
 
-*Propaganda yayınlarına ilişkin yasaklar:*
+Propaganda yayınlarına ilişkin yasaklar ve propagandada kullanılacak
+dil:^(2)^
 
 **Madde 58 – (Değişik: 8/4/2010-5980/7 md.)**
 
 Propaganda için kullanılan el ilanları ve diğer her türlü matbuat
 üzerinde Türk Bayrağı ve dini ibareler bulundurulması yasaktır.
 
-Siyasi partiler ve adayların yapacakları propagandalarda Türkçe
-kullanılması esastır.
+**(Değişik:2/3/2014-6529/1 md.)** Siyasi partiler ve adaylar tarafından
+yapılacak her türlü propaganda, Türkçe’nin yanı sıra farklı dil ve
+lehçelerde de yapılabilir.
 
-*Muafiyet:*
+Muafiyet:
 
 **Madde 59 – (Değişik: 17/5/1979 - 2234/1 md.)**
 
@@ -1744,7 +1746,7 @@ Propaganda için kullanılan el ilanı mahiyetindeki matbualar, seçimin
 başlangıcından propaganda süresinin sonuna kadar her türlü harç ve
 resimlerden muaftır.
 
-*İlan ve reklam yerleri ^(2)^*
+*İlan ve reklam yerleri ^(3)^*
 
 **Madde 60 – (Değişik: 8/4/2010-5980/8 md.)**
 
@@ -1765,13 +1767,17 @@ kadar bu malzemelerin kullanılması serbesttir.
 
 ––––––––––––––
 
-*(1)* *Bu madde başlığı “El ilanları:” iken, 8/4/2010 tarihli ve 5980
+\(1) Bu madde başlığı “El ilanları:” iken, 8/4/2010 tarihli ve 5980
 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
+değiştirilmiştir.
 
-*(2)* *Bu madde başlığı “Duvar ilanı ve afişle propaganda yapmak
-yasağı:” iken, 8/4/2010 tarihli ve 5980 sayılı Kanunun 8 inci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.*
+\(2) Bu madde başlığı “Propaganda yayınlarına ilişkin yasaklar” iken,
+2/3/2014 tarihli ve 6529 sayılı Kanunun 1 inci maddesiyle metne
+işlendiği şekilde değiştirilmiştir.
+
+\(3) Bu madde başlığı “Duvar ilanı ve afişle propaganda yapmak yasağı:”
+iken, 8/4/2010 tarihli ve 5980 sayılı Kanunun 8 inci maddesiyle metne
+işlendiği şekilde değiştirilmiştir.
 
 3646-1
 
@@ -4438,30 +4444,8 @@ hakkında beş yıldan sekiz yıla kadar hapis cezasına hükmolunur.
 
 *Özel radyo ve televizyon yayınlarına ilişkin suçlar^(1)^*
 
-**Madde 149/A-** **(Yeniden düzenleme: 15/7/2003-4928/4 md.)**
-
-Bu Kanunun 55/A maddesine ve Yüksek Seçim Kurulunca belirlenen esaslara
-aykırı olarak yayın yapılması halinde, ülke genelinde yayın yapan özel
-radyo ve televizyon kuruluşlarını Yüksek Seçim Kurulu, yerel yayın yapan
-özel radyo ve televizyon kuruluşlarını ise yayının yapıldığı yer ilçe
-seçim kurulu uyarır veya aynı yayın kuşağında açık bir şekilde özür
-dilemesini ister. Bu talebe uyulmaması veya aykırılığın tekrarı halinde,
-Yüksek Seçim Kurulu veya yayının yapıldığı yer ilçe seçim kurulunca,
-ihlâle konu programın yayını bir ilâ oniki kez arasında durdurulur.
-Aykırılığın tekrarı hâlinde, ülke genelinde yayın yapan özel radyo ve
-televizyon kuruluşlarının yayınlarının Yüksek Seçim Kurulunca beş günden
-onbeş güne kadar durdurulmasına, yerel yayın yapan özel radyo ve
-televizyonların yayınlarının ise yayının yapıldığı yer ilçe seçim
-kurulunca üç günden yedi güne kadar durdurulmasına karar verilir.
-
-Bu kararlar ilgili en yüksek mülkî amirlerce derhâl yerine getirilir.
-
-**(Değişik üçüncü fıkra: 23/1/2008-5728/298 md.)** Birinci fıkra hükmüne
-göre hakkında yayın durdurulması kararı verilen özel radyo ve televizyon
-kuruluşlarının sorumlularına, onbeşbin Türk Lirasından yüzbin Türk
-Lirasına; yerel yayın yapan özel radyo ve televizyon kuruluşlarının
-sorumlularına, beşyüz Türk Lirasından beşbin Türk Lirasına kadar idarî
-para cezası verilir.
+**Madde 149/A-** **(Yeniden düzenleme: 15/7/2003-4928/4 md.; Mülga:
+2/1/2017-KHK-687/10 md.)**
 
 *Toplantı heyetlerine karşı suçlar:*
 
@@ -5551,6 +5535,10 @@ imali için gerekli ödenek ayrılır.
   6353                       180                                                                                                                                                                                   12/7/2012
 
   6462                       36, 74, 90, 92, 93                                                                                                                                                                    3/5/2013
+
+  6529                       58                                                                                                                                                                                    13/3/2014
+
+  KHK/687                    149/A                                                                                                                                                                                 9/2/2017
   -------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
 
 
