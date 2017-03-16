@@ -1,4 +1,4 @@
-**17/10/1987 tarihli ve 3361 sayılı Kanun ile değişik hali**
+**8/7/1993 tarihli ve 3913 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -2400,26 +2400,16 @@ düzenlenir.
 **Madde 132** - Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı
 yükseköğretim kurumları özel kanunlarının hükümlerine tabidir.
 
-*F. Radyo ve Televizyon İdaresi ve kamuyla ilişkili haber ajansları*
+*F. Radyo ve televizyon kuruluşları ve kamuyla ilişkili haber ajansları*
 
-**Madde 133 -** Radyo ve televizyon istasyonları, ancak Devlet eli ile
-kurulur ve idareleri tarafsız bir kamu tüzelkişiliği halinde düzenlenir.
+**Madde 133 – (Değişik: 8/7/1993-3913/1 md.)**
 
-Kanun; Türk Devletinin varlık ve bağımsızlığını, ülkenin ve milletin
-bölünmez bütünlüğünü, toplumun huzurunu, genel ahlakı ve Anayasanın 2
-nci maddesinde belirtilen Cumhuriyetin temel niteliklerini koruyacak
-tarzda yayın yapmasını düzenler ve Kurumun yönetim ve denetiminde,
-yönetim organlarının oluşturulmasında ve her türlü radyo ve televizyon
-yayınlarında tarafsızlık ilkesini gözetir.
+Radyo ve televizyon istasyonları kurmak ve işletmek kanunla düzenlenecek
+şartlar çerçevesinde serbesttir.
 
-Haber ve programların seçilmesi, işlenmesi, sunulması ve millî kültür ve
-eğitime yardımcılık görevinin yerine getirilmesi, haberlerin
-doğruluğunun sağlanması esasları, organların seçimi, görev, yetki ve
-sorumlulukları kanunla düzenlenir.
-
-Yukarıdaki ikinci fıkra hükümleri, kamu iktisadî teşebbüsü niteliği
-taşıyan veya Devlet yahut diğer kamu tüzelkişilerinden malî yardım gören
-haber ajansları hakkında da uygulanır.
+Devletçe kamu tüzelkişiliği olarak kurulan tek radyo ve televizyon
+kurumu ile kamu tüzelkişilerinden yardım gören haber ajanslarının
+özerkliği ve yayınlarının tarafsızlığı esastır.
 
 *G. Atatürk Kültür, Dil ve Tarih Yüksek Kurumu*
 
@@ -2430,6 +2420,12 @@ himayelerinde, Cumnurbaşkanının gözetim ve desteğinde, Başbakanlığa
 bağlı; Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve
 Atatürk Kültür Merkezinden oluşan, kamu tüzel kişiliğine sahip "Atatürk
 Kültür, Dil ve Tarih Yüksek Kurumu" kurulur.
+
+––––––––––––––––
+
+*(1) Bu madde başlığı “F. Radyo ve Televizyon İdaresi ve kamuyla
+ilişkili haber ajansları” iken, 8/7/1993 tarihli ve 3913 sayılı Kanunun
+1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.*
 
 Türk Dil Kurumu ile Türk Tarih Kurumu için Atatürk'ün vasiyetnamesinde
 belirtilen mali menfaatler saklı olup kendilerine tahsis edilir.
@@ -3573,7 +3569,7 @@ maddeleri ise bu Kanunun yayımı tarihinde yürürlüğe girer.
 
   3361                   67, 75, 175, Geçici Madde 4 ve İşlenemeyen Hükümler   Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.
 
-                                                                               
+  3913                   133                                                   10/7/1993
 
                                                                                
 
