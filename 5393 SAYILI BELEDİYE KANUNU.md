@@ -1,4 +1,4 @@
-5393 sayılı Kanunun 5747 sayılı Kanun ile Değişik Hali
+53963 sayılı Kanunun 5766 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -463,8 +463,15 @@ haczedilemez.
 
 **MADDE 16. —** Belediyenin kamu hizmetine ayrılan veya kamunun
 yararlanmasına açık, gelir getirmeyen taşınmazları ile bunların inşa ve
-kullanımları her türlü vergi, resim, harç, katılma ve katkı paylarından
-muaftır.
+kullanımları katma değer vergisi ile özel tüketim vergisi hariç her
+türlü vergi, resim, harç, katılma ve katkı paylarından muaftır.*^(1)^*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesi ile bu
+maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere;
+"katma değer vergisi ile özel tüketim vergisi hariç" ibaresi
+eklenmiştir.*
 
 **İKİNCİ KISIM**
 
@@ -2226,7 +2233,7 @@ ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
 
   1.     5747                       22/3/2008                                     22/3/2008                                                         11
 
-  1.                                                                                                                                                
+  1.     5766                       6/6/2008                                      6/6/2008                                                          16
 
   1.                                                                                                                                                
 
