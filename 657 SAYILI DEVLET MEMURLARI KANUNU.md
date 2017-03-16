@@ -1,6 +1,6 @@
-**6525 sayılı Kanun ile değişik hali**
+** Anayasa Mahkemesi’nin 14/11/2013 tarihli ve **
 
- 
+**E.: 2013/15, K.: 2013/131 sayılı Kararı ile değişik hali**
 
  
 
@@ -2347,18 +2347,17 @@ Başkanlığına bildirilir.
 
 **Madde 57 – (Değişik: 12/5/1982 - 2670/22 md.)**
 
-Adaylık süresi içinde disiplin cezası almış olanların disiplin
-amirlerinin teklifi ve atamaya yetkili amirin onayı ile ilişikleri
-kesilir. İlişkileri kesilenler ilgili kurumlarca derhal Devlet Personel
-Başkanlığına bildirilir.
+**(İptal birinci cümle: Anayasa Mahkemesi’nin 14/11/2013 tarihli ve E.:
+2013/15, K.: 2013/131 sayılı Kararı ile.)** İlişkileri kesilenler ilgili
+kurumlarca derhal Devlet Personel Başkanlığına bildirilir.
 
 ––––––––––
 
-*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle,bu
+*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle, bu
 maddede yer alan “sicil” ibaresi “disiplin” olarak değiştirilmiş ve
 metne işlenmiştir.*
 
-*(2) 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle,bu
+*(2) 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle, bu
 maddenin birinci fıkrasında yer alan “Adaylardan en geç iki yıl içinde
 Devlet memuru olabilmeleri için olumlu sicil alamayanların sicil
 amirlerinin teklifi” ibaresi “Adaylık süresi içinde disiplin cezası
@@ -13757,6 +13756,8 @@ fıkraları                                
   6519                                                                                   Ek Madde 41                                                            22/2/2014
 
   6525                                                                                   36, 104, 152, I sayılı Cetvel, IV sayılı Makam Tazminatı Cetveli       27/2/2014
+
+  Anayasa Mahkemesi’nin 14/11/2013 tarihli ve E.: 2013/15, K.: 2013/131 sayılı Kararı    57                                                                     28/2/2014
   -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- --------------------------------------
 
 
