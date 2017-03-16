@@ -1,4 +1,4 @@
-**5620 sayılı Kanun ile değişik hali**
+**5728 sayılı Kanun ile değişik hali**
 
 **KAMU GÖREVLİLERİ SENDİKALARI KANUNU**
 
@@ -1085,16 +1085,17 @@ maddesi uyarınca işlem yapılır.
 
 **Ceza** **hükümleri**
 
-**MADDE 38** - Bu Kanunun;
+**MADDE 38** – **(Değişik: 23/1/2008-5728/494 md.)**
+
+Bu Kanunun;
 
 a\) 20, 24 ve 26 ncı maddelerinde yer alan hükümlere aykırı hareket
-edenlere altı aydan bir yıla kadar hapis cezası,
+edenler, altı aydan bir yıla kadar hapis cezası,
 
-b\) Bu Kanunun 8, 14, 16 ve 17 nci maddelerinde yer alan hükümlere aykırı
-hareket eden sendika şubesi, sendika veya konfederasyonlara ikiyüzmilyon
-liradan az olmamak üzere ağır para cezasına,
+b\) 8, 14, 16 ve 17 nci maddelerinde yer alan hükümlere aykırı hareket
+eden kişiler, elli günden az olmamak üzere adlî para cezası,
 
-Hükmedilir.
+ile cezalandırılır.
 
 **Faaliyetin durdurulmasında kayyım tayini**
 
@@ -1332,6 +1333,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5198                                                                         14, 16, 18, 25, 30, 35, GEÇİCİ MADDE 9, İŞLENEMEYEN HÜKÜMLER   6/7/2007
   5538                                                                         25, GEÇİCİ MADDE 10                                            12/7/2006
   5620                                                                         25                                                             21/4/2007
+  5728                                                                         38                                                             8/2/2008
   ---------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------
 
 
