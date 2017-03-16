@@ -1,8 +1,6 @@
-[]{#K1 .anchor}**Anayasa Mahkemesi’nin 7/11/2014 tarihli ve**
+**6656 sayılı Kanun ile değişik hali**
 
-**E.: 2014/61, K.: 2014/166 sayılı Kararı ile değişik hali**
-
-**YÜKSEKÖĞRETİM KANUNU**
+[]{#K1 .anchor}**YÜKSEKÖĞRETİM KANUNU**
 
 **Kanun Numarası : 2547 **
 
@@ -75,9 +73,9 @@ bilimsel özerkliğe sahip bir yükseköğretim kurumudur.
 5348
 
 d\) Üniversite: Bilimsel özerkliğe ve kamu tüzelkişiliğine sahip yüksek
-düzeyde eğitim - öğretim, bilimsel araştırma, yayın ve danışmanlık
-yapan; fakülte, enstitü, yüksekokul ve benzeri kuruluş ve birimlerden
-oluşan bir yükseköğretim kurumudur.
+düzeyde eğitim - öğretim, bilimsel araştırma,yayın ve danışmanlık yapan;
+fakülte, enstitü, yüksekokul ve benzeri kuruluş ve birimlerden oluşan
+bir yükseköğretim kurumudur.
 
 e\) Fakülte: Yüksek düzeyde eğitim - öğretim, bilimsel araştırma ve yayın
 yapan; kendisine birimler bağlanabilen bir yükseköğretim kurumudur.
@@ -2552,11 +2550,11 @@ daire başkanları, müdürler, hukuk müşavirleri ve uzmanlar, yükseköğreti
 üst kuruluşlarında ilgili kuruluşların görüşü alınarak Yükseköğretim Üst
 Kuruluşunun Başkanı; üniversitelerde ise yönetim kurulunun görüşü
 alınarak rektör tarafından atanır. Fakülte, enstitü ve yüksekokul
-sekreterinin atanması, ilgilidekan ve müdürün önerisi üzerine rektör
+sekreterinin atanması, ilgili dekan ve müdürün önerisi üzerine rektör
 tarafından yapılır.
 
 b\. Üst kuruluşların ve üniversitelerin genel sekreterlerinin üniversite
-lisans diplomasına,fakülte sekreterleri ile enstitü ve yüksekokul
+lisans diplomasına, fakülte sekreterleri ile enstitü ve yüksekokul
 sekreterlerinin yükseköğretim diplomasına sahip olmaları şarttır.
 
 c\. Memurların atanmaları; fakültelerde ve bağlı kuruluşlarda dekanların,
@@ -2568,7 +2566,7 @@ d\. Yardımcı hizmetler sınıfı personeli, yükseköğretim üst
 kuruluşlarında, rektörlükte ve rektörlüğe bağlı kuruluşlarda genel
 sekreterin önerisi üzerine başkan veya rektör, fakültelerde ve
 fakültelere bağlı kuruluşlarda fakülte sekreterinin önerisi üzerine
-dekanlar,enstitü ve yüksekokullarda sekreterin önerisi üzerine müdür
+dekanlar, enstitü ve yüksekokullarda sekreterin önerisi üzerine müdür
 tarafından atanırlar.
 
 e\. Yükseköğretim üst kuruluşlarının ve üniversitelerin, yönetim
@@ -2604,10 +2602,9 @@ b\. **(Değişik: 1/3/2014 - 6528/7 md.)** Öğretim elemanları, memur ve
 diğer personele uygulanabilecek disiplin cezaları uyarma, kınama,
 yönetim görevinden ayırma, aylıktan kesme, kademe ilerlemesinin
 durdurulması, üniversite öğretim mesleğinden çıkarma ve kamu görevinden
-çıkarma cezalarıdır. Hangi fiillere hangi disiplin cezasının
-uygulanacağı, bu bentte sayılan kişilerin disiplin işlemleri ve disiplin
-amirlerinin yetkileri, Devlet memurlarına uygulanan usul ve esaslar da
-göz önüne alınmak suretiyle Yükseköğretim Kurulunca düzenlenir.^(2)^
+çıkarma cezalarıdır. **(İptal ikinci cümle: Anayasa Mahkemesi’nin
+14/1/2015 tarihli ve E:2014/100, K:2015/6 sayılı Kararı ile.)(…)**
+**^(2)^**
 
 c\. **(Değişik: 14/4/1982 - 2653/3 md.)** Ceza soruşturması usulü:
 
@@ -2623,10 +2620,8 @@ işledikleri ileri sürülen suçlar hakkında aşağıdaki hükümler uygulanı
 maddenin birinci fıkrasının (a) bendinde yer alan “Öğrenci Seçme ve
 Yerleştirme Merkezi Başkanı,” ibaresi madde metninden çıkarılmıştır.*
 
-*(2) Bu fıkranın ikinci cümlesi, Anayasa Mahkemesinin 14/1/2015 tarihli
-ve E:2014/100, K:2015/6 sayılı kararı ile iptal edilmiş olup, İptal
-Kararının Resmi Gazetede yayımlandığı 7/4/2015 tarihinden başlayarak
-dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.*
+*(2) Söz konusu İptal Kararı Resmi Gazetede yayımlandığı 7/4/2015
+tarihinden başlayarak dokuz ay sonra yürürlüğe girmiştir.*
 
 5375
 
@@ -5006,7 +5001,7 @@ olunur.
 tarihli ve 5467 sayılı, 17/5/2007 tarihli ve 5662 sayılı, 22/5/2008
 tarihli ve 5765 sayılı kanunlarla kurulan Devlet üniversitelerinde görev
 almaları şartıyla yetmişiki yaşın doldurulduğu tarihtir. Bu uygulama, 31
-Aralık 2015 tarihine kadar devam eder.
+Aralık 2016 tarihine kadar devam eder. ^(1)^
 
 Bu Kanunun 10 uncu maddesine eklenen hükümler çerçevesinde kullanılmak
 üzere, Öğrenci Seçme ve Yerleştirme Merkezinin 2007 yılından devreden
@@ -5034,6 +5029,12 @@ bulunmaları şartıyla bu maddede belirtilen haklardan yararlanırlar.
 Başvuruda bulunanlar, ilgili yükseköğretim kurumları tarafından, iki
 aylık başvuru süresinin dolması beklenmeden de bu haklardan
 yararlandırılabilir. Bu Kanunun yürürlüğe girdiği tarihte askerlik
+
+*–––––––––––––––––––––*
+
+*(1) 30/12/2015 tarihli ve 6656 sayılı Kanunun 5 inci maddesiyle, bu
+fıkranın son cümlesinde yer alan “31 Aralık 2015”ibaresi “31 Aralık
+2016” şeklinde değiştirilmiştir.*
 
 5388-10
 
@@ -5979,7 +5980,7 @@ TARİHİNİ GÖSTERİR LİSTE**
 
 5394-4
 
-  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- -----------------------------------------------
+  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- --------------------------------------------------
   Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası                                        2547 sayılı Kanunun değişen veya iptal edilen maddeleri               Yürürlüğe Giriş Tarihi
 
   Anayasa                                                                                                    36 ncı maddenin altıncı fıkrası ile Geçici Madde 59                   1/1/2013 tarihinden başlayarak altı ay sonra
@@ -6009,6 +6010,10 @@ TARİHİNİ GÖSTERİR LİSTE**
   6645                                                                                                       5                                                                     23/4/2015
 
   Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/166 sayılı Kararı                         Geçici Madde 64                                                       19/6/2015
-  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- -----------------------------------------------
+
+  6656                                                                                                       Geçici Madde 55                                                       1/1/2016 tarihinden geçerli olmak üzere 9/1/2016
+                                                                                                                                                                                   
+                                                                                                                                                                                   tarihinde
+  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- --------------------------------------------------
 
 
