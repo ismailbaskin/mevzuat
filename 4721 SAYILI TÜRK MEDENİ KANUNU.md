@@ -1,6 +1,6 @@
 1.  #### 
 
-    #### Anayasa Mahkemesi’nin 25/6/2009 tarihli ve E.: 2008/30, K.: 2009/96 sayılı Kararı ile değişik
+    #### Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2005/114, K.: 2009/105 sayılı Kararı ile değişik
 
     #### TÜRK MEDENÎ KANUNU 
 
@@ -3630,9 +3630,9 @@ SOYBAĞININ HÜKÜMLERİ
 
 **A. Soyadı **
 
-**MADDE 321.-** Çocuk, ana ve baba evli ise ailenin; evli değilse ananın
-soyadını taşır. Ancak, ana önceki evliliğinden dolayı çifte soyadı
-taşıyorsa çocuk onun bekârlık soyadını taşır.
+**MADDE 321.-** Çocuk, ana ve baba evli ise ailenin;  (…) ^(1)^ soyadını
+taşır. Ancak, ana önceki evliliğinden dolayı çifte soyadı taşıyorsa
+çocuk onun bekârlık soyadını taşır. ^(1)^
 
 **B. Karşılıklı yükümlülükler**
 
@@ -3640,8 +3640,14 @@ taşıyorsa çocuk onun bekârlık soyadını taşır.
 gerektirdiği şekilde birbirlerine yardım etmek, saygı ve anlayış
 göstermek ve aile onurunu gözetmekle yükümlüdürler.
 
-C. Çocuk ile kişisel ilişki
----------------------------
+––––––––––
+
+*(1)     7/10/2009 tarihli ve 27369 sayılı Resmi Gazetede yayımlanan,
+Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2005/114, K.: 2009/105
+sayılı Kararı ile; bu maddenin birinci cümlesinde yer alan “… evli
+değilse ananın …” ibaresi  iptal edilmiştir.*
+
+**C. Çocuk ile kişisel ilişki**
 
 **I. Ana ve baba ile**
 
@@ -11899,6 +11905,12 @@ MAHKEMESİ KARARININ **
                                                                                                 E.: 2008/30                             
                                                                                                                                         
                                                                                                 K.: 2009/96                             
+
+                             7/10/2010                                                          2/7/2009                                321
+                                                                                                                                        
+                                                                                                E.:2005/114                             
+                                                                                                                                        
+                                                                                                K.:2009/105                             
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
 
 
