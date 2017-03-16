@@ -1,4 +1,4 @@
-24/7/2008 tarihli ve 5793 sayılı Kanununla Değişen Hali
+**5271 sayılı Kanunun 6008 sayılı Kanunla Değişik Hali**
 
 **CEZA MUHAKEMESİ KANUNU**
 
@@ -89,6 +89,13 @@ Görev
 
 **MADDE 3.** - (1) Mahkemelerin görevleri kanunla belirlenir.
 
+\(2) **(Ek: 26/6/2009-5918/6 md.)** Barış zamanında, asker olmayan
+kişilerin Askeri Ceza Kanununda veya diğer kanunlarda yer alan askerî
+mahkemelerin yargı yetkisine tabi bir suçu tek başına veya asker
+kişilerle iştirâk halinde işlemesi durumunda asker olmayan kişilerin
+soruşturmaları Cumhuriyet savcıları, kovuşturmaları adlî yargı
+mahkemeleri tarafından yapılır.
+
 **Re'sen görev kararı ve görevde uyuşmazlık**
 
 **MADDE 4**. - (1) Davaya bakan mahkeme, görevli olup olmadığına
@@ -114,14 +121,14 @@ kararlarına karşı itiraz yoluna gidilebilir.
 \(1) Duruşmada suçun hukukî niteliğinin değiştiğinden bahisle görevsizlik
 kararı verilerek dosya alt dereceli mahkemeye gönderilemez.
 
+ÜÇÜNCÜ BÖLÜM
+
+Bağlantılı Davalar
+
 **Görevli olmayan hâkim veya mahkemenin işlemleri **
 
 **MADDE 7.** - (1) Yenilenmesi mümkün olmayanlar dışında, görevli
 olmayan hâkim veya mahkemece yapılan işlemler hükümsüzdür.
-
-ÜÇÜNCÜ BÖLÜM
-
-Bağlantılı Davalar
 
 **Bağlantı kavramı**
 
@@ -4234,7 +4241,8 @@ c\) Suçun işlenmesiyle mağdurun veya kamunun uğradığı zararın, aynen
 iade, suçtan önceki hale getirme veya tazmin suretiyle tamamen
 giderilmesi,
 
-gerekir.
+gerekir. **(Ek cümle: 22/7/2010 - 6008/7 md.)** Sanığın kabul etmemesi
+hâlinde, hükmün açıklanmasının geri bırakılmasına karar verilmez.
 
 \(7) **(Ek: 6/12/2006-5560/23 md.)** Açıklanmasının geri bırakılmasına
 karar verilen hükümde, mahkûm olunan hapis cezası ertelenemez ve kısa
@@ -4704,8 +4712,9 @@ Bazı Suçlara İlişkin Muhakeme
 
 **MADDE 250.**- (1) Türk Ceza Kanununda yer alan;
 
-a\) Örgüt faaliyeti çerçevesinde işlenen uyuşturucu veya uyarıcı madde
-imal ve ticareti suçu,
+a\) **(Ek: 26/6/2009-5918/ 7 md.)** Örgüt faaliyeti çerçevesinde işlenen
+uyuşturucu ve uyarıcı madde imâl ve ticareti suçu veya suçtan
+kaynaklanan malvarlığı değerini aklama suçu,
 
 b\) Haksız ekonomik çıkar sağlamak amacıyla kurulmuş bir örgütün
 faaliyeti çerçevesinde cebir ve tehdit uygulanarak işlenen suçlar,
@@ -4730,8 +4739,12 @@ görevlendirilemez.
 \(3) Birinci fıkrada belirtilen suçları işleyenler sıfat ve memuriyetleri
 ne olursa olsun bu Kanunla görevlendirilmiş ağır ceza mahkemelerinde
 yargılanır. Anayasa Mahkemesi ve Yargıtayın yargılayacağı kişilere
-ilişkin hükümler ile savaş ve sıkıyönetim hâli dahil askerî mahkemelerin
-görevlerine ilişkin hükümler saklıdır.
+ilişkin hükümler ile (…) *^(2)^* askerî mahkemelerin görevlerine ilişkin
+hükümler saklıdır. *^(1)\ (2)^*
+
+\(4) **(Ek: 22/7/2010-6008/8 md.)** Çocuklar, bu madde hükümleri uyarınca
+kurulan mahkemelerde yargılanamazlar ve bu mahkemelere özgü soruşturma
+ve kovuşturma hükümleri çocuklar bakımından uygulanmaz.
 
 **Soruşturma **
 
@@ -4775,6 +4788,16 @@ sanığı, tanığı, bilirkişiyi ve suçtan zarar gören şahsı, ağır ceza
 mahkemesi veya başkanının, Cumhuriyet savcısının, mahkeme naibinin veya
 istinabe olunan hâkimin emirleriyle belirtilen gün, saat ve yerde hazır
 bulundurmaya mecburdur.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 26/6/2009 tarihli ve 5918 sayılı Kanunun 7 inci maddesi ile bu
+fıkrada yer alan “hâli dahil” ibaresi “hâlinde” şeklinde
+değiştirilmiştir.*
+
+*(2) Bu fıkrada yer alan “… savaş ve sıkıyönetim hâlinde …” ibaresi,
+Anayasa Mahkemesi’nin 21/1/2010 tarihli ve E.: 2009/52, K.: 2010/16
+sayılı Kararı ile iptal edilmiştir.*
 
 \(7) 250 nci maddede belirtilen suçlar nedeniyle Cumhuriyet savcıları,
 soruşturmanın gerekli kılması halinde geçici olarak, bu mahkemelerin
@@ -4889,7 +4912,10 @@ yoluna gidilebilmesi için, kanunda açık hüküm bulunması gerekir.
 
 \(3) Soruşturulması ve kovuşturulması şikâyete bağlı olsa bile, etkin
 pişmanlık hükümlerine yer verilen suçlar ile cinsel dokunulmazlığa karşı
-suçlarda, uzlaştırma yoluna gidilemez.
+suçlarda, uzlaştırma yoluna gidilemez. **(Ek cümle: 26/6/2009-5918/8
+md.)** Uzlaştırma kapsamına giren bir suçun, bu kapsama girmeyen bir
+başka suçla birlikte işlenmiş olması hâlinde de uzlaşma hükümleri
+uygulanmaz.
 
 \(4) Soruşturma konusu suçun uzlaşmaya tâbi olması halinde, Cumhuriyet
 savcısı veya talimatı üzerine adlî kolluk görevlisi, şüpheli ile mağdur
@@ -6201,11 +6227,11 @@ değiştirilmiş ve metne işlenmiştir.*
 
   1.     5793                       6/8/2008                                      6/8/2008                                                          234, 239
 
-  1.                                                                                                                                                
+  1.     5918                       9/7/2009                                      9/7/2009                                                          3, 250, 253
 
-  1.                                                                                                                                                
+  1.                                30/12/2010                                    30/12/2010                E: 2009/52 K: 2010/16                   250
 
-  1.                                                                                                                                                
+  1.     6008                       25/7/2010                                     25/7/2010                                                         231, 250
 
   1.                                                                                                                                                
 
