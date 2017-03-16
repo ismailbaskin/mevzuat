@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5747 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun 5779 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU*^(1)^***
 
@@ -701,15 +701,9 @@ Malî Hükümler
 
 **MADDE 23.-** Büyükşehir belediyesinin gelirleri şunlardır:
 
-a\) Genel bütçe vergi gelirleri tahsilât toplamı üzerinden ilçe ve ilk
-kademe belediyelerine verilen paylardan Bakanlar Kurulu tarafından
-belirlenecek oranlar içinde ayrılarak İller Bankası tarafından
-gönderilecek pay.
+**(Mülga: 2/7/2008-5779/8 md.)**
 
-b\) Büyükşehir belediye sınırları içinde yapılan genel bütçe vergi
-gelirleri tahsilât toplamı üzerinden Maliye Bakanlığı tarafından
-hesaplanıp, ertesi ayın sonuna kadar ilgili büyükşehir belediyesine
-yatırılacak % 5 pay.
+**(Mülga: 2/7/2008-5779/8 md.)**
 
 c\) 2464 sayılı Belediye Gelirleri Kanununda yer alan oran ve esaslara
 göre büyükşehir belediyesince tahsil olunacak at yarışları dahil
@@ -759,11 +753,7 @@ o\) Diğer gelirler.
 fıkrada yer alan “Büyükşehir belediyesi” ibaresinden sonra gelmek üzere
 “1.hukuk müşaviri ve” ibaresi eklenmiştir.*
 
-Bakanlar Kurulu, birinci fıkranın (b) bendindeki % 5 pay oranını iki
-katına kadar artırmaya veya kanunî haddine indirmeye yetkilidir. Bu
-payın %75'i bu tutardan düşülerek doğrudan ilgili belediye hesabına,
-kalan %25'i ise büyükşehir belediyelerine nüfuslarına göre dağıtılır.
-Hesaplama ve dağıtım işlemleri Maliye Bakanlığınca yapılır.
+**(Mülga: 2/7/2008-5779/8 md.)**
 
 Büyükşehir belediyeleri ve bağlı kuruluşları ile ilçe ve ilk kademe
 belediyeleri; tahsil ettikleri vergiler ve benzeri malî yükümlülüklerden
@@ -1245,7 +1235,7 @@ aktarılır.
 
   5747                       22/3/2008                                                                22/3/2008                                                         6, 14, Geçici Madde 2
 
-                                                                                                                                                                        
+  5779                       1/7/2008 tarihinden itibaren geçerli olmak üzere 15/7/2008 tarihinde     15/7/2008                                                         23
 
                                                                                                                                                                         
 
