@@ -1,4 +1,4 @@
-4925 sayılı Kanunun 5228 sayılı Kanun ile Değişik Hali
+4925 sayılı Kanunun 5335 sayılı Kanun ile Değişik Hali
 
 **KARAYOLU TAŞIMA KANUNU** *^(1)^*
 
@@ -714,9 +714,9 @@ zorunluluğu aranmaz. Terminallerin özellikleri yönetmelikle belirlenir.
 
 **MADDE 33. —** Verilecek yetki belgeleri ve taşıt kartlarından ücret
 alınır. Ücreti alınmadan yetki belgeleri ve taşıt kartları verilmez.
-Yetki belgesinin yenilenmesinde ve zayiinde ücretin % 50'si alınır.
-Unvan değişikliği, adres değişikliği ve benzeri nedenlerle süresi
-bitmeden yenilenen belgelerden ücret alınmaz.
+Yetki belgesinin yenilenmesinde ve zayiinde ücretin % 15'i alınır. Unvan
+değişikliği, adres değişikliği ve benzeri nedenlerle süresi bitmeden
+yenilenen belgelerden ücret alınmaz.*^(1)^*
 
 Bu ücretler, her takvim yılı başından geçerli olmak üzere o yıl için 213
 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükmü uyarınca
@@ -726,6 +726,30 @@ Bakanlık, görev alanına giren hizmetleri yerine getirmek için, merkezde
 Bakanın onayı ile döner sermaye işletmesi kurabilir. Döner sermaye
 miktarını belirlemeye Bakanlar Kurulu yetkilidir. İşletmenin görevleri,
 gelirleri, işleyişi, denetimi ve diğer hususlar yönetmelikle belirlenir.
+
+**(Ek: 21/4/2005-5335/ 21 md.)** Döner Sermaye İşletmesinin 2004 yılı
+dahil gelirlerine ilişkin olarak 1050 sayılı Muhasebei Umumiye Kanununun
+49 uncu maddesi hükümleri uygulanmaz.
+
+**(Ek: 21/4/2005-5335/ 21 md.)** Ulaştırma Bakanı; Bakanlıkça belirlenen
+usûl ve esaslar dahilinde, söz konusu gelirlerden;
+
+1\) Savaş, iç savaş, terör, kargaşa ve benzeri olağanüstü koşullara sahip
+ülkelerde uluslararası taşıma yaparken saldırıya uğrayıp hayatını
+kaybeden şoför ve beraberindeki Türk vatandaşlarının varislerine 40.000
+Yeni Türk Lirası’na kadar,*^(2)^*
+
+2\) Bakanlık, Döner Sermaye İşletmesinin mali imkânları ölçüsünde olmak
+üzere; ticari yolcu ve eşya taşımalarında kullanılan otobüs, kamyon,
+tanker ve çekicilerden yaşları ilgili mevzuatın getirdiği yaş sınırının
+üzerinde olanları devir alabilir, devir alınan taşıtların sahiplerine,
+
+Ödeme yaptırmaya yetkilidir.
+
+**(Ek: 21/4/2005-5335/ 21 md.)** Döner Sermaye İşletmesi devir alınan bu
+taşıtları yurtiçi ve yurtdışındaki gerçek ve/veya tüzel kişilere satış,
+hibe, devir ve benzeri yöntemlerle değerlendirebilir. Bu işlemlerden
+elde edilen gelirler Döner Sermaye İşletmesine gelir kaydedilir.
 
 **Yönetmelik**
 
@@ -774,6 +798,16 @@ Devirle ilgili usul ve esaslar çıkarılacak yönetmelikle belirlenir.
 Ticaret Kanunu, 2918 sayılı Karayolları Trafik Kanunu, 7397 sayılı
 Sigorta Murakabe Kanunu ve diğer ilgili mevzuat hükümleri uygulanır.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 21 inci maddesiyle bu
+fıkrada yer alan "%50'si" ibaresi, "%15'i" şeklinde değiştirilmiş olup
+1/1/2009 tarihinden itibaren yürürlüğe girecektir.*
+
+*(2) 21/4/2005 tarihli ve 5335 sayılı Kanunun 21 inci maddesiyle eklenen
+bu bent 1/1/2003 tarihinden itibaren geçerli olmak üzere 27/4/2005
+tarihinde yürürlüğe girecektir.*
+
 **GEÇİCİ MADDE 1. —** Bu Kanuna göre yürürlüğe konulacak yönetmeliklerin
 yürürlüğe girdiği tarihten önce yetki belgesi almış olanlar hariç,
 şehirlerarası eşya taşımacılığı konusunda taşımacılık, acentelik, taşıma
@@ -809,38 +843,42 @@ zorundadırlar.
 
 **MADDE 38. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
-  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **4925 sayılı Kanunun değiştirilen maddeleri**
-                                                                                                                                             
-                                                                           **Resmi Gazete Tarihi**                                           
+  -------------------------- ------------------------------------------------------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
+  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**                                                                              **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **4925 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                                                                                                        
+                                                                                                                                                      **Resmi Gazete Tarihi**                                           
 
-  5228                       31/7/2004                                     31/7/2004                                                         29
+  5228                       31/7/2004                                                                                                                31/7/2004                                                         29
 
-                                                                                                                                             
+  5335                       33 üncü maddenin birinci fıkrasında yapılan ibare değişikliği 1/1/2009 tarihinde,                                        27/4/2005                                                         33
+                                                                                                                                                                                                                        
+                             33 üncü maddenin altıncı fıkrasının 1 inci bendi 1/1/2003 tarihinden itibaren geçerli olmak üzere 27/4/2005 tarihinde,                                                                     
+                                                                                                                                                                                                                        
+                             Diğer fıkra hükümleri 27/4/2005 tarihinde                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
+                                                                                                                                                                                                                        
 
-                                                                                                                                             
-  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+                                                                                                                                                                                                                        
+  -------------------------- ------------------------------------------------------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
 
 
