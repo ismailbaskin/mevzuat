@@ -1,4 +1,4 @@
-**6487 sayılı kanun ile değişik hali**
+**6518 sayılı Kanun ile değişik hali**
 
 []{#K80 .anchor}**BELEDİYE GELİRLERİ KANUNU**
 
@@ -537,11 +537,11 @@ Genel ve katma bütçeli idareler, il özel idareleri, belediyeler, köyler,
 bunların kuracakları birlikler, darülaceze ve benzeri kuruluşlar ve
 üniversiteler tarafından münhasıran hizmetlerinde kullanılan binalar,
 Kızılay Genel Merkezi ile şubeleri ve kampları, Kredi ve Yurtlar
-Kurumuna ait öğrenci yurtları ile umuma açık ibadet yerleri, karşılıklı
-olmak şartıyla elçilik ve konsolosluk hizmetlerinde kullanılanlarla
-elçilerin ikametine mahsus olan binalar, milletlerarası kuruluşlar ve
-bunların temsilcilikleri tarafından kullanılan binalar ile bunların
-müştemilatı vergiye tâbi değildir.
+Kurumuna ait öğrenci yurtları, korumalı işyerleri ile umuma açık ibadet
+yerleri, karşılıklı olmak şartıyla elçilik ve konsolosluk hizmetlerinde
+kullanılanlarla elçilerin ikametine mahsus olan binalar, milletlerarası
+kuruluşlar ve bunların temsilcilikleri tarafından kullanılan binalar ile
+bunların müştemilatı vergiye tâbi değildir. ^(2)^
 
 Verginin mükellefi, binaları kullananlardır. Mükellefiyet binanın
 kullanımı ile başlar.
@@ -588,6 +588,10 @@ edilir.
 *(1) Bu maddenin 1/1/2014 tarihinden itibaren uygulanması ile ilgili
 olarak; 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi Gazete'de
 yayımlanan Maliye Bakanlığının 43 Seri No.'lu Tebliğine bakınız.*
+
+*(2) 6/2/2014 tarihli ve 6518 sayılı Kanunun 12 nci maddesiyle, bu
+fıkrada yer alan “öğrenci yurtları” ibaresinden sonra gelmek üzere “,
+korumalı işyerleri” ibaresi eklenmiştir.*
 
 5262
 
@@ -1816,6 +1820,8 @@ tarihinde bütün neticeleri ile ortadan kalkar.
                                                                                                                                                     (19/5/2013)
 
   6487                                                                                20, 60, 96                                                    19/5/2013 tarihinden geçerli olmak üzere 11/6/2013
+
+  6518                                                                                Mükerrer Madde 44                                             19/2/2014
   ----------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
 
 5280-1
