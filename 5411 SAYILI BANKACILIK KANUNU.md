@@ -1,4 +1,5 @@
-**5766 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 22/7/2008 tarihli ve E.: 2008/66, K.: 2008/131
+sayılı Kararı ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -4048,9 +4049,8 @@ hükümleri uyarınca yapılan başvurular üzerine açılmış veya açılacak 
 türlü ceza davalarında Fon, suçtan zarar gören olarak müdahil sıfatını
 kazanır. Bu davalara bağlı şahsî haklar dahi Fona ait olur.
 
-Fona borçlu gerçek kişi ile tüzel kişilerin kanunî temsilcileri hakkında
-5682 sayılı Pasaport Kanununun 22 nci maddesi hükümleri Fonun talebi
-üzerine uygulanır.
+**(İptal onüçüncü fıkra: Anayasa Mahkemesi’nin 22/7/2008 tarihli ve E.:
+2008/66, K.: 2008/131 sayılı Kararı ile.)**
 
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Fon tarafından
 yönetmelik ile düzenlenir.
@@ -6040,6 +6040,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5754                                                                         73                                                            8/5/2008
   5510 (5754 sayılı Kanun ile değişik)                                         Geçici Madde 23                                               1/10/2008
   5766                                                                         Geçici Madde 26 ve 27                                         6/6/2008
+  Anayasa Mah.’nin E.: 2008/66, K.: 2008/131 sayılı Kararı                     132                                                           13/11/2008
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
