@@ -1,4 +1,5 @@
-**6352 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154
+sayılı Kararı**
 
 **TÜRK CEZA KANUNU ^(1)^**
 
@@ -6,7 +7,7 @@
 
 **Kabul Tarihi : 26/9/2004**
 
-**Yayımlandığı R.Gazete : Tarih : 12/10/2004 Sayı :25611 **
+**Yayımlandığı R. Gazete : Tarih : 12/10/2004 Sayı :25611 **
 
 **Yayımlandığı Düstur : Tertip : 5 Cilt : 43 **
 
@@ -5163,9 +5164,8 @@ kadar hapis cezasına hükmolunur.
 \(6) Mağdurun mahkûm olduğu hapis cezasının infazına başlanmış ise,
 beşinci fıkraya göre verilecek ceza yarısı kadar artırılır.
 
-\(7) İftira sonucunda mağdur hakkında hapis cezası dışında adlî veya
-idari bir yaptırım uygulanmışsa; iftira eden kişi, üç yıldan yedi yıla
-kadar hapis cezası ile cezalandırılır. ^(1)^
+\(7) **(İptal: Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115,
+K.: 2011/154 sayılı Kararı ile.) ^(1)^**
 
 \(8) İftira suçundan dolayı dava zamanaşımı, mağdurun fiili işlemediğinin
 sabit olduğu tarihten başlar.
@@ -5220,10 +5220,8 @@ yararlanılabilmesi için, bunun aynı yöntemle yayınlanması gerekir.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) Bu fıkra, Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115,
-K.: 2011/154 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi
-Gazete’de yayımlandığı 17/3/2012 tarihinden başlayarak bir yıl sonra
-yürürlüğe girmesi hüküm altına alınmıştır.*
+*(1) Sözkonusu Karar Resmi Gazete’de yayımlandığı 17/3/2012 tarihinden
+başlayarak bir yıl sonra yürürlüğe girmiştir.*
 
 *(2)* *Bu fıkrada geçen "bu kişiye" ibaresi, 29/6/2005 tarihli ve 5377
 sayılı Kanunun 30 uncu maddesiyle "başkasına" olarak değiştirilmiş ve
@@ -6504,20 +6502,21 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5237 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                                                       **Yürürlüğe Giriş Tarihi**
-  5328                                                                         59, 62, 85, 86, 87, 88, 90,116, 235, 344                                                                                                                                          31/3/2005
-  5378                                                                         122                                                                                                                                                                               7/7/2005
-  5377                                                                         4, 7, 13, 30, 31, 43, 61, 66, 82, 84, 87, 103, 105, 107, 125, 145, 150, 155, 158, 168, 184, 188, 190, 191, 218, 221, 245, 252, 263, 268, 269, 288, 292, 293, 299, 302, 304, 305   8/7/2005
-  5560                                                                         61,73,80,87,89,142,191,221,227,234,245 ve İşlenemeyen Hüküm                                                                                                                       19/12/2006
-  5739                                                                         50                                                                                                                                                                                1/3/2008
-  5759                                                                         301                                                                                                                                                                               8/5/2008
-  5841                                                                         154                                                                                                                                                                               14/3/2009
-  5918                                                                         13, 55, 165, 254, 282                                                                                                                                                             9/7/2009
-  6008                                                                         79                                                                                                                                                                                25/7/2010
-  6086                                                                         257                                                                                                                                                                               19/12/2010
-  6217                                                                         191                                                                                                                                                                               14/4/2011
-  6352                                                                         132, 133, 134, 141, 142, 163, 168, 220, 250, 252, 254, 255,257, 277, 278, 285, 288                                                                                                5/7/2012
-  ---------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
+  -------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**             **5237 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                                                       **Yürürlüğe Giriş Tarihi**
+  5328                                                                                   59, 62, 85, 86, 87, 88, 90,116, 235, 344                                                                                                                                          31/3/2005
+  5378                                                                                   122                                                                                                                                                                               7/7/2005
+  5377                                                                                   4, 7, 13, 30, 31, 43, 61, 66, 82, 84, 87, 103, 105, 107, 125, 145, 150, 155, 158, 168, 184, 188, 190, 191, 218, 221, 245, 252, 263, 268, 269, 288, 292, 293, 299, 302, 304, 305   8/7/2005
+  5560                                                                                   61,73,80,87,89,142,191,221,227,234,245 ve İşlenemeyen Hüküm                                                                                                                       19/12/2006
+  5739                                                                                   50                                                                                                                                                                                1/3/2008
+  5759                                                                                   301                                                                                                                                                                               8/5/2008
+  5841                                                                                   154                                                                                                                                                                               14/3/2009
+  5918                                                                                   13, 55, 165, 254, 282                                                                                                                                                             9/7/2009
+  6008                                                                                   79                                                                                                                                                                                25/7/2010
+  6086                                                                                   257                                                                                                                                                                               19/12/2010
+  6217                                                                                   191                                                                                                                                                                               14/4/2011
+  6352                                                                                   132, 133, 134, 141, 142, 163, 168, 220, 250, 252, 254, 255,257, 277, 278, 285, 288                                                                                                5/7/2012
+  Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154 sayılı Kararı   267 nci maddenin yedinci fıkrası                                                                                                                                                  17/3/2013
+  -------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
 
 
