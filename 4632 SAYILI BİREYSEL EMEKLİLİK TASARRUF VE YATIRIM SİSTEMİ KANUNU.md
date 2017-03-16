@@ -1,4 +1,4 @@
-**6327 sayılı Kanun ile değişik hali**
+7875
 
 []{#K90 .anchor}**BİREYSEL EMEKLİLİK TASARRUF VE**
 
@@ -1073,7 +1073,7 @@ belirlemeye yetkili kılındığı hususlar yönetmeliklerle düzenlenir. Bu
 Kanun kapsamında çıkarılacak yönetmelikler, Kanunun yayımı tarihinden
 itibaren en geç altı ay içerisinde çıkarılır.
 
-*Devlet katkısı *
+*Devlet katkısı ^(2)^ *
 
 **Ek Madde 1 – (Ek: 13/6/2012-6327/29 md.)**
 
@@ -1092,67 +1092,243 @@ bütçenin diğer kalemlerine hiçbir şekilde aktarma yapılamaz. Devlet
 katkısı, katkı payı ödemelerinden ayrı olarak takip edilir ve
 Müsteşarlıkça belirlenen yatırım araçlarında yatırıma yönlendirilir.
 
-Katılımcılardan bu maddenin yürürlüğe girdiği tarihten sonra;
-
-a\) En az üç yıl sistemde kalanlar Devlet katkısı ve varsa getirilerinin
-yüzde onbeşine,
-
-b\) En az altı yıl sistemde kalanlar Devlet katkısı ve varsa
-getirilerinin yüzde otuzbeşine,
-
-c\) En az on yıl sistemde kalanlar Devlet katkısı ve varsa getirilerinin
-yüzde altmışına,
-
-hak kazanır. Bu sürelerin hesabında emeklilik sözleşmesi esas alınır.
-
-Bireysel emeklilik sisteminden emeklilik hakkı kazananlar ile bu
-sistemden vefat veya malûliyet nedeniyle ayrılanlar Devlet katkısı ve
-varsa getirilerinin tamamına hak kazanır. Devlet katkısı ve
-getirilerinden hak kazanılan tutarlar sistemden ayrılma veya emeklilik
-durumunda katılımcıya ödenir.
-
 –––––––––––––
 
 *(1) Bu madde başlığı “Kovuşturma usulü” iken, 23/1/2008 tarihli ve 5728
 sayılı Kanunun 488 inci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
+*(2)3/4/2013 tarihli ve 6456 sayılı Kanunun 34 üncü maddesiyle, bu
+maddede yer alan “Devlet katkısı ve varsa getirilerinin” ibareleri
+“Devlet katkısı hesabındaki tutarın” şeklinde, “Devlet katkısı ve
+getirilerinden” ibareleri “Devlet katkısı hesabındaki tutarlardan”
+şeklinde, “Devlet katkısına ilişkin hesabındaki varsa hak kazanılmayan
+birikim tutarı” ibaresi “Devlet katkısı hesabındaki varsa hak
+kazanılmayan tutarlar” şeklinde, “Devlet katkısı ve getirileri” ibaresi
+“Devlet katkısı hesabındaki tutarlar” şeklinde değiştirilmiştir.*
+
 7888-1
 
+Katılımcılardan bu maddenin yürürlüğe girdiği tarihten sonra;
+
+a\) En az üç yıl sistemde kalanlar Devlet katkısı hesabındaki tutarın
+yüzde onbeşine,
+
+b\) En az altı yıl sistemde kalanlar Devlet katkısı hesabındaki tutarın
+yüzde otuzbeşine,
+
+c\) En az on yıl sistemde kalanlar Devlet katkısı hesabındaki tutarın
+yüzde altmışına,
+
+hak kazanır. Bu sürelerin hesabında emeklilik sözleşmesi esas alınır.
+
+Bireysel emeklilik sisteminden emeklilik hakkı kazananlar ile bu
+sistemden vefat veya malûliyet nedeniyle ayrılanlar Devlet katkısı
+hesabındaki tutarın tamamına hak kazanır. Devlet katkısı hesabındaki
+tutarlardan hak kazanılan tutarlar sistemden ayrılma veya emeklilik
+durumunda katılımcıya ödenir.
+
 Vefat veya malûliyet hariç sistemden emekli olmadan ayrılan
-katılımcıların Devlet katkısına ilişkin hesabındaki varsa hak
-kazanılmayan birikim tutarı genel bütçeye gelir kaydedilir veya
-katılımcılara yapılacak Devlet katkısı ödemesine mahsup edilebilir. Hak
-kazanılmayan tutarlarla ilgili mahsuplaşma işlemleri ile bu işlemlerin
-gerçekleştirilme sürelerine ilişkin esas ve usuller Maliye Bakanlığının
-görüşü alınarak Müsteşarlıkça belirlenir. Devlet katkısının
-hesaplanmasına, ilgili hesaba ve hak sahiplerine ödenmesine, yatırıma
-yönlendirilmesine, ödeme ve yatırıma yönlendirme işlemlerinin yerine
-getirileceği sürelere ve bu madde uyarınca yapılacak diğer işlemlere
-ilişkin esas ve usuller Müsteşarlıkça belirlenir.
+katılımcıların Devlet katkısı hesabındaki varsa hak kazanılmayan
+tutarlar genel bütçeye gelir kaydedilir veya katılımcılara yapılacak
+Devlet katkısı ödemesine mahsup edilebilir. Hak kazanılmayan tutarlarla
+ilgili mahsuplaşma işlemleri ile bu işlemlerin gerçekleştirilme
+sürelerine ilişkin esas ve usuller Maliye Bakanlığının görüşü alınarak
+Müsteşarlıkça belirlenir. **(Ek iki cümle: 3/4/2013-6456/34 md.)**
+Ödenmediği veya eksik ödendiği tespit edilen tutarlar, ödenmesi gereken
+tarihten itibaren 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının
+Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirtilen gecikme
+zammı oranına göre hesaplanan faiziyle birlikte 6183 sayılı Kanun
+hükümlerine göre tahsil edilmek üzere emeklilik gözetim merkezi
+tarafından ilgili vergi dairesine bildirilir. Tahsil edilen tutarlar
+genel bütçeye gelir kaydedilir ve tahsilata ilişkin bilgi, vergi
+dairesince Müsteşarlığa iletilir. Devlet katkısının hesaplanmasına,
+ilgili hesaba ve hak sahiplerine ödenmesine, yatırıma yönlendirilmesine,
+ödeme ve yatırıma yönlendirme işlemlerinin yerine getirileceği sürelere
+ve bu madde uyarınca yapılacak diğer işlemlere ilişkin esas ve usuller
+Müsteşarlıkça belirlenir.
 
-Devlet katkısı ve getirilerinden hak sahiplerince aranmayan kısımların
-zamanaşımına uğramasına ilişkin olarak 6 ncı madde hükmü uygulanır.
+Devlet katkısı hesabındaki tutarlardan hak sahiplerince aranmayan
+kısımların zamanaşımına uğramasına ilişkin olarak 6 ncı madde hükmü
+uygulanır.
 
-Katılımcıların Devlet katkısına esas teşkil eden katkı paylarının doğru
-hesaplanmasından şirketler sorumludur. Haksız olarak yapıldığı tespit
-edilen Devlet katkısı ve getirisi, ödeme tarihinden itibaren 21/7/1953
-tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun
-51 inci maddesinde belirtilen gecikme zammı oranına göre hesaplanan
-faiziyle birlikte müteakip dönem yapılan Devlet katkısı ödemesine mahsup
-edilir. Tespit tarihinden itibaren dört ay içinde mahsup edilemeyen
-tutarlar için emeklilik gözetim merkezi tarafından şirkete yapılacak
-tebligat ile bir aylık ödeme süresi verilir. Süresinde ödenmeyen Devlet
-katkısı ve getirisi ile dördüncü fıkraya göre süresinde iade edilmeyen
-tutarlar 6183 sayılı Kanun hükümlerine göre tahsil edilmek üzere
-emeklilik gözetim merkezi tarafından ilgili vergi dairesine bildirilir.
+**(Değişik altıncı fıkra: 3/4/2013-6456/34 md.)** Katılımcıların Devlet
+katkısına esas teşkil eden katkı paylarının doğru hesaplanmasından
+şirketler sorumludur. Haksız olarak yapıldığı tespit edilen Devlet
+katkısı, ödeme tarihinden itibaren 6183 sayılı Kanunun 51 inci
+maddesinde belirtilen gecikme zammı oranına göre hesaplanan faiziyle
+birlikte 6183 sayılı Kanun hükümlerine göre tahsil edilmek üzere
+emeklilik gözetim merkezi tarafından ilgili şirketin bağlı olduğu vergi
+dairesine bildirilir. Tahsil edilen tutarlar genel bütçeye gelir
+kaydedilir ve tahsilata ilişkin bilgi, vergi dairesince Müsteşarlığa
+iletilir.
 
-Devlet katkısı ve getirileri haczedilemez, rehnedilemez, iflas masasına
-dâhil edilemez.
+Devlet katkısı hesabındaki tutarlar haczedilemez, rehnedilemez, iflas
+masasına dâhil edilemez.
+
+**(Ek fıkra: 3/4/2013-6456/34 md.)** Bu madde kapsamında; Devlet
+katkısının Müsteşarlıkça emeklilik gözetim merkezine, emeklilik gözetim
+merkezince şirketlere, şirketlerce katılımcıların hesaplarına ödenmesi
+yahut hak kazanılmayan tutarların şirketlerce geri ödenmesi için
+Müsteşarlıkça tanımlanan azami ikişer iş günlük işlem süreleri için
+emeklilik gözetim merkezi ve şirketlerden nema talep edilmez. Emeklilik
+gözetim merkezi tarafından gerçekleştirilen işlemler için Müsteşarlıkça
+emeklilik gözetim merkezine ücret ödenmez.
+
+**(Ek fıkra: 18/1/2017-6770/17 md.)** Katkı payının şirket hesaplarına
+nakden intikal ettiği tarihten önceki bir tarihte Devlet katkısı
+hesaplamasına konu edilmesi nedeniyle erken ödenen Devlet katkısı
+tutarlarına, Devlet katkısının Müsteşarlıkça fiilen ödendiği tarih ile
+ödenmesi gereken tarih arasındaki süre için, emeklilik gözetim merkezi
+tarafından 6183 sayılı Kanunun 51 inci maddesinde belirtilen gecikme
+zammı oranı esas alınarak gecikme bedeli hesaplanır. Hesaplanan bedelin,
+Devlet katkısının Müsteşarlıkça ödenmesi gereken tarihten şirketin ödeme
+yaptığı tarihe kadar 6183 sayılı Kanunun 51 inci maddesinde belirtilen
+gecikme zammı oranına göre hesaplanan faiziyle birlikte ilgili vergi
+dairesine ödenmesi gerektiği hususu emeklilik gözetim merkezi tarafından
+şirkete ve 6183 sayılı Kanun hükümlerine göre gerekli takibatın
+yapılması amacıyla durum şirketin bağlı olduğu vergi dairesine
+bildirilir.
+
+7888-2
+
+*Çalışanların otomatik olarak bir emeklilik planına dâhil edilmesi
+^(1)^*
+
+**Ek Madde 2-** **(Ek: 10/8/2016-6740/1 md.)**
+
+**(Değişik birinci cümle: 18/1/2017-6770/18 md.)** Türk vatandaşı veya
+29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci
+maddesi kapsamında olup kırk beş yaşını doldurmamış olanlardan;
+31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) ve (c)
+bentlerine göre çalışmaya başlayanlar ile 17/7/1964 tarihli ve 506
+sayılı Sosyal Sigortalar Kanununun geçici 20 nci maddesi kapsamında
+kurulmuş olan sandıkların iştirakçisi olarak çalışmaya başlayanlar,
+işverenin bu Kanun hükümlerine göre düzenlediği bir emeklilik
+sözleşmesiyle emeklilik planına dâhil edilir. İşveren, çalışanını ancak
+otomatik katılım için emeklilik planı düzenleme konusunda Müsteşarlıkça
+uygun görülen şirketlerden birinin sunacağı emeklilik planına dâhil
+edebilir. Bakanlar Kurulu, bu madde uyarınca emeklilik planına dâhil
+edilecek işyerleri ile çalışanları ve bu kapsamdaki uygulama esaslarını
+belirlemeye yetkilidir.
+
+Çalışan katkı payı, çalışanın 5510 sayılı Kanunun 80 inci maddesi
+çerçevesinde belirlenen prime esas kazancının yüzde üçüne karşılık gelen
+tutardır. **(Ek cümle: 18/1/2017-6770/18 md.)** 506 sayılı Kanunun
+geçici 20 nci maddesi kapsamında kurulmuş olan sandıkların iştirakçisi
+olan çalışanlar için bu çalışanların bağlı bulunduğu sandığa, katılım
+payı, kesenek veya diğer adlar altında ödediği tutarların hesaplanmasına
+esas kazancının yüzde üçüne karşılık gelen tutardır. Bu oranı iki katına
+kadar artırmaya, yüzde bire kadar azaltmaya veya katkı payına maktu
+limit getirmeye Bakanlar Kurulu yetkilidir. Bu tutar, en geç çalışanın
+ücretinin ödeme gününü takip eden iş günü, bu Kanun hükümleri uyarınca
+işveren tarafından şirkete aktarılır. İşveren bu madde uyarınca katkı
+payını zamanında şirkete aktarmaz veya geç aktarırsa çalışanın 5 inci
+maddedeki hesaplama yöntemi uyarınca varsa birikiminde oluşan parasal
+kaybından sorumludur. Çalışan, otomatik katılıma ilişkin emeklilik
+sözleşmesinde belirlenen tutardan daha yüksek bir tutarda kesinti
+yapılmasını işverenden talep edebilir.
+
+Çalışan, emeklilik planına dâhil olduğunun kendisine bildirildiği tarihi
+müteakip iki ay içinde sözleşmeden cayabilir. Cayma hâlinde, ödenen
+katkı payları, varsa hesabında bulunan yatırım gelirleri ile birlikte on
+iş günü içinde çalışana iade edilir. Şirket, cayma süresince ödenen
+katkı paylarının değer kaybetmemesini sağlayacak şekilde fon
+yönetiminden sorumludur. Cayma hakkını kullanmayan çalışan Müsteşarlıkça
+belirlenen hâllerde katkı payı ödemesine ara verilmesini talep edebilir.
+
+Bu madde kapsamında bir emeklilik sözleşmesi bulunan çalışanın işyerinin
+değişmesi hâlinde, yeni işyerinde bu madde kapsamında bir emeklilik
+planı var ise çalışanın birikimi ve sistemde kazandığı emekliliğe esas
+süresi yeni işyerindeki emeklilik sözleşmesine aktarılır. Yeni işyerinde
+emeklilik planının bulunmaması hâlinde çalışan, talep ederse önceki
+işyerinde düzenlenmiş sözleşme kapsamında katkı payı ödemeye devam
+edebilir, talep etmezse bu madde kapsamındaki emeklilik sözleşmesi
+sonlandırılır. Çalışan bu yöndeki talebini, işyeri değişikliğini izleyen
+ayın sonuna kadar şirkete bildirmek zorundadır.
+
+Çalışan adına bireysel emeklilik hesabına ödenen katkı payları üzerinden
+ek 1 inci maddedeki usul ve esaslara göre bu madde uyarınca ayrıca
+Devlet katkısı sağlanır. Çalışanın bu madde kapsamında cayma hakkını
+kullanmaması hâlinde, sisteme girişte bir defaya mahsus olmak üzere, ek
+1 inci maddedeki Devlet katkısı hak etme ve ödeme koşuluna tabi olmak
+kaydıyla, bin Türk lirası tutarında ilave Devlet katkısı sağlanır.
+Bakanlar Kurulu, bu tutarı yarısına kadar artırmaya veya yarısına kadar
+azaltmaya yetkilidir. Emeklilik hakkının kullanılması hâlinde, hesabın
+
+––––––––––––––––
+
+*(1) 10/8/2016 tarihli ve 6740 sayılı Kanunun 3 üncü maddesiyle bu
+maddenin 1/1/2017 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.*
+
+7888-3
+
+da bulunan birikimi en az on yıllık, yıllık gelir sigortası sözleşmesi
+kapsamında almayı tercih eden çalışana, birikiminin yüzde beşi karşılığı
+ek Devlet katkısı ödemesi yapılır. Bu madde hükmüne göre çalışan katkı
+payının takip ve tahsil sorumluluğu şirkete aittir. Müsteşarlık takip ve
+tahsil sorumluluğunun bu amaçla yetkilendirilecek bir kuruluşça yerine
+getirilmesine karar verebilir. Bankalar, Sosyal Güvenlik Kurumu, 506
+sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıklar ile bunların
+ilgili bulundukları kuruluşlar ve ilgili diğer kamu kurumları, çalışan
+katkı payının takip ve tahsili ile Devlet katkısının hesaplanması için
+ihtiyaç duyulan verileri, Müsteşarlıkça belirlenen usul ve esaslara göre
+emeklilik gözetim merkezi ile bu maddeye göre takip ve tahsil
+sorumluluğu ile yetkilendirilecek kuruluşa aktarır. Emeklilik gözetim
+merkezi ile bu maddeye göre yetkilendirilecek kuruluş, söz konusu
+verileri şirketler ile paylaşabilir. Bu verilerden kişisel nitelikte
+olanlar, veri sahibinin açık rızasının alınmasına gerek olmaksızın
+ilgili kuruluşlar arasında paylaşılabilir ve veri paylaşımı, kişisel
+verilerin korunmasına ilişkin mevzuat hükümlerine aykırılık teşkil
+etmez.^(1)^
+
+Bu madde kapsamında sunulan emeklilik planları kapsamında şirketlerce 7
+nci madde uyarınca fon işletim gideri kesintisi dışında başka bir
+kesinti yapılamaz. Çalışan katkı payı, işverenin taraf olduğu 9/6/1932
+tarihli ve 2004 sayılı İcra ve İflas Kanunu kapsamındaki haciz ve iflas
+yoluyla takip bakımından işçi alacağı niteliğinde imtiyazlı bir
+alacaktır. İşverenler bu madde kapsamındaki yükümlülükleri bakımından
+Çalışma ve Sosyal Güvenlik Bakanlığı tarafından denetlenir. İşverenin bu
+madde kapsamındaki yükümlülüklerine ve bu madde uyarınca yürürlüğe
+konulan düzenlemelere uymaması hâlinde, her bir ihlal için Çalışma ve
+Sosyal Güvenlik Bakanlığınca yüz Türk lirası idari para cezası
+uygulanır.
+
+Bakan, belirleyeceği esaslar dâhilinde bu Kanun kapsamındaki Devlet
+katkısının ilgililerin hesaben takip edebilmesini sağlayacak şekilde
+taahhüt olarak hesaplanmasına ve taahhüt edilen tutarların ödenmesine
+karar vermeye ve mevcut katılımcıların Devlet katkılarının
+değerlendirilmesine ilişkin usul ve esasları belirlemeye yetkilidir.
+Bakan, bu Kanun uyarınca kurulacak fonların içeriğini belirleyebilir ve
+fonlara sayı sınırı getirebilir. Bu Kanun uyarınca yapılacak
+bildirimler, Müsteşarlığın belirleyeceği usul ve esaslar çerçevesinde
+güvenli elektronik iletişim araçları ile de yapılabilir.
+
+Çalışanın işvereni aracılığıyla bir emeklilik planına dâhil olması,
+işveren tarafından şirket ve plan belirlenmesinde göz önünde
+bulundurulacak kriterler, katkı paylarının yatırıma yönlendirileceği
+fonlar, işverenin şirket ile yapacağı sözleşme, cayma hakkı, çalışanın
+işyerinin değişmesi hâlinde işverenin çalışanı bir emeklilik planına
+dâhil etmesi, işyeri değişikliğinde birikimin aktarılması, çalışma
+ilişkisi sona eren çalışanın talebi üzerine ilgili emeklilik planına
+ödeme yapması, ara verme, sistemden ayrılma, Devlet katkısının ödenmesi
+ve bu maddenin uygulanmasına ilişkin diğer usul ve esaslar Müsteşarlık
+tarafından belirlenir.
 
 **Geçici Madde 1 –** Bu Kanunda belirtilen yönetmelik ve tebliğler
 yürürlüğe girinceye kadar, yürürlükteki mevzuatın bu Kanuna aykırı
 olmayan hükümleri uygulanır.
+
+––––––––––––––––
+
+*(1) 18/1/2017 tarihli ve 6770 sayılı Kanunun 18 inci maddesiyle bu
+fıkrada yer alan “Bankalar, Sosyal Güvenlik Kurumu” ibaresinden sonra
+gelmek üzere “, 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki
+sandıklar ile bunların ilgili bulundukları kuruluşlar” ibaresi
+eklenmiştir.*
+
+7888-4
 
 Bu Kanunun yayımı tarihinden önce, hayat branşında faaliyet gösteren ve
 yeni poliçe akdetme yetkisi olan sigorta şirketleri, bu Kanunun yürürlük
@@ -1185,8 +1361,6 @@ vergi, resim ve harçtan müstesna olup, intibak ettirilen ve emeklilik
 sözleşmesi imzalamış katılımcılardan sisteme giriş aidatı alınmaz ve
 masraf kesintileri yapılmaz.
 
-7889
-
 Bu Kanunun yayımı tarihinden önce 7397 sayılı Kanuna göre tasdik edilmiş
 hayat sigortası tarifeleri ile bunlara ilişkin tablo, ilan, reklam ve
 broşürlerde bu Kanunun 10 uncu maddesinde öngörülen kavramların yer
@@ -1205,18 +1379,32 @@ ticaret şirketleri nezdinde 16/4/2012 tarihi itibarıyla mevcut bulunan
 emeklilik taahhüt planları kapsamındaki yurt içi ya da yurt dışındaki
 birikimler ve taahhütlere ilişkin tutarlar (plan esaslarına göre aktarım
 tarihine kadar mutat yapılan ödemeler nedeniyle oluşanlar dahil),
-31/12/2015 tarihine kadar kısmen veya tamamen bireysel emeklilik
+31/12/2017 tarihine kadar kısmen veya tamamen bireysel emeklilik
 sistemine aktarılabilir. Belirlenmiş katkı esasına göre yürütülen
 emeklilik taahhüt planlarından yapılan aktarımlarda ilgili kuruluşun
-yetkili organlarınca karar alınması şartı aranmayabilir.
+yetkili organlarınca karar alınması şartı aranmayabilir. ^(1)^
+
+^––––––––––––––––––––––^
+
+*(1) 25/12/2015 tarihli ve 6655 sayılı Kanunun 4 üncü maddesiyle, bu
+fıkrada yer alan “31/12/2015” ibaresi “31/12/2017” şeklinde
+değiştirilmiştir.*
+
+7889
 
 **(Ek fıkra: 3/6/2007-5684/41 md. ; Değişik altıncı fıkra:
 13/6/2012-6327/30 md.)** Beşinci fıkra kapsamında bireysel emeklilik
-sistemine aktarılan tutarlar gelir vergisinden müstesnadır. Aktarım
-yapan üyelerin sistemde kazanacakları süreye ve üyelerden sosyal
-güvenlik sistemi ve tabi olduğu vakıf senedi kapsamında emeklilik hakkı
-kazanmış olanların aktarım sonrası sistemde emeklilik hakkı kazanacağı
-yaşa ilişkin esas ve usuller Müsteşarlıkça belirlenir.
+sistemine aktarılan tutarlar gelir vergisinden müstesnadır. **(Ek cümle:
+3/4/2013-6456/35 md.)** Müsteşarlıkça uygun görülen programlı geri ödeme
+tutarları hariç, aktarım tarihinden itibaren üç yıl içinde katılımcı
+tarafından malûliyet ve ölüm haricindeki bir nedenle, aktarılan
+birikimlerin bir kısmının veya tamamının alınarak sistemden çıkılması
+durumunda, aktarım nedeniyle istisnadan yararlanılan tutar üzerinden
+yüzde 3,75 oranında gelir vergisi tevkifatı yapılır. Aktarım yapan
+üyelerin sistemde kazanacakları süreye ve üyelerden sosyal güvenlik
+sistemi ve tabi olduğu vakıf senedi kapsamında emeklilik hakkı kazanmış
+olanların aktarım sonrası sistemde emeklilik hakkı kazanacağı yaşa
+ilişkin esas ve usuller Müsteşarlıkça belirlenir.
 
 **(Ek fıkra: 13/6/2012-6327/30 md.)** Bireysel emeklilik sistemine
 aktarılan tutarlar, gelir ve kurumlar vergisi mükelleflerince daha önce
@@ -1249,37 +1437,96 @@ emekliliğe yönelik taahhütte bulunan dernek, vakıf, sandık, tüzel
 kişiliği haiz meslek kuruluşu veya sair ticaret şirketinin emekliliğe
 yönelik faaliyetlerinin aktüeryal denetimini Müsteşarlık yapar.
 
-*Yürürlük*
+**Geçici Madde 2-** **(Ek: 10/8/2016-6740/2 md.) ^(1)(2)\ ^**
 
-**Madde 27 –** Bu Kanun yayımı tarihinden altı ay sonra yürürlüğe girer.
+Bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihte kırk beş yaşını
+doldurmamış olan çalışanlar ile 506 sayılı Kanunun geçici 20 nci maddesi
+kapsamında kurulmuş olan sandıkların iştirakçisi olarak çalışanlardan
+Kanunun yürürlüğe girdiği tarihte kırk beş yaşını doldurmamış olanlar,
+ek 2 nci madde hükümleri çerçevesinde otomatik olarak emeklilik planına
+dâhil edilir.^(2)\ ^
 
-*Yürütme*
+––––––––––––––––
 
-**Madde 28 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+*(1) 10/8/2016 tarihli ve 6740 sayılı Kanunun 3 üncü maddesiyle bu
+maddenin 1/1/2017 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.*
+
+*(2) 18/1/2017 tarihli ve 6770 sayılı Kanunun 19 uncu maddesiyle bu
+maddede yer alan “kırk beş yaşını doldurmamış olan çalışanlar”
+ibaresinden sonra gelmek üzere “ile 506 sayılı Kanunun geçici 20 nci
+maddesi kapsamında kurulmuş olan sandıkların iştirakçisi olarak
+çalışanlardan Kanunun yürürlüğe girdiği tarihte kırk beş yaşını
+doldurmamış olanlar” ibaresi eklenmiştir.*
 
 7890
 
+**Geçici Madde 3- (Ek: 18/1/2017-6770/20 md.) **
+
+1/1/2013 ila bu maddenin yürürlüğe girdiği tarih arasındaki sürede,
+katkı payının şirket hesaplarına nakden intikal ettiği tarihten önceki
+bir tarihte Devlet katkısı hesaplamasına konu edilmesi nedeniyle, erken
+ödenen Devlet katkısı tutarlarına Devlet katkısının Müsteşarlıkça fiilen
+ödendiği tarih ile ödenmesi gereken tarih arasındaki süre için,
+emeklilik gözetim merkezi tarafından 6183 sayılı Kanunun 51 inci
+maddesinde belirtilen gecikme zammı oranı esas alınarak gecikme bedeli
+hesaplanır. Hesaplanan bedelin, Devlet katkısının Müsteşarlıkça ödenmesi
+gereken tarihten şirketin ödeme yaptığı tarihe kadar 6183 sayılı Kanunun
+51 inci maddesinde belirtilen gecikme zammı oranına göre hesaplanan
+faiziyle birlikte ilgili vergi dairesine ödenmesi gerektiği hususu
+emeklilik gözetim merkezi tarafından şirkete ve 6183 sayılı Kanun
+hükümlerine göre gerekli takibatın yapılması amacıyla durum ilgili
+şirketin bağlı olduğu vergi dairesine bildirilir.
+
+1/1/2013 ila bu maddenin yürürlüğe girdiği tarih arasındaki sürede,
+erken ödenen Devlet katkısı tutarları kapsamında, ilgili dönemde
+gerçekleştirilmiş olan iade işlemleri geçerliliğini korur.
+
+Yürürlük
+
+**Madde 27 –** Bu Kanun yayımı tarihinden altı ay sonra yürürlüğe girer.
+
+Yürütme
+
+**Madde 28 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+7890-1
+
 **4632 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
-YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL **
+
+**EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4632 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  ---------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin **   **4632 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                           
+  **Kararının Numarası**                                                                                                   
 
-  5684                                                                         2, 5, 6, 17, 18, 20/A, Geçici Madde 1                         14/6/2007
+  5684                                                       2, 5, 6, 17, 18, 20/A, Geçici Madde 1                         14/6/2007
 
-  5728                                                                         8, 22, 23, 24                                                 8/2/2008
+  5728                                                       8, 22, 23, 24                                                 8/2/2008
 
-  Anayasa Mah.’nin E.: 2008/17, K.: 2010/44 sayılı Kararı                      8                                                             1/12/2011
+  Anayasa Mah.’nin E.: 2008/17, K.: 2010/44 sayılı Kararı    8                                                             1/12/2011
 
-  6327                                                                         Geçici Madde 1                                                29/6/2012
-                                                                                                                                             
-                                                                               4, 5, 6, 8, 11, 13, 14, 15, 17, 20, 21, 22,                   1/1/2013
-                                                                                                                                             
-                                                                               Ek Madde 1                                                    
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  6327                                                       Geçici Madde 1                                                29/6/2012
+                                                                                                                           
+                                                             4, 5, 6, 8, 11, 13, 14, 15, 17, 20, 21, 22,                   1/1/2013
+                                                                                                                           
+                                                             Ek Madde 1                                                    
+
+  6456                                                       Ek Madde 1, Geçici Madde 1                                    18/4/2013
+
+  6655                                                       Geçici Madde 1                                                1/1/2016
+
+  6740                                                       Ek Madde 2, Geçici Madde 2                                    1/1/2017
+
+                                                                                                                           
+
+  6770                                                       Ek Madde 1, Geçici Madde 3                                    27/1/2017
+
+                                                             Ek Madde 2, Geçici Madde 2                                    1/1/2017 tarihinden itibaren geçerli olmak üzere 27/1/2017
+  ---------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
 
 
