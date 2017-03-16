@@ -1,6 +1,6 @@
-**Anayasa Mahkemesi’nin 28/2/2013 tarihli ve **
+4515
 
-**E.: 2012/116, K.: 2013/32 sayılı Kararı ile değişik hali**
+ 
 
 AVUKATLIK KANUNU
 
@@ -2175,7 +2175,7 @@ ikinci ve altıncı fıkraları hükümleri, baro başkanının seçimi hakkınd
 da kıyasen uygulanır.
 
              Seçim döneminin bitmesinden önce ayrılan baro başkanının
-seçimi hakkında da kıyasen uygulanır.
+yerine seçilen, geri kalan süreyi tamamlar.
 
              Görevleri:
 
@@ -3902,64 +3902,72 @@ ONÜÇÜNCÜ KISIM
 
 Çeşitli Hükümler
 
-             Yönetmelik:
+            Yönetmelik:
 
-             **Madde 182 – (Değişik : 2/5/2001 - 4667/90 md.) **
+**Madde 182 – (Değişik : 2/5/2001 - 4667/90 md.) **
 
-             Bu Kanunda düzenlenmesi yönetmeliğe bırakılan hususlar ile
-Kanunun uygulanabilmesi için yönetmelikte yer alması gereken diğer
-konuları kapsayan yönetmelikler Türkiye Barolar Birliği Yönetim Kurulu
-tarafından hazırlanarak Adalet Bakanlığına gönderilir. Yönetmelikler
-Adalet Bakanlığına ulaştığı tarihten itibaren iki ay içinde karar
-verilmediği veya onaylandığı takdirde kesinleşerek yürürlüğe girer.
-Ancak, Adalet Bakanlığı uygun bulmadığı yönetmelikleri bir daha
+Bu Kanunda düzenlenmesi yönetmeliğe bırakılan hususlar ile Kanunun
+uygulanabilmesi için yönetmelikte yer alması gereken diğer konuları
+kapsayan yönetmelikler Türkiye Barolar Birliği Yönetim Kurulu tarafından
+hazırlanarak Adalet Bakanlığına gönderilir. Yönetmelikler Adalet
+Bakanlığına ulaştığı tarihten itibaren iki ay içinde karar verilmediği
+veya onaylandığı takdirde Resmî Gazete’de yayımlanarak yürürlüğe girer.
+(…),^(2)^ Adalet Bakanlığı uygun bulmadığı yönetmelikleri bir daha
 görüşülmek üzere, gösterdiği gerekçesiyle birlikte Türkiye Barolar
 Birliğine geri gönderir. Geri gönderilen bu yönetmelikler, Türkiye
 Barolar Birliği Yönetim Kurulunca üçte iki çoğunlukla aynen kabul
-edildiği takdirde onaylanmış sayılarak yürürlüğe girer, aksi halde
-onaylanmamış sayılır ve sonuç Türkiye Barolar Birliği tarafından Adalet
-Bakanlığına bildirilir. 8 inci maddenin altıncı ve yedinci fıkraları
-hükümleri burada da kıyasen uygulanır.
+edildiği takdirde Resmî Gazete’de yayımlanarak yürürlüğe girer, aksi
+halde onaylanmamış sayılır ve sonuç Türkiye Barolar Birliği tarafından
+Adalet Bakanlığına bildirilir. 8 inci maddenin altıncı ve yedinci
+fıkraları hükümleri burada da kıyasen uygulanır.^(2)^
 
-             Cumhuriyet savcılarına yapılacak tebligat:
+**(Ek fıkra: 10/9/2014-6552/94 md.)** Ancak, yönetmelikle veya diğer bir
+düzenleyici işlemle avukatlık stajına kabulde, staj döneminde ve
+avukatlık mesleğine kabulde sınav veya benzeri bir rejim öngörülemez.
 
-             **Madde 183 –** Bu kanun gereğince Cumhuriyet savcılarına
-yapılacak tebligatta ilgili dosyanın da birlikte gönderilmesi şarttır.
+Cumhuriyet savcılarına yapılacak tebligat:
 
-             Avukatlık kıdemine sayılacak hizmetler:
+**Madde 183 –** Bu kanun gereğince Cumhuriyet savcılarına yapılacak
+tebligatta ilgili dosyanın da birlikte gönderilmesi şarttır.
 
-**             Madde 184 –** Dördüncü maddenin birinci fıkrasında
-sayılan hizmetlerden avukatlığa geçenlerin bu hizmetlerde geçen süreleri
+Avukatlık kıdemine sayılacak hizmetler:
+
+**Madde 184 –** Dördüncü maddenin birinci fıkrasında sayılan
+hizmetlerden avukatlığa geçenlerin bu hizmetlerde geçen süreleri
 avukatlık kıdemine sayılır.
 
-             Davavekilleri hakkında uygulanacak hüküm:
+Davavekilleri hakkında uygulanacak hüküm:
 
-             **Madde 185 –** Bu Kanunun ikinci, dördüncü, beşinci,
-yedinci, sekizinci ve dokuzuncu kısmı ile 65 inci maddesi dışında kalan
-hükümleri davavekilleri hakkında da kıyasen uygulanır.
+**Madde 185 –** Bu Kanunun ikinci, dördüncü, beşinci, yedinci, sekizinci
+ve dokuzuncu kısmı ile 65 inci maddesi dışında kalan hükümleri
+davavekilleri hakkında da kıyasen uygulanır.
 
-             **(Mülga : 2/5/2001 - 4667/91 md.)**
+**(Mülga : 2/5/2001 - 4667/91 md.)**
 
-             Topluluk sigortasına girmeleri mutlak şekilde zorunlu
-olanlar:
+Topluluk sigortasına girmeleri mutlak şekilde zorunlu olanlar:
 
-             **Madde 186 – (Mülga: 31/5/2006-5510/106 md.)**
+**Madde 186 – (Mülga: 31/5/2006-5510/106 md.)**
 
-             Topluluk sigortasına girme zorunluğu şarta bağlı olanlar:
+Topluluk sigortasına girme zorunluğu şarta bağlı olanlar:
 
-             **Madde 187 – (Mülga: 31/5/2006-5510/106 md.)**
+**Madde 187 – (Mülga: 31/5/2006-5510/106 md.)**
 
-             Topluluk sigortasına giremiyenler:
+Topluluk sigortasına giremiyenler:
 
-             **Madde 188 – (Mülga: 31/5/2006-5510/106 md.)**
-
-* *
+**Madde 188 – (Mülga: 31/5/2006-5510/106 md.)**
 
 *–––––––––––––––––*
 
-*(1)  Bu madde başlığı “Yıllık çalışma raporu” iken, 2/5/2001 tarih ve
+*(1) Bu madde başlığı “Yıllık çalışma raporu” iken, 2/5/2001 tarih ve
 4667 sayılı Kanunun 89 uncu maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
+
+*(2) 10/9/2014 tarihli ve 6552 sayılı Kanunun 94 üncü maddesiyle bu
+fıkranın ikinci cümlesinde yer alan “kesinleşerek” ibaresi “Resmî
+Gazete’de yayımlanarak” şeklinde, dördüncü cümlesinde yer alan
+“onaylanmış sayılarak” ibaresi “Resmî Gazete’de yayımlanarak” şeklinde
+değiştirilmiş; üçüncü cümlesindeki “Ancak” ibaresi madde metninden
+çıkarılmıştır.*
 
  
 
@@ -4912,35 +4920,37 @@ GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
 4570
 
-  ---------------------------------------------------------------------------------------- ------------------------------------------------------------- --------------------------------------------------
-  **Değiştiren Kanunun/ KHK’nin Numarası**                                                 **1136 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- --------------------------------------------------
+  **Değiştiren Kanunun/ KHK’nin Numarası**                                             **1136 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
 
-  5218                                                                                     65, Ek Madde 3                                                21/7/2004
+  5218                                                                                 65, Ek Madde 3                                                21/7/2004
 
-  5533                                                                                     Madde 1                                                       5/7/2006
+  5533                                                                                 Madde 1                                                       5/7/2006
 
-  5558 ^(1)^                                                                               3, 6, 28, 29, 30, 31, Geçici Madde 17, 20 ve                  14/12/2006
-                                                                                                                                                         
-                                                                                           İşlenemeyen Hüküm                                             
+  5558 ^(1)^                                                                           3, 6, 28, 29, 30, 31, Geçici Madde 17, 20 ve                  14/12/2006
+                                                                                                                                                     
+                                                                                       İşlenemeyen Hüküm                                             
 
-  5615                                                                                     180                                                           1/1/2007 tarihinden geçerli olmak üzere 4/4/2007
+  5615                                                                                 180                                                           1/1/2007 tarihinden geçerli olmak üzere 4/4/2007
 
-  5728                                                                                     5, 14, 17, 35, 56, 58, 61, 62, 63, 150, Ek Madde 3            8/2/2008
+  5728                                                                                 5, 14, 17, 35, 56, 58, 61, 62, 63, 150, Ek Madde 3            8/2/2008
 
-  5754 sayılı Kanunla değişik 5510                                                         186 ilâ 188 ve 191                                            1/10/2008
+  5754 sayılı Kanunla değişik 5510                                                     186 ilâ 188 ve 191                                            1/10/2008
 
-  5838                                                                                     65, Geçici Madde 22                                           28/2/2009
+  5838                                                                                 65, Geçici Madde 22                                           28/2/2009
 
-  5904                                                                                     168                                                           3/7/2009
+  5904                                                                                 168                                                           3/7/2009
 
-  6111                                                                                     27                                                            25/2/2011
+  6111                                                                                 27                                                            25/2/2011
 
-  6460                                                                                     43                                                            30/4/2013
+  6460                                                                                 43                                                            30/4/2013
 
-  6325                                                                                     12                                                            22/6/2013
+  6325                                                                                 12                                                            22/6/2013
 
-  **Anayasa Mahkemesi’nin 28/2/2013 tarihli ve E.: 2012/116, K.: 2013/32 sayılı Kararı**   5                                                             13/8/2013
-  ---------------------------------------------------------------------------------------- ------------------------------------------------------------- --------------------------------------------------
+  Anayasa Mahkemesi’nin 28/2/2013 tarihli ve E.: 2012/116, K.: 2013/32 sayılı Kararı   5                                                             13/8/2013
+
+  6552                                                                                 182                                                           11/9/2014
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- --------------------------------------------------
 
 *––––––––––––––*
 
