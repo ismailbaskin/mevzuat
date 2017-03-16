@@ -1,4 +1,4 @@
-5216 sayılı Kanunun 5390 sayılı Kanun ile Değişik Hali
+**5216 sayılı Kanunun 5393 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -153,18 +153,21 @@ h\) Coğrafî ve kent bilgi sistemlerini kurmak.
 
 i\) Sürdürülebilir kalkınma ilkesine uygun olarak çevrenin, tarım
 alanlarının ve su havzalarının korunmasını sağlamak; ağaçlandırma
-yapmak; hafriyat toprağı, moloz, kum ve çakıl depolama alanlarını, odun
-ve kömür satış ve depolama sahalarını belirlemek, bunların taşınmasında
-çevre kirliliğine meydan vermeyecek tedbirler almak; büyükşehir katı
-atık yönetim plânını yapmak, yaptırmak; katı atıkların kaynakta
-toplanması ve aktarma istasyonuna kadar taşınması hariç katı atıkların
-ve hafriyatın yeniden değerlendirilmesi, depolanması ve bertaraf
-edilmesine ilişkin hizmetleri yerine getirmek, bu amaçla tesisler
-kurmak, kurdurmak, işletmek veya işlettirmek; sanayi ve tıbbî atıklara
-ilişkin hizmetleri yürütmek, bunun için gerekli tesisleri kurmak,
-kurdurmak, işletmek veya işlettirmek; deniz araçlarının atıklarını
-toplamak, toplatmak, arıtmak ve bununla ilgili gerekli düzenlemeleri
-yapmak.
+yapmak; gayrisıhhî işyerlerini, eğlence yerlerini, halk sağlığına ve
+çevreye etkisi olan diğer işyerlerini kentin belirli yerlerinde
+toplamak; inşaat malzemeleri, hurda depolama alanları ve satış
+yerlerini, hafriyat toprağı, moloz, kum ve çakıl depolama alanlarını,
+odun ve kömür satış ve depolama sahalarını belirlemek, bunların
+taşınmasında çevre kirliliğine meydan vermeyecek tedbirler almak;
+büyükşehir katı atık yönetim plânını yapmak, yaptırmak; katı atıkların
+kaynakta toplanması ve aktarma istasyonuna kadar taşınması hariç katı
+atıkların ve hafriyatın yeniden değerlendirilmesi, depolanması ve
+bertaraf edilmesine ilişkin hizmetleri yerine getirmek, bu amaçla
+tesisler kurmak, kurdurmak, işletmek veya işlettirmek; sanayi ve tıbbî
+atıklara ilişkin hizmetleri yürütmek, bunun için gerekli tesisleri
+kurmak, kurdurmak, işletmek veya işlettirmek; deniz araçlarının
+atıklarını toplamak, toplatmak, arıtmak ve bununla ilgili gerekli
+düzenlemeleri yapmak.*^(2)^*
 
 j\) Gıda ile ilgili olanlar dâhil birinci sınıf gayrisıhhî müesseseleri
 ruhsatlandırmak ve denetlemek, yiyecek ve içecek maddelerinin
@@ -188,7 +191,14 @@ veya derece alan sporculara belediye meclis kararıyla ödül vermek.
 
 *(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesi ile bu
 bentte yer alan "68 ve 72 nci" ibaresi "69 ve 73 üncü" şeklinde
-değiştirilmiştir.*
+değiştirilmiştir. *
+
+*(2) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
+bentte yer alan "ağaçlandırma yapmak;" ibaresinden sonra gelmek üzere
+"gayrisıhhî işyerlerini, eğlence yerlerini, halk sağlığına ve çevreye
+etkisi olan diğer işyerlerini kentin belirli yerlerinde toplamak; inşaat
+malzemeleri, hurda depolama alanları ve satış yerlerini," ibaresi
+eklenmiştir.*
 
 n\) Gerektiğinde sağlık, eğitim ve kültür hizmetleri için bina ve
 tesisler yapmak, kamu kurum ve kuruluşlarına ait bu hizmetlerle ilgili
@@ -257,13 +267,15 @@ toplamak ve aktarma istasyonuna taşımak.
 c\) Sıhhî işyerlerini, 2 nci ve 3 üncü sınıf gayrisıhhî müesseseleri,
 umuma açık istirahat ve eğlence yerlerini ruhsatlandırmak ve denetlemek.
 
-d\) Birinci fıkrada belirtilen hizmetlerden; otopark, spor, dinlenme ve
-eğlence yerleri ile parkları yapmak; yaşlılar, özürlüler, kadınlar,
-gençler ve çocuklara yönelik sosyal ve kültürel hizmetler sunmak;
-mesleki eğitim ve beceri kursları açmak; sağlık, eğitim, kültür tesis ve
-binalarının yapım, bakım ve onarımı ile kültür ve tabiat varlıkları ve
-tarihî dokuyu korumak; kent tarihi bakımından önem taşıyan mekânların ve
-işlevlerinin geliştirilmesine ilişkin hizmetler yapmak.
+d\) Birinci fıkrada belirtilen hizmetlerden 775 sayılı Gecekondu
+Kanununda belediyelere verilen yetkileri kullanmak,; otopark, spor,
+dinlenme ve eğlence yerleri ile parkları yapmak; yaşlılar, özürlüler,
+kadınlar, gençler ve çocuklara yönelik sosyal ve kültürel hizmetler
+sunmak; mesleki eğitim ve beceri kursları açmak; sağlık, eğitim, kültür
+tesis ve binalarının yapım, bakım ve onarımı ile kültür ve tabiat
+varlıkları ve tarihî dokuyu korumak; kent tarihi bakımından önem taşıyan
+mekânların ve işlevlerinin geliştirilmesine ilişkin hizmetler
+yapmak.*^(1)^*
 
 e\) Defin ile ilgili hizmetleri yürütmek.
 
@@ -297,6 +309,13 @@ alınır. Ortak programa alınan alt yapı hizmetleri için belediye ve diğer
 bütün kamu kurum ve kuruluşlarının bütçelerine konulan ödenekler, alt
 yapı koordinasyon merkezi bünyesinde oluşturulacak alt yapı yatırım
 hesabına aktarılır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
+bentte yer alan “belirtilen hizmetlerden” ibaresinden sonra gelmek üzere
+“775 sayılı Gecekondu Kanununda belediyelere verilen yetkileri
+kullanmak,” ibaresi eklenmiştir.*
 
 Ortak programa alınan hizmetler için kamu kurum ve kuruluş bütçelerinde
 yeterli ödeneğin bulunmadığının bildirilmesi durumunda, büyükşehir
@@ -413,7 +432,8 @@ uygulanır.
 
 **MADDE 13.-** Büyükşehir belediye meclisi, her ayın ikinci haftası
 önceden meclis tarafından belirlenen günde mutat toplantı yerinde
-toplanır. Kasım ayı toplantısı dönem başı toplantısıdır.
+toplanır. **(Mülga: 3/7/2005-5393/ 85 md.).** **(Ek: 3/7/2005-5393/ 85
+md.)** Meclis kendi belirleyeceği bir ay tatil yapabilir.
 
 Bütçe görüşmesine rastlayan toplantı süresi en çok yirmi, diğer
 toplantıların süresi en çok beş gündür.
@@ -434,7 +454,7 @@ istenip de büyükşehir belediye meclisi üye tam sayısının salt
 çoğunluğuyla ısrar edilen kararlar kesinleşir.
 
 Büyükşehir belediye başkanı, meclisin ısrarı ile kesinleşen kararlar
-aleyhine on gün içinde idarî yargıya başvurabilir.
+aleyhine (…)*^(1)^* idarî yargıya başvurabilir. *^(1)^*
 
 Kararlar, kesinleştiği tarihten itibaren en geç yedi gün içinde mahallin
 en büyük mülkî idare amirine gönderilir. Mülkî idare amirine
@@ -462,9 +482,9 @@ edildikten sonra büyükşehir belediye başkanına gönderilir.
 
 **İhtisas komisyonları**
 
-**MADDE 15.-** Büyükşehir belediye meclisi, her dönem başı
-toplantısında, üyeleri arasından seçilecek en az beş, en çok dokuz
-kişiden oluşan ihtisas komisyonları kurabilir.
+**MADDE 15.-** Büyükşehir belediye meclisi, (…) *^(2)^*üyeleri arasından
+seçilecek en az beş, en çok dokuz kişiden oluşan ihtisas komisyonları
+kurabilir. *^(2)^*
 
 İhtisas komisyonları, her siyasî parti grubunun ve bağımsız üyelerin
 büyükşehir belediye meclisindeki üye sayısının meclis üye tam sayısına
@@ -494,14 +514,22 @@ Komisyon raporları alenîdir, çeşitli yollarla halka duyurulur ve
 isteyenlere büyükşehir belediye meclisi tarafından belirlenecek maliyet
 bedeli karşılığında verilir.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
+fıkrada yer alan "on gün içinde” ibaresi madde metninden çıkarılmıştır.*
+
+*(2) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
+fıkrada yer alan "her dönem başı toplantısında,"* *ibaresi madde
+metninden çıkarılmıştır.*
+
 **Büyükşehir belediye encümeni**
 
 **MADDE 16.-** Büyükşehir belediye encümeni, belediye başkanının
-başkanlığında, belediye meclisinin her yılın ilk olağan toplantısında
-kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye ile
-biri genel sekreter, biri malî hizmetler birim amiri olmak üzere
-belediye başkanının her yıl birim amirleri arasından seçeceği beş üyeden
-oluşur.
+başkanlığında, belediye meclisinin (…) *^(1)^* kendi üyeleri arasından
+bir yıl için gizli oyla seçeceği beş üye ile biri genel sekreter, biri
+malî hizmetler birim amiri olmak üzere belediye başkanının her yıl birim
+amirleri arasından seçeceği beş üyeden oluşur. *^(1)^*
 
 Belediye başkanının katılamadığı toplantılarda, encümen toplantılarına
 genel sekreter başkanlık eder.
@@ -605,6 +633,12 @@ Danışmanlara, her türlü ödemeler dâhil, büyükşehir belediyesi genel
 sekreterine ödenen brüt aylık miktarının % 75'ini aşmamak üzere belediye
 meclisinin belirlediği miktarda brüt ücret ödenir.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
+fıkrada yer alan “her yılın ilk olağan toplantısında” ibaresi madde
+metninden çıkarılmıştır.*
+
 BEŞİNCİ BÖLÜM
 
 Büyükşehir Belediyesi Teşkilâtı ve Personeli
@@ -641,9 +675,9 @@ hizmeti sınıfına dahil bakanlık genel müdürleri, genel sekreter
 yardımcısı kadrosuna atananlar ise bakanlık bağımsız daire başkanları
 için ilgili mevzuatında öngörülen tüm haklardan aynen yararlanırlar.
 
-Büyükşehir belediyesi daire başkanları, bağlı genel müdürlüklerin daire
-başkanlarının yararlandığı makam ve görev tazminatından aynen
-yararlanırlar.
+Büyükşehir belediyesi 1.hukuk müşaviri ve daire başkanları, bağlı genel
+müdürlüklerin daire başkanlarının yararlandığı makam ve görev
+tazminatından aynen yararlanırlar.*^(1)^*
 
 Sözleşmeli ve işçi statüsünde çalışanlar hariç belediye memurlarına,
 başarı durumlarına göre toplam memur sayısının % 10'unu ve Devlet
@@ -711,6 +745,12 @@ m\) Yapılacak hizmetler karşılığı alınacak ücretler.
 n\) Şartlı ve şartsız bağışlar.
 
 o\) Diğer gelirler.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
+fıkrada yer alan “Büyükşehir belediyesi” ibaresinden sonra gelmek üzere
+“1.hukuk müşaviri ve” ibaresi eklenmiştir.*
 
 Bakanlar Kurulu, birinci fıkranın (b) bendindeki % 5 pay oranını iki
 katına kadar artırmaya veya kanunî haddine indirmeye yetkilidir. Bu
@@ -1059,7 +1099,7 @@ edilir. Bakanlar Kurulu bu süreyi altı aya kadar uzatmaya yetkilidir."
 fıkrasına "Sayıştay Başkanlığı" ibaresinden sonra gelmek üzere "Sosyal
 Sigortalar Kurumu Başkanlığı" ibaresi eklenmiştir.*
 
-5216. **SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
+5216. **ILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
 *1-2/7/2005 tarihli ve 5390 sayılı Kanunun hükmüdür:*
 
@@ -1105,7 +1145,7 @@ aktarılır.
 
   5390                       13/7/2005                                                                13/7/2005                                                         6, İşlenemeyen Hüküm
 
-                                                                                                                                                                        
+  5393                       13/7/2005                                                                13/7/2005                                                         7, 13, 14, 15, 16, 22
 
                                                                                                                                                                         
 
