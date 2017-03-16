@@ -1,6 +1,6 @@
-**5237 sayılı Kanunun ilk hali**
+**31/3/2005 tarihli ve 5328 Sayılı Kanunla Değişik Hali **
 
-TÜRK CEZA KANUNU
+TÜRK CEZA KANUNU^(1)^
 
  
 
@@ -8,9 +8,7 @@ TÜRK CEZA KANUNU
   ***Kanun No. 5237 ***       ***Kabul Tarihi : 26.9.2004 ***
   ----------------------- --- ---------------------------------
 
-** **
-
-** **
+**  **
 
 **BİRİNCİ KİTAP**
 
@@ -81,6 +79,12 @@ ceza içeren kanunlardaki suçlar hakkında da uygulanır.
 a\) Vatandaş deyiminden; fiili işlediği sırada Türk vatandaşı olan kişi,
 
 b\) Çocuk deyiminden; henüz onsekiz yaşını doldurmamış kişi,
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu Kanunun yürürlük ve uygulama şekli ve 765 sayılı Türk Ceza
+Kanununa çeşitli mevzuatta yapılan atıflarla ilgili olarak 4/11/2004
+tarihli ve 5252 sayılı Kanuna bakınız.*
 
 c\) Kamu görevlisi deyiminden; kamusal faaliyetin yürütülmesine atama
 veya seçilme yoluyla ya da herhangi bir surette sürekli, süreli veya
@@ -1114,9 +1118,12 @@ veya örgüt mensubu suçlu hakkında da uygulanmasına hükmedilir.
 
 **Sınır dışı edilme**
 
-**MADDE 59. -** (1) İşlediği suç nedeniyle iki yıl veya daha fazla
-süreyle hapis cezasına mahkûm edilen yabancının, cezasının infazından
-sonra derhâl sınır dışı edilmesine de hükmolunur.
+**Madde 59- (Değişik: 31/3/2005 – 5328/1 md.)**
+
+\(1) İşlediği suç nedeniyle hapis cezasına mahkûm edilen yabancı, koşullu
+salıverilmeden yararlandıktan ve her halde cezasının infazı
+tamamlandıktan sonra, durumu, sınır dışı işlemleriyle ilgili olarak
+değerlendirilmek üzere derhal İçişleri Bakanlığına bildirilir.
 
 **Tüzel kişiler hakkında güvenlik tedbirleri **
 
@@ -1193,9 +1200,9 @@ eksiltilebilir, ne de değiştirilebilir.
 **Takdiri indirim nedenleri **
 
 **MADDE 62. -** (1) Fail yararına cezayı hafifletecek takdiri nedenlerin
-varlığı hâlinde, ağırlaştırılmış müebbet hapis cezası yerine, müebbet
+varlığı halinde, ağırlaştırılmış müebbet hapis cezası yerine, müebbet
 hapis; müebbet hapis cezası yerine, yirmibeş yıl hapis cezası verilir.
-Diğer cezaların beşte birine kadarı indirilir.
+Diğer cezaların altıda birine kadarı indirilir. ^(1)^
 
 \(2) Takdiri indirim nedeni olarak, failin geçmişi, sosyal ilişkileri,
 fiilden sonraki ve yargılama sürecindeki davranışları, cezanın failin
@@ -1222,6 +1229,12 @@ Dava ve Cezanın Düşürülmesi
 karar verilir. Ancak, niteliği itibarıyla müsadereye tâbi eşya ve maddî
 menfaatler hakkında davaya devam olunarak bunların müsaderesine
 hükmolunabilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu fıkrada yer alan “beşte” ibaresi, 31/3/2005 tarihli ve 5328
+sayılı Kanunun 2 nci maddesiyle “altıda” olarak değiştirilmiş ve metne
+işlenmiştir.*
 
 \(2) Hükümlünün ölümü, hapis ve henüz infaz edilmemiş adlî para
 cezalarını ortadan kaldırır. Ancak, müsadereye ve yargılama giderlerine
@@ -1703,17 +1716,15 @@ olan veya ortadan kaldırılan kişileri intihara sevk edenlerle cebir veya
 tehdit kullanmak suretiyle kişileri intihara mecbur edenler, kasten
 öldürme suçundan sorumlu tutulurlar.
 
-**Taksirle öldürme **
+**Taksirle öldürme**^(1)^ 
 
-**MADDE 85. -** (1) Taksirle bir insanın ölümüne neden olan kişi, üç
+**MADDE 85. -** (1) Taksirle bir insanın ölümüne neden olan kişi, iki
 yıldan altı yıla kadar hapis cezası ile cezalandırılır.
 
 \(2) Fiil, birden fazla insanın ölümüne ya da bir veya birden fazla
 kişinin ölümü ile birlikte bir veya birden fazla kişinin yaralanmasına
-neden olmuş ise, kişi üç yıldan onbeş yıla kadar hapis cezası ile
+neden olmuş ise, kişi iki yıldan onbeş yıla kadar hapis cezası ile
 cezalandırılır.
-
- 
 
 İKİNCİ BÖLÜM
 
@@ -1721,13 +1732,18 @@ Vücut Dokunulmazlığına Karşı Suçlar
 
  
 
-**Kasten yaralama**
+**Kasten yaralama***^(2)^*
 
 **MADDE 86. -** (1) Kasten başkasının vücuduna acı veren veya sağlığının
 ya da algılama yeteneğinin bozulmasına neden olan kişi, bir yıldan üç
 yıla kadar hapis cezası ile cezalandırılır.
 
-\(2) Kasten yaralama suçunun;
+\(2) **(Ek fıkra: 31/3/2005 – 5328/4 md.)** Kasten yaralama fiilinin
+kişi  üzerindeki  etkisinin basit  bir  tıbbî  müdahaleyle
+giderilebilecek ölçüde hafif olması hâlinde, mağdurun şikâyeti üzerine,
+dört aydan bir yıla kadar hapis veya adlî para cezasına hükmolunur.
+
+\(3) Kasten yaralama suçunun;
 
 a\) Üstsoya, altsoya, eşe veya kardeşe karşı,
 
@@ -1740,7 +1756,8 @@ d\) Kamu görevlisinin sahip bulunduğu nüfuz kötüye kullanılmak suretiyle,
 
 e\) Silâhla,
 
-İşlenmesi hâlinde, iki yıldan beş yıla kadar hapis cezasına hükmolunur.
+İşlenmesi halinde, şikâyet aranmaksızın, verilecek ceza yarı oranında
+artırılır.
 
 **Neticesi sebebiyle ağırlaşmış yaralama **
 
@@ -1760,6 +1777,18 @@ e\) Gebe bir kadına karşı işlenip de çocuğunun vaktinden önce doğmasına
 Neden olmuşsa, yukarıdaki maddeye göre belirlenen ceza, bir kat
 artırılır. Ancak, verilecek ceza, birinci fıkraya giren hâllerde üç
 yıldan, ikinci fıkraya giren hâllerde beş yıldan az olamaz.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1)   Bu maddede yer alan “üç  yıldan” ibareleri, 31/3/2005 tarihli ve
+5328 sayılı Kanunun 3 üncü maddesiyle “iki yıldan” şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+*(2)   Bu maddeye, 31/3/2005 tarihli ve 5328 sayılı Kanunun 4 üncü
+maddesiyle  ikinci fıkra  eklenmiş, ikinci fıkrasındaki "iki yıldan beş
+yıla kadar hapis cezasına hükmolunur." ibaresi "şikâyet aranmaksızın,
+verilecek ceza yarı oranında artırılır." şeklinde değiştirilmiş ve fıkra
+numaraları buna göre teselsül ettirilmiştir.  *
 
 \(2) Kasten yaralama fiili, mağdurun;
 
@@ -1783,21 +1812,16 @@ kırığın hayat fonksiyonlarındaki etkisine göre, bir yıldan altı yıla
 kadar hapis cezasına hükmolunur.
 
 \(4) Kasten yaralama sonucunda ölüm meydana gelmişse, yukarıdaki maddenin
-birinci fıkrasına giren hâllerde sekiz yıldan oniki yıla kadar, ikinci
+birinci fıkrasına giren hâllerde sekiz yıldan oniki yıla kadar, üçüncü
 fıkrasına giren hâllerde ise oniki yıldan onaltı yıla kadar hapis
-cezasına hükmolunur.
+cezasına hükmolunur.^(1)^
 
-**Daha az cezayı gerektiren hâller **
+**Kasten yaralamanın ihmali davranışla işlenmesi ^(2)^**
 
-**MADDE 88. -** (1) Kasten yaralama fiilinin kişi üzerindeki etkisinin
-basit bir tıbbî müdahaleyle giderilebilecek ölçüde hafif olması hâlinde,
-mağdurun şikâyeti üzerine, dört aydan bir yıla kadar hapis veya adlî
-para cezasına hükmolunur.
-
-\(2) Kasten yaralamanın ihmali davranışla işlenmesi hâlinde, verilecek
-ceza üçte ikisine kadar indirilebilir. Bu hükmün uygulanmasında kasten
-öldürmenin ihmali davranışla işlenmesine ilişkin koşullar göz önünde
-bulundurulur.
+**MADDE 88. -** (1) Kasten yaralamanın ihmali davranışla işlenmesi
+halinde, verilecek ceza üçte ikisine kadar indirilebilir. Bu hükmün
+uygulanmasında kasten öldürmenin ihmali davranışla işlenmesine ilişkin
+koşullar göz önünde bulundurulur.
 
 **Taksirle yaralama**
 
@@ -1841,6 +1865,18 @@ Neden olmuşsa, birinci fıkraya göre belirlenen ceza, bir kat artırılır.
 \(4) Fiilin birden fazla kişinin yaralanmasına neden olması hâlinde, altı
 aydan üç yıla kadar hapis cezasına hükmolunur.
 
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1)   Bu fıkrada yer alan “ikinci” ibaresi, 31/3/2005 tarihli ve 5328
+sayılı Kanunun  5 inci  maddesiyle “üçüncü” şeklinde değiştirilmiş ve
+metne işlenmiştir. *
+
+*(2)   Bu madde başlığı “Daha az cezayı gerektiren haller” iken,
+31/3/2005 tarihli ve 5328 sayılı Kanunun  6 ncı  maddesiyle metne
+işlendiği şekilde değiştirilmiş, sözkonusu maddenin*  *birinci fıkrası
+metinden çıkarılmış, ikinci fıkra birinci fıkra olarak teselsül
+ettirilmiştir.*
+
 \(5) Bilinçli taksir hâli hariç olmak üzere, bu maddenin kapsamına giren
 suçların soruşturulması ve kovuşturulması şikâyete bağlıdır.
 
@@ -1877,7 +1913,21 @@ bağlı bulunmaması,
 
 Gerekir.
 
-\(3) Çocuklar üzerinde bilimsel deney hiçbir surette yapılmaz.
+\(3) **(Değişik: 31/3/2005 – 5328/7 md.)** Çocuklar üzerinde bilimsel
+deneyin ceza sorumluluğunu gerektirmemesi için ikinci fıkrada aranan
+koşulların yanı sıra;
+
+ a) Yapılan deneyler sonucunda ulaşılan bilimsel verilerin, varılmak
+istenen hedefe ulaşmak açısından bunların çocuklar üzerinde de
+yapılmasını gerekli kılması,
+
+ b) Rıza açıklama yeteneğine sahip çocuğun kendi rızasının yanı sıra ana
+ve babasının veya vasisinin yazılı muvafakatinin de alınması,
+
+ c) Deneyle ilgili izin verecek yetkili kurullarda çocuk sağlığı ve
+hastalıkları uzmanının bulunması,
+
+Gerekir.
 
 \(4) Hasta olan insan üzerinde rıza olmaksızın tedavi amaçlı denemede
 bulunan kişi, bir yıla kadar hapis cezası ile cezalandırılır. Ancak,
@@ -2398,15 +2448,17 @@ rızasına aykırı olarak giren veya rıza ile girdikten sonra buradan
 çıkmayan kişi, mağdurun şikâyeti üzerine, altı aydan iki yıla kadar
 hapis cezası ile cezalandırılır.
 
-\(2) Evlilik birliğinde aile bireylerinden veya konutun birden fazla kişi
-tarafından ortak kullanılması durumunda bu kişilerden birinin rızası
-varsa, yukarıdaki fıkra hükmü uygulanmaz. Ancak bunun için rıza
-açıklamasının meşru bir amaca yönelik olması gerekir.
+\(2) **(Değişik: 31/3/2005 – 5328/8 md.)** Birinci fıkra kapsamına giren
+fiillerin, açık bir rızaya gerek duyulmaksızın girilmesi mutat olan
+yerler dışında kalan işyerleri ve eklentileri hakkında işlenmesi
+hâlinde, mağdurun şikâyeti üzerine altı aydan bir yıla kadar hapis veya
+adlî para cezasına hükmolunur.
 
-\(3) Birinci fıkra kapsamına giren fiillerin, açık bir rızaya gerek
-duyulmaksızın girilmesi mutat olan yerler dışında kalan işyerleri ve
-eklentileri hakkında işlenmesi hâlinde, altı aydan bir yıla kadar hapis
-veya adlî para cezasına hükmolunur.
+\(3) **(Değişik: 31/3/2005 – 5328/8 md**.) Evlilik birliğinde aile
+bireylerinden ya da konutun veya işyerinin birden fazla kişi tarafından
+ortak kullanılması durumunda, bu kişilerden birinin rızası varsa,
+yukarıdaki fıkralar hükümleri uygulanmaz. Ancak bunun için rıza
+açıklamasının meşru bir amaca yönelik olması gerekir.
 
 \(4) Fiilin, cebir veya tehdit kullanılmak suretiyle ya da gece vakti
 işlenmesi hâlinde, bir yıldan üç yıla kadar hapis cezasına hükmolunur.
@@ -4258,9 +4310,9 @@ Ekonomi, Sanayi ve Ticarete İlişkin Suçlar
 =========================
 
 **MADDE 235. -** (1) Kamu kurum veya kuruluşları adına yapılan mal veya
-hizmet alım veya satımlarına ya da kiralamalara ilişkin ihalelere fesat
-karıştıran kişi, beş yıldan oniki yıla kadar hapis cezası ile
-cezalandırılır.
+hizmet alım veya satımlarına ya da kiralamalara ilişkin ihaleler ile
+yapım ihalelerine fesat karıştıran kişi, beş yıldan oniki yıla kadar
+hapis cezası ile cezalandırılır. ^(1)^
 
 \(2) Aşağıdaki hâllerde ihaleye fesat karıştırılmış sayılır:
 
@@ -4274,6 +4326,12 @@ ihaleye katılmasını sağlamak,
 
 3\. Teklif edilen malları, şartnamesinde belirtilen niteliklere sahip
 olduğu hâlde, sahip olmadığından bahisle değerlendirme dışı bırakmak,
+
+\_\_\_\_\_\_\_\_\_
+
+*(1) Bu fıkrada yer alan "ihalelere" ibaresi,  31/3/2005 tarihli ve 5328
+sayılı Kanunun 9 uncu  maddesiyle "ihaleler ile yapım ihalelerine"
+şeklinde değiştirilmiştir ve metne işlenmiştir.*
 
 4\. Teklif edilen malları, şartnamesinde belirtilen niteliklere sahip
 olmadığı hâlde, sahip olduğundan bahisle değerlendirmeye almak.
@@ -6041,10 +6099,28 @@ b)    “Çevrenin kasten kirletilmesi” başlıklı 181 inci maddesinin
 birinci fıkrası ile “Çevrenin taksirle kirletilmesi” başlıklı 182 nci
 maddesinin birinci fıkrası yayımı tarihinden itibaren iki yıl sonra,
 
-c)     Diğer hükümleri 1 Nisan 2005 tarihinde,
+c)     Diğer hükümleri 1 Haziran 2005 tarihinde, ^(1)^
 
 Yürürlüğe girer.
 
 **Yürütme **
 
 **MADDE 345. -** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1)    Bu bentte yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
+5328 sayılı Kanunun  Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+**5237 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN/ANAYASA
+MAHKEMESİ KARARININ **
+
+**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+
+  -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
+  **Değiştiren Kanun No.**   **Değiştiren Kanun/An. MahkemeKararının Yürürlüğe giriş tarihi**   **Anayasa Mahkemesi Karar Tarih/No.**   **5237 sayılı Kanunun değiştirilen maddeleri**
+  5328                       31/3/2005                                                                                                  59,62,85,86,87,88,90,116,235,344
+  -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
+
+
