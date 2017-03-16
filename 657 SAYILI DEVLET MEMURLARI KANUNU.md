@@ -1,6 +1,4 @@
-**6514 sayılı Kanun ile değişik hali**
-
- 
+**6518 sayılı Kanun ile değişik hali **
 
  
 
@@ -2896,71 +2894,74 @@ olarak belirlenen illerde görevli olanlara % 60'ı,
 
 4206
 
- 
+b\) Kalkınmada 1 inci derecede öncelikli yörelerde görevli olanlara %
+50'si,
 
-             b) Kalkınmada 1 inci derecede öncelikli yörelerde görevli
-olanlara % 50'si,
+c\) Kalkınmada 2 nci derecede öncelikli yörelerde görevli olanlara %
+25'i,
 
-             c) Kalkınmada 2 nci derecede öncelikli yörelerde görevli
-olanlara % 25'i,
+kurumlarınca kadro tasarrufundan ödenir.
 
-             kurumlarınca kadro tasarrufundan ödenir.
+Eşleri diğer yörelerde görevli olanlar ise ücretsiz izinli sayılır.
 
-             Eşleri diğer yörelerde görevli olanlar ise ücretsiz izinli
-sayılır.
-
-             **(Ek: 9/4/1990 - KHK - 418/5 md.; İptal: Ana. Mah.'nin
-5/2/1992 tarih ve E. 1990/22, K. 1992/6 Sayılı Kararı ile; yeniden
-düzenleme: 18/5/1994 - KHK/527/5 md.)** Yukarıda sayılanların kadroları
-eşlerinin görevlendirme süresiyle sınırlı olarak saklı tutulur. Ancak,
-bu süre memuriyet boyunca 4 yılı hiç bir surette geçemez. Bunların
-kademe ilerlemesi;emeklilik ve diğer bütün hakları ve yükümlülükleri
-devam eder. Ancak ücretsiz izin verilenlerin bu sürelerinin emeklilikten
+**(Ek: 9/4/1990 - KHK - 418/5 md.; İptal: Ana. Mah.'nin 5/2/1992 tarih
+ve E. 1990/22, K. 1992/6 Sayılı Kararı ile; yeniden düzenleme: 18/5/1994
+- KHK/527/5 md.)** Yukarıda sayılanların kadroları eşlerinin
+görevlendirme süresiyle sınırlı olarak saklı tutulur. Ancak, bu süre
+memuriyet boyunca 4 yılı hiç bir surette geçemez. Bunların kademe
+ilerlemesi;emeklilik ve diğer bütün hakları ve yükümlülükleri devam
+eder. Ancak ücretsiz izin verilenlerin bu sürelerinin emeklilikten
 sayılabilmesi için kesenek ve kurum karşılıklarının her ay kendileri
 tarafından T.C. Emekli Sandığına yatırılması gerekir.
 
-             **(Değişik: 29/11/1984 - KHK - 243/13 md.)** Memurların
-atanamayacakları yerler ve bu yerlerdeki görevler ile kurumların özellik
-arz eden görevlerine atanabilmeleri için hangi kademelerde ne kadar
-hizmet etmeleri gerektiği ve yer değiştirme ile ilgili atama esasları
-Devlet Personel Başkanlığınca hazırlanacak bir yönetmelikle belirlenir.
+**(Ek fıkra: 6/2/2014-6518/10 md.)** İlgili mevzuatı uyarınca verilecek
+rapora göre kendisi, eşi veya birinci derece kan hısımlığı bulunan
+bakmakla yükümlü olduğu aile fertleri engelli olan memurların engellilik
+durumundan kaynaklanan yer değiştirme taleplerinin karşılanması için
+düzenlemeler yapılır.
+
+**(Değişik: 29/11/1984 - KHK - 243/13 md.)** Memurların atanamayacakları
+yerler ve bu yerlerdeki görevler ile kurumların özellik arz eden
+görevlerine atanabilmeleri için hangi kademelerde ne kadar hizmet
+etmeleri gerektiği ve yer değiştirme ile ilgili atama esasları Devlet
+Personel Başkanlığınca hazırlanacak bir yönetmelikle belirlenir.
 Kurumlar atamaya tabi olacak personeli için bu yönetmelik esaslarına
 göre Devlet Personel Başkanlığının görüşünü almak suretiyle bir personel
 ve atama planı hazırlar.
 
-             Karşılıklı olarak yer değiştirme:
+*Karşılıklı olarak yer değiştirme:*
 
-**             Madde 73 – (Değişik: 30/5/1974 - KHK/12; Aynen kabul;
-15/5/1975 - 1897/1 md.) **
+**Madde 73 – (Değişik: 30/5/1974 - KHK/12; Aynen kabul; 15/5/1975 -
+1897/1 md.) **
 
-             Aynı Kurumun başka başka yerlerde bulunan aynı sınıftaki
-memurları, karşılıklı olarak yer değiştirme suretiyle atanmalarını
-isteyebilirler. Bu isteğin yerine getirilmesi atamaya yetkili
-amirlerince uygun bulunmasına bağlıdır.
+Aynı Kurumun başka başka yerlerde bulunan aynı sınıftaki memurları,
+karşılıklı olarak yer değiştirme suretiyle atanmalarını isteyebilirler.
+Bu isteğin yerine getirilmesi atamaya yetkili amirlerince uygun
+bulunmasına bağlıdır.
 
-             Memurların bir kurumdan diğerine nakilleri:
+*Memurların bir kurumdan diğerine nakilleri:*
 
-**             Madde 74 – (Değişik: 30/5/1974 - KHK/12; Değiştirilerek
-kabul: 15/5/1975 - 1897/1 md.)**
+**Madde 74 – (Değişik: 30/5/1974 - KHK/12; Değiştirilerek kabul:
+15/5/1975 - 1897/1 md.)**
 
-             Memurların bu Kanuna tabi kurumlar arasında, kurumların
-muvafakatı ile kazanılmış hak dereceleri üzerinden veya 68 inci
-maddedeki esaslar çerçevesinde derece yükselmesi suretiyle, bulundukları
-sınıftan veya öğrenim durumları itibariyle girebilecekleri sınıftan, bir
-kadroya nakilleri mümkündür. Kazanılmış hak derecelerinin altındaki
-derecelere atanabilmeleri için ise atanacakları kadro derecesi ile
-kazanılmış hak dereceleri arasındaki farkın 3 dereceden çok olmaması ve
-memurların isteği de şarttır.
+Memurların bu Kanuna tabi kurumlar arasında, kurumların muvafakatı ile
+kazanılmış hak dereceleri üzerinden veya 68 inci maddedeki esaslar
+çerçevesinde derece yükselmesi suretiyle, bulundukları sınıftan veya
+öğrenim durumları itibariyle girebilecekleri sınıftan, bir kadroya
+nakilleri mümkündür. Kazanılmış hak derecelerinin altındaki derecelere
+atanabilmeleri için ise atanacakları kadro derecesi ile kazanılmış hak
+dereceleri arasındaki farkın 3 dereceden çok olmaması ve memurların
+isteği de şarttır.
 
-             Aşağı dereceye atananların 68 inci maddede yazılı süre
-kaydı aranmaksızın eski derecelerine tekrar atanmaları caizdir.
+Aşağı dereceye atananların 68 inci maddede yazılı süre kaydı
+aranmaksızın eski derecelerine tekrar atanmaları caizdir.
 
-             Kazanılmış hak derecelerinden aşağı derecelere atananların
-aylık derece ve kademeleri genel hükümlere göre tespit edilmekle
-beraber, atandıkları bu derecelerde geçirdikleri süreler (kesenek ve
-karşılık farklarının kendileri tarafından her ay T.C. Emekli Sandığına
-gönderilmesini kabul etmeleri şartiyle) emeklilik yönünden eski
-derecelerinde değerlendirilir.
+Kazanılmış hak derecelerinden aşağı derecelere atananların aylık derece
+ve kademeleri genel hükümlere göre tespit edilmekle beraber, atandıkları
+bu derecelerde geçirdikleri süreler (kesenek ve karşılık farklarının
+kendileri tarafından her ay T.C. Emekli Sandığına gönderilmesini kabul
+etmeleri şartiyle) emeklilik yönünden eski derecelerinde
+değerlendirilir.
 
 4207
 
@@ -13662,44 +13663,54 @@ fıkraları                                
 
 **GÖSTERİR LİSTE**
 
-  -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- ----------------------------------------------
+  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------ ----------------------------------------------
+  **Değiştiren **                                                              **657 sayılı Kanunun değişen veya yürürlükten kaldırılan maddeleri**                                         **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                                                            
+  **Kanunun/ KHK.’nin**                                                                                                                                                                     
+                                                                                                                                                                                            
+  **Numarası**                                                                                                                                                                              
+
+  6253                                                                         36, Ek Madde 41, Geçici madde 39                                                                             18/12/2011
+
+  6291                                                                         II Sayılı cetvel                                                                                             11/4/2012
+
+  6318                                                                         36, 122                                                                                                      3/6/2012
+
+  6328                                                                         36                                                                                                           29/6/2012
+
+  6331                                                                         II Sayılı cetvel                                                                                             30/6/2012
+
+  6332                                                                         36, 152, I Sayılı cetvel                                                                                     30/6/2012
+
+  6353                                                                         59                                                                                                           12/7/2012
+
+  6354                                                                         88                                                                                                           12/7/2012
+
+  6338                                                                         156                                                                                                          1/1/2013
+
+  6428                                                                         68, Geçici Madde 40                                                                                          9/3/2013
+
+  6458                                                                         36, 152, (I) sayılı cetvel,                                                                                  11/4/2013
+
+  6462                                                                         53, 100, 101, Ek Madde 39                                                                                    3/5/2013
+
+  6487                                                                         II Sayılı cetvel                                                                                             11/6/2013
+
+  Anayasa                                                                      28 inci maddenin birinci fıkrasının son cümlesi ile ikinci fıkrası                                           1/1/2013 tarihinden başlayarak altı ay sonra
+                                                                                                                                                                                            
+  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                                                                (1/7/2013)
+
+  6495                                                                         36, 86, 101, 152, Ek Madde 40, 41, Geçici Madde 39, 41, I sayılı Cetvel, IV sayılı Makam Tazminatı Cetveli   2/8/2013
+  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------ ----------------------------------------------
+
+4290-6
+
+  -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- --------------------------------------
   **Değiştiren **                                                                        **657 sayılı Kanunun değişen veya yürürlükten kaldırılan maddeleri**   **Yürürlüğe Giriş Tarihi**
                                                                                                                                                                 
   **Kanunun/ KHK.’nin**                                                                                                                                         
                                                                                                                                                                 
   **Numarası**                                                                                                                                                  
-
-  6253                                                                                   36, Ek Madde 41, Geçici madde 39                                       18/12/2011
-
-  6291                                                                                   II Sayılı cetvel                                                       11/4/2012
-
-  6318                                                                                   36, 122                                                                3/6/2012
-
-  6328                                                                                   36                                                                     29/6/2012
-
-  6331                                                                                   II Sayılı cetvel                                                       30/6/2012
-
-  6332                                                                                   36, 152, I Sayılı cetvel                                               30/6/2012
-
-  6353                                                                                   59                                                                     12/7/2012
-
-  6354                                                                                   88                                                                     12/7/2012
-
-  6338                                                                                   156                                                                    1/1/2013
-
-  6428                                                                                   68, Geçici Madde 40                                                    9/3/2013
-
-  6458                                                                                   36, 152, (I) sayılı cetvel,                                            11/4/2013
-
-  6462                                                                                   53, 100, 101, Ek Madde 39                                              3/5/2013
-
-  6487                                                                                   II Sayılı cetvel                                                       11/6/2013
-
-  Anayasa                                                                                28 inci maddenin birinci fıkrasının son cümlesi ile ikinci fıkrası     1/1/2013 tarihinden başlayarak altı ay sonra
-                                                                                                                                                                
-  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                                    (1/7/2013)
-
-  6495                                                                                   36, 86, 101, 152, Ek Madde 41, Geçici Madde 39, 41, I sayılı Cetvel    2/8/2013
 
   Anayasa                                                                                \(II) sayılı Ek Gösterge cetveli                                       8/10/2013 tarihinden altı ay sonra
                                                                                                                                                                 
@@ -13712,6 +13723,8 @@ fıkraları                                
                                                                                                                                                                 (30/9/2014)
 
   6514                                                                                   28, Ek Madde 33                                                        18/1/2014
-  -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- ----------------------------------------------
+
+  6518                                                                                   72                                                                     19/2/2014
+  -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- --------------------------------------
 
 
