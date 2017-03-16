@@ -1,4 +1,4 @@
-26/2/2008 tarihli ve 5739 sayılı Kanunla değişik
+30/4/2008 tarihli ve 5759 sayılı Kanunla değişik
 
 TÜRK CEZA KANUNU^(1)^
 
@@ -5622,7 +5622,8 @@ hapis cezası ile cezalandırılır.
 tarafından işlenmesi hâlinde, verilecek ceza üçte bir oranında
 artırılır.
 
-**Türklüğü, Cumhuriyeti, Devletin kurum ve organlarını aşağılama **
+Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını aşağılama ^(1)^
+============================================================================================
 
 **MADDE 301. -** (1) Türklüğü, Cumhuriyeti veya Türkiye Büyük Millet
 Meclisini alenen aşağılayan kişi, altı aydan üç yıla kadar hapis cezası
@@ -5679,6 +5680,12 @@ hükümlere göre cezaya hükmolunur.
 \(4) Savaş zamanında düşman devlet toprağında bulunup da bu devlet
 ordusunda hizmete alınmak mecburiyetinde kalan vatandaş hakkında, bu
 nedenle cezaya hükmolunmaz.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 30/4/2008 tarihli ve 5759 sayılı Kanunun 1 inci maddesiyle bu madde
+başlığı “Türklüğü, Cumhuriyeti, Devletin kurum ve organlarını aşağılama”
+iken metne işlendiği şekilde değiştirilmiştir.*
 
 Devlete karşı savaşa tahrik 
 ============================
@@ -6352,6 +6359,7 @@ MAHKEMESİ KARARININ **
   5377                       8/7/2005                                                                                                   4, 7, 13, 30, 31, 43, 61, 66, 82, 84, 87, 103, 105, 107, 125, 145, 150, 155, 158, 168, 184, 188, 190, 191, 218, 221, 245, 252, 263, 268, 269, 288, 292, 293, 299, 302, 304, 305
   5560                       19/12/2006                                                                                                 61,73,80,87,89,142,191,221,227,234,245 ve İşlenemeyen Hüküm
   5739                       1/3/2008                                                                                                   50
+  5759                       8/5/2008                                                                                                   301
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
