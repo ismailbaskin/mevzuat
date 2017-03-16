@@ -1,4 +1,4 @@
-**21/6/2005 tarihli ve 5370 sayılı Kanun ile değişik hali**
+**29/10/2005 tarihli ve 5428 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -2554,9 +2554,9 @@ dışında kalan makamlarca her ne suretle olursa olsun görevlerinden
 uzaklaştırılamazlar.
 
 Üniversitelerin hazırladığı bütçeler; Yükseköğretim Kurulunca tetkik ve
-onaylandıktan sonra Millî Eğitim Bakanlığına sunulur ve genel ve katma
-bütçelerin bağlı olduğu esaslara uygun olarak işleme tâbi tutularak
-yürürlüğe konulur ve denetlenir.
+onaylandıktan sonra Millî Eğitim Bakanlığına sunulur ve merkezi yönetim
+bütçesinin bağlı olduğu esaslara uygun olarak işleme tâbi tutularak
+yürürlüğe konulur ve denetlenir. ^(1)^
 
 Yükseköğretim kurumlarının kuruluş ve organları ile işleyişleri ve
 bunların seçimleri, görev, yetki ve sorumlulukları üniversiteler
@@ -2604,7 +2604,7 @@ düzenlenir.
 yükseköğretim kurumları özel kanunlarının hükümlerine tabidir.
 
 *F. Radyo ve Televizyon Üst Kurulu, radyo ve televizyon kuruluşları ve
-kamuyla ilişkili haber ajansları ^(1)^*
+kamuyla ilişkili haber ajansları ^(2)^*
 
 **Madde 133 – (Değişik: 8/7/1993-3913/1 md.)**
 
@@ -2637,7 +2637,11 @@ Kültür, Dil ve Tarih Yüksek Kurumu" kurulur.
 
 ––––––––––––––––
 
-*(1) Bu madde başlığı “F. Radyo ve Televizyon İdaresi ve kamuyla
+*(1) 29/10/2005 tarihli ve 5428 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “genel ve katma bütçelerin” ibaresi “merkezi yönetim
+bütçesinin” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+*(2) Bu madde başlığı “F. Radyo ve Televizyon İdaresi ve kamuyla
 ilişkili haber ajansları” iken, 8/7/1993 tarihli ve 3913 sayılı Kanunun
 1 inci maddesiyle F. Radyo ve televizyon kuruluşları ve kamuyla ilişkili
 haber ajansları şeklinde, daha sonra 21/6/2005 tarihli ve 5370 sayılı
@@ -3171,24 +3175,36 @@ aksamaması için hâkim ve savcıları geçici yetki ile görevlendirebilir.
 
 *IV. Sayıştay*
 
-**Madde 160 – **Sayıştay, genel ve katma bütçeli dairelerin bütün gelir
-ve giderleri ile mallarını Türkiye Büyük Millet Meclisi adına denetlemek
-ve sorumluların hesap ve işlemlerini kesin hükme bağlamak ve kanunlarla
-verilen inceleme, denetleme ve hükme bağlama işlerini yapmakla
-görevlidir. Sayıştayın kesin hükümleri hakkında ilgililer yazılı
-bildirim tarihinden itibaren onbeş gün içinde bir kereye mahsus olmak
-üzere karar düzeltilmesi isteminde bulunabilirler. Bu kararlar
-dolayısıyla idarî yargı yoluna başvurulamaz.
+**Madde 160 – **Sayıştay, merkezî yönetim bütçesi kapsamındaki kamu
+idareleri ile sosyal güvenlik kurumlarının bütün gelir ve giderleri ile
+mallarını Türkiye Büyük Millet Meclisi adına denetlemek ve sorumluların
+hesap ve işlemlerini kesin hükme bağlamak ve kanunlarla verilen
+inceleme, denetleme ve hükme bağlama işlerini yapmakla görevlidir.
+Sayıştayın kesin hükümleri hakkında ilgililer yazılı bildirim tarihinden
+itibaren onbeş gün içinde bir kereye mahsus olmak üzere karar
+düzeltilmesi isteminde bulunabilirler. Bu kararlar dolayısıyla idarî
+yargı yoluna başvurulamaz. ^(1)^
 
 Vergi, benzeri malî yükümlülükler ve ödevler hakkında Danıştay ile
 Sayıştay kararlan arasındaki uyuşmazlıklarda Danıştay kararları esas
 alınır.
+
+**(Ek fıkra: 29/10/2005-5428/2 md.)** Mahallî idarelerin hesap ve
+işlemlerinin denetimi ve kesin hükme bağlanması Sayıştay tarafından
+yapılır.
 
 Sayıştayın kuruluşu, işleyişi, denetim usulleri, mensuplarının
 nitelikleri, atanmaları, ödev ve yetkileri, hakları ve yükümlülükleri ve
 diğer özlük işleri, Başkan ve üyelerinin teminatı kanunla düzenlenir.
 
 **(Mülga son fıkra: 7/5/2004-5170/10 md.)**
+
+**––––––––––––––––––––––**
+
+*(1)* *29/10/2005 tarihli ve 5428 sayılı Kanunun 2 nci maddesiyle, bu
+fıkrada yer alan “genel ve katma bütçeli dairelerin” ibaresi “merkezî
+yönetim bütçesi kapsamındaki kamu idareleri ile sosyal güvenlik
+kurumlarının” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 DÖRDÜNCÜ KISIM
 
@@ -3205,8 +3221,9 @@ BİRİNCİ BÖLÜM
 **Madde 161 – **Devletin ve kamu iktisadi teşebbüsleri dışındaki kamu
 tüzel kişilerinin harcamaları, yıllık bütçelerle yapılır.
 
-Malî yıl başlangıcı ile genel ve katma bütçelerin nasıl hazırlanacağı ve
-uygulanacağı kanunla belirlenir.
+**(Değişik ikinci fıkra: 29/10/2005-5428/3 md.)** Malî yıl başlangıcı
+ile merkezi yönetim bütçesinin hazırlanması, uygulanması ve kontrolü
+kanunla düzenlenir.
 
 Kanun, kalkınma planları ile ilgili yatırımlar veya bir yıldan fazla
 sürecek iş ve hizmetler için özel süre ve usuller koyabilir.
@@ -3216,9 +3233,9 @@ konulamaz.
 
 *B. Bütçenin görüşülmesi*
 
-**Madde 162 – **Bakanlar Kurulu, genel ve katma bütçe tasarıları ile
+**Madde 162 – **Bakanlar Kurulu, merkezî yönetim bütçe tasarısı ile
 millî bütçe tahminlerini gösteren raporu, malî yıl başından en az
-yetmişbeş gün önce, Türkiye Büyük Millet Meclisine sunar.
+yetmişbeş gün önce, Türkiye Büyük Millet Meclisine sunar. ^(1)^
 
 Bütçe tasarıları ve rapor, kırk üyeden kurulu Bütçe Komisyonunda
 incelenir. Bu komisyonun kuruluşunda, iktidar grubuna veya gruplarına en
@@ -3228,10 +3245,11 @@ bağımsızların oranlarına göre temsili göz önünde tutulur.
 Bütçe Komisyonunun ellibeş gün içinde kabul edeceği metin, Türkiye Büyük
 Millet Meclisinde görüşülür ve malî yıl başına kadar karara bağlanır.
 
-Türkiye Büyük Millet Meclisi üyeleri, Genel Kurulda, bakanlık ve daire
-bütçeleriyle katma bütçeler hakkında düşüncelerini, her bütçenin tümü
-üzerindeki görüşmeler sırasında açıklarlar; bölümler ve değişiklik
-önergeleri, üzerinde ayrıca görüşme yapılmaksızın okunur ve oya konur.
+**(Değişik dördüncü fıkra: 29/10/2005-5428/4 md.)** Türkiye Büyük Millet
+Meclisi üyeleri, Genel Kurulda, kamu idare bütçeleri hakkında
+düşüncelerini, her bütçenin tümü üzerindeki görüşmeler sırasında
+açıklarlar; bölümler ve değişiklik önergeleri, üzerinde ayrıca görüşme
+yapılmaksızın okunur ve oylanır.
 
 Türkiye Büyük Millet Meclisi üyeleri, bütçe kanunu tasarılarının Genel
 Kurulda görüşülmesi sırasında, gider artırıcı veya gelirleri azaltıcı
@@ -3239,14 +3257,25 @@ Kurulda görüşülmesi sırasında, gider artırıcı veya gelirleri azaltıcı
 
 *C. Bütçelerde değişiklik yapılabilme esasları *
 
-**Madde 163 – **Genel ve katma bütçelerle verilen ödenek, harcanabilecek
-miktarın sınırını gösterir. Harcanabilecek miktar sınırının Bakanlar
-Kurulu kararıyla aşılabileceğine dair bütçelere hüküm konulamaz.
-Bakanlar Kuruluna kanun hükmünde kararname ile bütçede değişiklik yapmak
-yetkisi verilemez. Carî yıl bütçesindeki ödenek artışını öngören
-değişiklik tasarılarında ve carî ve ileriki yıl bütçelerine malî yük
-getirecek nitelikteki kanun tasarı ve tekliflerinde, belirtilen
-giderleri karşılayabilecek malî kaynak gösterilmesi zorunludur.
+**Madde 163 – **Merkezî yönetim bütçesiyle verilen ödenek,
+harcanabilecek miktarın sınırını gösterir. Harcanabilecek miktar
+sınırının Bakanlar Kurulu kararıyla aşılabileceğine dair bütçelere hüküm
+konulamaz. Bakanlar Kuruluna kanun hükmünde kararname ile bütçede
+değişiklik yapmak yetkisi verilemez. Carî yıl bütçesindeki ödenek
+artışını öngören değişiklik tasarılarında ve carî ve ileriki yıl
+bütçelerine malî yük getirecek nitelikteki kanun tasarı ve
+tekliflerinde, belirtilen giderleri karşılayabilecek malî kaynak
+gösterilmesi zorunludur. ^(2)^
+
+–––––––––––––––––––––
+
+*(1) 29/10/2005 tarihli ve 5428 sayılı Kanunun 4 üncü maddesiyle, bu
+fıkrada yer alan “genel ve katma bütçe tasarıları” ibaresi “merkezî
+yönetim bütçe tasarısı” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+*(2) 29/10/2005 tarihli ve 5428 sayılı Kanunun 5 inci maddesiyle, bu
+fıkrada yer alan “genel ve katma bütçelerle” ibaresi “merkezî yönetim
+bütçesiyle” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 *D. Kesinhesap*
 
@@ -3818,6 +3847,11 @@ halkoylamasına sunulması halinde tümüyle oylanır.
 **Madde 2** — Bu Kanun yayımı tarihinde yürürlüğe girer ve
 halkoylamasına sunulması halinde oylanır.
 
+**8- 29/10/2005 tarihli ve 5428 sayılı Kanunun 6 ncı Maddesi:**
+
+Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması
+halinde tümüyle oylanır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
@@ -3852,6 +3886,8 @@ halkoylamasına sunulması halinde oylanır.
                          İşlenemeyen Hüküm                                                                                                                                                                       
 
   5370                   133, İşlenemeyen Hüküm                                                                                                                                                                  23/6/2005
+
+  5428                   130, 160, 161, 162, 163, İşlenemeyen Hüküm                                                                                                                                              9/11/2005
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
