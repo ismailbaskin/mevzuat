@@ -1,5 +1,4 @@
-**Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154
-sayılı Kararı**
+**6456 sayılı Kanun ile değişik hali**
 
 **TÜRK CEZA KANUNU ^(1)^**
 
@@ -7,9 +6,9 @@ sayılı Kararı**
 
 **Kabul Tarihi : 26/9/2004**
 
-**Yayımlandığı R. Gazete : Tarih : 12/10/2004 Sayı :25611 **
+**Yayımlandığı R.Gazete : Tarih : 12/10/2004 Sayı :25611 **
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 43 **
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 43 Sayfa:**
 
 BİRİNCİ KİTAP
 
@@ -3242,10 +3241,10 @@ kredinin açılmasını sağlamak maksadıyla,
 k\) Sigorta bedelini almak maksadıyla,
 
 İşlenmesi halinde, iki yıldan yedi yıla kadar hapis ve beşbin güne kadar
-adlî para cezasına hükmolunur. **(Ek cümle: 29/6/2005 – 5377/19 md.)**
-Ancak, (e), (f) ve (j) bentlerinde sayılan hâllerde hapis cezasının alt
-sınırı üç yıldan, adlî para cezasının miktarı suçtan elde edilen
-menfaatin iki katından az olamaz.
+adlî para cezasına hükmolunur. **(Ek cümle: 29/6/2005 – 5377/19 md.;
+Değişik: 3/4/2013-6456/40 md.)** Ancak, (e), (f), (j) ve (k) bentlerinde
+sayılan hâllerde hapis cezasının alt sınırı üç yıldan, adli para
+cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
@@ -6517,6 +6516,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6217                                                                                   191                                                                                                                                                                               14/4/2011
   6352                                                                                   132, 133, 134, 141, 142, 163, 168, 220, 250, 252, 254, 255,257, 277, 278, 285, 288                                                                                                5/7/2012
   Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154 sayılı Kararı   267 nci maddenin yedinci fıkrası                                                                                                                                                  17/3/2013
+  6456                                                                                   158                                                                                                                                                                               18/4/2013
   -------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
 
 
