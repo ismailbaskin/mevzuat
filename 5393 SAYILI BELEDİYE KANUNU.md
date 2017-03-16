@@ -1,4 +1,4 @@
-53963 sayılı Kanunun 5766 sayılı Kanun ile Değişik Hali
+5393 sayılı Kanunun 5793 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -1281,7 +1281,13 @@ personel hakkında bu Kanunla düzenlenmeyen hususlarda vize şartı
 aranmaksızın 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B)
 fıkrasına göre istihdam edilenler hakkındaki hükümler uygulanır. Bu
 personele ait sözleşme örnekleri sözleşmenin imzalanmasını izleyen 30
-gün içinde İçişleri Bakanlığına ve Maliye Bakanlığına gönderilir.
+gün içinde İçişleri Bakanlığına gönderilir.*^(1)^*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesi ile bu
+fıkrada yer alan "İçişleri Bakanlığına ve Maliye Bakanlığına" ibaresi
+"İçişleri Bakanlığına" şeklinde değiştirilmiştir.*
 
 Kamu kurum ve kuruluşlarında istihdam edilen memurlar, belediye
 başkanının talebi, kendilerinin ve kurumlarının muvafakatiyle,
@@ -1790,17 +1796,7 @@ ilgili mevzuatta belirtilen usûllere göre şirket kurabilir.
 
 **Borç ve alacakların takas ve mahsubu**
 
-**MADDE 72. —** 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin
-Düzenlenmesi Hakkında Kanun kapsamındaki Hazine alacakları hariç olmak
-üzere belediyenin genel bütçeli kuruluşlardan, sosyal güvenlik
-kuruluşlarından, mahallî idarelerden ve diğer kamu kurum ve
-kuruluşlarından olan özel hukuk ve kamu hukukuna tâbi alacak ve borçları
-takas ve mahsup edilir. Bu amaçla kurum ve kuruluşların bütçelerine
-yeterli ve gerekli ödenek konur.
-
-Bu madde gereğince yapılacak takas ve mahsup işlemlerine ilişkin esas ve
-usûller, İçişleri Bakanlığının olumlu görüşü alınarak, Maliye Bakanlığı
-tarafından çıkarılacak bir yönetmelikle düzenlenir.
+**MADDE 72. — (Mülga: 24/7/2008-5793/47 md.)**
 
 **ALTINCI KISIM**
 
@@ -2235,7 +2231,7 @@ ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
 
   1.     5766                       6/6/2008                                      6/6/2008                                                          16
 
-  1.                                                                                                                                                
+  1.     5793                       6/8/2008                                      6/8/2008                                                          49, 72
 
   1.                                                                                                                                                
 
