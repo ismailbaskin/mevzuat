@@ -1,4 +1,4 @@
-**5797 sayılı Kanun ile değişik hali**
+**5838 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -330,10 +330,13 @@ b\) **(Değişik: 17/4/2008-5754/ 3 md.)** 5/6/1986 tarihli ve 3308 sayılı
 Meslekî Eğitim Kanununda belirtilen aday çırak, çırak ve işletmelerde
 meslekî eğitim gören öğrenciler hakkında iş kazası ve meslek hastalığı
 ile hastalık sigortası; meslek liselerinde okumakta iken veya yüksek
-öğrenimleri sırasında zorunlu staja tabi tutulan öğrenciler hakkında ise
-iş kazası ve meslek hastalığı sigortası uygulanır ve bu bentte
-sayılanlar, 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında
-sigortalı sayılırlar.
+öğrenimleri sırasında zorunlu staja tabi tutulan öğrenciler ile 2547
+sayılı Yükseköğretim Kanununun 46 ncı maddesine tabi olarak kısmi
+zamanlı çalıştırılan öğrencilerden aylık prime esas kazanç tutarı, 82
+nci maddeye göre belirlenen günlük prime esas kazanç alt sınırının otuz
+katından fazla olmayanlar hakkında ise iş kazası ve meslek hastalığı
+sigortası uygulanır ve bu bentte sayılanlar, 4 üncü maddenin birinci
+fıkrasının (a) bendi kapsamında sigortalı sayılırlar. ^(1)^
 
 c\) **(Değişik: 17/4/2008-5754/ 3 md.)** Harp malûlleri ile 12/4/1991
 tarihli ve 3713 sayılı Terörle Mücadele Kanunu, 3/11/1980 tarihli ve
@@ -410,6 +413,17 @@ rehabilite edilen, hasta veya malûller,
 h\) **(Değişik: 17/4/2008-5754/ 4 md.)** 4 üncü maddenin birinci
 fıkrasının (b) ve (c) bentleri gereği sigortalı sayılması gerekenlerden
 18 yaşını doldurmamış olanlar,
+
+––––––––––––––
+
+*(1) 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle, bu
+bentte yer alan “meslek liselerinde okumakta iken veya yüksek
+öğrenimleri sırasında zorunlu staja tabi tutulan öğrenciler” ibaresinden
+sonra gelmek üzere “ile 2547 sayılı Yükseköğretim Kanununun 46 ncı
+maddesine tabi olarak kısmi zamanlı çalıştırılan öğrencilerden aylık
+prime esas kazanç tutarı, 82 nci maddeye göre belirlenen günlük prime
+esas kazanç alt sınırının otuz katından fazla olmayanlar” ibaresi
+eklenmiş* *ve metne işlenmiştir.*
 
 ı) Kamu idareleri hariç olmak üzere, tarım işlerinde veya orman
 işlerinde hizmet akdiyle süreksiz işlerde çalışanlar ile tarımda kendi
@@ -5496,7 +5510,10 @@ Kanun gereğince sigortalılar ve hak sahiplerinin gelir, aylık ve
 hükümlerinin uygulanması sonucu Kurum nezdinde doğan alacakları, devir
 ve temlik edilemez. Gelir, aylık ve ödenekler; 88 inci maddeye göre
 takip ve tahsili gereken alacaklar ile nafaka borçları dışında
-haczedilemez.
+haczedilemez. **(Ek cümle: 18/2/2009-5838/32 md.)** Bu fıkraya göre
+haczi yasaklanan gelir, aylık ve ödeneklerin haczedilmesine ilişkin
+talepler, borçlunun muvafakati bulunmaması halinde, icra müdürü
+tarafından reddedilir.
 
 **(Değişik ikinci fıkra: 17/4/2008-5754/56 md.)** Kurumun prim ve diğer
 alacakları ödeme süresinin dolduğu tarihi takip eden takvim yılı
@@ -5701,11 +5718,19 @@ ile bakmakla yükümlü olduğu kişilerin, bu Kanunun uygulanması bakımından
 hak ettikleri alacaklarının süresi içinde ödenememesi halinde, avans
 verilmesine Kurum yetkilidir.
 
-**(Değişik yedinci fıkra: 17/4/2008-5754/57 md.)** Sağlık hizmeti
-sunucularına, tahakkuk etmiş alacaklarının % 75'i ilâ % 90'ı arasındaki
-tutar, faturaların teslim tarihinden itibaren en geç kırkbeş gün içinde
-alacaklarından mahsuben avans olarak ödenir. Doksan gün içinde de fatura
-ve eki belgelerin incelemesi tamamlanarak geri kalan tutar ödenir.
+**(Değişik yedinci fıkra: 18/2/2009-5838/2 md.)** Sağlık hizmeti
+sunucuları, sunmuş oldukları hizmetlere ilişkin bir ay içinde
+düzenledikleri fatura ve eki belgeleri izleyen ayın onbeşine kadar
+Kuruma teslim ederler. Fatura teslim tarihi; süresi içinde teslim edilen
+faturalar için teslim edildiği ayın onbeşinci günü, süresi içinde teslim
+edilmeyen faturalar için ise teslim edildiği ayı takip eden ayın
+onbeşinci günü olarak kabul edilir. Fatura bedelinin tamamı, fatura
+teslim tarihinden itibaren, altmış gün içinde, sağlık hizmet
+sunucularına avans olarak ödenir. Fatura ve eki belgeler, fatura teslim
+tarihinden itibaren üç ay içinde incelenerek avans hesabı kapatılır.
+İnceleme süresinin takip eden mali yıla sirayet etmesi durumunda, avans
+artıkları hakkında 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun
+35 inci maddesindeki akreditiflere ilişkin hükümler uygulanır.
 
 **(Ek fıkra: 17/4/2008-5754/57 md.)** 66 ncı madde gereği sağlanan
 sağlık hizmetlerinin bedelleri için, yurt dışında bulunan sağlık hizmet
@@ -5797,6 +5822,10 @@ sorunların ortadan kalktığı tarihi takip eden beşinci işgününün sonuna
 kadar belge veya bilgiyi gönderir ve muhteviyatı primleri de aynı sürede
 Kuruma öder ise bu yükümlülükleri Kanunda öngörülen sürede yerine
 getirmiş kabul edilir.
+
+**(Ek fıkra: 18/2/2009-5838/3 md.)** Üçüncü fıkra hükümleri çerçevesinde
+yetkilendirilen kamu idaresi, yetkilendirildiği hususlarla sınırlı
+olarak kendi mevzuatında yer alan yetkileri kullanabilir.
 
 Bu maddenin uygulanması ile ilgili usûl ve esaslar, Kurum tarafından
 çıkarılacak yönetmelikle düzenlenir.
@@ -6000,17 +6029,28 @@ tüzel kişiler hakkında, aylık asgari ücretin beş katı tutarında, geç
 verilmesi halinde ise aylık asgari ücretin iki katı tutarında idari para
 cezası uygulanır.
 
+j\) **(Ek: 18/2/2009-5838/4 md.)** 9 uncu maddesinin birinci fıkrasının
+(a) bendine göre sigortalılığı sona erenlere ilişkin bildirim ile 506
+sayılı Kanunun geçici 20 nci maddesinde yer alan sandıklara, sandık
+iştirakçiliğinin başlama veya sona ermesine ilişkin bildirimi, süresi
+içinde ya da Kurumca belirlenen şekle ve usule uygun olarak yapmayanlar
+veya Kurumca internet, elektronik veya benzeri ortamda göndermekle
+zorunlu tutulduğu halde anılan ortamda göndermeyenler hakkında, her bir
+sigortalı veya sandık iştirakçisi için asgari ücret tutarında idari para
+cezası uygulanır.
+
 Mahkeme kararına, Kurumun denetim ve kontrol ile görevlendirilmiş
 memurlarınca yapılan tespitler veya diğer kamu idarelerinin denetim
 elemanlarınca kendi mevzuatları gereğince yapacakları soruşturma,
 denetim ve incelemelere ya da kamu idarelerinden alınan belgelere
 istinaden düzenlenenler hariç olmak üzere, bildirgenin yasal süresi
 geçtikten sonra ilgililerce kendiliklerinden verilmesi halinde, bu
-maddenin birinci fıkrasının (a) ve (b) bentlerinde öngörülen cezalar
-üçte ikisi oranında uygulanır.
+maddenin birinci fıkrasının (b) bendinde öngörülen cezalar üçte ikisi
+oranında uygulanır. ^(1)^
 
-İdarî para cezası uygulanması 8 inci, 11 inci ve 86 ncı maddelerde
-belirtilen belgelerin Kuruma verilmesi yükümlülüğünü kaldırmaz.
+İdarî para cezası uygulanması 8 inci, 9 uncu, 11 inci ve 86 ncı
+maddelerde belirtilen belgelerin Kuruma verilmesi yükümlülüğünü
+kaldırmaz. ^(1)^
 
 İdarî para cezaları ilgiliye tebliğ ile tahakkuk eder. Tebliğ tarihinden
 itibaren onbeş gün içinde Kuruma ya da Kurumun ilgili hesaplarına
@@ -6072,6 +6112,13 @@ içinde tekrar sözleşme yapılmaz.
 nedenle bir başka kişiye sağlık hizmeti sunulması nedeniyle Kurumun
 zarara uğramasına sebebiyet veren sağlık hizmeti sunucularından
 uğranılan zarar geri alınır.
+
+–––––––––––––
+
+*(1) 18/2/2009 tarihli ve 5838 sayılı Kanunun 4 üncü maddesiyle, 102 nci
+maddenin ikinci fıkrasında yer alan “(a) ve (b) bentlerinde” ibaresi
+“(b) bendinde” olarak değiştirilmiş ve üçüncü fıkrasında geçen “8 inci,”
+ibaresinden sonra gelmek üzere “9 uncu,” ibaresi eklenmiştir.*
 
 **YEDİNCİ KISIM**
 
@@ -6265,6 +6312,30 @@ düzenleme yetkisine sahiptir.
 **İKİNCİ BÖLÜM**
 
 **Geçici ve Son Hükümler**
+
+**Kuruma yapılan bazı bildirimlerin yeterli sayılması**
+
+**EK MADDE 1 –** **(Ek: 18/2/2009-5838/5 md.)**
+
+İşverenler tarafından 8 inci, 9 uncu ve 11 inci maddelere göre Kuruma
+yapılan sigortalı ve işyerlerine ilişkin bildirimler; 5953 sayılı Basın
+Mesleğinde Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi
+Hakkında Kanunun 3 üncü maddesi, 2821 sayılı Sendikalar Kanununun 62 nci
+maddesi, 4447 sayılı İşsizlik Sigortası Kanununun 48 inci maddesi ve
+4857 sayılı İş Kanununun 3 üncü maddesi hükümleri uyarınca Bakanlık ile
+ilgili bölge müdürlüklerine ve Türkiye İş Kurumuna yapılması gereken
+bildirimlerin yerine geçer.
+
+Ticaret sicili memurluklarınca işyeri tesciline ilişkin Kuruma yapılan
+bildirimlerin dışında, ayrıca Bakanlık ilgili bölge müdürlüğüne
+bildirimde bulunulmaz.
+
+Geçici 20 nci maddede belirtilen sandıklar, Kuruma devir tarihine kadar
+iştirakçilerinin sandıkla ilgilerinin başlama ve sona ermesine ilişkin
+bildirimlerini en geç on gün içinde Kuruma yaparlar.
+
+Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça çıkarılacak
+yönetmelikle belirlenir.
 
 **Malûllük, yaşlılık ve ölüm sigortasına ilişkin bazı geçiş hükümleri**
 
@@ -7233,6 +7304,11 @@ görevlerinden emekliye ayrılanlar hakkında, bu Kanunla yürürlükten
 kaldırılan hükümleri de dahil 5434 sayılı Kanun hükümlerine göre işlem
 yapılır.
 
+**(Ek fıkra: 18/2/2009-5868/32 md.)** 2925 sayılı Tarım İşçileri Sosyal
+Sigortalar Kanununa göre yaşlılık aylığı almakta iken çalışmaya
+başlayanların aylıkları kesilmez ve bunlar hakkında da bu maddenin
+sosyal güvenlik destek primi alınmasına ilişkin hükümleri uygulanır.
+
 **Prime esas kazancın beyanına ilişkin geçiş hükmü**
 
 **GEÇİCİ MADDE 15-** **(Değişik: 17/4/2008-5754/73 md.) **
@@ -7784,7 +7860,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- -----------------------------
+  ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- ----------------------------------------------------
   **Değiştiren **                                                                    **5510 sayılı Kanunun değişen veya iptal edilen maddeleri**                **Yürürlüğe Giriş Tarihi**
                                                                                                                                                                 
   **Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**                                                                                               
@@ -7823,6 +7899,12 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                      81                                                                         1/10/2008
                                                                                                                                                                 
                                                                                      80                                                                         15/10/2008
-  ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- -----------------------------
+
+  5838                                                                               5, Geçici Madde 14                                                         1/10/2008 tarihinden geçerli olmak üzere 28/2/2009
+                                                                                                                                                                
+                                                                                     93, 97, 100                                                                28/2/2009
+                                                                                                                                                                
+                                                                                     102 ve Ek Madde 1                                                          1/8/2009
+  ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- ----------------------------------------------------
 
 
