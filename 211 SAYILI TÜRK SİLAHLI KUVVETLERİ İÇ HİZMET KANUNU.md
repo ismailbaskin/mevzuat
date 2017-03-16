@@ -1,4 +1,4 @@
-**6514 sayılı Kanun ile değişik hali**
+**6519 sayılı Kanun ile değişik hali**
 
  
 
@@ -73,7 +73,7 @@ kıyafet taşıyan öğrencilerdir.
 
 –––––––––––––
 
-(1)  Kanunda geçen “Uzman Çavuş” Tabiri, 18/3/1986 tarih ve 3629 sayılı
+(1)  Kanunda geçen “Uzman Çavuş” Tabiri, 18/3/1986 tarih ve 3269 sayılı
 Kanunun 21 inci maddesi ile “Uzman erbaş” olarak değiştirilmiş ve metne
 işlenmiştir.
 
@@ -416,28 +416,46 @@ askerler üniforma ile giremezler.
 
  
 
-             b) Subay, askeri memur ve astsubaylar vazife dışında sivil
-elbise giyebilirler. Sivil elbise ile vazife yerine giriş ve çıkışlar
+b\) Subay, askeri memur ve astsubaylar vazife dışında sivil elbise
+giyebilirler. Sivil elbise ile vazife yerine giriş ve çıkışlar
 talimatnamede düzenlenir.
 
-             c) **(Değişik : 9/8/1993 - KHK - 499/35 md.)** Subay ve
-astsubaylar hizmet dışında da resmi veya sivil elbise ile zati
-tabancalarını göze görünmeyecek şekilde taşıyabilirler.
+c\) **(Değişik : 9/8/1993 - KHK - 499/35 md.)** Subay ve astsubaylar
+hizmet dışında da resmi veya sivil elbise ile zati tabancalarını göze
+görünmeyecek şekilde taşıyabilirler.
 
-             d) **(Değişik : 4/7/1988 - KHK - 336/1 md.; Aynen Kabul :
-7/2/1990 - 3612/42 md.)** Üniformanın şekilleri Milli Savunma
-Bakanlığınca tespit olunur.
+d\) **(Değişik : 4/7/1988 - KHK - 336/1 md.; Aynen Kabul : 7/2/1990 -
+3612/42 md.)** Üniformanın şekilleri Milli Savunma Bakanlığınca tespit
+olunur.
 
-             Kıyafet kavramı içinde olan el, yüz ve saç, tuvaletlerinde
-sadelik esastır. Favori, biş,sakal ve bıyık bırakılamaz. Hangi hallerde,
+Kıyafet kavramı içinde olan el, yüz ve saç, tuvaletlerinde sadelik
+esastır. Favori, biş,sakal ve bıyık bırakılamaz. Hangi hallerde,
 görevlerde, zamanlarda ve kimler hakkında yukarıdaki kayıtlama ve
 kısıtlamaların uygulanmayacağı Genelkurmay Başkanınca belirlenir.
 
-             e) Silahlı Kuvvetler mensupları şekil ve kullanma tarzı
-talimatnamede gösterilen hüviyet kartlarını resmi ve sivil olarak her
-zaman Üzerlerinde bulundurmaya mecburdurlar.
+e\) **(Mülga : 11/2/2014-6519/20 md.) **
 
-             C) UMUMİ VAZİFELER
+Kimlik kartları, özlük dosyaları, kişisel veriler ve posta gönderileri
+
+**Madde 34/A – (Ek: 11/2/2014-6519/8 md.)**
+
+Askerî kimlik kartı; kişinin, Türk Silahlı Kuvvetleri personeli olduğunu
+ve kimliğini gösteren resmî belgedir. Türk Silahlı Kuvvetleri
+mensupları, yönetmelikle belirlenen istisnalar saklı kalmak kaydıyla
+askerî kimlik kartlarını resmî ve sivil olarak üzerlerinde
+bulundururlar.
+
+Türk Silahlı Kuvvetleri personelinin temin, yetiştirme, istihdam,
+emeklilik, ayırma, atama, yer değiştirme, görevlendirme, seferberlik ve
+özlük hakları gibi işlemleri ve askerî hizmetlerin yürütülmesine ilişkin
+kişisel verileri personel bilgi sistemlerinde ve özlük dosyalarında
+muhafaza edilir.
+
+Uzman erbaşlar hariç erbaş ve erler ile askerî öğrenciler tarafından
+gönderilen ve kendilerine gelen posta gönderileri ilgilinin amirince
+denetlenebilir.
+
+C\) UMUMİ VAZİFELER
 
 **Madde 35 – (Değişik: 13/7/2013-6496/18 md.)**
 
@@ -447,47 +465,48 @@ tehlikelere karşı Türk vatanını savunmak, caydırıcılık sağlayacak
 Büyük Millet Meclisi kararıyla yurt dışında verilen görevleri yapmak ve
 uluslararası barışın sağlanmasına yardımcı olmaktır.
 
-             **Madde 37 –** Silahlı Kuvvetlere katılan her asker
-andiçer. And sureti aşağıdadır:
+**Madde 36 –** Silahlı Kuvvetler, harb sanatını öğrenmek ve öğretmekle
+vazifelidir. Bu vazifenin ifası için lazımgelen tesisler ve teşkiller
+kurulur ve tedbirler alınır.
 
-             "Barışta ve savaşta, karada, denizde ve havada her zaman ve
-her yerde milletime ve cumhuriyetime doğruluk ve muhabbetle, hizmet ve
-kanunlara ve nizamlara ve amirlerime itaat edeceğime ve askerliğin
-namusunu Türk Sancağının şanını canımdan aziz bilip icabında vatan,
-cumhuriyet ve vazife uğrunda seve seve hayatımı feda eyliyeceğime
-namusum üzerine andiçerim."
+**Madde 37 –** Silahlı Kuvvetlere katılan her asker andiçer. And sureti
+aşağıdadır:
 
-             **Madde 38 –** Sancak, Silahlı Kuvvetlerin şeref
-timsalidir. Sancağın muhafazası Silahlı Kuvvetlerin mukaddes
-vazifesidir.
+"Barışta ve savaşta, karada, denizde ve havada her zaman ve her yerde
+milletime ve cumhuriyetime doğruluk ve muhabbetle, hizmet ve kanunlara
+ve nizamlara ve amirlerime itaat edeceğime ve askerliğin namusunu Türk
+Sancağının şanını canımdan aziz bilip icabında vatan, cumhuriyet ve
+vazife uğrunda seve seve hayatımı feda eyliyeceğime namusum üzerine
+andiçerim."
 
-             **(Değişik : 9/10/1996 - 4187/1 md.)** Sancak, hiçbir sebep
-ve bahane ile terk edilemez. Kuruluşunda alay teşkilatı (hudut alayları
-hariç) bulunmayan her tugay ile her alay (deniz ve havada eşidi
-birliklere) yönetmeliğe göre bir sancak verilir.
+**Madde 38 –** Sancak, Silahlı Kuvvetlerin şeref timsalidir. Sancağın
+muhafazası Silahlı Kuvvetlerin mukaddes vazifesidir.
 
-             **Madde 39 –** Silahlı Kuvvetlerde askeri eğitim ile
-beraber ahlak ve maneviyatın yükseltilmesine ve milli duyguların
-kuvvetlendirilmesine bilhassa itina olunur.
+**(Değişik : 9/10/1996 - 4187/1 md.)** Sancak, hiçbir sebep ve bahane
+ile terk edilemez. Kuruluşunda alay teşkilatı (hudut alayları hariç)
+bulunmayan her tugay ile her alay (deniz ve havada eşidi birliklere)
+yönetmeliğe göre bir sancak verilir.
 
-             Cumhuriyete sadakat, vatanını sevmek, iyi ahlaklı olmak,
-üste itaat, hizmetin yapılmasında sebat ve gayret, cesaret ve
-atılganlık, icabında hayatını hiçe saymak, bütün silah arkadadaşları ile
-iyi geçinmek, birbirlerine yardım, intizam severlik, yapılması men
-edilen şeylerden kaçınmak, sıhhatini korumak, sır saklamak her askerin
-esas vazifesidir.
+**Madde 39 –** Silahlı Kuvvetlerde askeri eğitim ile beraber ahlak ve
+maneviyatın yükseltilmesine ve milli duyguların kuvvetlendirilmesine
+bilhassa itina olunur.
 
-             **Madde 40 –** Askerin bakımı, sağlığı, yedirilmesi,
-giydirilmesi, barındırılması ve moralinin yüksek tutulması dikkat ve
-itina ile sağlanacak en mühim vazifelerdendir.
+Cumhuriyete sadakat, vatanını sevmek, iyi ahlaklı olmak, üste itaat,
+hizmetin yapılmasında sebat ve gayret, cesaret ve atılganlık, icabında
+hayatını hiçe saymak, bütün silah arkadadaşları ile iyi geçinmek,
+birbirlerine yardım, intizam severlik, yapılması men edilen şeylerden
+kaçınmak, sıhhatini korumak, sır saklamak her askerin esas vazifesidir.
 
-             **Madde 41 –** Erbaş ve erlere askerliğe ait bilgilerden
-başka okuyup yazmak, yurt ve hayata ait genel kültür bilgileri de
-öğretilir.
+**Madde 40 –** Askerin bakımı, sağlığı, yedirilmesi, giydirilmesi,
+barındırılması ve moralinin yüksek tutulması dikkat ve itina ile
+sağlanacak en mühim vazifelerdendir.
 
-             **Madde 42 –** Her asker vazife ve hizmet icabı kullanmak
-veya muhafaza etmek için kendisine tevdi edilen her çeşit Devlet malının
-bakım, korunma ve muhafazasından sorumludur.
+**Madde 41 –** Erbaş ve erlere askerliğe ait bilgilerden başka okuyup
+yazmak, yurt ve hayata ait genel kültür bilgileri de öğretilir.
+
+**Madde 42 –** Her asker vazife ve hizmet icabı kullanmak veya muhafaza
+etmek için kendisine tevdi edilen her çeşit Devlet malının bakım,
+korunma ve muhafazasından sorumludur.
 
 3457
 
@@ -500,85 +519,70 @@ siyasi faaliyetleri ile münasebette bulunmaları, her türlü siyasi
 gösteri, toplantı işlerine karışmaları ve bu maksatla nutuk ve beyanat
 vermeleri ve yazı yazmaları yasaktır.
 
-             Silahlı Kuvvetler mensupları Milli Savunma Bakanlığınca
-adları yayınlanan ve siyasi olmıyan cemiyetler ile spor kulüplerinin
-faal olmıyan üyeliklerine girebilirler. Girenler durumlarını en kısa
-zamanda Milli Savunma Bakanlığına bildirmeye mecburdurlar.
+Silahlı Kuvvetler mensupları Milli Savunma Bakanlığınca adları
+yayınlanan ve siyasi olmıyan cemiyetler ile spor kulüplerinin faal
+olmıyan üyeliklerine girebilirler. Girenler durumlarını en kısa zamanda
+Milli Savunma Bakanlığına bildirmeye mecburdurlar.
 
-             **(Ek : 15/2/1966 - 725/1 md.; Mülga : 23/7/1999 - 4418/3
-md.)**
+**(Ek : 15/2/1966 - 725/1 md.; Mülga : 23/7/1999 - 4418/3 md.)**
 
-             Silahlı Kuvvetler mensuplarının kendi kıta, karargah ve
-kurumları içinde amatör askeri spor kulüpleri kurmaları ve bu kulüplerde
-faaliyette bulunmaları caizdir.
+**(Değişik dördüncü fıkra: 11/2/2014-6519/9 md.)** Türk Silahlı
+Kuvvetleri mensupları kendi kıta, karargâh ve kurumları içinde amatör
+askerî spor kulüpleri kurabilir ve bu kulüplerde faaliyette
+bulunabilirler. Bu kulüplerin kurulması için Genelkurmay Başkanlığının
+müsaadesi ile ilgili makamlara müracaat edilir. Harp ve vazife malulleri
+ile gaziler tarafından rehabilitasyon amacıyla kurulan spor kulüplerinin
+Türk Silahlı Kuvvetlerinin spor tesislerinden istifadesine Genelkurmay
+Başkanlığınca izin verilebilir. Amatör spor kulüplerinin kurulması,
+faaliyet ve denetimleri ile rehabilitasyon amacıyla kurulan spor
+kulüplerinin spor tesislerinden istifadesine ilişkin usul ve esaslar ile
+diğer hususlar yönetmelikle düzenlenir.
 
-             Bu kulüplerin kurulmaları, faaliyet ve murakabeleri Milli
-Savunma Bakanlığınca hazırlanacak hususi talimat hükümlerine göre olur.
+**(Mülga: 11/2/2014-6519/9 md.)**
 
-             **(Ek fıkralar : 28/6/1983 - 2861/2 md.):**
+**(Ek fıkralar : 28/6/1983 - 2861/2 md.):**
 
-             Silahlı Kuvvetler mensupları kanunla kurulan meslek
-kuruluşlarına üye olamaz ve organlarında görev alamazlar. Ancak üye
-olamamaları kanunlarda belirtilen diğer kayıt ve şartlara uymak kaydıyla
-meslekleriyle ilgili görevlerde çalışmalarına, mesleki hizmetleri
-yürütmelerine, yetkilerini kullanmalarına, mesleki eğitim ve öğretim
-yaptırmalarına, kurum amirlerinin izniyle kuruluşun  bilimsel
-çalışmalarına katılmalarına, meslek kural ve koşullarına uymak
-yükümlülüklerine, haklarında disiplin cezası uygulanmasına, özel
-kanunların öngördüğü kayıtlarla mesleklerini serbestçe icra etmelerine,
-resmi veya özel bir görev almalarına engel teşkil etmez.
+Silahlı Kuvvetler mensupları kanunla kurulan meslek kuruluşlarına üye
+olamaz ve organlarında görev alamazlar. Ancak üye olamamaları kanunlarda
+belirtilen diğer kayıt ve şartlara uymak kaydıyla meslekleriyle ilgili
+görevlerde çalışmalarına, mesleki hizmetleri yürütmelerine, yetkilerini
+kullanmalarına, mesleki eğitim ve öğretim yaptırmalarına, kurum
+amirlerinin izniyle kuruluşun bilimsel çalışmalarına katılmalarına,
+meslek kural ve koşullarına uymak yükümlülüklerine, haklarında disiplin
+cezası uygulanmasına, özel kanunların öngördüğü kayıtlarla mesleklerini
+serbestçe icra etmelerine, resmi veya özel bir görev almalarına engel
+teşkil etmez.
 
-             Belli bir meslek veya sanatın icra edilebilmesi için meslek
+Belli bir meslek veya sanatın icra edilebilmesi için meslek
 kuruluşlarına üye olmayı zorunlu kılan kanun hükümleri Silahlı Kuvvetler
 mensupları hakkında uygulanmaz.
 
-             Askerlik yükümlülüğünü yerine getirmekte olan yedek
-subaylar ile er ve erbaşların üyelikleri, askerlik hizmetleri süresince
-askıda kalır. Bu hal ilgililerin aidat ödeme ve kanunlardan doğan diğer
-mesleki yükümlülüklerini ve haklarını ortadan kaldırmaz.
+Askerlik yükümlülüğünü yerine getirmekte olan yedek subaylar ile er ve
+erbaşların üyelikleri, askerlik hizmetleri süresince askıda kalır. Bu
+hal ilgililerin aidat ödeme ve kanunlardan doğan diğer mesleki
+yükümlülüklerini ve haklarını ortadan kaldırmaz.
 
-             **Madde 44 –** Askerler her zaman ve her yerde birbirlerini
-selamlamaya mecburdurlar. Bunun tatbik tarzı talimatnamede
-gösterilmiştir.
+**Madde 44 –** Askerler her zaman ve her yerde birbirlerini selamlamaya
+mecburdurlar. Bunun tatbik tarzı talimatnamede gösterilmiştir.
 
-             D) GARNİZON KUMANDANLIĞI
+D\) GARNİZON KUMANDANLIĞI
 
-             **Madde 45 –** Garnizon; içinde ve civarında yerleşmiş
-kıta, karargah veya askeri kurum bulunan meskün yerlere denir.
+**Madde 45 –** Garnizon; içinde ve civarında yerleşmiş kıta, karargah
+veya askeri kurum bulunan meskün yerlere denir.
 
-             Garnizonların hudutları, talimatnamede belirtilecek esaslar
-dahilinde tesbit olunur.
-
-             **Madde 46 –** Garnizonlarda garnizon kumandanlığı görevi,
-garnizonda mevcut kıta, karargah ve kurumların kumandan ve amirlerinin
-rütbe kıdem ve sınıfları gözönüne alınarak aşağıdaki esaslar dahilinde
+Garnizonların hudutları, talimatnamede belirtilecek esaslar dahilinde
 tesbit olunur.
 
-             a) Tümen ve daha büyük (Deniz ve havada eşidi) kıtalar ile
-askeri kurumların bir arada bulundukları büyük garnizonlarda en büyük
-kıta kumandanı garnizon kumandanıdır.
+**Madde 46 – (Değişik: 11/2/2014-6519/10 md.)**
 
-             b) **(Değişik : 16/10/1981 - 2537/1 md.)** Tümenden daha
-küçük kıtalarla askeri kurumların (Deniz ve Havada eşidi) birarada
-bulundukları garnizonlarda rütbe ve kıdemce büyük olan kıta
-
-komutanı,garnizon komutanıdır. Ancak,bulunan Kıta Alaydan (Deniz ve
-Havada eşidi) küçük ise kıta komutanlığı durumuna bakılmaksızın rütbe,
-kıdem ve sınıf gözönünde bulundurularak ileride olan subay garnizon
-komutanıdır.
+Garnizon komutanlığı görevinin hangi kıta komutanı veya kurum amiri
+tarafından yapılacağı Genelkurmay Başkanlığınca düzenlenir. Bu görevin
+yürütülmesi maksadıyla, Genelkurmay Başkanlığınca garnizonda bulunan
+kıta, karargâh ve kurumların dışında kadro ve teşkiller oluşturulabilir.
 
 3458
 
  
-
-             c) **(Değişik : 18/6/2003 - 4902/2 md.)** Jandarma ve Sahil
-Güvenlik kıt’a komutanları ile kurum amirlerine de garnizon komutanlığı
-görevi verilir. (a) ve (b) fıkralarının uygulanmasında; jandarma seyyar
-ve eğitim birlikleri ile il jandarma komutanlığı, ilçe jandarma
-komutanlığı, jandarma komando ve jandarma asayiş komando birlikleri,
-sahil güvenlik bölge ve grup komutanlıkları, sahil güvenlik gemi ve bot
-komutanlıkları, sahil güvenlik hava komutanlığı kıt’a; jandarma ve sahil
-güvenlik okulları ile diğer kuruluşları kurum sayılır.
 
              **Madde 47 –** Garnizon kumandanı garnizona dahil bütün
 kıta ve askeri kurumların disiplin amiridir.
@@ -1452,174 +1456,252 @@ vazifeleri talimatname ve talimatlarla gösterilir.
 
 3468
 
-*             *
+*O) SOSYAL HİZMETLER*
 
-*             O)  SOSYAL HİZMETLER*
+I -Orduevleri, askerî gazinolar, kışla gazinoları veya vardiya
+yatakhaneleri ile diğer tesisler^(1)^
 
-             I - Ordu pazarları
+**Madde 98 – (Değişik : 11/2/2014-6519/11 md.) **
 
-             **Madde 98 –** Türk Silahlı Kuvvetleri mensuplarının
-çeşitli ihtiyaçlarını elverişli şartlarla temin etmek maksadiyle hususi
-kanunlara göre teşkil edilecek ordu pazarları kurulur.
+Türk Silahlı Kuvvetleri personelinin sosyal ve moral ihtiyaçlarını
+karşılamak, dayanışmayı artırmak, mesleki, sosyal gelişmelerini mümkün
+kılacak imkânları hazırlamak maksadıyla ve Genelkurmay Başkanlığının
+izni ile;
 
-             **(Ek fıkralar : 29/11/1984 - KHK 243/38 md.)**
+a\) Orduevi ve bağlısı şubeler,
 
-             Türk Silahlı Kuvvetleri personeli için lüzum ve ihtiyaç
-görülen yerlerde çocuk bakımevleri ve sosyal tesisler kurulabilir.
+b\) Askerî gazinolar, kışla gazinoları ve vardiya yatakhaneleri,
 
-             Bunların kuruluş ve işletme esas ve usulleri yönetmelikle
-düzenlenir.
+kurulabilir.
 
-             II - Ordu evleri ve askeri gazinolar
+Orduevi ve bağlısı şubeler ile askerî gazinolar, kışla gazinoları ve
+vardiya yatakhanelerinin kadro, kuruluş, idare, yapılacak denetleme ve
+işletme şekilleri, verilecek hizmetler, üye aidatı ve kart ücreti
+alınmasına ilişkin usul ve esaslar, ihtiyaçların tespit ve temini ile
+elde edilen gelirlerin harcanacağı yerler ve diğer hususlar Maliye
+Bakanlığının uygun görüşü üzerine yönetmelik ile belirlenir.
 
-             **Madde 99 –** Silahlı Kuvvetler mensupları arasında
-tesanüdü artırmak mesleki ve kültürel inkişaflara, sosyal ve moral
-ihtiyaçları temin gayesi ile büyük garnizonlarda (Tümen ve eşidi askeri
-kurumlar ile daha büyük kıta ve kurumların, Deniz ve Havada eşitlerinin
-bulunduğu) ordu evleri kurulabilir.
+Orduevi ve bağlısı şubeler, askerî gazinolar, kışla gazinoları ve
+vardiya yatakhanelerinin yılı merkezî yönetim bütçe kanunu ile
+belirlenen giderleri genel bütçeden karşılanabilir.
 
-             Bu yerlerde astsubaylar için de birer ordu evi kurulabilir.
+II - Özel, yerel veya kış eğitim merkezleri^(2)^
 
-             Daha küçük birlik ve kurumların bulundukları yerlerde subay
-ve astsubaylar için birer askeri gazino teşkil edilebilir.
+**Madde 99 – (Değişik : 11/2/2014-6519/12 md.)**
 
-             Ayrıca kışlalarda subay, astsubay ve erler için birer kışla
-gazinosu tesis edilir.
+Belirli zamanlarda özel askerî eğitimlerin yapılması, personelin moral
+ve motivasyonuna katkı sağlanması maksadıyla Genelkurmay Başkanlığının
+izni ile özel, yerel veya kış eğitim merkezleri kurulabilir.
 
-             **Madde 100 –** Ordu evleri, askeri gazinoları ve kışla
-gazinoları askeri bina olup askeri mahal vasıf ve mahiyetini haizdir.
+Bu tesislerin işletilmesi ve diğer hususlara ilişkin usul ve esaslar
+yönetmelikle belirlenir.
 
-             **Madde 101 –** Ordu evlerinin (Askeri gazino ve kışla
-gazinoları dahil) sermayeleri:
+Özel, yerel veya kış eğitim merkezlerinin yılı merkezî yönetim bütçe
+kanunu ile belirlenen giderleri genel bütçeden karşılanabilir.
 
-             a) İşletme gelirlerinden,
+**Madde 100 –** Ordu evleri, askeri gazinoları ve kışla gazinoları
+askeri bina olup askeri mahal vasıf ve mahiyetini haizdir.
 
-             b) Üye aidatından,
+**Madde 101 – (Değişik : 11/2/2014-6519/13 md.)**
 
-             c) Teberrüattan,
+Orduevleri, askerî gazinolar, kışla gazinoları ve vardiya yatakhaneleri
+ile özel, yerel ve kış eğitim merkezlerinin gelirleri;
 
-             d) Milli Savunma Bakanlığı bütçesinden konulacak
-ödeneklerden teşekkül eder.
+a\) İşletme gelirlerinden,
 
-             **Madde 102 – a) (Değişik : 4/7/1988 - KHK - 336/1 md.;
-Aynen Kabul: 7/2/1990 - 3612/43 md.)** Ordu evlerinin kadro, kuruluş,
-idare, murakabe ve muhasebeleri ile işletme şekilleri ve müştemilatı
-yapılacak bir yönetmelik ile tesbit ve tayin olunur.
+b\) Kira gelirlerinden,
 
-             b) **(Değişik : 22/11/1990 - 3683/6 md.)** Orduevleri,
-askeri gazino, kışla gazinoları ve askeri müzelerden elde edilen
-gelirler, bu yerlerin yenilenmesine ve yeniden inşasına veya idamesi ile
-modern hale getirilmesine ve kitaplıkların tesis ve zenginleştirilmesine
-sarf olunur.
+c\) Üye aidatlarından,
 
-             **Madde 103 –** Ordu evleri ve müştemilatı 5422 sayılı
-Kurumlar Vergisi Kanununun 7 nci maddesinin 18 inci fıkrası gereğince
-Kurumlar Vergisinden, Bina ve Gelir vergilerinden muaf olup mezkür
-maddedeki (Ordu evleri) tabirine askeri gazino ve kışla gazinoları ile
-bunların nizamnamede gösterilen her türlü müştemilatı dahildir.
+d\) Bağış ve kart ücretlerinden,
 
-             **Madde 104 – (Değişik : 22/11/1990 - 3683/7 md.)**
+e\) Diğer orduevi, askerî gazino, kışla gazinoları ve vardiya
+yatakhaneleri ile özel, yerel ve kış eğitim merkezlerinin gelir ve
+sermayelerinden yetkili komutanlığın izni ile yapılacak aktarımlardan,
 
-             Orduevleri, askeri gazino, kışla gazinoları, askeri müzeler
-ve bunların yönetmelikte gösterilecek her türlü müştemilatı, sarfiyat ve
-muameleleri bakımından 1050 sayılı Muhasebei Umumiye Kanunu ile 2886
-sayılı Devlet İhale Kanunu hükümlerine ve Sayıştayın vize ve denetimine
-tabi değildir.
+f\) Sergi, fuar, promosyon, reklam ve diğer gelirlerden,
 
-             III - Dinlenme kampları ve karşılama ekipleri
+g\) Yukarıda sayılan gelirlerden elde edilecek faiz gelirlerinden,
 
-             **Madde 105 –** a) Subay, askeri memur ve astsubaylarla
-ailelerinin dinlenme ve moral ihtiyaçlarını temin maksadiyle elverişli
-yer ve mevsimlerde subay ve astsubaylar için ayrı ayrı dinlenme kampları
-tesis edilebilir.
+oluşur.
 
-             b) **(Değişik: 15/6/2005 - 5365/4 md.)** Bu kampların ne
-zaman ve nerede açılacağı ve devam süresi; Millî Savunma Bakanlığı,
-Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığınca
-belirlenir.
+\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
+*(1) 11/2/2014 tarihli ve 6519 sayılı Kanunun 11 inci maddesiyle bu
+maddenin başlığı “Ordu pazarları” iken metne işlendiği şekilde
+değiştirilmiştir.*
+
+*(2) 11/2/2014 tarihli ve 6519 sayılı Kanunun 12 nci maddesiyle bu
+maddenin başlığı “Ordu evleri ve askeri gazinolar” iken metne işlendiği
+şekilde değiştirilmiştir.*
+
+3468-1
+
+Orduevleri, askerî gazinolar, kışla gazinoları ve vardiya yatakhaneleri
+ile özel, yerel veya kış eğitim merkezlerinin sermayeleri birinci
+fıkrada belirtilenlere ilave olarak Millî Savunma Bakanlığı, Jandarma
+Genel Komutanlığı ve Sahil Güvenlik Komutanlığı bütçelerine konulacak
+ödeneklerden oluşur.
+
+**Madde 102 – (Değişik : 11/2/2014-6519/14 md.)**
+
+Genelkurmay Başkanlığının izni ile lüzum ve ihtiyaç görülen yerlerde,
+rehabilitasyon merkezleri, gazi uyum evleri ve refakatçi misafirhaneleri
+ile kreş, gündüz bakımevleri ve özel bakım merkezleri açılıp
+işletilebilir.
+
+Bu tesislerin işletilmesi ve diğer hususlara ilişkin usul ve esaslar
+yönetmelikle belirlenir.
+
+**Madde 103 – (Değişik : 11/2/2014-6519/15 md.)**
+
+Orduevleri, askerî gazinolar, kışla gazinoları, askerî müzeler ve
+vardiya yatakhaneleri ile özel, yerel ve kış eğitim merkezlerinde, özel
+bir ihtisas gerektiren hizmetlerin; personel yetersizliği veya maliyeti
+nedeniyle verilememesi durumunda bu hizmetler, hizmet alımı veya
+kiralama yoluyla dışarıdan karşılanabilir. Aralarında kabul edilebilir
+doğal bir bağlantı olması hâlinde mal ve hizmet alımları birlikte
+yapılabilir.
+
+Bu tesislerin kiraya verilmesi, işletilmesi, işlettirilmesi, mal ve
+hizmet alımı işlemleri tesis müdürlüklerince yerine getirilir. Bu
+şekilde elde edilen gelirler, genel bütçe gelirleri ile
+ilişkilendirilmeksizin tesis gelirlerine dâhil edilir.
+
+Tesislerin kiraya verilmesi, mal ve hizmet alımı sonucu sağlanan
+gelirlerin dağıtım yerleri, oranları ve kullanılması, yapılacak
+denetlemeler ve diğer hususlara ilişkin usul ve esaslar Maliye
+Bakanlığının uygun görüşü üzerine yönetmelik ile belirlenir.
+
+*Askerî kantinler*
+
+**Madde 104 – (Değişik : 11/2/2014-6519/16 md.)**
+
+Türk Silahlı Kuvvetleri personelinin dayanıklı tüketim malları hariç
+zaruri ihtiyaçlarının daha ucuz ve kolaylıkla sağlanmasını temin
+maksadıyla her kışlada kantin kurulabilir. İhtiyaç hâlinde bu
+kantinlerin kışla içinde veya dışında şubeleri açılabilir.
+
+Askerî kantinlerin tamamı, bir kısmı, bazı şubeleri veya reyonları
+kiraya verilebilir ya da üçüncü şahıslara işlettirilebilir. Özel bir
+ihtisas gerektiren hizmetlerin personel yetersizliği veya maliyeti
+nedeniyle verilememesi durumunda bu hizmetler, hizmet alımı yoluyla da
+dışarıdan karşılanabilir. Aralarında kabul edilebilir doğal bir bağlantı
+olması hâlinde mal ve hizmet alımları birlikte yapılabilir.
+
+Askerî kantinlerin işletilmesi, işlettirilmesi veya kiraya verilmesi
+kışla komutanlıklarınca yerine getirilir. Bu şekilde elde edilen
+gelirler, genel bütçe gelirleri ile ilişkilendirilmeksizin kantin
+gelirlerine dâhil edilir.
+
+Kantinlerin; teşkili, idaresi, işletilmesi ve kontrol şekilleri,
+gelirleri ve gelirlerinin harcanması, işletilmesi, işlettirilmesi veya
+kiraya verilmesinden sağlanan gelirlerin dağıtım yerleri ve oranlarına
+ilişkin usul ve esaslar ile yapılacak denetlemelere ilişkin hususlar
+Maliye Bakanlığının uygun görüşü üzerine yönetmelik ile belirlenir.
+
+3468-2
+
+III - Askerî müzeler^(1)^
+
+**Madde 105 – (Değişik : 11/2/2014-6519/17 md.)**
+
+Türk Silâhlı Kuvvetlerinin sosyal, tarihi ve teknik gelişimini dönemlere
+göre yansıtmak, dünya tarihindeki etkinliğini, kahramanlığını, yerine
+getirdiği görevlerini sergileyerek; Türk Milletinin millî birlik ve
+beraberlik duygularını geliştirmek, kendi sahasındaki tarih ve askerlik
+ile ilgili bilimsel araştırmalar ve incelemeler için bir ortam
+hazırlamak, bu hususları belgeleyen kültür varlıklarının korunmasını,
+saklanmasını, sergilenmesini sağlamak amacı ile 21/7/1983 tarihli ve
+2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununa göre askerî
+müzeler kurulur.
+
+Askerî müzelerden elde edilen gelirler, bu yerlerin yenilenmesine ve
+yeniden inşasına veya idamesi ile modern hâle getirilmesine ve
+kitaplıkların tesis ve zenginleştirilmesine sarf olunur.
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 11/2/2014 tarihli ve 6519 sayılı Kanunun 17 nci maddesiyle bu
+maddenin başlığı “Dinlenme kampları ve karşılama ekipleri” iken metne
+işlendiği şekilde değiştirilmiştir.*
 
 3469
 
- 
+IV - Muafiyet ve istisnalar^(1)^
 
-             c) Kampların tesis ve işletilmesinde, askeri nakil
-vasıtaları ile çadır, yatak ve karyola gibi askeri malzemeden istifade
-edilebilir.
+**Madde 106 – (Değişik : 11/2/2014-6519/18 md.)**
 
-             d) Kampların tesisi, işletmesi ve personelin istifade şekli
-hususlarına ait teferruat hükümleri talimatnamede düzenlenir.
+Bu Kanun kapsamında Türk Silahlı Kuvvetleri tarafından kuruluş
+amaçlarına göre işletilen orduevi ve bağlı şubeleri, askerî gazinolar,
+kışla gazinoları, vardiya yatakhaneleri ve bunların müştemilatı, özel,
+yerel ve kış eğitim merkezleri, askerî kantinler ve askerî müzeler
+kurumlar vergisinden muaftır. Bu muafiyet, 31/12/1960 tarihli ve 193
+sayılı Gelir Vergisi Kanunu ile 13/6/2006 tarihli ve 5520 sayılı
+Kurumlar Vergisi Kanunu uyarınca yapılacak vergi kesintilerini kapsamaz.
 
-             e) Bir garnizona tayin edilerek gelen subay, askeri memur
-ve astsubayları karşılamak ve yerleştirmek gayesiyle ekipler kurulur.
+Bu maddede sayılan tesisler emlak vergisinden, bu tesislerin mal ve
+hizmet alımları nedeniyle düzenlediği ödemeye ilişkin kâğıtlar damga
+vergisinden istisnadır.
 
-             Bu ekipler gelen personelin lojmanlara yerleştirilmesini
-veya o mahalde boş olduğu tesbit edilen meskenlere girebilmelerini temin
-ederler.
+V - Hazine payı^(2)^
 
-             IV - Askeri kantinler
+**Madde 107 – (Değişik : 11/2/2014-6519/19 md.)**
 
-             **Madde 106 –** a) Her kışlada askerlerin çeşitli ve zaruri
-ihtiyaçlarının daha ucuz ve kolaylıkla sağlanmasını temin maksadiyle bir
-kantin kurulur.
+Orduevi ve bağlısı şubeler ile özel, yerel veya kış eğitim merkezleri ve
+kışla dışındaki askerî kantinlerin aylık gayrisafi hasılatının %1’i ile
+askerî müzelerin kültür sitesi aylık gayrisafi hasılatının %1’i en geç
+takip eden ayın 20’sine kadar genel bütçeye gelir kaydedilmek üzere
+ilgili muhasebe birimine yatırılır. Bu oranı, sayılan tesislerin
+faaliyet türleri itibarıyla topluca veya ayrı ayrı ya da her bir tesis
+için ayrı ayrı sıfıra kadar indirmeye Maliye Bakanı yetkilidir.
 
-             b) Kantinlerin gelirleri, teşkil, idare, murakabe, işletme
-ve kontrol şekilleri talimatname ile tesbit olunur.
+VI - Askeri nakil vasıtalarından istifade
 
-             c) Kantinlerin işletilmesinden elde edilen kar kışla
-kumandanının emriyle, ödeneği olmıyan veya ödeneği olup da kafi gelmiyen
-zaruri ve resmi işlere sarf olunur.
-
-             d) Askeri kantinler hakkında da 103 ve 104 üncü madde
-hükümleri tatbik olunur.
-
-             V - Bakım ve onarım tesislerinden istifade
-
-             **Madde 107 –** a) Subay, askeri memur ve astsubaylar,
-bütün masrafları kendilerine ait olmak üzere ordu pazarları ve ordu
-evleri tesislerinde her türlü şahsi eşya ve vasıtalarının bakım, onarım
-ve imalini yaptırabilirler.
-
-             b) Bu yerlerden faydalanmanın usul ve şekli talimatnamede
-gösterilir.
-
-             VI - Askeri nakil vasıtalarından istifade
-
-             **Madde 108 –** Subay, askeri memur ve astsubaylar ile
-aileleri aşağıdaki hallerde askeri kara ve deniz nakil vasıtalarından
+**Madde 108 –** Subay, askeri memur ve astsubaylar ile aileleri
+aşağıdaki hallerde askeri kara ve deniz nakil vasıtalarından
 faydalanabilirler:
 
-             a) Mesaiye geliş ve gidiş için ihdas edilecek servis
-vasıtalarından,
+a\) Mesaiye geliş ve gidiş için ihdas edilecek servis vasıtalarından,
 
-             b) Şehir içi ev eşyası ve mahrukat nakline tahsis edilecek
-vasıtalardan,
+b\) Şehir içi ev eşyası ve mahrukat nakline tahsis edilecek vasıtalardan,
 
-             c) Uzak garnizonlarda oturanların kendileri ve ailelerinin
-şehirle irtibatlarının temini ve çocuklarının okula götürülüp
-getirilmesi için ihdas edilecek servis vasıtalarından,
+c\) Uzak garnizonlarda oturanların kendileri ve ailelerinin şehirle
+irtibatlarının temini ve çocuklarının okula götürülüp getirilmesi için
+ihdas edilecek servis vasıtalarından,
 
-             d) Umumi vasıtaların işlemediği garnizon ve kıtalara tayin
-edilen subay, askeri memur ve astsubayların zati esyaları ile ailesi
-efradı ve kendisi umumi vasıtanın en son gittiği yerden vazife mahalline
-kadar askeri vasıta ile götürülür ve getirilir.
+d\) Umumi vasıtaların işlemediği garnizon ve kıtalara tayin edilen subay,
+askeri memur ve astsubayların zati esyaları ile ailesi efradı ve kendisi
+umumi vasıtanın en son gittiği yerden vazife mahalline kadar askeri
+vasıta ile götürülür ve getirilir.
 
-             e) **(Ek : 23/6/1976 - 2016/1 md.)** Acilen sevki gereken
-hasta ve cenaze nakilleri için tahsis edilecek vasıtalardan,
+e\) **(Ek : 23/6/1976 - 2016/1 md.)** Acilen sevki gereken hasta ve
+cenaze nakilleri için tahsis edilecek vasıtalardan,
 
-             **(Ek : 23/6/1976 - 2016/1 md.)** Savaşta ve olağanüstü
-hallerde, izinli personel ve hizmetin gerektirdiği diğer işlerde
-görevlendirilecek personel ile sivil moral ekipleri, harekat bölgesine
-ve harekatla ilgili diğer garnizonlara gidiş ve dönüşlerinde kara, deniz
-ve hava ulaştırma araçlarından yararlandırılabilirler.
+**(Ek : 23/6/1976 - 2016/1 md.)** Savaşta ve olağanüstü hallerde, izinli
+personel ve hizmetin gerektirdiği diğer işlerde görevlendirilecek
+personel ile sivil moral ekipleri, harekat bölgesine ve harekatla ilgili
+diğer garnizonlara gidiş ve dönüşlerinde kara, deniz ve hava ulaştırma
+araçlarından yararlandırılabilirler.
 
-             **(Ek : 23/6/1976 - 2016/1 md.)** Barışta olağanüstü
-hallerde, Genelkurmay Başkanının emri ile önemli kişiler veya görev ve
-hizmetler için hava ulaştırma araçları tahsis edilebilir.
+**(Ek : 23/6/1976 - 2016/1 md.)** Barışta olağanüstü hallerde,
+Genelkurmay Başkanının emri ile önemli kişiler veya görev ve hizmetler
+için hava ulaştırma araçları tahsis edilebilir.
 
-             Yukarıdaki maksatlar için nakil vasıtalarının tahsisi ve
-bunlardan istifade şekli talimatname ile tesbit olunur.
+Yukarıdaki maksatlar için nakil vasıtalarının tahsisi ve bunlardan
+istifade şekli talimatname ile tesbit olunur.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 11/2/2014 tarihli ve 6519 sayılı Kanunun 18 inci maddesiyle bu
+maddenin başlığı “Askeri kantinler” iken metne işlendiği şekilde
+değiştirilmiştir.*
+
+*(2) 11/2/2014 tarihli ve 6519 sayılı Kanunun 19 uncu maddesiyle bu
+maddenin başlığı “Bakım ve onarım tesislerinden istifade” iken metne
+işlendiği şekilde değiştirilmiştir.*
 
 3470
 
@@ -1907,13 +1989,14 @@ MAHKEMESİ TARAFINDAN İPTAL EDİLEN**
 
 3474-1
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------ ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **211 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  **5758**                                                                     **69**                                                       **9/5/2008**
-  **6191**                                                                     **3, Ek Madde 1**                                            **22/3/2011**
-  **6413**                                                                     **115**                                                      **16/2/2013**
-  **6496**                                                                     **2, 35, 43**                                                **31/7/2013**
-  **6514**                                                                     **57**                                                       **18/1/2014**
-  ---------------------------------------------------------------------------- ------------------------------------------------------------ ----------------------------
+  ---------------------------------------------------------------------------- ----------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **211 sayılı Kanunun değişen veya iptal edilen maddeleri**        **Yürürlüğe Giriş Tarihi**
+  **5758**                                                                     **69**                                                            **9/5/2008**
+  **6191**                                                                     **3, Ek Madde 1**                                                 **22/3/2011**
+  **6413**                                                                     **115**                                                           **16/2/2013**
+  **6496**                                                                     **2, 35, 43**                                                     **31/7/2013**
+  **6514**                                                                     **57**                                                            **18/1/2014**
+  **6519**                                                                     **34, 34/A, 43, 46, 98, 99, 101, 102, 103, 104, 105, 106, 107**   **22/2/2014**
+  ---------------------------------------------------------------------------- ----------------------------------------------------------------- ----------------------------
 
 
