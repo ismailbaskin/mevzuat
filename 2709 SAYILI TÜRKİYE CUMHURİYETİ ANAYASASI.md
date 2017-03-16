@@ -1,4 +1,4 @@
-**10/5/2007 tarihli ve 5659 sayılı Kanun ile değişik hali**
+**31/5/2007 tarihli ve 5678 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -1368,8 +1368,8 @@ ve milletvekili seçilemezler.
 
 *C. Türkiye Büyük Millet Meclisinin seçim dönemi*
 
-**Madde 77 – **Türkiye Büyük Millet Meclisinin seçimleri beş yılda bir
-yapılır.
+**Madde 77 – **Türkiye Büyük Millet Meclisinin seçimleri dört yılda bir
+yapılır. ^(4)^
 
 Meclis, bu süre dolmadan seçimin yenilenmesine karar verebileceği gibi,
 Anayasada belirtilen şartlar altında Cumhurbaşkanınca verilecek karara
@@ -1419,7 +1419,11 @@ işlenmiştir.*
 fıkrada yer alan “ideolojik veya anarşik eylemlere” ibaresi “terör
 eylemlerine” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
-*E. Seçimlerin genel yönetim ve denetimi*
+*(4) 31/5/2007 tarihli ve 5678 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan "beş" ibaresi "dört" olarak değiştirilmiş ve metne
+işlenmiştir.*
+
+*E. Seçimlerin genel yönetim ve denetimi ^(1)^*
 
 **Madde 79 – **Seçimler, yargı organlarının genel yönetim ve denetimi
 altında yapılır.
@@ -1428,9 +1432,10 @@ Seçimlerin başlamasından bitimine kadar, seçimin düzen içinde yönetimi
 ve dürüstlüğü ile ilgili bütün işlemleri yapma ve yaptırma, seçim
 süresince ve seçimden sonra seçim konularıyla ilgili bütün
 yolsuzlukları, şikâyet ve itirazları inceleme ve kesin karara bağlama ve
-Türkiye Büyük Millet Meclisi üyelerinin seçim tutanaklarını kabul etme
-görevi Yüksek Seçim Kurulunundur. Yüksek Seçim Kurulunun kararları
-aleyhine başka bir mercie başvurulamaz.
+Türkiye Büyük Millet Meclisi üyelerinin seçim tutanaklarını ve
+Cumhurbaşkanlığı seçimi tutanaklarını kabul etme görevi Yüksek Seçim
+Kurulunundur. Yüksek Seçim Kurulunun kararları aleyhine başka bir mercie
+başvurulamaz.
 
 Yüksek Seçim Kurulunun ve diğer seçim kurallarının görev ve yetkileri
 kanunla düzenlenir.
@@ -1445,9 +1450,9 @@ Yüksek Seçim Kuruluna Yargıtay ve Danıştaydan seçilmiş üyeler arasından
 ad çekme ile ikişer yedek üye ayrılır. Yüksek Seçim Kurulu Başkanı ve
 Başkanvekili ad çekmeye girmezler.
 
-Anayasa değişikliklerine ilişkin kanunların halkoyuna sunulması
-işlemlerinin genel yönetim ve denetimi de milletvekili seçimlerinde
-uygulanan hükümlere göre olur.
+Anayasa değişikliklerine ilişkin kanunların halkoyuna sunulması,
+Cumhurbaşkanının halk tarafından seçilmesi işlemlerinin genel yönetim ve
+denetimi de milletvekili seçimlerinde uygulanan hükümlere göre olur.
 
 *F. Üyelikle ilgili hükümler*
 
@@ -1518,6 +1523,15 @@ yeniden dokunulmazlığını kaldırmasına bağlıdır.
 
 Türkiye Büyük Millet Meclisindeki siyasi parti gruplarınca, yasama
 dokunulmazlığı ile ilgili görüşme yapılamaz ve karar alınamaz.
+
+––––––––––––––
+
+*(1) 31/5/2007 tarihli ve 5678 sayılı Kanunun 2 nci maddesiyle, bu
+maddenin ikinci fıkrasında yer alan "seçim tutanaklarını" ibaresinden
+sonra gelmek üzere "ve Cumhurbaşkanlığı seçimi tutanaklarını" ibaresi;
+son fıkrasında yer alan "halkoyuna sunulması" ibaresinden sonra gelmek
+üzere ", Cumhurbaşkanının halk tarafından seçilmesi" ibaresi eklenmiş ve
+metne işlenmiştir.*
 
 *5. Milletvekilliğinin düşmesi ^(1)^*
 
@@ -1797,11 +1811,12 @@ ilgili makamlarca Meclis Başkanlığına tahsis edilir.
 
 *D. Toplantı ve karar yeter sayısı*
 
-**Madde 96 – **Anayasada, başkaca bir hüküm yoksa, Türkiye Büyük Millet
-Meclisi üye tamsayısının en az üçte biri ile toplanır ve toplantıya
-katılanların salt çoğunluğu ile karar verir; ancak karar yeter sayısı
-hiçbir şekilde üye tamsayısının dörtte birinin bir fazlasından az
-olamaz.
+**Madde 96 – (Değişik birinci fıkra: 31/5/2007-5678/3 md.)** Türkiye
+Büyük Millet Meclisi, yapacağı seçimler dahil bütün işlerinde üye
+tamsayısının en az üçte biri ile toplanır. Türkiye Büyük Millet Meclisi,
+Anayasada başkaca bir hüküm yoksa toplantıya katılanların salt çoğunluğu
+ile karar verir; ancak karar yeter sayısı hiçbir şekilde üye
+tamsayısının dörtte birinin bir fazlasından az olamaz.
 
 Bakanlar Kurulu üyeleri, Türkiye Büyük Millet Meclisinin katılamadıkları
 oturumlarında, kendileri yerine oy kullanmak üzere bir bakana yetki
@@ -1912,44 +1927,49 @@ YÜRÜTME
 
 *A. Nitelikleri ve tarafsızlığı*
 
-**Madde 101 – **Cumhurbaşkanı, Türkiye Büyük Millet Meclisince kırk
-yaşını doldurmuş ve yükseköğrenim yapmış kendi üyeleri veya bu
-niteliklere ve milletvekili seçilme yeterliğine sahip Türk vatandaşları
-arasından yedi yıllık bir süre için seçilir.
+**Madde 101 – (Değişik: 31/5/2007-5678/4 md.)**
 
-Cumhurbaşkanlığına Türkiye Büyük Millet Meclisi üyeleri dışından aday
-gösterilebilmesi, Meclis üye tamsayısının en az beşte birinin yazılı
-önerisiyle mümkündür.
+Cumhurbaşkanı, kırk yaşını doldurmuş ve yüksek öğrenim yapmış Türkiye
+Büyük Millet Meclisi üyeleri veya bu niteliklere ve milletvekili seçilme
+yeterliğine sahip Türk vatandaşları arasından, halk tarafından seçilir.
 
-Bir kimse, iki defa Cumhurbaşkanı seçilemez.
+Cumhurbaşkanının görev süresi beş yıldır. Bir kimse en fazla iki defa
+Cumhurbaşkanı seçilebilir.
+
+Cumhurbaşkanlığına Türkiye Büyük Millet Meclisi üyeleri içinden veya
+Meclis dışından aday gösterilebilmesi yirmi milletvekilinin yazılı
+teklifi ile mümkündür. Ayrıca, en son yapılan milletvekili genel
+seçimlerinde geçerli oylar toplamı birlikte hesaplandığında yüzde onu
+geçen siyasi partiler ortak aday gösterebilir.
 
 Cumhurbaşkanı seçilenin, varsa partisi ile ilişiği kesilir ve Türkiye
-Büyük Millet Meclisi Üyeliği sona erer.
+Büyük Millet Meclisi üyeliği sona erer.
 
 *B. Seçimi*
 
-**Madde 102 –** Cumhurbaşkanı, Türkiye Büyük Millet Meclisi üye
-tamsayısının üçte iki çoğunluğu ile ve gizli oyla seçilir. Türkiye Büyük
-Millet Meclisi toplantı halinde değilse hemen toplantıya çağrılır.
+**Madde 102 – (Değişik: 31/5/2007-5678/5 md.)**
 
-Cumhurbaşkanının görev süresinin dolmasından otuz gün önce veya
-Cumhurbaşkanlığı makamının boşalmasından on gün sonra Cumhurbaşkanlığı
-seçimine başlanır ve seçime başlama tarihinden itibaren otuz gün içinde
-sonuçlandırılır. Bu sürenin ilk on günü içinde adayların Meclis
-Başkanlık Divanına bildirilmesi ve kalan yirmi gün içinde de seçimin
-tamamlanması gerekir.
+Cumhurbaşkanı seçimi, Cumhurbaşkanının görev süresinin dolmasından
+önceki altmış gün içinde; makamın herhangi bir sebeple boşalması halinde
+ise boşalmayı takip eden altmış gün içinde tamamlanır.
 
-En az üçer gün ara ile yapılacak oylamaların ilk ikisinde üye
-tamsayısının üçte iki çoğunluk oyu sağlanamazsa üçüncü oylamaya geçilir,
-üçüncü oylamada üye tamsayısının salt çoğunluğunu sağlayan aday
-Cumhurbaşkanı seçilmiş olur. Bu oylamada üye tamsayısının salt çoğunluğu
-sağlanamadığı takdirde üçüncü oylamada en çok oy almış bulunan iki aday
-arasında dördüncü oylama yapılır, bu oylamada da üye tamsayısının salt
-çoğunluğu ile Cumhurbaşkanı seçilemediği takdirde derhal Türkiye Büyük
-Millet Meclisi seçimleri yenilenir.
+Genel oyla yapılacak seçimde, geçerli oyların salt çoğunluğunu alan aday
+Cumhurbaşkanı seçilmiş olur. İlk oylamada bu çoğunluk sağlanamazsa, bu
+oylamayı izleyen ikinci pazar günü ikinci oylama yapılır. Bu oylamaya,
+ilk oylamada en çok oy almış bulunan iki aday katılır ve geçerli oyların
+çoğunluğunu alan aday Cumhurbaşkanı seçilmiş olur.
 
-Seçilen yeni Cumhurbaşkanı göreve başlayıncaya kadar görev süresi dolan
+İkinci oylamaya katılmaya hak kazanan adaylardan birinin ölümü veya
+seçilme yeterliğini kaybetmesi halinde; ikinci oylama, boşalan adaylığın
+birinci oylamadaki sıraya göre ikame edilmesi suretiyle yapılır. İkinci
+oylamaya tek adayın kalması halinde, bu oylama referandum şeklinde
+yapılır. Aday, geçerli oyların çoğunluğunu aldığı takdirde Cumhurbaşkanı
+seçilmiş olur.
+
+Cumhurbaşkanı göreve başlayıncaya kadar görev süresi dolan
 Cumhurbaşkanının görevi devam eder.
+
+Cumhurbaşkanlığı seçimine ilişkin usûl ve esaslar kanunla düzenlenir.
 
 *C. Andiçmesi *
 
@@ -3874,13 +3894,18 @@ halkoylamasına sunulması halinde oylanır.
 **Madde 2 –** Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna
 sunulması halinde oylanır.
 
+**11- 31/5/2007 tarihli ve 5678 sayılı Kanunun 7 nci Maddesi:**
+
+**Madde 7 –** Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna
+sunulması halinde tümüyle oylanır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Değiştiren **        **2709 sayılı Kanunun değişen maddeleri**                                                                                                                                               **Yürürlüğe Giriş Tarihi**
                                                                                                                                                                                                                  
   **Kanunun Numarası**                                                                                                                                                                                           
@@ -3914,6 +3939,13 @@ sunulması halinde oylanır.
   5551                   76, İşlenemeyen Hüküm                                                                                                                                                                   17/10/2006
 
   5659                   67, İşlenemeyen Hüküm                                                                                                                                                                   18/5/2007
-  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+  5678 ^(1)^             77, 79, 96, 101, 102, İşlenemeyen Hüküm                                                                                                                                                 (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
+  ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+––––––––––––––
+
+*(1) Halkoylamasına sunulan 5678 sayılı Kanunun 6 ncı maddesiyle Türkiye
+Cumhuriyeti Anayasasına eklenen geçici 18 ve 19 uncu maddeler,
+16/10/2007 tarihli ve 5697 sayılı Kanunla halkoylamasına sunulan
+metinden çıkarılmıştır.*
