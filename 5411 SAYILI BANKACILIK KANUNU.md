@@ -1,165 +1,187 @@
-**6456 sayılı Kanun ile değişik hali**
+**6493 sayılı Kanun ile değişik hali**
+
+ 
 
 **BANKACILIK KANUNU**
 
-**Kanun Numarası : 5411**
+ 
 
-**Kabul Tarihi : 19/10/2005**
+          Kanun Numarası                : 5411
 
-**Yayımlandığı R.Gazete : Tarih: 1/11/2005 Sayı : 25983 (Mük.)**
+          Kabul Tarihi                       : 19/10/2005
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 45 **
+          Yayımlandığı R.Gazete     : Tarih: 1/11/2005 Sayı : 25983
+(Mük.)
+
+          Yayımlandığı Düstur         : Tertip : 5  Cilt : 45 
 
 ** **
+
+ 
+
+ 
 
 BİRİNCİ KISIM
 
 *Genel Hükümler*
 
-*Amaç*
+*             Amaç*
 
-**Madde 1 —** Bu Kanunun amacı, finansal piyasalarda güven ve istikrarın
-sağlanmasına, kredi sisteminin etkin bir şekilde çalışmasına, tasarruf
-sahiplerinin hak ve menfaatlerinin korunmasına ilişkin usûl ve esasları
-düzenlemektir.
+**             Madde 1 —** Bu Kanunun amacı, finansal piyasalarda güven
+ve istikrarın sağlanmasına, kredi sisteminin etkin bir şekilde
+çalışmasına, tasarruf sahiplerinin hak ve menfaatlerinin korunmasına
+ilişkin usûl ve esasları düzenlemektir.
 
-*Kapsam*
+**            ** *Kapsam*
 
-**Madde 2 —** Türkiye'de kurulu mevduat bankaları, katılım bankaları,
-kalkınma ve yatırım bankaları, yurt dışında kurulu bu nitelikteki
-kuruluşların Türkiye'deki şubeleri, finansal holding şirketleri, Türkiye
-Bankalar Birliği, Türkiye Katılım Bankaları Birliği, Bankacılık
-Düzenleme ve Denetleme Kurumu, Tasarruf Mevduatı Sigorta Fonu ve
-bunların faaliyetleri bu Kanun hükümlerine tâbidir.
+**             Madde 2 —** Türkiye'de kurulu mevduat bankaları, katılım
+bankaları, kalkınma ve yatırım bankaları, yurt dışında kurulu bu
+nitelikteki kuruluşların Türkiye'deki şubeleri, finansal holding
+şirketleri, Türkiye Bankalar Birliği, Türkiye Katılım Bankaları Birliği,
+Bankacılık Düzenleme ve Denetleme Kurumu, Tasarruf Mevduatı Sigorta Fonu
+ve bunların faaliyetleri bu Kanun hükümlerine tâbidir.
 
-Özel kanunlarla kurulmuş olan bankalar hakkında da kanunlarında yer alan
-hükümler saklı kalmak kaydıyla bu Kanun hükümleri uygulanır.
+             Özel kanunlarla kurulmuş olan bankalar hakkında da
+kanunlarında yer alan hükümler saklı kalmak kaydıyla bu Kanun hükümleri
+uygulanır.
 
-Bu Kanunda hüküm bulunmayan hallerde genel hükümler tatbik olunur.
+             Bu Kanunda hüküm bulunmayan hallerde genel hükümler tatbik
+olunur.
 
-*Tanımlar ve kısaltmalar*
+*             Tanımlar ve kısaltmalar*
 
-**Madde 3 —** Bu Kanunun uygulanmasında;
+**             Madde 3 —** Bu Kanunun uygulanmasında;
 
-İlişkili Bakan: Başbakan veya görevlendireceği Devlet Bakanını,
+             İlişkili Bakan: Başbakan veya görevlendireceği Devlet
+Bakanını,
 
-Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,
+             Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,
 
-Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
+             Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
 
-Başkan: Bankacılık Düzenleme ve Denetleme Kurulu Başkanını,
+             Başkan: Bankacılık Düzenleme ve Denetleme Kurulu Başkanını,
 
-Merkez Bankası: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,
+             Merkez Bankası: Türkiye Cumhuriyet Merkez Bankası Anonim
+Şirketini,
 
-Fon: Tasarruf Mevduatı Sigorta Fonunu,
+             Fon: Tasarruf Mevduatı Sigorta Fonunu,
 
-Fon Kurulu: Tasarruf Mevduatı Sigorta Fonu Kurulunu,
+             Fon Kurulu: Tasarruf Mevduatı Sigorta Fonu Kurulunu,
 
-Fon Başkanı: Tasarruf Mevduatı Sigorta Fonu Kurulu Başkanını,
+             Fon Başkanı: Tasarruf Mevduatı Sigorta Fonu Kurulu
+Başkanını,
 
-Kredi kuruluşu: Mevduat bankalarını ve katılım bankalarını,
+             Kredi kuruluşu: Mevduat bankalarını ve katılım bankalarını,
 
-Kuruluş birlikleri: Türkiye Bankalar Birliği ve Türkiye Katılım
-Bankaları Birliğini,
+             Kuruluş birlikleri: Türkiye Bankalar Birliği ve Türkiye
+Katılım Bankaları Birliğini,
 
-Banka: Mevduat bankaları ve katılım bankaları ile kalkınma ve yatırım
-bankalarını,
+             Banka: Mevduat bankaları ve katılım bankaları ile kalkınma
+ve yatırım bankalarını,
 
-Mevduat bankası: Bu Kanuna göre kendi nam ve hesabına mevduat kabul
-etmek ve kredi kullandırmak esas olmak üzere faaliyet gösteren
-kuruluşlar ile yurt dışında kurulu bu nitelikteki kuruluşların
+             Mevduat bankası: Bu Kanuna göre kendi nam ve hesabına
+mevduat kabul etmek ve kredi kullandırmak esas olmak üzere faaliyet
+gösteren kuruluşlar ile yurt dışında kurulu bu nitelikteki kuruluşların
 Türkiye'deki şubelerini,
 
-Katılım bankası: Bu Kanuna göre özel cari ve katılma hesapları yoluyla
-fon toplamak ve kredi kullandırmak esas olmak üzere faaliyet gösteren
-kuruluşlar ile yurt dışında kurulu bu nitelikteki kuruluşların
-Türkiye'deki şubelerini,
+             Katılım bankası: Bu Kanuna göre özel cari ve katılma
+hesapları yoluyla fon toplamak ve kredi kullandırmak esas olmak üzere
+faaliyet gösteren kuruluşlar ile yurt dışında kurulu bu nitelikteki
+kuruluşların Türkiye'deki şubelerini,
 
 9538
 
-Kalkınma ve yatırım bankası: Bu Kanuna göre mevduat veya katılım fonu
-kabul etme dışında; kredi kullandırmak esas olmak üzere faaliyet
-gösteren ve/veya özel kanunlarla kendilerine verilen görevleri yerine
-getiren kuruluşlar ile yurt dışında kurulu bu nitelikteki kuruluşların
-Türkiye'deki şubelerini,
+########  
 
-Finansal holding şirketi: İçlerinden en az bir tanesi bir kredi kuruluşu
-olmak şartıyla bağlı ortaklıklarının tümü veya çoğunluğu kredi kuruluşu
-veya finansal kuruluş olan şirketi,
+             Kalkınma ve yatırım bankası: Bu Kanuna göre mevduat veya
+katılım fonu kabul etme dışında; kredi kullandırmak esas olmak üzere
+faaliyet gösteren ve/veya özel kanunlarla kendilerine verilen görevleri
+yerine getiren kuruluşlar ile yurt dışında kurulu bu nitelikteki
+kuruluşların Türkiye'deki şubelerini,
 
-Şube: Elektronik işlem cihazlarından ibaret birimler hariç olmak üzere,
-bankaların bağımlı bir parçasını oluşturan ve bu kuruluşların
-faaliyetlerinin tamamını veya bir kısmını kendi başına yapan, sabit ya
-da seyyar bürolar gibi her türlü işyerini,
+             Finansal holding şirketi: İçlerinden en az bir tanesi bir
+kredi kuruluşu olmak şartıyla bağlı ortaklıklarının tümü veya çoğunluğu
+kredi kuruluşu veya finansal kuruluş olan şirketi,
 
-Merkez şube: Yurt dışında kurulu bir bankanın Türkiye'de açtığı şubeyi,
-birden fazla şubenin olması hâlinde ise Kuruma bildirilecek ve Kurulca
-onaylanacak şubeyi,
+             Şube: Elektronik işlem cihazlarından ibaret birimler hariç
+olmak üzere, bankaların bağımlı bir parçasını oluşturan ve bu
+kuruluşların faaliyetlerinin tamamını veya bir kısmını kendi başına
+yapan, sabit ya da seyyar bürolar gibi her türlü işyerini,
 
-Fon bankası: Mülga 3182 sayılı Bankalar Kanunu, bu Kanunla yürürlükten
-kaldırılan 4389 sayılı Bankalar Kanunu ve bu Kanun uyarınca temettü
-hariç ortaklık hakları ile yönetimi ve denetimi Fona intikal eden
-bankalar ile Fonun çoğunluk hissesine sahip olduğu bankaları,
+             Merkez şube: Yurt dışında kurulu bir bankanın Türkiye'de
+açtığı şubeyi, birden fazla şubenin olması hâlinde ise Kuruma
+bildirilecek ve Kurulca onaylanacak şubeyi,
 
-Finansal kuruluş: Kredi kuruluşları dışında kalan ve sigortacılık,
-bireysel emeklilik veya sermaye piyasası faaliyetlerinde bulunmak veya
-bu Kanunda yer alan faaliyet konularından en az birini yürütmek üzere
-kurulan kuruluşlar ile kalkınma ve yatırım bankaları ve finansal holding
-şirketlerini,
+             Fon bankası: Mülga 3182 sayılı Bankalar Kanunu, bu Kanunla
+yürürlükten kaldırılan 4389 sayılı Bankalar Kanunu ve bu Kanun uyarınca
+temettü hariç ortaklık hakları ile yönetimi ve denetimi Fona intikal
+eden bankalar ile Fonun çoğunluk hissesine sahip olduğu bankaları,
 
-Kontrol: Bir tüzel kişinin; sermayesinin, asgarî yüzde ellibirine sahip
-olma şartı aranmaksızın, çoğunluğuna doğrudan veya dolaylı olarak sahip
-olunması veya bu çoğunluğa sahip olunmamakla birlikte imtiyazlı
-hisselerin elde bulundurulması veya diğer hissedarlarla yapılan
-anlaşmalara istinaden oy hakkının çoğunluğu üzerinde tasarrufta
-bulunulması suretiyle veya herhangi bir suretle yönetim kurulu
-üyelerinin karara esas çoğunluğunu atayabilme ya da görevden alma
-gücünün elde bulundurulmasını,
+             Finansal kuruluş: Kredi kuruluşları dışında kalan ve
+sigortacılık, bireysel emeklilik veya sermaye piyasası faaliyetlerinde
+bulunmak veya bu Kanunda yer alan faaliyet konularından en az birini
+yürütmek üzere kurulan kuruluşlar ile kalkınma ve yatırım bankaları ve
+finansal holding şirketlerini,
 
-Ana ortaklık: Kontrolündeki ortaklıklar ile Kurul tarafından belirlenen
-usûl ve esaslarla tanımlanan ortaklıkların finansal tablolarını kendi
-nezdinde konsolide eden banka veya finansal holding şirketini,
+             Kontrol: Bir tüzel kişinin; sermayesinin, asgarî yüzde
+ellibirine sahip olma şartı aranmaksızın, çoğunluğuna doğrudan veya
+dolaylı olarak sahip olunması veya bu çoğunluğa sahip olunmamakla
+birlikte imtiyazlı hisselerin elde bulundurulması veya diğer
+hissedarlarla yapılan anlaşmalara istinaden oy hakkının çoğunluğu
+üzerinde tasarrufta bulunulması suretiyle veya herhangi bir suretle
+yönetim kurulu üyelerinin karara esas çoğunluğunu atayabilme ya da
+görevden alma gücünün elde bulundurulmasını,
 
-Bağlı ortaklık: Ana ortaklığın kontrolü altında faaliyet gösteren
-ortaklıkları,
+             Ana ortaklık: Kontrolündeki ortaklıklar ile Kurul
+tarafından belirlenen usûl ve esaslarla tanımlanan ortaklıkların
+finansal tablolarını kendi nezdinde konsolide eden banka veya finansal
+holding şirketini,
 
-Nitelikli pay: Bir ortaklığın sermayesinin veya oy haklarının doğrudan
-veya dolaylı olarak yüzde on veya daha fazlasını teşkil eden paylar ile
-bu oranın altında olsa dahi yönetim kurullarına üye belirleme imtiyazı
-veren payları,
+             Bağlı ortaklık: Ana ortaklığın kontrolü altında faaliyet
+gösteren ortaklıkları,
 
-Hâkim ortak: Bir ortaklığı doğrudan ya da dolaylı olarak, tek başına
-veya birlikte kontrol eden gerçek veya tüzel kişiyi,
+             Nitelikli pay: Bir ortaklığın sermayesinin veya oy
+haklarının doğrudan veya dolaylı olarak yüzde on veya daha fazlasını
+teşkil eden paylar ile bu oranın altında olsa dahi yönetim kurullarına
+üye belirleme imtiyazı veren payları,
 
-Yöneticiler: Bankanın yönetim kurulu, denetim komitesi ve kredi komitesi
-başkan ve üyeleri ile genel müdür, genel müdür yardımcıları ve imza
-yetkisine sahip mensuplarından; bölge müdürleri, şube müdürleri ve genel
-müdürlük merkez teşkilatında yer alan bölüm, kısım, grup ve bunlara
-eşdeğer isimler altında faaliyet gösteren birimlerin yöneticilerini,
+             Hâkim ortak: Bir ortaklığı doğrudan ya da dolaylı olarak,
+tek başına veya birlikte kontrol eden gerçek veya tüzel kişiyi,
 
-Mevduat: Yazılı ya da sözlü olarak veya herhangi bir şekilde halka
-duyurulmak suretiyle ivazsız veya bir ivaz karşılığında, istendiğinde ya
-da belli bir vadede geri ödenmek üzere kabul edilen parayı,
+             Yöneticiler: Bankanın yönetim kurulu, denetim komitesi ve
+kredi komitesi başkan ve üyeleri ile genel müdür, genel müdür
+yardımcıları ve imza yetkisine sahip mensuplarından; bölge müdürleri,
+şube müdürleri ve genel müdürlük merkez teşkilatında yer alan bölüm,
+kısım, grup ve bunlara eşdeğer isimler altında faaliyet gösteren
+birimlerin yöneticilerini,
 
-Tasarruf mevduatı: Mevduat bankaları nezdinde açtırılan, gerçek kişilere
-ait ve münhasıran çek keşide edilmesi dışında ticari işlemlere konu
-olmayan mevduat hesaplarını,
+             Mevduat: Yazılı ya da sözlü olarak veya herhangi bir
+şekilde halka duyurulmak suretiyle ivazsız veya bir ivaz karşılığında,
+istendiğinde ya da belli bir vadede geri ödenmek üzere kabul edilen
+parayı,
 
-Özel cari hesap: Katılım bankalarında açılabilen ve istenildiğinde
-kısmen veya tamamen her an geri çekilebilme özelliği taşıyan ve
-karşılığında hesap sahibine herhangi bir getiri ödenmeyen fonların
-oluşturduğu hesapları,
+             Tasarruf mevduatı: Mevduat bankaları nezdinde açtırılan,
+gerçek kişilere ait ve münhasıran çek keşide edilmesi dışında ticari
+işlemlere konu olmayan mevduat hesaplarını,
+
+             Özel cari hesap: Katılım bankalarında açılabilen ve
+istenildiğinde kısmen veya tamamen her an geri çekilebilme özelliği
+taşıyan ve karşılığında hesap sahibine herhangi bir getiri ödenmeyen
+fonların oluşturduğu hesapları,
 
 9539
 
-Katılma hesabı: Katılım bankalarına yatırılan fonların bu kurumlarca
-kullandırılmasından doğacak kâr veya zarara katılma sonucunu veren,
-karşılığında hesap sahibine önceden belirlenmiş herhangi bir getiri
-ödenmeyen ve anaparanın aynen geri ödenmesi garanti edilmeyen fonların
-oluşturduğu hesapları,
+########  
 
-Katılım fonu: Katılım bankaları nezdinde açtırılan gerçek ve tüzel
-kişilere ait özel cari hesap ve katılma hesaplarında yer alan parayı,
+            Katılma hesabı: Katılım bankalarına yatırılan fonların bu
+kurumlarca kullandırılmasından doğacak kâr veya zarara katılma sonucunu
+veren, karşılığında hesap sahibine önceden belirlenmiş herhangi bir
+getiri ödenmeyen ve anaparanın aynen geri ödenmesi garanti edilmeyen
+fonların oluşturduğu hesapları,
+
+           Katılım fonu: Katılım bankaları nezdinde açtırılan gerçek ve
+tüzel kişilere ait özel cari hesap ve katılma hesaplarında yer alan
+parayı,
 
 **(Değişik: 13/2/2011-6111/142 md.)** Destek hizmeti kuruluşu:
 Bankaların, mevduat veya katılım fonu kabulü, nakdî, gayrinakdî her cins
@@ -170,94 +192,102 @@ dışındaki faaliyetlerinden herhangi birinin pazarlanması da dâhil
 gerçekleştirilmesinde bankaya yardımcı nitelikte hizmet veren
 kuruluşları,
 
-Kıyı bankacılığı: Bankacılık faaliyetleri, kurulu bulunulan ülke harici
-ile sınırlı tutulan veya ülke genelinde uygulanan ekonomik ve malî
-mevzuata tâbi olmayan ya da kurulu bulunulan ülkede yerleşik olanlardan
-mevduat ve fon kabulünün yasaklandığı bankacılığı,
+             Kıyı bankacılığı: Bankacılık faaliyetleri, kurulu bulunulan
+ülke harici ile sınırlı tutulan veya ülke genelinde uygulanan ekonomik
+ve malî mevzuata tâbi olmayan ya da kurulu bulunulan ülkede yerleşik
+olanlardan mevduat ve fon kabulünün yasaklandığı bankacılığı,
 
-İfade eder.
+             İfade eder.
 
-*Faaliyet konuları*
+*             Faaliyet konuları*
 
-**Madde 4 —** Bankalar, diğer kanunlarda öngörülen hükümler saklı kalmak
-kaydıyla aşağıda belirtilen faaliyetleri gerçekleştirebilirler:
+**             Madde 4 —** Bankalar, diğer kanunlarda öngörülen hükümler
+saklı kalmak kaydıyla aşağıda belirtilen faaliyetleri
+gerçekleştirebilirler:
 
-a\) Mevduat kabulü.
+             a) Mevduat kabulü.
 
-b\) Katılım fonu kabulü.
+             b) Katılım fonu kabulü.
 
-c\) Nakdî, gayrinakdî her cins ve surette kredi verme işlemleri.
-
-d\) Nakdî ve kaydî ödeme ve fon transferi işlemleri, muhabir bankacılık
-veya çek hesaplarının kullanılması dahil her türlü ödeme ve tahsilat
+             c) Nakdî, gayrinakdî her cins ve surette kredi verme
 işlemleri.
 
-e\) Çek ve diğer kambiyo senetlerinin iştirası işlemleri.
+             d) Nakdî ve kaydî ödeme ve fon transferi işlemleri, muhabir
+bankacılık veya çek hesaplarının kullanılması dahil her türlü ödeme ve
+tahsilat işlemleri.
 
-f\) Saklama hizmetleri.
+             e) Çek ve diğer kambiyo senetlerinin iştirası işlemleri.
 
-g\) Kredi kartları, banka kartları ve seyahat çekleri gibi ödeme
-vasıtalarının ihracı ve bunlarla ilgili faaliyetlerin yürütülmesi
+             f) Saklama hizmetleri.
+
+             g) Kredi kartları, banka kartları ve seyahat çekleri gibi
+ödeme vasıtalarının ihracı ve bunlarla ilgili faaliyetlerin yürütülmesi
 işlemleri.
 
-h\) Efektif dahil kambiyo işlemleri; para piyasası araçlarının alım ve
-satımı; kıymetli maden ve taşların alımı, satımı veya bunların emanete
-alınması işlemleri.
+             h) Efektif dahil kambiyo işlemleri; para piyasası
+araçlarının alım ve satımı; kıymetli maden ve taşların alımı, satımı
+veya bunların emanete alınması işlemleri.
 
-i\) Ekonomik ve finansal göstergelere, sermaye piyasası araçlarına, mala,
-kıymetli madenlere ve dövize dayalı; vadeli işlem sözleşmelerinin,
-opsiyon sözleşmelerinin, birden fazla türev aracı içeren basit veya
-karmaşık yapıdaki finansal araçların alımı, satımı ve aracılık
-işlemleri.
-
-j\) Sermaye piyasası araçlarının alım ve satımı ile geri alım veya tekrar
-satım taahhüdü işlemleri.
-
-k\) Sermaye piyasası araçlarının ihraç veya halka arz yoluyla satışına
+             i) Ekonomik ve finansal göstergelere, sermaye piyasası
+araçlarına, mala, kıymetli madenlere ve dövize dayalı; vadeli işlem
+sözleşmelerinin, opsiyon sözleşmelerinin, birden fazla türev aracı
+içeren basit veya karmaşık yapıdaki finansal araçların alımı, satımı ve
 aracılık işlemleri.
 
-l\) Daha önce ihraç edilmiş olan sermaye piyasası araçlarının aracılık
-maksadıyla alım satımının yürütülmesi işlemleri.
+             j) Sermaye piyasası araçlarının alım ve satımı ile geri
+alım veya tekrar satım taahhüdü işlemleri.
 
-m\) Başkaları lehine teminat, garanti ve sair yükümlülüklerin
-üstlenilmesi işlemleri gibi garanti işleri.
+             k) Sermaye piyasası araçlarının ihraç veya halka arz
+yoluyla satışına aracılık işlemleri.
 
-n\) Yatırım danışmanlığı işlemleri.
+             l) Daha önce ihraç edilmiş olan sermaye piyasası
+araçlarının aracılık maksadıyla alım satımının yürütülmesi işlemleri.
 
-o\) Portföy işletmeciliği ve yönetimi.
+             m) Başkaları lehine teminat, garanti ve sair
+yükümlülüklerin üstlenilmesi işlemleri gibi garanti işleri.
 
-p\) Hazine Müsteşarlığı ve/veya Merkez Bankası ve kuruluş birlikleri
-nezdinde oluşturulan bir sözleşme kapsamında üstlenilen yükümlülükler
-çerçevesinde alım satım işlemlerine ilişkin piyasa yapıcılığı.
+             n) Yatırım danışmanlığı işlemleri.
+
+             o) Portföy işletmeciliği ve yönetimi.
+
+             p) Hazine Müsteşarlığı ve/veya Merkez Bankası ve kuruluş
+birlikleri nezdinde oluşturulan bir sözleşme kapsamında üstlenilen
+yükümlülükler çerçevesinde alım satım işlemlerine ilişkin piyasa
+yapıcılığı.
 
 9540
 
-r\) Faktöring ve forfaiting işlemleri.
+########  
 
-s\) Bankalararası piyasada para alım satımı işlemlerine aracılık.
+             r) Faktöring ve forfaiting işlemleri.
 
-t\) Finansal kiralama işlemleri.
+             s) Bankalararası piyasada para alım satımı işlemlerine
+aracılık.
 
-u\) Sigorta acenteliği ve bireysel emeklilik aracılık hizmetleri.
+             t) Finansal kiralama işlemleri.
 
-v\) Kurulca belirlenecek diğer faaliyetler.
+             u) Sigorta acenteliği ve bireysel emeklilik aracılık
+hizmetleri.
 
-Mevduat bankaları birinci fıkranın (b) ve (t), katılım bankaları (a),
-kalkınma ve yatırım bankaları (a) ve (b) bentlerinde belirtilen
-faaliyetleri gerçekleştiremezler.
+             v) Kurulca belirlenecek diğer faaliyetler.
 
-*Dolaylı pay sahipliği *
+             Mevduat bankaları birinci fıkranın (b) ve (t), katılım
+bankaları (a), kalkınma ve yatırım bankaları (a) ve (b) bentlerinde
+belirtilen faaliyetleri gerçekleştiremezler.
 
-**Madde 5 —** Bu Kanunun uygulanmasında, gerçek kişilere ait dolaylı pay
-sahipliğinin belirlenmesinde, bir gerçek kişi ile eş ve çocuklarına ve
-bunların sınırsız sorumlulukla katıldıkları ortaklıklara veya bu kişi
-veya ortaklıkların ayrı ayrı veya birlikte kontrol ettikleri
-ortaklıklara ait paylar birlikte dikkate alınır. Tüzel kişilere ait
-dolaylı pay sahipliğinin belirlenmesinde, bunlara ait paylar ile
-bunların kontrol ettikleri ortaklıklara ait paylar birlikte hesaplanır.
+*             Dolaylı pay sahipliği *
 
-Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurul tarafından
-belirlenir.
+**             Madde 5 —** Bu Kanunun uygulanmasında, gerçek kişilere
+ait dolaylı pay sahipliğinin belirlenmesinde, bir gerçek kişi ile eş ve
+çocuklarına ve bunların sınırsız sorumlulukla katıldıkları ortaklıklara
+veya bu kişi veya ortaklıkların ayrı ayrı veya birlikte kontrol
+ettikleri ortaklıklara ait paylar birlikte dikkate alınır. Tüzel
+kişilere ait dolaylı pay sahipliğinin belirlenmesinde, bunlara ait
+paylar ile bunların kontrol ettikleri ortaklıklara ait paylar birlikte
+hesaplanır.
+
+             Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurul
+tarafından belirlenir.
 
  
 
@@ -269,382 +299,406 @@ BİRİNCİ BÖLÜM
 
 *Kuruluş ve Faaliyet İzinleri*
 
-*Kuruluş veya Türkiye'de şube ve temsilcilik açma izni*
+*             Kuruluş veya Türkiye'de şube ve temsilcilik açma izni*
 
-**Madde 6 —** Türkiye'de bir bankanın kurulmasına veya yurt dışında
-kurulmuş bir bankanın Türkiye'deki ilk şubesinin açılmasına, bu Kanunda
-öngörülen şartların yerine getirilmesi kaydıyla Kurulun en az beş
-üyesinin aynı yöndeki oyuyla alınacak kararla izin verilir.
+**             Madde 6 —** Türkiye'de bir bankanın kurulmasına veya yurt
+dışında kurulmuş bir bankanın Türkiye'deki ilk şubesinin açılmasına, bu
+Kanunda öngörülen şartların yerine getirilmesi kaydıyla Kurulun en az
+beş üyesinin aynı yöndeki oyuyla alınacak kararla izin verilir.
 
-İzin için yapılacak başvurulara ve iznin verilmesine ilişkin usûl ve
-esaslar Kurulca çıkarılacak yönetmelikle belirlenir. İzne ilişkin karar,
-başvurunun yapıldığı ya da başvuruda eksiklik bulunması hâlinde,
-istenilen bilgi ve belgelerin tamamlandığı tarihten itibaren üç ay
-içinde ilgiliye bildirilir. Eksikliklerin altı ay içinde giderilmemesi
-hâlinde başvuru geçersiz hale gelir.
+             İzin için yapılacak başvurulara ve iznin verilmesine
+ilişkin usûl ve esaslar Kurulca çıkarılacak yönetmelikle belirlenir.
+İzne ilişkin karar, başvurunun yapıldığı ya da başvuruda eksiklik
+bulunması hâlinde, istenilen bilgi ve belgelerin tamamlandığı tarihten
+itibaren üç ay içinde ilgiliye bildirilir. Eksikliklerin altı ay içinde
+giderilmemesi hâlinde başvuru geçersiz hale gelir.
 
-Türkiye'de münhasıran kıyı bankacılığı faaliyetinde bulunmak üzere banka
-kurulması veya yurt dışında kurulu bankalarca bu amaçla şube açılması,
-bunların faaliyet alanları ile finansal raporlama ve denetim usûlleri ve
-faaliyetlerinin geçici veya sürekli olarak durdurulması hususları Kurul
-kararıyla belirlenir.
+             Türkiye'de münhasıran kıyı bankacılığı faaliyetinde
+bulunmak üzere banka kurulması veya yurt dışında kurulu bankalarca bu
+amaçla şube açılması, bunların faaliyet alanları ile finansal raporlama
+ve denetim usûlleri ve faaliyetlerinin geçici veya sürekli olarak
+durdurulması hususları Kurul kararıyla belirlenir.
 
-Yurt dışında kurulu bankalar, mevduat veya katılım fonu kabul etmemek ve
-Kurulca belirlenecek esaslara göre faaliyet göstermek kaydıyla, Kurulun
-izni ile Türkiye'de temsilcilik açabilirler.
+             Yurt dışında kurulu bankalar, mevduat veya katılım fonu
+kabul etmemek ve Kurulca belirlenecek esaslara göre faaliyet göstermek
+kaydıyla, Kurulun izni ile Türkiye'de temsilcilik açabilirler.
 
-*Kuruluş şartları*
+*             Kuruluş şartları*
 
-**Madde 7 —** Türkiye'de kurulacak bir bankanın;
+**             Madde 7 —** Türkiye'de kurulacak bir bankanın;
 
-a\) Anonim şirket şeklinde kurulması,
+             a) Anonim şirket şeklinde kurulması,
 
-b\) Hisse senetlerinin nakit karşılığı çıkarılması ve tamamının nama
-yazılı olması,
+             b) Hisse senetlerinin nakit karşılığı çıkarılması ve
+tamamının nama yazılı olması,
 
-c\) Kurucularının bu Kanunda belirtilen şartları haiz olması,
+             c) Kurucularının bu Kanunda belirtilen şartları haiz
+olması,
 
-d\) Yönetim kurulu üyelerinin bu Kanunun kurumsal yönetim hükümlerinde
-belirtilen nitelikleri ve plânlanan faaliyetleri gerçekleştirebilecek
-meslekî tecrübeyi haiz olması,
+             d) Yönetim kurulu üyelerinin bu Kanunun kurumsal yönetim
+hükümlerinde belirtilen nitelikleri ve plânlanan faaliyetleri
+gerçekleştirebilecek meslekî tecrübeyi haiz olması,
 
-e\) Öngörülen faaliyet konularının plânlanan malî, yönetim ve
-organizasyon yapısı ile uyumlu olması,
+             e) Öngörülen faaliyet konularının plânlanan malî, yönetim
+ve organizasyon yapısı ile uyumlu olması,
 
-f\) Nakden ve her türlü muvazaadan âri olarak ödenmiş sermayesinin en az
-otuzmilyon Yeni Türk Lirası olması,
+             f) Nakden ve her türlü muvazaadan âri olarak ödenmiş
+sermayesinin en az otuzmilyon Yeni Türk Lirası olması,
 
 9541
 
-g\) Ana sözleşmesinin bu Kanun hükümlerine uygun olması,
+########  
 
-h\) Kurumun etkin denetimini engellemeyecek şeffaf ve açık bir ortaklık
-yapısı ve organizasyon şemasına sahip olması,
+             g) Ana sözleşmesinin bu Kanun hükümlerine uygun olması,
 
-i\) Konsolide denetimini engelleyici nitelikte herhangi bir hususun
-bulunmaması,
+             h) Kurumun etkin denetimini engellemeyecek şeffaf ve açık
+bir ortaklık yapısı ve organizasyon şemasına sahip olması,
 
-j\) Öngörülen faaliyet konularına ait iş plânlarını, kuruluşun malî
-yapısı ile ilgili projeksiyonlarını sermaye yeterliliğini de içerecek
-şekilde, ilk üç yıl için bütçe plânını ve yapısal örgütlenmesini
-gösteren bir faaliyet programını iç kontrol, risk yönetimi ve iç denetim
-sistemi de dahil olmak üzere ibraz etmesi,
+             i) Konsolide denetimini engelleyici nitelikte herhangi bir
+hususun bulunmaması,
 
-Şarttır.
+             j) Öngörülen faaliyet konularına ait iş plânlarını,
+kuruluşun malî yapısı ile ilgili projeksiyonlarını sermaye yeterliliğini
+de içerecek şekilde, ilk üç yıl için bütçe plânını ve yapısal
+örgütlenmesini gösteren bir faaliyet programını iç kontrol, risk
+yönetimi ve iç denetim sistemi de dahil olmak üzere ibraz etmesi,
 
-Kalkınma ve yatırım bankaları için ödenmiş sermaye, birinci fıkranın (f)
-bendinde belirtilen tutarın üçte ikisinden az olamaz.
+             Şarttır.
 
-Bu maddenin uygulamasına ilişkin usûl ve esaslar Kurulca belirlenir.
+             Kalkınma ve yatırım bankaları için ödenmiş sermaye, birinci
+fıkranın (f) bendinde belirtilen tutarın üçte ikisinden az olamaz.
 
-*Kurucularda aranan şartlar*
+             Bu maddenin uygulamasına ilişkin usûl ve esaslar Kurulca
+belirlenir.
 
-**Madde 8 —** Bankaların kurucu ortaklarının;
+*             Kurucularda aranan şartlar*
 
-a\) 2004 sayılı İcra ve İflas Kanunu hükümlerine göre müflis olmaması,
-konkordato ilân etmiş olmaması, uzlaşma suretiyle yeniden yapılandırma
-başvurusunun tasdik edilmiş olmaması ya da hakkında iflasın ertelenmesi
-kararı verilmiş olmaması,
+**             Madde 8 —** Bankaların kurucu ortaklarının;
 
-b\) Bu Kanunun 71 inci maddesi uygulanan bankalarda veya bu Kanunun
-yürürlüğe girmesinden önce Fona devredilmiş olan bankalarda nitelikli
-paya sahip olmaması veya kontrolü elinde bulundurmaması,
+             a) 2004 sayılı İcra ve İflas Kanunu hükümlerine göre müflis
+olmaması, konkordato ilân etmiş olmaması, uzlaşma suretiyle yeniden
+yapılandırma başvurusunun tasdik edilmiş olmaması ya da hakkında iflasın
+ertelenmesi kararı verilmiş olmaması,
 
-c\) Tasfiyeye tâbi tutulan bankerler ile iradî tasfiye haricinde
-tasfiyeye tâbi tutulan finansal kuruluşlarda, faaliyet izni kaldırılan
-kalkınma ve yatırım bankalarında, ortaklarının temettü hariç ortaklık
-hakları ile yönetim ve denetimi Fona intikal eden veya bankacılık yapma
-ve mevduat ve katılım fonu kabul etme izin ve yetkileri kaldırılan kredi
-kuruluşlarında, Fona intikalinden veya bankacılık yapma ve mevduat ve
-katılım fonu kabul etme izin ve yetkileri kaldırılmadan önce nitelikli
-paya sahip olmaması veya kontrolü elinde bulundurmaması,
+             b) Bu Kanunun 71 inci maddesi uygulanan bankalarda veya bu
+Kanunun yürürlüğe girmesinden önce Fona devredilmiş olan bankalarda
+nitelikli paya sahip olmaması veya kontrolü elinde bulundurmaması,
 
-d\) Taksirli suçlar hariç olmak üzere affa uğramış olsalar bile mülga 765
-sayılı Türk Ceza Kanunu ve diğer kanunlar uyarınca ağır hapis veya beş
-yıldan fazla hapis, 5237 sayılı Türk Ceza Kanunu ve diğer kanunlar
-uyarınca üç yıldan fazla hapis cezasıyla cezalandırılmamış olması veya
-mülga 3182 sayılı Bankalar Kanununun, bu Kanunla yürürlükten kaldırılan
-4389 sayılı Bankalar Kanununun, bu Kanunun ve 2499 sayılı Sermaye
-Piyasası Kanununun ve ödünç para verme işleri hakkında mevzuatın hapis
-cezası gerektiren hükümlerine muhalefet yahut mülga 765 sayılı Türk Ceza
-Kanunu, 5237 sayılı Türk Ceza Kanunu veya diğer kanunlar uyarınca basit
-veya nitelikli zimmet, zimmet, irtikâp, rüşvet, hırsızlık,
-dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi
-yüz kızartıcı suçlar ile istimal ve istihlâk kaçakçılığı dışında kalan
-kaçakçılık suçları, resmî ihale ve alım satımlara fesat karıştırma,
-karapara aklama veya Devletin şahsiyetine karşı işlenen suçlar ile
-Devlet sırlarını açığa vurma, Devletin egemenlik alametlerine ve
-organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı
+             c) Tasfiyeye tâbi tutulan bankerler ile iradî tasfiye
+haricinde tasfiyeye tâbi tutulan finansal kuruluşlarda, faaliyet izni
+kaldırılan kalkınma ve yatırım bankalarında, ortaklarının temettü hariç
+ortaklık hakları ile yönetim ve denetimi Fona intikal eden veya
+bankacılık yapma ve mevduat ve katılım fonu kabul etme izin ve yetkileri
+kaldırılan kredi kuruluşlarında, Fona  intikalinden  veya bankacılık
+yapma ve mevduat ve katılım fonu kabul etme izin ve yetkileri
+kaldırılmadan önce nitelikli paya sahip olmaması veya kontrolü elinde
+bulundurmaması,
+
+             d) Taksirli suçlar hariç olmak üzere affa uğramış olsalar
+bile mülga 765 sayılı Türk Ceza Kanunu ve diğer kanunlar uyarınca ağır
+hapis veya beş yıldan fazla hapis, 5237 sayılı Türk Ceza Kanunu ve diğer
+kanunlar uyarınca üç yıldan fazla hapis cezasıyla cezalandırılmamış
+olması veya mülga 3182 sayılı Bankalar Kanununun, bu Kanunla yürürlükten
+kaldırılan 4389 sayılı Bankalar Kanununun, bu Kanunun ve 2499 sayılı
+Sermaye Piyasası Kanununun ve ödünç para verme işleri hakkında mevzuatın
+hapis cezası gerektiren hükümlerine muhalefet yahut mülga 765 sayılı
+Türk Ceza Kanunu, 5237 sayılı Türk Ceza Kanunu veya diğer kanunlar
+uyarınca basit veya nitelikli zimmet, zimmet, irtikâp, rüşvet,
+hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı
+iflas gibi yüz kızartıcı suçlar ile istimal ve  istihlâk kaçakçılığı
+dışında kalan kaçakçılık suçları, resmî ihale ve alım satımlara fesat
+karıştırma, karapara aklama veya Devletin şahsiyetine karşı işlenen
+suçlar ile Devlet sırlarını açığa vurma, Devletin egemenlik alametlerine
+ve organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı
 suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli
 savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk,
 yabancı devletlerle olan ilişkilere karşı suçlar, vergi kaçakçılığı
 suçlarından veya bu suçlara iştirakten hükümlü bulunmaması,
 
-e\) Gerekli malî güç ve itibara sahip bulunması,
+             e) Gerekli malî güç ve itibara sahip bulunması,
 
-f\) İşin gerektirdiği dürüstlük ve yeterliliğe sahip olması,
+             f) İşin gerektirdiği dürüstlük ve yeterliliğe sahip olması,
 
-g\) Tüzel kişi olması hâlinde, risk grubu ile birlikte ortaklık yapısının
-şeffaf ve açık olması,
+             g) Tüzel kişi olması hâlinde, risk grubu ile birlikte
+ortaklık yapısının şeffaf ve açık olması,
 
-Şarttır.
+             Şarttır.
 
 9542
 
-Bankaların tüzel kişi kurucu ortaklarının doğrudan veya dolaylı olarak
-nitelikli paya sahip gerçek kişi ortaklarının bu maddenin birinci
-fıkrasının (a), (b), (c), (d), (e) ve (f) bentlerinde yer alan şartları
-taşıması gerekir.
+########  
 
-Türkiye'nin taraf olduğu uluslararası anlaşmalarla kurulmuş çok taraflı
-kredi kuruluşları ve finansal kuruluşlar hakkında bu maddenin birinci
-fıkrasının (b) ve (c) bentleri uygulanmaz.
+             Bankaların tüzel kişi kurucu ortaklarının doğrudan veya
+dolaylı olarak nitelikli paya sahip gerçek kişi ortaklarının bu maddenin
+birinci fıkrasının (a), (b), (c), (d), (e) ve (f) bentlerinde yer alan
+şartları taşıması gerekir.
 
-*Merkezi yurt dışında bulunan bankaların Türkiye'de şube açma şartları*
+             Türkiye'nin taraf olduğu uluslararası anlaşmalarla kurulmuş
+çok taraflı kredi kuruluşları ve finansal kuruluşlar hakkında bu
+maddenin birinci fıkrasının (b) ve (c) bentleri uygulanmaz.
 
-**Madde 9 —** Kurulca belirlenen usûl ve esaslar çerçevesinde gerekli
-izni alarak Türkiye'de şube açmak suretiyle faaliyet gösterecek yurt
-dışında kurulu bir bankanın;
+*             Merkezi yurt dışında bulunan bankaların Türkiye'de şube
+açma şartları*
 
-a\) Merkezinin bulunduğu ülkede esas faaliyetlerinde yasaklamanın
-bulunmamış olması,
+**             Madde 9 —** Kurulca belirlenen usûl ve esaslar
+çerçevesinde gerekli izni alarak Türkiye'de şube açmak suretiyle
+faaliyet gösterecek yurt dışında kurulu bir bankanın;
 
-b\) Merkezinin bulunduğu ülkenin yetkili denetim merciinin Türkiye'de
-faaliyet göstermesine ilişkin olumsuz görüşünün bulunmaması,
+             a) Merkezinin bulunduğu ülkede esas faaliyetlerinde
+yasaklamanın bulunmamış olması,
 
-c\) Ödenmiş sermayesinin Türkiye'ye tahsis edilen kısmının 7 nci maddede
-belirtilen miktardan az olmaması,
+             b) Merkezinin bulunduğu ülkenin yetkili denetim merciinin
+Türkiye'de faaliyet göstermesine ilişkin olumsuz görüşünün bulunmaması,
 
-d\) Müdürler kurulu üyelerinin, kurumsal yönetim hükümlerinde belirtilen
-şartları ve plânlanan faaliyetleri gerçekleştirebilecek meslekî
-tecrübeyi haiz olmaları,
+             c) Ödenmiş sermayesinin Türkiye'ye tahsis edilen kısmının 7
+nci maddede belirtilen miktardan az olmaması,
 
-e\) İzin kapsamındaki faaliyet konularına ait iş plânlarını, ilk üç yıl
-için bütçe plânını ve yapısal örgütlenmesini gösteren bir faaliyet
-programını ibraz etmesi,
+             d) Müdürler kurulu üyelerinin, kurumsal yönetim
+hükümlerinde belirtilen şartları ve plânlanan faaliyetleri
+gerçekleştirebilecek meslekî tecrübeyi haiz olmaları,
 
-f\) Dahil olduğu grubun ortaklık yapısının şeffaf ve açık olması,
+             e) İzin kapsamındaki faaliyet konularına ait iş plânlarını,
+ilk üç yıl için bütçe plânını ve yapısal örgütlenmesini gösteren bir
+faaliyet programını ibraz etmesi,
 
-Şarttır.
+             f) Dahil olduğu grubun ortaklık yapısının şeffaf ve açık
+olması,
 
-Merkezinin bulunduğu ülkedeki yerel düzenlemelere aykırılıkları
-nedeniyle faaliyeti yasaklanan konularda faaliyet izni verilmez.
+             Şarttır.
 
-*Faaliyet izni*
+             Merkezinin bulunduğu ülkedeki yerel düzenlemelere
+aykırılıkları nedeniyle faaliyeti yasaklanan konularda faaliyet izni
+verilmez.
 
-**Madde 10 —** Bu Kanunun 6 ncı maddesi çerçevesinde kuruluş veya
-Türkiye'de şube açma izni alan bankaların, Kuruldan ayrıca faaliyet izni
-alması şarttır. Bir beyanname ile yapılacak başvuru üzerine verilecek
-izin, Kurul tarafından aksi kararlaştırılmış olmadıkça, 4 üncü maddede
-belirtilen bütün faaliyetleri aynı maddenin son fıkrasındaki
-sınırlamalar çerçevesinde kapsar. Verilen faaliyet izinleri Resmî
-Gazetede yayımlanır. Kararın, ilk izin başvurusunun yapıldığı tarihten
-itibaren en geç üç ay içinde verilmesi gerekir.
+*             Faaliyet izni*
 
-Kurum, bu Kanun ve bu Kanuna dayanılarak yapılan düzenlemelerdeki
-şartları taşımayanlara gerekli düzeltmeleri yapmaları ve eksiklikleri
-tamamlamaları için altı ayı geçmemek üzere süre verir. Bu süre içinde
-yeniden başvuranlar hakkında yapılan inceleme sonucunda durumları uygun
-bulunmayanlara verilmiş olan kuruluş izni geçersiz olur ve sonuç yazılı
-olarak bildirilir. Kuruluş izni almış olan bankaların faaliyete
-geçebilmesi için;
+**             Madde 10 —** Bu Kanunun 6 ncı maddesi çerçevesinde
+kuruluş veya Türkiye'de şube açma izni alan bankaların, Kuruldan ayrıca
+faaliyet izni alması şarttır. Bir beyanname ile yapılacak başvuru
+üzerine verilecek izin, Kurul tarafından aksi kararlaştırılmış
+olmadıkça, 4 üncü maddede belirtilen bütün faaliyetleri aynı maddenin
+son fıkrasındaki sınırlamalar çerçevesinde kapsar. Verilen faaliyet
+izinleri Resmî Gazetede yayımlanır. Kararın, ilk izin başvurusunun
+yapıldığı tarihten itibaren en geç üç ay içinde verilmesi gerekir.
 
-a\) Sermayesinin nakit olarak ödenmiş ve plânlanan faaliyetleri
-gerçekleştirebilecek düzeyde olması,
+             Kurum, bu Kanun ve bu Kanuna dayanılarak yapılan
+düzenlemelerdeki şartları taşımayanlara gerekli düzeltmeleri yapmaları
+ve eksiklikleri tamamlamaları için altı ayı geçmemek üzere süre verir.
+Bu süre içinde yeniden başvuranlar hakkında yapılan inceleme sonucunda
+durumları uygun bulunmayanlara verilmiş olan kuruluş izni geçersiz olur
+ve sonuç yazılı olarak bildirilir. Kuruluş izni almış olan bankaların
+faaliyete geçebilmesi için;
 
-b\) Kurucuları tarafından 7 nci maddede belirtilen asgarî sermayenin
-yüzde onu tutarındaki sisteme giriş payının en az dörtte birinin Fon
-hesabına yatırıldığına dair belgenin ibraz edilmesi,
+             a) Sermayesinin nakit olarak ödenmiş ve plânlanan
+faaliyetleri gerçekleştirebilecek düzeyde olması,
 
-c\) Faaliyetlerinin kurumsal yönetim hükümlerine uygunluğunu sağlaması ve
-yeterli personel ve teknik donanıma sahip olması,
+             b) Kurucuları tarafından 7 nci maddede belirtilen asgarî
+sermayenin yüzde onu tutarındaki sisteme giriş payının en az dörtte
+birinin Fon hesabına yatırıldığına dair belgenin ibraz edilmesi,
 
-d\) Yöneticilerinin, kurumsal yönetim hükümlerinde belirtilen nitelikleri
-haiz olması,
+             c) Faaliyetlerinin kurumsal yönetim hükümlerine uygunluğunu
+sağlaması ve yeterli personel ve teknik donanıma sahip olması,
 
-e\) Kurulca faaliyet konularını yürütebilecek yeterliliğe sahip olunduğu
-kanaatine varılması,
+             d) Yöneticilerinin, kurumsal yönetim hükümlerinde
+belirtilen nitelikleri haiz olması,
 
-Gerekir.
+             e) Kurulca faaliyet konularını yürütebilecek yeterliliğe
+sahip olunduğu kanaatine varılması,
 
-Sisteme giriş payının ödenmeyen kısmının, faaliyete geçiş tarihinden
-itibaren Kurulca belirlenecek ödeme plânı çerçevesinde Fon hesabına
-yatırılacağına ilişkin taahhütnamenin Kuruma ibrazı zorunludur. Sisteme
-giriş payı bir defaya mahsus olmak üzere alınır. Banka hissedarları
-sisteme giriş payının ödenmesinden müteselsilen sorumludurlar.
+             Gerekir.
+
+             Sisteme giriş payının ödenmeyen kısmının, faaliyete geçiş
+tarihinden itibaren Kurulca belirlenecek ödeme plânı çerçevesinde Fon
+hesabına yatırılacağına ilişkin taahhütnamenin Kuruma ibrazı zorunludur.
+Sisteme giriş payı bir defaya mahsus olmak üzere alınır. Banka
+hissedarları sisteme giriş payının ödenmesinden müteselsilen
+sorumludurlar.
 
 9543
 
-Bu maddenin uygulanmasına ilişkin usûl ve esasları belirlemeye Kurul
-yetkilidir.
+########  
 
-*Kuruluş izninin iptali *
+            Bu maddenin uygulanmasına ilişkin usûl ve esasları
+belirlemeye Kurul yetkilidir.
 
-**Madde 11 —** Bir bankanın kuruluş izni;
+*             Kuruluş izninin iptali *
 
-a\) İznin gerçeğe aykırı beyanlarla alınmış olması,
+**             Madde 11 —** Bir bankanın kuruluş izni;
 
-b\) Kuruluş izninin verildiği tarihten itibaren dokuz ay içerisinde
-faaliyet izni için başvurulmaması,
+             a) İznin gerçeğe aykırı beyanlarla alınmış olması,
 
-c\) Kuruluş izninden vazgeçildiğinin beyan edilmesi,
+             b) Kuruluş izninin verildiği tarihten itibaren dokuz ay
+içerisinde faaliyet izni için başvurulmaması,
 
-d\) İznin verilmesinde aranan şartların, faaliyete geçilinceye kadar
-kaybedilmesi,
+             c) Kuruluş izninden vazgeçildiğinin beyan edilmesi,
 
-e\) Faaliyet izni alınamamış olması,
+             d) İznin verilmesinde aranan şartların, faaliyete
+geçilinceye kadar kaybedilmesi,
 
-f\) İradi olarak bu Kanunun 4 üncü maddesinde belirtilen faaliyetlerin
-tümünden vazgeçilmesi ve iradi tasfiyenin tamamlanması,
+             e) Faaliyet izni alınamamış olması,
 
-g\) Devrolunan bankanın birleşme veya bölünme işlemlerinin tamamlanması,
+             f) İradi olarak bu Kanunun 4 üncü maddesinde belirtilen
+faaliyetlerin tümünden vazgeçilmesi ve iradi tasfiyenin tamamlanması,
 
-h\) Bu Kanunun 106 ncı maddesi kapsamında tasfiye veya iflas takibatının
+             g) Devrolunan bankanın birleşme veya bölünme işlemlerinin
 tamamlanması,
 
-Hâllerinden herhangi birinin gerçekleşmesi durumunda, Kurulun en az beş
-üyesinin aynı yöndeki oyuyla alınan kararla iptal edilir.
+             h) Bu Kanunun 106 ncı maddesi kapsamında tasfiye veya iflas
+takibatının tamamlanması,
 
-*Faaliyet izninin iptali veya sınırlandırılması*
+             Hâllerinden herhangi birinin gerçekleşmesi durumunda,
+Kurulun en az beş üyesinin aynı yöndeki oyuyla alınan kararla iptal
+edilir.
 
-**Madde 12 —** Bir bankanın, faaliyet izninin gerçeğe aykırı beyanlarla
-alınmış olması veya faaliyet izninin alınmasından itibaren altı ay
-içinde faaliyete geçilmemesi ya da bir yıl içinde kesintisiz altı ay
-süre ile faaliyette bulunulmamış olması hâlinde faaliyet izni iptal
-edilir. Faaliyet izninin alındığı tarihten itibaren bir ay içerisinde
-ilgili kuruluş birliğine üye olunmaması veya sisteme giriş payının kalan
-taksitlerinin Fon hesabına yatırılmamış olması ve bu yükümlülüklerin
-Kurum tarafından yapılan uyarıya rağmen yerine getirilmemesi durumunda,
-bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri
-dışında kalan faaliyet konuları Kurulca tek tek sınırlanabilir.
+*             Faaliyet izninin iptali veya sınırlandırılması*
 
-Bu kararlar ilgililere yazılı olarak bildirilir ve Resmî Gazetede
-yayımlanır.
+**             Madde 12 —** Bir bankanın, faaliyet izninin gerçeğe
+aykırı beyanlarla alınmış olması veya faaliyet izninin alınmasından
+itibaren altı ay içinde faaliyete geçilmemesi ya da bir yıl içinde
+kesintisiz altı ay süre ile faaliyette bulunulmamış olması hâlinde
+faaliyet izni iptal edilir. Faaliyet izninin alındığı tarihten itibaren
+bir ay içerisinde ilgili kuruluş birliğine üye olunmaması veya sisteme
+giriş payının kalan taksitlerinin Fon hesabına yatırılmamış olması ve bu
+yükümlülüklerin Kurum tarafından yapılan uyarıya rağmen yerine
+getirilmemesi durumunda, bu Kanunun 4 üncü maddesinin birinci fıkrasının
+(a) ve (b) bentleri dışında kalan faaliyet konuları Kurulca tek tek
+sınırlanabilir.
 
-Türkiye'de şubesi bulunan yurt dışında kurulu bankaların, kurulu
-bulundukları ülkede herhangi bir nedenle faaliyet izninin kaldırılması,
-faaliyetlerinin durdurulması, iflas veya tasfiyelerine karar verilmesi
-veya konkordato ilân etmeleri hâlinde, bunların Türkiye'deki şubelerinin
-faaliyet izinleri Kurul tarafından kaldırılır.
+             Bu kararlar ilgililere yazılı olarak bildirilir ve Resmî
+Gazetede yayımlanır.
 
-Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) veya (b) bentleri
-kapsamında bir kredi kuruluşuna verilen yetkinin Kurul tarafından
-kaldırılması, faaliyet izninin kaldırılması hükmündedir.
+             Türkiye'de şubesi bulunan yurt dışında kurulu bankaların,
+kurulu bulundukları ülkede herhangi bir nedenle faaliyet izninin
+kaldırılması, faaliyetlerinin durdurulması, iflas veya tasfiyelerine
+karar verilmesi veya konkordato ilân etmeleri hâlinde, bunların
+Türkiye'deki şubelerinin faaliyet izinleri Kurul tarafından kaldırılır.
 
-*Yurt içinde şube açma*
+             Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) veya
+(b) bentleri kapsamında bir kredi kuruluşuna verilen yetkinin Kurul
+tarafından kaldırılması, faaliyet izninin kaldırılması hükmündedir.
 
-**Madde 13 —** **(Değişik:8/3/2006-5472/1 md.)**
+*             Yurt içinde şube açma*
 
-Bu Kanunda yer alan kurumsal yönetim hükümleri ile koruyucu hükümler
-dikkate alınarak, Kurulca belirlenecek esaslara uyulması ve Kuruma
-bildirilmesi kaydıyla yurt içinde şube açılması serbesttir.
+**             Madde 13 —**  **(Değişik:8/3/2006-5472/1 md.)**
 
-*Sınır ötesi faaliyetler*
+**            ** Bu Kanunda yer alan kurumsal yönetim hükümleri ile
+koruyucu hükümler dikkate alınarak, Kurulca belirlenecek esaslara
+uyulması ve Kuruma bildirilmesi kaydıyla yurt içinde şube açılması
+serbesttir.
 
-**Madde 14 —** Türkiye'de kurulan bankaların, kıyı bankacılığı bölgeleri
-de dahil olmak üzere yurt dışında şube veya temsilcilik açmaları,
-ortaklık kurmaları veya kurulmuş ortaklıklara katılmaları, bu Kanunda
-yer alan kurumsal yönetim hükümleri ile koruyucu hükümlere ve Kurulca
-belirlenecek esaslara uyulması kaydıyla Kurulun iznine tâbidir.
+*             Sınır ötesi faaliyetler*
 
-*Bağımsız denetim, değerleme ve derecelendirme kuruluşlarının
-yetkilendirme izni^(1)^*
+**             Madde 14 —** Türkiye'de kurulan bankaların, kıyı
+bankacılığı bölgeleri de dahil olmak üzere yurt dışında şube veya
+temsilcilik açmaları, ortaklık kurmaları veya kurulmuş ortaklıklara
+katılmaları, bu Kanunda yer alan kurumsal yönetim hükümleri ile koruyucu
+hükümlere ve Kurulca belirlenecek esaslara uyulması kaydıyla Kurulun
+iznine tâbidir.
 
-**Madde 15-(Değişik: 13/2/2011-6111/143 md.)**
+*            Bağımsız denetim, değerleme ve derecelendirme
+kuruluşlarının yetkilendirme izni^(1)^*
 
-Bankaların bağımsız denetim faaliyetleri ile Kurul tarafından zorunlu
-tutulması halinde, bankaların varlıklarının, hak ve yükümlülüklerinin ya
-da kredi müşterilerinden alınacak teminatların değerlemesi ve
-kendilerinin ya da kredi müşterilerinin derecelendirilmesi
-faaliyetlerini gerçekleştirecek olan kuruluşların yetkilendirilmesine,
-yetkilerinin geçici veya sürekli olarak kaldırılmasına Kurulca karar
-verilir. Bu maddenin uygulamasına ilişkin usûl ve esaslar ilgili meslek
-birliklerinin görüşü alınarak Kurulca belirlenir.
+**            Madde 15-(Değişik: 13/2/2011-6111/143 md.)**
+
+**          **  Bankaların bağımsız denetim faaliyetleri ile Kurul
+tarafından zorunlu tutulması halinde, bankaların varlıklarının, hak ve
+yükümlülüklerinin ya da kredi müşterilerinden alınacak teminatların
+değerlemesi ve kendilerinin ya da kredi müşterilerinin
+derecelendirilmesi faaliyetlerini gerçekleştirecek olan kuruluşların
+yetkilendirilmesine, yetkilerinin geçici veya sürekli olarak
+kaldırılmasına Kurulca karar verilir. Bu maddenin uygulamasına ilişkin
+usûl ve esaslar ilgili meslek birliklerinin görüşü alınarak Kurulca
+belirlenir.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) Bu maddenin başlığı “Bağımsız denetim, değerleme, derecelendirme ve
-destek hizmeti kuruluşlarının yetkilendirme izni” iken 13/2/2011 tarihli
-ve 6111 sayılı Kanunun 143 üncü maddesi ile metne işlendiği şekilde
-değiştirilmiştir.*
+*(1)     Bu maddenin başlığı “Bağımsız denetim, değerleme,
+derecelendirme ve destek hizmeti kuruluşlarının  yetkilendirme izni”
+iken 13/2/2011 tarihli ve 6111 sayılı Kanunun 143 üncü maddesi ile metne
+işlendiği şekilde değiştirilmiştir.*
 
 9544
+
+########  
+
+ 
 
 İKİNCİ BÖLÜM
 
 *Ana Sözleşmeye İlişkin Hükümler*
 
-*Ana sözleşme değişiklikleri*
+*             Ana sözleşme değişiklikleri*
 
-**Madde 16 —** Bankaların ana sözleşme değişikliklerinde Kurumun uygun
-görüşü aranır. Kurumca uygun görülmeyen değişiklikler genel kurulda
-karara bağlanamaz. Kurumun uygun görüşü alınmaksızın yapılan ana
-sözleşme değişiklikleri Ticaret Siciline tescil edilemez. Ana sözleşme
-değişikliği için bu Kanun ve ilgili diğer mevzuatta öngörülen izin, onay
-veya olumlu görüş başvuruları, yetkili mercilerce onbeş iş günü içinde
-cevaplandırılır.
+**             Madde 16 —** Bankaların ana sözleşme değişikliklerinde
+Kurumun uygun görüşü aranır. Kurumca uygun görülmeyen değişiklikler
+genel kurulda karara bağlanamaz. Kurumun uygun görüşü alınmaksızın
+yapılan ana sözleşme değişiklikleri Ticaret Siciline tescil edilemez.
+Ana sözleşme değişikliği için bu Kanun ve ilgili diğer mevzuatta
+öngörülen izin, onay veya olumlu görüş başvuruları, yetkili mercilerce
+onbeş iş günü içinde cevaplandırılır.
 
-Bankalar ana sözleşmelerini güncel olarak internet sayfalarında
-yayınlar. Ana sözleşmelerin güncelleştirilmesi, değişikliklerin
-gerçekleştiği tarihten itibaren on iş günü içerisinde yapılmak
-zorundadır.
+             Bankalar ana sözleşmelerini güncel olarak internet
+sayfalarında yayınlar. Ana sözleşmelerin güncelleştirilmesi,
+değişikliklerin gerçekleştiği tarihten itibaren on iş günü içerisinde
+yapılmak zorundadır.
 
-*Sermaye artırımları*
+*             Sermaye artırımları*
 
-**Madde 17 —** Sermaye artırımlarının, her türlü muvazaadan âri olarak,
-ilgili mevzuatla ilâve edilmesine izin verilen kaynaklar hariç, iç
-kaynaklara başvurulmadan nakden ödenmesi şarttır. Sermaye artırımının
-Ticaret Siciline tescil edilmesinde Kurumun uygun görüşü aranır.
+**             Madde 17 —** Sermaye artırımlarının, her türlü muvazaadan
+âri olarak, ilgili mevzuatla ilâve edilmesine izin verilen kaynaklar
+hariç, iç kaynaklara başvurulmadan nakden ödenmesi şarttır. Sermaye
+artırımının Ticaret Siciline tescil edilmesinde Kurumun uygun görüşü
+aranır.
 
-Sermayenin mevzuata aykırı olarak artırıldığı tespit edilen kısmı,
-özkaynak hesabında dikkate alınmaz.
+             Sermayenin mevzuata aykırı olarak artırıldığı tespit edilen
+kısmı, özkaynak hesabında dikkate alınmaz.
 
-Bu madde kapsamında sermaye artırımına ilişkin usûl ve esaslar Kurulca
-belirlenir.
+             Bu madde kapsamında sermaye artırımına ilişkin usûl ve
+esaslar Kurulca belirlenir.
 
-*Pay edinim ve devirleri *
+*             Pay edinim ve devirleri *
 
-**Madde 18 —** Bir kişinin, bir bankada doğrudan veya dolaylı pay
-sahipliği yoluyla sermayenin yüzde onunu ve daha fazlasını temsil eden
-payları edinmesi veya bir ortağa ait doğrudan veya dolaylı payların
-sermayenin yüzde on, yüzde yirmi, yüzde otuzüç veya yüzde ellisini
-aşması sonucunu veren pay edinimleri ile bir ortağa ait payların, bu
-oranların altına düşmesi sonucunu veren pay devirleri Kurulun iznine
-tâbidir.
+**             Madde 18 —** Bir kişinin, bir bankada doğrudan veya
+dolaylı pay sahipliği yoluyla sermayenin yüzde onunu ve daha fazlasını
+temsil eden payları edinmesi veya bir ortağa ait doğrudan veya dolaylı
+payların sermayenin yüzde on, yüzde yirmi, yüzde otuzüç veya yüzde
+ellisini aşması sonucunu veren pay edinimleri ile bir ortağa ait
+payların, bu oranların altına düşmesi sonucunu veren pay devirleri
+Kurulun iznine tâbidir.
 
-Yönetim kuruluna veya denetim komitesine üye belirleme imtiyazı veren
-payların tesisi, devri veya yeni imtiyazlı pay ihracı yukarıdaki oransal
-sınırlara bakılmaksızın Kurulun iznine tâbidir.
+             Yönetim kuruluna veya denetim komitesine üye belirleme
+imtiyazı veren payların tesisi, devri veya yeni imtiyazlı pay ihracı
+yukarıdaki oransal sınırlara bakılmaksızın Kurulun iznine tâbidir.
 
-Bu izinlerin verilmesinde, bankanın devralınan hisselerinin nominal
-değerinin yüzde biri oranında devir payının devralan tarafından Fona
-yatırılması zorunludur.
+             Bu izinlerin verilmesinde, bankanın devralınan hisselerinin
+nominal değerinin yüzde biri oranında devir payının devralan tarafından
+Fona yatırılması zorunludur.
 
-Ortak sayısının beşten aşağı düşmesine yol açan işlemler ile izin
-alınmadan yapılan pay devirleri pay defterine kaydolunmaz. Bu hükme
-aykırı olarak pay defterine yapılan kayıtlar hükümsüzdür. Oy hakkı
+             Ortak sayısının beşten aşağı düşmesine yol açan işlemler
+ile izin alınmadan yapılan pay devirleri pay defterine kaydolunmaz. Bu
+hükme aykırı olarak pay defterine yapılan kayıtlar hükümsüzdür. Oy hakkı
 edinilmesi ve hisseler üzerinde intifa hakkı tesisinde de bu hüküm
 uygulanır.
 
-Nitelikli paya sahip olan ortakların kurucularda aranan nitelikleri
-taşıması şarttır. Kurucularda aranan nitelikleri kaybeden nitelikli paya
-sahip ortaklar temettü dışındaki ortaklık haklarından yararlanamaz. Bu
-halde, diğer ortaklık hakları Kurumun bildirimi üzerine Fon tarafından
-kullanılır. Bu ortaklar sermayedeki doğrudan ve dolaylı payları yüzde
-onun altına düşene kadar rüçhan haklarını kullanamazlar.
+             Nitelikli paya sahip olan ortakların kurucularda aranan
+nitelikleri taşıması şarttır. Kurucularda aranan nitelikleri kaybeden
+nitelikli paya sahip ortaklar temettü dışındaki ortaklık haklarından
+yararlanamaz. Bu halde, diğer ortaklık hakları Kurumun bildirimi üzerine
+Fon tarafından kullanılır. Bu ortaklar sermayedeki doğrudan ve dolaylı
+payları yüzde onun altına düşene kadar rüçhan haklarını kullanamazlar.
 
-Bir bankanın sermayesinin yüzde on veya daha fazlasına sahip olan tüzel
-kişilerin paylarının doğrudan veya dolaylı olarak birinci fıkrada
-belirtilen oranlar veya esaslar dahilinde el değiştirmesi, devralacak
-ortağın kurucularda aranan nitelikleri taşıması şartıyla Kurulun iznine
-tâbidir.
+             Bir bankanın sermayesinin yüzde on veya daha fazlasına
+sahip olan tüzel kişilerin paylarının doğrudan veya dolaylı olarak
+birinci fıkrada belirtilen oranlar veya esaslar dahilinde el
+değiştirmesi, devralacak ortağın kurucularda aranan nitelikleri taşıması
+şartıyla Kurulun iznine tâbidir.
 
-Kurulun izni olmadan payların devredilmesi hâlinde, bu paylara ait
-temettü hariç ortaklık hakları Fon tarafından kullanılır.
+             Kurulun izni olmadan payların devredilmesi hâlinde, bu
+paylara ait temettü hariç ortaklık hakları Fon tarafından kullanılır.
 
-Hisseleri borsada işlem gören bankaların hisselerinin borsadan alınması
-ve bir bankanın hisselerinin 2004 sayılı İcra ve İflas Kanunu
-hükümlerine göre icra dairesinden satın alınması durumunda
+             Hisseleri borsada işlem gören bankaların hisselerinin
+borsadan alınması ve bir bankanın hisselerinin 2004 sayılı İcra ve İflas
+Kanunu hükümlerine göre icra dairesinden satın alınması durumunda
 gerçekleştirilecek işlemlere ve bu maddenin uygulanmasına dair usûl ve
 esaslar Kurulca belirlenir.
 
@@ -656,36 +710,37 @@ esaslar Kurulca belirlenir.
 
 *Birleşme, Bölünme, Hisse Değişimi ve İradi Tasfiye*
 
-*Birleşme, bölünme ve hisse değişimi*
+*             Birleşme, bölünme ve hisse değişimi*
 
-**Madde 19 —** Türkiye'de faaliyette bulunan bankalardan birinin; diğer
-bir veya birkaç banka veya finansal kuruluş ile birleşmesi veya bütün
-aktif ve pasifi ile diğer hak ve yükümlülüklerini Türkiye'de faaliyette
-bulunan diğer bir bankaya devretmesi, bütün aktif ve pasifleri ile diğer
-hak ve yükümlülüklerini devir alması veya bölünmesi ya da hisse değişimi
-Kurulun iznine bağlıdır. İzin tarihinden itibaren üç ay içinde ilgili
-bankaların yetkili organlarınca karar alınarak gerekli işlemlere
-geçilmediği takdirde, verilen izin geçersiz olur. Bankaların bu Kanun
-hükümlerine göre birleşme, bölünme ve devirlerinde 6762 sayılı Türk
-Ticaret Kanunu ile devir veya birleşmeye konu bankaların toplam
-aktiflerinin sektör içindeki paylarının yüzde yirmiyi geçmemesi kaydıyla
-4054 sayılı Rekabetin Korunması Hakkında Kanunun 7, 10 ve 11 inci
-maddeleri hükümleri uygulanmaz. Birleşme veya devir işleminin
-kesinleşmesini müteakip, devredilen kuruluşun bütün aktif ve pasifleri
-ile diğer hak ve yükümlülükleri devralan bankaya geçer ve devredilen
-kuruluşun tüzel kişiliği sona ererek kaydı Ticaret Sicilinden silinir.
+**             Madde 19 —** Türkiye'de faaliyette bulunan bankalardan
+birinin; diğer bir veya birkaç banka veya finansal kuruluş ile
+birleşmesi veya bütün aktif ve pasifi ile diğer hak ve yükümlülüklerini
+Türkiye'de faaliyette bulunan diğer bir bankaya devretmesi, bütün aktif
+ve pasifleri ile diğer hak ve yükümlülüklerini devir alması veya
+bölünmesi ya da hisse değişimi Kurulun iznine bağlıdır. İzin tarihinden
+itibaren üç ay içinde ilgili bankaların yetkili organlarınca karar
+alınarak gerekli işlemlere geçilmediği takdirde, verilen izin geçersiz
+olur. Bankaların bu Kanun hükümlerine göre birleşme, bölünme ve
+devirlerinde 6762 sayılı Türk Ticaret Kanunu ile devir veya birleşmeye
+konu bankaların toplam aktiflerinin sektör içindeki paylarının yüzde
+yirmiyi geçmemesi kaydıyla 4054 sayılı Rekabetin Korunması Hakkında
+Kanunun 7, 10 ve 11 inci maddeleri hükümleri uygulanmaz. Birleşme veya
+devir işleminin kesinleşmesini müteakip, devredilen kuruluşun bütün
+aktif ve pasifleri ile diğer hak ve yükümlülükleri devralan bankaya
+geçer ve devredilen kuruluşun tüzel kişiliği sona ererek kaydı Ticaret
+Sicilinden silinir.
 
-Bu madde hükmünün uygulanmasına ilişkin usûl ve esaslar Kurum tarafından
-çıkarılacak yönetmelik ile belirlenir.
+             Bu madde hükmünün uygulanmasına ilişkin usûl ve esaslar
+Kurum tarafından çıkarılacak yönetmelik ile belirlenir.
 
-*İradi tasfiye*
+*             İradi tasfiye*
 
-**Madde 20 —** Bankaların faaliyetlerine son vermeleri ve tasfiyeleri
-Kurulun iznine ve Kurumun denetimine tâbidir.
+**             Madde 20 —** Bankaların faaliyetlerine son vermeleri ve
+tasfiyeleri Kurulun iznine ve Kurumun denetimine tâbidir.
 
-Türkiye'de faaliyette bulunan bankalar faaliyetlerine son vermek ve
-bunları tasfiye etmek istedikleri takdirde, durumu Türkiye çapında
-basımı ve dağıtımı yapılan en az iki gazete ile ilân ve mevduat
+             Türkiye'de faaliyette bulunan bankalar faaliyetlerine son
+vermek ve bunları tasfiye etmek istedikleri takdirde, durumu Türkiye
+çapında basımı ve dağıtımı yapılan en az iki gazete ile ilân ve mevduat
 sahipleri veya katılım fonu sahipleri ile alacaklılarına veya bu durumda
 sayılabilecek kişi ve kurumlara tebliğ ederek ellerinde bulunan aynî ve
 nakdî her türlü mevduat veya katılım fonu ile emanet ve cari hesap
@@ -698,8 +753,8 @@ yıl başında usûlüne göre ilan etmek suretiyle saklar. Son ilân
 tarihinden itibaren altı ay içinde aranmayan bu değerler Fona gelir
 kaydolunur.
 
-Bu madde hükmünün uygulanmasına ilişkin usûl ve esaslar Kurum tarafından
-çıkarılacak yönetmelik ile belirlenir.
+             Bu madde hükmünün uygulanmasına ilişkin usûl ve esaslar
+Kurum tarafından çıkarılacak yönetmelik ile belirlenir.
 
  
 
@@ -707,15 +762,15 @@ DÖRDÜNCÜ BÖLÜM
 
 *İzin Başvurularının Reddi*
 
-*İzin başvurularının reddi*
+*             İzin başvurularının reddi*
 
-**Madde 21 —** Bu Kanun hükümleri uyarınca Kuruma yapılan izin
-başvuruları; denetimin etkin bir şekilde ifa edilmesine engel olabilecek
-nitelikte doğrudan veya dolaylı herhangi bir ilişkinin varlığı veya izne
-tâbi işlem için öngörülen koşulların, niteliklerin, yeterliliklerin izin
-başvurusu esnasında ya da değerlendirme sürecinde sağlanamaması veya
-kaybedilmesi hâlinde Kurulca reddedilir. Ret kararları ilgililere
-gerekçeli olarak bildirilir.
+**             Madde 21 —** Bu Kanun hükümleri uyarınca Kuruma yapılan
+izin başvuruları; denetimin etkin bir şekilde ifa edilmesine engel
+olabilecek nitelikte doğrudan veya dolaylı herhangi bir ilişkinin
+varlığı veya izne tâbi işlem için öngörülen koşulların, niteliklerin,
+yeterliliklerin izin başvurusu esnasında ya da değerlendirme sürecinde
+sağlanamaması veya kaybedilmesi hâlinde Kurulca reddedilir. Ret
+kararları ilgililere gerekçeli olarak bildirilir.
 
 9546
 
@@ -729,57 +784,59 @@ BİRİNCİ BÖLÜM
 
 *Yönetim*
 
-*Kurumsal yönetim ilkeleri*
+*             Kurumsal yönetim ilkeleri*
 
-**Madde 22 —** Kurumsal yönetime ilişkin yapı ve süreçler ve bunlara
-ilişkin ilkeler Sermaye Piyasası Kurulu ile kuruluş birliklerinin de
-görüşü alınarak Kurul tarafından belirlenir.
+**             Madde 22 —** Kurumsal yönetime ilişkin yapı ve süreçler
+ve bunlara ilişkin ilkeler Sermaye Piyasası Kurulu ile kuruluş
+birliklerinin de görüşü alınarak Kurul tarafından belirlenir.
 
-*Yönetim kurulu*
+*             Yönetim kurulu*
 
-**Madde 23 —** Bankaların yönetim kurulları genel müdür dahil beş
-kişiden az olamaz. Genel müdür, bulunmadığı hallerde vekili, yönetim
-kurulunun doğal üyesidir. Bu Kanunda genel müdür için öngörülen şartlar,
-yönetim kurulu üyelerinin yarıdan bir fazlası için de aranır. Murahhas
-üyelerin genel müdürde aranan şartları taşımaları zorunludur. Yönetim
-kurulu üyeliğine seçilenler ve herhangi bir nedenle boşalma hâlinde
-görevlendirilenler, bu maddede aranan şartları taşıdıklarını gösteren
-belgelerle birlikte yedi iş günü içerisinde Kuruma bildirilir. Genel
-müdürlük ve yönetim kurulu başkanlığı görevleri aynı kişi tarafından
-icra edilemez. Yönetim kurulu üyelerinin bu Kanunun 8 inci maddesinin
-birinci fıkrasının (a), (b), (c) ve (d) bentlerinde belirtilen şartları
-taşıması gerekir.
+**             Madde 23 —** Bankaların yönetim kurulları genel müdür
+dahil beş kişiden az olamaz. Genel müdür, bulunmadığı hallerde vekili,
+yönetim kurulunun doğal üyesidir. Bu Kanunda genel müdür için öngörülen
+şartlar, yönetim kurulu üyelerinin yarıdan bir fazlası için de aranır.
+Murahhas üyelerin genel müdürde aranan şartları taşımaları zorunludur.
+Yönetim kurulu üyeliğine seçilenler ve herhangi bir nedenle boşalma
+hâlinde görevlendirilenler, bu maddede aranan şartları taşıdıklarını
+gösteren belgelerle birlikte yedi iş günü içerisinde Kuruma bildirilir.
+Genel müdürlük ve yönetim kurulu başkanlığı görevleri aynı kişi
+tarafından icra edilemez. Yönetim kurulu üyelerinin bu Kanunun 8 inci
+maddesinin birinci fıkrasının (a), (b), (c) ve (d) bentlerinde
+belirtilen şartları taşıması gerekir.
 
-Türkiye'de şube açmak suretiyle faaliyette bulunan yurt dışında kurulu
-bankaların Türkiye'deki yönetim merkezlerinde, yönetim kurulu yetki ve
-sorumluluklarını taşıyan, merkez şube müdürünün de dahil olduğu en az üç
-kişilik bir müdürler kurulu oluşturmaları zorunludur. Bu Kanunun
-uygulanmasında müdürler kurulu yönetim kurulu hükmünde olup, birinci
-fıkrada belirtilen şartlar müdürler kurulu üyeleri için de aranır.
+             Türkiye'de şube açmak suretiyle faaliyette bulunan yurt
+dışında kurulu bankaların Türkiye'deki yönetim merkezlerinde, yönetim
+kurulu yetki ve sorumluluklarını taşıyan, merkez şube müdürünün de dahil
+olduğu en az üç kişilik bir müdürler kurulu oluşturmaları zorunludur. Bu
+Kanunun uygulanmasında müdürler kurulu yönetim kurulu hükmünde olup,
+birinci fıkrada belirtilen şartlar müdürler kurulu üyeleri için de
+aranır.
 
-İç kontrol, risk yönetimi ve iç denetim sistemlerinin ilgili mevzuata
-uygun olarak tesis edilmesi, işlerliğinin, uygunluğunun ve
-yeterliliğinin sağlanması, finansal raporlama sistemlerinin güvence
+             İç kontrol, risk yönetimi ve iç denetim sistemlerinin
+ilgili mevzuata uygun olarak tesis edilmesi, işlerliğinin, uygunluğunun
+ve yeterliliğinin sağlanması, finansal raporlama sistemlerinin güvence
 altına alınması, banka içindeki yetki ve sorumlulukların belirlenmesi
 yönetim kurulunun sorumluluğundadır.
 
-*Denetim komitesi*
+*             Denetim komitesi*
 
-**Madde 24 —** Bankaların, yönetim kurullarınca yönetim kurulunun
-denetim ve gözetim faaliyetlerinin yerine getirilmesine yardımcı olmak
-üzere denetim komitesi oluşturulur. Denetim komitesi en az iki üyeden
-oluşur. Denetim komitesi üyeleri icraî görevi bulunmayan yönetim kurulu
-üyeleri arasından seçilir. Türkiye'de şube olarak faaliyet gösteren
-bankalarda ise kendisine bağlı icraî mahiyette faaliyet gösteren bir
-birim bulunmayan müdürler kurulu üyelerinden biri görevlendirilir.
+**             Madde 24 —** Bankaların, yönetim kurullarınca yönetim
+kurulunun denetim ve gözetim faaliyetlerinin yerine getirilmesine
+yardımcı olmak üzere denetim komitesi oluşturulur. Denetim komitesi en
+az iki üyeden oluşur. Denetim komitesi üyeleri icraî görevi bulunmayan
+yönetim kurulu üyeleri arasından seçilir. Türkiye'de şube olarak
+faaliyet gösteren bankalarda ise kendisine bağlı icraî mahiyette
+faaliyet gösteren bir birim bulunmayan müdürler kurulu üyelerinden biri
+görevlendirilir.
 
-Denetim komitesi üyelerinin, Kurulca belirlenen niteliklere sahip
-olmaları şarttır. Buna ilişkin bilgi ve belgeler atamanın yapılmasını
-müteakiben en geç yedi iş günü içinde Kuruma bildirilir.
+             Denetim komitesi üyelerinin, Kurulca belirlenen niteliklere
+sahip olmaları şarttır. Buna ilişkin bilgi ve belgeler atamanın
+yapılmasını müteakiben en geç yedi iş günü içinde Kuruma bildirilir.
 
-Denetim komitesi, yönetim kurulu adına bankanın iç kontrol, risk
-yönetimi ve iç denetim sistemlerinin etkinliğini ve yeterliliğini, bu
-sistemler ile muhasebe ve raporlama sistemlerinin bu Kanun ve ilgili
+             Denetim komitesi, yönetim kurulu adına bankanın iç kontrol,
+risk yönetimi ve iç denetim sistemlerinin etkinliğini ve yeterliliğini,
+bu sistemler ile muhasebe ve raporlama sistemlerinin bu Kanun ve ilgili
 düzenlemeler çerçevesinde işleyişini ve üretilen bilgilerin bütünlüğünü
 gözetmek, bağımsız denetim kuruluşlarının yönetim kurulu tarafından
 seçilmesinde gerekli ön değerlendirmeleri yapmak, yönetim kurulu
@@ -789,98 +846,108 @@ kuruluşlarda, konsolide denetime tâbi kuruluşların iç denetim
 işlevlerinin konsolide olarak sürdürülmesini ve eşgüdümünü sağlamakla
 görevli ve sorumludur.
 
-Denetim komitesi, iç kontrol, iç denetim ve risk yönetimi sistemleri
-kapsamında oluşturulan birimlerden ve bağımsız denetim kuruluşlarından;
-görevlerinin ifasıyla ilgili olarak düzenli raporlar almak ve bankanın
-faaliyetlerinin sürekliliği ve güven içinde yürütülmesini olumsuz
-etkileyebilecek hususlar veya mevzuata ve iç düzenlemelere aykırılıklar
-bulunması hâlinde bu hususları yönetim kuruluna bildirmekle yükümlüdür.
+             Denetim komitesi, iç kontrol, iç denetim ve risk yönetimi
+sistemleri kapsamında oluşturulan birimlerden ve bağımsız denetim
+kuruluşlarından; görevlerinin ifasıyla ilgili olarak düzenli raporlar
+almak ve bankanın faaliyetlerinin sürekliliği ve güven içinde
+yürütülmesini olumsuz etkileyebilecek hususlar veya mevzuata ve iç
+düzenlemelere aykırılıklar bulunması hâlinde bu hususları yönetim
+kuruluna bildirmekle yükümlüdür.
 
 9547
 
-Denetim komitesi, altı aylık dönemleri aşmamak kaydıyla icra ettiği
-faaliyetlerin sonuçları ile bankada alınması gereken önlemlere,
-yapılmasına ihtiyaç duyulan uygulamalara ve bankanın faaliyetlerinin
-güven içinde sürdürülmesi bakımından önemli gördüğü diğer hususlara
-ilişkin görüşlerini yönetim kuruluna bildirmekle yükümlüdür.
+########  
 
-Denetim komitesi, bankanın tüm birimlerinden, anlaşmalı destek hizmeti
-kuruluşları ve bağımsız denetim kuruluşlarından bilgi ve belge almaya,
-bedeli banka tarafından karşılanmak suretiyle konularında ihtisas sahibi
-kişilerden yönetim kurulunun onayına bağlı olarak danışmanlık hizmeti
-sağlamaya yetkilidir. Denetim komitesinin görev, yetki ve sorumlulukları
-ile çalışma usûl ve esasları yönetim kurulu tarafından düzenlenir.
+             Denetim komitesi, altı aylık dönemleri aşmamak kaydıyla
+icra ettiği faaliyetlerin sonuçları ile bankada alınması gereken
+önlemlere, yapılmasına ihtiyaç duyulan uygulamalara ve bankanın
+faaliyetlerinin güven içinde sürdürülmesi bakımından önemli gördüğü
+diğer hususlara ilişkin görüşlerini yönetim kuruluna bildirmekle
+yükümlüdür.
 
-*Genel müdür ve yardımcıları *
+             Denetim komitesi, bankanın tüm birimlerinden, anlaşmalı
+destek hizmeti kuruluşları ve bağımsız denetim kuruluşlarından bilgi ve
+belge almaya, bedeli banka tarafından karşılanmak suretiyle konularında
+ihtisas sahibi kişilerden yönetim kurulunun onayına bağlı olarak
+danışmanlık hizmeti sağlamaya yetkilidir. Denetim komitesinin görev,
+yetki ve sorumlulukları ile çalışma usûl ve esasları yönetim kurulu
+tarafından düzenlenir.
 
-**Madde 25 —** Banka genel müdürlerinin hukuk, iktisat, maliye,
-bankacılık, işletme, kamu yönetimi ve dengi dallarda en az lisans
-düzeyinde, mühendislik alanında lisans düzeyinde öğrenim görmüş
+*             Genel müdür ve yardımcıları *
+
+**             Madde 25 —** Banka genel müdürlerinin hukuk, iktisat,
+maliye, bankacılık, işletme, kamu yönetimi ve dengi dallarda en az
+lisans düzeyinde, mühendislik alanında lisans düzeyinde öğrenim görmüş
 olanların ise belirtilen alanlarda lisansüstü öğrenim görmüş olmaları ve
 bankacılık veya işletmecilik alanında en az on yıllık meslekî deneyime
 sahip olmaları şarttır.
 
-Genel müdür yardımcılarının en az yedi yıllık meslekî deneyime sahip ve
-asgarî üçte ikisinin birinci fıkrada belirtilen alanlarda en az lisans
-düzeyinde öğrenim görmüş olması şarttır. Başka unvanlarla istihdam
-edilseler dahi, yetki ve görevleri itibarıyla genel müdür yardımcısına
-denk veya daha üst konumlarda icraî nitelikte görev yapan diğer
-yöneticiler de bu Kanunun genel müdür yardımcılarına ilişkin hükümlerine
-tâbidir.
+             Genel müdür yardımcılarının en az yedi yıllık meslekî
+deneyime sahip ve asgarî üçte ikisinin birinci fıkrada belirtilen
+alanlarda en az lisans düzeyinde öğrenim görmüş olması şarttır. Başka
+unvanlarla istihdam edilseler dahi, yetki ve görevleri itibarıyla genel
+müdür yardımcısına denk veya daha üst konumlarda icraî nitelikte görev
+yapan diğer yöneticiler de bu Kanunun genel müdür yardımcılarına ilişkin
+hükümlerine tâbidir.
 
-Genel müdürlüğe ve yardımcılıklarına atanacakların, bu maddede aranan
-şartları taşıdıklarını gösteren belgelerle birlikte Kuruma bildirilmesi
-şarttır. Bildirimden itibaren yedi iş günü içinde Kurumca olumsuz görüş
-bildirilmemesi durumunda ilgili kişilerin atamaları yapılabilir.
+             Genel müdürlüğe ve yardımcılıklarına atanacakların, bu
+maddede aranan şartları taşıdıklarını gösteren belgelerle birlikte
+Kuruma bildirilmesi şarttır. Bildirimden itibaren yedi iş günü içinde
+Kurumca olumsuz görüş bildirilmemesi durumunda ilgili kişilerin
+atamaları yapılabilir.
 
-Herhangi bir nedenle görevden ayrılan genel müdür ve yardımcılarının
-görevden ayrılma nedenleri, ilgili banka ve görevden ayrılan tarafından
-yedi iş günü içinde Kuruma bildirilir.
+             Herhangi bir nedenle görevden ayrılan genel müdür ve
+yardımcılarının görevden ayrılma nedenleri, ilgili banka ve görevden
+ayrılan tarafından yedi iş günü içinde Kuruma bildirilir.
 
-Bu madde uygulamasında, genel müdürün sahip olması gereken nitelikler ve
-atanmalarına veya görevden ayrılmalarına ilişkin yükümlülükler
-bakımından, yurt dışında kurulu bankaların Türkiye'deki merkez şubesi
-müdürü, genel müdür gibi değerlendirilir.
+             Bu madde uygulamasında, genel müdürün sahip olması gereken
+nitelikler ve atanmalarına veya görevden ayrılmalarına ilişkin
+yükümlülükler bakımından, yurt dışında kurulu bankaların Türkiye'deki
+merkez şubesi müdürü, genel müdür gibi değerlendirilir.
 
-**(Mülga altıncı fıkra: 13/2/2011/6111/144 md.)**
+             **(Mülga altıncı fıkra: 13/2/2011-6111/144 md.)**
 
-*Çalışma ve imza yetkisi yasağı *
+*             Çalışma ve imza yetkisi yasağı *
 
-**Madde 26 —** Bu Kanunun 8 inci maddesinin birinci fıkrasının (a), (b),
-(c) ve (d) bentlerinde belirtilen şartları taşımayan kişiler, bankalarda
-genel müdür, genel müdür yardımcısı veya imza yetkisini haiz görevli
-olarak çalıştırılamazlar. Bankalar, bu kimselerin imza yetkilerini
-derhal kaldırmak zorundadırlar.
+**             Madde 26 —** Bu Kanunun 8 inci maddesinin birinci
+fıkrasının (a), (b), (c) ve (d) bentlerinde belirtilen şartları
+taşımayan kişiler, bankalarda genel müdür, genel müdür yardımcısı veya
+imza yetkisini haiz görevli olarak çalıştırılamazlar. Bankalar, bu
+kimselerin imza yetkilerini derhal kaldırmak zorundadırlar.
 
-Kurum denetimleri sonucunda, bu Kanun veya ilgili diğer mevzuat
-hükümlerini ihlâl ettikleri ve bankanın emin bir şekilde çalışmasını
-tehlikeye düşürdükleri tespit edilen ve haklarında kanunî kovuşturma
-talep edilen banka mensuplarının, imza yetkileri Kurul kararı ile geçici
-olarak kaldırılır. Bu kimseler, Kurulun izni olmadıkça imza yetkisini
-haiz personel olarak hiçbir bankada çalıştırılamazlar.
+             Kurum denetimleri sonucunda, bu Kanun veya ilgili diğer
+mevzuat hükümlerini ihlâl ettikleri ve bankanın emin bir şekilde
+çalışmasını tehlikeye düşürdükleri tespit edilen ve haklarında kanunî
+kovuşturma talep edilen banka mensuplarının, imza yetkileri Kurul kararı
+ile geçici olarak kaldırılır. Bu kimseler, Kurulun izni olmadıkça imza
+yetkisini haiz personel olarak hiçbir bankada çalıştırılamazlar.
 
 9548
 
-*Yemin ve mal beyanı*
+########  
 
-**Madde 27 —** Bankaların yönetim kurulu üyeleri ile müdürler kurulu
-başkan ve üyeleri, seçilmeleri veya atanmalarından sonra yerel ticaret
-mahkemesi huzurunda yemin etmedikçe göreve başlayamazlar. Bu kişiler ile
-genel müdür ve yardımcıları ve imza yetkisine sahip mensuplarından bölge
-müdürleri, şube müdürleri ve genel müdürlük merkez teşkilatında yer alan
-bölüm, kısım, grup ve bunlara eşdeğer isimler altında faaliyet gösteren
-birimlerin yöneticileri 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet
-ve Yolsuzluklarla Mücadele Kanunu hükümlerine tâbidirler.
+*             Yemin ve mal beyanı*
 
-Yemin ve mal beyanına ilişkin usûl ve esaslar Kurulca belirlenir.
+             Madde 27 — Bankaların yönetim kurulu üyeleri ile müdürler
+kurulu başkan ve üyeleri, seçilmeleri veya atanmalarından sonra yerel
+ticaret mahkemesi huzurunda yemin etmedikçe göreve başlayamazlar. Bu
+kişiler ile genel müdür ve yardımcıları ve imza yetkisine sahip
+mensuplarından bölge müdürleri, şube müdürleri ve genel müdürlük merkez
+teşkilatında yer alan bölüm, kısım, grup ve bunlara eşdeğer isimler
+altında faaliyet gösteren birimlerin yöneticileri 3628 sayılı Mal
+Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu
+hükümlerine tâbidirler.
 
-Karar defteri
+             Yemin ve mal beyanına ilişkin usûl ve esaslar Kurulca
+belirlenir.
 
-**Madde 28 —** Yönetim kurulu, denetim komitesi ve kredi komitesi ile
-müdürler kurulu kararları, aralarında açıklık bırakılmamak ve satır
-aralarında çıkıntı olmamak şartıyla tarih ve numara sırasıyla 6762
-sayılı Türk Ticaret Kanununun defterlerle ilgili hükümleri gereğince
-onaylanmış müteselsil sayfa numaralı ayrı birer deftere metnin
+             Karar defteri
+
+**             Madde 28 —** Yönetim kurulu, denetim komitesi ve kredi
+komitesi ile müdürler kurulu kararları, aralarında açıklık bırakılmamak
+ve satır aralarında çıkıntı olmamak şartıyla tarih ve numara sırasıyla
+6762 sayılı Türk Ticaret Kanununun defterlerle ilgili hükümleri
+gereğince onaylanmış müteselsil sayfa numaralı ayrı birer deftere metnin
 doğruluğundan hiçbir şekilde şüpheyi davet etmeyecek şekilde günü gününe
 kaydedilir ve her kararın altı, üyeler tarafından karar tarihinden
 itibaren en geç bir ay içinde imza olunur. Kurulca belirlenecek usûl ve
@@ -894,39 +961,39 @@ numaralı ayrı kalamoza kullanılabilir.
 
 *İç Sistemler*
 
-*İç sistemlere ilişkin yükümlülükler*
+*             İç sistemlere ilişkin yükümlülükler*
 
-**Madde 29 —** Bankalar, maruz kaldıkları risklerin izlenmesi,
-kontrolünün sağlanması, faaliyetlerinin kapsamı ve yapısıyla uyumlu ve
-değişen koşullara uygun, tüm şube ve konsolidasyona tâbi ortaklıklarını
-kapsayan yeterli ve etkin bir iç kontrol, risk yönetimi ve iç denetim
-sistemi kurmak ve işletmekle yükümlüdürler.
+**             Madde 29 —** Bankalar, maruz kaldıkları risklerin
+izlenmesi, kontrolünün sağlanması, faaliyetlerinin kapsamı ve yapısıyla
+uyumlu ve değişen koşullara uygun, tüm şube ve konsolidasyona tâbi
+ortaklıklarını kapsayan yeterli ve etkin bir iç kontrol, risk yönetimi
+ve iç denetim sistemi kurmak ve işletmekle yükümlüdürler.
 
-İç kontrol, risk yönetimi ve iç denetim sistemlerinin kuruluşuna,
-işleyişine, yeterliliğine, oluşturulacak birimlere, icra edilecek
-faaliyetlere, üst yönetimin görev ve sorumlulukları ile Kuruma yapılacak
-raporlamalara ilişkin usûl ve esaslar Kurulca belirlenir.
+             İç kontrol, risk yönetimi ve iç denetim sistemlerinin
+kuruluşuna, işleyişine, yeterliliğine, oluşturulacak birimlere, icra
+edilecek faaliyetlere, üst yönetimin görev ve sorumlulukları ile Kuruma
+yapılacak raporlamalara ilişkin usûl ve esaslar Kurulca belirlenir.
 
-*İç kontrol sistemi*
+*             İç kontrol sistemi*
 
-**Madde 30 —** Bankalar, iç kontrol sistemi kapsamında, faaliyetlerinin
-mevzuata, iç düzenlemelerine ve bankacılık teamüllerine uygun olarak
-yürütülmesini, muhasebe ve raporlama sisteminin bütünlüğünü,
-güvenilirliğini ve bilgilerin zamanında elde edilebilirliğini her
-seviyedeki personeli tarafından uyulacak ve uygulanacak sürekli kontrol
-faaliyetleri ile sağlamak, görevlerin fonksiyonel ayrımlarını, yetki ve
-sorumlulukların paylaşımını, fon ödemelerini, banka işlemlerinin
-mutabakatını, varlıkların korunmasını ve yükümlülüklerin kontrol altında
-tutulmasını temin etmek, maruz kalınan her türlü riskin tanınması,
-değerlendirilmesi ve yönetimi için gerekli alt yapıyı hazırlamak ve
-yeterli iletişim ağını oluşturmak zorundadır. İç kontrol faaliyetleri
-yönetim kuruluna bağlı olarak çalışacak iç kontrol birimi ve personeli
-tarafından yürütülür.
+**             Madde 30 —** Bankalar, iç kontrol sistemi kapsamında,
+faaliyetlerinin mevzuata, iç düzenlemelerine ve bankacılık teamüllerine
+uygun olarak yürütülmesini, muhasebe ve raporlama sisteminin
+bütünlüğünü, güvenilirliğini ve bilgilerin zamanında elde
+edilebilirliğini her seviyedeki personeli tarafından uyulacak ve
+uygulanacak sürekli kontrol faaliyetleri ile sağlamak, görevlerin
+fonksiyonel ayrımlarını, yetki ve sorumlulukların paylaşımını, fon
+ödemelerini, banka işlemlerinin mutabakatını, varlıkların korunmasını ve
+yükümlülüklerin kontrol altında tutulmasını temin etmek, maruz kalınan
+her türlü riskin tanınması, değerlendirilmesi ve yönetimi için gerekli
+alt yapıyı hazırlamak ve yeterli iletişim ağını oluşturmak zorundadır.
+İç kontrol faaliyetleri yönetim kuruluna bağlı olarak çalışacak iç
+kontrol birimi ve personeli tarafından yürütülür.
 
-*Risk yönetimi sistemi*
+*             Risk yönetimi sistemi*
 
-**Madde 31 —** Bankalar risk yönetimi sistemi kapsamında, risk
-politikalarını Kurulca belirlenen esaslar çerçevesinde oluşturmak,
+**             Madde 31 —** Bankalar risk yönetimi sistemi kapsamında,
+risk politikalarını Kurulca belirlenen esaslar çerçevesinde oluşturmak,
 uygulamak ve raporlamak zorundadır. Risk yönetimi faaliyetleri yönetim
 kuruluna bağlı olarak çalışacak risk yönetimi birimi ve personeli
 tarafından yürütülür.
@@ -1103,13 +1170,15 @@ gözetmekle yükümlüdür.
 
 9551
 
-*Belgelerin saklanması*
+########  
 
-**Madde 42 —** Alınan yazılar ve faaliyetler ile ilgili belgelerin
-asılları veya bunun mümkün olmadığı hâllerde sıhhatlerinden şüpheye
-mahal vermeyecek kopyaları ve yazılan yazıların makine ile alınmış,
-tarih ve numara sırası verilerek düzenlenecek suretleri, usûlleri
-çerçevesinde ilgili banka nezdinde on yıl süreyle saklanır. Bu
+*             Belgelerin saklanması*
+
+**             Madde 42 —** Alınan yazılar ve faaliyetler ile ilgili
+belgelerin asılları veya bunun mümkün olmadığı hâllerde sıhhatlerinden
+şüpheye mahal vermeyecek kopyaları ve yazılan yazıların makine ile
+alınmış, tarih ve numara sırası verilerek düzenlenecek suretleri,
+usûlleri çerçevesinde ilgili banka nezdinde on yıl süreyle saklanır. Bu
 belgelerin mikrofilm, mikrofiş şeklinde veya elektronik, manyetik veya
 benzeri ortamlarda saklanmaları mümkündür. Bu maddenin uygulanmasına
 ilişkin usûl ve esaslar Kurulca belirlenir.
@@ -1124,14 +1193,14 @@ BİRİNCİ BÖLÜM
 
 *Özkaynaklar ve Standart Oranlar*
 
-*Koruyucu düzenlemeler*
+*             Koruyucu düzenlemeler*
 
-**Madde 43 —** Kurul; bankaların varlıkları, alacakları, özkaynakları,
-borç, yükümlülük ve taahhütleri, gelir ve giderleri arasındaki ilgi ve
-dengelerin ve malî bünyeyi etkileyen diğer tüm unsurların ve maruz
-kalınan risklerin tespiti, tahlili, izlenmesi, ölçülmesi ve
-değerlendirilmesi amacıyla sınırlamalar ve standart oranlar da
-belirlemek suretiyle gerekli düzenlemeleri yapmaya ve bunlar hakkında
+**             Madde 43 —** Kurul; bankaların varlıkları, alacakları,
+özkaynakları, borç, yükümlülük ve taahhütleri, gelir ve giderleri
+arasındaki ilgi ve dengelerin ve malî bünyeyi etkileyen diğer tüm
+unsurların ve maruz kalınan risklerin tespiti, tahlili, izlenmesi,
+ölçülmesi ve değerlendirilmesi amacıyla sınırlamalar ve standart oranlar
+da belirlemek suretiyle gerekli düzenlemeleri yapmaya ve bunlar hakkında
 her türlü tedbiri almaya yetkilidir. Bu hüküm, 38 inci madde gereğince
 konsolide malî tablo hazırlama yükümlülüğü bulunan ana ortaklık için
 Kurulca belirlenecek usûl ve esaslar çerçevesinde konsolide ve konsolide
@@ -1141,72 +1210,77 @@ olmak üzere hesaplamak, tutturmak ve idame ettirmek ve bunlara ilişkin
 olarak Kurum tarafından istenen tedbirleri belirlenen süreler içinde
 almak ve uygulamakla yükümlüdür.
 
-Kurul, kurumsal yönetim hükümleri ile koruyucu hükümlerin uygulanmasını
-da dikkate alarak, her bir banka ya da banka grubu için belirlenen
-asgarî veya azamî standart oranlar ve sınırlardan farklı daha ihtiyatlı
-bir oran veya sınır tesis etmeye veya hesaplama ve bildirim dönemlerini
-farklılaştırmaya veya genel olarak belirlenmemiş oran ve sınırlar tespit
-etmeye yetkilidir.
+             Kurul, kurumsal yönetim hükümleri ile koruyucu hükümlerin
+uygulanmasını da dikkate alarak, her bir banka ya da banka grubu için
+belirlenen asgarî veya azamî standart oranlar ve sınırlardan farklı daha
+ihtiyatlı bir oran veya sınır tesis etmeye veya hesaplama ve bildirim
+dönemlerini farklılaştırmaya veya genel olarak belirlenmemiş oran ve
+sınırlar tespit etmeye yetkilidir.
 
-Bu Kanun kapsamında öngörülen sınırlamalara ve standart oranlara ilişkin
-eşiklere erişilmesi veya aşımların oluşması hâlinde, ilgili banka durumu
-derhal Kuruma bildirmek zorundadır.
+             Bu Kanun kapsamında öngörülen sınırlamalara ve standart
+oranlara ilişkin eşiklere erişilmesi veya aşımların oluşması hâlinde,
+ilgili banka durumu derhal Kuruma bildirmek zorundadır.
 
-*Ödenmiş sermaye, yedek akçeler ve özkaynak *
+*             Ödenmiş sermaye, yedek akçeler ve özkaynak *
 
-**Madde 44 —** Ödenmiş sermaye, bankaların fiilen ve her türlü
-muvazaadan arî olarak ödenmiş veya Türkiye'ye ayrılmış ve ödenmiş
+**             Madde 44 —** Ödenmiş sermaye, bankaların fiilen ve her
+türlü muvazaadan arî olarak ödenmiş veya Türkiye'ye ayrılmış ve ödenmiş
 sermayelerinden, bilançoda görülen zararın yedek akçelerle
 karşılanamayan kısmı düşüldükten sonra kalan tutardır.
 
-Yedek akçeler, bankaların 6762 sayılı Türk Ticaret Kanunu ve ilgili
-kanunlar ile ana sözleşmelerine göre ayırdıkları yedek akçelerinden
-varsa bilanço zararının düşülmesinden sonra elde edilen tutardır.
+             Yedek akçeler, bankaların 6762 sayılı Türk Ticaret Kanunu
+ve ilgili kanunlar ile ana sözleşmelerine göre ayırdıkları yedek
+akçelerinden varsa bilanço zararının düşülmesinden sonra elde edilen
+tutardır.
 
-Özkaynak, ana sermaye ve katkı sermaye toplamı ile bu toplamdan
-sermayeden indirilecek değerlerin düşülmesi sonucu bulunacak tutarı
-ifade eder.
+             Özkaynak, ana sermaye ve katkı sermaye toplamı ile bu
+toplamdan sermayeden indirilecek değerlerin düşülmesi sonucu bulunacak
+tutarı ifade eder.
 
-Konsolide özkaynak, konsolide esasa göre uygulanacak kredi sınırları ile
-standart oranların hesaplanmasında bu maddenin üçüncü fıkrası hükmüne
-göre hesaplanarak dikkate alınır.
+             Konsolide özkaynak, konsolide esasa göre uygulanacak kredi
+sınırları ile standart oranların hesaplanmasında bu maddenin üçüncü
+fıkrası hükmüne göre hesaplanarak dikkate alınır.
 
-Bu maddeye ilişkin usûl ve esaslar Kurulca belirlenir.
+             Bu maddeye ilişkin usûl ve esaslar Kurulca belirlenir.
 
 9552
 
-*Sermaye yeterliliği *
+########  
 
-**Madde 45 —** Bu Kanunun uygulanmasında maruz kalınan riskler nedeniyle
-oluşabilecek zararlara karşı yeterli özkaynak bulundurulması sermaye
-yeterliliğini ifade eder. Bankalar, Kurum tarafından düzenlenecek
-yönetmelikte öngörülen usûl ve esaslara göre yüzde sekiz oranından az
-olmamak üzere belirlenecek sermaye yeterliliği oranını hesaplamak,
-tutturmak, idame ettirmek ve raporlamak zorundadır.
+*             Sermaye yeterliliği *
 
-Bankaların iç sistemleri, aktif ve malî yapıları dikkate alınarak asgarî
-sermaye yeterliliği oranını artırmaya, bankalar bazında
+**             Madde 45 —** Bu Kanunun uygulanmasında maruz kalınan
+riskler nedeniyle oluşabilecek zararlara karşı yeterli özkaynak
+bulundurulması sermaye yeterliliğini ifade eder. Bankalar, Kurum
+tarafından düzenlenecek yönetmelikte öngörülen usûl ve esaslara göre
+yüzde sekiz oranından az olmamak üzere belirlenecek sermaye yeterliliği
+oranını hesaplamak, tutturmak, idame ettirmek ve raporlamak zorundadır.
+
+             Bankaların iç sistemleri, aktif ve malî yapıları dikkate
+alınarak asgarî sermaye yeterliliği oranını artırmaya, bankalar bazında
 farklılaştırmaya, kaynağı katılma hesabı olan aktiflerin risk
 ağırlıklarının belirlenmesinde bu hesapların özelliklerini dikkate almak
 suretiyle düzenleme yapmaya Kurul yetkilidir.
 
-*Likidite yeterliliği*
+*             Likidite yeterliliği*
 
-**Madde 46 —** Bankalar, Merkez Bankasının uygun görüşü alınmak
-suretiyle Kurulca belirlenecek usûl ve esaslara göre asgarî likidite
-düzeyini hesaplamak, tutturmak, idame ettirmek ve raporlamak zorundadır.
+**             Madde 46 —** Bankalar, Merkez Bankasının uygun görüşü
+alınmak suretiyle Kurulca belirlenecek usûl ve esaslara göre asgarî
+likidite düzeyini hesaplamak, tutturmak, idame ettirmek ve raporlamak
+zorundadır.
 
-*Aşımların giderilmesi*
+**            ** *Aşımların giderilmesi*
 
-**Madde 47 —** Bu Kanun ve bu Kanuna istinaden çıkarılan düzenlemelerde
-yer alan sınırlama ve oranlara ilişkin aşımların Kurulca belirlenecek
-usûl ve esaslar çerçevesinde giderilmesi zorunludur.
+             Madde 47 — Bu Kanun ve bu Kanuna istinaden çıkarılan
+düzenlemelerde yer alan sınırlama ve oranlara ilişkin aşımların Kurulca
+belirlenecek usûl ve esaslar çerçevesinde giderilmesi zorunludur.
 
-Özkaynaklarda meydana gelebilecek düşüşler nedeniyle özkaynağın belirli
-bir oranı ile ilişkilendirilen sınırlama ve oranlarda aşımların oluşması
-ve şartların gerektirmesi hâlinde, bu aşımlar Kurumca belirlenecek bir
-süre içinde giderilir. Aşımların giderilmesi için belirlenen süre içinde
-bu Kanunun idarî para cezalarına ilişkin hükümleri uygulanmaz.
+             Özkaynaklarda meydana gelebilecek düşüşler nedeniyle
+özkaynağın belirli bir oranı ile ilişkilendirilen sınırlama ve oranlarda
+aşımların oluşması ve şartların gerektirmesi hâlinde, bu aşımlar Kurumca
+belirlenecek bir süre içinde giderilir. Aşımların giderilmesi için
+belirlenen süre içinde bu Kanunun idarî para cezalarına ilişkin
+hükümleri uygulanmaz.
 
  
 
@@ -1214,185 +1288,194 @@ bu Kanunun idarî para cezalarına ilişkin hükümleri uygulanmaz.
 
 *Krediler ve Risk Grubu*
 
-*Krediler *
+*             Krediler *
 
-**Madde 48 —** Bankalarca verilen nakdî krediler ile teminat mektupları,
-kontrgarantiler, kefaletler, aval, ciro, kabul gibi gayrinakdî krediler
-ve bu niteliği haiz taahhütler, satın alınan tahvil ve benzeri sermaye
-piyasası araçları, tevdiatta bulunmak suretiyle ya da herhangi bir şekil
-ve surette verilen ödünçler, varlıkların vadeli satışından doğan
-alacaklar, vadesi geçmiş nakdî krediler, tahakkuk etmekle birlikte
-tahsil edilmemiş faizler, gayrinakdî kredilerin nakde tahvil olan
-bedelleri, ters repo işlemlerinden alacaklar, vadeli işlem ve opsiyon
-sözleşmeleri ile benzeri diğer sözleşmeler nedeniyle üstlenilen riskler,
-ortaklık payları ve Kurulca kredi olarak kabul edilen işlemler
-izlendikleri hesaba bakılmaksızın bu Kanun uygulamasında kredi sayılır.
+**             Madde 48 —** Bankalarca verilen nakdî krediler ile
+teminat mektupları, kontrgarantiler, kefaletler, aval, ciro, kabul gibi
+gayrinakdî krediler ve bu niteliği haiz taahhütler, satın alınan tahvil
+ve benzeri sermaye piyasası araçları, tevdiatta bulunmak suretiyle ya da
+herhangi bir şekil ve surette verilen ödünçler, varlıkların vadeli
+satışından doğan alacaklar, vadesi geçmiş nakdî krediler, tahakkuk
+etmekle birlikte tahsil edilmemiş faizler, gayrinakdî kredilerin nakde
+tahvil olan bedelleri, ters repo işlemlerinden alacaklar, vadeli işlem
+ve opsiyon sözleşmeleri ile benzeri diğer sözleşmeler nedeniyle
+üstlenilen riskler, ortaklık payları ve Kurulca kredi olarak kabul
+edilen işlemler izlendikleri hesaba bakılmaksızın bu Kanun uygulamasında
+kredi sayılır.
 
-Birinci fıkrada belirtilenlere ilâve olarak, kalkınma ve yatırım
-bankalarının finansal kiralama yöntemiyle sağladığı finansmanlar ile
-katılım bankalarının taşınır ve taşınmaz mal ve hizmet bedellerinin
+             Birinci fıkrada belirtilenlere ilâve olarak, kalkınma ve
+yatırım bankalarının finansal kiralama yöntemiyle sağladığı finansmanlar
+ile katılım bankalarının taşınır ve taşınmaz mal ve hizmet bedellerinin
 ödenmesi suretiyle veya kâr ve zarar ortaklığı yatırımları, taşınmaz,
 ekipman veya emtia temini veya finansal kiralama, mal karşılığı vesaikin
 finansmanı, ortak yatırımlar veya benzer yöntemlerle sağladıkları
 finansmanlar da bu Kanun uygulamasında kredi sayılır.
 
-*Risk grubu*
+*             Risk grubu*
 
-**Madde 49 —** Bir gerçek kişi ile eşi ve çocukları, bunların yönetim
-kurulu üyesi veya genel müdürü oldukları veya bunların ya da bir tüzel
-kişinin birlikte veya tek başlarına, doğrudan ya da dolaylı olarak
-kontrol ettikleri ya da sınırsız sorumlulukla katıldıkları ortaklıklar
-bir risk grubunu oluşturur.
+**             Madde 49 —** Bir gerçek kişi ile eşi ve çocukları,
+bunların yönetim kurulu üyesi veya genel müdürü oldukları veya bunların
+ya da bir tüzel kişinin birlikte veya tek başlarına, doğrudan ya da
+dolaylı olarak kontrol ettikleri ya da sınırsız sorumlulukla
+katıldıkları ortaklıklar bir risk grubunu oluşturur.
 
 9553
 
-Bir banka ile bu bankanın nitelikli pay sahipleri, yönetim kurulu
-üyeleri ve genel müdürü, bunların birlikte veya tek başına, doğrudan ya
-da dolaylı olarak kontrol ettikleri ya da bunların sınırsız sorumlulukla
-katıldıkları veya yönetim kurulu üyesi ya da genel müdürü oldukları
-ortaklıklar bankanın dahil olduğu risk grubunu oluşturur.
+########  
 
-Yukarıda belirtilen risk gruplarının belirlenmesinde birlikte kontrol
-edilen ortaklıklar, bu ortaklıkların kontrolünü birlikte sağlayan her
-bir hissedarın risk grubuna dahil edilir.
+             Bir banka ile bu bankanın nitelikli pay sahipleri, yönetim
+kurulu üyeleri ve genel müdürü, bunların birlikte veya tek başına,
+doğrudan ya da dolaylı olarak kontrol ettikleri ya da bunların sınırsız
+sorumlulukla katıldıkları veya yönetim kurulu üyesi ya da genel müdürü
+oldukları ortaklıklar bankanın dahil olduğu risk grubunu oluşturur.
 
-Bu maddenin uygulanmasında aralarında birinin ödeme güçlüğüne düşmesinin
-diğer bir veya birkaçının ödeme güçlüğüne düşmesi sonucunu doğuracak
-boyutta kefalet, garanti veya benzeri ilişkiler bulunan gerçek ve tüzel
-kişiler ilgili risk gruplarına dahil edilir.
+             Yukarıda belirtilen risk gruplarının belirlenmesinde
+birlikte kontrol edilen ortaklıklar, bu ortaklıkların kontrolünü
+birlikte sağlayan her bir hissedarın risk grubuna dahil edilir.
 
-Sermayesinin çoğunluğu ayrı ayrı veya birlikte Hazineye, Özelleştirme
-İdaresi Başkanlığına, genel veya katma bütçeli dairelere ait bankalar;
-doğrudan veya dolaylı olarak kontrol ettikleri ortaklıklar ile birlikte
-bir risk grubu oluşturur.
+             Bu maddenin uygulanmasında aralarında birinin ödeme
+güçlüğüne düşmesinin diğer bir veya birkaçının ödeme güçlüğüne düşmesi
+sonucunu doğuracak boyutta kefalet, garanti veya benzeri ilişkiler
+bulunan gerçek ve tüzel kişiler ilgili risk gruplarına dahil edilir.
 
-Bankalar dışındaki kamu iktisadi teşebbüslerinin veya hisselerinin
-çoğunluğu Özelleştirme İdaresi Başkanlığının elinde bulunan diğer kamu
-kurum ve kuruluşları, sermaye, yönetim ve denetimlerine hâkim oldukları
-bağlı ortaklık, iştirak ve müesseseler ile birlikte bir risk grubu
-oluşturur.
+             Sermayesinin çoğunluğu ayrı ayrı veya birlikte Hazineye,
+Özelleştirme İdaresi Başkanlığına, genel veya katma bütçeli dairelere
+ait bankalar; doğrudan veya dolaylı olarak kontrol ettikleri ortaklıklar
+ile birlikte bir risk grubu oluşturur.
 
-Bu maddenin uygulanmasına, banka ve ortaklıklarda yönetim kurulu üyesi
-ve genel müdür olarak görev yapanlar ve velâyet altında olmayan çocuklar
-bakımından aynı risk grubuna dahil edilecek gerçek ve tüzel kişilerin
-tespitine ilişkin usûl ve esaslar Kurulca belirlenir.
+             Bankalar dışındaki kamu iktisadi teşebbüslerinin veya
+hisselerinin çoğunluğu Özelleştirme İdaresi Başkanlığının elinde bulunan
+diğer kamu kurum ve kuruluşları, sermaye, yönetim ve denetimlerine hâkim
+oldukları bağlı ortaklık, iştirak ve müesseseler ile birlikte bir risk
+grubu oluşturur.
 
-*Dâhil olunan risk grubu ve mensuplara kredi kullandırma koşulları *
+             Bu maddenin uygulanmasına, banka ve ortaklıklarda yönetim
+kurulu üyesi ve genel müdür olarak görev yapanlar ve velâyet altında
+olmayan çocuklar bakımından aynı risk grubuna dahil edilecek gerçek ve
+tüzel kişilerin tespitine ilişkin usûl ve esaslar Kurulca belirlenir.
 
-**Madde 50 —** Bankalar;
+*             Dâhil olunan risk grubu ve mensuplara kredi kullandırma
+koşulları *
 
-a\) Yönetim kurulu üyelerine, genel müdüre, genel müdür yardımcılarına ve
-kredi açmaya yetkili mensuplarına; bunların eş ve velâyet altındaki
-çocuklarına; tek başlarına ya da birlikte sermayesinin yüzde yirmibeş
-veya fazlasına sahip oldukları ortaklıklara,
+**             Madde 50 —** Bankalar;
 
-b\) (a) bendinde sayılanlar dışında kalan mensupları ile bunların eş ve
-velâyeti altındaki çocuklarına,
+             a) Yönetim kurulu üyelerine, genel müdüre, genel müdür
+yardımcılarına ve kredi açmaya yetkili mensuplarına; bunların eş ve
+velâyet altındaki çocuklarına; tek başlarına ya da birlikte sermayesinin
+yüzde yirmibeş veya fazlasına sahip oldukları ortaklıklara,
 
-c\) Mensuplarının kurduğu veya bunlar için kurulan sandık, dernek,
-sendika veya vakıflara,
+             b) (a) bendinde sayılanlar dışında kalan mensupları ile
+bunların eş ve velâyeti altındaki çocuklarına,
 
-Her ne şekil ve surette olursa olsun nakdî ve gayrinakdî kredi veremez,
-tahvil ya da benzeri menkul kıymetlerini satın alamazlar.
+             c) Mensuplarının kurduğu veya bunlar için kurulan sandık,
+dernek, sendika veya vakıflara,
 
-Birinci fıkra hükümleri, yönetim kurulu üyeliklerinde aslen bulunan veya
-temsilci bulunduran ve banka sermayesinde doğrudan veya dolaylı olarak
-nitelikli paya sahip olan gerçek kişi ortaklar ile tüzel kişi ortaklar
-hakkında uygulanmaz.
+             Her ne şekil ve surette olursa olsun nakdî ve gayrinakdî
+kredi veremez, tahvil ya da benzeri menkul kıymetlerini satın alamazlar.
 
-Bir bankanın ortaklıklarının yönetim ve denetim kurullarında bulunan
-kimselerin aynı zamanda ilgili bankanın mensubu olması, bu ortaklıkların
-ilgili banka ile işlem yapmasına engel değildir.
+             Birinci fıkra hükümleri, yönetim kurulu üyeliklerinde aslen
+bulunan veya temsilci bulunduran ve banka sermayesinde doğrudan veya
+dolaylı olarak nitelikli paya sahip olan gerçek kişi ortaklar ile tüzel
+kişi ortaklar hakkında uygulanmaz.
 
-Bankanın dâhil olduğu risk grubunda bulunan gerçek ve tüzel kişilere
-kredi kullandırılması hâlinde, gerekli kararların yönetim kurulunun üye
-tam sayısının üçte iki çoğunluğu ile alınması ve bunlara sağlanan kredi
-koşullarının kredi kullananın lehine diğer kişi ve gruplara
-kullandırılanlardan ve piyasa koşullarından farklılık arz etmemesi
-şarttır.
+             Bir bankanın ortaklıklarının yönetim ve denetim
+kurullarında bulunan kimselerin aynı zamanda ilgili bankanın mensubu
+olması, bu ortaklıkların ilgili banka ile işlem yapmasına engel
+değildir.
 
-Bir bankanın yönetim kurulu üyelerine, mensupları ile bunların eşlerine
-ve velâyet altındaki çocuklarına, aylık net ücretleri toplamının beş
-katını aşmamak üzere verilecek krediler, üç katını aşmamak üzere çek
-karnesi veya kredi kartı verilmesi suretiyle kullandırılacak krediler
-ile bu Kanunun 55 inci maddesinin (a) ve (b) bentlerinde belirtilen
-menkul kıymetler karşılığı kullandırılan krediler birinci ve dördüncü
-fıkra hükümlerine tâbi değildir.
+             Bankanın dâhil olduğu risk grubunda bulunan gerçek ve tüzel
+kişilere kredi kullandırılması hâlinde, gerekli kararların yönetim
+kurulunun üye tam sayısının üçte iki çoğunluğu ile alınması ve bunlara
+sağlanan kredi koşullarının kredi kullananın lehine diğer kişi ve
+gruplara kullandırılanlardan ve piyasa koşullarından farklılık arz
+etmemesi şarttır.
+
+             Bir bankanın yönetim kurulu üyelerine, mensupları ile
+bunların eşlerine ve velâyet altındaki çocuklarına, aylık net ücretleri
+toplamının beş katını aşmamak üzere verilecek krediler, üç katını
+aşmamak üzere çek karnesi veya kredi kartı verilmesi suretiyle
+kullandırılacak krediler ile bu Kanunun 55 inci maddesinin (a) ve (b)
+bentlerinde belirtilen menkul kıymetler karşılığı kullandırılan krediler
+birinci ve dördüncü fıkra hükümlerine tâbi değildir.
 
 9554
 
-Banka, bankanın risk grubunda yer alan kişilere açtığı kredileri Kuruma
-düzenli olarak raporlar.
+########  
 
-Sonradan bu madde hükümlerine aykırı hale gelen kredilerin en geç altı
-ay içinde tasfiye edilmesi zorunludur.
+             Banka, bankanın risk grubunda yer alan kişilere açtığı
+kredileri Kuruma düzenli olarak raporlar.
 
-*Kredi açma *
+             Sonradan bu madde hükümlerine aykırı hale gelen kredilerin
+en geç altı ay içinde tasfiye edilmesi zorunludur.
 
-**Madde 51 —** Kredi açma yetkisi yönetim kuruluna aittir. Yönetim
-kurulu; kredi açma, onay verme ve diğer idarî esaslara ilişkin
+*             Kredi açma *
+
+**             Madde 51 —** Kredi açma yetkisi yönetim kuruluna aittir.
+Yönetim kurulu; kredi açma, onay verme ve diğer idarî esaslara ilişkin
 politikaları oluşturmak, bunların uygulanmasını ve izlenmesini sağlamak
 ve gerekli tedbirleri almakla yükümlüdür.
 
-Yönetim kurulu kredi açma yetkisini Kurulca belirlenecek usûl ve esaslar
-çerçevesinde kredi komitesine veya genel müdürlüğe devredebilir. Genel
-müdürlük kendisine devredilen kredi açma yetkisini diğer birimleri,
-bölge müdürlükleri veya şubeleri aracılığıyla da kullanabilir. Kredi
-komitesinin oluşumu ile çalışma ve karar alma esasları Kurulca
-belirlenir. Bu Kanunun kredi sınırlarına ilişkin hükümlerine tâbi
-olmayan krediler için kredi açma yetkisi yönetim kurulunca belirlenecek
-usûl ve esaslar çerçevesinde devredilebilir.
+             Yönetim kurulu kredi açma yetkisini Kurulca belirlenecek
+usûl ve esaslar çerçevesinde kredi komitesine veya genel müdürlüğe
+devredebilir. Genel müdürlük kendisine devredilen kredi  açma 
+yetkisini  diğer  birimleri,  bölge  müdürlükleri  veya  şubeleri 
+aracılığıyla  da kullanabilir. Kredi komitesinin oluşumu ile çalışma ve
+karar alma esasları Kurulca belirlenir. Bu Kanunun kredi sınırlarına
+ilişkin hükümlerine tâbi olmayan krediler için kredi açma yetkisi
+yönetim kurulunca belirlenecek usûl ve esaslar çerçevesinde
+devredilebilir.
 
-Kredi açma yetkisini haiz olanlar, kendileri ile eş ve velâyeti
-altındaki çocuklarının veya bunlarla risk grubu oluşturan diğer gerçek
-ve tüzel kişilerin taraf olduğu kredi işlemlerine ilişkin değerlendirme
-ve karar verme aşamalarında yer alamaz ve bu hususu yazılı olarak
-yetkililere bildirir.
+             Kredi açma yetkisini haiz olanlar, kendileri ile eş ve
+velâyeti altındaki çocuklarının veya bunlarla risk grubu oluşturan diğer
+gerçek ve tüzel kişilerin taraf olduğu kredi işlemlerine ilişkin
+değerlendirme ve karar verme aşamalarında yer alamaz ve bu hususu yazılı
+olarak yetkililere bildirir.
 
-Kurul, bu madde ve 50 nci madde hükümlerine aykırı olarak
+             Kurul, bu madde ve 50 nci madde hükümlerine aykırı olarak
 kullandırıldığı tespit edilen kredilerin, ilgili bankanın özkaynak
 hesabında indirim kalemi olarak dikkate alınmasına karar vermeye veya bu
 krediler tutarında ilave özkaynak temin edilmesini zorunlu tutmaya
 yetkilidir.
 
-*Kredilerin izlenmesi *
+*             Kredilerin izlenmesi *
 
-**Madde 52 —** Bankalar, kredileri nedeniyle maruz kalınacak riskleri
-ölçmek, karşı tarafın malî gücünü düzenli olarak analiz etmek ve
-izlemek, gerekli bilgi ve belgeleri temin etmek ve bunlara ilişkin
-esasları belirlemek zorundadır. Kredi müşterileri bu çerçevede konsolide
-ve konsolide olmayan bazda istenilen bilgi ve belgeleri bankalara
-vermekle yükümlüdür.
+**             Madde 52 —** Bankalar, kredileri nedeniyle maruz
+kalınacak riskleri ölçmek, karşı tarafın malî gücünü düzenli olarak
+analiz etmek ve izlemek, gerekli bilgi ve belgeleri temin etmek ve
+bunlara ilişkin esasları belirlemek zorundadır. Kredi müşterileri bu
+çerçevede konsolide ve konsolide olmayan bazda istenilen bilgi ve
+belgeleri bankalara vermekle yükümlüdür.
 
-Sermayesinin yarısından fazlasına genel ve katma bütçeli dairelerin,
-kamu iktisadi teşebbüslerinin, 28.5.1986 tarihli ve 3291 sayılı Kanun
-kapsamına alınan kuruluşların sahip olduğu kurum ve ortaklıklara ve
-bankalar dışında kalan müşterilere açılacak kredi ve verilecek kefalet
-ya da teminatların Kurumca belirlenecek tutarı geçmesi hâlinde alınacak
-hesap durumu belgesi ile eki bilanço ve kâr ve zarar cetvellerinin genel
-kabul görmüş muhasebe ilkelerine uygunluğunun Kurumca belirlenecek
-esaslar dahilinde 1.6.1989 tarihli ve 3568 sayılı Kanuna göre ruhsat
-almış, denetim yetkisine sahip meslek mensupları tarafından onaylanması
-şarttır.
+             Sermayesinin yarısından fazlasına genel ve katma bütçeli
+dairelerin, kamu iktisadi teşebbüslerinin, 28.5.1986 tarihli ve 3291
+sayılı Kanun kapsamına alınan kuruluşların sahip olduğu kurum ve
+ortaklıklara ve bankalar dışında kalan müşterilere açılacak kredi ve
+verilecek kefalet ya da teminatların Kurumca belirlenecek tutarı geçmesi
+hâlinde alınacak hesap durumu belgesi ile eki bilanço ve kâr ve zarar
+cetvellerinin genel kabul görmüş muhasebe ilkelerine uygunluğunun
+Kurumca belirlenecek esaslar dahilinde 1.6.1989 tarihli ve 3568 sayılı
+Kanuna göre ruhsat almış, denetim yetkisine sahip meslek mensupları
+tarafından onaylanması şarttır.
 
-Bu maddenin uygulanmasıyla ilgili usûl ve esaslar Kurulca belirlenir.
+             Bu maddenin uygulanmasıyla ilgili usûl ve esaslar Kurulca
+belirlenir.
 
-*Karşılıklar ve teminatlar*
+*             Karşılıklar ve teminatlar*
 
-**Madde 53 —** Bankalar, krediler ve diğer alacaklarla ilgili olarak,
-doğmuş veya doğması muhtemel zararların karşılanması ve bunlar dışında
-kalan varlıkların değer azalışları için yeterli düzeyde karşılık
-ayrılmasına, aktiflerin kalitesine ve sınıflandırılmasına, garantilerin
-ve teminatların alınmasına, bunların değerinin ve güvenilirliğinin
-ölçülmesine, takibe alınan kredilerin izlenmesine ve vadesi dolmuş
-kredilerin geri ödenmesine ilişkin politikaları oluşturmak ve uygulamak,
-bunları düzenli olarak gözden geçirmek, tüm bu hususları icra edebilecek
-gerekli yapıları tesis etmek ve işletmek zorundadır. Bu fıkra hükmünün
-uygulanmasına ilişkin usûl ve esaslar Kurulca belirlenir.
+**             Madde 53 —** Bankalar, krediler ve diğer alacaklarla
+ilgili olarak, doğmuş veya doğması muhtemel zararların karşılanması ve
+bunlar dışında kalan varlıkların değer azalışları için yeterli düzeyde
+karşılık ayrılmasına, aktiflerin kalitesine ve sınıflandırılmasına,
+garantilerin ve teminatların alınmasına, bunların değerinin ve
+güvenilirliğinin ölçülmesine, takibe alınan kredilerin izlenmesine ve
+vadesi dolmuş kredilerin geri ödenmesine ilişkin politikaları oluşturmak
+ve uygulamak, bunları düzenli olarak gözden geçirmek, tüm bu hususları
+icra edebilecek gerekli yapıları tesis etmek ve işletmek zorundadır. Bu
+fıkra hükmünün uygulanmasına ilişkin usûl ve esaslar Kurulca belirlenir.
 
-Bu madde uyarınca krediler ve diğer alacaklarla ilgili olarak ayrılan
-özel karşılıkların tamamı, ayrıldıkları yılda kurumlar vergisi
-matrahının tespitinde gider olarak kabul edilir.
+             Bu madde uyarınca krediler ve diğer alacaklarla ilgili
+olarak ayrılan özel karşılıkların tamamı, ayrıldıkları yılda kurumlar
+vergisi matrahının tespitinde gider olarak kabul edilir.
 
 9555
 
@@ -1402,149 +1485,157 @@ matrahının tespitinde gider olarak kabul edilir.
 
 *Sınırlamalar *
 
-*Kredi sınırları *
+*             Kredi sınırları *
 
-**Madde 54 —** Bankalarca bir gerçek ya da tüzel kişiye veya bir risk
-grubuna kullandırılabilecek kredilerin toplamı özkaynakların yüzde
-yirmibeşini aşamaz. Bu oran, 49 uncu maddenin ikinci fıkrasında
-tanımlanan risk grubu bakımından yüzde yirmi olarak uygulanır. Kurul, bu
-oranı yüzde yirmibeşe kadar yükseltmeye veya kanunî haddine kadar
-indirmeye yetkilidir. Bir adi ortaklığa verilen krediler, sorumlulukları
-oranında ortaklara kullandırılmış sayılır.
+**             Madde 54 —** Bankalarca bir gerçek ya da tüzel kişiye
+veya bir risk grubuna kullandırılabilecek kredilerin toplamı
+özkaynakların yüzde yirmibeşini aşamaz. Bu oran, 49 uncu maddenin ikinci
+fıkrasında tanımlanan risk grubu bakımından yüzde yirmi olarak
+uygulanır. Kurul, bu oranı yüzde yirmibeşe kadar yükseltmeye veya kanunî
+haddine kadar indirmeye yetkilidir. Bir adi ortaklığa verilen krediler,
+sorumlulukları oranında ortaklara kullandırılmış sayılır.
 
-Bankalarca hâkim ortak veya nitelikli pay sahibi olup olmadıklarına
-bakılmaksızın bankaların sermayesinin yüzde bir ve daha fazla payına
-sahip olup pay defterine kayıtlı olan tüm ortaklarına ve bunlarla risk
-grubu oluşturan kişilere kullandırılacak kredilerin toplamı
-özkaynaklarının yüzde ellisini aşamaz.
+             Bankalarca hâkim ortak veya nitelikli pay sahibi olup
+olmadıklarına bakılmaksızın bankaların sermayesinin yüzde bir ve daha
+fazla payına sahip olup pay defterine kayıtlı olan tüm ortaklarına ve
+bunlarla risk grubu oluşturan kişilere kullandırılacak kredilerin
+toplamı özkaynaklarının yüzde ellisini aşamaz.
 
-Birlikte kontrol edilen ortaklıklara kullandırılan krediler, bu
-ortaklıkları birlikte kontrol eden hissedarların her birinin ortaklık
-sermayesinde sahip olduğu payların, birlikte kontrol ettikleri toplam
-paya oranı ölçüsünde ortaklığı birlikte kontrol eden her bir hissedarın
-dâhil olduğu risk grubuna kullandırılmış sayılır.
+             Birlikte kontrol edilen ortaklıklara kullandırılan
+krediler, bu ortaklıkları birlikte kontrol eden hissedarların her
+birinin ortaklık sermayesinde sahip olduğu payların, birlikte kontrol
+ettikleri toplam paya oranı ölçüsünde ortaklığı birlikte kontrol eden
+her bir hissedarın dâhil olduğu risk grubuna kullandırılmış sayılır.
 
-Bir gerçek ya da tüzel kişiye veya bir risk grubuna özkaynakların yüzde
-onu veya daha fazlası oranında kullandırılan krediler büyük kredi
-sayılır ve bunların toplamı özkaynakların sekiz katını aşamaz.
+             Bir gerçek ya da tüzel kişiye veya bir risk grubuna
+özkaynakların yüzde onu veya daha fazlası oranında kullandırılan
+krediler büyük kredi sayılır ve bunların toplamı özkaynakların sekiz
+katını aşamaz.
 
-Bir risk grubuna kullandırılan kredilerin teminatını oluşturmak üzere
-aynı risk grubuna dâhil gerçek veya tüzel kişilerden kabul edilen aval,
-garanti ve kefaletler risk grubuna ait kredi sınırlarının hesabında
-dikkate alınmaz.
+             Bir risk grubuna kullandırılan kredilerin teminatını
+oluşturmak üzere aynı risk grubuna dâhil gerçek veya tüzel kişilerden
+kabul edilen aval, garanti ve kefaletler risk grubuna ait kredi
+sınırlarının hesabında dikkate alınmaz.
 
-Gayrinakdî krediler, vadeli işlem ve opsiyon sözleşmeleri ile benzeri
-diğer sözleşmeler, kabul edilen aval, garanti ve kefaletler, kredi
-kuruluşları ve finansal kuruluşlarla gerçekleştirilen işlemler, Kurulca
-kabul edilecek ülkelerin merkezî yönetimleri, merkez bankaları ve
-bankaları ile yapılan işlemler veya bunlarca çıkarılan ya da ödenmesi
+             Gayrinakdî krediler, vadeli işlem ve opsiyon sözleşmeleri
+ile benzeri diğer sözleşmeler, kabul edilen aval, garanti ve kefaletler,
+kredi kuruluşları ve finansal kuruluşlarla gerçekleştirilen işlemler,
+Kurulca kabul edilecek ülkelerin merkezî yönetimleri, merkez bankaları
+ve bankaları ile yapılan işlemler veya bunlarca çıkarılan ya da ödenmesi
 garanti edilen bono, tahvil ve benzeri sermaye piyasası araçları,
 verilen diğer garantiler karşılığı yapılan işlemler kredi sınırlarının
 hesabında Kurulca belirlenen esaslar ve oranlar dâhilinde dikkate
 alınır.
 
-Bu madde hükümleri, ana ortaklık bakımından konsolide esasa göre
-uygulanır.
+             Bu madde hükümleri, ana ortaklık bakımından konsolide esasa
+göre uygulanır.
 
-*Kredi sınırlamalarına tâbi olmayan işlemler*
+*             Kredi sınırlamalarına tâbi olmayan işlemler*
 
-**Madde 55 —** Aşağıdaki kredi işlemleri 54 üncü maddedeki sınırlamalara
-tâbi değildir:
+**             Madde 55 —** Aşağıdaki kredi işlemleri 54 üncü maddedeki
+sınırlamalara tâbi değildir:
 
-a\) Karşılığı nakit, nakit benzeri kıymet ve hesaplar ile kıymetli maden
-olan işlemler.
+             a) Karşılığı nakit, nakit benzeri kıymet ve hesaplar ile
+kıymetli maden olan işlemler.
 
-b\) Hazine Müsteşarlığı, Merkez Bankası, Özelleştirme İdaresi Başkanlığı
-ve Toplu Konut İdaresi Başkanlığıyla yapılan işlemler ile bu kurumlarca
-çıkarılan ya da ödenmesi garanti edilen bono, tahvil ve benzeri menkul
-kıymetler karşılığı yapılan işlemler.
+             b) Hazine Müsteşarlığı, Merkez Bankası, Özelleştirme
+İdaresi Başkanlığı ve Toplu Konut İdaresi Başkanlığıyla yapılan işlemler
+ile bu kurumlarca çıkarılan ya da ödenmesi garanti edilen bono, tahvil
+ve benzeri menkul kıymetler karşılığı yapılan işlemler.
 
-c\) Merkez Bankası nezdindeki piyasalarda veya kanunla teşkilatlanmış
-diğer para piyasalarında yapılan işlemler.
+             c) Merkez Bankası nezdindeki piyasalarda veya kanunla
+teşkilatlanmış diğer para piyasalarında yapılan işlemler.
 
-d\) Aynı kişiye ya da aynı risk grubuna yeni kredi tahsisi hâlinde daha
-önce yabancı para cinsinden veya yabancı para ölçüsü ile verilen
-kredilerin, müteakiben tahsis edilen kredinin kullandırılmaya başlandığı
-tarihteki cari kurdan dikkate alınması kaydıyla çek ve kredi kartı
-kullandırımları hariç, kredilerde kur değişikliklerinin doğurduğu
+             d) Aynı kişiye ya da aynı risk grubuna yeni kredi tahsisi
+hâlinde daha önce yabancı para cinsinden veya yabancı para ölçüsü ile
+verilen kredilerin, müteakiben tahsis edilen kredinin kullandırılmaya
+başlandığı tarihteki cari kurdan dikkate alınması kaydıyla çek ve kredi
+kartı kullandırımları hariç, kredilerde kur değişikliklerinin doğurduğu
 artışlar ile vadesi geçmiş kredilere tahakkuk ettirilen faiz, kâr payı
 ve diğer unsurlar.
 
-e\) Her türlü sermaye artırımları dolayısıyla bedelsiz edinilen ortaklık
-payları ile ortaklık paylarının herhangi bir fon çıkışı gerektirmeyen
-değer artışları.
+             e) Her türlü sermaye artırımları dolayısıyla bedelsiz
+edinilen ortaklık payları ile ortaklık paylarının herhangi bir fon
+çıkışı gerektirmeyen değer artışları.
 
 9556
 
-f\) Kurulca belirlenecek esaslar dâhilinde bankaların kendi aralarındaki
-işlemler.
+########  
 
-g\) Kurulca belirlenecek esas ve süreler çerçevesinde elden çıkarılması
-kaydıyla halka arza aracılık yüklenimleri kapsamında edinilen ortaklık
-payları.
+             f) Kurulca belirlenecek esaslar dâhilinde bankaların kendi
+aralarındaki işlemler.
 
-h\) Özkaynak hesabında indirilecek değer olarak dikkate alınan işlemler.
+             g) Kurulca belirlenecek esas ve süreler çerçevesinde elden
+çıkarılması kaydıyla halka arza aracılık yüklenimleri kapsamında
+edinilen ortaklık payları.
 
-i\) Kurulca belirlenecek diğer işlemler.
+             h) Özkaynak hesabında indirilecek değer olarak dikkate
+alınan işlemler.
 
-*Ortaklık paylarına ilişkin sınırlamalar*
+             i) Kurulca belirlenecek diğer işlemler.
 
-**Madde 56 —** Bankaların; kredi kuruluşları ve finansal kuruluşlar
-dışındaki bir ortaklıktaki payı kendi özkaynaklarının yüzde onbeşini, bu
-ortaklıklardaki paylarının toplam tutarı ise kendi özkaynaklarının yüzde
-altmışını aşamaz.
+*             Ortaklık paylarına ilişkin sınırlamalar*
 
-Bu Kanunun 55 inci maddesinin (e) bendinde belirtilen işlemler, birinci
-fıkrada belirtilen sınırların hesabında dikkate alınmaz.
+**             Madde 56 —** Bankaların; kredi kuruluşları ve finansal
+kuruluşlar dışındaki bir ortaklıktaki payı kendi özkaynaklarının yüzde
+onbeşini, bu ortaklıklardaki paylarının toplam tutarı ise kendi
+özkaynaklarının yüzde altmışını aşamaz.
 
-Birinci fıkrada zikredilen sınırların aşılması hâlinde, aşım tutarı
-özkaynak hesaplamasında ana sermayeden indirim kalemi olarak dikkate
-alınır.
+             Bu Kanunun 55 inci maddesinin (e) bendinde belirtilen
+işlemler, birinci fıkrada belirtilen sınırların hesabında dikkate
+alınmaz.
 
-Bankalar, kendilerinde doğrudan veya dolaylı olarak pay sahibi olan
-ortaklık ve kuruluşlarda doğrudan veya dolaylı olarak pay sahibi
-olamazlar, bunların hisse senetlerini rehin olarak kabul edemezler ve
-karşılığında avans veremezler.
+             Birinci fıkrada zikredilen sınırların aşılması hâlinde,
+aşım tutarı özkaynak hesaplamasında ana sermayeden indirim kalemi olarak
+dikkate alınır.
 
-*Gayrimenkul ve emtia üzerine işlemler*
+             Bankalar, kendilerinde doğrudan veya dolaylı olarak pay
+sahibi olan ortaklık ve kuruluşlarda doğrudan veya dolaylı olarak pay
+sahibi olamazlar, bunların hisse senetlerini rehin olarak kabul
+edemezler ve karşılığında avans veremezler.
 
-**Madde 57 —** Bankaların gayrimenkullerinin net defter değerleri
-toplamı özkaynaklarının yüzde ellisini aşamaz. Bu hesaplamada, değerleme
-veya enflasyon düzeltmesine bağlı olarak oluşan ve gayrimenkul hesabına
-eklenen değer artışları yüzde elli oranında dikkate alınır.
+*             Gayrimenkul ve emtia üzerine işlemler*
 
-Bankalar, 2499 sayılı Sermaye Piyasası Kanunu kapsamında gayrimenkul ve
-emtiayı esas alan sözleşmeler ile Kurulca uygun görülecek kıymetli
-madenlerin alım ve satımı hariç olmak üzere ticaret amacıyla gayrimenkul
-ve emtianın alım ve satımı ile uğraşamaz, ipotekli konut finansmanı
-kuruluşu ve gayrimenkul yatırım ortaklıkları hariç olmak üzere ana
-faaliyet konusu gayrimenkul ticareti olan ortaklıklara katılamazlar.
+**             Madde 57 —** Bankaların gayrimenkullerinin net defter
+değerleri toplamı özkaynaklarının yüzde ellisini aşamaz. Bu hesaplamada,
+değerleme veya enflasyon düzeltmesine bağlı olarak oluşan ve gayrimenkul
+hesabına eklenen değer artışları yüzde elli oranında dikkate alınır.
 
-Katılım bankaları tarafından gayrimenkul, ekipman veya emtia temini veya
-finansal kiralama, kâr ve zarar ortaklığı, ortak yatırımlar yoluyla
-finansman sağlanması ve benzer faaliyetler nedeniyle üstlenilen
-yükümlülüklerden dolayı gayrimenkul ve emtia üzerine yapılan işlemler,
-bu madde ile yasaklanan ve sınırlanan faaliyetler kapsamında
+             Bankalar, 2499 sayılı Sermaye Piyasası Kanunu kapsamında
+gayrimenkul ve emtiayı esas alan sözleşmeler ile Kurulca uygun görülecek
+kıymetli madenlerin alım ve satımı hariç olmak üzere ticaret amacıyla
+gayrimenkul ve emtianın alım ve satımı ile uğraşamaz, ipotekli konut
+finansmanı kuruluşu ve gayrimenkul yatırım ortaklıkları hariç olmak
+üzere ana faaliyet konusu gayrimenkul ticareti olan ortaklıklara
+katılamazlar.
+
+             Katılım bankaları tarafından gayrimenkul, ekipman veya
+emtia temini veya finansal kiralama, kâr ve zarar ortaklığı, ortak
+yatırımlar yoluyla finansman sağlanması ve benzer faaliyetler nedeniyle
+üstlenilen yükümlülüklerden dolayı gayrimenkul ve emtia üzerine yapılan
+işlemler, bu madde ile yasaklanan ve sınırlanan faaliyetler kapsamında
 değerlendirilmez.
 
-Alacaklardan dolayı edinilmek zorunda kalınan emtia ve gayrimenkullerin
-elden çıkarılmasına ilişkin usûl ve esaslar Kurul tarafından belirlenir.
+             Alacaklardan dolayı edinilmek zorunda kalınan emtia ve
+gayrimenkullerin elden çıkarılmasına ilişkin usûl ve esaslar Kurul
+tarafından belirlenir.
 
-*Sandık ve vakıflara ilişkin işlemler*
+*             Sandık ve vakıflara ilişkin işlemler*
 
-**Madde 58 —** Bankalarca münhasıran çalışanlarına ait olmak üzere
-sağlık ve sosyal yardım, emeklilik, ihtiyat ve tasarruf sağlama
-amaçlarıyla kurulan sandık ve vakıflara açıklarının kapatılması için
-kaynak aktarılamaz.
+**             Madde 58 —** Bankalarca münhasıran çalışanlarına ait
+olmak üzere sağlık ve sosyal yardım, emeklilik, ihtiyat ve tasarruf
+sağlama amaçlarıyla kurulan sandık ve vakıflara açıklarının kapatılması
+için kaynak aktarılamaz.
 
-*Bağış sınırları*
+*             Bağış sınırları*
 
-**Madde 59 —** Bankalar ve konsolide denetime tâbi kuruluşlarca bir malî
-yılda yapılabilecek bağış miktarı, banka özkaynaklarının binde dördünü
-aşamaz. Ancak, yapılan bağış ve yardımların en az yarısının, kurumlar
-vergisi matrahının tespitinde gider veya indirim olarak dikkate
-alınabilecek bağış ve yardımlardan oluşması zorunludur. Bu hükmün
-uygulanmasına ilişkin usûl ve esaslar Kurulca belirlenir.
+**             Madde 59 —** Bankalar ve konsolide denetime tâbi
+kuruluşlarca bir malî yılda yapılabilecek bağış miktarı, banka
+özkaynaklarının binde dördünü aşamaz. Ancak, yapılan bağış ve
+yardımların en az yarısının, kurumlar vergisi matrahının tespitinde
+gider veya indirim olarak dikkate alınabilecek bağış ve yardımlardan
+oluşması zorunludur. Bu hükmün uygulanmasına ilişkin usûl ve esaslar
+Kurulca belirlenir.
 
 9557
 
@@ -1554,137 +1645,144 @@ BEŞİNCİ KISIM
 
 *Mevduata ve Katılım Fonu Toplamaya İlişkin Hükümler*
 
-*Mevduat ve katılım fonu kabulü *
+*             Mevduat ve katılım fonu kabulü *
 
-**Madde 60 —** Kredi kuruluşları ile özel kanunlarına göre yetkili
-olanlar dışında hiçbir gerçek veya tüzel kişi, aslen veya fer'an meslek
-edinerek mevduat veya katılım fonu kabul edemez, ticaret unvanları ve
-kamuya yapacakları açıklamalar ile ilân ve reklamlarında bu izlenimi
-yaratacak ifade ve deyimleri kullanamaz.
+**             Madde 60 —** Kredi kuruluşları ile özel kanunlarına göre
+yetkili olanlar dışında hiçbir gerçek veya tüzel kişi, aslen veya fer'an
+meslek edinerek mevduat veya katılım fonu kabul edemez, ticaret
+unvanları ve kamuya yapacakları açıklamalar ile ilân ve reklamlarında bu
+izlenimi yaratacak ifade ve deyimleri kullanamaz.
 
-Karşılığında hesap cüzdanı yerine makbuz, katılma belgesi, senet ve
-benzeri belgelerin verilmesi, alınan paraların mevduat veya katılım fonu
-kabulü sayılmasına engel değildir.
+             Karşılığında hesap cüzdanı yerine makbuz, katılma belgesi,
+senet ve benzeri belgelerin verilmesi, alınan paraların mevduat veya
+katılım fonu kabulü sayılmasına engel değildir.
 
-Resmî ve özel kuruluşlar ile ortaklıklarda, yalnız çalışanlarına ait
-olmak üzere sağlık ve sosyal yardım, emeklilik, ihtiyat ve tasarruf
-sağlama amaçlarıyla kurulan sandık ve vakıfların münhasıran kendi
-üyelerinden bu amaçlar için topladıkları paralar ile sigorta
-şirketlerinin işlemleri bu Kanun uygulamasında mevduat ve katılım fonu
-kabulü sayılmaz.
+             Resmî ve özel kuruluşlar ile ortaklıklarda, yalnız
+çalışanlarına ait olmak üzere sağlık ve sosyal yardım, emeklilik,
+ihtiyat ve tasarruf sağlama amaçlarıyla kurulan sandık ve vakıfların
+münhasıran kendi üyelerinden bu amaçlar için topladıkları paralar ile
+sigorta şirketlerinin işlemleri bu Kanun uygulamasında mevduat ve
+katılım fonu kabulü sayılmaz.
 
-Kalkınma ve yatırım bankalarının kendi müstakrizlerinden, ortak ve
-ortaklıklarından genel esaslar dâhilinde sağladıkları fonlar ile
-bankalardan, para piyasaları, sermaye piyasaları ve organize
+             Kalkınma ve yatırım bankalarının kendi müstakrizlerinden,
+ortak ve ortaklıklarından genel esaslar dâhilinde sağladıkları fonlar
+ile bankalardan, para piyasaları, sermaye piyasaları ve organize
 piyasalardan sağlayacakları fonlar bu Kanun uygulamasında mevduat
 sayılmaz.
 
-Türkiye'de kurulan kredi kuruluşlarının yurt dışındaki şubeleri ve
-ortaklıkları, mevduat cüzdanı ve fon toplamaya ilişkin evrakın
-düzenlenmesi işlemlerini faaliyette bulundukları ülkede yapmak
+             Türkiye'de kurulan kredi kuruluşlarının yurt dışındaki
+şubeleri ve ortaklıkları, mevduat cüzdanı ve fon toplamaya ilişkin
+evrakın düzenlenmesi işlemlerini faaliyette bulundukları ülkede yapmak
 zorundadır. Bu şube veya ortaklıklar adına hiçbir şekil ve surette yurt
 içinde mevduat cüzdanı ve fon toplamaya ilişkin evrak düzenlenemez veya
 verilemez.
 
-Türkiye'de kurulu kredi kuruluşları, yurt dışında kurulu ortaklıkları
-veya başka banka veya finansal kuruluşlar adına yurt içinde yerleşik
-kişilerden mevduat veya katılım fonu kabul etmek amacıyla; evrak ya da
-cüzdan bulundurmaları, personel istihdam etmeleri, bu ortaklıklar veya
-başka kredi kuruluşu veya finansal kuruluşlar adına toplanacak mevduat
-ve katılım fonu üzerinden personele ücret, komisyon, prim ve benzeri
-adlar altında para ödemek veya personele bu kuruluşların reklamını
-yaptırmak suretiyle müşterilerini anılan kuruluşlara yönlendirmeleri, bu
-ve benzeri yöntemler kullanarak yurt dışında kurulu kuruluşlar adına
-mevduat ve katılım fonu kabul etmeleri, bu madde kapsamında izinsiz
-mevduat ve katılım fonu kabulü sayılır.
+             Türkiye'de kurulu kredi kuruluşları, yurt dışında kurulu
+ortaklıkları veya başka banka veya finansal kuruluşlar adına yurt içinde
+yerleşik kişilerden mevduat veya katılım fonu kabul etmek amacıyla;
+evrak ya da cüzdan bulundurmaları, personel istihdam etmeleri, bu
+ortaklıklar veya başka kredi kuruluşu veya finansal kuruluşlar adına
+toplanacak mevduat ve katılım fonu üzerinden personele ücret, komisyon,
+prim ve benzeri adlar altında para ödemek veya personele bu kuruluşların
+reklamını yaptırmak suretiyle müşterilerini anılan kuruluşlara
+yönlendirmeleri, bu ve benzeri yöntemler kullanarak yurt dışında kurulu
+kuruluşlar adına mevduat ve katılım fonu kabul etmeleri, bu madde
+kapsamında izinsiz mevduat ve katılım fonu kabulü sayılır.
 
-Kredi kuruluşları, mevduat hesapları ile katılım fonu hesaplarını
-Kurulun görüşü alınmak suretiyle Merkez Bankasınca tespit edilecek vade
-ve türlerine göre tasnif etmek, tasarruf mevduatı ve gerçek kişilere ait
-katılım fonunu diğer hesaplardan ayırmak zorundadırlar.
+             Kredi kuruluşları, mevduat hesapları ile katılım fonu
+hesaplarını Kurulun görüşü alınmak suretiyle Merkez Bankasınca tespit
+edilecek vade ve türlerine göre tasnif etmek, tasarruf mevduatı ve
+gerçek kişilere ait katılım fonunu diğer hesaplardan ayırmak
+zorundadırlar.
 
 2499 sayılı Sermaye Piyasası Kanunu hükümlerine göre ihraç edilen
 sermaye piyasası araçları hakkında bu madde hükümleri uygulanmaz.
 
-*Mevduatın ve katılım fonunun çekilmesi*
+*             Mevduatın ve katılım fonunun çekilmesi*
 
-**Madde 61 —** 4721 sayılı Türk Medenî Kanununun rehinlere ve hapis
-hakkına, 818 sayılı Borçlar Kanununun alacağın devir ve temlikine,
-takasa dair hükümleri ile diğer kanunların verdiği yetkiler ve koyduğu
-yükümlülükler saklı kalmak şartıyla mevduat ve katılım fonu sahiplerine
-ödenmesi gereken tutarları geri alma hakları hiçbir suretle
+**             Madde 61 —** 4721 sayılı Türk Medenî Kanununun rehinlere
+ve hapis hakkına, 818 sayılı Borçlar Kanununun alacağın devir ve
+temlikine, takasa dair hükümleri ile diğer kanunların verdiği yetkiler
+ve koyduğu yükümlülükler saklı kalmak şartıyla mevduat ve katılım fonu
+sahiplerine ödenmesi gereken tutarları geri alma hakları hiçbir suretle
 sınırlandırılamaz. Mevduat veya katılma hesabı sahipleri ile kredi
 kuruluşları arasında vade ve ihbar süresi hakkında kararlaştırılan
 şartlar saklıdır.
 
-Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurulca belirlenir.
+             Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurulca
+belirlenir.
 
-*Zamanaşımı*
+*             Zamanaşımı*
 
-**Madde 62 —** Bankalar nezdlerindeki mevduat, katılım fonu, emanet ve
-alacaklardan hak sahibinin en son talebi, işlemi, herhangi bir yazılı
-talimatı tarihinden başlayarak on yıl içinde aranmayanlar zamanaşımına
-tâbidir.
+**             Madde 62 —** Bankalar nezdlerindeki mevduat, katılım
+fonu, emanet ve alacaklardan hak sahibinin en son talebi, işlemi,
+herhangi bir yazılı talimatı tarihinden başlayarak on yıl içinde
+aranmayanlar zamanaşımına tâbidir.
 
 9558
 
-Zamanaşımına uğrayan her türlü mevduat, katılım fonu, emanet ve
-alacaklar banka tarafından hak sahibine ulaşılamaması hâlinde, yapılacak
-ilânı müteakiben Fona gelir kaydedilir.
+########  
 
-Bu maddenin uygulanması ile ilgili usûl ve esaslar Kurulca belirlenir.
+             Zamanaşımına uğrayan her türlü mevduat, katılım fonu,
+emanet ve alacaklar banka tarafından hak sahibine ulaşılamaması hâlinde,
+yapılacak ilânı müteakiben Fona gelir kaydedilir.
 
-*Mevduatın ve katılım fonunun sigortalanması*
+             Bu maddenin uygulanması ile ilgili usûl ve esaslar Kurulca
+belirlenir.
 
-**Madde 63 —** Kredi kuruluşları nezdlerindeki tasarruf mevduatı ve
-gerçek kişilere ait katılım fonları, Tasarruf Mevduatı Sigorta Fonu
-tarafından sigorta edilir.
+*             Mevduatın ve katılım fonunun sigortalanması*
 
-Kredi kuruluşları, nezdlerindeki tasarruf mevduatı ve gerçek kişilere
-ait katılım fonlarını, sigortaya tâbi kısım üzerinden sigorta ettirmek
-ve bunun üzerinden prim ödemek zorundadır.
+**             Madde 63 —** Kredi kuruluşları nezdlerindeki tasarruf
+mevduatı ve gerçek kişilere ait katılım fonları, Tasarruf Mevduatı
+Sigorta Fonu tarafından sigorta edilir.
 
-Sigortaya tâbi olacak tasarruf mevduatı ve gerçek kişilere ait katılım
-fonlarının kapsamı ve tutarı, Merkez Bankası, Kurul ve Hazine
-Müsteşarlığının olumlu görüşü alınmak suretiyle Fon Kurulu tarafından
-belirlenir. Risk esaslı sigorta priminin oranı, yıllık bazda sigortaya
-tâbi tasarruf mevduat ve katılım fonunun binde yirmisini aşamaz. Risk
-esaslı sigorta priminin tarifesi, tahsil zamanı, şekli ve diğer hususlar
-Kurulun görüşü alınmak suretiyle Fon Kurulu tarafından belirlenir.
+             Kredi kuruluşları, nezdlerindeki tasarruf mevduatı ve
+gerçek kişilere ait katılım fonlarını, sigortaya tâbi kısım üzerinden
+sigorta ettirmek ve bunun üzerinden prim ödemek zorundadır.
 
-Kredi kuruluşlarının iflası hâlinde mevduat ve katılım fonu sahipleri,
-Fonun imtiyazlı alacaklarından ve Devlet ile sosyal güvenlik
+             Sigortaya tâbi olacak tasarruf mevduatı ve gerçek kişilere
+ait katılım fonlarının kapsamı ve tutarı, Merkez Bankası, Kurul ve
+Hazine Müsteşarlığının olumlu görüşü alınmak suretiyle Fon Kurulu
+tarafından belirlenir. Risk esaslı sigorta priminin oranı, yıllık bazda
+sigortaya tâbi tasarruf mevduat ve katılım fonunun binde yirmisini
+aşamaz. Risk esaslı sigorta priminin tarifesi, tahsil zamanı, şekli ve
+diğer hususlar Kurulun görüşü alınmak suretiyle Fon Kurulu tarafından
+belirlenir.
+
+             Kredi kuruluşlarının iflası hâlinde mevduat ve katılım fonu
+sahipleri, Fonun imtiyazlı alacaklarından ve Devlet ile sosyal güvenlik
 kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra
 gelmek üzere sigortaya tâbi olmayan kısım için 2004 sayılı İcra ve İflas
 Kanununun 206 ncı maddesindeki üçüncü sıra anlamında imtiyazlı
 alacaklıdırlar.
 
-Kredi kuruluşlarınca Fona ödenen sigorta primleri kurumlar vergisi
-matrahının tespitinde gider olarak kabul edilir.
+             Kredi kuruluşlarınca Fona ödenen sigorta primleri kurumlar
+vergisi matrahının tespitinde gider olarak kabul edilir.
 
-Faaliyet izni kaldırılan kredi kuruluşları nezdinde bulunan ve doğruluğu
-hiçbir şüpheye yer vermeyecek şekilde kanıtlanan mevduat ve katılım
-fonunun sigorta kapsamındaki kısmı, Fon kaynaklarından ödenir.
+             Faaliyet izni kaldırılan kredi kuruluşları nezdinde bulunan
+ve doğruluğu hiçbir şüpheye yer vermeyecek şekilde kanıtlanan mevduat ve
+katılım fonunun sigorta kapsamındaki kısmı, Fon kaynaklarından ödenir.
 
-*Sigorta kapsamı dışında kalan mevduat ve katılım fonu*
+*             Sigorta kapsamı dışında kalan mevduat ve katılım fonu*
 
-**Madde 64 —** Aşağıda sayılan tasarruf mevduatı ve katılım fonu
-hesapları sigortaya tâbi değildir:
+**             Madde 64 —** Aşağıda sayılan tasarruf mevduatı ve katılım
+fonu hesapları sigortaya tâbi değildir:
 
-a\) İlgili kredi kuruluşunun hâkim ortakları ile bunların ana, baba, eş
-ve velâyet altındaki çocuklarına ait mevduat ve katılım fonu ile diğer
-hesaplar.
+             a) İlgili kredi kuruluşunun hâkim ortakları ile bunların
+ana, baba, eş ve velâyet altındaki çocuklarına ait mevduat ve katılım
+fonu ile diğer hesaplar.
 
-b\) İlgili kredi kuruluşunun yönetim veya müdürler kurulu başkan ve
-üyeleri, genel müdür ve yardımcıları ile bunların ana, baba, eş ve
-velâyet altındaki çocuklarına ait mevduat ve katılım fonu ile diğer
-hesaplar.
+             b) İlgili kredi kuruluşunun yönetim veya müdürler kurulu
+başkan ve üyeleri, genel müdür ve yardımcıları ile bunların ana, baba,
+eş ve velâyet altındaki çocuklarına ait mevduat ve katılım fonu ile
+diğer hesaplar.
 
-c\) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 282 nci
-maddesindeki suçtan kaynaklanan malvarlığı değerleri kapsamına giren
+             c) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 282
+nci maddesindeki suçtan kaynaklanan malvarlığı değerleri kapsamına giren
 mevduat ve katılım fonu ile diğer hesaplar.
 
-d\) Kurul tarafından belirlenen diğer mevduat, katılım fonu ve hesaplar.
+             d) Kurul tarafından belirlenen diğer mevduat, katılım fonu
+ve hesaplar.
 
  
 
@@ -1692,164 +1790,175 @@ ALTINCI KISIM
 
 *Denetim ve Alınacak Önlemler*
 
-*Denetim*
+*             Denetim*
 
-**Madde 65. —** Bu Kanun kapsamındaki kuruluşlar ve bunların
-faaliyetleri, Kurumun denetim ve gözetimine tâbidir.
+**             Madde 65. —** Bu Kanun kapsamındaki kuruluşlar ve
+bunların faaliyetleri, Kurumun denetim ve gözetimine tâbidir.
 
-Kurum, bankaların genel kurul toplantılarına gözlemci sıfatıyla temsilci
-gönderebilir.
+             Kurum, bankaların genel kurul toplantılarına gözlemci
+sıfatıyla temsilci gönderebilir.
 
-*Konsolide denetim*
+*             Konsolide denetim*
 
-**Madde 66 —** Bu Kanunun 43 üncü maddesinin birinci fıkrası hükmü
-gereğince, konsolide bazda sınırlama ve oranlara tâbi olan ana ortaklık
-bankalar ve bunların yurt içi ve yurt dışı bağlı ortaklıkları, birlikte
-kontrol edilen ortaklıkları, şube ve temsilcilikleri konsolide denetime
-tâbidir.
+**             Madde 66 —** Bu Kanunun 43 üncü maddesinin birinci
+fıkrası hükmü gereğince, konsolide bazda sınırlama ve oranlara tâbi olan
+ana ortaklık bankalar ve bunların yurt içi ve yurt dışı bağlı
+ortaklıkları, birlikte kontrol edilen ortaklıkları, şube ve
+temsilcilikleri konsolide denetime tâbidir.
 
 9559
 
-Birinci fıkrada belirtilen kuruluşlar, öncelikle iç kontrol, risk
-yönetimi ve iç denetim sistemleri, muhasebe ve finansal raporlama
-birimi, finansal tablolar ve raporları ile risk grubuna kullandırılan
-kredilere ilişkin bilgi ve belgeler olmak üzere her türlü kayıt, bilgi,
-belge, yapı ve sistemlerini konsolide denetime uygun ve hazır hale
-getirmek zorundadırlar.
+########  
 
-Bağlı ortaklık ve birlikte kontrol edilen ortaklıkların bu Kanun
-uyarınca yapılacak konsolide denetimi, gerek duyulması hâlinde, Kurum ve
-konsolide denetime tâbi kuruluşların denetimi ve gözetimi ile yetkili
-mercilerle birlikte gerçekleştirilir. Denetim sonuçları ile denetime
-esas bilgi ve belgeler anılan yetkili mercilerin görüşü alınarak Kurulca
-belirlenecek usûl ve esaslara göre paylaşılır ve kullanılır.
+             Birinci fıkrada belirtilen kuruluşlar, öncelikle iç
+kontrol, risk yönetimi ve iç denetim sistemleri, muhasebe ve finansal
+raporlama birimi, finansal tablolar ve raporları ile risk grubuna
+kullandırılan kredilere ilişkin bilgi ve belgeler olmak üzere her türlü
+kayıt, bilgi, belge, yapı ve sistemlerini konsolide denetime uygun ve
+hazır hale getirmek zorundadırlar.
 
-*Önlem alınmasını gerektiren hâller*
+             Bağlı ortaklık ve birlikte kontrol edilen ortaklıkların bu
+Kanun uyarınca yapılacak konsolide denetimi, gerek duyulması hâlinde,
+Kurum ve konsolide denetime tâbi kuruluşların denetimi ve gözetimi ile
+yetkili mercilerle birlikte gerçekleştirilir. Denetim sonuçları ile
+denetime esas bilgi ve belgeler anılan yetkili mercilerin görüşü
+alınarak Kurulca belirlenecek usûl ve esaslara göre paylaşılır ve
+kullanılır.
 
-**Madde 67 —** Konsolide veya konsolide olmayan bazda yapılan denetimler
-sonucunda bir bankanın;
+*             Önlem alınmasını gerektiren hâller*
 
-a\) Aktiflerinin vade itibarıyla yükümlülüklerini karşılayamama
-tehlikesiyle karşı karşıya gelmesi ya da likiditeye ilişkin
-düzenlemelere uymaması,
+**             Madde 67 —** Konsolide veya konsolide olmayan bazda
+yapılan denetimler sonucunda bir bankanın;
 
-b\) Gelir ve giderleri arasındaki ilgi ve dengelerin bozulması nedeniyle
-kârlılığın faaliyetleri emin bir şekilde yürütecek yeterlilikte
-olmaması,
+             a) Aktiflerinin vade itibarıyla yükümlülüklerini
+karşılayamama tehlikesiyle karşı karşıya gelmesi ya da likiditeye
+ilişkin düzenlemelere uymaması,
 
-c\) Özkaynaklarının sermaye yeterliliğine ilişkin düzenlemelere göre
-yetersiz olması veya bu durumun gerçekleşmek üzere bulunması,
+             b) Gelir ve giderleri arasındaki ilgi ve dengelerin
+bozulması nedeniyle kârlılığın faaliyetleri emin bir şekilde yürütecek
+yeterlilikte olmaması,
 
-d\) Aktif kalitesinin malî bünyeyi zayıflatabilecek şekilde bozulması,
+             c) Özkaynaklarının sermaye yeterliliğine ilişkin
+düzenlemelere göre yetersiz olması veya bu durumun gerçekleşmek üzere
+bulunması,
 
-e\) Bu Kanuna ve ilgili düzenlemelere veya Kurulca alınan kararlara
-aykırı nitelikte karar, işlem ve uygulamalarının bulunması,
+             d) Aktif kalitesinin malî bünyeyi zayıflatabilecek şekilde
+bozulması,
 
-f\) İç denetim, iç kontrol ve risk yönetim sistemlerini kurmaması veya bu
-sistemleri etkin ve yeterli bir şekilde işletmemesi veya denetimi
-engelleyici herhangi bir hususun bulunması,
+             e) Bu Kanuna ve ilgili düzenlemelere veya Kurulca alınan
+kararlara aykırı nitelikte karar, işlem ve uygulamalarının bulunması,
 
-g\) Yönetiminin basiretsizliği nedeniyle bu Kanun ve ilgili mevzuat ile
-tanımlanmış risklerin önemli ölçüde artması veya malî bünyeyi
-zayıflatabilecek şekilde yoğunlaşması,
+             f) İç denetim, iç kontrol ve risk yönetim sistemlerini
+kurmaması veya bu sistemleri etkin ve yeterli bir şekilde işletmemesi
+veya denetimi engelleyici herhangi bir hususun bulunması,
 
-Hâllerinden herhangi birinin tespit edilmesi durumunda, bu Kanunun 68
-inci, 69 uncu ve 70 inci maddelerinde öngörülen tedbirler derhal alınır.
+             g) Yönetiminin basiretsizliği nedeniyle bu Kanun ve ilgili
+mevzuat ile tanımlanmış risklerin önemli ölçüde artması veya malî
+bünyeyi zayıflatabilecek şekilde yoğunlaşması,
 
-*Düzeltici önlemler*
+             Hâllerinden herhangi birinin tespit edilmesi durumunda, bu
+Kanunun 68 inci, 69 uncu ve 70 inci maddelerinde öngörülen tedbirler
+derhal alınır.
 
-**Madde 68 —** Kurum, 67 nci maddede düzenlenen;
+*             Düzeltici önlemler*
 
-a\) (a), (b), (c) ve (d) bentlerindeki hâllerden birinin veya birkaçının
-tespiti hâlinde, bankanın özkaynağının artırılması veya kâr dağıtımının
-geçici bir süreyle durdurularak ihtiyatlara aktarılması veya ayrılan
-karşılıkların artırılması, hissedarlara kredi verilmesinin durdurulması
-veya aktiflerin elden çıkarılması suretiyle likidite temin edilmesi veya
-yeni yatırımların sınırlandırılması veya durdurulması, ücret ve diğer
-ödemelerin sınırlandırılması, uzun vadeli yatırımların durdurulması,
+**             Madde 68 —** Kurum, 67 nci maddede düzenlenen;
 
-b\) (e), (f) ve (g) bentlerindeki hâllerden birinin veya birkaçının
-varlığı hâlinde bu aykırılıkların giderilmesi, kredi politikasının
-gözden geçirilerek riskli işlemlerin durdurulması, maruz kalınan vade,
-kur veya faiz riskinin azaltılması için gerekli önlemlerin alınması,
+             a) (a), (b), (c) ve (d) bentlerindeki hâllerden birinin
+veya birkaçının tespiti hâlinde, bankanın özkaynağının artırılması veya
+kâr dağıtımının geçici bir süreyle durdurularak ihtiyatlara aktarılması
+veya ayrılan karşılıkların artırılması, hissedarlara kredi verilmesinin
+durdurulması veya aktiflerin elden çıkarılması suretiyle likidite temin
+edilmesi veya yeni yatırımların sınırlandırılması veya durdurulması,
+ücret ve diğer ödemelerin sınırlandırılması, uzun vadeli yatırımların
+durdurulması,
+
+             b) (e), (f) ve (g) bentlerindeki hâllerden birinin veya
+birkaçının varlığı hâlinde bu aykırılıkların giderilmesi, kredi
+politikasının gözden geçirilerek riskli işlemlerin durdurulması, maruz
+kalınan vade, kur veya faiz riskinin azaltılması için gerekli önlemlerin
+alınması,
 
 Tedbirlerinden bir veya birkaçının ya da tamamının ve Kurumca uygun
 görülecek diğer tedbirlerin, Kurumun uygun göreceği bir süre ve
 onaylayacağı bir plân dahilinde alınmasını ve uygulanmasını bankanın
 yönetim kurulundan ister.
 
-*İyileştirici önlemler*
+*             İyileştirici önlemler*
 
-**Madde 69 —** Banka tarafından 68 inci maddede yer alan önlemlerin
-alınmaması veya alınan önlemlere rağmen sorunların giderilememesi ya da
-bu tedbirlerin alınması durumunda dahi sonuç alınamayacağının Kurumca
-belirlenmesi hâlinde Kurul;
+**             Madde 69 —** Banka tarafından 68 inci maddede yer alan
+önlemlerin alınmaması veya alınan önlemlere rağmen sorunların
+giderilememesi ya da bu tedbirlerin alınması durumunda dahi sonuç
+alınamayacağının Kurumca belirlenmesi hâlinde Kurul;
 
 9560
 
-a\) 67 nci maddenin (a), (b), (c) ve (d) bentlerinde sayılan hallerden
-herhangi birinin veya birkaçının gerçekleşmesi durumunda, malî bünyenin
-düzeltilmesi, sermaye yeterliliği veya likidite düzeylerinden birinin ya
-da her ikisinin yükseltilmesi, uygun bir süre vererek uzun vadeli veya
-duran varlıkların elden çıkarılması, işletme ve yönetim giderlerinde
-kısıntıya gidilmesini veya mensuplarına her ne ad altında olursa olsun
-düzenli olarak ödenenler dışındaki ödemelerin durdurulması, belirli
-kişi, kurum, risk grubu veya sektörlere nakdî ve gayrinakdî kredi
-kullandırımının sınırlandırılması veya yasaklanması,
+########  
 
-b\) 67 nci maddenin (e), (f) ve (g) bentleri ile ilgili olarak
-aykırılıkların giderilmesi, karar, işlem ve uygulamalarda yönetim kurulu
-üyelerinin sorumluluğu bulunması hâlinde genel kurulun en kısa sürede
-olağanüstü toplantıya çağrılarak yönetim kurulu üyelerinden bir veya
-birkaçının veya tamamının değiştirilmesi veya üye sayısını artırarak üye
-atanması veya karar ve işlemlerde sorumluluğu bulunan mensuplarının
-görevden alınması, (g) bendi ile ilgili olarak maruz kalınan risklerin
-azaltılması için kısa, orta ve uzun vadeli olmak üzere Kurulca uygun
-görülecek bir plân oluşturulması ve yönetim kurulu üyeleri ile nitelikli
-paya sahip ortaklarından, bu plânın yazılı olarak taahhüt edilmesi ve
-belirlediği dönemler itibarıyla uygulama sonuçlarının gönderilmesi,
+             a) 67 nci maddenin (a), (b), (c) ve (d) bentlerinde sayılan
+hallerden herhangi birinin veya birkaçının gerçekleşmesi durumunda, malî
+bünyenin düzeltilmesi, sermaye yeterliliği veya likidite düzeylerinden
+birinin ya da her ikisinin yükseltilmesi, uygun bir süre vererek uzun
+vadeli veya duran varlıkların elden çıkarılması, işletme ve yönetim
+giderlerinde kısıntıya gidilmesini veya mensuplarına her ne ad altında
+olursa olsun düzenli olarak ödenenler dışındaki ödemelerin durdurulması,
+belirli kişi, kurum, risk grubu veya sektörlere nakdî ve gayrinakdî
+kredi kullandırımının sınırlandırılması veya yasaklanması,
 
-De dâhil olmak üzere, uygun göreceği her türlü tedbirin alınmasını ve
-ivedilikle uygulanmasını banka yönetim kurulundan ister.
+             b) 67 nci maddenin (e), (f) ve (g) bentleri ile ilgili
+olarak aykırılıkların giderilmesi, karar, işlem ve uygulamalarda yönetim
+kurulu üyelerinin sorumluluğu bulunması hâlinde genel kurulun en kısa
+sürede olağanüstü toplantıya çağrılarak yönetim kurulu üyelerinden bir
+veya birkaçının veya tamamının değiştirilmesi veya üye sayısını
+artırarak üye atanması veya karar ve işlemlerde sorumluluğu bulunan
+mensuplarının görevden alınması, (g) bendi ile ilgili olarak maruz
+kalınan risklerin azaltılması için kısa, orta ve uzun vadeli olmak üzere
+Kurulca uygun görülecek bir plân oluşturulması ve yönetim kurulu üyeleri
+ile nitelikli paya sahip ortaklarından, bu plânın yazılı olarak taahhüt
+edilmesi ve belirlediği dönemler itibarıyla uygulama sonuçlarının
+gönderilmesi,
 
-*Kısıtlayıcı önlemler*
+             De dâhil olmak üzere, uygun göreceği her türlü tedbirin
+alınmasını ve ivedilikle uygulanmasını banka yönetim kurulundan ister.
 
-**Madde 70 —** Banka tarafından 68 inci ve/veya 69 uncu maddelerde yer
-alan önlemlerin alınmaması veya alınan önlemlere rağmen sorunların
-giderilememesi ya da bu tedbirlerin alınması durumunda dahi sonuç
-alınamayacağının belirlenmesi hâlinde Kurul bankadan;
+*             Kısıtlayıcı önlemler*
 
-a\) Faaliyetlerini, faaliyet türleri itibarıyla tüm teşkilatını veya
-gerekli görülecek yurt içi veya yurt dışı şubelerini veya muhabirlerle
-ilişkilerini kapsayacak şekilde kısıtlaması veya geçici olarak
-durdurulması,
+**             Madde 70 —** Banka tarafından 68 inci ve/veya 69 uncu
+maddelerde yer alan önlemlerin alınmaması veya alınan önlemlere rağmen
+sorunların giderilememesi ya da bu tedbirlerin alınması durumunda dahi
+sonuç alınamayacağının belirlenmesi hâlinde Kurul bankadan;
 
-b\) Kaynakların toplanması ve kullandırılmasına ilişkin olarak faiz oranı
-ve vade kısıtlamaları da dâhil olmak üzere, her türlü sınırlama ve
-kısıtlama getirmesi,
+             a) Faaliyetlerini, faaliyet türleri itibarıyla tüm
+teşkilatını veya gerekli görülecek yurt içi veya yurt dışı şubelerini
+veya muhabirlerle ilişkilerini kapsayacak şekilde kısıtlaması veya
+geçici olarak durdurulması,
 
-c\) Yönetim kurulu da dâhil olmak üzere genel müdür, genel müdür
-yardımcıları, ilgili birim ve şube yöneticilerinin bir kısmını veya
-tamamını görevden alması, görevden alınan kişilerin yerine atanacak veya
-seçilecek kişiler için Kurumdan onay alınması,
+             b) Kaynakların toplanması ve kullandırılmasına ilişkin
+olarak faiz oranı ve vade kısıtlamaları da dâhil olmak üzere, her türlü
+sınırlama ve kısıtlama getirmesi,
 
-d\) Sigortaya tâbi mevduat veya katılım fonu tutarını aşmamak ve yeterli
-teminatı hâkim ortakların hisse senetlerinden veya diğer
-malvarlıklarından karşılanmak üzere uzun vadeli kredi sağlaması,
+             c) Yönetim kurulu da dâhil olmak üzere genel müdür, genel
+müdür yardımcıları, ilgili birim ve şube yöneticilerinin bir kısmını
+veya tamamını görevden alması, görevden alınan kişilerin yerine atanacak
+veya seçilecek kişiler için Kurumdan onay alınması,
 
-e\) Zarar doğurduğu tespit edilen faaliyetlerinin sınırlandırılması veya
-durdurulması, verimi düşük veya verimsiz varlıklarının elden
-çıkarılması,
+             d) Sigortaya tâbi mevduat veya katılım fonu tutarını
+aşmamak ve yeterli teminatı hâkim ortakların hisse senetlerinden veya
+diğer malvarlıklarından karşılanmak üzere uzun vadeli kredi sağlaması,
 
-f\) İstekli olan bir veya birkaç banka ile birleşmesi,
+             e) Zarar doğurduğu tespit edilen faaliyetlerinin
+sınırlandırılması veya durdurulması, verimi düşük veya verimsiz
+varlıklarının elden çıkarılması,
 
-g\) Özkaynakların artırılmasını sağlamak amacıyla uygun görülecek yeni
-hissedarlar bulunması,
+             f) İstekli olan bir veya birkaç banka ile birleşmesi,
 
-h\) Doğan zararın özkaynaktan indirilmesi,
+             g) Özkaynakların artırılmasını sağlamak amacıyla uygun
+görülecek yeni hissedarlar bulunması,
 
-Tedbirlerinden bir ya da birkaçının veya uygun göreceği diğer
-tedbirlerin alınmasını ve uygulanmasını ister.
+             h) Doğan zararın özkaynaktan indirilmesi,
+
+             Tedbirlerinden bir ya da birkaçının veya uygun göreceği
+diğer tedbirlerin alınmasını ve uygulanmasını ister.
 
 9561
 
@@ -2038,8 +2147,6 @@ düzenlemelere uymayanlar hakkında 2.4.1998 tarihli ve 4358 sayılı
 Kanunun 5 inci maddesi hükmünün uygulanması bu Kanunun kovuşturma usûlü
 hükümlerine tâbi değildir.
 
-9562-2
-
 9563
 
  
@@ -2048,30 +2155,32 @@ SEKİZİNCİ KISIM
 
 *Kalkınma ve Yatırım Bankaları ve Finansal Holding Şirketi*
 
-*Kalkınma ve yatırım bankalarına ilişkin hükümler*
+*             Kalkınma ve yatırım bankalarına ilişkin hükümler*
 
-**Madde 77 —** Kalkınma ve yatırım bankaları, bu Kanunun 54, 55, 56, 57,
-61, 63, 64, 106 ilâ 129 uncu maddeleri, 130 uncu maddesinin (a) bendi,
-131 ilâ 142 nci maddeleri hariç olmak üzere diğer hükümlerine tâbidir.
+**             Madde 77 —** Kalkınma ve yatırım bankaları, bu Kanunun
+54, 55, 56, 57, 61, 63, 64, 106 ilâ 129 uncu maddeleri, 130 uncu
+maddesinin (a) bendi, 131 ilâ 142 nci maddeleri hariç olmak üzere diğer
+hükümlerine tâbidir.
 
-*Finansal holding şirketi*
+*             Finansal holding şirketi*
 
-**Madde 78 —** Kurul, finansal holding şirketlerinin kapsamını
-belirlemeye ve kurulmasını zorunlu tutmaya; sermaye yeterliliği, iç
-sistemler, konsolide denetim ve denetimin koordinasyonuna ilişkin usûl
-ve esasları belirlemeye yetkilidir. Kurulca belirlenen kapsama girmekle
-birlikte finansal holding şirketi kurması zorunlu tutulmayan bir grubun
-tâbi olacağı hükümleri tespite Kurul yetkilidir.
+**             Madde 78 —** Kurul, finansal holding şirketlerinin
+kapsamını belirlemeye ve kurulmasını zorunlu tutmaya; sermaye
+yeterliliği, iç sistemler, konsolide denetim ve denetimin
+koordinasyonuna ilişkin usûl ve esasları belirlemeye yetkilidir. Kurulca
+belirlenen kapsama girmekle birlikte finansal holding şirketi kurması
+zorunlu tutulmayan bir grubun tâbi olacağı hükümleri tespite Kurul
+yetkilidir.
 
-Finansal holding şirketleri hakkında, Kurulca belirlenecek usûl ve
-esaslar çerçevesinde bu Kanunun 14, 15, 16, 18, 22, 23, 24, 25, 26, 28,
-29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 47, 65,
-66, 67, 68, 69, 70, 71, 72, 73, 78, 93, 95 ve 96 ncı madde hükümleri ve
-bu maddelere ilişkin ceza hükümleri uygulanır.
+             Finansal holding şirketleri hakkında, Kurulca belirlenecek
+usûl ve esaslar çerçevesinde bu Kanunun 14, 15, 16, 18, 22, 23, 24, 25,
+26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44,
+47, 65, 66, 67, 68, 69, 70, 71, 72, 73, 78, 93, 95 ve 96 ncı madde
+hükümleri ve bu maddelere ilişkin ceza hükümleri uygulanır.
 
-Finansal holding şirketleri bakımından belirlenecek standart oranlar ve
-sınırlamalar ile yapılacak hesaplamalar yalnızca konsolide bazda dikkate
-alınır.
+             Finansal holding şirketleri bakımından belirlenecek
+standart oranlar ve sınırlamalar ile yapılacak hesaplamalar yalnızca
+konsolide bazda dikkate alınır.
 
  
 
@@ -2079,65 +2188,69 @@ DOKUZUNCU KISIM
 
 *Kuruluş Birlikleri*
 
-*Türkiye Bankalar Birliği ve Türkiye Katılım Bankaları Birliği *
+*             Türkiye Bankalar Birliği ve Türkiye Katılım Bankaları
+Birliği *
 
-**Madde 79 —** Mevduat bankaları ile kalkınma ve yatırım bankaları,
-tüzel kişiliği haiz ve kamu kurumu niteliğinde meslek kuruluşu olan
-Türkiye Bankalar Birliğine; katılım bankaları ise aynı nitelikteki
-Türkiye Katılım Bankaları Birliğine, faaliyet izni aldıkları tarihten
-itibaren bir ay içinde üye olmak zorundadır.
+**             Madde 79 —** Mevduat bankaları ile kalkınma ve yatırım
+bankaları, tüzel kişiliği haiz ve kamu kurumu niteliğinde meslek
+kuruluşu olan Türkiye Bankalar Birliğine; katılım bankaları ise aynı
+nitelikteki Türkiye Katılım Bankaları Birliğine, faaliyet izni aldıkları
+tarihten itibaren bir ay içinde üye olmak zorundadır.
 
-*Birliklerin görev ve yetkileri *
+*             Birliklerin görev ve yetkileri *
 
-**Madde 80 —** Kuruluş birlikleri;
+**             Madde 80 —** Kuruluş birlikleri;
 
-a\) Mesleğin gelişmesini temin etmek,
+             a) Mesleğin gelişmesini temin etmek,
 
-b\) Meslek ilkelerini belirlemek suretiyle üyelerin birlik ve mesleğin
-gerektirdiği vakar ve disiplin içinde ekonominin ihtiyaçlarına uygun
-olarak çalışmalarını sağlamak,
+             b) Meslek ilkelerini belirlemek suretiyle üyelerin birlik
+ve mesleğin gerektirdiği vakar ve disiplin içinde ekonominin
+ihtiyaçlarına uygun olarak çalışmalarını sağlamak,
 
-c\) Üye banka mensuplarının uyacakları meslek ilkeleri ve standartlarını
-Kurumun uygun görüşünü alarak belirlemek,
+             c) Üye banka mensuplarının uyacakları meslek ilkeleri ve
+standartlarını Kurumun uygun görüşünü alarak belirlemek,
 
-d\) İlgili mevzuat uyarınca alınan kararlar ile Kurumca alınması
-istenilen tedbirlerin uygulanmasını takip etmek,
+             d) İlgili mevzuat uyarınca alınan kararlar ile Kurumca
+alınması istenilen tedbirlerin uygulanmasını takip etmek,
 
-e\) Üyeleri arasında haksız rekabeti önlemek amacıyla gerekli her türlü
-tedbiri almak ve uygulamak,
+             e) Üyeleri arasında haksız rekabeti önlemek amacıyla
+gerekli her türlü tedbiri almak ve uygulamak,
 
-f\) Üyelerin ilân ve reklamlarında uyacakları esas ve şartları tür,
-şekil, nitelik ve miktarları itibarıyla Kurumun uygun görüşünü alarak
-tespit etmek,
+             f) Üyelerin ilân ve reklamlarında uyacakları esas ve
+şartları tür, şekil, nitelik ve miktarları itibarıyla Kurumun uygun
+görüşünü alarak tespit etmek,
 
-g\) Kurum ile işbirliği yapmak suretiyle bankalar arasında ortak
-projelere ilişkin işbirliğini temin etmek,
+             g) Kurum ile işbirliği yapmak suretiyle bankalar arasında
+ortak projelere ilişkin işbirliğini temin etmek,
 
-h\) Üyelerinin ortak menfaatlerini ilgilendiren konularda yönetim kurulu
-kararına istinaden dava açmak,
+             h) Üyelerinin ortak menfaatlerini ilgilendiren konularda
+yönetim kurulu kararına istinaden dava açmak,
 
-i\) Müşteri haklarına dair hükümlerde öngörülen sözleşmelerin şekil ve
-içeriklerine ilişkin usûl ve esasları belirlemek,
+             i) Müşteri haklarına dair hükümlerde öngörülen
+sözleşmelerin şekil ve içeriklerine ilişkin usûl ve esasları belirlemek,
 
 9564
 
-j\) 4077 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri ve diğer
-kanunlarla tanınmış müracaat hakları saklı kalmak kaydıyla üyeler ve
-bireysel müşterileri arasındaki ihtilafların değerlendirilmesi ve çözüme
-kavuşturulmasını temin etmek üzere hazırlayacakları ve Kurulca onaylanan
-usûl ve esaslar dâhilinde hakem heyeti oluşturmak,
+########  
 
-İle görevli ve yetkilidir.
+             j) 4077 sayılı Tüketicinin Korunması Hakkında Kanun
+hükümleri ve diğer kanunlarla tanınmış müracaat hakları saklı kalmak
+kaydıyla üyeler ve bireysel müşterileri arasındaki ihtilafların
+değerlendirilmesi ve çözüme kavuşturulmasını temin etmek üzere
+hazırlayacakları ve Kurulca onaylanan usûl ve esaslar dâhilinde hakem
+heyeti oluşturmak,
 
-*Organlar ve statü*
+             İle görevli ve yetkilidir.
 
-**Madde 81 —** Kuruluş birliklerinin organ seçimleri bu Kanunda
-öngörülen esaslar çerçevesinde gizli oyla ve yargı gözetimi altında
-gerçekleştirilir. Seçim yapılacak genel kurul toplantısından en az onbeş
-gün önce seçimlere katılacak üye bankaları ve temsilcilerini belirleyen
-liste, toplantının gündemini, yerini, gününü, saatini ve çoğunluk
-olmadığı takdirde yapılacak ikinci toplantıya ilişkin hususları belirten
-bir yazı ile birlikte üç nüsha olarak Yüksek Seçim Kurulunca
+*             Organlar ve statü*
+
+**             Madde 81 —** Kuruluş birliklerinin organ seçimleri bu
+Kanunda öngörülen esaslar çerçevesinde gizli oyla ve yargı gözetimi
+altında gerçekleştirilir. Seçim yapılacak genel kurul toplantısından en
+az onbeş gün önce seçimlere katılacak üye bankaları ve temsilcilerini
+belirleyen liste, toplantının gündemini, yerini, gününü, saatini ve
+çoğunluk olmadığı takdirde yapılacak ikinci toplantıya ilişkin hususları
+belirten bir yazı ile birlikte üç nüsha olarak Yüksek Seçim Kurulunca
 belirlenecek seçim kurulu başkanı hâkime tevdi edilir. Hâkim gerekli
 incelemeyi yaparak listeyi ve diğer hususları onaylar; bir sandık kurulu
 başkanı ve iki sandık kurulu üyesi ile bunlar için birer yedek üye atar.
@@ -2148,22 +2261,23 @@ düzenlenmesinden itibaren iki gün içinde seçimlere yapılacak her türlü
 itiraz hâkim tarafından aynı gün incelenir ve kesin olarak karara
 bağlanır.
 
-Kuruluş birliklerinin organları, çalışma esasları ve faaliyetlerinin
-kapsamı, birliklerin görüşünü alarak Kurumun yapacağı öneri üzerine
-Bakanlar Kurulu kararıyla yürürlüğe konulacak statülerinde gösterilir.
-Üyeler, birliklerin statüsüne ve birlikler tarafından alınacak karar ve
-tedbirlere uymak zorundadır. Kuruluş birliklerinin giderleri, statüleri
-gereğince tespit olunan oy sayısına göre üyelere dağıtılır. Üyeler,
-kendilerine düşen masraf paylarını statülerde belirtilen süre içinde
-yatırmak zorundadır. Masraf iştirak payları belirlenen süre içinde
-ödenmediği takdirde birlikler tarafından icra yoluyla tahsil olunur.
-Masraf iştirak paylarının ödenmesine dair kararlar 2004 sayılı İcra ve
-İflas Kanununun 68 inci maddesinde yazılı resmî belge niteliğindedir.
+             Kuruluş birliklerinin organları, çalışma esasları ve
+faaliyetlerinin kapsamı, birliklerin görüşünü alarak Kurumun yapacağı
+öneri üzerine Bakanlar Kurulu kararıyla yürürlüğe konulacak statülerinde
+gösterilir. Üyeler, birliklerin statüsüne ve birlikler tarafından
+alınacak karar ve tedbirlere uymak zorundadır. Kuruluş birliklerinin
+giderleri, statüleri gereğince tespit olunan oy sayısına göre üyelere
+dağıtılır. Üyeler, kendilerine düşen masraf paylarını statülerde
+belirtilen süre içinde yatırmak zorundadır. Masraf iştirak payları
+belirlenen süre içinde ödenmediği takdirde birlikler tarafından icra
+yoluyla tahsil olunur. Masraf iştirak paylarının ödenmesine dair
+kararlar 2004 sayılı İcra ve İflas Kanununun 68 inci maddesinde yazılı
+resmî belge niteliğindedir.
 
-Kuruluş birliklerinin aldığı genel ya da özel nitelikteki karar ve
-tedbirlere zamanında ve tam olarak uymayan üyeler hakkında birliklerin
-yönetim kurulunca ikibin Yeni Türk Lirasından yirmibin Yeni Türk
-Lirasına kadar idarî para cezasına karar verilir.
+             Kuruluş birliklerinin aldığı genel ya da özel nitelikteki
+karar ve tedbirlere zamanında ve tam olarak uymayan üyeler hakkında
+birliklerin yönetim kurulunca ikibin Yeni Türk Lirasından yirmibin Yeni
+Türk Lirasına kadar idarî para cezasına karar verilir.
 
 ONUNCU KISIM
 
@@ -2173,30 +2287,35 @@ BİRİNCİ BÖLÜM
 
 *Bankacılık Düzenleme ve Denetleme Kurumu*
 
-*Kuruluş ve bağımsızlık*
+*             Kuruluş ve bağımsızlık*
 
-**Madde 82 —** Kamu tüzel kişiliğini haiz, idarî ve malî özerkliğe sahip
-Bankacılık Düzenleme ve Denetleme Kurumu kurulmuştur. **(Değişik ikinci
-cümle:13/2/2011-6111/147 md.)** Kurumun merkezi İstanbul’dadır. Kurum,
-Bankacılık Düzenleme ve Denetleme Kurulu ile Başkanlıktan oluşur.
+**             Madde 82 —** Kamu tüzel kişiliğini haiz, idarî ve malî
+özerkliğe sahip Bankacılık Düzenleme ve Denetleme Kurumu kurulmuştur.
+**(Değişik ikinci cümle:13/2/2011-6111/147 md.)** Kurumun merkezi
+İstanbul’dadır. Kurum, Bankacılık Düzenleme ve Denetleme Kurulu ile
+Başkanlıktan oluşur.
 
-Kurum, bu Kanunla ve mevzuatla kendisine verilen düzenleme ve
-denetlemeyle ilgili görev ve yetkileri kendi sorumluluğu altında
+             Kurum, bu Kanunla ve mevzuatla kendisine verilen düzenleme
+ve denetlemeyle ilgili görev ve yetkileri kendi sorumluluğu altında
 bağımsız olarak yerine getirir ve kullanır. Kurumun kararları yerindelik
 denetimine tâbi tutulamaz. Hiçbir organ, makam, merci veya kişi Kurumun
 kararlarını etkilemek amacıyla emir ve talimat veremez.
 
-Kurum, bu Kanunda ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda
-belirtilen usûl ve esaslar çerçevesinde kendisine tahsis edilen malî
-kaynaklarını görev ve yetkilerinin gerektirdiği ölçüde, kendi bütçesinde
-belirlenen usûl ve esaslar dahilinde serbestçe kullanır.
+             Kurum, bu Kanunda ve 5018 sayılı Kamu Malî Yönetimi ve
+Kontrol Kanununda belirtilen usûl ve esaslar çerçevesinde kendisine
+tahsis edilen malî kaynaklarını görev ve yetkilerinin gerektirdiği
+ölçüde, kendi bütçesinde belirlenen usûl ve esaslar dahilinde serbestçe
+kullanır.
 
-Kurum, görev ve yetkilerini etkin şekilde yerine getirmek amacıyla
-yeterli sayı ve nitelikte personeli istihdam eder.
+             Kurum, görev ve yetkilerini etkin şekilde yerine getirmek
+amacıyla yeterli sayı ve nitelikte personeli istihdam eder.
 
 9565
 
-Kurumun malları Devlet malı hükmündedir, haczedilemez ve rehnedilemez.
+########  
+
+             Kurumun malları Devlet malı hükmündedir, haczedilemez ve
+rehnedilemez.
 
  
 
@@ -2204,53 +2323,54 @@ Kurumun malları Devlet malı hükmündedir, haczedilemez ve rehnedilemez.
 
 *Bankacılık Düzenleme ve Denetleme Kurulu*
 
-*Bankacılık Düzenleme ve Denetleme Kurulu*
+*             Bankacılık Düzenleme ve Denetleme Kurulu*
 
-**Madde 83 —** Bankacılık Düzenleme ve Denetleme Kurulu, Kurumun karar
-organıdır. Kurul; biri başkan, biri ikinci başkan olmak üzere yedi
-üyeden oluşur. Kurul Başkanı Kurumun da başkanıdır.
+**             Madde 83 —** Bankacılık Düzenleme ve Denetleme Kurulu,
+Kurumun karar organıdır. Kurul; biri başkan, biri ikinci başkan olmak
+üzere yedi üyeden oluşur. Kurul Başkanı Kurumun da başkanıdır.
 
-Başkanın izin, hastalık, yurt içi ve yurt dışı görevlendirme ve görevde
-bulunmadığı diğer hâller ile görevden alınması durumunda ikinci başkan,
-onun da bulunmadığı hâllerde Kurul tarafından belirlenecek bir üye
-Başkana vekâlet eder.
+             Başkanın izin, hastalık, yurt içi ve yurt dışı
+görevlendirme ve görevde bulunmadığı diğer hâller ile görevden alınması
+durumunda ikinci başkan, onun da bulunmadığı hâllerde Kurul tarafından
+belirlenecek bir üye Başkana vekâlet eder.
 
-*Üyelerin atanması*
+*             Üyelerin atanması*
 
-**Madde 84 —** Kurul üyelerinin aşağıda belirtilen şartları taşımaları
-zorunludur:
+**             Madde 84 —** Kurul üyelerinin aşağıda belirtilen şartları
+taşımaları zorunludur:
 
-a\) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A)
-fıkrasının (1), (4), (5), (6) ve (7) numaralı bentlerinde belirtilen
+             a) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin
+(A) fıkrasının (1), (4), (5), (6) ve (7) numaralı bentlerinde belirtilen
 şartları taşımak.
 
-b\) 8 inci maddenin birinci fıkrasının (a), (b), (c) ve (d) bentlerinde
-belirtilen şartları taşımak.
+             b) 8 inci maddenin birinci fıkrasının (a), (b), (c) ve (d)
+bentlerinde belirtilen şartları taşımak.
 
-c\) 26 ncı maddede yer alan çalışması yasaklananlardan olmamak.
+             c) 26 ncı maddede yer alan çalışması yasaklananlardan
+olmamak.
 
-d\) Hukuk, iktisat, malîye, bankacılık, işletme, kamu yönetimi ve dengi
-dallarda en az lisans düzeyinde; mühendislik alanında lisans düzeyinde
-öğrenim görmüş olanlar için belirtilen alanlarda lisansüstü öğrenim
-görmüş olmak.
+             d) Hukuk, iktisat, malîye, bankacılık, işletme, kamu
+yönetimi ve dengi dallarda en az lisans düzeyinde; mühendislik alanında
+lisans düzeyinde öğrenim görmüş olanlar için belirtilen alanlarda
+lisansüstü öğrenim görmüş olmak.
 
-Üyeler, yüksek öğrenim sonrası en az on yıl deneyim sahibi veya yukarıda
-sayılan öğrenim dallarında en az on yıl öğretim üyeliği yapan kişiler
-arasından Bakanlar Kurulunca atanır. Üyelerden en az birinin hukuk
-fakültesi mezunu, birinin ise Kurumda başkan yardımcısı, anahizmet
-birimi yöneticisi veya meslek personeli olarak çalışmış olması şarttır.
-Bakanlar Kurulu, üyelerden birini başkan birini de ikinci başkan olarak
-görevlendirir. Bakanlar Kurulunun atama kararı Resmî Gazete’de
-yayımlanır.
+             Üyeler, yüksek öğrenim sonrası en az on yıl deneyim sahibi
+veya yukarıda sayılan öğrenim dallarında en az on yıl öğretim üyeliği
+yapan kişiler arasından Bakanlar Kurulunca atanır. Üyelerden en az
+birinin hukuk fakültesi mezunu, birinin ise Kurumda başkan yardımcısı,
+anahizmet birimi yöneticisi veya meslek personeli olarak çalışmış olması
+şarttır. Bakanlar Kurulu, üyelerden birini başkan birini de ikinci
+başkan olarak görevlendirir. Bakanlar Kurulunun atama kararı Resmî
+Gazete’de yayımlanır.
 
-Kurul Başkan ve üyeleri, görevlerinin devamı süresince görevlerini tam
-bir dikkat, dürüstlük ve tarafsızlık ile yürüteceklerine, kanun
-hükümlerine aykırı hareket etmeyeceklerine ve ettirmeyeceklerine dair
-Yargıtay Birinci Başkanlık Kurulu huzurunda yemin ederler. Yemin için
-yapılan başvuru Yargıtay tarafından acele işlerden sayılır. Kurul
-üyeleri, yemin etmedikçe göreve başlayamazlar.
+             Kurul Başkan ve üyeleri, görevlerinin devamı süresince
+görevlerini tam bir dikkat, dürüstlük ve tarafsızlık ile
+yürüteceklerine, kanun hükümlerine aykırı hareket etmeyeceklerine ve
+ettirmeyeceklerine dair Yargıtay Birinci Başkanlık Kurulu huzurunda
+yemin ederler. Yemin için yapılan başvuru Yargıtay tarafından acele
+işlerden sayılır. Kurul üyeleri, yemin etmedikçe göreve başlayamazlar.
 
-*Başkan ve üyelerin görev süreleri *
+*             Başkan ve üyelerin görev süreleri *
 
 **             Madde 85 —** Kurul Başkan ve üyelerinin görev süresi beş
 yıldır. Süreleri biten başkan ve üyeler bir defalığına tekrar
@@ -2262,15 +2382,15 @@ atandıklarının süresini tamamlar.^(1)^
 
              Kurul Başkan ve üyelerinin görev süreleri dolmadan herhangi
 bir nedenle görevlerine son verilemez. Ancak, ağır hastalık veya
-sakatlık nedeniyle iş göremeyecekleri, atanmaları için gerekli şartları
-kaybettikleri veya durumlarının 86 ncı maddeye aykırı düştüğü tespit
-edilen veya görevleri ile ilgili olarak işledikleri suçlardan dolayı
-haklarında verilen mahkûmiyet kararı kesinleşen Kurul Başkan ve üyeleri
-süreleri dolmadan Başbakanın onayı ile görevden alınırlar. Bunların
-yerlerine en geç bir ay içinde atama yapılır. Ayrıca geçici iş
+engellilik nedeniyle iş göremeyecekleri, atanmaları için gerekli
+şartları kaybettikleri veya durumlarının 86 ncı maddeye aykırı düştüğü
+tespit edilen veya görevleri ile ilgili olarak işledikleri suçlardan
+dolayı haklarında verilen mahkûmiyet kararı kesinleşen Kurul Başkan ve
+üyeleri süreleri dolmadan Başbakanın onayı ile görevden alınırlar.
+Bunların yerlerine en geç bir ay içinde atama yapılır. Ayrıca geçici iş
 göremezlik halinin üç aydan fazla sürmesi hâlinde, bu durumda olan
 üyelerin üyelikleri düşer ve bunların yerlerine bir ay içinde atama
-yapılır.
+yapılır.^(2)^
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2279,146 +2399,158 @@ fıkrada yer alan “altı” ibaresi “beş” şeklinde, aynı fıkranın iki
 cümlesinde yer alan “yeniden atanamazlar.” ibaresi “bir defalığına
 tekrar atanabilirler.” şeklinde değiştirilmiştir.*
 
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
+fıkrada yer alan “sakatlık” ibaresi “engellilik” olarak
+değiştirilmiştir.*
+
 9566
 
-657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) fıkrasının
-(5) numaralı bendinde öngörülen suçlarla ilgili olarak haklarında ceza
-davası açılan Kurul Başkan ve üyelerinden görevi başında kalması
-sakıncalı görülenler, Bakanlar Kurulu tarafından tedbiren görevden
-uzaklaştırılabilir. Görevden uzaklaştırılan Kurul Başkan ve üyeleri
-hakkında Devlet Memurları Kanununun ilgili hükümleri uygulanır. Bu
-şekilde geçici olarak boşalan üyeliklere, 84 üncü maddedeki şartları
+########  
+
+             657 sayılı Devlet Memurları Kanununun 48 inci maddesinin
+(A) fıkrasının (5) numaralı bendinde öngörülen suçlarla ilgili olarak
+haklarında ceza davası açılan Kurul Başkan ve üyelerinden görevi başında
+kalması sakıncalı görülenler, Bakanlar Kurulu tarafından tedbiren
+görevden uzaklaştırılabilir. Görevden uzaklaştırılan Kurul Başkan ve
+üyeleri hakkında Devlet Memurları Kanununun ilgili hükümleri uygulanır.
+Bu şekilde geçici olarak boşalan üyeliklere, 84 üncü maddedeki şartları
 taşıyanlar arasından, tedbiren görevden uzaklaştırılan üye göreve
 dönünceye ve her halükârda söz konusu üyenin üyelik süresini geçmemek
 üzere Bakanlar Kurulunca atama yapılabilir.
 
-*Yasaklar*
+*             Yasaklar*
 
-**Madde 86 —** Kurul Başkan ve üyeleri, asli görevlerini aksatmayan
-bilimsel amaçlı yayın, ders ve konferans ile telif hakları hariç
-Kurumdaki resmî görevlerinin yürütülmesi dışında kalan resmî veya özel
-hiçbir görev alamaz, dernek, vakıf, kooperatif ve benzeri yerlerde
+**             Madde 86 —** Kurul Başkan ve üyeleri, asli görevlerini
+aksatmayan bilimsel amaçlı yayın, ders ve konferans ile telif hakları
+hariç Kurumdaki resmî görevlerinin yürütülmesi dışında kalan resmî veya
+özel hiçbir görev alamaz, dernek, vakıf, kooperatif ve benzeri yerlerde
 yöneticilik yapamaz, ticaretle uğraşamaz, serbest meslek faaliyetinde
 bulunamaz, Kurumun düzenlemek ve denetlemekle yetkili olduğu sektör veya
 alanla ilgili ortaklıklarda pay sahibi olamaz, hakemlik ve bilirkişilik
 yapamazlar.
 
-Kurul Başkan ve üyeleri göreve başlamadan önce kendilerinin veya eş ve
-velâyeti altındaki çocuklarının sahibi bulunduğu menkul kıymetlerden
-Hazine tarafından çıkarılan borçlanmaya ilişkin olanlar hariç Kurumun
-düzenlemek ve denetlemekle sorumlu olduğu kuruluşların her türlü sermaye
-piyasası araçlarını eş, evlatlık, üçüncü dereceye kadar kan ve ikinci
-dereceye kadar kayın hısımları dışındakilere otuz gün içinde satmak
-suretiyle elden çıkarmak zorundadır. Kurul üyeliklerine atanmalarından
-itibaren otuz gün içinde bu fıkraya uygun hareket etmeyen üyeler,
-üyelikten çekilmiş sayılır. Bu durum, Kurul kararı ile tespit edilir ve
-ilişkili Bakana bildirilir.
+             Kurul Başkan ve üyeleri göreve başlamadan önce kendilerinin
+veya eş ve velâyeti altındaki çocuklarının sahibi bulunduğu menkul
+kıymetlerden Hazine tarafından çıkarılan borçlanmaya ilişkin olanlar
+hariç Kurumun düzenlemek ve denetlemekle sorumlu olduğu kuruluşların her
+türlü sermaye piyasası araçlarını eş, evlatlık, üçüncü dereceye kadar
+kan ve ikinci dereceye kadar kayın hısımları dışındakilere otuz gün
+içinde satmak suretiyle elden çıkarmak zorundadır. Kurul üyeliklerine
+atanmalarından itibaren otuz gün içinde bu fıkraya uygun hareket etmeyen
+üyeler, üyelikten çekilmiş sayılır. Bu durum, Kurul kararı ile tespit
+edilir ve ilişkili Bakana bildirilir.
 
-Kurul Başkan ve üyeleri, görevlerinden ayrılmalarını izleyen iki yıl
-içinde Kurumun denetlemekle ve düzenlemekle görevli olduğu sektör ve
-alandaki özel kuruluşlarda görev alamazlar. Bu fıkra hükmüne uymayanlara
-2531 sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları İşler
-Hakkında Kanunun 4 üncü maddesinde belirtilen cezalar verilir.
+             Kurul Başkan ve üyeleri, görevlerinden ayrılmalarını
+izleyen iki yıl içinde Kurumun denetlemekle ve düzenlemekle görevli
+olduğu sektör ve alandaki özel kuruluşlarda görev alamazlar. Bu fıkra
+hükmüne uymayanlara 2531 sayılı Kamu Görevlerinden Ayrılanların
+Yapamayacakları İşler Hakkında Kanunun 4 üncü maddesinde belirtilen
+cezalar verilir.
 
-Kurul Başkan ve üyeleri ve diğer personel, Kurumla ilgili gizlilik
-taşıyan bilgileri ve ticari sırları, görevlerinden ayrılmış olsalar bile
-kanunen yetkili kılınan mercilerden başkasına açıklayamazlar,
-kendilerinin veya başkalarının menfaatine kullanamazlar.
+             Kurul Başkan ve üyeleri ve diğer personel, Kurumla ilgili
+gizlilik taşıyan bilgileri ve ticari sırları, görevlerinden ayrılmış
+olsalar bile kanunen yetkili kılınan mercilerden başkasına
+açıklayamazlar, kendilerinin veya başkalarının menfaatine kullanamazlar.
 
-Kurul Başkan ve üyeleri 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet
-ve Yolsuzluklarla Mücadele Kanununa tâbidir.
+             Kurul Başkan ve üyeleri 3628 sayılı Mal Bildiriminde
+Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununa tâbidir.
 
-*Kurulun çalışma esasları*
+*             Kurulun çalışma esasları*
 
-**Madde 87 —** Kurul en az haftada bir defa olmak üzere, gerekli
-hallerde toplanır. Toplantıyı Kurul Başkanı, yokluğunda ikinci başkan
-yönetir. Toplantının gündemi Başkan, yokluğunda ikinci başkan tarafından
-hazırlanarak toplantıdan en az bir gün önce Kurul üyelerine bildirilir.
-Gündem maddelerine geçmeden önce Başkan tarafından Kurumun faaliyetleri
-hakkında Kurula bilgi verilir. Gündeme yeni madde eklenebilmesi için
-toplantı başlamadan önce bir üyenin öneride bulunması ve önerilen
-maddenin gündeme eklenmesinin Kurulca kabul edilmesi gerekir.
+**             Madde 87 —** Kurul en az haftada bir defa olmak üzere,
+gerekli hallerde toplanır. Toplantıyı Kurul Başkanı, yokluğunda ikinci
+başkan yönetir. Toplantının gündemi Başkan, yokluğunda ikinci başkan
+tarafından hazırlanarak toplantıdan en az bir gün önce Kurul üyelerine
+bildirilir. Gündem maddelerine geçmeden önce Başkan tarafından Kurumun
+faaliyetleri hakkında Kurula bilgi verilir. Gündeme yeni madde
+eklenebilmesi için toplantı başlamadan önce bir üyenin öneride bulunması
+ve önerilen maddenin gündeme eklenmesinin Kurulca kabul edilmesi
+gerekir.
 
-Geçerli mazereti olmaksızın bir takvim yılında toplam üç toplantıya
-katılmayan veya bir toplantıya katıldığı halde Kurul kararlarını süresi
-içinde imzalamayan veya karşı oy gerekçesini süresi içinde yazılı olarak
-bildirmeyen Kurul üyeleri üyelikten çekilmiş sayılır. Bu durum, Kurul
-kararı ile tespit edilir ve ilişkili Bakana bildirilir.
+             Geçerli mazereti olmaksızın bir takvim yılında toplam üç
+toplantıya katılmayan veya bir toplantıya katıldığı halde Kurul
+kararlarını süresi içinde imzalamayan veya karşı oy gerekçesini süresi
+içinde yazılı olarak bildirmeyen Kurul üyeleri üyelikten çekilmiş
+sayılır. Bu durum, Kurul kararı ile tespit edilir ve ilişkili Bakana
+bildirilir.
 
-Kurul en az beş üyenin hazır bulunması ile toplanır ve bu Kanunda
-belirtilen özel nisap gerektiren haller dışında en az dört üyenin aynı
-yöndeki oyuyla karar alır. Üyeler çekimser oy kullanamaz. Toplantıda
-karar yeter sayısı sağlanamadığı durumlarda, izleyen toplantılarda
-oylarda eşitlik olması hâlinde Başkanın bulunduğu tarafın oyu üstün
-sayılarak karar alınır. Kurul kararı tutanakla tespit edilir ve karar
-tutanağı toplantı esnasında veya en geç toplantıyı izleyen işgünü,
-toplantıya katılan tüm üyeler tarafından imzalanır.
+             Kurul en az beş üyenin hazır bulunması ile toplanır ve bu
+Kanunda belirtilen özel nisap gerektiren haller dışında en az dört
+üyenin aynı yöndeki oyuyla karar alır. Üyeler çekimser oy kullanamaz.
+Toplantıda karar yeter sayısı sağlanamadığı durumlarda, izleyen
+toplantılarda oylarda eşitlik olması hâlinde Başkanın bulunduğu tarafın
+oyu üstün sayılarak karar alınır. Kurul kararı tutanakla tespit edilir
+ve karar tutanağı toplantı esnasında veya en geç toplantıyı izleyen
+işgünü, toplantıya katılan tüm üyeler tarafından imzalanır.
 
 9567
 
-Herhangi bir nedenle üye sayısının Kurulun karar almasını imkânsız
-kılacak bir sayıya düşmesi hâlinde, toplantı nisabı sağlanacak şekilde
-bir ayı geçmemek üzere, kıdem sırasına göre, Kurum başkan yardımcıları
-vekâlet eder. Bu madde hükmüne istinaden Kurul üyeliği görevini yürüten
-Kurum başkan yardımcılarının malî ve özlük haklarında bir değişiklik
-olmaz.
+               Herhangi bir nedenle üye sayısının Kurulun karar almasını
+imkânsız kılacak bir sayıya düşmesi hâlinde, toplantı nisabı sağlanacak
+şekilde bir ayı geçmemek üzere, kıdem sırasına göre, Kurum başkan
+yardımcıları vekâlet eder. Bu madde hükmüne istinaden Kurul üyeliği
+görevini yürüten Kurum başkan yardımcılarının malî ve özlük haklarında
+bir değişiklik olmaz.
 
-Bu Kanunda belirtilen süreler saklı kalmak üzere, Kurul kararı, alındığı
-toplantı tarihinden itibaren en geç onbeş gün içinde gerekçeleri, varsa
-karşı oy gerekçeleri ve imzaları ile birlikte tekemmül ettirilir.
+                Bu Kanunda belirtilen süreler saklı kalmak üzere, Kurul
+kararı, alındığı toplantı tarihinden itibaren en geç onbeş gün içinde
+gerekçeleri, varsa karşı oy gerekçeleri ve imzaları ile birlikte
+tekemmül ettirilir.
 
-Kurul Başkan ve üyeleri kendisi, eşi, evlatlıkları ve üçüncü derece
-dahil kan ve ikinci derece dahil kayın hısımlarıyla ilgili konularda
-müzakere ve oylamaya katılamazlar. Bu durum karar metninde ayrıca
-belirtilir.
+                Kurul Başkan ve üyeleri kendisi, eşi, evlatlıkları ve
+üçüncü derece dahil kan ve ikinci derece dahil kayın hısımlarıyla ilgili
+konularda müzakere ve oylamaya katılamazlar. Bu durum karar metninde
+ayrıca belirtilir.
 
-Kurul toplantıları gizlidir. İhtiyaç duyulması hâlinde görüşlerinden
-yararlanmak üzere uzman kişiler Kurul toplantısına davet edilebilir.
-Ancak Kurul kararları toplantıya dışardan katılanların yanında alınamaz.
+                Kurul toplantıları gizlidir. İhtiyaç duyulması hâlinde
+görüşlerinden yararlanmak üzere uzman kişiler Kurul toplantısına davet
+edilebilir. Ancak Kurul kararları toplantıya dışardan katılanların
+yanında alınamaz.
 
-Kurulun düzenleyici kararları tekemmül etmesinden itibaren en geç yedi
-işgünü içinde ilişkili Bakanlığa ve yayımlanmak üzere Başbakanlığa
-gönderilir. Bu kararlar gönderildiği tarihten itibaren en geç yedi gün
-içinde Resmî Gazete’de yayımlanır. Bu Kanunda öngörülen hükümler saklı
-kalmak üzere, denetleyici nitelikteki kararlar internet ortamı başta
-olmak üzere uygun vasıtalarla kamuoyuna duyurulur. Kurul, yayımlanması
-ülke ekonomisi ve kamu düzeni açısından sakıncalı olan denetleyici
-nitelikteki kararların yayımlanmamasına karar verebilir.
+                Kurulun düzenleyici kararları tekemmül etmesinden
+itibaren en geç yedi işgünü içinde ilişkili Bakanlığa ve yayımlanmak
+üzere Başbakanlığa gönderilir. Bu kararlar gönderildiği tarihten
+itibaren en geç yedi gün içinde Resmî Gazete’de yayımlanır. Bu Kanunda
+öngörülen hükümler saklı kalmak üzere, denetleyici nitelikteki kararlar
+internet ortamı başta olmak üzere uygun vasıtalarla kamuoyuna duyurulur.
+Kurul, yayımlanması ülke ekonomisi ve kamu düzeni açısından sakıncalı
+olan denetleyici nitelikteki kararların yayımlanmamasına karar
+verebilir.
 
-Kurul üyeleri ile Kurum personelinin uyacakları meslekî ve etik ilkeler
-ile Kurulun çalışma usûl ve esaslarına ilişkin diğer hususlar Kurul
-tarafından çıkarılacak yönetmelikle düzenlenir.
+                Kurul üyeleri ile Kurum personelinin uyacakları meslekî
+ve etik ilkeler ile Kurulun çalışma usûl ve esaslarına ilişkin diğer
+hususlar Kurul tarafından çıkarılacak yönetmelikle düzenlenir.
 
-*Kurulun görev ve yetkileri *
+*                Kurulun görev ve yetkileri *
 
-**Madde 88 —** Kurul bu Kanun ve diğer mevzuatta belirtilen görevler
-yanında aşağıdaki görevleri yapar ve yetkileri kullanır:
+**                Madde 88 —** Kurul bu Kanun ve diğer mevzuatta
+belirtilen görevler yanında aşağıdaki görevleri yapar ve yetkileri
+kullanır:
 
-a\) Düzenlemek ve denetlemekle görevli olduğu sektör veya alanla ilgili
-uluslararası ilke ve standartlarla uyumlu ikincil düzenlemeleri yapmak
-ve kararlar almak.
+                a) Düzenlemek ve denetlemekle görevli olduğu sektör veya
+alanla ilgili uluslararası ilke ve standartlarla uyumlu ikincil
+düzenlemeleri yapmak ve kararlar almak.
 
-b\) Kurumun stratejik plânını, performans ölçütlerini, amaç ve
-hedeflerini, hizmet kalite standartlarını belirlemek, insan kaynakları
-ve çalışma politikalarını oluşturmak, Kurumun hizmet birimleri ve
-bunların görevleri hakkında öneride bulunmak.
+                b) Kurumun stratejik plânını, performans ölçütlerini,
+amaç ve hedeflerini, hizmet kalite standartlarını belirlemek, insan
+kaynakları ve çalışma politikalarını oluşturmak, Kurumun hizmet
+birimleri ve bunların görevleri hakkında öneride bulunmak.
 
-c\) Kurumun stratejik plânı ile amaç ve hedeflerine uygun olarak
-hazırlanan bütçe teklifini görüşmek ve karara bağlamak.
+                c) Kurumun stratejik plânı ile amaç ve hedeflerine uygun
+olarak hazırlanan bütçe teklifini görüşmek ve karara bağlamak.
 
-d\) Kurumun performansını ve malî durumunu gösteren raporları onaylamak.
+                d) Kurumun performansını ve malî durumunu gösteren
+raporları onaylamak.
 
-e\) Başkanın önerisi üzerine, başkan yardımcıları ve daire başkanlarını
-atamak.
+                e) Başkanın önerisi üzerine, başkan yardımcıları ve
+daire başkanlarını atamak.
 
-f\) Taşınmaz alımı, satımı, kiralanması konularındaki önerileri görüşüp
-karara bağlamak.
+                f) Taşınmaz alımı, satımı, kiralanması konularındaki
+önerileri görüşüp karara bağlamak.
 
-g\) Kanunlarla verilen diğer görevleri yapmak.
+                g) Kanunlarla verilen diğer görevleri yapmak.
 
 9568
-
- 
 
 ÜÇÜNCÜ BÖLÜM
 
@@ -2476,10 +2608,10 @@ devredebilir.
 *Başkan yardımcıları*
 
 **Madde 90 —** Başkana başkanlığa ilişkin görevlerinde yardımcı olmak
-üzere Kurul kararıyla üç başkan yardımcısı atanır. Başkan
+üzere Kurul kararıyla beş başkan yardımcısı atanır. Başkan
 yardımcılarından biri, yerinde denetim ve gözetimle görevli birimlerden
 sorumlu olur. Başkan yardımcılarının 84 üncü maddede belirtilen şartları
-taşıması gerekir.
+taşıması gerekir.^(1)^
 
 Başkan yardımcıları gerektiğinde sınırlarını yazılı olarak açıkça
 belirlemek şartıyla görev ve yetkilerinden bir kısmını alt kademelere
@@ -2490,8 +2622,18 @@ devredebilir.
 **Madde 91 —** Kurumun hizmet birimleri, daire başkanlıkları şeklinde
 teşkilatlanmış anahizmet, danışma ve yardımcı hizmet birimlerinden
 oluşur. Ancak, daire başkanlıklarının sayısı onu geçemez. **(Ek cümle:
-24/5/2007-5667/6 md.)** İlişkili Bakanın onayı ile bu sayının yarısını
-geçmemek kaydıyla Kurulca daire başkanlıkları oluşturulabilir.
+24/5/2007-5667/6 md.)** İlişkili Bakanın onayı ile sayısı toplamda
+yirmiyi geçmemek kaydıyla Kurulca daire başkanlıkları
+oluşturulabilir.^(2)^
+
+\_\_\_\_\_\_\_\_\_\_
+
+*(1) 20/6/2013 tarihli ve 6493 sayılı Kanunun 40 ıncı maddesiyle bu
+fıkrada yer alan “üç” ibaresi “beş” olarak değiştirilmiştir.*
+
+*(2) 20/6/2013 tarihli ve 6493 sayılı Kanunun 40 ıncı maddesiyle bu
+fıkrada yer alan* “*bu sayının yarısını” ibaresi “sayısı toplamda
+yirmiyi” şeklinde değiştirilmiştir.*
 
 9568-1
 
@@ -2507,41 +2649,45 @@ görevlendirilebilir.^(1)^
 İnsan kaynakları ve eğitim, idarî ve malî işler ve benzeri faaliyetleri
 yürütmek üzere Destek Hizmetleri Daire Başkanlığı kurulur. Bu daire
 başkanlığında biri Kurulun özel büro hizmetlerinde kullanılmak üzere en
-çok dört adet müdürlük kurulabilir.
+çok sekiz adet müdürlük kurulabilir.^(2)^
 
 Kurum, düzenlemekle görevli olduğu alanın yoğun olduğu illerde olmak ve
 sayısı üçü geçmemek kaydıyla Bakanlar Kurulu kararıyla yurt içi
-temsilcilik açabilir.
+temsilcilik açabilir. **(Ek cümle: 20/6/2013-6493/40 md.)** Kurul,
+üyelerin talebi hâlinde Kurum merkezi dışında yurt içi temsilciliklerini
+ilgili üyenin daimi çalışma yeri olarak belirleyebilir.
 
 *Kurum personeli*
 
 **  Madde 92 —** Bu Kanun ile Kuruma verilen görevlerin gerektirdiği
 sürekli görev ve hizmetler, bankalar yeminli murakıpları ve
 yardımcıları, bankacılık uzman ve yardımcıları, hukuk uzman ve
-yardımcıları ile bilişim uzman ve yardımcılarından oluşan meslek
-personeli ve idarî personel eliyle yürütülür. Kurumun her türlü
-personelinin bu Kanunun 84 üncü maddesinin birinci fıkrasının (…)^(2)^
-(a), (b) ve (c) bentlerinde yer alan niteliklerin yanı sıra yönetmelikle
-belirlenen diğer şartları taşımaları zorunludur. **(Ek cümleler :
-11/10/2011 - KHK - 662/71 md.)** Kurumda bankacılık, hukuk ve bilişim
-uzman yardımcılıkları ile bankalar yeminli murakıp yardımcılığına
-atanacakların, üniversite ve yüksekokulların en az dört yıllık eğitim
-veren; hukuk, siyasal bilgiler, iktisadî ve idarî bilimler, iktisat,
-işletme fakültelerine bağlı bölümler ile bankacılık, bankacılık ve
-finans, fizik, matematik, istatistik, istatistik ve bilgisayar,
-bilgisayar mühendisliği, elektrik mühendisliği, elektronik mühendisliği,
-elektrik-elektronik mühendisliği, elektronik ve haberleşme mühendisliği,
-endüstri mühendisliği, matematik mühendisliği bölümlerinden veya bunlara
-denkliği Yükseköğretim Kurulu tarafından onaylanmış yurt içindeki veya
-yurt dışındaki fakülte veya yüksekokullardan mezun veya belirtilen
-alanlarda lisansüstü eğitim yapmış olmaları, yapılacak giriş sınavında
-başarılı olmaları ve yönetmelikte belirtilen diğer şartları taşımaları
-gereklidir. Söz konusu fakülte ve bölümleri, kadro unvanları ve/veya
-uzmanlık alanları itibarıyla ayrı ayrı belirlemeye Kurul yetkilidir.
-**(Ek cümle: 25/4/2012 – 6300/2 md.)** Yukarıda unvanları sayılan meslek
-personeli, son iki yıl içinde fiilen yerinde denetim veya gözetim
-sürecinde ya da uygulama faaliyetinde bulundukları bir bankada asgari
-iki yıl geçmeden görev kabul edemez. ^(2)\ (3)^
+yardımcıları, bilişim uzman ve yardımcıları ile Bankacılık Düzenleme ve
+Denetleme Kurumu uzman ve yardımcılarından oluşan meslek personeli ve
+idarî personel eliyle yürütülür. Kurumun her türlü personelinin bu
+Kanunun 84 üncü maddesinin birinci fıkrasının (…)^(3)^ (a), (b) ve (c)
+bentlerinde yer alan niteliklerin yanı sıra yönetmelikle belirlenen
+diğer şartları taşımaları zorunludur. **(Ek cümleler : 11/10/2011 - KHK
+- 662/71 md.)** Kurumda bankacılık, hukuk, bilişim ve Bankacılık
+Düzenleme ve Denetleme Kurumu, yardımcılıkları ile bankalar yeminli
+murakıp yardımcılığına atanacakların, üniversite ve yüksekokulların en
+az dört yıllık eğitim veren; hukuk, siyasal bilgiler, iktisadî ve idarî
+bilimler, iktisat, işletme fakültelerine bağlı bölümler ile bankacılık,
+bankacılık ve finans, fizik, matematik, istatistik, istatistik ve
+bilgisayar, bilgisayar mühendisliği, elektrik mühendisliği, elektronik
+mühendisliği, elektrik-elektronik mühendisliği, elektronik ve haberleşme
+mühendisliği, endüstri mühendisliği, matematik mühendisliği
+bölümlerinden veya bunlara denkliği Yükseköğretim Kurulu tarafından
+onaylanmış yurt içindeki veya yurt dışındaki fakülte veya
+yüksekokullardan mezun veya belirtilen alanlarda lisansüstü eğitim
+yapmış olmaları, yapılacak giriş sınavında başarılı olmaları ve
+yönetmelikte belirtilen diğer şartları taşımaları gereklidir. Söz konusu
+fakülte ve bölümleri, kadro unvanları ve/veya uzmanlık alanları
+itibarıyla ayrı ayrı belirlemeye Kurul yetkilidir. **(Ek cümle:
+25/4/2012 – 6300/2 md.)** Yukarıda unvanları sayılan meslek personeli,
+son iki yıl içinde fiilen yerinde denetim veya gözetim sürecinde ya da
+uygulama faaliyetinde bulundukları bir bankada asgari iki yıl geçmeden
+görev kabul edemez. ^(3)\ (4)(5)^
 
 –––––––––––––––––––––––––
 
@@ -2549,14 +2695,25 @@ iki yıl geçmeden görev kabul edemez. ^(2)\ (3)^
 sayılı Kanunun 6 ncı maddesiyle “onbeşi” olarak değiştirilmiş ve metne
 işlenmiştir.*
 
-*(2) Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
+*(2) 20/6/2013 tarihli ve 6493 sayılı Kanunun 40 ıncı maddesiyle bu
+fıkrada yer alan ““dört” ibaresi “sekiz” şeklinde şeklinde
+değiştirilmiştir.*
+
+*(3) Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
 2007/33 sayılı Kararı ile; bu fıkranın ikinci cümlesinde yer alan “...
 (d) bendi hariç, diğer ...” ibaresi iptal edilmiştir.*
 
-*(3) 11/10/2011 tarihli ve 662 sayılı KHK’nın 71 inci maddesi ile bu
+*(4) 11/10/2011 tarihli ve 662 sayılı KHK’nın 71 inci maddesi ile bu
 fıkrada yer alan “bentlerinde yer alan nitelikleri” ibaresi “(a), (b) ve
 (c) bentlerinde yer alan niteliklerin yanı sıra yönetmelikle belirlenen
 diğer şartları” şeklinde değiştirilmiştir.*
+
+*(5) 20/6/2013 tarihli ve 6493 sayılı Kanunun 40 ıncı maddesiyle bu
+fıkranın birinci cümlesinde yer alan “hukuk uzman ve yardımcıları ile
+bilişim” ibaresi “hukuk uzman ve yardımcıları, bilişim uzman ve
+yardımcıları ile Bankacılık Düzenleme ve Denetleme Kurumu” şeklinde,
+üçüncü cümlesinde yer alan “hukuk ve bilişim” ibaresi “hukuk, bilişim ve
+Bankacılık Düzenleme ve Denetleme Kurumu”şeklinde değiştirilmiştir.*
 
 9568-2
 
@@ -2587,38 +2744,63 @@ kadro sayısının yüzde otuzunu geçemez.
 personeli, Kurul kararı ve ilgilinin muvafakati ile geçici olarak diğer
 kamu kurum ve kuruluşlarında görevlendirilebilir.
 
-Bankacılık, hukuk ve bilişim uzman yardımcılığı ile bankalar yeminli
-murakıp yardımcılığına atanacaklar merkezî yarışma sınavıyla
-belirlenenler arasından seçilir. Uzman yardımcılığı ve bankalar yeminli
-murakıp yardımcılığına atananlar ikinci yılın sonunda yetki sınavına
-tâbi tutulurlar. Yetki sınavı ile bu sınavda başarılı olanların
-yetkilerine ilişkin usûl ve esaslar Kurul tarafından belirlenir. Uzman
-yardımcılığı ve bankalar yeminli murakıp yardımcılığına atananlar, üç
-yıl çalışmak ve olumlu sicil almak kaydıyla Kamu Personeli Yabancı Dil
-Bilgisi Seviye Tespit Sınavından en az (C) düzeyinde veya buna denk
-kabul edilen uluslararası geçerliliği bulunan yabancı dil puanı alması,
-yeterlik sınavında başarılı olması ve konuları ile ilgili
-hazırlayacakları uzmanlık tezinin oluşturulacak jüri tarafından kabul
-edilmesi hâlinde ilgisine göre bankacılık, hukuk ve bilişim uzmanı ile
-bankalar yeminli murakıbı olarak atanır ve bunlara bir defaya mahsus
-olmak üzere bir derece yükseltilmesi uygulanır. Mazereti olmaksızın tez
-hazırlamayan veya sınava girmeyen veya sınavda iki defa başarısız
-olanlar diğer kamu kurum ve kuruluşlarındaki öğrenim durumlarına uygun
-kadrolara atanmak üzere Devlet Personel Başkanlığına bildirilir.
+Bankacılık, hukuk, bilişim ve Bankacılık Düzenleme ve Denetleme Kurumu,
+uzman yardımcılığı ile bankalar yeminli murakıp yardımcılığına
+atanacaklar merkezî yarışma sınavıyla belirlenenler arasından seçilir.
+Uzman yardımcılığı (Bankacılık Düzenleme ve Denetleme Kurumu uzman
+yardımcılığı hariç) ve bankalar yeminli murakıp yardımcılığına atananlar
+ikinci yılın sonunda yetki sınavına tâbi tutulurlar. Yetki sınavı ile bu
+sınavda başarılı olanların yetkilerine ilişkin usûl ve esaslar Kurul
+tarafından belirlenir. Uzman yardımcılığı ve bankalar yeminli murakıp
+yardımcılığına atananlar, üç yıl çalışmak ve olumlu sicil almak kaydıyla
+Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından en az (C)
+düzeyinde veya buna denk kabul edilen uluslararası geçerliliği bulunan
+yabancı dil puanı alması, yeterlik sınavında başarılı olması ve konuları
+ile ilgili hazırlayacakları uzmanlık tezinin oluşturulacak jüri
+tarafından kabul edilmesi hâlinde ilgisine göre bankacılık, hukuk,
+bilişim ve Bankacılık Düzenleme ve Denetleme Kurumu uzmanı ile bankalar
+yeminli murakıbı olarak atanır ve bunlara bir defaya mahsus olmak üzere
+bir derece yükseltilmesi uygulanır. Mazereti olmaksızın tez hazırlamayan
+veya sınava girmeyen veya sınavda iki defa başarısız olanlar diğer kamu
+kurum ve kuruluşlarındaki öğrenim durumlarına uygun kadrolara atanmak
+üzere Devlet Personel Başkanlığına bildirilir.^(1)^
 
 Kurumun meslek ve idarî personelinin yeterlik ve yarışma sınavları,
-(…)^(1)^ çalışma usûl ve esasları ile ilgili diğer hususlar Kurum
-tarafından çıkarılacak bir yönetmelikle belirlenir. ^(1)^
+(…)^(2)^ çalışma usûl ve esasları ile ilgili diğer hususlar Kurum
+tarafından çıkarılacak bir yönetmelikle belirlenir. ^(2)^
 
  
 
 *––––––––––––––––––––*
 
-*(1) Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
+*(1) 20/6/2013 tarihli ve 6493 sayılı Kanunun 40 ıncı maddesiyle bu
+fıkranın birinci cümlesinde yer alan “hukuk ve bilişim” ibaresi “hukuk,
+bilişim ve Bankacılık Düzenleme ve Denetleme Kurumu”, ikinci cümlesinde
+yer alan “Uzman yardımcılığı” ibaresi “Uzman yardımcılığı (Bankacılık
+Düzenleme ve Denetleme Kurumu uzman yardımcılığı hariç)”, dördüncü
+cümlesinde yer alan “hukuk ve bilişim” ibaresi “hukuk, bilişim ve
+Bankacılık Düzenleme ve Denetleme Kurumu”* *şeklinde değiştirilmiştir.*
+
+*(2) Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
 2007/33 sayılı Kararı ile; 92 nci maddenin son fıkrasının “...
 nitelikleri ile ...” ibaresi iptal edilmiştir.*
 
 9569
+
+**(Ek: 20/6/2013-6493/ 40 md.)** Kurumda, 27/6/1989 tarihli ve 375
+sayılı Kanun Hükmünde Kararnamenin ek 6 ncımaddesinde belirtilen usul ve
+esaslar çerçevesinde bilişim personeli çalıştırılabilir. Ancak söz
+konusu maddenin üçüncü fıkrasının (a) ve (b) bentlerindeki şartlar Kurum
+için aranmaz.
+
+**(Ek: 20/6/2013-6493/ 40 md.)** Kurumun taraf olduğu dava ve icra
+takibi hizmetlerini yürütmek için sayısı onu geçmemek üzere, genel
+hükümlere göre vekâlet akdiyle sözleşmeli avukat çalıştırılabilir.
+
+**(Ek: 20/6/2013-6493/ 40 md.)** Özel uzmanlık gerektiren ve geçici
+nitelikteki işler için, ödemeler ve sözleşme şartları Kurulca
+belirlenmek kaydıyla, 4734 sayılı Kamu İhale Kanunu hükümlerine tabi
+olmaksızın hizmet satın alınabilir.
 
 DÖRDÜNCÜ BÖLÜM
 
@@ -2684,271 +2866,288 @@ Kuruma gerekli yardımı sağlamakla yükümlüdür.
 
 9570
 
-*Sektörün geliştirilmesi*
+*                Sektörün geliştirilmesi*
 
-**Madde 94 —** Kurum, finansal hizmetler sektörünün geliştirilmesi
-amacıyla;
+**                Madde 94 —** Kurum, finansal hizmetler sektörünün
+geliştirilmesi amacıyla;
 
-a\) İşlem ve aracılık maliyetlerinin azaltılarak bankaların kârlı,
-verimli ve rasyonel çalışmalarının ve finansal piyasaların tarafları
-arasında rekabet ortamının sağlanması,
+                a) İşlem ve aracılık maliyetlerinin azaltılarak
+bankaların kârlı, verimli ve rasyonel çalışmalarının ve finansal
+piyasaların tarafları arasında rekabet ortamının sağlanması,
 
-b\) Finansal sisteme rekabet gücünün kazandırılması, finansal piyasalara
-ilişkin diğer düzenlemeler ve uygulamalar ile bütünleşmenin
-gerçekleştirilmesi ve piyasanın daha etkin işleyişinin sağlanması
-suretiyle etkin ve şeffaf bir finansal sistemin oluşturulması,
+                b) Finansal sisteme rekabet gücünün kazandırılması,
+finansal piyasalara ilişkin diğer düzenlemeler ve uygulamalar ile
+bütünleşmenin gerçekleştirilmesi ve piyasanın daha etkin işleyişinin
+sağlanması suretiyle etkin ve şeffaf bir finansal sistemin
+oluşturulması,
 
-c\) Denetim ve faaliyet alanları bakımından uluslararası bankaların
-durumunun yakından izlenmesi, tecrübelerinden yararlanılması,
+                c) Denetim ve faaliyet alanları bakımından uluslararası
+bankaların durumunun yakından izlenmesi, tecrübelerinden yararlanılması,
 
-d\) Birimler, kurumlar, meslek mensupları ve uluslararası diyalog ve
-işbirliğinin artırılması suretiyle malî piyasalarda meslek mensupları
-arasında bütünleşmenin sağlanması,
+                d) Birimler, kurumlar, meslek mensupları ve uluslararası
+diyalog ve işbirliğinin artırılması suretiyle malî piyasalarda meslek
+mensupları arasında bütünleşmenin sağlanması,
 
-e\) Malî piyasalara ilişkin düzenlemelerin ilgili taraflarla istişare
-edilerek hazırlanması,
+                e) Malî piyasalara ilişkin düzenlemelerin ilgili
+taraflarla istişare edilerek hazırlanması,
 
-Hususlarında strateji belirlemeye yetkilidir.
+                Hususlarında strateji belirlemeye yetkilidir.
 
-*Yerinde denetim ve gözetim *
+*                Yerinde denetim ve gözetim *
 
-**Madde 95 —** Bu Kanun hükümleri ile bu Kanun kapsamındaki kuruluşlar
-hakkında diğer kanunlarda yer alan hükümlerin uygulanmasının ve bu
-kuruluşların her türlü işlemlerinin gözetimi ve yerinde denetimi ve bu
-Kanun kapsamındaki kuruluşların konsolide ve konsolide olmayan bazda
-risk yapısı, iç kontrol, risk yönetimi ve iç denetim sistemleri ile
-varlıkları, alacakları, özkaynakları, borçları, kâr ve zarar hesapları,
-yükümlülükleri ve taahhütleri arasındaki ilgi ve dengelerin ve malî
-bünyeyi etkileyen diğer tüm unsurların ve bu kuruluşların kurumsal
-yönetim ilkelerine uyum seviyesinin gözetimi, tahlili ve ölçümü Kurum
-tarafından yapılır.
+**                Madde 95 —** Bu Kanun hükümleri ile bu Kanun
+kapsamındaki kuruluşlar hakkında diğer kanunlarda yer alan hükümlerin
+uygulanmasının ve bu kuruluşların her türlü işlemlerinin gözetimi ve
+yerinde denetimi ve bu Kanun kapsamındaki kuruluşların konsolide ve
+konsolide olmayan bazda risk yapısı, iç kontrol, risk yönetimi ve iç
+denetim sistemleri ile varlıkları, alacakları, özkaynakları, borçları,
+kâr ve zarar hesapları, yükümlülükleri ve taahhütleri arasındaki ilgi ve
+dengelerin ve malî bünyeyi etkileyen diğer tüm unsurların ve bu
+kuruluşların kurumsal yönetim ilkelerine uyum seviyesinin gözetimi,
+tahlili ve ölçümü Kurum tarafından yapılır.
 
 9571
 
-Kurum, bağımsız denetim kuruluşlarınca yapılan yıllık finansal
-raporların yapısı, uygunluğu ve güvenilirliğinin değerlendirilmesini de
-yerine getirir.
+########  
 
-Bu Kanuna tabî kuruluşlar tarafından, Kurulca belirlenen usûl ve esaslar
-çerçevesinde konsolide ve konsolide olmayan bazda istenilen her türlü
-bilgi, belge, cetvel, rapor ve finansal tabloların, hesap ve kayıt
-düzenleriyle uyumlu olarak, zamanında ve doğru şekilde Kuruma tevdi
-edilmesi şarttır.
+            Kurum, bağımsız denetim kuruluşlarınca yapılan yıllık
+finansal raporların yapısı, uygunluğu ve güvenilirliğinin
+değerlendirilmesini de yerine getirir.
 
-Söz konusu kuruluşlarda denetim yapma yetkisi bulunanlar tarafından
-düzenlenen rapor ve mütalâaların bir suretinin anılan kuruluşlarca
-Kuruma gönderilmesi zorunludur.
+             Bu Kanuna tabî kuruluşlar tarafından, Kurulca belirlenen
+usûl ve esaslar çerçevesinde konsolide ve konsolide olmayan bazda
+istenilen her türlü bilgi, belge, cetvel, rapor ve finansal tabloların,
+hesap ve kayıt düzenleriyle uyumlu olarak, zamanında ve doğru şekilde
+Kuruma tevdi edilmesi şarttır.
 
-Kurum, incelemelerini Başkanın onayından geçmiş çalışma programları ile
-Başkan tarafından yapılacak görevlendirmeler çerçevesinde
-gerçekleştirir.
+             Söz konusu kuruluşlarda denetim yapma yetkisi bulunanlar
+tarafından düzenlenen rapor ve mütalâaların bir suretinin anılan
+kuruluşlarca Kuruma gönderilmesi zorunludur.
 
-Başkan, yapılacak yerinde denetimde, Kurumun meslek personelini
-oluşturan bankalar yeminli murakıp ve yardımcıları, bankacılık uzmanı ve
-yardımcıları, bilişim uzmanı ve yardımcıları, hukuk uzmanı ve
-yardımcıları arasından uygun göreceği bir denetim ekibini görevlendirir.
-Kurumun yerinde denetim yapmaya yetkili meslek personeli İstanbul'da
-Asliye Ticaret Mahkemesinde ^(1)^ yemin etmedikçe yerinde denetim
-yapamazlar. Yerinde denetim yapan Kurumun meslek personeli denetim
-konularıyla ilişkili olarak bu maddede belirtilen tüm yetkileri haizdir.
+             Kurum, incelemelerini Başkanın onayından geçmiş çalışma
+programları ile Başkan tarafından yapılacak görevlendirmeler
+çerçevesinde gerçekleştirir.
 
-Başkan, gerekli gördüğünde ve özellik arz eden konularda bağımsız
-denetim kuruluşlarını ilgili konu hakkında inceleme yapılması için
-görevlendirme yetkisini haizdir. Bağımsız denetim yapan kuruluşun
+             Başkan, yapılacak yerinde denetimde, Kurumun meslek
+personelini oluşturan bankalar yeminli murakıp ve yardımcıları,
+bankacılık uzmanı ve yardımcıları, bilişim uzmanı ve yardımcıları, hukuk
+uzmanı ve yardımcıları arasından uygun göreceği bir denetim ekibini
+görevlendirir. Kurumun yerinde denetim yapmaya yetkili meslek personeli
+İstanbul'da Asliye Ticaret Mahkemesinde^(1)^ yemin etmedikçe yerinde
+denetim yapamazlar. Yerinde denetim yapan Kurumun meslek personeli
+denetim konularıyla ilişkili olarak bu maddede belirtilen tüm yetkileri
+haizdir.
+
+             Başkan, gerekli gördüğünde ve özellik arz eden konularda
+bağımsız denetim kuruluşlarını ilgili konu hakkında inceleme yapılması
+için görevlendirme yetkisini haizdir. Bağımsız denetim yapan kuruluşun
 denetçisi denetim konularıyla ilişkili olmak kaydıyla bu maddede
 belirtilen ilgili yetkileri haiz olduğu gibi, bu Kanun kapsamındaki
 sırların saklanması yükümlülüklerine de tâbidir.
 
-Kurum, bankalardan, bunların bağlı ortaklıklarından, nitelikli paya
-sahip oldukları ortaklıklardan, birlikte kontrol ettikleri
-ortaklıklardan, şubeleri ile temsilciliklerinden, destek hizmeti
-kuruluşlarından ve diğer gerçek ve tüzel kişilerden bu Kanun hükümleri
-ile ilgili görecekleri bütün bilgileri gizli dahi olsa istemeye,
-bunların vergiyle ilgili kayıtları dahil olmak üzere tüm defter, kayıt
-ve belgelerini incelemeye yetkili olup, bilgi istenenler de istenilen
-bilgileri vermekle, defter, kayıt ve belgeleri incelemeye hazır
-bulundurmakla, tüm bilgi işlem sistemini denetim amaçlarına uygun olarak
-Kurumun yerinde denetim yapan meslek personeline açmakla, verilerin
-güvenliğini sağlamakla ve muhafaza etmek zorunda oldukları her türlü
-defter, belge ve karneler ile vermek zorunda bulundukları bilgilere
-ilişkin mikrofiş, mikrofilm, manyetik teyp, disket ve benzeri
+             Kurum, bankalardan, bunların bağlı ortaklıklarından,
+nitelikli paya sahip oldukları ortaklıklardan, birlikte kontrol
+ettikleri ortaklıklardan, şubeleri ile temsilciliklerinden, destek
+hizmeti kuruluşlarından ve diğer gerçek ve tüzel kişilerden bu Kanun
+hükümleri ile ilgili görecekleri bütün bilgileri gizli dahi olsa
+istemeye, bunların vergiyle ilgili kayıtları dahil olmak üzere tüm
+defter, kayıt ve belgelerini incelemeye yetkili olup, bilgi istenenler
+de istenilen bilgileri vermekle, defter, kayıt ve belgeleri incelemeye
+hazır bulundurmakla, tüm bilgi işlem sistemini denetim amaçlarına uygun
+olarak Kurumun yerinde denetim yapan meslek personeline açmakla,
+verilerin güvenliğini sağlamakla ve muhafaza etmek zorunda oldukları her
+türlü defter, belge ve karneler ile vermek zorunda bulundukları
+bilgilere ilişkin mikrofiş, mikrofilm, manyetik teyp, disket ve benzeri
 ortamlardaki kayıtlarını ve bu kayıtlara erişim veya kayıtları
 okunabilir hale getirmek için gerekli tüm sistem ve şifrelerini inceleme
 için ibraz etmek ve işletmekle yükümlüdür.
 
-Kamu kurum ve kuruluşları, Merkez Bankası ve benzeri kuruluşlar ile Risk
-Merkezi görevleriyle ilgili olarak istenecek her hürlü bilgi ve belgeyi
-gizli de olsa Kurumun yerinde denetim yapan meslek personeline
-geciktirilmeksizin verirler. Kurul, ilgili taraflarla bu husustaki
-detayları belirleyen mutabakat zaptı düzenleyebilir.
+             Kamu kurum ve kuruluşları, Merkez Bankası ve benzeri
+kuruluşlar ile Risk Merkezi görevleriyle ilgili olarak istenecek her
+hürlü bilgi ve belgeyi gizli de olsa Kurumun yerinde denetim yapan
+meslek personeline geciktirilmeksizin verirler. Kurul, ilgili taraflarla
+bu husustaki detayları belirleyen mutabakat zaptı düzenleyebilir.
 
-Kurum tarafından gerçekleştirilen denetimler sırasında talep edilmesi
-hâlinde, bankalar tarafından iç kontrol, risk yönetimi ve iç denetim
-sistemlerinde çalışanların görevlendirilmesi dâhil olmak üzere her türlü
-destek sağlanır.
+             Kurum tarafından gerçekleştirilen denetimler sırasında
+talep edilmesi hâlinde, bankalar tarafından iç kontrol, risk yönetimi ve
+iç denetim sistemlerinde çalışanların görevlendirilmesi dâhil olmak
+üzere her türlü destek sağlanır.
 
-Diğer kanunlar uyarınca Kurumun meslek personelinin bu Kanun
-kapsamındaki görevleri dışında görevlendirilmeleri, bu maddede sayılan
-görevleri öncelikli olmak kaydıyla Başkan tarafından yapılır.
+             Diğer kanunlar uyarınca Kurumun meslek personelinin bu
+Kanun kapsamındaki görevleri dışında görevlendirilmeleri, bu maddede
+sayılan görevleri öncelikli olmak kaydıyla Başkan tarafından yapılır.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 148 inci maddesi ile bu
+(1)    13/2/2011 tarihli ve 6111 sayılı Kanunun 148 inci maddesi ile bu
 fıkrada yer alan “Ankara’da Asliye Ticaret Mahkemesinde” ibaresi
 “İstanbul’da Asliye Ticaret Mahkemesinde” şeklinde değiştirilmiş ve
-metne işlenmiştir.*
+metne işlenmiştir.
+
+ 
 
 9572
 
-Kurum; bu Kanunun, Kurumun görev, yetki ve sorumluluklarına ilişkin
-hükümlerinde zikredilen ve 20.2.1930 tarihli ve 1567 sayılı Türk
+########  
+
+             Kurum; bu Kanunun, Kurumun görev, yetki ve sorumluluklarına
+ilişkin hükümlerinde zikredilen ve 20.2.1930 tarihli ve 1567 sayılı Türk
 Parasının Kıymetini Koruma Hakkında Kanun hükümlerine aykırı hareket
 eden kuruluşlar ve ilgilileri hakkında, adı geçen Kanunun ek 1 inci
 maddesindeki yetkilere sahip olduğu gibi tüm bankaların kuruluş kanunu
 hükümleri ile diğer kanunların bankalarla ilgili hükümlerinin
 uygulanmasını denetlemeye de yetkilidir.
 
-Bankalarda yerinde denetim yapan kişiler, bu Kanunda belirtilen
-düzenlemeler dışında diğer kanunlara aykırılıkları tespit ettikleri
-takdirde bu tespitleri ilgili mercilere derhal bildirmek zorundadırlar.
+             Bankalarda yerinde denetim yapan kişiler, bu Kanunda
+belirtilen düzenlemeler dışında diğer kanunlara aykırılıkları tespit
+ettikleri takdirde bu tespitleri ilgili mercilere derhal bildirmek
+zorundadırlar.
 
-Denetim ve gözetime ilişkin usûl ve esaslar Kurulca düzenlenecek
-yönetmelikle belirlenir.
+             Denetim ve gözetime ilişkin usûl ve esaslar Kurulca
+düzenlenecek yönetmelikle belirlenir.
 
-*Bilgi ve belge isteme*
+*             Bilgi ve belge isteme*
 
-**Madde 96 —** Bu Kanunun 93 üncü maddesinin birinci fıkrasının (a)
-bendinde belirtilen kuruluşlar ile ortakları, bunların bağlı
-ortaklıkları, nitelikli paya sahip olduğu ortaklıkları, birlikte kontrol
-ettiği ortaklıkları, şubeleri ile temsilcilikleri, bağımsız denetim,
-değerleme ve destek hizmeti kuruluşları gizli dahi olsa bu Kanunun
-uygulanması ile ilgili olarak her türlü bilgi ve belgeyi Kurumun talebi
-üzerine Kuruma tevdi etmekle yükümlüdür.
+**             Madde 96 —** Bu Kanunun 93 üncü maddesinin birinci
+fıkrasının (a) bendinde belirtilen kuruluşlar ile ortakları, bunların
+bağlı ortaklıkları, nitelikli paya sahip olduğu ortaklıkları, birlikte
+kontrol ettiği ortaklıkları, şubeleri ile temsilcilikleri, bağımsız
+denetim, değerleme ve destek hizmeti kuruluşları gizli dahi olsa bu
+Kanunun uygulanması ile ilgili olarak her türlü bilgi ve belgeyi Kurumun
+talebi üzerine Kuruma tevdi etmekle yükümlüdür.
 
-Kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler, Devletin
-güvenliği ve temel dış yararlarına karşı ağır sonuçlar doğuracak hâller
-ile meslek sırrı, aile hayatının gizliliği ve savunma hakkına ilişkin
-hükümler saklı kalmak kaydıyla özel kanunlardaki yasaklayıcı ve
-sınırlayıcı hükümler dikkate alınmaksızın gizli dahi olsa Kurum
-tarafından bu Kanun kapsamında verilen görevler ile sınırlı olmak üzere
-istenecek her türlü bilgi ve belgeyi uygun süre ve ortamda, sürekli veya
-münferit olarak vermeye, istenecek defter ve belgeleri ibraz etmeye ve
-incelemeye hazır bulundurmaya, tüm bilgi işlem sistemini denetim
-amaçlarına uygun olarak ilgili personele açmaya, verilerin güvenliğini
-sağlamaya ve muhafaza etmek zorunda oldukları her türlü defter, belge ve
-karneler ile vermek zorunda bulundukları bilgilere ilişkin mikrofiş,
-mikrofilm, manyetik teyp, disket ve benzeri ortamlardaki kayıtlarını ve
-bu kayıtlara erişim veya kayıtları okunabilir hale getirmek için gerekli
-tüm sistem ve şifreleri incelemek için ibraz etmeye ve işletmeye
-mecburdurlar.
+             Kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler,
+Devletin güvenliği ve temel dış yararlarına karşı ağır sonuçlar
+doğuracak hâller ile meslek sırrı, aile hayatının gizliliği ve savunma
+hakkına ilişkin hükümler saklı kalmak kaydıyla özel kanunlardaki
+yasaklayıcı ve sınırlayıcı hükümler dikkate alınmaksızın gizli dahi olsa
+Kurum tarafından bu Kanun kapsamında verilen görevler ile sınırlı olmak
+üzere istenecek her türlü bilgi ve belgeyi uygun süre ve ortamda,
+sürekli veya münferit olarak vermeye, istenecek defter ve belgeleri
+ibraz etmeye ve incelemeye hazır bulundurmaya, tüm bilgi işlem sistemini
+denetim amaçlarına uygun olarak ilgili personele açmaya, verilerin
+güvenliğini sağlamaya ve muhafaza etmek zorunda oldukları her türlü
+defter, belge ve karneler ile vermek zorunda bulundukları bilgilere
+ilişkin mikrofiş, mikrofilm, manyetik teyp, disket ve benzeri
+ortamlardaki kayıtlarını ve bu kayıtlara erişim veya kayıtları
+okunabilir hale getirmek için gerekli tüm sistem ve şifreleri incelemek
+için ibraz etmeye ve işletmeye mecburdurlar.
 
-Bu madde kapsamında ilgili kişi, kurum ve kuruluşlar Kurumun
-belirleyeceği süre içerisinde söz konusu talebe cevap vermek ve gereken
-kolaylığı göstermekle yükümlüdürler.
+             Bu madde kapsamında ilgili kişi, kurum ve kuruluşlar
+Kurumun belirleyeceği süre içerisinde söz konusu talebe cevap vermek ve
+gereken kolaylığı göstermekle yükümlüdürler.
 
-*Şeffaflık ve hesap verebilirlik*
+*             Şeffaflık ve hesap verebilirlik*
 
-**Madde 97 —** Kurumun faaliyetleri hakkındaki yıllık rapor, raporun ait
-olduğu dönemi izleyen yılın mayıs ayı sonuna kadar Bakanlar Kuruluna
-sunulur ve kesin hesaplar ile birlikte kamuya açıklanır. Kurum,
-faaliyetleri ile ilgili olarak yılda bir defa Türkiye Büyük Millet
-Meclisi Plân ve Bütçe Komisyonuna bilgi verir.
+**             Madde 97 —** Kurumun faaliyetleri hakkındaki yıllık
+rapor, raporun ait olduğu dönemi izleyen yılın mayıs ayı sonuna kadar
+Bakanlar Kuruluna sunulur ve kesin hesaplar ile birlikte kamuya
+açıklanır. Kurum, faaliyetleri ile ilgili olarak yılda bir defa Türkiye
+Büyük Millet Meclisi Plân ve Bütçe Komisyonuna bilgi verir.
 
-Kurum, stratejilerine ve bu stratejilerin yerine getirilmesine ilişkin
-olarak Bakanlar Kuruluna altı ayda bir bilgi verir.
+             Kurum, stratejilerine ve bu stratejilerin yerine
+getirilmesine ilişkin olarak Bakanlar Kuruluna altı ayda bir bilgi
+verir.
 
-Kurum, ilgili sektörde yaşanan önemli gelişmelere ve bu Kanunun 93 üncü
-maddesinin birinci fıkrasının (a) bendinde belirtilen kuruluşların
-performanslarına ilişkin olarak toplulaştırılmış bazda üç aylık süreli
-raporlar yayımlar. Kurum risk yönetim politikalarını kamuya açıklar.
+             Kurum, ilgili sektörde yaşanan önemli gelişmelere ve bu
+Kanunun 93 üncü maddesinin birinci fıkrasının (a) bendinde belirtilen
+kuruluşların performanslarına ilişkin olarak toplulaştırılmış bazda üç
+aylık süreli raporlar yayımlar. Kurum risk yönetim politikalarını kamuya
+açıklar.
 
-Kurul tarafından yapılan düzenlemeler, değişiklikleri de içerecek
-şekilde sürekli olarak güncellenmek suretiyle Kurumun internet
+             Kurul tarafından yapılan düzenlemeler, değişiklikleri de
+içerecek şekilde sürekli olarak güncellenmek suretiyle Kurumun internet
 sayfasında yayınlanır.
 
-Kurumca hazırlanacak süreli raporların biçim ve içerikleri ile usûl ve
-esasları Kurulca belirlenir.
+             Kurumca hazırlanacak süreli raporların biçim ve içerikleri
+ile usûl ve esasları Kurulca belirlenir.
 
 9573
 
-*Kurumlararası işbirliği*
+########  
 
-**Madde 98 —** Para, kredi ve bankacılık politikalarının yürütülmesiyle
-ilgili konularda Kurum, Hazine Müsteşarlığı, Devlet Plânlama Teşkilatı
-Müsteşarlığı, Tasarruf Mevduatı Sigorta Fonu ve Merkez Bankası
-karşılıklı mütalâa ve bilgi teatisinde bulunurlar.
+*             Kurumlararası işbirliği*
 
-Kurum, Fon ve Merkez Bankası bu Kanunda belirtilen görevleri yerine
-getirmek amacıyla veri tabanlarında yer alan ve birlikte üzerinde
-uzlaşılan bilgileri gizlilik hükümleri çerçevesinde paylaşırlar.
+**             Madde 98 —** Para, kredi ve bankacılık politikalarının
+yürütülmesiyle ilgili konularda Kurum, Hazine Müsteşarlığı, Devlet
+Plânlama Teşkilatı Müsteşarlığı, Tasarruf Mevduatı Sigorta Fonu ve
+Merkez Bankası karşılıklı mütalâa ve bilgi teatisinde bulunurlar.
 
-Yabancı ülke kanunlarına göre denetime yetkili ve Kurum muadili
-mercilerin, kendi ülkelerindeki finansal piyasalarda faaliyet gösteren
-kuruluşların Türkiye'deki şube veya ortaklıklarında denetim yapma ve
-bilgi talepleri ile bankaların yurt dışındaki şube veya ortaklıklarının
-konsolidasyon kapsamında yer alan bilgilerine ilişkin taleplerinin,
-karşılıklılık ilkesi de dikkate alınarak yerine getirilmesi Kurulun
-iznine tâbidir.
+             Kurum, Fon ve Merkez Bankası bu Kanunda belirtilen
+görevleri yerine getirmek amacıyla veri tabanlarında yer alan ve
+birlikte üzerinde uzlaşılan bilgileri gizlilik hükümleri çerçevesinde
+paylaşırlar.
 
-Kurum ayrıca, politikaların ve düzenlemelerin uyumlaştırılmasına yönelik
-olarak, gerekli gördüğü hâllerde yabancı ülkelerde denetim yapma ve
-eğitim ile personel değişimi imkânı sağlamak üzere Kurum muadili
-merciler ile düzenleyeceği ikili mutabakat zabıtları çerçevesinde veya
-başka yollarla finansal kuruluşlarla ve finansal piyasalarla ilgili her
-türlü işbirliği ve bilgi alışverişinde bulunmaya yetkilidir. Kurum, bu
-mutabakat zabıtlarının usûl ve esasları hakkında kamuoyunu
-bilgilendirir.
+             Yabancı ülke kanunlarına göre denetime yetkili ve Kurum
+muadili mercilerin, kendi ülkelerindeki finansal piyasalarda faaliyet
+gösteren kuruluşların Türkiye'deki şube veya ortaklıklarında denetim
+yapma ve bilgi talepleri ile bankaların yurt dışındaki şube veya
+ortaklıklarının konsolidasyon kapsamında yer alan bilgilerine ilişkin
+taleplerinin, karşılıklılık ilkesi de dikkate alınarak yerine
+getirilmesi Kurulun iznine tâbidir.
 
-Kurum, yurt dışında şube veya ortaklığı bulunan bir bankanın faaliyet
-iznini kaldırdığı veya Fona devrettiği takdirde, ilgili ülkenin muadil
-merciine durumu ivedilikle bildirir.
+             Kurum ayrıca, politikaların ve düzenlemelerin
+uyumlaştırılmasına yönelik olarak, gerekli gördüğü hâllerde yabancı
+ülkelerde denetim yapma ve eğitim ile personel değişimi imkânı sağlamak
+üzere Kurum muadili merciler ile düzenleyeceği ikili mutabakat zabıtları
+çerçevesinde veya başka yollarla finansal kuruluşlarla ve finansal
+piyasalarla ilgili her türlü işbirliği ve bilgi alışverişinde bulunmaya
+yetkilidir. Kurum, bu mutabakat zabıtlarının usûl ve esasları hakkında
+kamuoyunu bilgilendirir.
 
-Yurt içi ve yurt dışı yetkili mercilerle denetime, bilgi paylaşımına ve
-diğer hususlara dair yapılacak işbirliğine ilişkin usûl ve esaslar
-ilgili tarafların görüşü alınmak suretiyle Kurulca belirlenir.
+             Kurum, yurt dışında şube veya ortaklığı bulunan bir
+bankanın faaliyet iznini kaldırdığı veya Fona devrettiği takdirde,
+ilgili ülkenin muadil merciine durumu ivedilikle bildirir.
 
-*Finansal Sektör Komisyonu*
-
-**Madde 99 —** Kurum nezdinde, Kurum, Maliye Bakanlığı, Hazine
-Müsteşarlığı, Merkez Bankası, Sermaye Piyasası Kurulu, Fon, Rekabet
-Kurulu, Devlet Plânlama Teşkilatı Müsteşarlığı, İstanbul Altın Borsası,
-Menkul Kıymetler Borsaları, Vadeli İşlemler ve Opsiyon Borsaları ve
-kuruluş birlikleri temsilcilerinden oluşan Finansal Sektör Komisyonu
-kurulur. Komisyon, finansal piyasalardaki güven ve istikrar ile
-gelişmeyi temin etmek üzere, bilgi teatisini, kurumlararası işbirliği ve
-koordinasyonu sağlamak, ortak politika önerilerinde bulunmak ve finans
-sektörünün geleceğini ilgilendiren konulara ilişkin görüş bildirmekle
-görevlidir.
-
-Finansal Sektör Komisyonu en az altı ayda bir toplanır ve sonuçları
-hakkında Bakanlar Kuruluna bilgi sunar. Komisyonun çalışma usûl ve
-esasları üye kurumların görüşleri alınmak suretiyle Kurul tarafından
+             Yurt içi ve yurt dışı yetkili mercilerle denetime, bilgi
+paylaşımına ve diğer hususlara dair yapılacak işbirliğine ilişkin usûl
+ve esaslar ilgili tarafların görüşü alınmak suretiyle Kurulca
 belirlenir.
 
-*Eşgüdüm Komitesi*
+*             Finansal Sektör Komisyonu*
 
-**Madde 100 —** Bankacılık sisteminin genel durumu, kredi kuruluşlarının
-denetimleri sonucu alınacak önlemler, risk esaslı sigorta primlerinin
-hesaplanmasında kullanılmak üzere kredi kuruluşlarının malî bünyelerini
-gösteren analiz sonuçları ve ayrıca bu bankaların mevduat ve katılım
-fonları hesap adetleri, sigortalı mevduat ve katılım fonları ve toplam
-mevduat ve katılım fonu tutarları hakkında gerekli bilgilerin
+**             Madde 99 —** Kurum nezdinde, Kurum, Maliye Bakanlığı,
+Hazine Müsteşarlığı, Merkez Bankası, Sermaye Piyasası Kurulu, Fon,
+Rekabet Kurulu, Devlet Plânlama Teşkilatı Müsteşarlığı, İstanbul Altın
+Borsası, Menkul Kıymetler Borsaları, Vadeli İşlemler ve Opsiyon
+Borsaları ve kuruluş birlikleri temsilcilerinden oluşan Finansal Sektör
+Komisyonu kurulur. Komisyon, finansal piyasalardaki güven ve istikrar
+ile gelişmeyi temin etmek üzere, bilgi teatisini, kurumlararası
+işbirliği ve koordinasyonu sağlamak, ortak politika önerilerinde
+bulunmak ve finans sektörünün geleceğini ilgilendiren konulara ilişkin
+görüş bildirmekle görevlidir.
+
+             Finansal Sektör Komisyonu en az altı ayda bir toplanır ve
+sonuçları hakkında Bakanlar Kuruluna bilgi sunar. Komisyonun çalışma
+usûl ve esasları üye kurumların görüşleri alınmak suretiyle Kurul
+tarafından belirlenir.
+
+*             Eşgüdüm Komitesi*
+
+**             Madde 100 —** Bankacılık sisteminin genel durumu, kredi
+kuruluşlarının denetimleri sonucu alınacak önlemler, risk esaslı sigorta
+primlerinin hesaplanmasında kullanılmak üzere kredi kuruluşlarının malî
+bünyelerini gösteren analiz sonuçları ve ayrıca bu bankaların mevduat ve
+katılım fonları hesap adetleri, sigortalı mevduat ve katılım fonları ve
+toplam mevduat ve katılım fonu tutarları hakkında gerekli bilgilerin
 paylaşılması, Fonun görev alanına giren konularda ve işlem tesis
 edilmesinin gerekli olduğu hâllerde Kurum ile Fonun azamî düzeyde
 işbirliği yapmasını sağlamak üzere Başkan ve Kurum başkan yardımcıları
 ile Fon Başkanı ve Fon başkan yardımcılarından oluşan bir eşgüdüm
 komitesi kurulur.
 
-Komite en az üç ayda bir defa olmak üzere, tarafların uygun göreceği
-sıklıkta toplanır. Tarafların bir diğerinden talep edeceği bilgilerin ve
-belgelerin diğer tarafa uzlaşılacak bir süre içerisinde verilmesi
-esastır.
+             Komite en az üç ayda bir defa olmak üzere, tarafların uygun
+göreceği sıklıkta toplanır. Tarafların bir diğerinden talep edeceği
+bilgilerin ve belgelerin diğer tarafa uzlaşılacak bir süre içerisinde
+verilmesi esastır.
 
 9574
 
-Bu Kanun hükümlerinin uygulanmasında her iki kurumu ilgilendiren
-konularda ve bilgi paylaşımında izlenecek usûl ve esaslar Kurum ve Fon
-tarafından müştereken belirlenir.
+########  
+
+             Bu Kanun hükümlerinin uygulanmasında her iki kurumu
+ilgilendiren konularda ve bilgi paylaşımında izlenecek usûl ve esaslar
+Kurum ve Fon tarafından müştereken belirlenir.
 
  
 
@@ -2956,70 +3155,75 @@ BEŞİNCİ BÖLÜM
 
 *Çeşitli Hükümler*
 
-*Kurumun bütçesi, hesap ve harcamaların denetimi *
+*             Kurumun bütçesi, hesap ve harcamaların denetimi *
 
-**Madde 101 —** Kurumun gelirlerinin, giderlerini karşılaması esastır.
-Kurum bütçesi 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu
-hükümlerinde belirlenen usûl ve esaslara göre hazırlanır ve kabul
-edilir.
+**             Madde 101 —** Kurumun gelirlerinin, giderlerini
+karşılaması esastır. Kurum bütçesi 5018 sayılı Kamu Malî Yönetimi ve
+Kontrol Kanunu hükümlerinde belirlenen usûl ve esaslara göre hazırlanır
+ve kabul edilir.
 
-Kurumun malî yıl sonunda oluşan gelir fazlaları, izleyen yılın mart ayı
-içinde genel bütçeye gelir olarak aktarılır. Ancak, Kurum bütçe durumunu
-göz önünde bulundurarak daha önce de aktarma yapabilir.
+             Kurumun malî yıl sonunda oluşan gelir fazlaları, izleyen
+yılın mart ayı içinde genel bütçeye gelir olarak aktarılır. Ancak, Kurum
+bütçe durumunu göz önünde bulundurarak daha önce de aktarma yapabilir.
 
-Kurumun bütçe yılı takvim yılıdır. Kurumun giderleri, bankalar, finansal
-kiralama şirketleri, faktoring şirketleri ve finansman şirketlerince
-bütçenin yürürlüğe girmesinden önce katılma payı adı altında Kuruma
-yapılacak ödemelerle karşılanır. Giderlere katılma payı olarak tahsil
-olunacak tutar, söz konusu kuruluşların bir önceki yıl sonu bilanço
-toplamlarının onbinde üçünü geçemez. Belirlenen süre içerisinde
-ödenmeyen katılma payları 6183 sayılı Amme Alacaklarının Tahsil Usulü
-Hakkında Kanun hükümlerine göre tahsil edilir.
+**(Değişik: 20/6/2013-6493/41 md.)** Kurumun bütçe yılı takvim yılıdır.
+Kurumun giderleri, bankalar, finansal kiralama şirketleri,
+faktoringşirketleri, finansman şirketleri, ödeme kuruluşları ile
+elektronik para kuruluşlarınca bütçenin yürürlüğe girmesinden önce
+katılma payı adı altında Kuruma yapılacak ödemelerle karşılanır.
+Giderlere katılma payı olarak tahsil olunacak tutar, söz konusu
+kuruluşların bir önceki yıl sonu bilanço toplamlarının on binde üçünü
+geçemez. Belirlenen süre içinde ödenmeyen katılma payları 6183 sayılı
+Kanun hükümlerine göre tahsil edilir.
 
-**(Değişik dördüncü fıkra: 24/5/2007-5667/6 md.)** Kurumun iç denetimi
+             **(Değişik: 24/5/2007-5667/6 md.)** Kurumun iç denetimi
 Kurulca belirlenecek usûl ve esaslar çerçevesinde gerçekleştirilir.
 Kurumun dış denetimi hakkında 5018 sayılı Kamu Malî Yönetimi ve Kontrol
 Kanunu hükümleri uygulanır.
 
-Kurul, Kurumun yıllık hesaplarını bir bağımsız denetim şirketine
-denetletebilir ve bu durumda bağımsız denetim raporu faaliyet raporu
-içinde derc edilerek yayımlanır.
+             Kurul, Kurumun yıllık hesaplarını bir bağımsız denetim
+şirketine denetletebilir ve bu durumda bağımsız denetim raporu faaliyet
+raporu içinde derc edilerek yayımlanır.
 
-Kurum faaliyetlerine ilişkin olarak her yılın mart ayı sonuna kadar bir
-önceki yıla ait kararları, yaptığı ikincil düzenlemeler ile bunların
-ekonomik ve sosyal etkilerini analiz eden bir faaliyet raporu hazırlar.
-Faaliyet raporu, ayrıca Kurumun performans hedefleri ile uygulama
-sonuçlarının karşılaştırılmasını ve değerlendirilmesini de içerir.
+             Kurum faaliyetlerine ilişkin olarak her yılın mart ayı
+sonuna kadar bir önceki yıla ait kararları, yaptığı ikincil düzenlemeler
+ile bunların ekonomik ve sosyal etkilerini analiz eden bir faaliyet
+raporu hazırlar. Faaliyet raporu, ayrıca Kurumun performans hedefleri
+ile uygulama sonuçlarının karşılaştırılmasını ve değerlendirilmesini de
+içerir.
 
-Kurumun yıllık faaliyet raporu, malî tabloları ve bütçe kesin hesabı
-Türkiye Büyük Millet Meclisine sunulur. Kesinhesabın bir örneği de
-Maliye Bakanlığına gönderilir.
+             Kurumun yıllık faaliyet raporu, malî tabloları ve bütçe
+kesin hesabı Türkiye Büyük Millet Meclisine sunulur. Kesinhesabın bir
+örneği de Maliye Bakanlığına gönderilir.
 
-Kurum, faaliyetleri hakkında internet ortamı ve resmî bültenler
-aracılığıyla kamuoyunu azamî ölçüde bilgilendirir.
+             Kurum, faaliyetleri hakkında internet ortamı ve resmî
+bültenler aracılığıyla kamuoyunu azamî ölçüde bilgilendirir.
 
-*Ücretler, malî ve diğer sosyal haklar*
+*             Ücretler, malî ve diğer sosyal haklar*
 
-**Madde 102 —** Kurul Başkanına Başbakanlık Müsteşarı için belirlenen
-her türlü ödemeler dâhil malî ve sosyal haklar tutarında aylık ücret
-ödenir. Başbakanlık Müsteşarına ödenenlerden, vergi ve diğer yasal
-kesintilere tâbi olmayanlar bu Kanuna göre de vergi ve diğer kesintilere
-tâbi olmaz. Kurul üyelerine ise Kurul Başkanına yapılan ödemelerin yüzde
-doksanbeşi oranında aynı usûl ve esaslara göre ödeme yapılır.
+**             Madde 102 —** Kurul Başkanına Başbakanlık Müsteşarı için
+belirlenen her türlü ödemeler dâhil malî ve sosyal haklar tutarında
+aylık ücret ödenir. Başbakanlık Müsteşarına ödenenlerden, vergi ve diğer
+yasal kesintilere tâbi olmayanlar bu Kanuna göre de vergi ve diğer
+kesintilere tâbi olmaz. Kurul üyelerine ise Kurul Başkanına yapılan
+ödemelerin yüzde doksanbeşi oranında aynı usûl ve esaslara göre ödeme
+yapılır.
 
-Kurumun kadro karşılığı sözleşmeli personelinin ücretleri ile diğer malî
-ve sosyal hakları birinci fıkrada belirlenen ücret tavanını geçmemek
-üzere Kurul tarafından tespit edilir.
+             Kurumun kadro karşılığı sözleşmeli personelinin ücretleri
+ile diğer malî ve sosyal hakları birinci fıkrada belirlenen ücret
+tavanını geçmemek üzere Kurul tarafından tespit edilir.
 
-Kurum personeline Kurulca belirlenecek esaslar çerçevesinde fazla mesai
-ücreti ve performansa dayalı ödül verilebilir. Her halde Kurum
-personeline yapılacak ödeme tutarı birinci fıkrada belirlenen ücret
-tavanını geçemez.
+             Kurum personeline Kurulca belirlenecek esaslar çerçevesinde
+fazla mesai ücreti ve performansa dayalı ödül verilebilir. Her halde
+Kurum personeline yapılacak ödeme tutarı birinci fıkrada belirlenen
+ücret tavanını geçemez.
 
 9575
 
-Kurul Başkan ve üyeliklerine atananlar ile Kurum personeli hakkında 5434
-sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile ek ve
+########  
+
+             Kurul Başkan ve üyeliklerine atananlar ile Kurum personeli
+hakkında 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile ek ve
 değişikliklerine ilişkin hükümler uygulanır. Emeklilik ve diğer
 bakımlardan Kurul Başkanına bakanlık müsteşarı, Kurul üyelerine bakanlık
 müsteşar yardımcısı, Kurum başkan yardımcılarına bakanlık genel müdürü,
@@ -3036,31 +3240,31 @@ unvanların kazanılması için gerekli şartlar saklı kalmak üzere
 üniversite öğretim elemanı kadrolarından gelen Kurul Başkan ve üyeleri
 ile personel hakkında da uygulanır.
 
-Kurul başkan ve üyeliklerine atananlardan, emekliliğini hak edip talebi
-sonucu emeklilik işlemi tamamlanan Kurul üyelerinin üyelikleri görev
-süreleri sonuna kadar devam eder. Atama yapılmadan önce kanunla kurulmuş
-diğer sosyal güvenlik kurumlarına bağlı olanların, istekleri hâlinde bu
-kurumlara bağlılıkları devam eder ve bunlar hakkında yukarıdaki hükümler
-uygulanmaz.
+             Kurul başkan ve üyeliklerine atananlardan, emekliliğini hak
+edip talebi sonucu emeklilik işlemi tamamlanan Kurul üyelerinin
+üyelikleri görev süreleri sonuna kadar devam eder. Atama yapılmadan önce
+kanunla kurulmuş diğer sosyal güvenlik kurumlarına bağlı olanların,
+istekleri hâlinde bu kurumlara bağlılıkları devam eder ve bunlar
+hakkında yukarıdaki hükümler uygulanmaz.
 
-Türkiye Cumhuriyeti Emekli Sandığı dışındaki sosyal güvenlik
-kurumlarından emekli olan Kurul üyeleri, Türkiye Cumhuriyeti Emekli
-Sandığına yazı ile başvurdukları tarihi takip eden ayın başından
+             Türkiye Cumhuriyeti Emekli Sandığı dışındaki sosyal
+güvenlik kurumlarından emekli olan Kurul üyeleri, Türkiye Cumhuriyeti
+Emekli Sandığına yazı ile başvurdukları tarihi takip eden ayın başından
 itibaren Sandıkla ilişkilendirilir. Bu üyelerin diğer sosyal güvenlik
 kurumlarından aldıkları aylıkları kesilir ve ayrılışlarında çeşitli
 sosyal güvenlik kuruluşlarına prim ödeyerek geçen süreleri
 birleştirilmek suretiyle kendilerine 24.5.1983 tarihli ve 2829 sayılı
 Kanunun 8 inci maddesi uyarınca aylık bağlanır.
 
-Diğer personelin emeklilik açısından durumu 5434 sayılı Türkiye
-Cumhuriyeti Emekli Sandığı Kanunu ile ek ve değişikliklerine ilişkin
-hükümler dikkate alınmak suretiyle kıyasen belirlenir.
+             Diğer personelin emeklilik açısından durumu 5434 sayılı
+Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile ek ve değişikliklerine
+ilişkin hükümler dikkate alınmak suretiyle kıyasen belirlenir.
 
-Kurul başkan ve üyelerine, birinci fıkraya göre belirlenen ücretlerinin
-tutarında, damga vergisi hariç herhangi bir kesintiye tâbi
+             Kurul başkan ve üyelerine, birinci fıkraya göre belirlenen
+ücretlerinin tutarında, damga vergisi hariç herhangi bir kesintiye tâbi
 tutulmaksızın, her ay tazminat verilir.
 
-*Kurul üyelerinin görevden ayrılması*
+*             Kurul üyelerinin görevden ayrılması*
 
 **             Madde 103 —** Kurul Başkan ve üyeliklerine atananların
 Kurulda görev yaptıkları sürece önceki görevleri ile olan ilişkileri
@@ -3151,36 +3355,39 @@ K:2006/25 sayılı Kararı ile.)**
 
 9577
 
+########  
+
 ONBİRİNCİ KISIM
 
 *Faaliyet İzni Kaldırılan ve Fona Devredilen Bankalara İlişkin Hükümler*
 
-*Faaliyet izninin kaldırılması*
+*             Faaliyet izninin kaldırılması*
 
-**Madde 106 —** Bir bankanın bu Kanun hükümlerine göre faaliyet izninin
-kaldırılması hâlinde yönetim ve denetimi Fona intikal eder.
+**             Madde 106 —** Bir bankanın bu Kanun hükümlerine göre
+faaliyet izninin kaldırılması hâlinde yönetim ve denetimi Fona intikal
+eder.
 
-İznin kaldırılmasına ilişkin Kurul kararının Resmî Gazetede yayımlandığı
-tarihten itibaren, banka hakkındaki ihtiyatî tedbir dahil her türlü icra
-ve iflas takibatı durur ve yeni icra ve iflas takibi yapılamaz. Banka
-hakkında Fon haricinde üçüncü kişiler tarafından açılmış tüm dava, icra
-ve iflas takipleri mahkeme, icra ve iflas dairesi tarafından derhal Fona
-bildirilir.
+             İznin kaldırılmasına ilişkin Kurul kararının Resmî Gazetede
+yayımlandığı tarihten itibaren, banka hakkındaki ihtiyatî tedbir dahil
+her türlü icra ve iflas takibatı durur ve yeni icra ve iflas takibi
+yapılamaz. Banka hakkında Fon haricinde üçüncü kişiler tarafından
+açılmış tüm dava, icra ve iflas takipleri mahkeme, icra ve iflas dairesi
+tarafından derhal Fona bildirilir.
 
-Fon, yönetim ve denetimi kendisine intikal eden bankadaki sigortalı
-mevduatı ve sigortalı katılım fonunu doğrudan veya ilân edeceği başka
-bir banka aracılığı ile ödeyerek, mevduat ve katılım fonu sahipleri
-yerine bankanın doğrudan doğruya iflasını ister. Bu görev ve yetki
-münhasıran Fona aittir. Bu şekilde yapılacak iflas isteminde 2004 sayılı
-İcra ve İflas Kanununun 178 inci maddesinin ikinci fıkrası ve 179 uncu
-maddesinin iflasın ertelenmesine ilişkin hükümleri uygulanmaz.
+             Fon, yönetim ve denetimi kendisine intikal eden bankadaki
+sigortalı mevduatı ve sigortalı katılım fonunu doğrudan veya ilân
+edeceği başka bir banka aracılığı ile ödeyerek, mevduat ve katılım fonu
+sahipleri yerine bankanın doğrudan doğruya iflasını ister. Bu görev ve
+yetki münhasıran Fona aittir. Bu şekilde yapılacak iflas isteminde 2004
+sayılı İcra ve İflas Kanununun 178 inci maddesinin ikinci fıkrası ve 179
+uncu maddesinin iflasın ertelenmesine ilişkin hükümleri uygulanmaz.
 
-Fonun iflas talebi hakkında 1086 sayılı Hukuk Usulü Muhakemeleri
-Kanununun seri muhakeme usulü hükümleri uygulanır ve en geç altı ay
-içerisinde iflas talebi hakkında karar verilir.
+             Fonun iflas talebi hakkında 1086 sayılı Hukuk Usulü
+Muhakemeleri Kanununun seri muhakeme usulü hükümleri uygulanır ve en geç
+altı ay içerisinde iflas talebi hakkında karar verilir.
 
-Yönetim ve denetimi Fona intikal eden banka hakkında iflas kararı
-verilmesi hâlinde Fon, iflas masasına 2004 sayılı İcra ve İflas
+             Yönetim ve denetimi Fona intikal eden banka hakkında iflas
+kararı verilmesi hâlinde Fon, iflas masasına 2004 sayılı İcra ve İflas
 Kanununun 206 ncı maddesinde yer alan üçüncü sıradaki tüm imtiyazlı
 alacaklılardan önce, ancak Devletin ve sosyal güvenlik kuruluşlarının
 6183 sayılı Kanun kapsamındaki alacaklarından sonra gelmek üzere
@@ -3191,35 +3398,38 @@ inci, 219 uncu, 223 üncü, 234 üncü, 236 ncı, 249 uncu, 251 inci ve 254
 alacaklılar toplantısı ve iflas idaresi görev ve yetkilerine sahip
 olarak bankayı tasfiye eder.^(1)^
 
-İflasına hükmolunan bankanın Fona olan borçları, masanın nakit durumuna
-göre 2004 sayılı İcra ve İflas Kanununun 232 nci maddesinde gösterilen
-sıra cetvelinin kesinleşmesi beklenmeksizin ödenir. Alacaklılar sıra
-cetvelinin düzenlenmesinde İcra ve İflas Kanununun 232 nci maddesinde
-öngörülen üç aylık sürenin yetersiz kalması hâlinde iflas idaresinin
-talebi üzerine, Fon Kurulu tarafından üçer aylık ek süreler verilebilir.
+             İflasına hükmolunan bankanın Fona olan borçları, masanın
+nakit durumuna göre 2004 sayılı İcra ve İflas Kanununun 232 nci
+maddesinde gösterilen sıra cetvelinin kesinleşmesi beklenmeksizin
+ödenir. Alacaklılar sıra cetvelinin düzenlenmesinde İcra ve İflas
+Kanununun 232 nci maddesinde öngörülen üç aylık sürenin yetersiz kalması
+hâlinde iflas idaresinin talebi üzerine, Fon Kurulu tarafından üçer
+aylık ek süreler verilebilir.
 
-İflas kararı verilmeyen hallerde bankanın iradi tasfiyesi, banka genel
-kurul kararı aranmaksızın ve Türk Ticaret Kanununun anonim şirketlerin
-infisah ve tasfiyeye ilişkin hükümlerine tâbi olmaksızın tasfiye kurulu
-üyelerinin Fon tarafından atanması suretiyle gerçekleştirilir.
+             İflas kararı verilmeyen hallerde bankanın iradi tasfiyesi,
+banka genel kurul kararı aranmaksızın ve Türk Ticaret Kanununun anonim
+şirketlerin infisah ve tasfiyeye ilişkin hükümlerine tâbi olmaksızın
+tasfiye kurulu üyelerinin Fon tarafından atanması suretiyle
+gerçekleştirilir.
 
-Bu Kanunun 12 nci maddesi hükümlerine göre faaliyet izni kaldırılan
-yabancı banka şubeleri hakkında da bu madde hükümleri uygulanır. Bu
-şubelerin mevcut ve alacaklarının yurt dışına transferine ilişkin
-esaslar Fon tarafından belirlenir.
+             Bu Kanunun 12 nci maddesi hükümlerine göre faaliyet izni
+kaldırılan yabancı banka şubeleri hakkında da bu madde hükümleri
+uygulanır. Bu şubelerin mevcut ve alacaklarının yurt dışına transferine
+ilişkin esaslar Fon tarafından belirlenir.
 
-Fon, iflas ve/veya tasfiye masasının aktifindeki paralarla, iflas
-ve/veya tasfiye idaresi sıfatıyla tahsil ettiği paraları muhafaza ve
-nemalandırma hususunda 2004 sayılı İcra ve İflas Kanununun 9 uncu ve
+             Fon, iflas ve/veya tasfiye masasının aktifindeki paralarla,
+iflas ve/veya tasfiye idaresi sıfatıyla tahsil ettiği paraları muhafaza
+ve nemalandırma hususunda 2004 sayılı İcra ve İflas Kanununun 9 uncu ve
 sair ilgili maddelerine tâbi değildir. 492 sayılı Harçlar Kanununun 36
 ncı maddesinin birinci fıkrası hükmü bu paralar için uygulanmaz.
 
-Müflise ait menkul ve gayrimenkullerin satışında 2004 sayılı İcra ve
-İflas Kanunu, 2886 sayılı Devlet İhale Kanunu ve 4734 sayılı Kamu İhale
-Kanunu hükümleri uygulanmaz.
+             Müflise ait menkul ve gayrimenkullerin satışında 2004
+sayılı İcra ve İflas Kanunu, 2886 sayılı Devlet İhale Kanunu ve 4734
+sayılı Kamu İhale Kanunu hükümleri uygulanmaz.
 
-Bu madde hükümlerinin uygulanmasına ilişkin usûl ve esaslar, Kurulun
-görüşü alınmak suretiyle Fon tarafından yönetmelikle düzenlenir.
+             Bu madde hükümlerinin uygulanmasına ilişkin usûl ve
+esaslar, Kurulun görüşü alınmak suretiyle Fon tarafından yönetmelikle
+düzenlenir.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3231,81 +3441,85 @@ metne işlenmiştir.*
 
 9578
 
-*Fona devredilen bankalar ile ilgili hükümler*
+########  
 
-**Madde 107 —** Fon, bu Kanunun 71 inci maddesi hükümlerine göre
-ortaklarının temettü hariç ortaklık hakları ile yönetim ve denetimi
+*             Fona devredilen bankalar ile ilgili hükümler*
+
+**             Madde 107 —** Fon, bu Kanunun 71 inci maddesi hükümlerine
+göre ortaklarının temettü hariç ortaklık hakları ile yönetim ve denetimi
 kendisine devredilen bankalarla ilgili yetkilerini maliyet etkinliğini
 sağlama ve malî sistemin güven ve istikrarını koruma ilkeleri
 doğrultusunda kullanır.
 
-Fon, bu Kanunun 71 inci maddesi hükümlerine göre ortaklarının temettü
-hariç ortaklık hakları ile yönetim ve denetimi kendisine devredilen
-bankanın faaliyetlerini Fon Kurulunca belirlenecek süre ile geçici
-olarak durdurmaya ve/veya devir tarihi itibarıyla düzenlenecek
-bilançosunu esas almak suretiyle;
+             Fon, bu Kanunun 71 inci maddesi hükümlerine göre
+ortaklarının temettü hariç ortaklık hakları ile yönetim ve denetimi
+kendisine devredilen bankanın faaliyetlerini Fon Kurulunca belirlenecek
+süre ile geçici olarak durdurmaya ve/veya devir tarihi itibarıyla
+düzenlenecek bilançosunu esas almak suretiyle;
 
-a\) Uygun göreceği aktiflerini, teşkilatını ve aksine talebi olmayan
-personeli ile devir tarihi itibarıyla mevduat bankaları bakımından
-mevduat toplamları en yüksek beş bankaca uygulanan faiz oranları
-ortalamasını, katılım bankaları bakımından katılım fonu toplamları en
-yüksek üç bankaca uygulanan getiri oranları ortalamasını geçmemek üzere
-işlemiş faiz ve getirileri ile birlikte sigortaya tâbi tasarruf mevduatı
-ve katılım fonlarını ve pasifte yer alan karşılık kalemlerini, kurulacak
-bir bankaya ya da mevcut bankalardan istekli olanlara devretmeye ve
-aktif ve pasifi kısmen veya tamamen devredilen bankanın faaliyet izninin
-kaldırılmasını Kuruldan istemeye,
+             a) Uygun göreceği aktiflerini, teşkilatını ve aksine talebi
+olmayan personeli ile devir tarihi itibarıyla mevduat bankaları
+bakımından mevduat toplamları en yüksek beş bankaca uygulanan faiz
+oranları ortalamasını, katılım bankaları bakımından katılım fonu
+toplamları en yüksek üç bankaca uygulanan getiri oranları ortalamasını
+geçmemek üzere işlemiş faiz ve getirileri ile birlikte sigortaya tâbi
+tasarruf mevduatı ve katılım fonlarını ve pasifte yer alan karşılık
+kalemlerini, kurulacak bir bankaya ya da mevcut bankalardan istekli
+olanlara devretmeye ve aktif ve pasifi kısmen veya tamamen devredilen
+bankanın faaliyet izninin kaldırılmasını Kuruldan istemeye,
 
-b\) Hisselerine sahip olmak kaydıyla ve sigorta kapsamındaki mevduat ve
-katılım fonu tutarını aşmamak koşuluyla malî yardım sağlamaya ve
-kendisine intikal eden hisseleri temsil eden sermayeye karşılık gelen
+             b) Hisselerine sahip olmak kaydıyla ve sigorta kapsamındaki
+mevduat ve katılım fonu tutarını aşmamak koşuluyla malî yardım sağlamaya
+ve kendisine intikal eden hisseleri temsil eden sermayeye karşılık gelen
 zararları devralmaya,
 
-c\) Devralınacak zararlar sonucunda hisselerinin tamamına sahip
-olunamaması hâlinde, zararın ödenmiş sermaye tutarından düşülmesi
+             c) Devralınacak zararlar sonucunda hisselerinin tamamına
+sahip olunamaması hâlinde, zararın ödenmiş sermaye tutarından düşülmesi
 suretiyle hesaplanacak sermaye esas alınmak üzere bulunacak hisse
 bedelinin Fon Kurulunca belirlenecek süre içinde banka hissedarlarına
 ödenmesi karşılığında hisselerini devralmaya,
 
-d\) Faaliyet izninin kaldırılmasını Kuruldan istemeye,
+             d) Faaliyet izninin kaldırılmasını Kuruldan istemeye,
 
-Yetkilidir.
+             Yetkilidir.
 
-Devralınan zararlara istinaden yapılacak ödemelerin karşılığını temsil
-eden hisseler, üzerindeki her türlü hak ve takyidattan arî olarak Fona
-intikal eder.
+             Devralınan zararlara istinaden yapılacak ödemelerin
+karşılığını temsil eden hisseler, üzerindeki her türlü hak ve
+takyidattan arî olarak Fona intikal eder.
 
-Hakkında bu maddenin ikinci fıkrasının (a) bendi hükümleri uygulanan
-bankanın devredilen aktiflerinin toplamının devredilen pasiflerinin
-toplamını karşılamaması hâlinde aradaki fark sigorta kapsamındaki
-mevduat ve katılım fonu tutarını aşmamak kaydıyla Fon tarafından ödenir.
-Bu halde ve hakkında bu maddenin ikinci fıkrasının (a) bendi hükümleri
-uygulanan bankanın faaliyet izninin kaldırılması durumunda bu Kanunun
-106 ncı maddesinin ikinci ve 109 uncu maddesinin üçüncü fıkraları
-uygulanmaz. Bu Kanunun 106 ncı maddesine göre iflas masaları kurulması
-hâlinde, Fon ödediği tutar kadar iflas masasına 2004 sayılı İcra ve
-İflas Kanununun 206 ncı maddesinde yer alan üçüncü sırasındaki tüm
-imtiyazlı alacaklılardan önce, ancak Devletin ve sosyal güvenlik
-kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra
-gelmek üzere imtiyazlı alacaklı sıfatıyla iştirak eder.^(1)^
+             Hakkında bu maddenin ikinci fıkrasının (a) bendi hükümleri
+uygulanan bankanın devredilen aktiflerinin toplamının devredilen
+pasiflerinin toplamını karşılamaması hâlinde aradaki fark sigorta
+kapsamındaki mevduat ve katılım fonu tutarını aşmamak kaydıyla Fon
+tarafından ödenir. Bu halde ve hakkında bu maddenin ikinci fıkrasının
+(a) bendi hükümleri uygulanan bankanın faaliyet izninin kaldırılması
+durumunda bu Kanunun 106 ncı maddesinin ikinci ve 109 uncu maddesinin
+üçüncü fıkraları uygulanmaz. Bu Kanunun 106 ncı maddesine göre iflas
+masaları kurulması hâlinde, Fon ödediği tutar kadar iflas masasına 2004
+sayılı İcra ve İflas Kanununun 206 ncı maddesinde yer alan üçüncü
+sırasındaki tüm imtiyazlı alacaklılardan önce, ancak Devletin ve sosyal
+güvenlik kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından
+sonra gelmek üzere imtiyazlı alacaklı sıfatıyla iştirak eder.^(1)^
 
-Fon, hisselerinin çoğunluğu veya tamamı kendisine intikal eden bankanın;
+             Fon, hisselerinin çoğunluğu veya tamamı kendisine intikal
+eden bankanın;
 
-a\) Gerektiğinde malî ve teknik yardım da sağlamak suretiyle, varlık ve
-yükümlülüklerini kısmen veya tamamen, mevcut bankalardan istekli
-olanlara ya da kurulacak bir bankaya devretmeye veya bankayı istekli
-olan başka bir bankayla birleştirmeye,
+             a) Gerektiğinde malî ve teknik yardım da sağlamak
+suretiyle, varlık ve yükümlülüklerini kısmen veya tamamen, mevcut
+bankalardan istekli olanlara ya da kurulacak bir bankaya devretmeye veya
+bankayı istekli olan başka bir bankayla birleştirmeye,
 
-b\) Fon Kurulunca gerekli görülen hallerle sınırlı olmak üzere, malî
-bünyenin güçlendirilmesi ve yeniden yapılandırılması için gerektiğinde;
+             b) Fon Kurulunca gerekli görülen hallerle sınırlı olmak
+üzere, malî bünyenin güçlendirilmesi ve yeniden yapılandırılması için
+gerektiğinde;
 
-1\) Sermayesini artırmaya,
+             1) Sermayesini artırmaya,
 
-2\) Zorunlu karşılık ve umumi disponibilite yükümlülüklerinden
-kaynaklanan cezaî faizlerini kaldırmaya,
+             2) Zorunlu karşılık ve umumi disponibilite
+yükümlülüklerinden kaynaklanan cezaî faizlerini kaldırmaya,
 
-3\) İştirak, gayrimenkul ve diğer aktiflerini satın almaya veya bunları
-teminat olarak alıp karşılığında avans vermeye,
+             3) İştirak, gayrimenkul ve diğer aktiflerini satın almaya
+veya bunları teminat olarak alıp karşılığında avans vermeye,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3317,27 +3531,31 @@ metne işlenmiştir.*
 
 9579
 
-4\) Likidite ihtiyacını gidermek üzere mevduat koymaya,
+########  
 
-5\) Alacaklarını veya zararlarını devralmaya,
+             4) Likidite ihtiyacını gidermek üzere mevduat koymaya,
 
-6\) Varlık ve yükümlülükleri ile ilgili her türlü işlemi yapmaya ve nakde
-tahvilini sağlamaya,
+             5) Alacaklarını veya zararlarını devralmaya,
 
-c\) Sahip olduğu aktifleri iskonto uygulayarak veya sair suretlerle
-üçüncü kişilere satmaya ve gerekli göreceği her türlü tedbiri almaya,
+             6) Varlık ve yükümlülükleri ile ilgili her türlü işlemi
+yapmaya ve nakde tahvilini sağlamaya,
 
-d\) Hisselerini bu Kanunun 7 ve 8 inci maddelerindeki hükümlere istinaden
-Kuruldan izin alınmak kaydıyla ve Fon Kurulu tarafından belirlenecek
-usûl ve esaslar dahilinde üçüncü kişilere devretmeye,
+             c) Sahip olduğu aktifleri iskonto uygulayarak veya sair
+suretlerle üçüncü kişilere satmaya ve gerekli göreceği her türlü tedbiri
+almaya,
 
-Yetkilidir.
+             d) Hisselerini bu Kanunun 7 ve 8 inci maddelerindeki
+hükümlere istinaden Kuruldan izin alınmak kaydıyla ve Fon Kurulu
+tarafından belirlenecek usûl ve esaslar dahilinde üçüncü kişilere
+devretmeye,
 
-Bu madde hükümlerine göre yapılan devir işlemlerinde alacaklı ve
-borçluların rızası aranmaz.
+             Yetkilidir.
 
-71 inci madde kapsamında temettü hariç ortaklık hakları ile yönetim ve
-denetimi kendisine devredilen bankaların, malî bünyelerinin
+             Bu madde hükümlerine göre yapılan devir işlemlerinde
+alacaklı ve borçluların rızası aranmaz.
+
+             71 inci madde kapsamında temettü hariç ortaklık hakları ile
+yönetim ve denetimi kendisine devredilen bankaların, malî bünyelerinin
 güçlendirilmesi, yeniden yapılandırılması, devri, birleştirilmesi ve
 satışı ile ilgili süreç devrin yapıldığı tarihten itibaren en geç dokuz
 aylık bir süre içerisinde tamamlanır. Fon Kurulu kararı ile bu süre üç
@@ -3345,42 +3563,42 @@ ayı geçmemek üzere uzatılabilir. Bu süre içinde devir, birleşme veya
 satışın tamamlanamamış olması hâlinde Fonun talebi üzerine Kurul
 bankanın faaliyet iznini kaldırır.
 
-*Banka kaynaklarının istismarı*
+*             Banka kaynaklarının istismarı*
 
-**Madde 108 —** 71 inci maddenin birinci fıkrasının (e) bendi
-hükümlerine göre faaliyet izni kaldırılan veya Fona devredilen
+**             Madde 108 —** 71 inci maddenin birinci fıkrasının (e)
+bendi hükümlerine göre faaliyet izni kaldırılan veya Fona devredilen
 bankaların hâkim ortakları ve yöneticileri, bu Kanunun şahsi sorumluluğa
 ilişkin hükümleri saklı kalmak kaydıyla, kullandıkları kaynakları ve bu
 suretle uğranılan zararları Fon tarafından verilecek süre içerisinde
 iade ve tazmin etmekle mükelleftir.
 
-Bu maddenin uygulanmasında, bankaların hâkim ortaklarının ve
-yöneticilerinin; yönetim kurulu, kredi komiteleri, yöneticiler, şubeler
-ve diğer yetkili ve görevliler aracılığıyla veya sair suretlerle, banka
-kaynaklarını ve varlıklarını; rehnetmek, teminat göstermek, açıldığı
-tarih itibarıyla kredibilitesi olmadığı aşikâr bulunan kişilere kredi
-vermek, karşılığında kredi temin etmek amacıyla kredi kullandırmak, yurt
-içi ve yurt dışı banka ve malî kuruluşlar nezdinde depo ve sair adlarla
-hesap açtırmak veya bu hesapları teminat göstermek ve sair şekillerde
-doğrudan veya dolaylı olarak kendileri veya başkaları lehine para, mal,
-her türlü hak ve alacak temini amacıyla kullandıkları veya başkalarına
-kullandırdıkları banka kaynakları ve varlıkları, dolanlı kaynak olarak
-kullanılmış sayılır.
+             Bu maddenin uygulanmasında, bankaların hâkim ortaklarının
+ve yöneticilerinin; yönetim kurulu, kredi komiteleri, yöneticiler,
+şubeler ve diğer yetkili ve görevliler aracılığıyla veya sair
+suretlerle, banka kaynaklarını ve varlıklarını; rehnetmek, teminat
+göstermek, açıldığı tarih itibarıyla kredibilitesi olmadığı aşikâr
+bulunan kişilere kredi vermek, karşılığında kredi temin etmek amacıyla
+kredi kullandırmak, yurt içi ve yurt dışı banka ve malî kuruluşlar
+nezdinde depo ve sair adlarla hesap açtırmak veya bu hesapları teminat
+göstermek ve sair şekillerde doğrudan veya dolaylı olarak kendileri veya
+başkaları lehine para, mal, her türlü hak ve alacak temini amacıyla
+kullandıkları veya başkalarına kullandırdıkları banka kaynakları ve
+varlıkları, dolanlı kaynak olarak kullanılmış sayılır.
 
-Bu madde kapsamında kullanılan kaynaklar ve maruz kalınan zarar
-kapsamında iade ve tazmin talebine mesnet teşkil edecek işlemler ile
-iade ve tazmine konu edilecek tutarlar, ilgili bankada Kurumca yapılacak
-incelemeler sonucu ulaşılacak tespitler de dikkate alınarak Fon
-Kurulunca belirlenir.
+             Bu madde kapsamında kullanılan kaynaklar ve maruz kalınan
+zarar kapsamında iade ve tazmin talebine mesnet teşkil edecek işlemler
+ile iade ve tazmine konu edilecek tutarlar, ilgili bankada Kurumca
+yapılacak incelemeler sonucu ulaşılacak tespitler de dikkate alınarak
+Fon Kurulunca belirlenir.
 
-Bankanın faaliyet izninin kaldırılması hâlinde Fon tarafından verilecek
-süre içerisinde iade ve tazmin edilemeyen tutarlar Fon alacağı haline
-gelir ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
-hükümlerine göre takip ve tahsil edilir.
+             Bankanın faaliyet izninin kaldırılması hâlinde Fon
+tarafından verilecek süre içerisinde iade ve tazmin edilemeyen tutarlar
+Fon alacağı haline gelir ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
+Hakkında Kanun hükümlerine göre takip ve tahsil edilir.
 
-Bankanın Fona devrinden sonra Fon tarafından verilecek süre içerisinde
-kullanılan kaynakların ve bu suretle uğranılan zararın iade ve tazmin
-edilmemesi veya Fon tarafından uygun görülecek biçimde
+             Bankanın Fona devrinden sonra Fon tarafından verilecek süre
+içerisinde kullanılan kaynakların ve bu suretle uğranılan zararın iade
+ve tazmin edilmemesi veya Fon tarafından uygun görülecek biçimde
 teminatlandırılmaması veya bu ortaklara ait hisselerin Fon tarafından
 verilecek süre içinde üçüncü kişilere devredilmemesi hâlinde bu zarar
 veya kullanılan kaynakların miktarı dikkate alınmaksızın ortaklara ait
@@ -3391,86 +3609,93 @@ ve/veya Fona olan borçlarına mahsup edilir.
 
 9580
 
-Bu madde kapsamında kullanılan banka kaynağı ve bu suretle uğranılan
-zarar, Fon tarafından verilen süre içinde iade veya tazmin edilse veya
-Fon tarafından uygun görülecek biçimde teminatlandırılsa dahi bilançoda
-görülen bakiye zararın özkaynakları aştığının tespiti hâlinde Fon,
-bankanın faaliyet izninin kaldırılmasını Kuruldan istemeye yetkilidir.
-Bilançoda görülen zararın özkaynakları aşmaması hâlinde ise, Fon en az
-beş üyesinin aynı yöndeki oylarıyla alınan Fon Kurulu kararıyla hâkim
-ortaklar dışındaki ortaklara ait hisseleri, zararın ödenmiş sermaye
-tutarından düşülmesi suretiyle hesaplanacak sermaye esas alınmak üzere
-bulunacak bedel üzerinden Fon Kurulunca belirlenecek süre içinde banka
-hissedarlarına ödenmesi karşılığında devralmaya yetkilidir.
+########  
 
-*Faaliyet izni kaldırılan veya Fona devredilen bankalara ilişkin ortak
-hükümler*
+             Bu madde kapsamında kullanılan banka kaynağı ve bu suretle
+uğranılan zarar, Fon tarafından verilen süre içinde iade veya tazmin
+edilse veya Fon tarafından uygun görülecek biçimde teminatlandırılsa
+dahi bilançoda görülen bakiye zararın özkaynakları aştığının tespiti
+hâlinde Fon, bankanın faaliyet izninin kaldırılmasını Kuruldan istemeye
+yetkilidir. Bilançoda görülen zararın özkaynakları aşmaması hâlinde ise,
+Fon en az beş üyesinin aynı yöndeki oylarıyla alınan Fon Kurulu
+kararıyla hâkim ortaklar dışındaki ortaklara ait hisseleri, zararın
+ödenmiş sermaye tutarından düşülmesi suretiyle hesaplanacak sermaye esas
+alınmak üzere bulunacak bedel üzerinden Fon Kurulunca belirlenecek süre
+içinde banka hissedarlarına ödenmesi karşılığında devralmaya yetkilidir.
 
-**Madde 109 —** Faaliyet izni kaldırılan veya Fona devredilen bankaların
-ana sözleşmelerinde yer alan düzenlemelerin, Türk Ticaret Kanunu
-hükümlerine tâbi olmaksızın, genel kurul yapılmaksızın değiştirilmesine
-ve tescil ettirilmesine Fon yetkilidir.
+*             Faaliyet izni kaldırılan veya Fona devredilen bankalara
+ilişkin ortak hükümler*
 
-Fon, faaliyet izni kaldırılan veya Fona devredilen bankaların hâkim
-ortaklarından ve tüzel kişi ortaklarının sermayesinin yüzde onundan
-fazlasına sahip gerçek kişi hissedarlarından ve yöneticilerinden,
-bunların eşlerinden, üçüncü dereceye kadar kan ve ikinci dereceye kadar
-kayın hısımlarından, evlatlıklarından ve kendilerini evlat edinenlerden
-kendilerine ait taşınmaz ve iştiraklerini, haczi caiz olan taşınır hak
-ve alacaklarını ve menkul kıymetlerini, her türlü kazanç ve gelirleri
-ile yaşayış tarzına göre geçim kaynaklarını ve ayrıca bildirimden önceki
-iki yıl içinde ivazlı veya ivazsız olarak iktisap ettikleri veya
-devrettikleri taşınmaz, haczi caiz taşınır, hak, alacak ve menkul
-kıymetlerini gösterir birer mal beyannamesi vermelerini istemeye
-yetkilidir. Mal beyannamesinin en geç yedi gün içinde Fona verilmesi
-zorunludur. Bu mal beyanının hüküm ve sonuçları hakkında 2004 sayılı
-İcra ve İflas Kanununun ilgili hükümleri geçerlidir.
+**             Madde 109 —** Faaliyet izni kaldırılan veya Fona
+devredilen bankaların ana sözleşmelerinde yer alan düzenlemelerin, Türk
+Ticaret Kanunu hükümlerine tâbi olmaksızın, genel kurul yapılmaksızın
+değiştirilmesine ve tescil ettirilmesine Fon yetkilidir.
 
-Fon, faaliyet izni kaldırılan veya Fona devredilen bankada mevduat ve
-katılım fonu sahipleri ile diğer alacaklıların haklarını korumaya
-yönelik olarak gerekli göreceği her türlü tedbiri alır. Faaliyet izni
-kaldırılan veya Fona devredilen bankanın hâkim ortakları ve tüzel kişi
-ortaklarının sermayesinin yüzde onundan fazlasına sahip gerçek kişi
-hissedarları ve yöneticilerinin mal, hak ve alacaklarına Fonun talebi
-üzerine mahkeme tarafından teminat şartı aranmaksızın ihtiyatî tedbir
-veya ihtiyatî haciz konulabilir, bu kişilerin yurt dışına çıkışları
-yasaklanabilir. Bu şekilde alınan ihtiyatî tedbir ve ihtiyatî haciz
-kararları, karar tarihinden itibaren altı ay içinde dava, icra ve iflas
-takibine konu olmaz ise kendiliğinden ortadan kalkar. İlgililer hakkında
-2004 sayılı İcra ve İflas Kanununun 11 inci bab hükümlerine göre
-açılacak iptal davalarında aciz vesikası şartı aranmaz.
+             Fon, faaliyet izni kaldırılan veya Fona devredilen
+bankaların hâkim ortaklarından ve tüzel kişi ortaklarının sermayesinin
+yüzde onundan fazlasına sahip gerçek kişi hissedarlarından ve
+yöneticilerinden, bunların eşlerinden, üçüncü dereceye kadar kan ve
+ikinci dereceye kadar kayın hısımlarından, evlatlıklarından ve
+kendilerini evlat edinenlerden kendilerine ait taşınmaz ve
+iştiraklerini, haczi caiz olan taşınır hak ve alacaklarını ve menkul
+kıymetlerini, her türlü kazanç ve gelirleri ile yaşayış tarzına göre
+geçim kaynaklarını ve ayrıca bildirimden önceki iki yıl içinde ivazlı
+veya ivazsız olarak iktisap ettikleri veya devrettikleri taşınmaz, haczi
+caiz taşınır, hak, alacak ve menkul kıymetlerini gösterir birer mal
+beyannamesi vermelerini istemeye yetkilidir. Mal beyannamesinin en geç
+yedi gün içinde Fona verilmesi zorunludur. Bu mal beyanının hüküm ve
+sonuçları hakkında 2004 sayılı İcra ve İflas Kanununun ilgili hükümleri
+geçerlidir.
 
-Faaliyet izninin kaldırıldığı veya Fona devredildiği tarihten itibaren
-bankanın alacaklılarından temlik yoluyla alacak edinen borçlular, temlik
-yoluyla edindikleri alacakları ile bankaya olan borçlarının takasının
-yapılması veya mahsup edilmesi talebinde bulunamaz. Bu sonucu doğuracak
-takas ve mahsup işlemleri banka açısından geçersizdir.
+             Fon, faaliyet izni kaldırılan veya Fona devredilen bankada
+mevduat ve katılım fonu sahipleri ile diğer alacaklıların haklarını
+korumaya yönelik olarak gerekli göreceği her türlü tedbiri alır.
+Faaliyet izni kaldırılan veya Fona devredilen bankanın hâkim ortakları
+ve tüzel kişi ortaklarının sermayesinin yüzde onundan fazlasına sahip
+gerçek kişi hissedarları ve yöneticilerinin mal, hak ve alacaklarına
+Fonun talebi üzerine mahkeme tarafından teminat şartı aranmaksızın
+ihtiyatî tedbir veya ihtiyatî haciz konulabilir, bu kişilerin yurt
+dışına çıkışları yasaklanabilir. Bu şekilde alınan ihtiyatî tedbir ve
+ihtiyatî haciz kararları, karar tarihinden itibaren altı ay içinde dava,
+icra ve iflas takibine konu olmaz ise kendiliğinden ortadan kalkar.
+İlgililer hakkında 2004 sayılı İcra ve İflas Kanununun 11 inci bab
+hükümlerine göre açılacak iptal davalarında aciz vesikası şartı aranmaz.
 
-*Şahsi sorumluluk*
+             Faaliyet izninin kaldırıldığı veya Fona devredildiği
+tarihten itibaren bankanın alacaklılarından temlik yoluyla alacak edinen
+borçlular, temlik yoluyla edindikleri alacakları ile bankaya olan
+borçlarının takasının yapılması veya mahsup edilmesi talebinde
+bulunamaz. Bu sonucu doğuracak takas ve mahsup işlemleri banka açısından
+geçersizdir.
 
-**Madde 110 —** Bir bankanın yöneticilerinin ve denetçilerinin kanuna
-aykırı karar ve işlemleriyle banka hakkında 71 inci madde hükümlerinin
-uygulanmasına neden olduklarının tespiti hâlinde, bankaya verdikleri
-zararlarla sınırlı olarak bunların şahsi sorumlulukları yoluna
-gidilerek, Fon Kurulu kararına istinaden ve Fonun talebi üzerine
-doğrudan şahsen iflaslarına mahkemece karar verilebilir. Bu karar ve
-işlemler bankanın hâkim ortaklarına menfaat temini amacıyla yapıldığı
-takdirde, menfaat temin eden ortaklar hakkında da temin ettikleri
-menfaat üzerinden uygulanır. Bu suretle tahsil edilen tutarın Fon
-tarafından ödenen mevduat ve katılım fonu tutarı ve fer'ileri mahsup
+*             Şahsi sorumluluk*
+
+**             Madde 110 —** Bir bankanın yöneticilerinin ve
+denetçilerinin kanuna aykırı karar ve işlemleriyle banka hakkında 71
+inci madde hükümlerinin uygulanmasına neden olduklarının tespiti
+hâlinde, bankaya verdikleri zararlarla sınırlı olarak bunların şahsi
+sorumlulukları yoluna gidilerek, Fon Kurulu kararına istinaden ve Fonun
+talebi üzerine doğrudan şahsen iflaslarına mahkemece karar verilebilir.
+Bu karar ve işlemler bankanın hâkim ortaklarına menfaat temini amacıyla
+yapıldığı takdirde, menfaat temin eden ortaklar hakkında da temin
+ettikleri menfaat üzerinden uygulanır. Bu suretle tahsil edilen tutarın
+Fon tarafından ödenen mevduat ve katılım fonu tutarı ve fer'ileri mahsup
 edildikten sonra bakiye kısmı tasfiye hâlindeki veya iflasa tâbi bankaya
 iade edilir.
 
-Mahkemece iflasına karar verilenler hakkındaki takibi Fon yürütür.
+             Mahkemece iflasına karar verilenler hakkındaki takibi Fon
+yürütür.
 
 9581
 
-Bu madde hükmüne göre iflası istenenler hakkında mahkemece 2004 sayılı
-İcra ve İflas Kanununun 257 nci ve izleyen maddeleri hükümleri
-uygulanır.
+########  
 
-Bu Kanunun 106 ncı ve 109 uncu maddeleri hükümleri, bu maddeye göre
-şahsi iflası istenenler hakkında da uygulanır.
+             Bu madde hükmüne göre iflası istenenler hakkında mahkemece
+2004 sayılı İcra ve İflas Kanununun 257 nci ve izleyen maddeleri
+hükümleri uygulanır.
+
+             Bu Kanunun 106 ncı ve 109 uncu maddeleri hükümleri, bu
+maddeye göre şahsi iflası istenenler hakkında da uygulanır.
 
  
 
@@ -3482,38 +3707,42 @@ BİRİNCİ BÖLÜM
 
 *Tasarruf Mevduatı Sigorta Fonu*
 
-*Fonun kuruluş ve bağımsızlığı*
+*             Fonun kuruluş ve bağımsızlığı*
 
-**Madde 111 —** Bu Kanun ve ilgili diğer mevzuat ile verilen yetkiler
-çerçevesinde tasarruf sahiplerinin hak ve menfaatlerinin korunması
-amacıyla, mevduatın ve katılım fonlarının sigorta edilmesi, Fon
-bankalarının yönetilmesi, malî bünyelerinin güçlendirilmesi, yeniden
-yapılandırılması, devri, birleştirilmesi, satışı, tasfiyesi, Fon
-alacaklarının takip ve tahsili işlemlerinin yürütülmesi ve
-sonuçlandırılması, Fon varlık ve kaynaklarının idare edilmesi ve Kanunla
-verilen diğer görevlerin ifası için kamu tüzel kişiliğini haiz, idarî ve
-malî özerkliğe sahip Tasarruf Mevduatı Sigorta Fonu kurulmuştur.
+**             Madde 111 —** Bu Kanun ve ilgili diğer mevzuat ile
+verilen yetkiler çerçevesinde tasarruf sahiplerinin hak ve
+menfaatlerinin korunması amacıyla, mevduatın ve katılım fonlarının
+sigorta edilmesi, Fon bankalarının yönetilmesi, malî bünyelerinin
+güçlendirilmesi, yeniden yapılandırılması, devri, birleştirilmesi,
+satışı, tasfiyesi, Fon alacaklarının takip ve tahsili işlemlerinin
+yürütülmesi ve sonuçlandırılması, Fon varlık ve kaynaklarının idare
+edilmesi ve Kanunla verilen diğer görevlerin ifası için kamu tüzel
+kişiliğini haiz, idarî ve malî özerkliğe sahip Tasarruf Mevduatı Sigorta
+Fonu kurulmuştur.
 
-Fon görevini yaparken bağımsızdır. Fonun kararları yerindelik denetimine
-tâbi tutulamaz. Hiçbir organ, makam, merci veya kişi, Fon Kurulunun
-kararlarını etkilemek amacıyla emir ve talimat veremez.
+             Fon görevini yaparken bağımsızdır. Fonun kararları
+yerindelik denetimine tâbi tutulamaz. Hiçbir organ, makam, merci veya
+kişi, Fon Kurulunun kararlarını etkilemek amacıyla emir ve talimat
+veremez.
 
-Fon, Tasarruf Mevduatı Sigorta Fonu Kurulu ile Başkanlıktan oluşur.
+             Fon, Tasarruf Mevduatı Sigorta Fonu Kurulu ile Başkanlıktan
+oluşur.
 
-Fonun merkezi İstanbul'dadır. Fon, görevli ve yetkili olduğu alanın
-yoğun olduğu illerde olmak ve sayısı üçü geçmemek kaydıyla Bakanlar
-Kurulu kararıyla yurt içi temsilcilik ve tahsilat birimleri açabilir.
+             Fonun merkezi İstanbul'dadır. Fon, görevli ve yetkili
+olduğu alanın yoğun olduğu illerde olmak ve sayısı üçü geçmemek kaydıyla
+Bakanlar Kurulu kararıyla yurt içi temsilcilik ve tahsilat birimleri
+açabilir.
 
-Fon, 3346 sayılı Kamu İktisadi Teşebbüsleri ile Fonların Türkiye Büyük
-Millet Meclisince Denetlenmesinin Düzenlenmesi Hakkında Kanun, 2886
-sayılı Devlet İhale Kanunu ile 4734 sayılı Kamu İhale Kanunu hükümlerine
-tâbi değildir.
+             Fon, 3346 sayılı Kamu İktisadi Teşebbüsleri ile Fonların
+Türkiye Büyük Millet Meclisince Denetlenmesinin Düzenlenmesi Hakkında
+Kanun, 2886 sayılı Devlet İhale Kanunu ile 4734 sayılı Kamu İhale Kanunu
+hükümlerine tâbi değildir.
 
-Fon, görev ve yetkilerini etkin şekilde yerine getirmek amacıyla,
-yeterli sayı ve nitelikte personeli istihdam eder.
+             Fon, görev ve yetkilerini etkin şekilde yerine getirmek
+amacıyla, yeterli sayı ve nitelikte personeli istihdam eder.
 
-Fonun malları Devlet malı hükmündedir. Fonun mal, hak ve alacakları
-haczedilemez ve rehnedilemez.
+             Fonun malları Devlet malı hükmündedir. Fonun mal, hak ve
+alacakları haczedilemez ve rehnedilemez.
 
  
 
@@ -3521,29 +3750,29 @@ haczedilemez ve rehnedilemez.
 
 *Tasarruf Mevduatı Sigorta Fonu Kurulu*
 
-*Tasarruf Mevduatı Sigorta Fonu Kurulu*
+*             Tasarruf Mevduatı Sigorta Fonu Kurulu*
 
-**Madde 112 —** Tasarruf Mevduatı Sigorta Fonu Kurulu, Fonun karar
-organıdır. Fon Kurulu, biri başkan, biri ikinci başkan olmak üzere yedi
-üyeden oluşur. Fon Kurulu Başkanı Fonun da başkanıdır.
+**             Madde 112 —** Tasarruf Mevduatı Sigorta Fonu Kurulu,
+Fonun karar organıdır. Fon Kurulu, biri başkan, biri ikinci başkan olmak
+üzere yedi üyeden oluşur. Fon Kurulu Başkanı Fonun da başkanıdır.
 
-Başkanın izin, hastalık, yurt içi ve yurt dışı görevlendirme ve görevde
-bulunmadığı diğer hâller ile görevden alınması durumunda ikinci başkan,
-onun da bulunmadığı hâllerde Fon Kurulu tarafından belirlenecek bir üye
-Başkana vekâlet eder.
+             Başkanın izin, hastalık, yurt içi ve yurt dışı
+görevlendirme ve görevde bulunmadığı diğer hâller ile görevden alınması
+durumunda ikinci başkan, onun da bulunmadığı hâllerde Fon Kurulu
+tarafından belirlenecek bir üye Başkana vekâlet eder.
 
-*Fon Kurulu üyelerinin atanması*
+*             Fon Kurulu üyelerinin atanması*
 
-**Madde 113 —** Fon Kurulu üyelerinin, aşağıda belirtilen şartları
-taşımaları zorunludur:
+**             Madde 113 —** Fon Kurulu üyelerinin, aşağıda belirtilen
+şartları taşımaları zorunludur:
 
-a\) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A)
-fıkrasının (1), (4), (5), (6) ve (7) numaralı bentlerinde belirtilen
+             a) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin
+(A) fıkrasının (1), (4), (5), (6) ve (7) numaralı bentlerinde belirtilen
 şartları taşımak.
 
 9582
 
- 
+########  
 
              b) 8 inci maddenin birinci fıkrasının (a), (b), (c) ve (d)
 bentlerinde belirtilen şartları taşımak.
@@ -3584,14 +3813,14 @@ atandıklarının süresini tamamlar.^(1)^
 
              Fon Kurulu Başkan ve üyelerinin görev süreleri dolmadan
 herhangi bir nedenle görevlerine son verilemez. Ancak, ağır hastalık
-veya sakatlık nedeniyle iş göremeyecekleri, atanmaları için gerekli
+veya engellilik nedeniyle iş göremeyecekleri, atanmaları için gerekli
 şartları kaybettikleri, durumlarının 115 inci maddeye aykırı olduğu
 anlaşılan veya görevleri ile ilgili olarak işledikleri suçlardan dolayı
 haklarında verilen mahkûmiyet kararı kesinleşen Fon Kurulu Başkan ve
 üyelerinin görevleri Başbakan onayı ile sona erdirilir. Bunların yerine
 en geç bir ay içinde atama yapılır. Ayrıca, geçici iş göremezlik halinin
 üç aydan fazla sürmesi hâlinde, bu durumda olan üyelerin üyelikleri
-düşer ve bunların yerlerine bir ay içinde atama yapılır.
+düşer ve bunların yerlerine bir ay içinde atama yapılır. ^(2)^
 
 *             Fon Kurulu Başkan ve üyeleri ile Fon personeline ilişkin
 yasaklar*
@@ -3627,110 +3856,121 @@ maddesinde belirtilen cezalar verilir.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) 25/4/2012 tarihli ve 6300 sayılı Kanunun birinci maddesiyle bu
-fıkranın birinci cümlesinde* *yer alan “altı” ibaresi “beş” şeklinde,
-aynı fıkranın ikinci cümlesinde yer alan “yeniden atanamazlar.” ibaresi
-“bir defalığına tekrar atanabilirler.” şeklinde değiştirilmiş ve metne
+fıkranın birinci cümlesinde yer alan “altı” ibaresi “beş” şeklinde, aynı
+fıkranın ikinci cümlesinde yer alan “yeniden atanamazlar.” ibaresi “bir
+defalığına tekrar atanabilirler.” şeklinde değiştirilmiş ve metne
 işlenmiştir.*
+
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
+fıkrada yer alan “sakatlık” ibaresi “engellilik” olarak
+değiştirilmiştir.*
 
 9583
 
-Fon Kurulu Başkan ve üyeleri ile diğer personel, Fonla ilgili gizlilik
-taşıyan bilgileri ve ticari sırları, görevlerinden ayrılmış olsalar bile
-kanunen yetkili kılınan mercilerden başkasına açıklayamazlar,
-kendilerinin veya başkalarının menfaatine kullanamazlar.
+########  
 
-Fon Kurulu Başkan ve üyeleri 3628 sayılı Mal Bildiriminde Bulunulması,
-Rüşvet ve Yolsuzluklarla Mücadele Kanununa tâbidir.
+             Fon Kurulu Başkan ve üyeleri ile diğer personel, Fonla
+ilgili gizlilik taşıyan bilgileri ve ticari sırları, görevlerinden
+ayrılmış olsalar bile kanunen yetkili kılınan mercilerden başkasına
+açıklayamazlar, kendilerinin veya başkalarının menfaatine kullanamazlar.
 
-*Fon Kurulunun çalışma esasları*
+             Fon Kurulu Başkan ve üyeleri 3628 sayılı Mal Bildiriminde
+Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununa tâbidir.
 
-**Madde 116 —** Fon Kurulu en az haftada bir defa olmak üzere, gerekli
-hallerde toplanır. Toplantıyı Fon Kurulu Başkanı, yokluğunda ikinci
-başkan yönetir. Toplantının gündemi Başkan, yokluğunda ikinci başkan
-tarafından hazırlanarak toplantıdan en az bir gün önce Fon Kurulu
-üyelerine bildirilir. Gündem maddelerine geçmeden önce Başkan tarafından
-Fonun faaliyetleri hakkında Fon Kuruluna bilgi verilir. Gündeme yeni
-madde eklenebilmesi için toplantı başlamadan önce bir üyenin öneride
-bulunması ve önerilen maddenin gündeme eklenmesinin Fon Kurulunca kabul
-edilmesi gerekir.
+*             Fon Kurulunun çalışma esasları*
 
-Fon Kurulu en az beş üyenin hazır bulunması ile toplânır ve bu Kanunda
-belirtilen özel nisap gerektiren haller dışında en az dört üyenin aynı
-yöndeki oyuyla karar alır. Üyeler çekimser oy kullanamaz. Toplantıda
-karar yeter sayısı sağlanamadığı durumlarda izleyen toplantılarda,
-oylarda eşitlik olması hâlinde Fon Başkanının bulunduğu tarafın oyu
-üstün sayılarak karar alınır. Fon Kurulu kararı tutanakla tespit edilir
-ve karar tutanağı toplantı esnasında veya en geç toplantıyı izleyen
-işgünü, toplantıya katılan tüm üyeler tarafından imzalanır.
+**             Madde 116 —** Fon Kurulu en az haftada bir defa olmak
+üzere, gerekli hallerde toplanır. Toplantıyı Fon Kurulu Başkanı,
+yokluğunda ikinci başkan yönetir. Toplantının gündemi Başkan, yokluğunda
+ikinci başkan tarafından hazırlanarak toplantıdan en az bir gün önce Fon
+Kurulu üyelerine bildirilir. Gündem maddelerine geçmeden önce Başkan
+tarafından Fonun faaliyetleri hakkında Fon Kuruluna bilgi verilir.
+Gündeme yeni madde eklenebilmesi için toplantı başlamadan önce bir
+üyenin öneride bulunması ve önerilen maddenin gündeme eklenmesinin Fon
+Kurulunca kabul edilmesi gerekir.
 
-Geçerli mazereti olmaksızın bir takvim yılında toplam üç toplantıya
-katılmayan veya bir toplantıya katıldığı halde Fon Kurulu kararlarını
-süresi içinde imzalamayan veya karşı oy gerekçesini süresi içinde yazılı
-olarak bildirmeyen Fon Kurulu üyeleri üyelikten çekilmiş sayılır. Bu
-durum, Fon Kurulu kararı ile tespit edilir ve ilişkili Bakana
-bildirilir.
+             Fon Kurulu en az beş üyenin hazır bulunması ile toplânır ve
+bu Kanunda belirtilen özel nisap gerektiren haller dışında en az dört
+üyenin aynı yöndeki oyuyla karar alır. Üyeler çekimser oy kullanamaz.
+Toplantıda karar yeter sayısı sağlanamadığı durumlarda izleyen
+toplantılarda, oylarda eşitlik olması hâlinde Fon Başkanının bulunduğu
+tarafın oyu üstün sayılarak karar alınır. Fon Kurulu kararı tutanakla
+tespit edilir ve karar tutanağı toplantı esnasında veya en geç
+toplantıyı izleyen işgünü, toplantıya katılan tüm üyeler tarafından
+imzalanır.
 
-Herhangi bir nedenle üye sayısının Fon Kurulunun karar almasını imkânsız
-kılacak bir sayıya düşmesi hâlinde, toplantı nisabı sağlanacak şekilde
-bir ayı geçmemek üzere, kıdem sırasına göre Fon başkan yardımcıları
-vekâlet eder. Bu madde hükmüne istinaden Fon Kurulu üyeliği görevini
-yürüten Fon başkan yardımcılarının malî ve özlük haklarında bir
-değişiklik olmaz.
+             Geçerli mazereti olmaksızın bir takvim yılında toplam üç
+toplantıya katılmayan veya bir toplantıya katıldığı halde Fon Kurulu
+kararlarını süresi içinde imzalamayan veya karşı oy gerekçesini süresi
+içinde yazılı olarak bildirmeyen Fon Kurulu üyeleri üyelikten çekilmiş
+sayılır. Bu durum, Fon Kurulu kararı ile tespit edilir ve ilişkili
+Bakana bildirilir.
 
-Bu Kanunda belirtilen süreler saklı kalmak üzere, Fon Kurulu kararı,
-alındığı toplantı tarihinden itibaren en geç onbeş gün içinde
-gerekçeleri, varsa karşı oy gerekçeleri ve imzaları ile birlikte
+             Herhangi bir nedenle üye sayısının Fon Kurulunun karar
+almasını imkânsız kılacak bir sayıya düşmesi hâlinde, toplantı nisabı
+sağlanacak şekilde bir ayı geçmemek üzere, kıdem sırasına göre Fon
+başkan yardımcıları vekâlet eder. Bu madde hükmüne istinaden Fon Kurulu
+üyeliği görevini yürüten Fon başkan yardımcılarının malî ve özlük
+haklarında bir değişiklik olmaz.
+
+             Bu Kanunda belirtilen süreler saklı kalmak üzere, Fon
+Kurulu kararı, alındığı toplantı tarihinden itibaren en geç onbeş gün
+içinde gerekçeleri, varsa karşı oy gerekçeleri ve imzaları ile birlikte
 tekemmül ettirilir.
 
-Fon Kurulu Başkan ve üyeleri kendisi, eşi, evlatlığı ve üçüncü derece
-dâhil kan ve ikinci derece dâhil kayın hısımlarıyla ilgili konularda
-müzakere ve oylamaya katılamazlar. Bu durum karar metninde ayrıca
-belirtilir.
+             Fon Kurulu Başkan ve üyeleri kendisi, eşi, evlatlığı ve
+üçüncü derece dâhil kan ve ikinci derece dâhil kayın hısımlarıyla ilgili
+konularda müzakere ve oylamaya katılamazlar. Bu durum karar metninde
+ayrıca belirtilir.
 
-Fon Kurulu toplantıları gizlidir. İhtiyaç duyulması hâlinde
+             Fon Kurulu toplantıları gizlidir. İhtiyaç duyulması hâlinde
 görüşlerinden yararlanmak üzere uzman kişiler Fon Kurulu toplantısına
 davet edilebilir. Ancak Fon Kurulu kararları toplantıya dışardan
 katılanların yanında alınamaz.
 
-Fon Kurulunun düzenleyici nitelikteki kararları, tekemmül etmesinden
-itibaren en geç yedi iş günü içinde ilişkili Bakanlığa ve yayımlanmak
-üzere Başbakanlığa gönderilir ve gönderildiği tarihten itibaren en geç
-yedi gün içinde Resmî Gazetede yayımlanır. Bu Kanunda öngörülen hükümler
-saklı kalmak üzere, Fon Kurulu kararları başta internet ortamı olmak
-üzere uygun vasıtalarla kamuoyuna duyurulur. Fon Kurulu, yayımlanması
-ülke ekonomisi ve kamu düzeni açısından sakıncalı nitelikteki kararların
-yayımlanmamasına karar verebilir.
+             Fon Kurulunun düzenleyici nitelikteki kararları, tekemmül
+etmesinden itibaren en geç yedi iş günü içinde ilişkili Bakanlığa ve
+yayımlanmak üzere Başbakanlığa gönderilir ve gönderildiği tarihten
+itibaren en geç yedi gün içinde Resmî Gazetede yayımlanır. Bu Kanunda
+öngörülen hükümler saklı kalmak üzere, Fon Kurulu kararları başta
+internet ortamı olmak üzere uygun vasıtalarla kamuoyuna duyurulur. Fon
+Kurulu, yayımlanması ülke ekonomisi ve kamu düzeni açısından sakıncalı
+nitelikteki kararların yayımlanmamasına karar verebilir.
 
 9584
 
-Haklarında dava açılıp yürütülmelerinin durdurulmasına veya ihtiyatî
-tedbir kararı verilmesine rağmen, nihai aşamada iptal istemleri
+########  
+
+             Haklarında dava açılıp yürütülmelerinin durdurulmasına veya
+ihtiyatî tedbir kararı verilmesine rağmen, nihai aşamada iptal istemleri
 reddedilen bu Kanunun 130 uncu maddesinin (e) bendinde yer alan para
 cezalarına, işlemin ilgiliye tebliği tarihinden itibaren kanunî faiz
 uygulanır. Para cezaları 6183 sayılı Kanun hükümlerine göre tahsil
 olunur.
 
-Fon Kurulu üyeleri ile Fon personelinin uyacakları meslekî ve etik
-ilkeler ile Fon Kurulunun çalışma usûl ve esaslarına ilişkin diğer
-hususlar Fon tarafından çıkarılacak yönetmelikle düzenlenir.
+             Fon Kurulu üyeleri ile Fon personelinin uyacakları meslekî
+ve etik ilkeler ile Fon Kurulunun çalışma usûl ve esaslarına ilişkin
+diğer hususlar Fon tarafından çıkarılacak yönetmelikle düzenlenir.
 
-*Fon Kurulunun görev ve yetkileri *
+*             Fon Kurulunun görev ve yetkileri *
 
-**Madde 117 —** Fon Kurulu, bu Kanun ve diğer mevzuatla verilen görevler
-yanında ayrıca aşağıdaki görevleri yapar ve yetkileri kullanır:
+**             Madde 117 —** Fon Kurulu, bu Kanun ve diğer mevzuatla
+verilen görevler yanında ayrıca aşağıdaki görevleri yapar ve yetkileri
+kullanır:
 
-a\) Fonun ana stratejisini, performans ölçütlerini, amaç ve hedeflerini,
-hizmet kalite standartlarını belirlemek, insan kaynakları ve çalışma
-politikalarını oluşturmak, Fonun hizmet birimleri ve bunların görevleri
-hakkında öneride bulunmak.
+             a) Fonun ana stratejisini, performans ölçütlerini, amaç ve
+hedeflerini, hizmet kalite standartlarını belirlemek, insan kaynakları
+ve çalışma politikalarını oluşturmak, Fonun hizmet birimleri ve bunların
+görevleri hakkında öneride bulunmak.
 
-b\) Fonun ana stratejisi ile amaç ve hedeflerine uygun olarak hazırlanan
-bütçe teklifini görüşmek ve karara bağlamak.
+             b) Fonun ana stratejisi ile amaç ve hedeflerine uygun
+olarak hazırlanan bütçe teklifini görüşmek ve karara bağlamak.
 
-c\) Fonun performansını ve malî durumunu gösteren raporları onaylamak.
+             c) Fonun performansını ve malî durumunu gösteren raporları
+onaylamak.
 
-d\) Fon Başkanının önerisi üzerine, başkan yardımcıları ve daire
-başkanlarını atamak.
+             d) Fon Başkanının önerisi üzerine, başkan yardımcıları ve
+daire başkanlarını atamak.
 
  
 
@@ -3738,145 +3978,154 @@ başkanlarını atamak.
 
 *Başkanlık Teşkilatı*
 
-*Fon Başkanı*
+*             Fon Başkanı*
 
-**Madde 118 —** Fonun en üst yöneticisi olan Fon Başkanı, Fonun genel
-yönetiminden, temsilinden ve Fon Kurulunca alınan kararların
+**             Madde 118 —** Fonun en üst yöneticisi olan Fon Başkanı,
+Fonun genel yönetiminden, temsilinden ve Fon Kurulunca alınan kararların
 yürütülmesinden sorumludur.
 
-Fon Başkanının görev ve yetkileri şunlardır:
+             Fon Başkanının görev ve yetkileri şunlardır:
 
-a\) Fon Kurulu toplantılarının gündemini, gün ve saatini belirlemek,
-toplantıları idare etmek, gündeme alınmayan başvurular hakkında gerekli
-işlemleri yapmak ve bunlara ilişkin olarak Fon Kuruluna bilgi vermek.
+             a) Fon Kurulu toplantılarının gündemini, gün ve saatini
+belirlemek, toplantıları idare etmek, gündeme alınmayan başvurular
+hakkında gerekli işlemleri yapmak ve bunlara ilişkin olarak Fon Kuruluna
+bilgi vermek.
 
-b\) Fon Kurulu kararlarının yayımlanmasını veya tebliğini sağlamak, bu
-kararların gereğinin yerine getirilmesini temin etmek ve uygulanmasını
-izlemek.
+             b) Fon Kurulu kararlarının yayımlanmasını veya tebliğini
+sağlamak, bu kararların gereğinin yerine getirilmesini temin etmek ve
+uygulanmasını izlemek.
 
-c\) Hizmet birimlerinden gelen önerilere son şeklini vererek Fon Kuruluna
-sunmak.
-
-d\) Fon Kurulunun belirlediği stratejilere, amaç ve hedeflere uygun
-olarak, Fonun yıllık bütçesi ile malî tablolarını hazırlamak.
-
-e\) Hizmet birimlerinin verimli ve uyumlu bir biçimde çalışmasının en üst
-düzeyde organizasyonu ve koordinasyonunu sağlamak, Fon hizmet birimleri
-arasında çıkabilecek görev ve yetki sorunlarını çözmek.
-
-f\) Yıllık faaliyet raporlarını hazırlamak, amaç ve hedeflere, performans
-ölçütlerine göre faaliyetlerin değerlendirilmesini yaptırmak ve bunları
+             c) Hizmet birimlerinden gelen önerilere son şeklini vererek
 Fon Kuruluna sunmak.
 
-g\) Fonun faaliyet gösterdiği alanda strateji, politikalar ve ilgili
-mevzuat ile Başkanlığın ve çalışanların performans ölçütleri hakkında
-değerlendirme yapmak.
+             d) Fon Kurulunun belirlediği stratejilere, amaç ve
+hedeflere uygun olarak, Fonun yıllık bütçesi ile malî tablolarını
+hazırlamak.
 
-h\) Fonun diğer kuruluşlarla ilişkilerini yürütmek ve Fonu temsil etmek.
+             e) Hizmet birimlerinin verimli ve uyumlu bir biçimde
+çalışmasının en üst düzeyde organizasyonu ve koordinasyonunu sağlamak,
+Fon hizmet birimleri arasında çıkabilecek görev ve yetki sorunlarını
+çözmek.
 
-i\) Fon Kurulu tarafından atanması öngörülenler dışındaki Fon personelini
-atamak.
+             f) Yıllık faaliyet raporlarını hazırlamak, amaç ve
+hedeflere, performans ölçütlerine göre faaliyetlerin değerlendirilmesini
+yaptırmak ve bunları Fon Kuruluna sunmak.
 
-j\) Fon Başkanı adına imzaya yetkili personelin görev ve yetki alanını
-belirlemek.
+             g) Fonun faaliyet gösterdiği alanda strateji, politikalar
+ve ilgili mevzuat ile Başkanlığın ve çalışanların performans ölçütleri
+hakkında değerlendirme yapmak.
 
-k\) Fonun yönetim ve işleyişine ilişkin diğer görevleri yerine getirmek.
+             h) Fonun diğer kuruluşlarla ilişkilerini yürütmek ve Fonu
+temsil etmek.
 
-Başkan, Fon Kuruluna ilişkin olmayan görev ve yetkilerinden bir
-bölümünü, sınırlarını açıkça belirlemek ve yazılı olmak kaydıyla, alt
-kademelere devredebilir.
+             i) Fon Kurulu tarafından atanması öngörülenler dışındaki
+Fon personelini atamak.
+
+             j) Fon Başkanı adına imzaya yetkili personelin görev ve
+yetki alanını belirlemek.
+
+             k) Fonun yönetim ve işleyişine ilişkin diğer görevleri
+yerine getirmek.
+
+             Başkan, Fon Kuruluna ilişkin olmayan görev ve yetkilerinden
+bir bölümünü, sınırlarını açıkça belirlemek ve yazılı olmak kaydıyla,
+alt kademelere devredebilir.
 
 9585
 
-*Fon başkan yardımcıları*
+*             Fon başkan yardımcıları*
 
-**Madde 119 —** Fon Başkanına başkanlığa ilişkin görevlerinde yardımcı
-olmak üzere Fon Kurulu kararıyla iki başkan yardımcısı atanır. Başkan
-yardımcılarının 113 üncü maddede belirtilen şartları taşıması gerekir.
+**             Madde 119 —** Fon Başkanına başkanlığa ilişkin
+görevlerinde yardımcı olmak üzere Fon Kurulu kararıyla iki başkan
+yardımcısı atanır. Başkan yardımcılarının 113 üncü maddede belirtilen
+şartları taşıması gerekir.
 
-Fon başkan yardımcıları gerektiğinde sınırlarını yazılı olarak açıkça
-belirlemek şartıyla yetkilerinden bir kısmını alt kademelere
-devredebilir.
+             Fon başkan yardımcıları gerektiğinde sınırlarını yazılı
+olarak açıkça belirlemek şartıyla yetkilerinden bir kısmını alt
+kademelere devredebilir.
 
-*Fonun hizmet birimleri*
+*             Fonun hizmet birimleri*
 
-**Madde 120 —** Fonun hizmet birimleri, daire başkanlıkları şeklinde
-teşkilatlanmış anahizmet, danışma ve yardımcı hizmet birimlerinden
-oluşur. Ancak, daire başkanlıklarının sayısı onu geçemez.
+**             Madde 120 —** Fonun hizmet birimleri, daire başkanlıkları
+şeklinde teşkilatlanmış anahizmet, danışma ve yardımcı hizmet
+birimlerinden oluşur. Ancak, daire başkanlıklarının sayısı onu geçemez.
 
-Hizmet birimleri, bu Kanunda belirtilen faaliyet alanı, görev ve
-fonksiyonlara uygun olarak Fonun teklifi ve Bakanlar Kurulu kararıyla
-yürürlüğe konulan yönetmelikle belirlenir.
+             Hizmet birimleri, bu Kanunda belirtilen faaliyet alanı,
+görev ve fonksiyonlara uygun olarak Fonun teklifi ve Bakanlar Kurulu
+kararıyla yürürlüğe konulan yönetmelikle belirlenir.
 
-Fonda anahizmet birimi olarak Strateji Geliştirme Daire Başkanlığı
-kurulur. Hukuk, basın ve halkla ilişkiler, yönetim ve finans gibi
-alanlarda ihtiyaca göre sayıları toplam onbeşi geçmemek üzere Başkanlık
-müşaviri görevlendirilebilir. ^(1)^
+             Fonda anahizmet birimi olarak Strateji Geliştirme Daire
+Başkanlığı kurulur. Hukuk, basın ve halkla ilişkiler, yönetim ve finans
+gibi alanlarda ihtiyaca göre sayıları toplam onbeşi geçmemek üzere
+Başkanlık müşaviri görevlendirilebilir. ^(1)^
 
-İnsan kaynakları ve eğitim, idarî ve malî işler ve benzeri faaliyetleri
-yürütmek üzere Destek Hizmetleri Daire Başkanlığı kurulur. Bu daire
-başkanlığında biri Fon Kurulunun özel büro hizmetlerinde kullanılmak
-üzere en çok dört adet müdürlük kurulabilir.
+             İnsan kaynakları ve eğitim, idarî ve malî işler ve benzeri
+faaliyetleri yürütmek üzere Destek Hizmetleri Daire Başkanlığı kurulur.
+Bu daire başkanlığında biri Fon Kurulunun özel büro hizmetlerinde
+kullanılmak üzere en çok dört adet müdürlük kurulabilir.
 
-*Fon personeli*
+*             Fon personeli*
 
-**Madde 121 —** Bu Kanun ile Fona verilen görevlerin gerektirdiği görev
-ve hizmetler, Fon avukatları, Fon denetçisi ve denetçi yardımcıları, Fon
-uzmanı ve uzman yardımcılarından oluşan meslek personeli ile idarî
-personel eliyle yürütülür. Fonun her türlü personelinin bu Kanunun 113
-üncü maddesinin birinci fıkrasının (…) ^(2)^ bentlerinde yer alan
-nitelikleri taşımaları zorunludur. ^(2)^
+**             Madde 121 —** Bu Kanun ile Fona verilen görevlerin
+gerektirdiği görev ve hizmetler, Fon avukatları, Fon denetçisi ve
+denetçi yardımcıları, Fon uzmanı ve uzman yardımcılarından oluşan meslek
+personeli ile idarî personel eliyle yürütülür. Fonun her türlü
+personelinin bu Kanunun 113 üncü maddesinin birinci fıkrasının (…) ^(2)^
+bentlerinde yer alan nitelikleri taşımaları zorunludur. ^(2)^
 
-Başkan yardımcıları, daire başkanları, müdürler, başkanlık müşavirleri
-ve meslek personeli kadro karşılığı sözleşmeli statüde istihdam edilir.
-Kadro karşılığı sözleşmeli çalışan Fon personeli ücret, malî ve sosyal
-haklar dışında her türlü hak ve yükümlülükleri yönünden 657 sayılı
-Devlet Memurları Kanununa tâbidir.
+             Başkan yardımcıları, daire başkanları, müdürler, başkanlık
+müşavirleri ve meslek personeli kadro karşılığı sözleşmeli statüde
+istihdam edilir. Kadro karşılığı sözleşmeli çalışan Fon personeli ücret,
+malî ve sosyal haklar dışında her türlü hak ve yükümlülükleri yönünden
+657 sayılı Devlet Memurları Kanununa tâbidir.
 
-**(İptal üçüncü fıkra: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
-2005/139, K.: 2007/33 sayılı Kararı ile.;Yeniden düzenleme: 11/10/2011 -
-KHK - 662/71 md.)** Bu Kanunun ekinde yer alan (II) sayılı cetveldeki
+   **(İptal üçüncü fıkra: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
+2005/139, K.: 2007/33 sayılı Kararı ile.; Yeniden düzenleme: 11/10/2011
+- KHK - 662/71 md.)** Bu Kanunun ekinde yer alan (II) sayılı cetveldeki
 toplam kadro sayısı geçilmemek ve mevcut kadro unvanları veya 190 sayılı
 Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki
 cetvellerde yer alan kadro unvanlarıyla sınırlı olmak kaydıyla, kadro,
 sınıf, unvan ve derece değişikliklerine ilişkin usûl ve esaslar Fon
 Kurulunca belirlenir.
 
-Fonun anahizmet birimlerinde uzmanlık gerektiren işlerde meslek
-personeli çalıştırılması esastır.
+             Fonun anahizmet birimlerinde uzmanlık gerektiren işlerde
+meslek personeli çalıştırılması esastır.
 
-Fonun ikinci fıkrada belirtilenler dışında kalan ve ekli (III) sayılı
-cetvelde yer alan pozisyonlarda çalıştırılacak personeli idarî hizmet
-sözleşmesiyle istihdam edilir. **(İptal ikinci cümle: Anayasa
-Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı
-Kararı ile.)** İdarî hizmet sözleşmesiyle çalıştırılanlar emeklilik ve
-sosyal güvenlik yönünden 506 sayılı Sosyal Sigortalar Kanununa tâbidir.
+             Fonun ikinci fıkrada belirtilenler dışında kalan ve ekli
+(III) sayılı cetvelde yer alan pozisyonlarda çalıştırılacak personeli
+idarî hizmet sözleşmesiyle istihdam edilir. **(İptal ikinci cümle:
+Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33
+sayılı Kararı ile.)**  İdarî hizmet sözleşmesiyle çalıştırılanlar
+emeklilik ve sosyal güvenlik yönünden 506 sayılı Sosyal Sigortalar
+Kanununa tâbidir.
 
-Fonda çalışan personel başka kamu kurum ve kuruluşlarında geçici olarak
-görevlendirilemez.
+             Fonda çalışan personel başka kamu kurum ve kuruluşlarında
+geçici olarak görevlendirilemez.
 
-Fon denetçi yardımcılığı ile Fon uzman yardımcılığına atanacaklar,
-merkezî yarışma sınavıyla belirlenenler arasından seçilir. Fon uzman
-yardımcılığı ve Fon denetçi yardımcılığına atananlar, üç yıl çalışmak ve
-olumlu sicil almak kaydıyla Kamu Personeli Yabancı Dil Bilgisi Seviye
-Tespit Sınavından en az (C) düzeyinde veya buna denk kabul edilen
-uluslararası geçerliliği bulunan yabancı dil puanı alması, yeterlik
-sınavında başarılı olması ve konuları ile ilgili hazırlayacakları tezin
-oluşturulacak jüri tarafından kabul edilmesi hâlinde uzman veya denetçi
-olarak atanır ve bunlara bir
+             Fon denetçi yardımcılığı ile Fon uzman yardımcılığına
+atanacaklar, merkezî yarışma sınavıyla belirlenenler arasından seçilir.
+Fon uzman yardımcılığı ve Fon denetçi yardımcılığına atananlar, üç yıl
+çalışmak ve olumlu sicil almak kaydıyla Kamu Personeli Yabancı Dil
+Bilgisi Seviye Tespit Sınavından en az (C) düzeyinde veya buna denk
+kabul edilen uluslararası geçerliliği bulunan yabancı dil puanı alması,
+yeterlik sınavında başarılı olması ve konuları ile ilgili
+hazırlayacakları tezin oluşturulacak  jüri  tarafından  kabul  edilmesi 
+hâlinde uzman veya denetçi olarak atanır ve bunlara bir
 
 ––––––––––––
 
-*(1) Bu fıkrada yer alan “beşi” ibaresi, 24/5/2007 tarihli ve 5667
+*(1)  Bu fıkrada yer alan “beşi” ibaresi, 24/5/2007 tarihli ve 5667
 sayılı Kanunun 6 ncı maddesiyle “onbeşi” olarak değiştirilmiş ve metne
 işlenmiştir.*
 
 *(2) Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
-2007/33 sayılı Kararı ile; 121 inci maddenin birinci fıkrasının ikinci
+2007/33 sayılı Kararı ile; 121 inci maddenin birinci  fıkrasının ikinci
 cümlesinde yer alan “... (d) bendi hariç, diğer ...” ibaresi iptal
 edilmiştir.*
 
 9586
+
+########  
 
 defaya mahsus olmak üzere bir derece yükseltilmesi uygulanır. Mazereti
 olmaksızın tez hazırlamayan veya sınava girmeyen veya sınavda iki defa
@@ -3884,68 +4133,72 @@ başarısız olanlar diğer kamu kurum ve kuruluşlarındaki öğrenim
 durumlarına uygun kadrolara atanmak üzere Devlet Personel Başkanlığına
 bildirilir.
 
-Fonun meslek ve idarî personelinin yeterlik ve yarışma sınavları, (…)
-^(1)^ çalışma usûl ve esasları ile ilgili diğer hususlar Fon tarafından
-çıkarılacak bir yönetmelikle belirlenir. ^(1)\ ^
+             Fonun meslek ve idarî personelinin yeterlik ve yarışma
+sınavları, (…) ^(1)^ çalışma usûl ve esasları ile ilgili diğer hususlar
+Fon tarafından çıkarılacak bir yönetmelikle belirlenir. ^(1)\ ^
+
+########  
 
 DÖRDÜNCÜ BÖLÜM
 
 *Görev, Yetki ve Sorumluluk*
 
-*Fonun görev ve yetkileri*
+*             Fonun görev ve yetkileri*
 
-**Madde 122 —** Fon, bu Kanun ve ilgili diğer mevzuatla verilenler
-dışında aşağıdaki görevleri yapar ve yetkileri kullanır:
+**             Madde 122 —** Fon, bu Kanun ve ilgili diğer mevzuatla
+verilenler dışında aşağıdaki görevleri yapar ve yetkileri kullanır:
 
-a\) Fon Kurulu kararlarının uygulanmasını sağlamak.
+             a) Fon Kurulu kararlarının uygulanmasını sağlamak.
 
-b\) Fonun insan kaynakları politikalarını belirlemek.
+             b) Fonun insan kaynakları politikalarını belirlemek.
 
-c\) Yurt içi ve yurt dışı muadil kurumların katıldığı uluslararası malî,
-iktisadî ve meslekî teşekküllere üye olmak, görev alanına giren
-hususlarda yabancı ülkelerin yetkili mercileri ile mutabakat zaptı
-imzalamak.
+             c) Yurt içi ve yurt dışı muadil kurumların katıldığı
+uluslararası malî, iktisadî ve meslekî teşekküllere üye olmak, görev
+alanına giren hususlarda yabancı ülkelerin yetkili mercileri ile
+mutabakat zaptı imzalamak.
 
-d\) Kanunlarla verilen diğer görevleri yapmak.
+             d) Kanunlarla verilen diğer görevleri yapmak.
 
-Fon, Fon Kurulu kararıyla bu Kanunun uygulanmasına ilişkin yönetmelikler
-ve tebliğler çıkarmaya yetkilidir.
+             Fon, Fon Kurulu kararıyla bu Kanunun uygulanmasına ilişkin
+yönetmelikler ve tebliğler çıkarmaya yetkilidir.
 
-Fon, sigorta kapsamındaki mevduat ve katılım fonu üzerinden prim
-hesaplanmasına esas teşkil edecek gerekli bilgilerin gönderilmesini ve
-bu primlerin belirlediği esaslara göre yatırılıp yatırılmadığının
+             Fon, sigorta kapsamındaki mevduat ve katılım fonu üzerinden
+prim hesaplanmasına esas teşkil edecek gerekli bilgilerin gönderilmesini
+ve bu primlerin belirlediği esaslara göre yatırılıp yatırılmadığının
 denetlenmesini Kurumdan istemeye yetkilidir. Kurum, makul bir süre
 içerisinde, Fon tarafından istenen bilgileri temin etmek ve/veya
 denetimi yapmakla yükümlüdür.
 
-Fon, her türlü faaliyetinde, kuruluş kanununda verilen yetkiler saklı
-kalmak kaydıyla, kalkınma plânı, programlar ve hükûmet programında yer
-alan ilke, strateji ve politikalara uyar.
+             Fon, her türlü faaliyetinde, kuruluş kanununda verilen
+yetkiler saklı kalmak kaydıyla, kalkınma plânı, programlar ve hükûmet
+programında yer alan ilke, strateji ve politikalara uyar.
 
-Fonun hazırlayacağı düzenleme taslakları en az yedi gün süreyle Fonun
-internet sayfası başta olmak üzere uygun vasıtalarla kamuoyunun
-bilgisine sunulur.
+             Fonun hazırlayacağı düzenleme taslakları en az yedi gün
+süreyle Fonun internet sayfası başta olmak üzere uygun vasıtalarla
+kamuoyunun bilgisine sunulur.
 
-Kamu kurum ve kuruluşları, Kanun ile belirlenmiş görev alanlarında Fona
-gerekli yardımı sağlamakla yükümlüdür.
+             Kamu kurum ve kuruluşları, Kanun ile belirlenmiş görev
+alanlarında Fona gerekli yardımı sağlamakla yükümlüdür.
 
-*Fonun bilgi ve belge isteme yetkisi*
+*             Fonun bilgi ve belge isteme yetkisi*
 
-**Madde 123 —** Kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler,
-Devletin güvenliği ve temel dış yararlarına karşı ağır sonuçlar
-doğuracak hâller ile meslek sırrı, aile hayatının gizliliği ve savunma
-hakkına ilişkin hükümler saklı kalmak kaydıyla, özel kanunlardaki
-yasaklayıcı ve sınırlayıcı hükümler dikkate alınmaksızın gizli dahi olsa
-Fon tarafından bu Kanun kapsamında verilen görevler ile sınırlı olmak
-üzere istenecek her türlü bilgi ve belgeyi uygun süre ve ortamda,
-sürekli veya münferit olarak vermeye, istenecek defter ve belgeleri
-ibraz etmeye mecburdurlar.
+**             Madde 123 —** Kamu kurum ve kuruluşları ile gerçek ve
+tüzel kişiler, Devletin güvenliği ve temel dış yararlarına karşı ağır
+sonuçlar doğuracak hâller ile meslek sırrı, aile hayatının gizliliği ve
+savunma hakkına ilişkin hükümler saklı kalmak kaydıyla, özel
+kanunlardaki yasaklayıcı ve sınırlayıcı hükümler dikkate alınmaksızın
+gizli dahi olsa Fon tarafından bu Kanun kapsamında verilen görevler ile
+sınırlı olmak üzere istenecek her türlü bilgi ve belgeyi uygun süre ve
+ortamda, sürekli veya münferit olarak vermeye, istenecek defter ve
+belgeleri ibraz etmeye mecburdurlar.
 
-Bu madde kapsamında, ilgili kişi, kurum ve kuruluşlar Fonun
+             Bu madde kapsamında, ilgili kişi, kurum ve kuruluşlar Fonun
 belirleyeceği süre içerisinde söz konusu talebe cevap vermek ve gereken
 kolaylığı göstermekle yükümlüdürler.
 
 *–––––––––––*
+
+* *
 
 *(1) Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
 2007/33 sayılı Kararı ile; bu fıkrada yer alan“... nitelikleri ile ...”
@@ -3959,62 +4212,67 @@ BEŞİNCİ BÖLÜM
 
 *Çeşitli Hükümler*
 
-*Fonun hesap ve harcamalarının denetimi *
+*             Fonun hesap ve harcamalarının denetimi *
 
-**Madde 124 — (Değişik birinci fıkra: 24/5/2007-5667/6 md.)** Fonun iç
-denetimi Fon tarafından belirlenecek usûl ve esaslar çerçevesinde, dış
-denetimi ise Fonun yıllık gider hesapları ile harcamalarının Sayıştay
-tarafından incelenmesi suretiyle gerçekleştirilir.
+**             Madde 124 — (Değişik birinci fıkra: 24/5/2007-5667/6
+md.)** Fonun iç denetimi Fon tarafından belirlenecek usûl ve esaslar
+çerçevesinde, dış denetimi ise Fonun yıllık gider hesapları ile
+harcamalarının Sayıştay tarafından incelenmesi suretiyle
+gerçekleştirilir.
 
-Fonun yıllık hesapları bir bağımsız denetim şirketince de denetlenir ve
-bağımsız denetim raporu faaliyet raporu içinde derc edilerek yayımlanır.
+             Fonun yıllık hesapları bir bağımsız denetim şirketince de
+denetlenir ve bağımsız denetim raporu faaliyet raporu içinde derc
+edilerek yayımlanır.
 
-Fon, faaliyetlerine ilişkin olarak her yılın mart ayı sonuna kadar bir
-önceki yıla ait kararları, yaptığı düzenlemeler ile bunların ekonomik ve
-sosyal etkilerini analiz eden bir faaliyet raporu hazırlar. Faaliyet
-raporu, ayrıca Fonun performans hedefleri ile uygulama sonuçlarının
-karşılaştırılmasını ve değerlendirilmesini de içerir.
+             Fon, faaliyetlerine ilişkin olarak her yılın mart ayı
+sonuna kadar bir önceki yıla ait kararları, yaptığı düzenlemeler ile
+bunların ekonomik ve sosyal etkilerini analiz eden bir faaliyet raporu
+hazırlar. Faaliyet raporu, ayrıca Fonun performans hedefleri ile
+uygulama sonuçlarının karşılaştırılmasını ve değerlendirilmesini de
+içerir.
 
-Fonun yıllık faaliyet raporu, malî tabloları ve bütçe kesinhesabı
-Türkiye Büyük Millet Meclisine sunulur. Kesinhesabın bir örneği de
-Maliye Bakanlığına gönderilir.
+             Fonun yıllık faaliyet raporu, malî tabloları ve bütçe
+kesinhesabı Türkiye Büyük Millet Meclisine sunulur. Kesinhesabın bir
+örneği de Maliye Bakanlığına gönderilir.
 
-Fon, faaliyetleri hakkında internet ortamı ve resmî bültenler
-aracılığıyla kamuoyunu azamî ölçüde bilgilendirir.
+             Fon, faaliyetleri hakkında internet ortamı ve resmî
+bültenler aracılığıyla kamuoyunu azamî ölçüde bilgilendirir.
 
-Fon; dava, alacak, takip, tahsil, yeniden yapılandırma ve diğer
-faaliyetleri ile ilgili olarak üçer aylık dönemler itibarıyla
+             Fon; dava, alacak, takip, tahsil, yeniden yapılandırma ve
+diğer faaliyetleri ile ilgili olarak üçer aylık dönemler itibarıyla
 yayımlayacağı raporlarla kamuoyunu bilgilendirir. Fon, Türkiye Büyük
 Millet Meclisi Plân ve Bütçe Komisyonunu, faaliyetleri hakkında yılda
 bir defa yapılacak toplantı ile bilgilendirir.
 
-*Fon Kurulu Başkan ve üyeleri ile Fon personelinin ücretleri, malî ve
-diğer sosyal hakları*
+**            ** *Fon  Kurulu  Başkan  ve  üyeleri  ile  Fon
+personelinin ücretleri, malî ve diğer sosyal hakları*
 
-**Madde 125 —** Fon Kurulu Başkanına Başbakanlık Müsteşarı için
-belirlenen her türlü ödemeler dahil malî ve sosyal haklar tutarında
+**             Madde 125 —** Fon Kurulu Başkanına Başbakanlık Müsteşarı
+için belirlenen her türlü ödemeler dahil malî ve sosyal haklar tutarında
 aylık ücret ödenir. Başbakanlık Müsteşarına ödenenlerden, vergi ve diğer
 yasal kesintilere tâbi olmayanlar bu Kanuna göre de vergi ve diğer
 kesintilere tâbi olmaz. Kurul üyelerine ise Fon Kurulu Başkanına yapılan
 ödemelerin yüzde doksanbeşi oranında aynı esas ve usûllere göre ödeme
 yapılır.
 
-Fonun kadro karşılığı sözleşmeli personeli ile diğer personelinin
-ücretleri ve diğer malî ve sosyal hakları birinci fıkrada belirlenen
-ücret tavanını geçmemek üzere Fon Kurulu tarafından tespit edilir.
+             Fonun kadro karşılığı sözleşmeli personeli ile diğer
+personelinin ücretleri ve diğer malî ve sosyal hakları birinci fıkrada
+belirlenen ücret tavanını geçmemek üzere Fon Kurulu tarafından tespit
+edilir.
 
-Fon personeline Fon Kurulunca belirlenecek esaslar çerçevesinde fazla
-mesai ücreti ve performansa dayalı ödül verilebilir. Her halde Fon
-personeline yapılacak ödemeler tutarı birinci fıkrada belirlenen ücret
-tavanını geçemez. Fonun taraf olduğu davalarda Fonu temsil eden
-avukatlar lehine hükmolunan vekâlet ücretlerinin hak sahiplerine
-dağıtımı Fon Kurulunca belirlenecek esaslar çerçevesinde yapılır.
+             Fon personeline Fon Kurulunca belirlenecek esaslar
+çerçevesinde fazla mesai ücreti ve performansa dayalı ödül verilebilir.
+Her halde Fon personeline yapılacak ödemeler tutarı birinci fıkrada
+belirlenen ücret tavanını geçemez. Fonun taraf olduğu davalarda Fonu
+temsil eden avukatlar lehine hükmolunan vekâlet ücretlerinin hak
+sahiplerine dağıtımı Fon Kurulunca belirlenecek esaslar çerçevesinde
+yapılır.
 
-Fon Kurulu Başkan ve üyeliklerine atananlar ile başkan yardımcıları,
-daire başkanları, müdürler, başkanlık müşavirleri ve meslek personeli
-hakkında 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile ek ve
-değişikliklerine ilişkin hükümler uygulanır. Emeklilik ve diğer
-bakımlardan Fon Kurulu Başkanına bakanlık müsteşarı, Fon Kurulu
+             Fon Kurulu Başkan ve üyeliklerine atananlar ile başkan
+yardımcıları, daire başkanları, müdürler, başkanlık müşavirleri ve
+meslek personeli hakkında 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı
+Kanunu ile ek ve değişikliklerine ilişkin hükümler uygulanır. Emeklilik
+ve diğer bakımlardan Fon Kurulu Başkanına bakanlık müsteşarı, Fon Kurulu
 üyelerine bakanlık müsteşar yardımcısı, Fon başkan yardımcılarına
 bakanlık genel müdürü, 1 inci dereceli daire başkanlarına bakanlık genel
 müdür yardımcısı, başkanlık müşavirlerine bakanlık müşaviri, Fon
@@ -4031,7 +4289,7 @@ personel hakkında da uygulanır.
 
 9588
 
- 
+########  
 
              Fon Kurulu Başkan ve üyeliklerine atananlardan,
 emekliliğini hak edip talebi sonucu emeklilik işlemi tamamlanan Fon
@@ -4110,44 +4368,48 @@ değiştirilmiş ve metne işlenmiştir.*
 
 9589
 
-Fon Kurulu üyeleri ile Fon personelinin, görevden ayrılmış olsalar dahi,
-görevleriyle bağlantılı olarak işledikleri iddia edilen suçlardan dolayı
-başlatılan soruşturma ve kovuşturmalar, ilgili üye veya personelin
-talebi hâlinde, bunlarla vekâlet akdi yapmak suretiyle görevlendirilecek
-bir avukat tarafından takip edilir. Söz konusu davalara ilişkin dava
-giderleri ve Türkiye Barolar Birliğince açıklanan asgarî ücret
-tarifesinde belirlenen avukatlık ücretinin on beş katını aşmamak üzere
-avukatlık ücreti, Fon bütçesinden karşılanır.
+########  
 
-Fon Kurulu üyeleri ile Fon personeli aleyhine, Fon Kurulunun veya Fonun
-bu Kanunda yazılı görevlere ilişkin karar, eylem ve işlemleri sebebiyle,
-gerek görevlerinin ifası sırasında gerek görevden ayrılmalarından sonra,
-açılmış veya açılacak her türlü tazminat ve alacak davası, Fon aleyhine
-açılmış sayılır ve bu davalarda husumet Fona yöneltilir. Avukatlık
-ücreti ve dava masraflarına ilişkin yukarıdaki fıkra hükmü işbu hukuk
-davaları için de aynen geçerlidir. Yargılama sonucunda Fon aleyhine
-karar verilmesi ve kararın kesinleşmesi nedeniyle Fonun ödeme yapması
-hâlinde, Fon bu meblağı, ilgililerinden talep eder. Fonun, yaptığı
-ödemeleri ilgililerinden talep edebilmesi için, bu kişiler hakkında
-kusurlu olduklarına ilişkin mahkeme kararının kesinleşmesi gerekir.
+             Fon Kurulu üyeleri ile Fon personelinin, görevden ayrılmış
+olsalar dahi, görevleriyle bağlantılı olarak işledikleri iddia edilen
+suçlardan dolayı başlatılan soruşturma ve kovuşturmalar, ilgili üye veya
+personelin talebi hâlinde, bunlarla vekâlet akdi yapmak suretiyle
+görevlendirilecek bir avukat tarafından takip edilir. Söz konusu
+davalara ilişkin dava giderleri ve Türkiye Barolar Birliğince açıklanan
+asgarî ücret tarifesinde belirlenen avukatlık ücretinin on beş katını
+aşmamak üzere avukatlık ücreti, Fon bütçesinden karşılanır.
 
-Mülga 3182 sayılı Bankalar Kanununun 64 ve 65 inci maddeleri ile bu
-Kanunla yürürlükten kaldırılan 4389 sayılı Bankalar Kanununun 14 üncü
-maddesi ve bu Kanunun 71 inci maddesi uyarınca işlem yapılan bankalarla
-ilgili olarak Bakan, Kurul veya Fon Kurulu tarafından atanan yönetim
-kurulu ve denetleme kurulu üyeleri aleyhine görevlerinin ifası sebebiyle
-açılmış bulunan davalar da atamayı yapan ilgili mercii olan Kurum veya
-Fon aleyhine açılmış sayılır ve bu davalarda da husumet ilgili kuruma
-yöneltilir. Yargılama sonucunda ilgili kurum aleyhine karar verilmesi ve
-kararın kesinleşmesi nedeniyle, ödeme yapılması hâlinde, ilgili kurum bu
-meblağı, ilgililerinden talep eder. İlgili kurumun, yaptığı ödemeleri
-ilgililerinden talep edebilmesi için, bu kişiler hakkında kusurlu
-olduklarına ilişkin mahkeme kararının kesinleşmesi gerekir.
+             Fon Kurulu üyeleri ile Fon personeli aleyhine, Fon
+Kurulunun veya Fonun bu Kanunda yazılı görevlere ilişkin karar, eylem ve
+işlemleri sebebiyle, gerek görevlerinin ifası sırasında gerek görevden
+ayrılmalarından sonra, açılmış veya açılacak her türlü tazminat ve
+alacak davası, Fon aleyhine açılmış sayılır ve bu davalarda husumet Fona
+yöneltilir. Avukatlık ücreti ve dava masraflarına ilişkin yukarıdaki
+fıkra hükmü işbu hukuk davaları için de aynen geçerlidir. Yargılama
+sonucunda Fon aleyhine karar verilmesi ve kararın kesinleşmesi nedeniyle
+Fonun ödeme yapması hâlinde, Fon bu meblağı, ilgililerinden talep eder.
+Fonun, yaptığı ödemeleri ilgililerinden talep edebilmesi için, bu
+kişiler hakkında kusurlu olduklarına ilişkin mahkeme kararının
+kesinleşmesi gerekir.
 
-Fon tarafından bu Kanunun 134 üncü maddesi hükümlerine ve/veya bu
-Kanunla yürürlükten kaldırılan 4389 sayılı Bankalar Kanununun 15 inci
-maddesinin (7) numaralı fıkrasının (a) bendine istinaden atanan yönetim
-ve denetim kurulu üyeleri ile müdürler kurulu üyeleri ve tasfiye
+             Mülga 3182 sayılı Bankalar Kanununun 64 ve 65 inci
+maddeleri ile bu Kanunla yürürlükten kaldırılan 4389 sayılı Bankalar
+Kanununun 14 üncü maddesi ve bu Kanunun 71 inci maddesi uyarınca işlem
+yapılan bankalarla ilgili olarak Bakan, Kurul veya Fon Kurulu tarafından
+atanan yönetim kurulu ve denetleme kurulu üyeleri aleyhine görevlerinin
+ifası sebebiyle açılmış bulunan davalar da atamayı yapan ilgili mercii
+olan Kurum veya Fon aleyhine açılmış sayılır ve bu davalarda da husumet
+ilgili kuruma yöneltilir. Yargılama sonucunda ilgili kurum aleyhine
+karar verilmesi ve kararın kesinleşmesi nedeniyle, ödeme yapılması
+hâlinde, ilgili kurum bu meblağı, ilgililerinden talep eder. İlgili
+kurumun, yaptığı ödemeleri ilgililerinden talep edebilmesi için, bu
+kişiler hakkında kusurlu olduklarına ilişkin mahkeme kararının
+kesinleşmesi gerekir.
+
+             Fon tarafından bu Kanunun 134 üncü maddesi hükümlerine
+ve/veya bu Kanunla yürürlükten kaldırılan 4389 sayılı Bankalar Kanununun
+15 inci maddesinin (7) numaralı fıkrasının (a) bendine istinaden atanan
+yönetim ve denetim kurulu üyeleri ile müdürler kurulu üyeleri ve tasfiye
 memurları ve/veya yönetim ve denetimi veya hisseleri Fona intikal eden
 bankaların iştiraklerinde bu bankaları temsilen görev yapan yönetim ve
 denetim kurulu üyeleri, müdürler kurulu üyeleri ve/veya hisseleri Fona
@@ -4163,102 +4425,115 @@ Sigortalar Kurumu borçlarının ve her türlü işçi alacakları ile söz
 konusu şirketlerin tâbi olduğu ilgili diğer mevzuattan kaynaklanan
 borçlarının ödenmemiş olması nedeniyle şahsi sorumluluk yüklenemez.
 
-Fon Kurulu başkan ve üyeleri ile Fon tarafından atanan ve/veya görev
-yapan yukarıdaki fıkrada sayılan yöneticilerin, şirketlerin sermayesini
-kaybetmesinden ve/veya borca batık olmasından dolayı mahkemeye
-bildirimde bulunma yükümlülükleri yoktur. Bildirimde bulunmamaktan
-dolayı bu şahıslar hakkında 2004 sayılı İcra ve İflas Kanununun 179, 277
-ve devamı maddeleri ile 345/a maddeleri hükümleri uygulanmaz; 6762
-sayılı Türk Ticaret Kanununun 341 inci maddesi uyarınca şahsi sorumluluk
-davası açılamaz.
+             Fon Kurulu başkan ve üyeleri ile Fon tarafından atanan
+ve/veya görev yapan yukarıdaki fıkrada sayılan yöneticilerin,
+şirketlerin sermayesini kaybetmesinden ve/veya borca batık olmasından
+dolayı mahkemeye bildirimde bulunma yükümlülükleri yoktur. Bildirimde
+bulunmamaktan dolayı bu şahıslar hakkında 2004 sayılı İcra ve İflas
+Kanununun 179, 277 ve devamı maddeleri ile 345/a maddeleri hükümleri
+uygulanmaz; 6762 sayılı Türk Ticaret Kanununun 341 inci maddesi uyarınca
+şahsi sorumluluk davası açılamaz.
 
 9590
 
-Yönetim ve denetimi Fon tarafından devir alınmamış şirketlere Fon
-tarafından atanan yönetim ve denetim kurulu üyeleri ile müdürler,
-ortaklar genel kurulunca görevden alınamayacağı gibi, ibra edilmeyerek
-haklarında görev yaptıkları dönem veya dönemler dışında şahsi sorumluluk
-davası açılamaz.
+########  
 
-*Fon Kurulu kararlarına karşı yargı yolu*
+            Yönetim ve denetimi Fon tarafından devir alınmamış
+şirketlere Fon tarafından atanan yönetim ve denetim kurulu üyeleri ile
+müdürler, ortaklar genel kurulunca görevden alınamayacağı gibi, ibra
+edilmeyerek haklarında görev yaptıkları dönem veya dönemler dışında
+şahsi sorumluluk davası açılamaz.
 
-**Madde 128 —(Mülga birinci cümle: 2/7/2012-6352/105 md.)(…)** Fon
-Kurulu kararlarına karşı yapılan başvurular acele işlerden sayılır.
+*             Fon Kurulu kararlarına karşı yargı yolu*
 
-**(İptal ikinci fıkra: Ana. Mah.nin 9/3/2006 tarihli ve E.:2006/33,
-K.:2006/36 sayılı Kararı ile.)**
+**             Madde 128 — (Mülga birinci cümle: 2/7/2012-6352/105
+md.)** Fon Kurulu kararlarına karşı yapılan başvurular acele işlerden
+sayılır.
 
-*Fonun bütçesi*
+             **(İptal ikinci fıkra: Ana. Mah.nin 9/3/2006  tarihli ve
+E.:2006/33, K.:2006/36 sayılı Kararı ile.)**
 
-**Madde 129 —**.**(Değişik:8/3/2006-5472/1 md.)**
+*             Fonun bütçesi*
 
-Fon giderlerinin, Fon gelirleri ile karşılanması esastır. Fonun bütçe
-yılı, takvim yılıdır.
+**             Madde 129 —**.**(Değişik:8/3/2006-5472/1 md.)**
 
-Fon, bu Kanunda belirtilen usûl ve esaslar çerçevesinde kendisine tahsis
-edilen kaynaklarını görev ve yetkilerinin gerektirdiği ölçüde, serbestçe
-kullanır.
+             Fon giderlerinin, Fon gelirleri ile karşılanması esastır.
+Fonun bütçe yılı, takvim yılıdır.
 
-Fon mevcudunun kullanılış usûl ve esasları ile bu Kanunla Fona verilen
-yetkilerin kullanılmasına ilişkin diğer usûl ve esaslar Fon tarafından
-hazırlanacak yönetmelikte gösterilir. Fon giderleri Fon kaynaklarından
-karşılanır.
+             Fon, bu Kanunda belirtilen usûl ve esaslar çerçevesinde
+kendisine tahsis edilen  kaynaklarını görev ve yetkilerinin gerektirdiği
+ölçüde, serbestçe kullanır.
 
-Fonun giderleri Fon Kurulu kararıyla yürürlüğe giren, stratejik plânları
-ve performans hedefleri ile kurumsal, işlevsel ve ekonomik sınıflandırma
-sistemine göre hazırlanan yıllık bütçeye göre yapılır.
+             Fon mevcudunun kullanılış usûl ve esasları ile bu Kanunla
+Fona verilen yetkilerin kullanılmasına ilişkin diğer usûl ve esaslar
+Fon  tarafından hazırlanacak yönetmelikte  gösterilir. Fon giderleri Fon
+kaynaklarından karşılanır.
 
-*Fonun gelirleri*
+             Fonun giderleri Fon Kurulu kararıyla yürürlüğe giren,
+stratejik plânları ve performans hedefleri ile kurumsal, işlevsel ve
+ekonomik sınıflandırma sistemine göre hazırlanan yıllık bütçeye göre
+yapılır.
 
-**Madde 130 —** Fonun gelirleri;
+*             Fonun gelirleri*
 
-a\) Mevduat ve katılım fonu sigortası primlerinden,
+**             Madde 130 —** Fonun gelirleri;
 
-b\) 62 nci maddeye göre zamanaşımına uğrayan mevduat, katılım fonu,
-emanet ve alacaklardan,
+             a) Mevduat ve katılım fonu sigortası primlerinden,
 
-c\) Kuruluş izni verilen bankaların kurucularının, faaliyete geçiş
-tarihinden itibaren bir yıl içerisinde, bu Kanunun 7 nci maddesinde
-belirtilen asgarî sermayenin yüzde onu tutarında Fona yatıracakları
-sisteme giriş payından,
+             b) 62 nci maddeye göre zamanaşımına uğrayan mevduat,
+katılım fonu, emanet ve alacaklardan,
 
-d\) 18 inci madde hükümleri çerçevesinde, Fona yatırılacak tutarlardan,
+             c) Kuruluş izni verilen bankaların kurucularının, faaliyete
+geçiş tarihinden itibaren bir yıl içerisinde, bu Kanunun 7 nci
+maddesinde belirtilen asgarî sermayenin yüzde onu tutarında Fona
+yatıracakları sisteme giriş payından,
 
-e\) Bu Kanun hükümlerine aykırılık dolayısıyla hükmolunacak adlî para
-cezalarının yüzde ellisi ile verilecek idarî para cezalarının yüzde
-doksanından,
+             d) 18 inci madde hükümleri çerçevesinde, Fona yatırılacak
+tutarlardan,
 
-f\) Fon mevcudunun gelirleri ile sair gelirlerden,
+             e) Bu Kanun hükümlerine aykırılık dolayısıyla hükmolunacak
+adlî para cezalarının yüzde ellisi ile verilecek idarî para cezalarının
+yüzde doksanından,
 
-g\) 20 nci madde uyarınca Fona gelir kaydedilecek değerlerden,
+             f) Fon mevcudunun gelirleri ile sair gelirlerden,
 
-Oluşur.
+             g) 20 nci madde uyarınca Fona gelir kaydedilecek
+değerlerden,
+
+             Oluşur.
+
+ 
+
+ 
 
 9591
 
-*Fonun borçlanma ve avans yetkisi*
+########  
 
-**Madde 131 —** Fon, Hazine Müsteşarlığından izin almak kaydıyla
-borçlanabileceği gibi ihtiyaç hasıl olduğunda Fona ikrazen verilmek
-üzere Hazine Müşteşarlığınca özel tertip Devlet iç borçlanma senedi
-ihraç edilebilir. Özel tertip Devlet iç borçlanma senetlerinin faiz
-oranları ve geri ödeme şartları da dahil olmak üzere tâbi olacağı usûl
-ve esaslar Hazine Müsteşarlığı ile Fon tarafından müştereken belirlenir.
-Malî yıl bütçe kanunlarında yer alan borçlanma ile ilgili hükümler ile
-4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında
-Kanunun 5 ve 6 ncı maddeleri hükümleri bu senetler için de geçerlidir.
+*             Fonun borçlanma ve avans yetkisi*
 
-Fon, Kurum görüşü alınmak suretiyle Fon Kurulu kararı ile bankalardan
-ileride doğacak prim yükümlülüklerine mahsuben bir önceki yılda
-ödedikleri sigorta primi toplamına kadar avans alabilir. Avans
+**             Madde 131 —** Fon, Hazine Müsteşarlığından izin almak
+kaydıyla borçlanabileceği gibi ihtiyaç hasıl olduğunda Fona ikrazen
+verilmek üzere Hazine Müşteşarlığınca özel tertip Devlet iç borçlanma
+senedi ihraç edilebilir. Özel tertip Devlet iç borçlanma senetlerinin
+faiz oranları ve geri ödeme şartları da dahil olmak üzere tâbi olacağı
+usûl ve esaslar Hazine Müsteşarlığı ile Fon tarafından müştereken
+belirlenir. Malî yıl bütçe kanunlarında yer alan borçlanma ile ilgili
+hükümler ile 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin
+Düzenlenmesi Hakkında Kanunun 5 ve 6 ncı maddeleri hükümleri bu senetler
+için de geçerlidir.
+
+             Fon, Kurum görüşü alınmak suretiyle Fon Kurulu kararı ile
+bankalardan ileride doğacak prim yükümlülüklerine mahsuben bir önceki
+yılda ödedikleri sigorta primi toplamına kadar avans alabilir. Avans
 kullanımına ilişkin kararlarda uygulanacak faiz oranının belirtilmesi
 zorunludur.
 
-Olağanüstü hallerde, Fon kaynaklarının ihtiyacı karşılamaması durumunda
-Fonun talebi üzerine Merkez Bankasınca Fona avans verilebilir. Alınan
-avansın vadesi, tutarı, geri ödeme şekil ve şartları ile uygulanacak
-faiz oranı ve diğer hususlar Fonun görüşü alınarak Merkez Bankasınca
-belirlenir.
+             Olağanüstü hallerde, Fon kaynaklarının ihtiyacı
+karşılamaması durumunda Fonun talebi üzerine Merkez Bankasınca Fona
+avans verilebilir. Alınan avansın vadesi, tutarı, geri ödeme şekil ve
+şartları ile uygulanacak faiz oranı ve diğer hususlar Fonun görüşü
+alınarak Merkez Bankasınca belirlenir.
 
  
 
@@ -4266,63 +4541,67 @@ ALTINCI BÖLÜM
 
 *Takip ve Tahsil Usûlleri*
 
-*Fon alacaklarının takip ve tahsiline ilişkin yetki ve usûller*
+*             Fon alacaklarının takip ve tahsiline ilişkin yetki ve
+usûller*
 
-**Madde 132 —** Fonun, bu Kanunun 130 uncu maddesinde sayılan gelirleri
-ile 108 inci ve 135 inci maddesindeki alacaklarının takip ve tahsilinde
-6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri
-uygulanır.
+**             Madde 132 —** Fonun, bu Kanunun 130 uncu maddesinde
+sayılan gelirleri ile 108 inci ve 135 inci maddesindeki alacaklarının
+takip ve tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında
+Kanun hükümleri uygulanır.
 
-Fon, bu Kanunun 108 inci maddesinde sayılan alacakların takibine, banka
-kaynağının kullanıldığı tarihten itibaren banka defter, kayıt ve
-belgelerine göre anapara, her türlü faiz, komisyon ve sair giderlerin
-toplamından oluşan birikmiş alacak tutarı üzerinden, 130 uncu maddesinde
-sayılan alacakların takibine tahakkuk eden anapara üzerinden, 135 inci
-maddesinde belirtilen alacakların takibine ödemeye esas olmak üzere
-tespit edilen tutar üzerinden başlar ve 6183 sayılı Amme Alacaklarının
-Tahsil Usulü Hakkında Kanunun kapsamındaki alacaklara uygulanan oranda
-gecikme zammı uygular.
+             Fon, bu Kanunun 108 inci maddesinde sayılan alacakların
+takibine, banka kaynağının kullanıldığı tarihten itibaren banka defter,
+kayıt ve belgelerine göre anapara, her türlü faiz, komisyon ve sair
+giderlerin toplamından oluşan birikmiş alacak tutarı üzerinden, 130 uncu
+maddesinde sayılan alacakların takibine tahakkuk eden anapara üzerinden,
+135 inci maddesinde belirtilen alacakların takibine ödemeye esas olmak
+üzere tespit edilen tutar üzerinden başlar ve 6183 sayılı Amme
+Alacaklarının Tahsil Usulü Hakkında Kanunun kapsamındaki alacaklara
+uygulanan oranda gecikme zammı uygular.
 
-Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun
-uygulamasında anılan Kanunun Maliye Bakanlığı tahsil dairesi ve diğer
-makam, merci ve komisyonlara verdiği yetkileri kullanır.
+             Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında
+Kanunun uygulamasında anılan Kanunun Maliye Bakanlığı tahsil dairesi ve
+diğer makam, merci ve komisyonlara verdiği yetkileri kullanır.
 
-Borçlu veya borçlunun malları başka mahallerde bulunduğu takdirde, Fon,
-6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerini,
-kendi tahsil dairesi aracılığı ile uygulayabileceği gibi, tahsil dairesi
-bulunmayan mahallerde, o mahaldeki Maliye Bakanlığı tahsil dairesi
-aracılığıyla da uygulayabilir.
+             Borçlu veya borçlunun malları başka mahallerde bulunduğu
+takdirde, Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında
+Kanun hükümlerini, kendi tahsil dairesi aracılığı ile uygulayabileceği
+gibi, tahsil dairesi bulunmayan mahallerde, o mahaldeki Maliye Bakanlığı
+tahsil dairesi aracılığıyla da uygulayabilir.
 
-Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca
-takip ettiği alacaklarına ilişkin her türlü teminatın paraya
-çevrilmesinde de anılan Kanun hükümlerini uygulayabilir.
+             Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında
+Kanun uyarınca takip ettiği alacaklarına ilişkin her türlü teminatın
+paraya çevrilmesinde de anılan Kanun hükümlerini uygulayabilir.
 
-Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre
-yapacağı satışlarda; satış bedelinin vadeli tahsiline karar verebilir.
-Ancak, bu durumun ve vadeli satış şartlarının, satış ilânında ve satış
-şartnamesinde belirtilmesi zorunludur.
+             Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında
+Kanuna göre yapacağı satışlarda; satış bedelinin vadeli tahsiline karar
+verebilir. Ancak, bu durumun ve vadeli satış şartlarının, satış ilânında
+ve satış şartnamesinde belirtilmesi zorunludur.
 
-Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
-hükümlerine göre satışa arz ettiği mal, hak ve alacaklarla ilgili
+             Fon, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında
+Kanun hükümlerine göre satışa arz ettiği mal, hak ve alacaklarla ilgili
 ihaleye katılmaya, pey sürmeye ve alacağına mahsuben ihaleden mal, hak
 ve alacakları satın almaya yetkilidir.
 
 9592
 
-Bu Kanunun 107 nci maddesi uyarınca bir bankanın alacaklarının
-devralınması hâlinde bu alacaklar, devir tarihi itibarıyla Fon alacağı
-haline gelir ve bu alacaklarla ilgili olarak borçlu aleyhine 2004 sayılı
-İcra ve İflas Kanunu hükümlerine göre başlatılmış bulunan takipler ile
-alacağın tahsiline yönelik davalara kaldığı yerden devam edilir.
+ 
 
-Bu Kanunun 107 nci maddesi uyarınca devralınan alacaklar nedeniyle Fona
-borçlu olanların iflası hâlinde 2004 sayılı İcra ve İflas Kanununun 221
-inci maddesindeki iflas bürosu Fon temsilcisinin katılımıyla teşekkül
-eder. 2004 sayılı İcra ve İflas Kanununun 223 üncü maddesindeki iflas
-idaresinin, Fonun talep etmesi hâlinde üyelerinden en az biri, Fonun
-göstereceği iki kat aday arasından icra tetkik mercii tarafından
-seçilir. Fon, alacağının tahsili bakımından gerekli görürse iflas
-idaresinin en az iki üyesinin önereceği iki katı aday arasından
+            Bu Kanunun 107 nci maddesi uyarınca bir bankanın
+alacaklarının devralınması hâlinde bu alacaklar, devir tarihi itibarıyla
+Fon alacağı haline gelir ve bu alacaklarla ilgili olarak borçlu aleyhine
+2004 sayılı İcra ve İflas Kanunu hükümlerine göre başlatılmış bulunan
+takipler ile alacağın tahsiline yönelik davalara kaldığı yerden devam
+edilir.
+
+             Bu Kanunun 107 nci maddesi uyarınca devralınan alacaklar
+nedeniyle Fona borçlu olanların iflası hâlinde 2004 sayılı İcra ve İflas
+Kanununun 221 inci maddesindeki iflas bürosu Fon temsilcisinin
+katılımıyla teşekkül eder. 2004 sayılı İcra ve İflas Kanununun 223 üncü
+maddesindeki iflas idaresinin, Fonun talep etmesi hâlinde üyelerinden en
+az biri, Fonun göstereceği iki kat aday arasından icra tetkik mercii
+tarafından seçilir. Fon, alacağının tahsili bakımından gerekli görürse
+iflas idaresinin en az iki üyesinin önereceği iki katı aday arasından
 seçilmesini talep etmeye yetkilidir. Bu durumda, icra tetkik mercii
 iflas idaresinin asgarî iki üyesini Fonun önereceği adaylar arasından
 seçer. Fon bir üye seçtirmişse icra tetkik mercii diğer bir üyeyi alacak
@@ -4332,55 +4611,61 @@ adaylar arasından seçer. Fon iki üye seçtirmişse, diğer bir üye icra
 tetkik mercii tarafından alacaklı sayısı itibarıyla çoğunlukta olanların
 göstereceği iki aday arasından seçilir.
 
-Fon, takip ettiği alacaklar ile ilgili olarak iskonto da dâhil olmak
-üzere, her türlü tasarrufta bulunmaya, sulh olmaya, satmaya, geri
-almaya, alacağına mahsuben menkul ve gayrimenkul mallar ile her türlü
-hak ve alacakları belirleyeceği koşullar ile devralmaya ve alacağın
-yeniden itfa plânına bağlanması da dâhil olmak üzere borçlularla anlaşma
-yapmaya ve borçlularla yaptığı anlaşmalar kapsamında Fon Kurulunca
-belirlenecek usûl ve esaslar dâhilinde muhafaza tedbiri uygulayıp
-uygulamamaya, dava açıp açmamaya veya açılmış bulunan hukuk davalarının
-yapılan anlaşma süresince durdurulmasını mahkemeden istemeye yetkilidir.
+             Fon, takip ettiği alacaklar ile ilgili olarak iskonto da
+dâhil olmak üzere, her türlü tasarrufta bulunmaya, sulh olmaya, satmaya,
+geri almaya, alacağına mahsuben menkul ve gayrimenkul mallar ile her
+türlü hak ve alacakları belirleyeceği koşullar ile devralmaya ve
+alacağın yeniden itfa plânına bağlanması da dâhil olmak üzere
+borçlularla anlaşma yapmaya ve borçlularla yaptığı anlaşmalar kapsamında
+Fon Kurulunca belirlenecek usûl ve esaslar dâhilinde muhafaza tedbiri
+uygulayıp uygulamamaya, dava açıp açmamaya veya açılmış bulunan hukuk
+davalarının yapılan anlaşma süresince durdurulmasını mahkemeden istemeye
+yetkilidir.
 
-Fon, her türlü alacağın teminatını teşkil etmek üzere, Yeni Türk Lirası
-ve/veya yabancı para birimi üzerinden, ticari işletme rehni, taşınmaz
-rehni ve taşınır rehni dâhil olmak üzere her türlü aynî ve şahsi teminat
-almaya ehil ve yetkilidir.
+             Fon, her türlü alacağın teminatını teşkil etmek üzere, Yeni
+Türk Lirası ve/veya yabancı para birimi üzerinden, ticari işletme rehni,
+taşınmaz rehni ve taşınır rehni dâhil olmak üzere her türlü aynî ve
+şahsi teminat almaya ehil ve yetkilidir.
 
-Fon tarafından, bu Kanunun 71 inci maddesi uyarınca faaliyet izni
-kaldırılan veya yönetim ve denetimi Fona intikal eden bankalarla ilgili
-olarak, takibi şikayete bağlı suçlar dahil olmak üzere, bu Kanun
-hükümleri uyarınca yapılan başvurular üzerine açılmış veya açılacak her
-türlü ceza davalarında Fon, suçtan zarar gören olarak müdahil sıfatını
-kazanır. Bu davalara bağlı şahsî haklar dahi Fona ait olur.
+             Fon tarafından, bu Kanunun 71 inci maddesi uyarınca
+faaliyet izni kaldırılan veya yönetim ve denetimi Fona intikal eden
+bankalarla ilgili olarak, takibi şikayete bağlı suçlar dahil olmak
+üzere, bu Kanun hükümleri uyarınca yapılan başvurular üzerine açılmış
+veya açılacak her türlü ceza davalarında Fon, suçtan zarar gören olarak
+müdahil sıfatını kazanır. Bu davalara bağlı şahsî haklar dahi Fona ait
+olur.
 
-**(İptal onüçüncü fıkra: 22/7/2008 tarihli ve E.: 2008/66, K.: 2008/131
-sayılı Kararı ile.) **
+             **(İptal onüçüncü fıkra: 22/7/2008 tarihli ve E.: 2008/66,
+K.: 2008/131 sayılı Kararı ile.) **
 
-Bu maddenin uygulanmasına ilişkin usûl ve esaslar Fon tarafından
-yönetmelik ile düzenlenir.
+             Bu maddenin uygulanmasına ilişkin usûl ve esaslar Fon
+tarafından yönetmelik ile düzenlenir.
 
-*Sorumluluk davalarına ilişkin istisnai yetkiler*
+*             Sorumluluk davalarına ilişkin istisnai yetkiler*
 
-**Madde 133 —** Faaliyet izni kaldırılan bankaların tasfiyelerinin
-tamamlanması ancak iflas veya tasfiye masa alacaklarının tahsil
-edilememiş olması hâlinde, bankanın sorumlulukları tespit edilen
+**             Madde 133 —** Faaliyet izni kaldırılan bankaların
+tasfiyelerinin tamamlanması ancak iflas veya tasfiye masa alacaklarının
+tahsil edilememiş olması hâlinde, bankanın sorumlulukları tespit edilen
 ortakları, yönetim kurulu eski üyeleri ve denetçileri aleyhine varsa
 ibralarının iptali ve işlemleri nedeniyle verdikleri zararın tazmini
 için tasfiyenin tamamlanmasını müteakip beş yıl içinde Fon tarafından
 dava açılabilir.
 
-Fon bankalarının hisselerinin üçüncü kişilere devir veya intikali
-hâlinde banka tarafından, bankanın eski ortakları, yöneticileri ve
-denetçileri hakkında açılmış olan dava ve takiplere Fon tarafından
+             Fon bankalarının hisselerinin üçüncü kişilere devir veya
+intikali hâlinde banka tarafından, bankanın eski ortakları, yöneticileri
+ve denetçileri hakkında açılmış olan dava ve takiplere Fon tarafından
 kanunî halef sıfatıyla kaldığı yerden devam olunur. Bu dava ve takipler
 sonucunda hükmolunacak tutarlar Fona ait olur. Bu bankaların başka bir
 bankaya devredilmesi ya da başka bir banka ile birleşmesi, hisselerinin
 üçüncü kişilere devredilmesi ya da tasfiyelerine karar verilmesi
-hâlinde, bu işlemlerin tamamlanmasını takip eden beş yıl içinde bankanın
-sorumlulukları tespit edilen
+hâlinde, bu  işlemlerin  tamamlanmasını takip eden beş yıl içinde
+bankanın sorumlulukları tespit edilen
+
+ 
 
 9593
+
+########  
 
 yönetim kurulu eski üyeleri ve eski denetçileri aleyhine varsa
 ibralarının iptali ve işlemleri nedeniyle verdikleri zararın Fon adına
@@ -4388,78 +4673,82 @@ tazmini istemi ile Fon tarafından dava açılabilir. Dava açılmasına dair
 Fon Kurulu kararı dava şartı olarak aranan genel kurul kararı yerine
 geçer.
 
-Bu madde kapsamında açılan veya açılacak davalar ile kanunî halef
-sıfatıyla takip edilen davalarda, lehine hükmedilen tarafa vekâlet
+             Bu madde kapsamında açılan veya açılacak davalar ile kanunî
+halef sıfatıyla takip edilen davalarda, lehine hükmedilen tarafa vekâlet
 ücreti maktu olarak belirlenir.
 
-*Fonun alacaklarının tahsiline ilişkin diğer yetkiler*
+*             Fonun alacaklarının tahsiline ilişkin diğer yetkiler*
 
-**Madde 134 —** Fon, alacağının tahsili bakımından yarar görmesi hâlinde
-ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon bankalarının;
+**             Madde 134 —** Fon, alacağının tahsili bakımından yarar
+görmesi hâlinde ve Fona borçlu olup olmadıklarına bakılmaksızın, Fon
+bankalarının;
 
-a\) Yönetim ve denetimine sahip olduğu iştiraklerinin,
+             a) Yönetim ve denetimine sahip olduğu iştiraklerinin,
 
-b\) Hâkim ortağı olan tüzel kişilerin,
+             b) Hâkim ortağı olan tüzel kişilerin,
 
-c\) Gerçek ve tüzel kişi hâkim ortaklarının hâkim ortak olduğu
-şirketlerin,
+             c) Gerçek ve tüzel kişi hâkim ortaklarının hâkim ortak
+olduğu şirketlerin,
 
-d\) Yukarıda sayılan kişiler adına hareket eden veya onlar hesabına kendi
-adına para, mal veya hak edinen şirketlerin ortaklarının,
+             d) Yukarıda sayılan kişiler adına hareket eden veya onlar
+hesabına kendi adına para, mal veya hak edinen şirketlerin ortaklarının,
 
-Bu maddede belirtilen şirketlerde sahip oldukları hisselerinin tamamına
-ve/veya bir kısmına ilişkin temettü hariç ortaklık hakları ile bu
-şirketlerin yönetim ve denetimini devralmaya ve şirket ana sözleşmesinde
-belirlenen yönetim, müdürler ve denetim kurulu üyelerinin sayılarıyla
-bağlı kalmaksızın ve imtiyazlı hisselere dayanılarak atanıp
-atanmadıklarına bakılmaksızın görevden almak ve/veya üye sayısını
-artırmak ve/veya eksiltmek suretiyle bu kurullara üye atamaya
-yetkilidir.
+             Bu maddede belirtilen şirketlerde sahip oldukları
+hisselerinin tamamına ve/veya bir kısmına ilişkin temettü hariç ortaklık
+hakları ile bu şirketlerin yönetim ve denetimini devralmaya ve şirket
+ana sözleşmesinde belirlenen yönetim, müdürler ve denetim kurulu
+üyelerinin sayılarıyla bağlı kalmaksızın ve imtiyazlı hisselere
+dayanılarak atanıp atanmadıklarına bakılmaksızın görevden almak ve/veya
+üye sayısını artırmak ve/veya eksiltmek suretiyle bu kurullara üye
+atamaya yetkilidir.
 
-Doğrudan ya da dolaylı olarak Fonun yönetim ve denetimini devraldığı
-bankaların veya şirketlerin ve/veya bu madde uyarınca yönetimini ve
-denetimini devir aldığı şirketlerin ve Fon iştiraklerinin ortak
-sayısının, 6762 sayılı Türk Ticaret Kanunu ve özel kanunlarda belirtilen
-zorunlu ortak sayısının altına düşmesi hâlinde tüzel kişiliklerine halel
-gelmez.
+             Doğrudan ya da dolaylı olarak Fonun yönetim ve denetimini
+devraldığı bankaların veya şirketlerin ve/veya bu madde uyarınca
+yönetimini ve denetimini devir aldığı şirketlerin ve Fon iştiraklerinin
+ortak sayısının, 6762 sayılı Türk Ticaret Kanunu ve özel kanunlarda
+belirtilen zorunlu ortak sayısının altına düşmesi hâlinde tüzel
+kişiliklerine halel gelmez.
 
-Fonun yönetim ve denetimine sahip olduğu şirketlerin ve/veya bu fıkra
-uyarınca yönetimini ve denetimini devir aldığı şirketlerin, Fon
-tarafından atanan yönetim ve denetim kurulu üyeleri ve müdürleri ile
-Fonun atadığı bu yöneticiler tarafından şirketi temsil ve ilzam ile
-yetkili kılınan genel müdür, genel müdür yardımcısı ve müdür gibi şirket
-çalışanları veya Fon, bu fıkrada sayılan gerçek veya tüzel kişilere ait
-şirket hisselerinin ve/veya bu şirketlerdeki lisans, ruhsat, 13.4.1994
-tarihli ve 3984 sayılı Kanunun geçici 6 ncı maddesi hükmü kapsamında
-geçici frekans ve kanal kullanımı ve imtiyaz sözleşmelerinden doğan
-hakları dahil olmak üzere diğer tüm hak ve varlıklarının ve/veya bu
-hisselerle orantılı aktiflerinin satışını gerçekleştirmeye ve bu
-satışlardan elde edilen tutarları Fon alacaklarına mahsup etmeye veya
-şirketlerin kamu borçları ve/veya Sosyal Sigortalar Kurumuna borçları
-ile sair borçlarını ödemede kullanmaya ve bu işlemler ile ilgili
-kararlar almaya 6762 sayılı Türk Ticaret Kanununun 324 üncü maddesi ile
-bağlı kalmaksızın yetkilidirler.
+             Fonun yönetim ve denetimine sahip olduğu şirketlerin
+ve/veya bu fıkra uyarınca yönetimini ve denetimini devir aldığı
+şirketlerin, Fon tarafından atanan yönetim ve denetim kurulu üyeleri ve
+müdürleri ile Fonun atadığı bu yöneticiler tarafından şirketi temsil ve
+ilzam ile yetkili kılınan genel müdür, genel müdür yardımcısı ve müdür
+gibi şirket çalışanları veya Fon, bu fıkrada sayılan gerçek veya tüzel
+kişilere ait şirket hisselerinin ve/veya bu şirketlerdeki lisans,
+ruhsat, 13.4.1994 tarihli ve 3984 sayılı Kanunun geçici 6 ncı maddesi
+hükmü kapsamında geçici frekans ve kanal kullanımı ve imtiyaz
+sözleşmelerinden doğan hakları dahil olmak üzere diğer tüm hak ve
+varlıklarının ve/veya bu hisselerle orantılı aktiflerinin satışını
+gerçekleştirmeye ve bu satışlardan elde edilen tutarları Fon
+alacaklarına mahsup etmeye veya şirketlerin kamu borçları ve/veya Sosyal
+Sigortalar Kurumuna borçları ile sair borçlarını ödemede kullanmaya ve
+bu işlemler ile ilgili kararlar almaya 6762 sayılı Türk Ticaret
+Kanununun 324 üncü maddesi ile bağlı kalmaksızın yetkilidirler.
 
-Bu şirket ve iştiraklerin yüzde kırkdokuzundan fazlası ile bunlara ait
-her türlü mal, hak ve varlıklar, gayrimenkullerle ilgili özel
-kanunlarındaki kısıtlamalar saklı kalmak kaydıyla yabancı gerçek ve
+             Bu şirket ve iştiraklerin yüzde kırkdokuzundan fazlası ile
+bunlara ait her türlü mal, hak ve varlıklar, gayrimenkullerle ilgili
+özel kanunlarındaki kısıtlamalar saklı kalmak kaydıyla yabancı gerçek ve
 tüzel kişilere satılabilir.
 
-Fon alacaklarının tahsilini teminen, 6183 sayılı Amme Alacaklarının
-Tahsil Usulü Hakkında Kanun hükümleri uyarınca haczedilen aktif değerler
-ile lisans, ruhsat ve imtiyaz sözleşmelerinden doğan haklar ve bu
-varlıkların feri veya mütemmim cüzü niteliğindeki sözleşmelerden doğan,
-ancak başlı başına iktisadî değeri olmayanlar da dahil olmak üzere diğer
-tüm hak ve varlıkları bir araya getirerek, ticarî ve iktisadî bütünlük
-oluşturarak alıcısına geçişini sağlayacak şekilde satışına, hacizli
-malların birden fazla borçluya ait olması ve/veya birden fazla
-alacaklının haczi olması hâlinde de satışı yaptırmaya, ihale bedelinin
-ödenme şeklini, para birimini, alıcıların sahip olması gereken şartları,
-ödeme tarihini ve ihalenin sair usûl ve esasları ile satış şartlarını
-6183 sayılı Kanun hükümlerine bağlı olmaksızın belirlemeye, satışa konu
-ticarî ve iktisadî bütünlüğü alacağına mahsuben satın almaya,
+             Fon alacaklarının tahsilini teminen, 6183 sayılı Amme
+Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uyarınca haczedilen
+aktif değerler ile lisans, ruhsat ve imtiyaz sözleşmelerinden doğan
+haklar ve bu varlıkların feri veya mütemmim cüzü niteliğindeki
+sözleşmelerden doğan, ancak başlı başına iktisadî değeri olmayanlar da
+dahil olmak üzere diğer tüm hak ve varlıkları bir araya getirerek,
+ticarî ve iktisadî bütünlük oluşturarak alıcısına geçişini sağlayacak
+şekilde satışına, hacizli malların birden fazla borçluya ait olması
+ve/veya birden fazla alacaklının haczi olması hâlinde de satışı
+yaptırmaya, ihale bedelinin ödenme şeklini, para birimini, alıcıların
+sahip olması gereken şartları, ödeme tarihini ve ihalenin sair usûl ve
+esasları ile satış şartlarını 6183 sayılı Kanun hükümlerine bağlı
+olmaksızın belirlemeye, satışa konu ticarî ve iktisadî bütünlüğü
+alacağına mahsuben satın almaya,
 
 9594
+
+########  
 
 satışa konu varlıkların ait olduğu şirketlerin teknik bilgi, yazılım,
 donanım, ekipman, mal ve hizmet alımından doğan geçmiş dönem borçlarını
@@ -4496,25 +4785,25 @@ muhafaza altına alınması ve satışı talep edilemez, mahcuzların
 malîklerinin iflasına karar verilemez, ilgili takyidatlar hakkında
 zamanaşımı ve hak düşürücü süreler işlemez.
 
-Yukarıdaki hüküm çerçevesinde telekomünikasyon, enerji, ulaşım, radyo,
-yazılı ve görsel medya ve diğer sektörlerdeki, yönetim ve denetimi veya
-hisseleri Fon tarafından devir alınan şirketlere tanınmış imtiyaz
-sözleşmesi, lisans, ruhsat, işletme izni, ön izin, yayın izni, 3984
-sayılı Kanunun geçici 6 ncı maddesi hükmü kapsamında geçici frekans ve
-kanal kullanımı ve benzeri izinlerin yeni alıcıları adına devri ve
+             Yukarıdaki hüküm çerçevesinde telekomünikasyon, enerji,
+ulaşım, radyo, yazılı ve görsel medya ve diğer sektörlerdeki, yönetim ve
+denetimi veya hisseleri Fon tarafından devir alınan şirketlere tanınmış
+imtiyaz sözleşmesi, lisans, ruhsat, işletme izni, ön izin, yayın izni,
+3984 sayılı Kanunun geçici 6 ncı maddesi hükmü kapsamında geçici frekans
+ve kanal kullanımı ve benzeri izinlerin yeni alıcıları adına devri ve
 tescili işlemleri, Fonun bildirimi üzerine ilgili kurum, kuruluş ve üst
 kurullarca, gerekli bilgi ve belgelerin tamamlanmasını müteakip başkaca
 bir işleme gerek kalmaksızın en fazla bir ay içinde tamamlanır.
 
-Bu hüküm uyarınca yapılacak satışlara ilişkin diğer esas ve usûller Fon
-tarafından çıkarılacak yönetmelikle tespit edilir.
+             Bu hüküm uyarınca yapılacak satışlara ilişkin diğer esas ve
+usûller Fon tarafından çıkarılacak yönetmelikle tespit edilir.
 
-**(Değişik sekizinci fıkra: 8/3/2006-5472/1 md.)** Gerçek ve tüzel
-kişilerin sahip olduğu varlıkların, bu maddede yer alan hükümler
-çerçevesinde ticari ve iktisadi bütünlük kapsamında veya bu Kanunda yer
-alan hükümler çerçevesinde ayrı ayrı cebri icra yoluyla satışlarından
-elde edilen bedelden; satış tarihine kadar tahakkuk etmiş olmak
-şartıyla, sırasıyla Fon Kurulu tarafından karar verilmesi halinde
+             **(Değişik sekizinci fıkra: 8/3/2006-5472/1 md.)** Gerçek
+ve tüzel kişilerin sahip olduğu varlıkların, bu maddede yer alan
+hükümler çerçevesinde ticari ve iktisadi bütünlük kapsamında veya bu
+Kanunda yer alan hükümler çerçevesinde ayrı ayrı cebri icra yoluyla
+satışlarından elde edilen bedelden; satış tarihine kadar tahakkuk etmiş
+olmak şartıyla, sırasıyla Fon Kurulu tarafından karar verilmesi halinde
 şirketlerin teknik bilgi, yazılım, donanım, ekipman, mal ve hizmet
 alımından doğan geçmiş dönem borçları, kişilerin Devlete ve sosyal
 güvenlik kuruluşlarına olan 6183 sayılı Kanun kapsamındaki borçları ile
@@ -4529,11 +4818,11 @@ nakli işlemine engel teşkil etmez.
 
 9594-1
 
-**(Ek fıkra: 8/3/2006-5472/1 md.)** Bu Kanunla yürürlükten kaldırılan
-4389 sayılı Bankalar Kanununun 15 inci maddesinin (7) numaralı fıkrası
-ile bu madde kapsamında olan şirketler ile sermayesinin % 50'sinden
-fazlasını temsil eden hisselere Fonun, Fon Bankasının veya Fon
-iştiraklerinin sahip olduğu şirketler, yönetim kurulları tarafından
+             **(Ek fıkra: 8/3/2006-5472/1 md.)** Bu Kanunla yürürlükten
+kaldırılan 4389 sayılı Bankalar Kanununun 15 inci maddesinin (7)
+numaralı fıkrası ile bu madde kapsamında olan şirketler ile sermayesinin
+% 50'sinden fazlasını temsil eden hisselere Fonun, Fon Bankasının veya
+Fon iştiraklerinin sahip olduğu şirketler, yönetim kurulları tarafından
 alacaklılarına ve borçlularına Fonun belirlediği esaslar çerçevesinde
 yapılacak ilânı müteakiben düzenlenen bilançoları esas alınarak Fon
 Kurulu kararı ile İcra ve İflas Kanunu, Türk Ticaret Kanunu hükümlerine
@@ -4562,21 +4851,19 @@ kalması halinde bu bakiye şirket hissedarlarına hisseleri oranında
 ödenir. Tasfiyenin usûl ve esasları Fon Kurulu tarafından çıkarılacak
 yönetmelikle belirlenir.
 
-Bu Kanunun 71 inci maddesinin birinci fıkrasının (e) bendi hükmü
-uyarınca faaliyet izni kaldırılan veya Fona devredilen bankalar ile
-tasfiyeye tâbi tutulan veya tasfiye işlemi başlatılan bankaların, bu
+             Bu Kanunun 71 inci maddesinin birinci fıkrasının (e) bendi
+hükmü uyarınca faaliyet izni kaldırılan veya Fona devredilen bankalar
+ile tasfiyeye tâbi tutulan veya tasfiye işlemi başlatılan bankaların, bu
 maddenin birinci fıkrasında belirtilen gerçek ve tüzel kişiler ile
 gerçek kişilerin kan ve kayın hısımlarının edindikleri ve/veya bu
 suretle üçüncü kişilere edindirdikleri para, her türlü mal, hak ve
 alacakların banka kaynağı kullanılmak suretiyle edinildiği ve/veya
-edindirildiği kabul edilir. Bu gerçek kişiler ile tüzel kişiler
-tarafından edinilen para, her türlü mal, hak ve alacaklar hakkında bu
-
-**(Devamı için 9595 inci sayfaya bakınız.)**
-
-9594-2
+edindirildiği kabul edilir. Bu gerçek  kişiler  ile  tüzel  kişiler 
+tarafından  edinilen  para,  her türlü mal, hak ve alacaklar hakkında bu
 
 9595
+
+########  
 
 madde hükümlerini uygulamaya Fon yetkilidir. Bu suretle edinildiği
 ve/veya edindirildiği kabul edilen para, her türlü mal, hak ve alacaklar
@@ -4589,47 +4876,48 @@ belirtilen işlemlerin gerçekleşmesinden sonra edindikleri ve/veya
 edindirdikleri para, her türlü mal, hak ve alacaklar hakkında da bu
 madde hükümleri uygulanır.
 
-Yukarıda belirtilen işlemlere taraf olan üçüncü kişiler bankanın
-faaliyet izninin kaldırılması veya yönetim ve denetiminin Fona devrinden
-sonraki işlemler nedeniyle, bu maddenin birinci fıkrasında sayılan
-kişiler ise bankanın faaliyet izninin kaldırılması veya yönetim ve
-denetiminin Fona devrinden önceki ve/veya sonraki işlemler nedeniyle
+             Yukarıda belirtilen işlemlere taraf olan üçüncü kişiler
+bankanın faaliyet izninin kaldırılması veya yönetim ve denetiminin Fona
+devrinden sonraki işlemler nedeniyle, bu maddenin birinci fıkrasında
+sayılan kişiler ise bankanın faaliyet izninin kaldırılması veya yönetim
+ve denetiminin Fona devrinden önceki ve/veya sonraki işlemler nedeniyle
 iyiniyet iddiasında bulunamazlar. Bankanın faaliyet izninin kaldırılması
 veya yönetim ve denetiminin Fona devrinden önce satış, kira, devir ve
 temlik gibi işlemler ile aynî ve şahsi hak tesisine ilişkin işlemlere
 taraf olan üçüncü kişiler iyiniyetli olduklarını kanıtlamak
 zorundadırlar.
 
-Bu maddenin birinci fıkrasında sayılan gerçek ve tüzel kişilerin yönetim
-ve/veya denetimindeki şirketlerde ve/veya işletmelerinde iş akdine bağlı
-ve/veya bağlı olmaksızın geçici veya sürekli olarak istihdam edilen
-şahısların kurucusu, ortağı, yöneticisi veya denetçisi olduğu
-şirketlerin; bir iş akdine bağlı olmaksızın, yukarıda sayılan şahısların
-vekâleten ve/veya ticarî mümessil ve/veya ticarî vekil sıfatıyla ve/veya
-vekâletsiz iş görme hükümleri gibi herhangi bir hukukî ilişkiye
-dayanarak geçici ve/veya sürekli olarak temsil eden şahıslar ile temsil
-ettikleri gerçek ve/veya tüzel kişilerin; bu fıkrada belirtilen şahıslar
-dışındaki ve/veya bunlar tarafından kurulan şirketlere bankacılık
-mevzuatına ve/veya teamüllerine uyulmadan ve/veya teminatsız ve/veya
-yetersiz teminat ile kredi kullandırılan ve/veya genellikle faaliyet
-yeri olarak aynı adresi kullanan ve/veya yapılan sözleşmelere cayma
-hakkı ve/veya borcun nakli gibi hükümler koymak suretiyle kullandıkları
-kredileri ve/veya banka kaynaklarını bankanın yönetim ve denetimini
-doğrudan ve/veya dolaylı olarak tek başına ve/veya birlikte elinde
-bulunduran gerçek ve tüzel kişilere ve/veya bunların ve/veya bankanın
-iştiraklerine ve/veya doğrudan veyahut dolaylı bağı bulunan şahıs ve
-şirketlere yukarıdaki fıkralarda sayılan gerçek veya tüzel kişilere
-aktarılmasını sağlayan gerçek veya tüzel kişilerin kullanmış oldukları
-krediler ve/veya banka kaynakları bankanın yönetim ve denetimini
-doğrudan ve/veya dolaylı olarak, tek başına veya birlikte elinde
-bulunduran ortaklar tarafından kullanılmış banka kaynağı sayılır ve bu
-şahıslar ile edindikleri ve/veya üçüncü kişilere edindirdikleri para,
-her türlü mal, alacak ve haklar hakkında bu madde hükümleri uygulanır.
+             Bu maddenin birinci fıkrasında sayılan gerçek ve tüzel
+kişilerin yönetim ve/veya denetimindeki şirketlerde ve/veya
+işletmelerinde iş akdine bağlı ve/veya bağlı olmaksızın geçici veya
+sürekli olarak istihdam edilen şahısların kurucusu, ortağı, yöneticisi
+veya denetçisi olduğu şirketlerin; bir iş akdine bağlı olmaksızın,
+yukarıda sayılan şahısların vekâleten ve/veya ticarî mümessil ve/veya
+ticarî vekil sıfatıyla ve/veya vekâletsiz iş görme hükümleri gibi
+herhangi bir hukukî ilişkiye dayanarak geçici ve/veya sürekli olarak
+temsil eden şahıslar ile temsil ettikleri gerçek ve/veya tüzel
+kişilerin; bu fıkrada belirtilen şahıslar dışındaki ve/veya bunlar
+tarafından kurulan şirketlere bankacılık mevzuatına ve/veya teamüllerine
+uyulmadan ve/veya teminatsız ve/veya yetersiz teminat ile kredi
+kullandırılan ve/veya genellikle faaliyet yeri olarak aynı adresi
+kullanan ve/veya yapılan sözleşmelere cayma hakkı ve/veya borcun nakli 
+gibi hükümler  koymak suretiyle  kullandıkları kredileri ve/veya banka
+kaynaklarını bankanın yönetim ve denetimini doğrudan ve/veya dolaylı
+olarak tek başına ve/veya birlikte elinde bulunduran gerçek ve tüzel
+kişilere ve/veya bunların ve/veya bankanın iştiraklerine ve/veya
+doğrudan veyahut dolaylı bağı bulunan şahıs ve şirketlere yukarıdaki
+fıkralarda sayılan gerçek veya tüzel kişilere aktarılmasını sağlayan
+gerçek veya tüzel kişilerin kullanmış oldukları krediler ve/veya banka
+kaynakları bankanın yönetim ve denetimini doğrudan ve/veya dolaylı
+olarak, tek başına veya birlikte elinde bulunduran ortaklar tarafından
+kullanılmış banka kaynağı sayılır ve bu şahıslar ile edindikleri ve/veya
+üçüncü kişilere edindirdikleri para, her türlü mal, alacak ve haklar
+hakkında bu madde hükümleri uygulanır.
 
-Bu Kanunun 71 inci maddesinin birinci fıkrasının (e) bendi hükmü
-uyarınca faaliyet izni kaldırılan veya Fona devredilen bankanın hâkim
-ortakları, yönetim kurulu üyeleri, denetim kurulu üyeleri, genel müdür,
-genel müdür yardımcıları ve bunların eş ve çocukları ile
+             Bu Kanunun 71 inci maddesinin birinci fıkrasının (e) bendi
+hükmü uyarınca faaliyet izni kaldırılan veya Fona devredilen bankanın
+hâkim ortakları, yönetim kurulu üyeleri, denetim kurulu üyeleri, genel
+müdür, genel müdür yardımcıları ve bunların eş ve çocukları ile
 evlatlıklarının, bunların diğer kan ve kayın hısımlarının ve imzaya
 yetkili banka mensuplarının kendi aralarında veya üçüncü kişilerle
 yaptıkları taşınır ve taşınmaz rehni, ipotek, üst hakkı, intifa hakkı ve
@@ -4648,6 +4936,8 @@ ihtiyarlık
 
 9596
 
+########  
+
 ve sağlık sigorta sözleşmeleri ve limitli veya limitsiz kredi kartı ile
 ATM kartı sözleşmeleri ile münferit veya karşılıklı verilen banka
 teminat mektupları, kabul kredileri ve avaller ile her türlü hisse devir
@@ -4656,119 +4946,123 @@ geçersizliğinden dolayı karşı tarafça açılacak tazminat davalarında
 sözleşmede muvazaa bulunmadığını ve sözleşmeyle ödenen bedelin muvazaalı
 olmayan rayiç bedel olduğunu ispat yükü davacıya aittir.
 
-Borçlunun, haline münasip konut kiralamasına ilişkin sözleşme yukarıdaki
-fıkra kapsamı dışındadır.
+             Borçlunun, haline münasip konut kiralamasına ilişkin
+sözleşme yukarıdaki fıkra kapsamı dışındadır.
 
-Fon, bu maddede sayılan alacaklara ilişkin para, mal, her türlü hak ve
-alacaklara ihtiyatî haciz koymaya, muhafaza altına almaya ve Fon
-tarafından belirlenecek kurum ve kuruluşlarca hazırlanacak raporları
-dikkate alarak tespit edeceği değeri üzerinden, alacağına mahsuben
-devralmaya yetkilidir.
+             Fon, bu maddede sayılan alacaklara ilişkin para, mal, her
+türlü hak ve alacaklara ihtiyatî haciz koymaya, muhafaza altına almaya
+ve Fon tarafından belirlenecek kurum ve kuruluşlarca hazırlanacak
+raporları dikkate alarak tespit edeceği değeri üzerinden, alacağına
+mahsuben devralmaya yetkilidir.
 
-Bu alacaklara zararın ve/veya alacağın doğmasına sebebiyet veren haksız
-işlemin yapıldığı tarihten itibaren 6183 sayılı Amme Alacaklarının
-Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirtilen oranda
-gecikme faizi uygulanabilir.
+             Bu alacaklara zararın ve/veya alacağın doğmasına sebebiyet
+veren haksız işlemin yapıldığı tarihten itibaren 6183 sayılı Amme
+Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde
+belirtilen oranda gecikme faizi uygulanabilir.
 
-Fon tarafından bu madde hükümlerine istinaden tesis edilen işlemlere
-karşı idarî yargı mercilerinde açılan davalarda mahkemelerce yürütmenin
-durdurulması kararı verilebilmesi için teminat şartı aranmaz.
+             Fon tarafından bu madde hükümlerine istinaden tesis edilen
+işlemlere karşı idarî yargı mercilerinde açılan davalarda mahkemelerce
+yürütmenin durdurulması kararı verilebilmesi için teminat şartı aranmaz.
 
-Fon tarafından bu madde hükümlerine istinaden yapılacak işlemlerde 6762
-sayılı Türk Ticaret Kanunu hükümleri uygulanmaz. Bu işlemler her türlü
-vergi, resim ve harçtan istisna tutulur. Bu madde ile Fona tanınan
-yetkiler Fon tarafından başkaca bir işleme gerek olmaksızın Fon
-Kurulunun karar alması ile tekemmül eder. Yapılan işlemlerden tescile
-tâbi olanlar Fonun talebi üzerine tescil ve gerektiğinde ilân olunur.
+             Fon tarafından bu madde hükümlerine istinaden yapılacak
+işlemlerde 6762 sayılı Türk Ticaret Kanunu hükümleri uygulanmaz. Bu
+işlemler her türlü vergi, resim ve harçtan istisna tutulur. Bu madde ile
+Fona tanınan yetkiler Fon tarafından başkaca bir işleme gerek olmaksızın
+Fon Kurulunun karar alması ile tekemmül eder. Yapılan işlemlerden
+tescile tâbi olanlar Fonun talebi üzerine tescil ve gerektiğinde ilân
+olunur.
 
-Sigortaya tâbi mevduat ve katılım fonu tutarının eksik beyanı hâlinde
-uygulanacak takip ve tahsil usûlleri
+**            ** Sigortaya tâbi mevduat ve katılım fonu tutarının eksik
+beyanı hâlinde uygulanacak takip ve tahsil usûlleri
 
-**Madde 135 —** 1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanunu ile
-bu Kanun uyarınca banka tarafından yetkili mercilere beyan edilen
-sigortaya tâbi mevduat ve katılım fonu tutarı ile Fon tarafından tespit
-edilen mevduat ve katılım fonu tutarı arasında bir fark bulunması
-hâlinde, bu fark nispetinde bankanın yönetim kurulu ve kredi komitesi
-başkan ve üyeleri ile genel müdür, genel müdür yardımcıları, imzaları
-bankayı ilzam eden memurları ve şube müdürleri ile yönetim ve denetimini
-doğrudan veya dolaylı olarak tek başına veya birlikte elinde bulunduran
-ortaklarının, kendilerine, eşlerine ve çocuklarına ait bankalar ve banka
-dışı malî kurumlar ile diğer gerçek ve tüzel kişiler nezdindeki, kiralık
-kasa mevcutları da dahil olmak üzere, hak ve alacakları, döviz tevdiat
-hesapları ve limitli ve limitsiz kredi kartı ve ATM kartları hesapları
-dahil tüm banka hesaplarının dondurulmasına, kara, hava ve deniz
-taşıtları dâhil her türlü taşınır ve taşınmaz, kıymetli evrak ve yurt
-içi veya yurt dışı hazine bonosu, devlet tahvili, hisse senedi, yatırım
-fonları katılım belgeleri gibi diğer menkul değerlerle, bağımsız ticari
-işletme, fabrika ve tesisler, bu tesislerin işletilmesine yönelik marka
-ve lisans hakları, kamu imtiyaz sözleşmelerinden doğan televizyon
-kanalı, elektrik santralı gibi bir tesisin kurulması ve işletilmesi
-yetkilerini veren lisans, ruhsat ve işletme hakları ile bu tesisleri
-lisans hakkına dayanarak veya lisans hakkı bulunmadan kuran ve işleten
-şirketlere ait hisse senetleri, hak ve alacakların üzerindeki tasarruf
-yetkisinin tamamen veya kısmen kaldırılmasına, belirtilen tüm mal,
-kıymetli evrak, nakit ve diğer değerlerin zaptına ve/veya resmî
-sicillerdeki kayıtları üzerinde ihtiyatî tedbir konulmasına, bunların
-bir tevdi mahalline yatırılmasına ve hak ve alacakların üzerine diğer
-tedbirlerin konulmasına, bunlardan elde edinilmiş her türlü taşınır ve
-taşınmaz, hak ve alacaklar ile kıymetli evrak, nakit, bir tesisi işletme
-ve kurma hakkı veren marka ve lisans hakları, bu tesisleri lisans,
-ruhsat ve işletme hakkı ile veya bu hakları bulunmadan işleten, kuran ve
-hak sahibi niteliğini
+**             Madde 135 —** 1211 sayılı Türkiye Cumhuriyet Merkez
+Bankası Kanunu ile bu Kanun uyarınca banka tarafından yetkili mercilere
+beyan edilen sigortaya tâbi mevduat ve katılım fonu tutarı ile Fon
+tarafından tespit edilen mevduat ve katılım fonu tutarı arasında bir
+fark bulunması hâlinde, bu fark nispetinde bankanın yönetim kurulu ve
+kredi komitesi başkan ve üyeleri ile genel müdür, genel müdür
+yardımcıları, imzaları bankayı ilzam eden memurları ve şube müdürleri
+ile yönetim ve denetimini doğrudan veya dolaylı olarak tek başına veya
+birlikte elinde bulunduran ortaklarının, kendilerine, eşlerine ve
+çocuklarına ait bankalar ve banka dışı malî kurumlar ile diğer gerçek ve
+tüzel kişiler nezdindeki, kiralık kasa mevcutları da dahil olmak üzere,
+hak ve alacakları, döviz tevdiat hesapları ve limitli ve limitsiz kredi
+kartı ve ATM kartları hesapları dahil tüm banka hesaplarının
+dondurulmasına, kara, hava ve deniz taşıtları dâhil her türlü taşınır ve
+taşınmaz, kıymetli evrak ve yurt içi veya yurt dışı hazine bonosu,
+devlet tahvili, hisse senedi, yatırım fonları katılım belgeleri gibi
+diğer menkul değerlerle, bağımsız ticari işletme, fabrika ve tesisler,
+bu tesislerin işletilmesine yönelik marka ve lisans hakları, kamu
+imtiyaz sözleşmelerinden doğan televizyon kanalı, elektrik santralı gibi
+bir tesisin kurulması ve işletilmesi yetkilerini veren lisans, ruhsat ve
+işletme hakları ile bu tesisleri lisans hakkına dayanarak veya lisans
+hakkı bulunmadan kuran ve işleten şirketlere ait hisse senetleri, hak ve
+alacakların üzerindeki tasarruf yetkisinin tamamen veya kısmen
+kaldırılmasına, belirtilen tüm mal, kıymetli evrak, nakit ve diğer
+değerlerin zaptına ve/veya resmî sicillerdeki kayıtları üzerinde
+ihtiyatî tedbir konulmasına, bunların bir tevdi mahalline yatırılmasına
+ve hak ve alacakların üzerine diğer tedbirlerin konulmasına, bunlardan
+elde edinilmiş her türlü taşınır ve taşınmaz, hak ve alacaklar ile
+kıymetli evrak, nakit, bir tesisi işletme ve kurma hakkı veren marka ve
+lisans hakları, bu tesisleri lisans,   ruhsat  ve  işletme  hakkı ile
+veya bu hakları bulunmadan işleten, kuran ve hak sahibi niteliğini
 
-9597
+9597 
 
 haiz şirketlere ait hisse senetleri hakkında belirtilen tedbirlerin
 alınmasına, Fonun talebi üzerine ilgili bankanın merkezinin bulunduğu
 yerdeki sulh ceza hâkimi, yargılama sırasında ise mahkeme tarafından
 karar verilir.
 
-Yukarıda belirtilen farkın bu Kanunda yer alan hükümler dahilinde takip
-ve tahsiline Fon tarafından karar verilebilir. Bu hükümler, yukarıda
-sayılan kişiler adına hareket eden veya onlar hesabına kendi adına para,
-mal veya hak edinen kişiler hakkında da uygulanır.
+             Yukarıda belirtilen farkın bu Kanunda yer alan hükümler
+dahilinde takip ve tahsiline Fon tarafından karar verilebilir. Bu
+hükümler, yukarıda sayılan kişiler adına hareket eden veya onlar
+hesabına kendi adına para, mal veya hak edinen kişiler hakkında da
+uygulanır.
 
-Tedbire ilişkin talepler, hâkim veya mahkeme tarafından evrak üzerinde
-yapılacak inceleme sonucunda derhal ve nihayet yirmidört saat içinde
-sonuçlandırılır. Gecikmesinde sakınca görülen hallerde Cumhuriyet
-başsavcılıkları da hak ve alacakların dondurulmasına karar verebilir.
-Cumhuriyet başsavcılıkları bu kararı en geç yirmidört saat içinde sulh
-ceza hâkimine bildirir. Hâkim en geç yirmidört saat içinde bu kararı
-onaylayıp onaylamamaya karar verir. Hâkim tarafından onaylanmayan
-kararlar hükümsüz kalır.
+             Tedbire ilişkin talepler, hâkim veya mahkeme tarafından
+evrak üzerinde yapılacak inceleme sonucunda derhal ve nihayet yirmidört
+saat içinde sonuçlandırılır. Gecikmesinde sakınca görülen hallerde
+Cumhuriyet başsavcılıkları da hak ve alacakların dondurulmasına karar
+verebilir. Cumhuriyet başsavcılıkları bu kararı en geç yirmidört saat
+içinde sulh ceza hâkimine bildirir. Hâkim en geç yirmidört saat içinde
+bu kararı onaylayıp onaylamamaya karar verir. Hâkim tarafından
+onaylanmayan kararlar hükümsüz kalır.
 
-Sulh ceza hâkimince verilen tedbirler, tedbir kararını veren mahkemenin
-bulunduğu yerdeki nöbetçi icra dairesi tarafından infaz olunur ve Fonun,
-bankanın bankacılık işlemleri yapma ve mevduat ve katılım fonu kabul
-etme izninin kaldırıldığı tedbir kararlarının verildiği tarihten
-itibaren bir yıl içerisinde suç duyurusunda bulunmaması ve/veya 6183
-sayılı Kanuna göre alacağın tahsili yolunda takip başlatmaması ve/veya
-alacağın tahsili yolunda hukuk mahkemelerinde dava açmaması hâlinde sona
-erer. Bu süre içerisinde suç duyurusunda bulunulması ve/veya Fon
-tarafından 6183 sayılı Kanuna göre alacağın tahsili yolunda takip
-başlatılması ve/veya alacağın tahsili yolunda hukuk mahkemelerinde dava
-açılması hâlinde tedbirler, Fon alacakları tamamen tahsil edilinceye
-kadar devam eder. Mahkeme, bu Kanun hükümlerine göre Fon tarafından
-ödenen ve/veya ödenecek miktarın, sorumlular tarafından doğrudan Fona
-ödenmesine karar verir. Bu takdirde tedbirler, hükmolunan meblağın
-sorumluların bu fıkra uyarınca tedbirlere konu edilen, para, mal, hak ve
-alacakları ile diğer malvarlığından tahsiline kadar devam eder.
+             Sulh ceza hâkimince verilen tedbirler, tedbir kararını
+veren mahkemenin bulunduğu yerdeki nöbetçi icra dairesi tarafından infaz
+olunur ve Fonun, bankanın bankacılık işlemleri yapma ve mevduat ve
+katılım fonu kabul etme izninin kaldırıldığı tedbir kararlarının
+verildiği tarihten itibaren bir yıl içerisinde suç duyurusunda
+bulunmaması ve/veya 6183 sayılı Kanuna göre alacağın tahsili yolunda
+takip başlatmaması ve/veya alacağın tahsili yolunda hukuk mahkemelerinde
+dava açmaması hâlinde sona erer. Bu süre içerisinde suç duyurusunda
+bulunulması ve/veya Fon tarafından 6183 sayılı Kanuna göre alacağın
+tahsili yolunda takip başlatılması ve/veya alacağın tahsili yolunda
+hukuk mahkemelerinde dava açılması hâlinde tedbirler, Fon alacakları
+tamamen tahsil edilinceye kadar devam eder. Mahkeme, bu Kanun
+hükümlerine göre Fon tarafından ödenen ve/veya ödenecek miktarın,
+sorumlular tarafından doğrudan Fona ödenmesine karar verir. Bu takdirde
+tedbirler, hükmolunan meblağın sorumluların bu fıkra uyarınca tedbirlere
+konu edilen, para, mal, hak ve alacakları ile diğer malvarlığından
+tahsiline kadar devam eder.
 
-Yukarıdaki fıkralarda yer alan hükümlerin konusu olup, sorumluların
-boşanmış veya dul eşlerinin, diğer kan hısımları ile kayın hısımları ve
-üçüncü kişilerin mülkiyeti ve tasarrufuna geçirilmiş bulunan tüm mal,
-sınırlı aynî veya şahsi hak ve alacaklar hakkında da bu madde hükümleri
-uygulanır. Tüm bu mal, hak ve alacaklara ilişkin olarak açılmış veya
-açılacak davalarda bu kişiler 4721 sayılı Türk Medeni Kanununun 3 üncü
-maddesindeki iyiniyet karinesi ile 985 inci maddesindeki mülkiyet
-karinesinden ve tüm resmî sicillere iyiniyetli güven ilkesinden
-yararlanamaz. İyiniyetle edinmiş olduklarını ispatladıkları takdirde,
-yaptıkları ödemelerin muvazaalı olmayan rayiç değer olduğunu
-belgelendirmeleri şartıyla ödediklerinin asli sorumluların malvarlığı ve
-diğer varlıklarından alınmasına mahkemece karar verilir.
+             Yukarıdaki fıkralarda yer alan hükümlerin konusu olup,
+sorumluların boşanmış veya dul eşlerinin, diğer kan hısımları ile kayın
+hısımları ve üçüncü kişilerin mülkiyeti ve tasarrufuna geçirilmiş
+bulunan tüm mal, sınırlı aynî veya şahsi hak ve alacaklar hakkında da bu
+madde hükümleri uygulanır. Tüm bu mal, hak ve alacaklara ilişkin olarak
+açılmış veya açılacak davalarda bu kişiler 4721 sayılı Türk Medeni
+Kanununun 3 üncü maddesindeki iyiniyet karinesi ile 985 inci
+maddesindeki mülkiyet karinesinden ve tüm resmî sicillere iyiniyetli
+güven ilkesinden yararlanamaz. İyiniyetle edinmiş olduklarını
+ispatladıkları takdirde, yaptıkları ödemelerin muvazaalı olmayan rayiç
+değer olduğunu belgelendirmeleri şartıyla ödediklerinin asli
+sorumluların malvarlığı ve diğer varlıklarından alınmasına mahkemece
+karar verilir.
 
-Bankacılık işlemleri yapma ve mevduat ve katılım fonu kabul etme izni
-kaldırılan bir banka nezdinde mevduat ve katılım fonu hesabı
+             Bankacılık işlemleri yapma ve mevduat ve katılım fonu kabul
+etme izni kaldırılan bir banka nezdinde mevduat ve katılım fonu hesabı
 bulunmamasına rağmen sahte olarak düzenlediği belgeler veya sahte
 olduğunu bildiği belgeleri ibraz ederek veya ettirerek, kendisine veya
 bir başkasına ödeme yapılmasını talep eden kişiler hakkında, zimmet veya
@@ -4777,20 +5071,22 @@ ve gerçeğe aykırı muhasebeleştirme veya bilişim sistemini engelleme,
 bozma, verileri yok etme veya değiştirme suçlarından dolayı gerçek
 içtima hükümlerine göre cezaya hükmolunur.
 
-Bu Kanunun yürürlüğe girdiği tarihten önce gerçekleştirilen fiiller
-nedeniyle, bu madde hükümlerine göre Fon tarafından ödeme yapılmasına
-veya yapılacak olmasına sebebiyet veren kişiler ile bunların eş ve
-çocuklarına ait her türlü mal, hak ve alacaklar hakkında da bu madde
-hükümleri uygulanır.
+             Bu Kanunun yürürlüğe girdiği tarihten önce gerçekleştirilen
+fiiller nedeniyle, bu madde hükümlerine göre Fon tarafından ödeme
+yapılmasına veya yapılacak olmasına sebebiyet veren kişiler ile bunların
+eş ve çocuklarına ait her türlü mal, hak ve alacaklar hakkında da bu
+madde hükümleri uygulanır.
 
 9598
 
-*Fon alacaklarının yasal teminatı*
+########  
 
-**Madde 136 —** Fon alacaklarının tahsilini teminen, Fon tarafından bu
-Kanun hükümleri çerçevesinde açılan ve/veya takip edilen dava ve
-takiplerde verilen ihtiyatî haciz veya tedbir kararları uyarınca üzerine
-ihtiyatî haciz veya tedbir konulan para, her türlü mal, hak ve
+*             Fon alacaklarının yasal teminatı*
+
+**             Madde 136 —** Fon alacaklarının tahsilini teminen, Fon
+tarafından bu Kanun hükümleri çerçevesinde açılan ve/veya takip edilen
+dava ve takiplerde verilen ihtiyatî haciz veya tedbir kararları uyarınca
+üzerine ihtiyatî haciz veya tedbir konulan para, her türlü mal, hak ve
 alacaklar, bu davalara konu alacakların yasal teminatını oluşturur ve
 karar kesinleşinceye veya takip sonuçlanıncaya kadar devam eder.
 Mahkemece karara bağlanan alacaklar, tedbir konulan para, mal, her türlü
@@ -4798,67 +5094,72 @@ hak ve alacakların bedelinden, Devletin ve sosyal güvenlik
 kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra
 gelmek üzere, imtiyazlı alacak olarak öncelikle tahsil olunur.^(1)^
 
-*İspat külfeti*
+*             İspat külfeti*
 
-**Madde 137 —** Fon tarafından bu Kanunun 108 ve 110 uncu maddeleri
-hükümleri uyarınca açılmış ve açılacak davalarda ispat külfeti
+**             Madde 137 —** Fon tarafından bu Kanunun 108 ve 110 uncu
+maddeleri hükümleri uyarınca açılmış ve açılacak davalarda ispat külfeti
 davalılara aittir.
 
-*Fon alacaklarının takip ve tahsiline ilişkin istisnalar*
+*             Fon alacaklarının takip ve tahsiline ilişkin istisnalar*
 
-**Madde 138 —** Fonun taraf olduğu her türlü dava ve icra takiplerinin
-kısmen veya tamamen Fon aleyhine neticelenmesi hâlinde, 2004 sayılı İcra
-ve İflas Kanununda yazılı tazminat ve cezalar Fon hakkında uygulanmaz.
+**             Madde 138 —** Fonun taraf olduğu her türlü dava ve icra
+takiplerinin kısmen veya tamamen Fon aleyhine neticelenmesi hâlinde,
+2004 sayılı İcra ve İflas Kanununda yazılı tazminat ve cezalar Fon
+hakkında uygulanmaz.
 
-Bu Kanunun 107 nci maddesi uyarınca bir bankanın, borçlarının,
-taahhütlerinin yüklenilmesi veya alacaklarının devralınması hâlinde, bu
-borç, taahhüt ve alacaklarla ilgili olarak açılmış veya açılacak dava ve
-icra takiplerinde kanunlarda yazılı zamanaşımı ve hak düşürücü süreler
-dâhil her türlü süre, alacağın devralındığı veya borcun, taahhüdün
-yüklenildiği tarihten itibaren Fon bakımından dokuz ay süre ile durur.
+             Bu Kanunun 107 nci maddesi uyarınca bir bankanın,
+borçlarının, taahhütlerinin yüklenilmesi veya alacaklarının devralınması
+hâlinde, bu borç, taahhüt ve alacaklarla ilgili olarak açılmış veya
+açılacak dava ve icra takiplerinde kanunlarda yazılı zamanaşımı ve hak
+düşürücü süreler dâhil her türlü süre, alacağın devralındığı veya
+borcun, taahhüdün yüklenildiği tarihten itibaren Fon bakımından dokuz ay
+süre ile durur.
 
-Bu Kanunun uygulanmasına ilişkin olarak Fonun yapılan ihalelere iştirak
-etmesi hâlinde teminat şartı aranmaz.
+             Bu Kanunun uygulanmasına ilişkin olarak Fonun yapılan
+ihalelere iştirak etmesi hâlinde teminat şartı aranmaz.
 
-Fonun alacaklı olduğu ve 2004 sayılı İcra ve İflas Kanunu uyarınca
-yapılan takiplerde borçlular tarafından yapılan itirazlar satış dışında
-takip işlemlerini durdurmaz.
+             Fonun alacaklı olduğu ve 2004 sayılı İcra ve İflas Kanunu
+uyarınca yapılan takiplerde borçlular tarafından yapılan itirazlar satış
+dışında takip işlemlerini durdurmaz.
 
-Fonun alacaklı olduğu dosyalarda yaptırılan kıymet takdirleri ile satış
-ilânlarının borçlular dışındaki ilgililere tebliği, ilânda belirtilen
-süreler geçerli olmak kaydıyla, varsa bilinen son adreslerine yapılacak
-tebligat ile yoksa keyfiyetin ilanen tebliği suretiyle yapılır.
+             Fonun alacaklı olduğu dosyalarda yaptırılan kıymet
+takdirleri ile satış ilânlarının borçlular dışındaki ilgililere tebliği,
+ilânda belirtilen süreler geçerli olmak kaydıyla, varsa bilinen son
+adreslerine yapılacak tebligat ile yoksa keyfiyetin ilanen tebliği
+suretiyle yapılır.
 
-Fonun alacaklısı olduğu icra dosyalarında Fona ödenmesi gereken satış
-bedelleri sıra cetvelinin kesinleşmesi beklenmeksizin teminatsız olarak
-ödenir.
+             Fonun alacaklısı olduğu icra dosyalarında Fona ödenmesi
+gereken satış bedelleri sıra cetvelinin kesinleşmesi beklenmeksizin
+teminatsız olarak ödenir.
 
-*Fonun iştirakleri ile ilgili yetkileri*
+*             Fonun iştirakleri ile ilgili yetkileri*
 
-**Madde 139 —** Fon, faaliyet izni kaldırılan veya Fona devredilen
-bankaların kendisinin ekonomik değeri olan iştirakleri ile bu Kanunun
-134 üncü maddesi ve bu Kanunla yürürlükten kaldırılan 4389 sayılı
-Bankalar Kanununun 15 inci maddesinin (7) numaralı fıkrası kapsamında
-yönetim ve denetimini devraldığı şirketler ile ilgili olarak 6762 sayılı
-Türk Ticaret Kanunu hükümleri uygulanmaksızın yapılacak sermaye
-artırımları da dâhil olmak üzere, yeniden yapılandırma ve Fon alacağının
-tahsiline yönelik olarak söz konusu şirketlerin mal, hak ve
+**             Madde 139 —** Fon, faaliyet izni kaldırılan veya Fona
+devredilen bankaların kendisinin ekonomik değeri olan iştirakleri ile bu
+Kanunun 134 üncü maddesi ve bu Kanunla yürürlükten kaldırılan 4389
+sayılı Bankalar Kanununun 15 inci maddesinin (7) numaralı fıkrası
+kapsamında yönetim ve denetimini devraldığı şirketler ile ilgili olarak
+6762 sayılı Türk Ticaret Kanunu hükümleri uygulanmaksızın yapılacak
+sermaye artırımları da dâhil olmak üzere, yeniden yapılandırma ve Fon
+alacağının tahsiline yönelik olarak söz konusu şirketlerin mal, hak ve
 alacaklarının korunması ve değerlendirilmesi amacıyla Fon Kurulunca
 belirlenecek usûl ve esaslar çerçevesinde malî kaynak sağlamak da dâhil
 gerekli her türlü tedbiri almaya yetkilidir.
 
-*Fon ve faaliyet izni kaldırılan bankalara ilişkin malî istisnalar*
+*             Fon ve faaliyet izni kaldırılan bankalara ilişkin malî
+istisnalar*
 
-**Madde 140 —** Fon her türlü vergi, resim ve harçtan muaftır.
+**             Madde 140 —** Fon her türlü vergi, resim ve harçtan
+muaftır.
 
-Faaliyet izni kaldırılan veya tasfiyeleri Fon eliyle yürütülen
-bankaların iflas ve tasfiye idarelerinin Fon tarafından, borçlarının
-ve/veya taahhütlerinin üstlenilmesi ve/veya alacaklarının devralınması
-hâlinde Fonun, üstlendiği borçlar ve/veya taahhütler ile devraldığı
-alacaklarla ilgili devir ve temlik sözleşmeleri, her türlü teminatın
-tesisi ve kaldırılması, sözleşmelerin bozulması, dava ve icra takipleri
-ile bu borçlar ve/veya alacaklar ve/veya taahhütlerle ilgili diğer her
-türlü işlemler ve bu
+             Faaliyet izni kaldırılan veya tasfiyeleri Fon eliyle
+yürütülen bankaların iflas ve tasfiye idarelerinin Fon tarafından,
+borçlarının ve/veya taahhütlerinin üstlenilmesi ve/veya alacaklarının
+devralınması hâlinde Fonun, üstlendiği borçlar ve/veya taahhütler ile
+devraldığı alacaklarla ilgili devir ve temlik sözleşmeleri, her türlü
+teminatın tesisi ve kaldırılması, sözleşmelerin bozulması, dava ve icra
+takipleri  ile  bu  borçlar  ve/veya  alacaklar  ve/veya  taahhütlerle 
+ilgili  diğer  her türlü işlemler ve bu
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4870,95 +5171,101 @@ metne işlenmiştir.*
 
 9599
 
+########  
+
 işlemlerle ilgili düzenlenen kâğıtlar, her türlü vergi, resim, harç,
 fonlar ve 2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı
 Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri
 Hakkında Kanunun 1 inci maddesi hükmünden istisnadır.
 
-Borçlu tarafından ödenmesi gereken tahsil harcı dahil her türlü vergi,
-resim, harç ve masraflar bu alacaktan mahsup edilemez. Bu işlemlerden
-kaynaklanan döner sermaye ücreti ödenmez ve diğer kesintiler yapılmaz.
+             Borçlu tarafından ödenmesi gereken tahsil harcı dahil her
+türlü vergi, resim, harç ve masraflar bu alacaktan mahsup edilemez. Bu
+işlemlerden kaynaklanan döner sermaye ücreti ödenmez ve diğer kesintiler
+yapılmaz.
 
-Fon alacağına karşılık bir malın Fon veya Fon bankaları tarafından
-rızaen veya icraen satın alınması hâlinde bu işlemlerle ilgili olarak
-tarafların ödemekle yükümlü olduğu vergi, resim, harç ve döner sermaye
-ücreti gibi malî yükümlülükler aranmaz.
+             Fon alacağına karşılık bir malın Fon veya Fon bankaları
+tarafından rızaen veya icraen satın alınması hâlinde bu işlemlerle
+ilgili olarak tarafların ödemekle yükümlü olduğu vergi, resim, harç ve
+döner sermaye ücreti gibi malî yükümlülükler aranmaz.
 
-Fonun, Fon bankalarının ve tasfiyeleri Fon eliyle yürütülen bankaların
-iflas ve tasfiye idarelerinin, mahkeme ilâmını alması ve tebliğe
-çıkartması işlemlerinde karşı tarafa yükletilmiş olan harcın ödenmesi ve
-her türlü ihtiyatî tedbir, ihtiyatî haciz ve tehir-i icra taleplerinde
-teminat şartı aranmaz.
+             Fonun, Fon bankalarının ve tasfiyeleri Fon eliyle yürütülen
+bankaların iflas ve tasfiye idarelerinin, mahkeme ilâmını alması ve
+tebliğe çıkartması işlemlerinde karşı tarafa yükletilmiş olan harcın
+ödenmesi ve her türlü ihtiyatî tedbir, ihtiyatî haciz ve tehir-i icra
+taleplerinde teminat şartı aranmaz.
 
-Fon alacaklarına ilişkin davalarda 1086 sayılı Hukuk Usulü Muhakemeleri
-Kanununun seri muhakeme usûlü hükümleri uygulanır.
+             Fon alacaklarına ilişkin davalarda 1086 sayılı Hukuk Usulü
+Muhakemeleri Kanununun seri muhakeme usûlü hükümleri uygulanır.
 
-Fonun, Fon bankalarının ve tasfiyeleri Fon eliyle yürütülen bankaların
-iflas ve tasfiye idarelerinin, yukarıda belirtilen işlemler nedeniyle
-kendi aralarındaki ve/veya diğer gerçek ve tüzel kişilerle aralarındaki
-işlemler nedeniyle düzenlenen sözleşmeler, belgeler ve sair kâğıtlar ile
-bunların değiştirilmesi, yenilenmesi, uzatılması, devredilmesi ya da
-yeni bir itfa plânına bağlanması, alacakların teminatlandırılması,
-teminatların devir alınması, tarafların sulh ve/veya ibra olması ve/veya
-her ne nam altında olursa olsun herhangi bir işleme tâbi tutulması
-nedeniyle düzenlenen kâğıtlar ve/veya belgeler her türlü vergi, resim ve
-harçlar ile özel kanunları ile hükmolunan malî yükümlülüklerden
-istisnadır. Bu hüküm üçüncü kişiler yönünden, Fonun ve/veya Fona intikal
-eden bir bankanın ve/veya tasfiyeleri Fon eliyle yürütülen müflis
-bankaların iflas idarelerinin, tasfiyeye tâbi tutulan bankaların tasfiye
-idarelerinin alacaklarının tahsili ile ilgili işlemlere taraf olmaları
-hâlinde uygulanır.
+             Fonun, Fon bankalarının ve tasfiyeleri Fon eliyle yürütülen
+bankaların iflas ve tasfiye idarelerinin, yukarıda belirtilen işlemler
+nedeniyle kendi aralarındaki ve/veya diğer gerçek ve tüzel kişilerle
+aralarındaki işlemler nedeniyle düzenlenen sözleşmeler, belgeler ve sair
+kâğıtlar ile bunların değiştirilmesi, yenilenmesi, uzatılması,
+devredilmesi ya da yeni bir itfa plânına bağlanması, alacakların
+teminatlandırılması, teminatların devir alınması, tarafların sulh
+ve/veya ibra olması ve/veya her ne nam altında olursa olsun herhangi bir
+işleme tâbi tutulması nedeniyle düzenlenen kâğıtlar ve/veya belgeler her
+türlü vergi, resim ve harçlar ile özel kanunları ile hükmolunan malî
+yükümlülüklerden istisnadır. Bu hüküm üçüncü kişiler yönünden, Fonun
+ve/veya Fona intikal eden bir bankanın ve/veya tasfiyeleri Fon eliyle
+yürütülen müflis bankaların iflas idarelerinin, tasfiyeye tâbi tutulan
+bankaların tasfiye idarelerinin alacaklarının tahsili ile ilgili
+işlemlere taraf olmaları hâlinde uygulanır.
 
-Fonun, bu Kanunun 131 inci maddesi uyarınca gerçekleştireceği borçlanma
-ve avans işlemleri her türlü vergi, resim ve harçtan istisnadır.
+             Fonun, bu Kanunun 131 inci maddesi uyarınca
+gerçekleştireceği borçlanma ve avans işlemleri her türlü vergi, resim ve
+harçtan istisnadır.
 
-Fon bankaları, faaliyet izni kaldırılan veya tasfiyeleri Fon eliyle
-yürütülen bankaların iflas ve tasfiye idarelerinin alacaklarının
-tahsilini teminen yapacakları her türlü işlem, dava ve icra takipleri,
-bu dava ve takiplerin borçlularınca kabul edilmek suretiyle
-kesinleştirilmesi, her türlü vergi, resim, harç ve fonlar ve 2548 sayılı
-Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar
-ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanunun 1 inci
-maddesi hükmünden istisnadır.
+             Fon bankaları, faaliyet izni kaldırılan veya tasfiyeleri
+Fon eliyle yürütülen bankaların iflas ve tasfiye idarelerinin
+alacaklarının tahsilini teminen yapacakları her türlü işlem, dava ve
+icra takipleri, bu dava ve takiplerin borçlularınca kabul edilmek
+suretiyle kesinleştirilmesi, her türlü vergi, resim, harç ve fonlar ve
+2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak
+Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında
+Kanunun 1 inci maddesi hükmünden istisnadır.
 
-Faaliyet izni kaldırılan bankaların, Fon bankalarının sandıklarının
-Sosyal Sigortalar Kurumuna devri hâlinde, aktüerlerce tespit edilen
-fiili ve teknik açıklar için, faaliyet izni kaldırılan bankaya, Fona
-ve/veya Fon bankalarına rücu edilemez.
+             Faaliyet izni kaldırılan bankaların, Fon bankalarının
+sandıklarının Sosyal Sigortalar Kurumuna devri hâlinde, aktüerlerce
+tespit edilen fiili ve teknik açıklar için, faaliyet izni kaldırılan
+bankaya, Fona ve/veya Fon bankalarına rücu edilemez.
 
-*Zamanaşımı*
+*             Zamanaşımı*
 
-**Madde 141 —** Bu Kanundan kaynaklanan Fon alacaklarına ilişkin dava ve
-takiplerde zamanaşımı süresi yirmi yıldır.
+**             Madde 141 —** Bu Kanundan kaynaklanan Fon alacaklarına
+ilişkin dava ve takiplerde zamanaşımı süresi yirmi yıldır.
 
-*Görevli ve yetkili mahkeme*
+*             Görevli ve yetkili mahkeme*
 
-**Madde 142 —** Fon, Fon bankaları ve faaliyet izni kaldırılan
-bankaların iflas ve tasfiye idareleri tarafından açılacak hukuk
-davalarına asliye ticaret mahkemesi tarafından bakılır. O yerde, birden
-fazla asliye ticaret mahkemesi bulunması hâlinde, bu davalar (1) ve (2)
-numaralı asliye ticaret mahkemesinde görülür.
+**             Madde 142 —** Fon, Fon bankaları ve faaliyet izni
+kaldırılan bankaların iflas ve tasfiye idareleri tarafından açılacak
+hukuk davalarına asliye ticaret mahkemesi tarafından bakılır. O yerde,
+birden fazla asliye ticaret mahkemesi bulunması hâlinde, bu davalar (1)
+ve (2) numaralı asliye ticaret mahkemesinde görülür.
 
 9600
 
-Fon, Fon bankaları ve faaliyet izni kaldırılan bankaların iflas ve
-tasfiye idareleri tarafından muamele merkezi veya ikametgâhı İstanbul
-ili sınırları içinde olan kişiler aleyhine açılacak hukuk davaları ile
-borçlular hakkında açılacak iflas davalarına İstanbul (1) ve (2)
-numaralı asliye ticaret mahkemesi tarafından bakılır. İflas davası
-açılması hâlinde, bu mahkeme, hakkında iflası istenen borçlunun muamele
-merkezinin bulunduğu yer asliye ticaret mahkemesine borçlu aleyhine
-iflas davası açıldığını bildirir.
+########  
 
-Bu Kanun hükümleri ile Fona verilen yetki ve görevler gereğince açılmış
-ve açılacak her türlü davalara adlî tatilde de bakılır, bu davalarda
-bilirkişiler resmî kurum ve kuruluşlarda görev yapanlar arasından
-seçilir, duruşmalara otuz günden fazla ara verilmez.
+             Fon, Fon bankaları ve faaliyet izni kaldırılan bankaların
+iflas ve tasfiye idareleri tarafından muamele merkezi veya ikametgâhı
+İstanbul ili sınırları içinde olan kişiler aleyhine açılacak hukuk
+davaları ile borçlular hakkında açılacak iflas davalarına İstanbul (1)
+ve (2) numaralı asliye ticaret mahkemesi tarafından bakılır. İflas
+davası açılması hâlinde, bu mahkeme, hakkında iflası istenen borçlunun
+muamele merkezinin bulunduğu yer asliye ticaret mahkemesine borçlu
+aleyhine iflas davası açıldığını bildirir.
 
-*Varlık yönetim şirketi*
+             Bu Kanun hükümleri ile Fona verilen yetki ve görevler
+gereğince açılmış ve açılacak her türlü davalara adlî tatilde de
+bakılır, bu davalarda bilirkişiler resmî kurum ve kuruluşlarda görev
+yapanlar arasından seçilir, duruşmalara otuz günden fazla ara verilmez.
 
-**Madde 143 —** Bankalar ve Fon dâhil diğer malî kurumların alacakları
-ile diğer varlıklarının satın alınması, tahsili, yeniden
+*             Varlık yönetim şirketi*
+
+**             Madde 143 —** Bankalar ve Fon dâhil diğer malî kurumların
+alacakları ile diğer varlıklarının satın alınması, tahsili, yeniden
 yapılandırılması ve satılması amacıyla, kuruluş ve faaliyet esasları
 Kurul tarafından belirlenen varlık yönetim şirketleri de kurulabilir.
 Varlık yönetim şirketleri alacaklarının tahsili ve alacakların ve/veya
@@ -4969,47 +5276,48 @@ alacaklarını tahsil etmek amacıyla borçlularına ilâve finansman sağlamak
 veya sermayelerine iştirak etmek dâhil olmak üzere her türlü faaliyeti
 gerçekleştirmeye yetkilidir.
 
-Fon kurulacak varlık yönetim şirketlerine sermaye sağlamak suretiyle
-kurucu ortak veya hissedar olarak katılmaya yetkilidir.
+             Fon kurulacak varlık yönetim şirketlerine sermaye sağlamak
+suretiyle kurucu ortak veya hissedar olarak katılmaya yetkilidir.
 
-Fonun en az yüzde yirmi hissedar olduğu varlık yönetim şirketleri,
-Fondan devraldığı alacaklarla ilgili olarak bu Kanunun 132 nci
-maddesinin sekizinci fıkrası ve 138 inci maddesinin beşinci fıkrasında
-Fona tanınan hak ve yetkileri kullanır.
+             Fonun en az yüzde yirmi hissedar olduğu varlık yönetim
+şirketleri, Fondan devraldığı alacaklarla ilgili olarak bu Kanunun 132
+nci maddesinin sekizinci fıkrası ve 138 inci maddesinin beşinci
+fıkrasında Fona tanınan hak ve yetkileri kullanır.
 
-Varlık yönetim şirketleri bu kapsamdaki işlemleri nedeniyle doğmuş veya
-doğması beklenen, ancak miktarı kesin olarak belli olmayan zararlarını
-karşılamak amacıyla karşılık ayırmak zorundadırlar. Karşılık ayrılacak
-alacakların nitelikleri ile karşılıklara ilişkin esas ve usûller Kurul
-tarafından belirlenir. Varlık yönetim şirketlerinin bu fıkra uyarınca
-ayırdıkları karşılıkların tamamı, ayrıldıkları yılda kurumlar vergisi
-matrahının tespitinde gider olarak kabul edilir.
+             Varlık yönetim şirketleri bu kapsamdaki işlemleri nedeniyle
+doğmuş veya doğması beklenen, ancak miktarı kesin olarak belli olmayan
+zararlarını karşılamak amacıyla karşılık ayırmak zorundadırlar. Karşılık
+ayrılacak alacakların nitelikleri ile karşılıklara ilişkin esas ve
+usûller Kurul tarafından belirlenir. Varlık yönetim şirketlerinin bu
+fıkra uyarınca ayırdıkları karşılıkların tamamı, ayrıldıkları yılda
+kurumlar vergisi matrahının tespitinde gider olarak kabul edilir.
 
-Bu Kanun kapsamında kurulan varlık yönetim şirketleri ile 4743 sayılı
-Malî Sektöre Olan Borçların Yeniden Yapılandırılması ve Bazı Kanunlarda
-Değişiklik Yapılması Hakkında Kanunun bu Kanunla yürürlükten kaldırılan
-3 üncü maddesinin yedinci fıkrası uyarınca Kurulun çıkarmış olduğu
-yönetmelik kapsamında kurulan varlık yönetim şirketlerinin yaptıkları
-işlemler ve bununla ilgili olarak düzenlenen kâğıtlar, kuruluş işlemleri
-de dâhil olmak üzere kuruldukları takvim yılı ve bunu izleyen beş yıl
-süresince 488 sayılı Damga Vergisi Kanununa göre ödenecek damga
-vergisinden, 492 sayılı Harçlar Kanununa göre ödenecek harçlardan, her
-ne nam altında olursa olsun tahsil edilecek tutarlar 6802 sayılı Gider
-Vergileri Kanunu gereği ödenecek banka ve sigorta muameleleri
-vergisinden, kaynak kullanımını destekleme fonuna yapılacak
+             Bu Kanun kapsamında kurulan varlık yönetim şirketleri ile
+4743 sayılı Malî Sektöre Olan Borçların Yeniden Yapılandırılması ve Bazı
+Kanunlarda Değişiklik Yapılması Hakkında Kanunun bu Kanunla yürürlükten
+kaldırılan 3 üncü maddesinin yedinci fıkrası uyarınca Kurulun çıkarmış
+olduğu yönetmelik kapsamında kurulan varlık yönetim şirketlerinin
+yaptıkları işlemler ve bununla ilgili olarak düzenlenen kâğıtlar,
+kuruluş işlemleri de dâhil olmak üzere kuruldukları takvim yılı ve bunu
+izleyen beş yıl süresince 488 sayılı Damga Vergisi Kanununa göre
+ödenecek damga vergisinden, 492 sayılı Harçlar Kanununa göre ödenecek
+harçlardan, her ne nam altında olursa olsun tahsil edilecek tutarlar
+6802 sayılı Gider Vergileri Kanunu gereği ödenecek banka ve sigorta
+muameleleri vergisinden, kaynak kullanımını destekleme fonuna yapılacak
 kesintilerden ve 4054 sayılı Rekabetin Korunması Hakkında Kanunun 39
 uncu maddesi hükmünden istisnadır.
 
-Varlık yönetim şirketi tarafından, bu borçların, taahhütlerin
-yüklenilmesi veya alacakların, varlıkların devralınması hâlinde, bu
-borç, taahhüt, alacak ve varlıklarla ilgili olarak, takibi şikayete
-bağlı suçlar dahil olmak üzere açılmış veya açılacak her türlü ceza
-davalarında, alacağın devralındığı veya borcun, taahhüdün yüklenildiği
-tarihten itibaren, suçtan zarar gören olarak, varlık yönetim şirketi
-kendiliğinden müdahil sıfatını kazanır.
+             Varlık yönetim şirketi tarafından, bu borçların,
+taahhütlerin yüklenilmesi veya alacakların, varlıkların devralınması
+hâlinde, bu borç, taahhüt, alacak ve varlıklarla ilgili olarak, takibi
+şikayete bağlı suçlar dahil olmak üzere açılmış veya açılacak her türlü
+ceza davalarında, alacağın devralındığı veya borcun, taahhüdün
+yüklenildiği tarihten itibaren, suçtan zarar gören olarak, varlık
+yönetim şirketi kendiliğinden müdahil sıfatını kazanır.
 
-Bu Kanunun yayımı tarihinden önce kurulmuş olan varlık yönetim
-şirketleri bu Kanun hükümlerine tâbi olarak faaliyetlerini yürütürler.
+             Bu Kanunun yayımı tarihinden önce kurulmuş olan varlık
+yönetim şirketleri bu Kanun hükümlerine tâbi olarak faaliyetlerini
+yürütürler.
 
 9601
 
@@ -5019,23 +5327,23 @@ ONÜÇÜNCÜ KISIM
 
 *Diğer Hükümler*
 
-*Faiz oranları ile diğer menfaatler*
+*             Faiz oranları ile diğer menfaatler*
 
-**Madde 144 —** Bakanlar Kurulu, bankaların ödünç para verme işlemleri
-ve mevduat kabulünde uygulanacak azamî faiz oranlarını, katılma
-hesaplarında kâr ve zarara katılma oranlarını, özel cari hesaplar dâhil
-bu maddede belirtilen işlemlerde sağlanacak diğer menfaatlerin
-nitelikleri ile azamî miktar ya da oranlarını tespit etmeye, bunları
-kısmen veya tamamen serbest bırakmaya yetkilidir. Bakanlar Kurulu, bu
-yetkilerini Merkez Bankasına devredebilir.
+**             Madde 144 —** Bakanlar Kurulu, bankaların ödünç para
+verme işlemleri ve mevduat kabulünde uygulanacak azamî faiz oranlarını,
+katılma hesaplarında kâr ve zarara katılma oranlarını, özel cari
+hesaplar dâhil bu maddede belirtilen işlemlerde sağlanacak diğer
+menfaatlerin nitelikleri ile azamî miktar ya da oranlarını tespit
+etmeye, bunları kısmen veya tamamen serbest bırakmaya yetkilidir.
+Bakanlar Kurulu, bu yetkilerini Merkez Bankasına devredebilir.
 
-*Parasal tutarlar*
+*             Parasal tutarlar*
 
-**Madde 145 —** Para cezalarına ilişkin hükümler hariç olmak üzere, bu
-Kanundaki parasal tutar ve sınırlardan her biri, her yıl kısmen ya da
-tamamen, Devlet İstatistik Enstitüsü tarafından açıklanan yıllık üretici
-fiyat endeksindeki artış oranının gerektirdiği miktarı geçmemek üzere
-Kurul kararıyla artırılabilir.
+**             Madde 145 —** Para cezalarına ilişkin hükümler hariç
+olmak üzere, bu Kanundaki parasal tutar ve sınırlardan her biri, her yıl
+kısmen ya da tamamen, Devlet İstatistik Enstitüsü tarafından açıklanan
+yıllık üretici fiyat endeksindeki artış oranının gerektirdiği miktarı
+geçmemek üzere Kurul kararıyla artırılabilir.
 
  
 
@@ -5047,147 +5355,158 @@ BİRİNCİ BÖLÜM
 
 *İdarî Para Cezaları *
 
-*Kuruluşlara ilişkin idarî para cezaları*
+*             Kuruluşlara ilişkin idarî para cezaları*
 
-**Madde 146 —** Kurul kararıyla ve gerekçesi belirtilmek suretiyle, bu
-Kanun kapsamındaki kuruluşlara, bu Kanunun;
+**             Madde 146 —** Kurul kararıyla ve gerekçesi belirtilmek
+suretiyle, bu Kanun kapsamındaki kuruluşlara, bu Kanunun;
 
-a\) 13 üncü ve 14 üncü maddelerine aykırı şekilde şube ve temsilcilik
-açılması hâlinde, onbeşbin Yeni Türk Lirasından ellibin Yeni Türk
-Lirasına kadar,
+             a) 13 üncü ve 14 üncü maddelerine aykırı şekilde şube ve
+temsilcilik açılması hâlinde, onbeşbin Yeni Türk Lirasından ellibin Yeni
+Türk Lirasına kadar,
 
-b\) 18 inci maddesinin ikinci ve dördüncü fıkraları hükümlerine aykırılık
-hâlinde, beşbin Yeni Türk Lirasından onbeşbin Yeni Türk Lirasına kadar,
+             b) 18 inci maddesinin ikinci ve dördüncü fıkraları
+hükümlerine aykırılık hâlinde, beşbin Yeni Türk Lirasından onbeşbin Yeni
+Türk Lirasına kadar,
 
-c\) 25 inci maddesine aykırı şekilde atama yapılması veya 26 ncı
-maddesinde belirtilen kişilerin yasaklanan görevlerde çalıştırılması
+             c) 25 inci maddesine aykırı şekilde atama yapılması veya 26
+ncı maddesinde belirtilen kişilerin yasaklanan görevlerde çalıştırılması
 hâlinde, onbin Yeni Türk Lirasından kırkbin Yeni Türk Lirasına kadar ve
 cezanın tebliğ tarihinden itibaren on iş günü içinde aykırılığın
 giderilmemesi hâlinde, bu sürenin bitiminden itibaren geçen her gün için
 verilmiş olan cezanın yüzde onu tutarında,
 
-d\) 28 inci madde hükümlerine aykırılık hâlinde, beşbin Yeni Türk
-Lirasından onbeşbin Yeni Türk Lirasına kadar,
+             d) 28 inci madde hükümlerine aykırılık hâlinde, beşbin Yeni
+Türk Lirasından onbeşbin Yeni Türk Lirasına kadar,
 
-e\) 33 veya 34 üncü maddelerine ya da 37 nci maddesinin birinci fıkrasına
-ya da 38, 39 veya 42 nci maddelere aykırı davranılması hâlinde onbin
-Yeni Türk Lirasından yirmibeşbin Yeni Türk Lirasına kadar,
+             e) 33 veya 34 üncü maddelerine ya da 37 nci maddesinin
+birinci fıkrasına ya da 38, 39 veya 42 nci maddelere aykırı davranılması
+hâlinde onbin Yeni Türk Lirasından yirmibeşbin Yeni Türk Lirasına kadar,
 
-f\) 43 üncü maddede öngörülen bildirimlerin yapılmaması hâlinde beşbin
-Yeni Türk Lirasından onbeşbin Yeni Türk Lirasına kadar,
+             f) 43 üncü maddede öngörülen bildirimlerin yapılmaması
+hâlinde beşbin Yeni Türk Lirasından onbeşbin Yeni Türk Lirasına kadar,
 
-g\) 50 nci maddesindeki kredi yasaklarına uyulmaması hâlinde beşbin Yeni
-Türk Lirasından az olmamak üzere verilen kredinin yüzde beşi tutarına
-kadar,
+             g) 50 nci maddesindeki kredi yasaklarına uyulmaması hâlinde
+beşbin Yeni Türk Lirasından az olmamak üzere verilen kredinin yüzde beşi
+tutarına kadar,
 
-h\) 52 nci maddesine aykırı davranılması hâlinde, beşbin Yeni Türk
-Lirasından onbin Yeni Türk Lirasına kadar,
+             h) 52 nci maddesine aykırı davranılması hâlinde, beşbin
+Yeni Türk Lirasından onbin Yeni Türk Lirasına kadar,
 
-i\) 53 üncü maddesine göre ayrılması gereken karşılıkların tesis
-edilmemesi hâlinde, beşbin Yeni Türk Lirasından az olmamak üzere,
+             i) 53 üncü maddesine göre ayrılması gereken karşılıkların
+tesis edilmemesi hâlinde, beşbin Yeni Türk Lirasından az olmamak üzere,
 ayrılması gereken karşılık tutarının binde ikisine kadar; üç aydan az
 olmamak üzere Kurumca verilecek süre içinde aykırılığın giderilmemesi
 hâlinde ise, tesis edilmeyen karşılık tutarının yüzde üçü tutarında,
 
 9602
 
-j\) 54 üncü maddesindeki kredi sınırlarına uyulmaması hâlinde, ellibin
-Yeni Türk Lirasından az olmamak üzere aykırılık oluşturan tutarın yüzde
-birine kadar,
+########  
 
-k\) 56 ncı maddesine aykırı şekilde ortaklık payı edinilmesi hâlinde,
-yirmibin Yeni Türk Lirasından az olmamak üzere, aykırılık teşkil eden
-tutarın yüzde beşine kadar ve cezanın tebliğ tarihinden itibaren bir yıl
-içinde aykırılığın giderilmemesi durumunda ise bu sürenin bitiminden
-itibaren aykırılığın giderildiği tarihe kadar geçen her gün için verilen
-cezanın yüzde biri tutarında,
+             j) 54 üncü maddesindeki kredi sınırlarına uyulmaması
+hâlinde, ellibin Yeni Türk Lirasından az olmamak üzere aykırılık
+oluşturan tutarın yüzde birine kadar,
 
-l\) 57 nci maddesindeki yasaklama ve sınırlamalara aykırılık hâlinde,
-yirmibin Yeni Türk Lirasından az olmamak üzere, yasaklama ve sınırlama
-konusu değerin yüzde onuna kadar ve cezanın tebliğ tarihinden itibaren
-bir yıl içinde aykırılığın giderilmemesi durumunda ise, kredi
+             k) 56 ncı maddesine aykırı şekilde ortaklık payı edinilmesi
+hâlinde, yirmibin Yeni Türk Lirasından az olmamak üzere, aykırılık
+teşkil eden tutarın yüzde beşine kadar ve cezanın tebliğ tarihinden
+itibaren bir yıl içinde aykırılığın giderilmemesi durumunda ise bu
+sürenin bitiminden itibaren aykırılığın giderildiği tarihe kadar geçen
+her gün için verilen cezanın yüzde biri tutarında,
+
+             l) 57 nci maddesindeki yasaklama ve sınırlamalara aykırılık
+hâlinde, yirmibin Yeni Türk Lirasından az olmamak üzere, yasaklama ve
+sınırlama konusu değerin yüzde onuna kadar ve cezanın tebliğ tarihinden
+itibaren bir yıl içinde aykırılığın giderilmemesi durumunda ise, kredi
 kullandırımından kaynaklanan aykırılık hariç, bu sürenin bitiminden
 itibaren aykırılığın giderildiği tarihe kadar geçen her gün için verilen
 cezanın yüzde biri tutarında,
 
-m\) 58 inci madde hükmüne aykırılık hâlinde beşbin Yeni Türk Lirasından
-az olmamak üzere aktarılan miktar kadar, 59 uncu maddedeki sınırlamaya
-uyulmaması hâlinde, beşbin Yeni Türk Lirasından az olmamak üzere sınırı
-aşan miktar kadar,
+             m) 58 inci madde hükmüne aykırılık hâlinde beşbin Yeni Türk
+Lirasından az olmamak üzere aktarılan miktar kadar, 59 uncu maddedeki
+sınırlamaya uyulmaması hâlinde, beşbin Yeni Türk Lirasından az olmamak
+üzere sınırı aşan miktar kadar,
 
-n\) 60 ıncı maddesinin beşinci ve yedinci fıkralarına uyulmaması hâlinde
-onbeşbin Yeni Türk Lirasından ellibin Yeni Türk Lirasına kadar,
+             n) 60 ıncı maddesinin beşinci ve yedinci fıkralarına
+uyulmaması hâlinde onbeşbin Yeni Türk Lirasından ellibin Yeni Türk
+Lirasına kadar,
 
-o\) 61 inci maddesindeki yükümlülüğün yerine getirilmemesi hâlinde beşbin
-Yeni Türk Lirasından onbin Yeni Türk Lirasına kadar,
+             o) 61 inci maddesindeki yükümlülüğün yerine getirilmemesi
+hâlinde beşbin Yeni Türk Lirasından onbin Yeni Türk Lirasına kadar,
 
-p\) 95 ve 96 ncı maddeleri kapsamında Kurum tarafından bu Kanun
-kapsamındaki kuruluşlardan talep edilen bilgilerin gönderilmemesi
+             p) 95 ve 96 ncı maddeleri kapsamında Kurum tarafından bu
+Kanun kapsamındaki kuruluşlardan talep edilen bilgilerin gönderilmemesi
 hâlinde beşbin Yeni Türk Lirasından onbeşbin Yeni Türk Lirasına, geç
 gönderilmesi hâlinde beşbin Yeni Türk Lirasından onbin Yeni Türk
 Lirasına, eksik bilgi ile gönderilmesi, kontrol hataları içermesi veya
 kontrol hatalarının süreklilik arz etmesi hâlinde beşbin Yeni Türk
 Lirasından onbeşbin Yeni Türk Lirasına kadar,
 
-r\) 144 üncü maddesi uyarınca alınan kararlara ve yapılan düzenlemelere
-uyulmaması hâlinde yirmibin Yeni Türk Lirası, ayrıca Bakanlar Kurulu
-veya Merkez Bankası tarafından miktar ya da oranların tespit edildiği
-durumlarda, söz konusu miktar ve oranlara aykırı şekilde faiz alınması
-veya verilmesi ya da menfaat sağlanması hâlinde, sağlanan menfaat tutarı
-kadar,
+             r) 144 üncü maddesi uyarınca alınan kararlara ve yapılan
+düzenlemelere uyulmaması hâlinde yirmibin Yeni Türk Lirası, ayrıca
+Bakanlar Kurulu veya Merkez Bankası tarafından miktar ya da oranların
+tespit edildiği durumlarda, söz konusu miktar ve oranlara aykırı şekilde
+faiz alınması veya verilmesi ya da menfaat sağlanması hâlinde, sağlanan
+menfaat tutarı kadar,
 
-İdarî para cezası uygulanır.
+             İdarî para cezası uygulanır.
 
-Kurul bu madde uyarınca verilecek cezaları bu Kanunun 68, 69 ve 70 inci
-maddeleri uygulanan bankalar için yüzde ellisine, 71 inci maddesi
-uygulanan bankalar için ise yüzde yüzüne kadar indirmeye yetkilidir.
+             Kurul bu madde uyarınca verilecek cezaları bu Kanunun 68,
+69 ve 70 inci maddeleri uygulanan bankalar için yüzde ellisine, 71 inci
+maddesi uygulanan bankalar için ise yüzde yüzüne kadar indirmeye
+yetkilidir.
 
-*İlgili kişilere ilişkin idarî para cezaları*
+*             İlgili kişilere ilişkin idarî para cezaları*
 
-**Madde 147 —** Kurul kararıyla ve gerekçesi belirtilmek suretiyle,
-ilgili gerçek ve tüzel kişilere, bu Kanunun;
+**             Madde 147 —** Kurul kararıyla ve gerekçesi belirtilmek
+suretiyle, ilgili gerçek ve tüzel kişilere, bu Kanunun;
 
-a\) 18 inci maddesinin birinci, ikinci veya dördüncü fıkrasına aykırılık
-hâlinde, beşbin Yeni Türk Lirasından onbeşbin Yeni Türk Lirasına kadar,
+             a) 18 inci maddesinin birinci, ikinci veya dördüncü
+fıkrasına aykırılık hâlinde, beşbin Yeni Türk Lirasından onbeşbin Yeni
+Türk Lirasına kadar,
 
-b\) 36 ncı maddesine aykırılık hâlinde, beşbin Yeni Türk Lirasından
-yirmibin Yeni Türk Lirasına kadar,
+             b) 36 ncı maddesine aykırılık hâlinde, beşbin Yeni Türk
+Lirasından yirmibin Yeni Türk Lirasına kadar,
 
-c\) 38 inci maddesine aykırılık hâlinde, beşbin Yeni Türk Lirasından
-yirmibin Yeni Türk Lirasına kadar,
+             c) 38 inci maddesine aykırılık hâlinde, beşbin Yeni Türk
+Lirasından yirmibin Yeni Türk Lirasına kadar,
 
-İdarî para cezası uygulanır.
+             İdarî para cezası uygulanır.
 
-*Sınırlamalara, kararlara ve düzenlemelere aykırı hareketler dolayısıyla
-idarî para cezaları*
+*             Sınırlamalara, kararlara ve düzenlemelere aykırı
+hareketler dolayısıyla idarî para cezaları*
 
-**Madde 148. —** Kurul kararıyla ve gerekçesi belirtilmek suretiyle, bu
-Kanun kapsamındaki kuruluşlar ile ilgili gerçek ve tüzel kişilere;
+**             Madde 148. —** Kurul kararıyla ve gerekçesi belirtilmek
+suretiyle, bu Kanun kapsamındaki kuruluşlar ile ilgili gerçek ve tüzel
+kişilere;
 
 9603
 
-a\) Bu Kanun veya bu Kanuna istinaden çıkarılan düzenlemelerde yer alan
-sınırlamalara uyulmaması hâlinde onbin Yeni Türk Lirasından az olmamak
-üzere aykırılık oluşturan tutarın binde beşine kadar,
+########  
 
-b\) İlgili maddelerine göre, Kurul ve Kurum tarafından bu Kanuna
-dayanılarak alınan kararlara, çıkarılan yönetmelik ve tebliğlere ve
-yapılan diğer düzenlemelere uyulmaması hâlinde beşbin Yeni Türk
+             a) Bu Kanun veya bu Kanuna istinaden çıkarılan
+düzenlemelerde yer alan sınırlamalara uyulmaması hâlinde onbin Yeni Türk
+Lirasından az olmamak üzere aykırılık oluşturan tutarın binde beşine
+kadar,
+
+             b) İlgili maddelerine göre, Kurul ve Kurum tarafından bu
+Kanuna dayanılarak alınan kararlara, çıkarılan yönetmelik ve tebliğlere
+ve yapılan diğer düzenlemelere uyulmaması hâlinde beşbin Yeni Türk
 Lirasından onbin Yeni Türk Lirasına kadar,
 
-İdarî para cezası uygulanır.
+             İdarî para cezası uygulanır.
 
-*Savunma hakkı ve kapatma kararı *
+*             Savunma hakkı ve kapatma kararı *
 
-**Madde 149 —** İdarî para cezalarının uygulanıp uygulanmayacağına
-ilgilinin savunması alındıktan sonra karar verilir. Savunma istendiğine
-ilişkin yazının tebliğ tarihinden itibaren bir ay içinde savunma
-verilmemesi hâlinde savunma hakkından feragat edildiği kabul edilir.
+**             Madde 149 —** İdarî para cezalarının uygulanıp
+uygulanmayacağına ilgilinin savunması alındıktan sonra karar verilir.
+Savunma istendiğine ilişkin yazının tebliğ tarihinden itibaren bir ay
+içinde savunma verilmemesi hâlinde savunma hakkından feragat edildiği
+kabul edilir.
 
-Bu Kanunun 13 üncü maddesi hükümlerine aykırı olarak yurt içinde açılan
-şube ve temsilcilikler hakkında 146 ncı maddenin birinci fıkrasının (a)
-bendi hükümleri uygulanmakla birlikte, bunlar Kurumun talebi üzerine
-valiliklerce geçici veya sürekli kapatılabilir.
+             Bu Kanunun 13 üncü maddesi hükümlerine aykırı olarak yurt
+içinde açılan şube ve temsilcilikler hakkında 146 ncı maddenin birinci
+fıkrasının (a) bendi hükümleri uygulanmakla birlikte, bunlar Kurumun
+talebi üzerine valiliklerce geçici veya sürekli kapatılabilir.
 
  
 
@@ -5195,17 +5514,17 @@ valiliklerce geçici veya sürekli kapatılabilir.
 
 *Suçlar*
 
-*İzinsiz faaliyette bulunmak*
+*             İzinsiz faaliyette bulunmak*
 
-**Madde 150 —** Bu Kanuna göre alınması gereken izinleri almaksızın
-banka gibi faaliyet gösteren ya da mevduat kabul eden yahut katılım fonu
-toplayan gerçek kişiler ile tüzel kişilerin görevlileri, üç yıldan beş
-yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
+**             Madde 150 —** Bu Kanuna göre alınması gereken izinleri
+almaksızın banka gibi faaliyet gösteren ya da mevduat kabul eden yahut
+katılım fonu toplayan gerçek kişiler ile tüzel kişilerin görevlileri, üç
+yıldan beş yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
 cezalandırılır. Ayrıca, bu suçun bir işyeri bünyesinde işlenmesi hâlinde
 bu işyerlerinin bir aydan bir yıla kadar, tekerrür hâlinde ise sürekli
 olarak kapatılmasına karar verilebilir.
 
-Bu Kanuna göre alınması gereken izinleri almaksızın ticaret
+             Bu Kanuna göre alınması gereken izinleri almaksızın ticaret
 unvanlarında, her türlü belge, ilân ve reklamlarında veya kamuoyuna
 yaptıkları açıklamalarda banka adını ya da banka gibi faaliyet
 gösterdikleri ya da banka gibi mevduat veya katılım fonu topladıkları
@@ -5215,131 +5534,139 @@ güne kadar adlî para cezası ile cezalandırılır. Ayrıca, bu işyerlerinin
 bir aydan bir yıla kadar, tekerrür hâlinde ise sürekli olarak
 kapatılmasına karar verilebilir.
 
-Yukarıdaki fıkralara aykırılık hâlinde Kurumun ilgili Cumhuriyet
-başsavcılığını muhatap talebi üzerine sulh ceza hâkimince, dava açılması
-hâlinde davaya bakan mahkemece işyerlerinin faaliyetleri ve reklamlar
-geçici olarak durdurulur, ilânları toplatılır. Bu tedbirler, hâkim
-kararıyla kaldırılıncaya kadar devam eder. Bu kararlara karşı itiraz
-yolu açıktır.
+             Yukarıdaki fıkralara aykırılık hâlinde Kurumun ilgili
+Cumhuriyet başsavcılığını muhatap talebi üzerine sulh ceza hâkimince,
+dava açılması hâlinde davaya bakan mahkemece işyerlerinin faaliyetleri
+ve reklamlar geçici olarak durdurulur, ilânları toplatılır. Bu
+tedbirler, hâkim kararıyla kaldırılıncaya kadar devam eder. Bu kararlara
+karşı itiraz yolu açıktır.
 
-*Mevduat ve katılım fonu sahiplerinin haklarını engellemek*
+*             Mevduat ve katılım fonu sahiplerinin haklarını engellemek*
 
-**Madde 151 —** Bu Kanunun 61 inci maddesi hükmüne aykırı davrananlar
-altı aydan iki yıla kadar hapis ve beşyüz güne kadar adlî para cezası
-ile cezalandırılır.
+**             Madde 151 —** Bu Kanunun 61 inci maddesi hükmüne aykırı
+davrananlar altı aydan iki yıla kadar hapis ve beşyüz güne kadar adlî
+para cezası ile cezalandırılır.
 
-*Düzeltici, iyileştirici ve kısıtlayıcı önlemleri almamak*
+*             Düzeltici, iyileştirici ve kısıtlayıcı önlemleri almamak*
 
-**Madde 152 —** Bu Kanunun 68, 69 ve 70 inci maddelerine ve bu Kanunla
-yürürlükten kaldırılan 4389 sayılı Bankalar Kanununun 14 üncü maddesine
-göre, Kurul veya Kurumca alınması istenen önlemleri almayan bankaların
-bu önlemleri almakla yükümlü olan mensupları, iki yıldan dört yıla kadar
-hapis ve bin günden beşbin güne kadar adlî para cezasıyla
+**             Madde 152 —** Bu Kanunun 68, 69 ve 70 inci maddelerine ve
+bu Kanunla yürürlükten kaldırılan 4389 sayılı Bankalar Kanununun 14 üncü
+maddesine göre, Kurul veya Kurumca alınması istenen önlemleri almayan
+bankaların bu önlemleri almakla yükümlü olan mensupları, iki yıldan dört
+yıla kadar hapis ve bin günden beşbin güne kadar adlî para cezasıyla
 cezalandırılırlar.
 
-Birinci fıkrada belirtilen önlemleri almamak, bankanın nitelikli paya
-sahip ortaklarına veya bunların iştirak ve kuruluşlarına yarar sağlamak
-amacıyla yapıldığı takdirde dört yıldan altı yıla kadar hapis cezasına
-ve onbin güne kadar adlî para cezasına hükmedilir.
+             Birinci fıkrada belirtilen önlemleri almamak, bankanın
+nitelikli paya sahip ortaklarına veya bunların iştirak ve kuruluşlarına
+yarar sağlamak amacıyla yapıldığı takdirde dört yıldan altı yıla kadar
+hapis cezasına ve onbin güne kadar adlî para cezasına hükmedilir.
 
 9604
 
-*Yetkili merciler ile denetim görevlilerince istenen bilgi ve belgeleri
-vermemek ve görevlerini yapmalarını engellemek*
+########  
 
-**Madde 153 —** Bu Kanunla yetkilendirilen mercilerin ve denetim
-görevlilerinin istedikleri bilgi ve belgeler ile bu Kanun kapsamındaki
-kuruluşların, konsolide finansal tabloların hazırlanmasını teminen 38
-inci madde kapsamında istedikleri bilgi ve belgeleri vermeyen kişi bir
-yıldan üç yıla kadar hapis ve beşyüz günden binbeşyüz güne kadar adlî
-para cezası ile cezalandırılır.
+*             Yetkili merciler ile denetim görevlilerince istenen bilgi
+ve belgeleri vermemek ve görevlerini yapmalarını engellemek*
 
-Bu Kanunla yetkilendirilen denetim görevlilerinin görevlerini
-yapmalarına engel olan kişi iki yıldan beş yıla kadar hapis cezası ile
-cezalandırılır.
+**             Madde 153 —** Bu Kanunla yetkilendirilen mercilerin ve
+denetim görevlilerinin istedikleri bilgi ve belgeler ile bu Kanun
+kapsamındaki kuruluşların, konsolide finansal tabloların hazırlanmasını
+teminen 38 inci madde kapsamında istedikleri bilgi ve belgeleri vermeyen
+kişi bir yıldan üç yıla kadar hapis ve beşyüz günden binbeşyüz güne
+kadar adlî para cezası ile cezalandırılır.
 
-*Belgelerin saklanması yükümlülüğüne aykırı davranmak*
+             Bu Kanunla yetkilendirilen denetim görevlilerinin
+görevlerini yapmalarına engel olan kişi iki yıldan beş yıla kadar hapis
+cezası ile cezalandırılır.
 
-**Madde 154 —** Bu Kanunun 42 nci maddesinde belirtilen belgelerin
-saklanması yükümlülüğüne uymayanlar bir yıldan üç yıla kadar hapis ve
-beşyüz günden binbeşyüz güne kadar adlî para cezası ile
+*             Belgelerin saklanması yükümlülüğüne aykırı davranmak*
+
+**             Madde 154 —** Bu Kanunun 42 nci maddesinde belirtilen
+belgelerin saklanması yükümlülüğüne uymayanlar bir yıldan üç yıla kadar
+hapis ve beşyüz günden binbeşyüz güne kadar adlî para cezası ile
 cezalandırılırlar.
 
-*Gerçeğe aykırı beyanda bulunmak*
+*             Gerçeğe aykırı beyanda bulunmak*
 
-**Madde 155 —** Bu Kanun kapsamındaki kuruluşların, bu Kanunda
-gösterilen merciler ile denetim görevlilerine ve mahkemelere verdikleri
-veya yayımladıkları belgelerdeki gerçeğe aykırı beyanlardan dolayı,
-bunları ve bunların düzenlenmesine esas teşkil eden her türlü belgeleri
-imza edenler, bir yıldan üç yıla kadar hapis ve binbeşyüz günden az
-olmamak üzere adlî para cezası ile cezalandırılır.
+**             Madde 155 —** Bu Kanun kapsamındaki kuruluşların, bu
+Kanunda gösterilen merciler ile denetim görevlilerine ve mahkemelere
+verdikleri veya yayımladıkları belgelerdeki gerçeğe aykırı beyanlardan
+dolayı, bunları ve bunların düzenlenmesine esas teşkil eden her türlü
+belgeleri imza edenler, bir yıldan üç yıla kadar hapis ve binbeşyüz
+günden az olmamak üzere adlî para cezası ile cezalandırılır.
 
-*İşlemlerin kayıt dışı bırakılması ve gerçeğe aykırı muhasebeleştirme *
+*             İşlemlerin kayıt dışı bırakılması ve gerçeğe aykırı
+muhasebeleştirme *
 
-**Madde 156 —** Bu Kanun kapsamındaki kuruluşların işlemlerinin kayıt
-dışı bırakılmasından, gerçek mahiyetlerine uygun düşmeyen bir şekilde
-muhasebeleştirilmesinden, kanunî ve yardımcı defter ve kayıtları,
-şubeleri, yurt içi ve yurt dışındaki muhabirleri ile hesap mutabakatı
-sağlanmadan yıl sonu bilançolarını kapatmalarından dolayı, bunları ve
-bunların düzenlenmesine esas olan her türlü belgeleri imza edenler bir
-yıldan üç yıla kadar hapis ve binbeşyüz günden az olmamak üzere adlî
-para cezası ile cezalandırılır. Gerçeğe aykırı olarak düzenlendiğini
-bildiği halde bu belgeleri onaylayan bağımsız denetim kuruluşu
-görevlileri de aynı şekilde cezalandırılır.
+**             Madde 156 —** Bu Kanun kapsamındaki kuruluşların
+işlemlerinin kayıt dışı bırakılmasından, gerçek mahiyetlerine uygun
+düşmeyen bir şekilde muhasebeleştirilmesinden, kanunî ve yardımcı defter
+ve kayıtları, şubeleri, yurt içi ve yurt dışındaki muhabirleri ile hesap
+mutabakatı sağlanmadan yıl sonu bilançolarını kapatmalarından dolayı,
+bunları ve bunların düzenlenmesine esas olan her türlü belgeleri imza
+edenler bir yıldan üç yıla kadar hapis ve binbeşyüz günden az olmamak
+üzere adlî para cezası ile cezalandırılır. Gerçeğe aykırı olarak
+düzenlendiğini bildiği halde bu belgeleri onaylayan bağımsız denetim
+kuruluşu görevlileri de aynı şekilde cezalandırılır.
 
-*Sistemi engelleme, bozma, verileri yok etme veya değiştirme*
+*             Sistemi engelleme, bozma, verileri yok etme veya
+değiştirme*
 
-**Madde 157 —** Bu Kanuna tâbi kuruluşlar, 5237 sayılı Türk Ceza
-Kanununun 244 üncü maddesinde tanımlanan sistemi engelleme, bozma,
+**             Madde 157 —** Bu Kanuna tâbi kuruluşlar, 5237 sayılı Türk
+Ceza Kanununun 244 üncü maddesinde tanımlanan sistemi engelleme, bozma,
 verileri yok etme veya değiştirme suçu açısından banka veya kredi kurumu
 olarak kabul edilir.
 
-*İtibarın zedelenmesi*
+*             İtibarın zedelenmesi*
 
-**Madde 158 —** Bu Kanunun 74 üncü maddesine aykırı davrananlar bir
-yıldan üç yıla kadar hapis ve bin günden ikibin güne kadar adlî para
-cezası ile cezalandırılır.
+**             Madde 158 —** Bu Kanunun 74 üncü maddesine aykırı
+davrananlar bir yıldan üç yıla kadar hapis ve bin günden ikibin güne
+kadar adlî para cezası ile cezalandırılır.
 
-Yukarıdaki fıkrada yazılı fiil neticesinde özel veya kamusal bir zarar
-doğarsa verilecek ceza altıda bir oranında artırılarak hükmolunur.
+             Yukarıdaki fıkrada yazılı fiil neticesinde özel veya
+kamusal bir zarar doğarsa verilecek ceza altıda bir oranında artırılarak
+hükmolunur.
 
-*Sırların açıklanması *
+**            ** *Sırların açıklanması *
 
-**Madde 159 —** Bu Kanunun 73 üncü maddesinin birinci ve üçüncü
-fıkralarında belirtilen yükümlülüğe uymayanlar için bir yıldan üç yıla
-kadar hapis ve bin günden ikibin güne kadar adlî para cezası hükmolunur.
-Banka ve müşterilere ait sırları açıklayan üçüncü kişiler hakkında da
-aynı cezalar uygulanır.
+**             Madde 159 —** Bu Kanunun 73 üncü maddesinin birinci ve
+üçüncü fıkralarında belirtilen yükümlülüğe uymayanlar için bir yıldan üç
+yıla kadar hapis ve bin günden ikibin güne kadar adlî para cezası
+hükmolunur. Banka ve müşterilere ait sırları açıklayan üçüncü kişiler
+hakkında da aynı cezalar uygulanır.
 
-Yukarıdaki fıkrada belirtilen kimseler sırları kendileri ya da başkaları
-için yarar sağlamak amacıyla açıklamış olursa verilecek cezalar altıda
-bir oranında artırılır. Ayrıca, fiilin önemine göre sorumluların bu
-Kanun kapsamına giren kuruluşlarda görev yapmaları, iki yıldan aşağı
-olmamak üzere geçici veya sürekli olarak yasaklanır.
+             Yukarıdaki fıkrada belirtilen kimseler sırları kendileri ya
+da başkaları için yarar sağlamak amacıyla açıklamış olursa verilecek
+cezalar altıda bir oranında artırılır. Ayrıca, fiilin önemine göre
+sorumluların bu Kanun kapsamına giren kuruluşlarda görev yapmaları, iki
+yıldan aşağı olmamak üzere geçici veya sürekli olarak yasaklanır.
 
 9605
 
-*Zimmet*
+########  
 
-**Madde 160 —** Görevi nedeniyle zilyetliği kendisine devredilmiş olan
-veya koruma ve gözetimiyle yükümlü olduğu para veya para yerine geçen
-evrak veya senetleri veya diğer malları kendisinin ya da başkasının
-zimmetine geçiren banka yönetim kurulu başkan ve üyeleri ile diğer
-mensupları, altı yıldan oniki yıla kadar hapis ve beşbin güne kadar adlî
-para cezası ile cezalandırılacakları gibi bankanın uğradığı zararı
-tazmine mahkûm edilirler.
+*             Zimmet*
 
-Suçun, zimmetin açığa çıkmamasını sağlamaya yönelik hileli davranışlarla
-işlenmesi hâlinde faile on iki yıldan az olmamak üzere hapis ve yirmibin
-güne kadar adli para cezası verilir; ancak, adli para cezasının miktarı
-bankanın uğradığı zararın üç katından az olamaz. Ayrıca meydana gelen
-zararın ödenmemesi hâlinde mahkemece re'sen ödettirilmesine hükmolunur.
+**             Madde 160 —** Görevi nedeniyle zilyetliği kendisine
+devredilmiş olan veya koruma ve gözetimiyle yükümlü olduğu para veya
+para yerine geçen evrak veya senetleri veya diğer malları kendisinin ya
+da başkasının zimmetine geçiren banka yönetim kurulu başkan ve üyeleri
+ile diğer mensupları, altı yıldan oniki yıla kadar hapis ve beşbin güne
+kadar adlî para cezası ile cezalandırılacakları gibi bankanın uğradığı
+zararı tazmine mahkûm edilirler.
 
-Faaliyet izni kaldırılan veya Fona devredilen bir bankanın; hukuken veya
-fiilen yönetim ve denetimini elinde bulundurmuş olan gerçek kişi
-ortaklarının, kredi kuruluşunun kaynaklarını, kredi kuruluşunun emin bir
-şekilde çalışmasını tehlikeye düşürecek şekilde doğrudan veya dolaylı
-olarak kendilerinin veya başkalarının menfaatlerine kullandırmak
+             Suçun, zimmetin açığa çıkmamasını sağlamaya yönelik hileli
+davranışlarla işlenmesi hâlinde faile on iki yıldan az olmamak üzere
+hapis ve yirmibin güne kadar adli para cezası verilir; ancak, adli para
+cezasının miktarı bankanın uğradığı zararın üç katından az olamaz.
+Ayrıca meydana gelen zararın ödenmemesi hâlinde mahkemece re'sen
+ödettirilmesine hükmolunur.
+
+             Faaliyet izni kaldırılan veya Fona devredilen bir bankanın;
+hukuken veya fiilen yönetim ve denetimini elinde bulundurmuş olan gerçek
+kişi ortaklarının, kredi kuruluşunun kaynaklarını, kredi kuruluşunun
+emin bir şekilde çalışmasını tehlikeye düşürecek şekilde doğrudan veya
+dolaylı olarak kendilerinin veya başkalarının menfaatlerine kullandırmak
 suretiyle, kredi kuruluşunu her ne suretle olursa olsun zarara
 uğratmaları zimmet olarak kabul edilir. Bu fiilleri işleyenler hakkında
 on yıldan yirmi yıla kadar hapis ve yirmibin güne kadar adlî para
@@ -5347,27 +5674,28 @@ cezasına hükmolunur; ancak, adlî para cezasının miktarı bankanın
 uğradığı zararın üç katından az olamaz. Ayrıca, meydana gelen zararın
 müteselsilen ödettirilmesine karar verilir.
 
-Soruşturma başlamadan önce, zimmete geçirilen para veya para yerine
-geçen evrak veya senetlerin veya diğer malların aynen iade edilmesi veya
-uğranılan zararın tamamen tazmin edilmesi hâlinde, verilecek cezanın
-üçte ikisi indirilir.
-
-Kovuşturma başlamadan önce, gönüllü olarak, zimmete geçirilen para veya
+             Soruşturma başlamadan önce, zimmete geçirilen para veya
 para yerine geçen evrak veya senetlerin veya diğer malların aynen iade
 edilmesi veya uğranılan zararın tamamen tazmin edilmesi hâlinde,
-verilecek cezanın yarısı indirilir. Bu durumun hükümden önce
-gerçekleşmesi hâlinde, verilecek cezanın üçte biri indirilir.
+verilecek cezanın üçte ikisi indirilir.
 
-Zimmet suçunun konusunu oluşturan para veya para yerine geçen evrak veya
-senetlerin veya diğer malların değerinin azlığı nedeniyle, verilecek
-ceza üçte birden yarıya kadar indirilir.
+             Kovuşturma başlamadan önce, gönüllü olarak, zimmete
+geçirilen para veya para yerine geçen evrak veya senetlerin veya diğer
+malların aynen iade edilmesi veya uğranılan zararın tamamen tazmin
+edilmesi hâlinde, verilecek cezanın yarısı indirilir. Bu durumun
+hükümden önce gerçekleşmesi hâlinde, verilecek cezanın üçte biri
+indirilir.
 
-*Diğer kanunlara aykırılıklar *
+             Zimmet suçunun konusunu oluşturan para veya para yerine
+geçen evrak veya senetlerin veya diğer malların değerinin azlığı
+nedeniyle, verilecek ceza üçte birden yarıya kadar indirilir.
 
-**Madde 161 —** Bu Kanuna göre suç teşkil eden hareket ve fiiller başka
-kanunlara göre de cezayı gerektirdiği takdirde, failleri hakkında en
-ağır cezayı gerektiren kanun maddesi uygulanır. 6762 sayılı Türk Ticaret
-Kanununun sorumluluğu gerektiren hükümleri saklıdır.
+*             Diğer kanunlara aykırılıklar *
+
+**             Madde 161 —** Bu Kanuna göre suç teşkil eden hareket ve
+fiiller başka kanunlara göre de cezayı gerektirdiği takdirde, failleri
+hakkında en ağır cezayı gerektiren kanun maddesi uygulanır. 6762 sayılı
+Türk Ticaret Kanununun sorumluluğu gerektiren hükümleri saklıdır.
 
  
 
@@ -5375,10 +5703,10 @@ Kanununun sorumluluğu gerektiren hükümleri saklıdır.
 
 *Kovuşturma Usûlü*
 
-*Yazılı başvuru ve müdahale*
+*             Yazılı başvuru ve müdahale*
 
-**Madde 162 —** Bu Kanunda belirtilen suçlara ilişkin soruşturma ve
-kovuşturma yapılması, Kurum veya Fon tarafından Cumhuriyet
+**             Madde 162 —** Bu Kanunda belirtilen suçlara ilişkin
+soruşturma ve kovuşturma yapılması, Kurum veya Fon tarafından Cumhuriyet
 başsavcılığına yazılı başvuruda bulunulmasına bağlıdır. Bu başvuru
 muhakeme şartı niteliğindedir. Ancak, 160 ıncı maddenin üçüncü
 fıkrasında belirtilen suçtan dolayı soruşturma ve kovuşturmalar Kurumun
@@ -5388,120 +5716,128 @@ edilir. Bu fikra uyarınca yapılan soruşturmalar neticesinde açılan kamu
 davalarında, Kurumun veya Fonun başvuruda bulunması hâlinde, bunlar
 başvuru tarihinde müdahil sıfatını kazanırlar.
 
-İtibarın zedelenmesi, sırların açıklanması ve zimmet suçlarından dolayı
-ilgililerin dava hakkı ile 4.12.2004 tarihli ve 5271 sayılı Ceza
-Muhakemesi Kanunu hükümleri saklıdır.
+             İtibarın zedelenmesi, sırların açıklanması ve zimmet
+suçlarından dolayı ilgililerin dava hakkı ile 4.12.2004 tarihli ve 5271
+sayılı Ceza Muhakemesi Kanunu hükümleri saklıdır.
 
 9606
 
-*İtiraz ve bildirim*
+########  
 
-**Madde 163 —** Bu Kanunun 162 nci maddesi uyarınca başlatılan
-soruşturmalar neticesinde kovuşturmaya yer olmadığına karar verilirse,
-bu karar ilgisine göre Kuruma veya Fona ve ilgili bankaya tebliğ edilir.
-Kurum, Fon ve ilgili banka kendisine tebliğ edilen bu kararlara karşı
-5271 sayılı Ceza Muhakemesi Kanununa göre itiraza yetkilidir.
+*             İtiraz ve bildirim*
 
-Kamu davası açılması hâlinde, iddianamenin bir örneği ilgisine göre
-Kuruma veya Fona tebliğ edilir.
+**             Madde 163 —** Bu Kanunun 162 nci maddesi uyarınca
+başlatılan soruşturmalar neticesinde kovuşturmaya yer olmadığına karar
+verilirse, bu karar ilgisine göre Kuruma veya Fona ve ilgili bankaya
+tebliğ edilir. Kurum, Fon ve ilgili banka kendisine tebliğ edilen bu
+kararlara karşı 5271 sayılı Ceza Muhakemesi Kanununa göre itiraza
+yetkilidir.
 
-*Özel görev *
+             Kamu davası açılması hâlinde, iddianamenin bir örneği
+ilgisine göre Kuruma veya Fona tebliğ edilir.
 
-**Madde 164 —** Bu Kanunda tanımlanan düzeltici, iyileştirici ve
-kısıtlayıcı önlemleri almamak, işlemlerin kayıt dışı bırakılması ve
-gerçeğe aykırı muhasebeleştirme ve zimmet suçları ile sistemi engelleme,
-bozma, verileri yok etme veya değiştirme, bankacılık ve müşteri
-sırlarının açıklanması, bankacılık faaliyeti çerçevesinde işlenen
-nitelikli dolandırıcılık, bu suçların işlenmesi amacına yönelik olarak
-örgüt kurmak, yönetmek veya örgüte üye olmak veya bu suçlarla bağlantılı
-olup da ağır ceza mahkemesinin görev alanına giren suçlara ait davalar,
-fiilin işlendiği yerin bağlı olduğu ilin adıyla anılan (1) numaralı ağır
-ceza mahkemelerinde görülür. Gerekli görülen yerlerde Adalet
-Bakanlığının teklifi üzerine Hâkimler ve Savcılar Yüksek Kurulunca bu
-tür suçlara bakmak üzere o yerlerdeki diğer ağır ceza mahkemeleri de
-görevlendirilebilir veya yeni ağır ceza mahkemesi de kurulabilir.
+*             Özel görev *
 
-*Bilirkişi incelemesi*
+**             Madde 164 —** Bu Kanunda tanımlanan düzeltici,
+iyileştirici ve kısıtlayıcı önlemleri almamak, işlemlerin kayıt dışı
+bırakılması ve gerçeğe aykırı muhasebeleştirme ve zimmet suçları ile
+sistemi engelleme, bozma, verileri yok etme veya değiştirme, bankacılık
+ve müşteri sırlarının açıklanması, bankacılık faaliyeti çerçevesinde
+işlenen nitelikli dolandırıcılık, bu suçların işlenmesi amacına yönelik
+olarak örgüt kurmak, yönetmek veya örgüte üye olmak veya bu suçlarla
+bağlantılı olup da ağır ceza mahkemesinin görev alanına giren suçlara
+ait davalar, fiilin işlendiği yerin bağlı olduğu ilin adıyla anılan (1)
+numaralı ağır ceza mahkemelerinde görülür. Gerekli görülen yerlerde
+Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Yüksek
+Kurulunca bu tür suçlara bakmak üzere o yerlerdeki diğer ağır ceza
+mahkemeleri de görevlendirilebilir veya yeni ağır ceza mahkemesi de
+kurulabilir.
 
-**Madde 165 —** Bu Kanunun uygulaması ile ilgili olarak, bu Kanunda ve
-diğer kanunlarda öngörülen suçlardan dolayı açılan ceza davalarında
-bilirkişi, raporunu dosyanın kendisine verildiği tarihten başlayarak üç
-ay içinde mahkemeye verir. Bu süre hâkim tarafından iki aya kadar
-uzatılabilir. Bu süre içerisinde de rapor mahkemeye verilmediği takdirde
-görev, ücret ödenmeksizin bilirkişiden alınır ve yeni bilirkişi atanır.
-Bilirkişilik görevi bu şekilde kendisinden alınan kişiler, bir yıl
-süreyle bu Kanun kapsamında hiçbir davada bilirkişi olarak atanamazlar.
-Bu kişiler, raporların süresinde verilmemesinin sebep olduğu masrafları
-ödemeye ve ayrıca beşyüz güne kadar adlî para cezasına mahkûm edilirler.
-Dosyanın bilirkişiye tevdi tarihinde dava zamanaşımı süresi durur.
-Bilirkişinin raporunu mahkemeye verdiği tarihten itibaren bu süre
-kaldığı yerden işlemeye devam eder.
+*             Bilirkişi incelemesi*
 
-Kurum, Fon, Fon bankaları ile bankaların iflas idareleri tarafından
-açılan hukuk davalarında gerekli görülen hâllerde, yaptırılacak
-bilirkişi incelemelerinde bilirkişi, raporunu dosyanın kendisine
-verildiği tarihten başlayarak üç ay içinde mahkemeye verir. Bu süre
-hâkim tarafından iki aya kadar uzatılabilir. Bu süre içerisinde de rapor
-mahkemeye verilmediği takdirde görev, ücret ödenmeksizin bilirkişiden
-alınır ve yeni bilirkişi atanır. Bilirkişilik görevi bu şekilde
-kendisinden alınan kişiler, bir yıl süreyle bu Kanun kapsamında hiçbir
-davada bilirkişi olarak atanamazlar. Bu kişiler, raporların süresinde
-verilmemesinin sebep olduğu masrafları ödemeye ve ayrıca beşyüz güne
-kadar adlî para cezasına mahkûm edilirler.
+**             Madde 165 —** Bu Kanunun uygulaması ile ilgili olarak, bu
+Kanunda ve diğer kanunlarda öngörülen suçlardan dolayı açılan ceza
+davalarında bilirkişi, raporunu dosyanın kendisine verildiği tarihten
+başlayarak üç ay içinde mahkemeye verir. Bu süre hâkim tarafından iki
+aya kadar uzatılabilir. Bu süre içerisinde de rapor mahkemeye
+verilmediği takdirde görev, ücret ödenmeksizin bilirkişiden alınır ve
+yeni bilirkişi atanır. Bilirkişilik görevi bu şekilde kendisinden alınan
+kişiler, bir yıl süreyle bu Kanun kapsamında hiçbir davada bilirkişi
+olarak atanamazlar. Bu kişiler, raporların süresinde verilmemesinin
+sebep olduğu masrafları ödemeye ve ayrıca beşyüz güne kadar adlî para
+cezasına mahkûm edilirler. Dosyanın bilirkişiye tevdi tarihinde dava
+zamanaşımı süresi durur. Bilirkişinin raporunu mahkemeye verdiği
+tarihten itibaren bu süre kaldığı yerden işlemeye devam eder.
 
-*Özel soruşturma ve kovuşturma *
+             Kurum, Fon, Fon bankaları ile bankaların iflas idareleri
+tarafından açılan hukuk davalarında gerekli görülen hâllerde,
+yaptırılacak bilirkişi incelemelerinde bilirkişi, raporunu dosyanın
+kendisine verildiği tarihten başlayarak üç ay içinde mahkemeye verir. Bu
+süre hâkim tarafından iki aya kadar uzatılabilir. Bu süre içerisinde de
+rapor mahkemeye verilmediği takdirde görev, ücret ödenmeksizin
+bilirkişiden alınır ve yeni bilirkişi atanır. Bilirkişilik görevi bu
+şekilde kendisinden alınan kişiler, bir yıl süreyle bu Kanun kapsamında
+hiçbir davada bilirkişi olarak atanamazlar. Bu kişiler, raporların
+süresinde verilmemesinin sebep olduğu masrafları ödemeye ve ayrıca
+beşyüz güne kadar adlî para cezasına mahkûm edilirler.
 
-**Madde 166 —** 160 ıncı maddenin üçüncü fıkrası kapsamına giren
-suçların soruşturma ve kovuşturmalarında aşağıdaki hükümler tatbik
+*             Özel soruşturma ve kovuşturma *
+
+**             Madde 166 —** 160 ıncı maddenin üçüncü fıkrası kapsamına
+giren suçların soruşturma ve kovuşturmalarında aşağıdaki hükümler tatbik
 olunur:
 
-a\) Soruşturma, iş bölümü ilişkilerine göre, Cumhuriyet başsavcılarınca
-veya görevlendireceği Cumhuriyet savcılarınca bizzat yürütülür. Bu
-suçlar, görev sırasında veya görevden dolayı işlenmiş olsalar bile,
-Cumhuriyet savcılarınca doğrudan soruşturma yapılır.
+             a) Soruşturma, iş bölümü ilişkilerine göre, Cumhuriyet
+başsavcılarınca veya görevlendireceği Cumhuriyet savcılarınca bizzat
+yürütülür. Bu suçlar, görev sırasında veya görevden dolayı işlenmiş
+olsalar bile, Cumhuriyet savcılarınca doğrudan soruşturma yapılır.
 
-b\) Bu suçların soruşturma ve kovuşturmalarında, 5271 sayılı Ceza
-Muhakemesi Kanununun 135 ilâ 138 inci maddeleri de uygulanır.
+             b) Bu suçların soruşturma ve kovuşturmalarında, 5271 sayılı
+Ceza Muhakemesi Kanununun 135 ilâ 138 inci maddeleri de uygulanır.
 
 9607
 
-c\) Bu suçlarla ilgili soruşturma ve kovuşturmalarda kolluk; soruşturma
-ve kovuşturma sebebiyle şüpheli, sanık, tanık, bilirkişi ve suçtan zarar
-görenleri, Cumhuriyet savcısının veya mahkeme naibinin veya istinabe
-olunan hâkimin emriyle belirtilen gün, saat ve yerde hazır bulundurmaya
-mecburdur. Bu emir, çağrılanlar hakkında kolluğa ihzar müzekkeresinde
-olduğu gibi zor kullanma yetkisi verir.
+########  
 
-d\) Cumhuriyet başsavcılıkları, bu suçların soruşturmasında gerekli
-olması hâlinde, geçici olarak yargı çevresi içerisinde veya dışındaki,
-genel bütçeli dairelere ve katma bütçeli idarelere, bütün kamu kurum ve
-kuruluşlarına, belediyelere, bankalara ait bina, araç, gereç ve
-personelden yararlanmak için istemde bulunabilirler. Bu istemler, ilgili
-kurum ve makamlarca geciktirilmeksizin yerine getirilir. Özürsüz olarak
-bu istemleri yerine getirmeyen sorumlu kişiler, üç aydan altı aya kadar
-hapis cezası ile cezalandırılır.
+            c) Bu suçlarla ilgili soruşturma ve kovuşturmalarda kolluk;
+soruşturma ve kovuşturma sebebiyle şüpheli, sanık, tanık, bilirkişi ve
+suçtan zarar görenleri, Cumhuriyet savcısının veya mahkeme naibinin veya
+istinabe olunan hâkimin emriyle belirtilen gün, saat ve yerde hazır
+bulundurmaya mecburdur. Bu emir, çağrılanlar hakkında kolluğa ihzar
+müzekkeresinde olduğu gibi zor kullanma yetkisi verir.
 
-e\) Soruşturmanın gerekli kıldığı hâllerde, suç mahalli veya delillerin
-bulunduğu yerlere gidilerek soruşturma yapılır.
+             d) Cumhuriyet başsavcılıkları, bu suçların soruşturmasında
+gerekli olması hâlinde, geçici olarak yargı çevresi içerisinde veya
+dışındaki, genel bütçeli dairelere ve katma bütçeli idarelere, bütün
+kamu kurum ve kuruluşlarına, belediyelere, bankalara ait bina, araç,
+gereç ve personelden yararlanmak için istemde bulunabilirler. Bu
+istemler, ilgili kurum ve makamlarca geciktirilmeksizin yerine
+getirilir. Özürsüz olarak bu istemleri yerine getirmeyen sorumlu
+kişiler, üç aydan altı aya kadar hapis cezası ile cezalandırılır.
 
-f\) Soruşturmanın sonuçlanmasına kadar, bu suç faillerinin her türlü mal,
-alacak, para ve sair eşyalarına hâkim kararı, gecikmesinde sakınca
-olunan hallerde Cumhuriyet savcısının yazılı emri ile el konulur. Bu
-suçlara iştirak edenler ile suç faillerinin bu suçlar nedeniyle elde
-ettiği her türlü haksız kazanımın transferi sonucu elde edilen, kan ve
-kayın hısımlar ile üçüncü şahıslar nezdindeki mal, alacak veya sair her
-türlü şeylere de Cumhuriyet savcısının yazılı emri ile el konulur.
+             e) Soruşturmanın gerekli kıldığı hâllerde, suç mahalli veya
+delillerin bulunduğu yerlere gidilerek soruşturma yapılır.
 
-g\) El koyma kararı yirmidört saat içinde yetkili ve görevli sulh ceza
-hâkiminin onayına sunulur. Hâkim kırksekiz saat içinde kararını açıklar.
-Aksi halde el koyma hükümsüz kalır.
+             f) Soruşturmanın sonuçlanmasına kadar, bu suç faillerinin
+her türlü mal, alacak, para ve sair eşyalarına hâkim kararı,
+gecikmesinde sakınca olunan hallerde Cumhuriyet savcısının yazılı emri
+ile el konulur. Bu suçlara iştirak edenler ile suç faillerinin bu suçlar
+nedeniyle elde ettiği her türlü haksız kazanımın transferi sonucu elde
+edilen, kan ve kayın hısımlar ile üçüncü şahıslar nezdindeki mal, alacak
+veya sair her türlü şeylere de Cumhuriyet savcısının yazılı emri ile el
+konulur.
 
-*İnfaz*
+             g) El koyma kararı yirmidört saat içinde yetkili ve görevli
+sulh ceza hâkiminin onayına sunulur. Hâkim kırksekiz saat içinde
+kararını açıklar. Aksi halde el koyma hükümsüz kalır.
 
-**Madde 167 —** 160 ıncı maddede yazılı suçlardan dolayı mahkûm olanlar,
-Fona veya Hazineye olan borçları ve tazminatları ödemediği veya bu
-borçlar ve tazminatlar malvarlıklarından tahsil olunamadığı sürece,
-bunlar hakkında koşullu salıverilme hükümleri uygulanmaz.
+*             İnfaz*
+
+**             Madde 167 —** 160 ıncı maddede yazılı suçlardan dolayı
+mahkûm olanlar, Fona veya Hazineye olan borçları ve tazminatları
+ödemediği veya bu borçlar ve tazminatlar malvarlıklarından tahsil
+olunamadığı sürece, bunlar hakkında koşullu salıverilme hükümleri
+uygulanmaz.
 
  
 
@@ -5509,23 +5845,26 @@ ONBEŞİNCİ KISIM
 
 *Son Hükümler*
 
-*Kaldırılan ve değiştirilen hükümler*
+*             Kaldırılan ve değiştirilen hükümler*
 
-**Madde 168 —** A) Bu Kanunun geçici maddelerindeki düzenlemeler hariç
-olmak üzere, 18.6.1999 tarihli ve 4389 sayılı Bankalar Kanunu ile ek ve
-değişiklikleri yürürlükten kaldırılmıştır.
+**             Madde 168 —** A) Bu Kanunun geçici maddelerindeki
+düzenlemeler hariç olmak üzere, 18.6.1999 tarihli ve 4389 sayılı
+Bankalar Kanunu ile ek ve değişiklikleri yürürlükten kaldırılmıştır.
 
-B\) İkrazatçılık hariç ödünç para verme işlerine ve finansal kiralama
-faaliyetlerine ilişkin olarak 9.12.1994 tarihli ve 4059 sayılı Hazine
-Müsteşarlığı ile Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında
-Kanunda yer alan görev ve yetkilere ilişkin hükümler yürürlükten
-kaldırılmıştır.
+             B) İkrazatçılık hariç ödünç para verme işlerine ve finansal
+kiralama faaliyetlerine ilişkin olarak 9.12.1994 tarihli ve 4059 sayılı
+Hazine Müsteşarlığı ile Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri
+Hakkında Kanunda yer alan görev ve yetkilere ilişkin hükümler
+yürürlükten kaldırılmıştır.
 
-**C)** **(10.6.1985 tarihli ve 3226 sayılı Finansal Kiralama Kanunu ile
-ilgili olup yerine işlenmiştir.)**
+             **C)** **(10.6.1985 tarihli ve 3226 sayılı Finansal
+Kiralama Kanunu ile ilgili olup yerine işlenmiştir.)**
 
-**D)** **(30.9.1983 tarihli ve 90 sayılı Ödünç Para Verme İşleri
-Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)**
+             **D)** **(30.9.1983 tarihli ve 90 sayılı Ödünç Para Verme
+İşleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine
+işlenmiştir.)**
+
+ 
 
 9608
 
@@ -5685,279 +6024,127 @@ hükümlerine bir yıl içinde intibak ettirmek zorundadır.
 fıkrada yer alan “bir özel hukuk” ibaresi “bir gerçek kişi veya özel
 hukuk” şeklinde değiştirilmiştir.*
 
-9608-29608
-
-**E)** **(30.9.1983 tarihli ve 90 sayılı Ödünç Para Verme İşleri
-Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)**
-
-**F) (14.1.1970 tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası
-Kanunu ile ilgili olup yerine işlenmiştir.) **
-
-**G) (15.7.1950 tarihli ve 5682 sayılı Pasaport Kanunu Kanunu ile ilgili
-olup yerine işlenmiştir.) **
-
-**H)** (**30.1.2002 tarihli ve 4743 sayılı Kanunu ile ilgili olup yerine
-işlenmiştir.) **
-
-**I) (13.6.1945 tarihli ve 4759 sayılı İller Bankası Kanunu Kanunu ile
-ilgili olup yerine işlenmiştir.) **
-
-**İ) (10.2.1954 tarihli ve 6245 sayılı Harcırah Kanunu ile ilgili olup
-yerine işlenmiştir.) **
-
-**J) (11.1.1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk
-Anonim Ortaklığı Kanunu ile ilgili olup yerine işlenmiştir.) **
-
-*Mülga kanunlara yapılan atıflar*
-
-**Madde 169 —** Diğer kanunlarda mülga 3182 sayılı Bankalar Kanunu ve bu
-Kanunla yürürlükten kaldırılan 4389 sayılı Bankalar Kanununa yapılan
-atıflar bu Kanunun ilgili maddelerine yapılmış sayılır.
-
-Diğer kanunlarda ve mülga 3182 sayılı Bankalar Kanunu ve bu Kanunla
-yürürlükten kaldırılan 4389 sayılı Bankalar Kanununda özel finans
-kurumlarına yapılan atıflar, katılım bankalarına yapılmış sayılır.
-
-*Risk Merkezi*
-
-**Ek Madde 1-(Ek: 13/2/2011-6111/149 md.)**
-
-Türkiye Bankalar Birliği nezdinde, kredi kuruluşları ile Kurulca uygun
-görülecek finansal kuruluşların müşterilerinin risk bilgilerini toplamak
-ve söz konusu bilgileri bu kuruluşlar ile gerçek veya tüzel kişilerin
-kendileriyle ya da onay vermeleri koşuluyla gerçek kişiler ve özel hukuk
-tüzel kişileri ile de paylaşılmasını sağlamak üzere Risk Merkezi
-kurulmuştur.^(1)^
-
-Kredi kuruluşları ile Kurulca uygun görülecek finansal kuruluşlar, Risk
-Merkezine üye olmak zorundadır. Üye kuruluşlar, Risk Merkezince
-istenilen, müşterileri ile ilgili her türlü bilgiyi vermekle yükümlüdür.
-Risk Merkezi, bu yükümlülüğe uymayanlara bilgi akışını durdurmaya
-yetkilidir.
-
-Risk Merkezi, Kurumun ve Merkez Bankasının personeli arasından
-belirleyeceği birer üye dâhil olmak üzere dokuz üyeden oluşan bir
-yönetim tarafından idare edilir. Risk Merkezi yönetimini oluşturan
-üyeler üç yıllık dönem için görev yapmak üzere seçilir.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1)3/4/2013 tarihli ve 6456 sayılı Kanunun 41 inci maddesi ile bu
-fıkrada yer alan “özel hukuk” ibaresinden önce gelmek üzere “gerçek
-kişiler ve” ibaresi eklenmiştir.*
-
-9608-1
-
-Risk Merkezi yönetimi, Risk Merkezinin kuruluş amaçları doğrultusunda
-özel hukuk tüzel kişileri ile kamu kurum ve kuruluşlarından, kamu kurumu
-niteliğinde meslek kuruluşları ve bunların üst kuruluşlarından bilgi
-talep etmeye ve bunlarla Kurulun uygun görüşüne istinaden bilgi
-alış-verişine yönelik sözleşmeler imzalamaya yetkilidir. Özel hukuk
-tüzel kişileri ile kamu kurum ve kuruluşları, kamu kurumu niteliğinde
-meslek kuruluşları ve bunların üst kuruluşları Risk Merkezi yönetimi
-tarafından talep edilen bilgileri vermekle yükümlüdürler. Kredi
-kuruluşları ile Kurulca uygun görülecek finansal kuruluşların
-müşterilerinin onay vermesi koşuluyla, Risk Merkezi ile bilgi
-alış-verişi sözleşmesi imzalayan özel hukuk tüzel kişileri ile kamu
-kurum ve kuruluşlarına kamu kurumu niteliğinde meslek kuruluşları ve
-bunların üst kuruluşlarına verilecek, müşterilerin bu kuruluşlar
-nezdindeki risk bilgileri Kanunun 73 üncü maddesinin dördüncü fıkrası
-kapsamında değerlendirilir.
-
-Risk Merkezinin kuruluşuna, faaliyetine ve çalışmasına, Risk Merkezi
-yönetiminin oluşumuna, toplanmasına ve karar almasına, Risk Merkezine
-verilen bilgilerin kapsam, biçim ve içeriğine ve bunların
-paylaşılmasına, paylaşılacak bilgilerin kapsam ve içeriğine,
-ücretlendirilmesine ve üyelerce ödenecek aidatların belirlenmesine
-ilişkin usul ve esaslar, Türkiye Katılım Bankaları Birliği ve Kurul
-tarafından belirlenen finansal kuruluşların üye oldukları meslek
-örgütlerinin görüşü ile Kurulun ve Merkez Bankasının uygun görüşü
-alınarak Türkiye Bankalar Birliğince belirlenir ve Resmi Gazetede
-yayımlanır.
-
-Süresinde üyeler tarafından ödenmeyen aidatlar ve komisyonlar Türkiye
-Bankalar Birliğince kanuni yollara başvurularak tahsil edilir.
-
-Kurum, gerektiğinde Risk Merkezini denetler, denetime ilişkin usul ve
-esaslar Kurum tarafından belirlenir.
-
-Risk Merkezi, topladığı her türlü bilgiyi, Kurum ve Merkez Bankasına
-istenen biçim ve sürede vermekle yükümlüdür. Ayrıca, gerçek ya da tüzel
-kişilerin gerekçesini belirterek risk bilgilerinin kendilerine verilmesi
-için yazılı talepte bulunmaları ya da kredi kuruluşları ile Kurulca
-uygun görülecek finansal kuruluşlar dışındaki bir gerçek kişi veya özel
-hukuk tüzel kişisine bu nitelikteki bilgilerin verilmesi için onay
-verdiklerinin ispat edilmesi halinde bahse konu bilgiler de talepte
-bulunan tarafça karşılanacak belli bir ücret karşılığında
-verilir.*^(1)^*
-
-Risk Merkezinin bütün işlem ve kayıtları gizlidir. Sır sahibinin
-bilgilerinin açıklanması konusunda açık rızasının bulunması durumunda
-belirlediği kişiye risk bilgileri verilir. Kişinin rızasına dayanan
-bilgilerin verilmesine ilişkin usul ve esaslar, Kurulun ve Merkez
-Bankasının uygun görüşü, Türkiye Katılım Bankaları Birliğinin ve Kurulun
-belirleyeceği kurum ve kuruluşların görüşü alınarak Türkiye Bankalar
-Birliğince belirlenir ve Resmi Gazetede yayımlanır.
-
-Risk Merkezi nezdinde bulunan sır niteliğindeki bilgileri, bu konuda
-kanunen yetkili kılınan mercilerden başkalarına açıklayanlar, hukuka
-aykırı olarak kendisi ya da başkası yararına kullananlar, yayanlar,
-verenler, aktaranlar veya ele geçirenler hakkında 159 uncu madde
-hükümleri uygulanır. Bu fıkrada tanımlanan suçların bir tüzel kişinin
-faaliyeti çerçevesinde işlenmesi halinde, ilgili tüzel kişi hakkında
-Türk Ceza Kanununun tüzel kişilere özgü güvenlik tedbirlerine
-hükmolunur.
-
-\_\_\_\_\_\_\_\_\_
-
-*(1)* *3/4/2013 tarihli ve 6456 sayılı Kanunun 41 inci maddesi ile bu
-fıkrada yer alan “bir özel hukuk” ibaresi “bir gerçek kişi veya özel
-hukuk” şeklinde değiştirilmiştir.*
-
-9608-2
-
-Risk Merkezi, nezdindeki her türlü bilgi alış-verişini 73 üncü maddenin
-dördüncü fıkrası uyarınca en az beş banka tarafından kurulmuş şirketler
-aracılığı ile ve bu şirketlerle yapılacak sözleşmeler çerçevesinde de
-gerçekleştirebilir.
-
-**Geçici Madde 1 —** Bu Kanuna göre çıkarılacak yönetmelik, tebliğ ve
-kararlar yürürlüğe girinceye kadar, kaldırılan hükümlere dayanılarak
-çıkarılan düzenlemelerin, bu Kanuna aykırı olmayan hükümlerinin
-uygulanmasına devam olunur.
-
-Bu Kanunda öngörülen düzenlemeler bir yıl içerisinde yürürlüğe konulur.
-
-**Geçici Madde 2 —** 12.5.2001 tarih ve 4672 sayılı Kanunun geçici 2/a
-maddesi hükümleri saklıdır.
-
-**Geçici Madde 3 —** Bu Kanunun yürürlüğe girdiği tarihte, Kurum
-tarafından daha önce faaliyet izni verilmiş olan tüm bankalar, bu
-Kanunun yürürlüğe girdiği tarihten önceki kanunlara uygun olarak
-yapmakta oldukları faaliyetlerine devam ederler. Bankalar bu Kanunun
-yürürlüğe girmesinden itibaren, iki ay içinde faaliyet gösterdikleri
-alanları bildiren beyannameyi Kuruma
-
-verirler. Bankalar, faaliyetlerini bu Kanunun 4 üncü maddesi
-kapsamındaki faaliyet konularını genişletmeden önce Kurumdan izin almak
-zorundadır.
-
-Bankalar ve finansal holding şirketleri durumlarını, bu Kanun
-hükümlerine bir yıl içinde intibak ettirmek zorundadır.
-
 9609
 
-Halen faaliyette bulunan özel finans kurumları, bir yıl içerisinde
-ticaret unvanlarını katılım bankası ibaresini de kapsayacak şekilde
-değiştirmek ve mevcut durumlarını Kanunun finansal raporlamayla ilgili
-hükümlerine intibak ettirmek zorundadır. Özel Finans Kurumları Birliği
-Türkiye Katılım Bankaları Birliği olarak addolunur ve bu Kanunun
+########  
+
+             Halen faaliyette bulunan özel finans kurumları, bir yıl
+içerisinde ticaret unvanlarını katılım bankası ibaresini de kapsayacak
+şekilde değiştirmek ve mevcut durumlarını Kanunun finansal raporlamayla
+ilgili hükümlerine intibak ettirmek zorundadır. Özel Finans Kurumları
+Birliği Türkiye Katılım Bankaları Birliği olarak addolunur ve bu Kanunun
 hükümlerine tâbi olup, üç ay içinde durumunu bu Kanun hükümlerine uygun
 hale getirir.
 
-**Geçici Madde 4 —** Kurumca yetkilendirilen Bağımsız denetim
-kuruluşları durumlarını 31.12.2006 tarihine kadar 36 ncı madde hükmüne
-uygun hale getirmek zorundadır.
+**             Geçici Madde 4 —** Kurumca yetkilendirilen Bağımsız
+denetim kuruluşları durumlarını 31.12.2006 tarihine kadar 36 ncı madde
+hükmüne uygun hale getirmek zorundadır.
 
-**Geçici Madde 5 —** Bu Kanunun 54 üncü maddesinin birinci fıkrasındaki
-yüzde yirmibeşlik oran, bir risk grubuna kullandırılabilecek krediler
-yönünden, 31.12.2005 tarihine kadar yüzde otuzbeş, 1.1.2006 tarihinden
-itibaren yüzde yirmibeş olarak; yüzde yirmilik oran, 31.12.2005 tarihine
-kadar yüzde otuzbeş, 1.1.2006 tarihinden 31.12.2006 tarihine kadar yüzde
-yirmibeş, 1.1.2007 tarihinden itibaren yüzde yirmi olarak uygulanır.
+**             Geçici Madde 5 —** Bu Kanunun 54 üncü maddesinin birinci
+fıkrasındaki yüzde yirmibeşlik oran, bir risk grubuna
+kullandırılabilecek krediler yönünden, 31.12.2005 tarihine kadar yüzde
+otuzbeş, 1.1.2006 tarihinden itibaren yüzde yirmibeş olarak; yüzde
+yirmilik oran, 31.12.2005 tarihine kadar yüzde otuzbeş, 1.1.2006
+tarihinden 31.12.2006 tarihine kadar yüzde yirmibeş, 1.1.2007 tarihinden
+itibaren yüzde yirmi olarak uygulanır.
 
-Bu Kanunun 54 üncü maddesindeki kredi sınırlarına ilişkin hesaplamalarda
-ortaklık payları; 2005 yılında yüzde kırk, 2006 yılında yüzde elli, 2007
-yılında yüzde altmış, 2008 yılında yüzde yetmişbeş, 2009 yılında yüzde
-doksan, 1.1.2010 tarihinden itibaren yüzde yüz oranında dikkate alınır.
+             Bu Kanunun 54 üncü maddesindeki kredi sınırlarına ilişkin
+hesaplamalarda ortaklık payları; 2005 yılında yüzde kırk, 2006 yılında
+yüzde elli, 2007 yılında yüzde altmış, 2008 yılında yüzde yetmişbeş,
+2009 yılında yüzde doksan, 1.1.2010 tarihinden itibaren yüzde yüz
+oranında dikkate alınır.
 
-**Geçici Madde 6 —** Bu Kanunun yürürlüğe girdiği tarih itibarıyla,
-iştirak tutarları Kanunun 56 ncı maddesinin birinci fıkrasında
-belirtilen oranların altında olan kredi kuruluşları, hiçbir şekil ve
-surette bu maddede yer alan oranları aşamazlar. Aynı tarih itibarıyla
-iştirak tutarları Kanunda belirtilen oranlardan herhangi birini aşan
-kuruluşlar, aşım tutarlarını, 31.12.2005 tarihine kadar yüzde yirmisini,
-31.12.2006 tarihine kadar yüzde kırkını, 31.12.2007 tarihine kadar yüzde
-altmışını, 31.12.2008 tarihine kadar yüzde seksenini, 31.12.2009
-tarihine kadar yüzde yüzünü itfa etmek suretiyle giderirler.
+**             Geçici Madde 6 —** Bu Kanunun yürürlüğe girdiği tarih
+itibarıyla, iştirak tutarları Kanunun 56 ncı maddesinin birinci
+fıkrasında belirtilen oranların altında olan kredi kuruluşları, hiçbir
+şekil ve surette bu maddede yer alan oranları aşamazlar. Aynı tarih
+itibarıyla iştirak tutarları Kanunda belirtilen oranlardan herhangi
+birini aşan kuruluşlar, aşım tutarlarını, 31.12.2005 tarihine kadar
+yüzde yirmisini, 31.12.2006 tarihine kadar yüzde kırkını, 31.12.2007
+tarihine kadar yüzde altmışını, 31.12.2008 tarihine kadar yüzde
+seksenini, 31.12.2009 tarihine kadar yüzde yüzünü itfa etmek suretiyle
+giderirler.
 
-**Geçici Madde 7 —** 506 sayılı Sosyal Sigortalar Kanununun geçici 20
-nci maddesi kapsamında sandık ve vakıfları bulunan bankalar durumlarını
-31.12.2007 tarihine kadar 58 inci madde hükmüne uygun hale getirmek
-zorundadırlar.
+**             Geçici Madde 7 —** 506 sayılı Sosyal Sigortalar Kanununun
+geçici 20 nci maddesi kapsamında sandık ve vakıfları bulunan bankalar
+durumlarını 31.12.2007 tarihine kadar 58 inci madde hükmüne uygun hale
+getirmek zorundadırlar.
 
-**Geçici Madde 8 —** Bu Kanunun yayımı tarihinden önce Kuruma yarışma ve
-yeterlilik sınavıyla alınmış; avukat (Kurum uzman yardımcısı) ve Kurum
-uzman yardımcıları, bankacılık uzman yardımcısı olarak atanır. Kurumda
-yeterlik sınavını geçerek avukat (Kurum Uzmanı) ve Kurum Uzmanı unvanını
-kazanmış olanlar bankacılık uzmanlığına atanır. Bunların Kurumda
-çalıştıkları süreler bankacılık uzman yardımcılığı ve bankacılık
-uzmanlığında geçmiş sayılır.
+**             Geçici Madde 8 —** Bu Kanunun yayımı tarihinden önce
+Kuruma yarışma ve yeterlilik sınavıyla alınmış; avukat (Kurum uzman
+yardımcısı) ve Kurum uzman yardımcıları, bankacılık uzman yardımcısı
+olarak atanır. Kurumda yeterlik sınavını geçerek avukat (Kurum Uzmanı)
+ve Kurum Uzmanı unvanını kazanmış olanlar bankacılık uzmanlığına atanır.
+Bunların Kurumda çalıştıkları süreler bankacılık uzman yardımcılığı ve
+bankacılık uzmanlığında geçmiş sayılır.
 
-Bu Kanunun yayımı tarihinde Bankacılık Düzenleme ve Denetleme Kurumunda
-görev yapan personelden; Kurum Uzmanı olarak görev yapmış ve geldikleri
-kurumlarda mesleğe özel yarışma sınavıyla alınmış ve yeterlik sınavında
-başarılı görülerek uzman, müfettiş ve benzeri unvanlarda görev yapmış
-olanlar ile en az doktora derecesine sahip olanlar bankacılık
-uzmanlığına atanmış sayılırlar. Bunların geldikleri kurumlarda uzman,
-müfettiş ve benzeri unvanlarda ve Bankacılık Düzenleme ve Denetleme
-Kurumunda çalıştıkları süreler bankacılık uzmanlığında geçmiş sayılır.
-Bu Kanunun yayımı tarihinden önce başka kurumlardan naklen atanmış
-bankalar yeminli murakıp ve yardımcılarının geldikleri kurumlarda
-çalıştıkları süreler Kurumda geçmiş sayılır.
+             Bu Kanunun yayımı tarihinde Bankacılık Düzenleme ve
+Denetleme Kurumunda görev yapan personelden; Kurum Uzmanı olarak görev
+yapmış ve geldikleri kurumlarda mesleğe özel yarışma sınavıyla alınmış
+ve yeterlik sınavında başarılı görülerek uzman, müfettiş ve benzeri
+unvanlarda görev yapmış olanlar ile en az doktora derecesine sahip
+olanlar bankacılık uzmanlığına atanmış sayılırlar. Bunların geldikleri
+kurumlarda uzman, müfettiş ve benzeri unvanlarda ve Bankacılık Düzenleme
+ve Denetleme Kurumunda çalıştıkları süreler bankacılık uzmanlığında
+geçmiş sayılır. Bu Kanunun yayımı tarihinden önce başka kurumlardan
+naklen atanmış bankalar yeminli murakıp ve yardımcılarının geldikleri
+kurumlarda çalıştıkları süreler Kurumda geçmiş sayılır.
 
-Bu maddenin birinci ve ikinci fıkrasında zikredilen Kurum uzmanları
-dışında kalan Kurum uzmanları ve avukatlar aynı kadro unvanlarıyla
-görevlerine devam ederler. Bu kadrolara bir daha atama yapılmaz. Bu
-kişiler görevde kaldıkları sürece bankacılık uzmanlarının aylık, malî,
-sosyal ve emeklilik haklarından aynen yararlanırlar.
+             Bu maddenin birinci ve ikinci fıkrasında zikredilen Kurum
+uzmanları dışında kalan Kurum uzmanları ve avukatlar aynı kadro
+unvanlarıyla görevlerine devam ederler. Bu kadrolara bir daha atama
+yapılmaz. Bu kişiler görevde kaldıkları sürece bankacılık uzmanlarının
+aylık, malî, sosyal ve emeklilik haklarından aynen yararlanırlar.
 
 9610
 
-**Geçici Madde 9 —** Bu Kanunun yürürlüğe girdiği tarihteki Hazine
-Müsteşarlığının 3226 sayılı Finansal Kiralama Kanunu hükümleri ile 90
-sayılı Ödünç Para Verme İşleri Hakkında Kanun Hükmünde Kararnamenin
-ikrazatçılık dışındaki hükümlerinin uygulanmasıyla ilgili personeli,
-muvafakatları alınmak kaydıyla ve 1.1.2006 tarihine kadar talep etmeleri
-hâlinde Kuruma naklen atanır. Kanun yürürlüğe girdiği tarihte,
-Müsteşarlığın ilgili personelinden yurt dışı teşkilatında görev yapan
-veya uluslararası kuruluşlarda görevli bulunan, lisans üstü eğitim
+########  
+
+**             Geçici Madde 9 —** Bu Kanunun yürürlüğe girdiği tarihteki
+Hazine Müsteşarlığının 3226 sayılı Finansal Kiralama Kanunu hükümleri
+ile 90 sayılı Ödünç Para Verme İşleri Hakkında Kanun Hükmünde
+Kararnamenin ikrazatçılık dışındaki hükümlerinin uygulanmasıyla ilgili
+personeli, muvafakatları alınmak kaydıyla ve 1.1.2006 tarihine kadar
+talep etmeleri hâlinde Kuruma naklen atanır. Kanun yürürlüğe girdiği
+tarihte, Müsteşarlığın ilgili personelinden yurt dışı teşkilatında görev
+yapan veya uluslararası kuruluşlarda görevli bulunan, lisans üstü eğitim
 nedeniyle yurt dışında bulunan veya askerlik ya da sair nedenlerle
 ücretsiz izinli olanların naklen atanma hakları saklıdır. Süresi içinde
 kullanılmayan haklar geçersiz olur.
 
-Hazine Müsteşarlığından naklen atanacak ilgili personelden, yaş şartı
-dışındaki şartları taşıyan ve Kurulca belirlenecek usûl ve esaslara göre
-en az üç yıllık hizmeti bulunanlar bankacılık uzmanı, üç yıldan az
-hizmeti olanlar bankacılık uzman yardımcısı olarak atanır. Bunların
-geldikleri kurumda çalıştıkları süreler bankacılık uzman ve uzman
-yardımcılığında geçmiş sayılır. Naklen atanan personelden Müsteşarlığa
-karşı mecburi hizmet yükümlülüğü bulunanların Kurumda geçirdikleri
-süreler bu yükümlülüklerin ifasında dikkate alınır.
+             Hazine Müsteşarlığından naklen atanacak ilgili personelden,
+yaş şartı dışındaki şartları taşıyan ve Kurulca belirlenecek usûl ve
+esaslara göre en az üç yıllık hizmeti bulunanlar bankacılık uzmanı, üç
+yıldan az hizmeti olanlar bankacılık uzman yardımcısı olarak atanır.
+Bunların geldikleri kurumda çalıştıkları süreler bankacılık uzman ve
+uzman yardımcılığında geçmiş sayılır. Naklen atanan personelden
+Müsteşarlığa karşı mecburi hizmet yükümlülüğü bulunanların Kurumda
+geçirdikleri süreler bu yükümlülüklerin ifasında dikkate alınır.
 
-Bu maddenin birinci fıkrası hükmüne göre Hazine Müsteşarlığından naklen
-ataması yapılan personelin kadroları hiçbir işleme gerek kalmaksızın
-iptal edilerek, 190 sayılı Kanun Hükmünde Kararnameye ekli cetvelin
-Hazine Müsteşarlığına ait bölümünden çıkartılmış sayılır.
+             Bu maddenin birinci fıkrası hükmüne göre Hazine
+Müsteşarlığından naklen ataması yapılan personelin kadroları hiçbir
+işleme gerek kalmaksızın iptal edilerek, 190 sayılı Kanun Hükmünde
+Kararnameye ekli cetvelin Hazine Müsteşarlığına ait bölümünden
+çıkartılmış sayılır.
 
-Kurum veya Fon personeli iken Fonda veya Kurumda geçici olarak
-görevlendirilen personel, bu Kanunun yayımı tarihinden itibaren üç ay
-içerisinde kurumlarına iade edilmemeleri hâlinde bulundukları Kurumda
-veya Fonda durumlarına uygun kadro veya pozisyonlara atanırlar. Bunlara
-ödenecek farklar hakkında geçici 20 nci maddenin ikinci fıkrası
+             Kurum veya Fon personeli iken Fonda veya Kurumda geçici
+olarak görevlendirilen personel, bu Kanunun yayımı tarihinden itibaren
+üç ay içerisinde kurumlarına iade edilmemeleri hâlinde bulundukları
+Kurumda veya Fonda durumlarına uygun kadro veya pozisyonlara atanırlar.
+Bunlara ödenecek farklar hakkında geçici 20 nci maddenin ikinci fıkrası
 hükümleri uygulanır.
 
-**Geçici Madde 10 —** Bu Kanun yayımlandığı tarihte halen Fonda
-çalışmakta olan personelden, Kanun ile Fona verilen aslî ve sürekli
-görevler ile diğer hizmetleri yürütecek olanlar, öğrenim durumları,
-hizmet süreleri ve Fon Kurulu tarafından belirlenecek diğer hususlar
-dikkate alınarak bu Kanuna ekli (II) ve (III) sayılı cetvellerde yer
-alan kadro ve pozisyonlara atanır.
+**             Geçici Madde 10 —** Bu Kanun yayımlandığı tarihte halen
+Fonda çalışmakta olan personelden, Kanun ile Fona verilen aslî ve
+sürekli görevler ile diğer hizmetleri yürütecek olanlar, öğrenim
+durumları, hizmet süreleri ve Fon Kurulu tarafından belirlenecek diğer
+hususlar dikkate alınarak bu Kanuna ekli (II) ve (III) sayılı
+cetvellerde yer alan kadro ve pozisyonlara atanır.
 
-**Geçici Madde 11 —** Bu Kanunun yayımı tarihinden önce, 26.12.2003
-tarihine kadar temettü hariç ortaklık hakları ile yönetim ve denetimi
-Fona intikal eden ve/veya bankacılık işlemleri yapma ve mevduat kabul
-etme izin ve yetkileri ilişkili Bakan, Bakanlar Kurulu veya Kurul
+**             Geçici Madde 11 —** Bu Kanunun yayımı tarihinden önce,
+26.12.2003 tarihine kadar temettü hariç ortaklık hakları ile yönetim ve
+denetimi Fona intikal eden ve/veya bankacılık işlemleri yapma ve mevduat
+kabul etme izin ve yetkileri ilişkili Bakan, Bakanlar Kurulu veya Kurul
 tarafından kaldırılarak tasfiyeleri Fon eliyle yürütülen veya Fon
 tarafından tasfiye işlemleri başlatılan bankalar hakkında başlatılan
 işlemler sonuçlanıncaya ve her türlü Fon alacakları tahsil edilinceye
@@ -5966,102 +6153,108 @@ kadar bu Kanunla yürürlükten kaldırılan 4389 sayılı Kanunun 14, 15,
 maddeleri ile geçici 4 üncü maddesi hükümlerinin uygulanmasına devam
 edilir.
 
-Bu Kanunun yayımı tarihinden önce haklarında bu Kanunla yürürlükten
-kaldırılan 4389 sayılı Kanun gereği mal bildiriminde bulunması
-gerekenlerin, bildirimde belirtmedikleri veya gerçeğe aykırı olarak
-bildirdikleri her türlü taşınır ve taşınmaz mal, hak ve alacak ile gelir
-ve harcamalar da haksız mal edinme hükümlerine tâbidir. Haksız mal
-edinmediğini ispat edene bu hüküm uygulanmaz.
+             Bu Kanunun yayımı tarihinden önce haklarında bu Kanunla
+yürürlükten kaldırılan 4389 sayılı Kanun gereği mal bildiriminde
+bulunması gerekenlerin, bildirimde belirtmedikleri veya gerçeğe aykırı
+olarak bildirdikleri her türlü taşınır ve taşınmaz mal, hak ve alacak
+ile gelir ve harcamalar da haksız mal edinme hükümlerine tâbidir. Haksız
+mal edinmediğini ispat edene bu hüküm uygulanmaz.
 
-Bu Kanunun yayımı tarihinden önce mülga 3182 sayılı Bankalar Kanununun
-64 ve 65 inci maddeleri ile bu Kanunla yürürlükten kaldırılan 4389
-sayılı Bankalar Kanununun 14 üncü maddesi uyarınca işlem yapılan
-bankalar ile tasfiyeye tâbi tutulan veya tasfiye işlemi başlatılan
-bankalar hakkında bu Kanunla yürürlükten kaldırılan 4389 sayılı Kanunun
-14 üncü maddesinin (5) ve (6) numaralı fıkraları hükümlerinin
-uygulanmasına devam edilir.
+             Bu Kanunun yayımı tarihinden önce mülga 3182 sayılı
+Bankalar Kanununun 64 ve 65 inci maddeleri ile bu Kanunla yürürlükten
+kaldırılan 4389 sayılı Bankalar Kanununun 14 üncü maddesi uyarınca işlem
+yapılan bankalar ile tasfiyeye tâbi tutulan veya tasfiye işlemi
+başlatılan bankalar hakkında bu Kanunla yürürlükten kaldırılan 4389
+sayılı Kanunun 14 üncü maddesinin (5) ve (6) numaralı fıkraları
+hükümlerinin uygulanmasına devam edilir.
 
 9611
 
-**Geçici Madde 12 —** 13.11.1996 tarihli ve 4208 sayılı Kanunun 2 nci
-maddesinin (a) bendinin (6) numaralı alt bendi; bu Kanunun 134 üncü
-maddesinin dokuzuncu, onuncu, onbirinci, onikinci ve onüçüncü fıkraları,
-136 ncı maddesi, 137 nci maddesi, 138 inci maddesinin ikinci fıkrası ve
-geçici 10 uncu maddesinin ikinci fıkrası, 71 inci maddesinin birinci
-fıkrasının (e) bendi hükümlerine göre faaliyet izni kaldırılan veya Fona
-devredilen bankalar ile 26.12.2003 tarihine kadar temettü hariç ortaklık
-hakları ile yönetim ve denetimi Fona intikal eden ve/veya bankacılık
-işlemleri yapma ve mevduat kabul etme izin ve yetkileri ilişkili Bakan,
-Bakanlar Kurulu veya Kurul tarafından kaldırılarak tasfiyeleri Fon
-eliyle yürütülen veya Fon tarafından tasfiye işlemleri başlatılan
-bankalar hakkında uygulanır.
+########  
 
-**Geçici Madde 13 —** Sermayesinin yarıdan fazlası kamu kurum ve
-kuruluşlarına ait olan ya da hisselerinin çoğunluğu üzerinde bu kurum ve
-kuruluşların idare ve temsil yetkisi bulunan ve özel kanunla kurulmuş
-bankalarda (Tasfiye Hâlinde T. Emlak Bankası A.Ş. dâhil ) 26.12.2003
-tarihinden önce bankacılık teamüllerine göre teminatlı ve/veya yetersiz
-teminatlı kredi kullanıp da vadesi geçtiği halde henüz ödenmemiş, süresi
-uzatılmamış veya yeniden yapılandırılmamış kredileri kullananlar ya da
-yeniden yapılandırma şartlarını ihlal edenler ile münferit veya
-karşılıklı verilen banka teminat mektupları, kabul kredileri ve avaller,
-taşınır ve taşınmaz rehni, ipotek, üst hakkı, intifa hakkı ve oturma
-hakkı gibi her türlü sınırlı aynî hak tesisine ilişkin sözleşmeden doğan
-hakların da diğer bankaların ve üçüncü kişilerin muvazaadan arî hakları
-aleyhine olmamak üzere Fon alacaklarının tahsiline ilişkin 123, 134,
-136, 137, 138, 140, 142 ve 165 inci madde hükümleri, tasarrufun iptali
-davalarında aciz vesikası şartı aranmaması, (…) ^(1)^ dâhil bankalarınca
-uygulanır. ^(1)^
+**            Geçici Madde 12 —** 13.11.1996 tarihli ve 4208 sayılı
+Kanunun 2 nci maddesinin (a) bendinin (6) numaralı alt bendi; bu Kanunun
+134 üncü maddesinin dokuzuncu, onuncu, onbirinci, onikinci ve onüçüncü
+fıkraları, 136 ncı maddesi, 137 nci maddesi, 138 inci maddesinin ikinci
+fıkrası ve geçici 10 uncu maddesinin ikinci fıkrası, 71 inci maddesinin
+birinci fıkrasının (e) bendi hükümlerine göre faaliyet izni kaldırılan
+veya Fona devredilen bankalar ile 26.12.2003 tarihine kadar temettü
+hariç ortaklık hakları ile yönetim ve denetimi Fona intikal eden ve/veya
+bankacılık işlemleri yapma ve mevduat kabul etme izin ve yetkileri
+ilişkili Bakan, Bakanlar Kurulu veya Kurul tarafından kaldırılarak
+tasfiyeleri Fon eliyle yürütülen veya Fon tarafından tasfiye işlemleri
+başlatılan bankalar hakkında uygulanır.
 
-**Geçici Madde 14 —** 13.11.1996 tarihli ve 4208 sayılı Kanunun 2 nci
-maddesinin (a) bendinin (6), (7) ve (8) numaralı bentleri ile bu Kanunla
-yürürlükten kaldırılan 4389 sayılı Kanunun 15/a maddesi ve 22 nci
-maddesinin (4) numaralı fıkrasında sayılan ceza ve hukuk davalarını
-kovuşturan, soruşturan ve yürüten Cumhuriyet savcıları ile hâkimler bu
-işleri ivedilikle yürütürler ve görevleri süresince disiplin nedenleri
-hariç mazeretleri ve istemleri olmadıkça üç yıl süre ile başka bir yere
-veya göreve atanamazlar. Görev süresi dolanlar tekrar atanabilirler.
+**            Geçici Madde 13 —** Sermayesinin yarıdan fazlası kamu
+kurum ve kuruluşlarına ait olan ya da hisselerinin çoğunluğu üzerinde bu
+kurum ve kuruluşların idare ve temsil yetkisi bulunan ve özel kanunla
+kurulmuş bankalarda (Tasfiye Hâlinde T. Emlak Bankası A.Ş. dâhil )
+26.12.2003 tarihinden önce bankacılık teamüllerine göre teminatlı
+ve/veya yetersiz teminatlı kredi kullanıp da vadesi geçtiği halde henüz
+ödenmemiş, süresi uzatılmamış veya yeniden yapılandırılmamış kredileri
+kullananlar ya da yeniden yapılandırma şartlarını ihlal edenler ile
+münferit veya karşılıklı verilen banka teminat mektupları, kabul
+kredileri ve avaller, taşınır ve taşınmaz rehni, ipotek, üst hakkı,
+intifa hakkı ve oturma hakkı gibi her türlü sınırlı aynî hak tesisine
+ilişkin sözleşmeden doğan hakların da diğer bankaların ve üçüncü
+kişilerin muvazaadan arî hakları aleyhine olmamak üzere Fon
+alacaklarının tahsiline ilişkin 123, 134, 136, 137, 138, 140, 142 ve 165
+inci madde hükümleri, tasarrufun iptali davalarında aciz vesikası şartı
+aranmaması,  (…) ^(1)^ dâhil bankalarınca uygulanır. ^(1)^
 
-**Geçici Madde 15 —** Bu Kanunun yayımı tarihinden önce iflas etmiş olan
-bankaların tasfiyesi, tekemmül ettirilen işlemler ve yapılan sıra
-cetvelleri saklı kalmak kaydıyla iflas idareleri tarafından bu Kanun
-hükümlerine göre yürütülür. Bu maddenin uygulanmasında iflas idareleri
-bu Kanunun 106 ncı ve 140 ıncı maddesinde Fona verilen yetkileri
-haizdir.
+**            Geçici Madde 14 —** 13.11.1996 tarihli ve 4208 sayılı
+Kanunun 2 nci maddesinin (a) bendinin (6), (7) ve (8) numaralı bentleri
+ile bu Kanunla yürürlükten kaldırılan 4389 sayılı Kanunun 15/a maddesi
+ve 22 nci maddesinin (4) numaralı fıkrasında sayılan ceza ve hukuk
+davalarını kovuşturan, soruşturan ve yürüten Cumhuriyet savcıları ile
+hâkimler bu işleri ivedilikle yürütürler ve görevleri süresince disiplin
+nedenleri hariç mazeretleri ve istemleri olmadıkça üç yıl süre ile başka
+bir yere veya göreve atanamazlar. Görev süresi dolanlar tekrar
+atanabilirler.
 
-**Geçici Madde 16 —** Bu Kanun ile Fon alacağının tahsili bakımından
-yarar görülerek zamanaşımı ve diğer konularda Fon lehine getirilen
-hükümler makable şamildir.
+**            Geçici Madde 15 —** Bu Kanunun yayımı tarihinden önce
+iflas etmiş olan bankaların tasfiyesi, tekemmül ettirilen işlemler ve
+yapılan sıra cetvelleri saklı kalmak kaydıyla iflas idareleri tarafından
+bu Kanun hükümlerine göre yürütülür. Bu maddenin uygulanmasında iflas
+idareleri bu Kanunun 106 ncı ve 140 ıncı maddesinde Fona verilen
+yetkileri haizdir.
 
-**Geçici Madde 17 —** Kurul Başkanı ve Fon Kurulu Başkanı hariç olmak
-üzere, Kurula ve Fon Kuruluna ilk atanan üyelerin üçte biri iki yılda
-bir yenilenir. İkinci yılın sonunda kur'a sonucu üyelikleri sona eren
-üyeler bir defalığına tekrar atanabilir.
+**             Geçici Madde 16 —** Bu Kanun ile Fon alacağının tahsili
+bakımından yarar görülerek zamanaşımı ve diğer konularda Fon lehine
+getirilen hükümler makable şamildir.
 
-**Geçici Madde 18 —** Bu Kanunun yayımını izleyen bir ay içerisinde
-mülga 4389 sayılı Kanunla kurulan Güvence Fonu tutarları Fona
+**             Geçici Madde 17 —** Kurul Başkanı ve Fon Kurulu Başkanı
+hariç olmak üzere, Kurula ve Fon Kuruluna ilk atanan üyelerin üçte biri
+iki yılda bir yenilenir. İkinci yılın sonunda kur'a sonucu üyelikleri
+sona eren üyeler bir defalığına tekrar atanabilir.
+
+**             Geçici Madde 18 —** Bu Kanunun yayımını izleyen bir ay
+içerisinde mülga 4389 sayılı Kanunla kurulan Güvence Fonu tutarları Fona
 devredilir.
 
-**Geçici Madde 19 —** Bu Kanunun 100 üncü maddesinin son fıkrası
-gereğince Kurum ile Fon tarafından müştereken belirlenecek hususlar üç
-ay içinde belirlenir.
+**             Geçici Madde 19 —** Bu Kanunun 100 üncü maddesinin son
+fıkrası gereğince Kurum ile Fon tarafından müştereken belirlenecek
+hususlar üç ay içinde belirlenir.
 
-**Geçici Madde 20 —** Bu Kanun ile yapılan yeni düzenleme sebebiyle
-Kurumda görev unvanları değişmeyenler aynı unvanlı kadrolarına atanmış
-sayılırlar. Bu şekilde atanan personele, atandıkları tarihteki eski
-pozisyonlarına ilişkin olarak almakta oldukları aylık ücret (fazla mesai
-ücreti hariç), ikramiye ve benzeri adlarla yapılan ödemelerin toplam net
-tutarı; atandıkları yeni kadrolarına ilişkin olarak yapılan her türlü
-ödemelerin (fazla mesai ücreti ve performansa dayalı ödül hariç)
+**             Geçici Madde 20 —** Bu Kanun ile yapılan yeni düzenleme
+sebebiyle Kurumda görev unvanları değişmeyenler aynı unvanlı kadrolarına
+atanmış sayılırlar. Bu şekilde atanan personele, atandıkları tarihteki
+eski pozisyonlarına ilişkin olarak almakta oldukları aylık ücret (fazla
+mesai ücreti hariç), ikramiye ve benzeri adlarla yapılan ödemelerin
+toplam net tutarı; atandıkları yeni kadrolarına ilişkin  olarak 
+yapılan  her  türlü  ödemelerin  (fazla  mesai  ücreti  ve  performansa 
+dayalı ödül hariç)
 
-*––––––––––––––––––*
+######## ––––––––––––––––––
 
-*(1) Bu fıkranın “… tüzel kişilerin kanunî temsilcileri ile borçlu veya
-borçla diğer ilgililerin yurt dışına çıkmasını yasaklama …” bölümü
+*(1)  Bu fıkranın  “… tüzel kişilerin kanunî temsilcileri ile borçlu
+veya borçla diğer ilgililerin yurt dışına çıkmasını yasaklama …” bölümü
 Anayasa Mahkemesi’nin 18/10/2007 tarihli ve E.: 2007/4, K.: 2007/81
 sayılı Kararı ile iptal edilmiştir.*
 
 9612
+
+ 
 
 toplam net tutarından fazla olması hâlinde, aradaki fark atandıkları
 kadroda kaldıkları sürece herhangi bir vergi ve kesintiye tâbi
@@ -6069,104 +6262,110 @@ tutulmaksızın her ay tazminat olarak ödenir. İsteğe bağlı olarak,
 atandıkları kadro unvanında herhangi bir değişiklik olanlarla başka
 kurumlara geçenlere fark tazminatı ödenmesine son verilir.
 
-Görev unvanları değişenler veya kaldırılanlar Kurumda, bu Kanunun
-yürürlüğe girdiği tarihten itibaren bir yıl içinde durumlarına uygun
-yeni bir kadroya atanır. Atama işlemi yapılıncaya kadar Kurumca ihtiyaç
-duyulan işlerde görevlendirilebilirler. Bunlar yeni bir kadroya
+             Görev unvanları değişenler veya kaldırılanlar Kurumda, bu
+Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde durumlarına
+uygun yeni bir kadroya atanır. Atama işlemi yapılıncaya kadar Kurumca
+ihtiyaç duyulan işlerde görevlendirilebilirler. Bunlar yeni bir kadroya
 atanıncaya kadar eski görev unvanlarına ait aylık ücret (fazla mesai
 ücreti hariç), ikramiye ve benzeri adlarla yapılan ödemeleri almaya
 devam ederler. Ataması yapılan personelin aylık ücretleri ile her türlü
 malî ve sosyal haklarında meydana gelen farklar hakkında da birinci
 fıkra hükmü uygulanır.
 
-Bu Kanunun yürürlüğe girdiği tarihte görev yapmakta olan Kurul Başkan ve
-üyelerinin üyelikleri görev sürelerinin sonuna kadar devam eder. Kurul
-Başkan ve üyelerinin ücretleri ile her türlü malî ve sosyal haklarında
-görevde bulundukları sürece bu Kanunda yapılan düzenlemeler sebebiyle
-meydana gelen farklar hakkında da birinci fıkra hükmü uygulanır.
+             Bu Kanunun yürürlüğe girdiği tarihte görev yapmakta olan
+Kurul Başkan ve üyelerinin üyelikleri görev sürelerinin sonuna kadar
+devam eder. Kurul Başkan ve üyelerinin ücretleri ile her türlü malî ve
+sosyal haklarında görevde bulundukları sürece bu Kanunda yapılan
+düzenlemeler sebebiyle meydana gelen farklar hakkında da birinci fıkra
+hükmü uygulanır.
 
-Yukarıdaki hükümler, Fon Kurulu Başkan ve üyeleri ile bu Kanuna ekli
-(II) sayılı cetvelde belirtilen kadrolara atanacak personel hakkında da
-uygulanır.
+             Yukarıdaki hükümler, Fon Kurulu Başkan ve üyeleri ile bu
+Kanuna ekli (II) sayılı cetvelde belirtilen kadrolara atanacak personel
+hakkında da uygulanır.
 
-Kamu kurum ve kuruluşları ile Merkez Bankası personeli iken Kurumda veya
-Fonda görev alanlar istekleri hâlinde ve bu Kanunun yürürlüğe girdiği
-tarihten itibaren bir yıl içinde talepte bulunmaları kaydıyla,
-geldikleri kurumlarda durumlarına uygun bir göreve atanırlar. Bu
-takdirde, Kurumda veya Fonda geçirdikleri süreler tâbi oldukları kanun
-hükümlerine göre hizmetlerinde değerlendirilir.
+             Kamu kurum ve kuruluşları ile Merkez Bankası personeli iken
+Kurumda veya Fonda görev alanlar istekleri hâlinde ve bu Kanunun
+yürürlüğe girdiği tarihten itibaren bir yıl içinde talepte bulunmaları
+kaydıyla, geldikleri kurumlarda durumlarına uygun bir göreve atanırlar.
+Bu takdirde, Kurumda veya Fonda geçirdikleri süreler tâbi oldukları
+kanun hükümlerine göre hizmetlerinde değerlendirilir.
 
-**Geçici Madde 21 —** Bu Kanun uyarınca, 657 sayılı Devlet Memurları
-Kanununa tâbi olan Kurum ve Fon personelinin Kurum ve Fonda geçen hizmet
-süreleri, öğrenim durumu itibarıyla yükselebilecekleri dereceyi aşmamak
-koşuluyla 657 sayılı Kanunun ek geçici 1, 2 ve 3 üncü maddeleri ile
-2.2.2005 tarihli ve 5289 sayılı Kanun hükümleri dikkate alınarak
-kazanılmış hak aylık derece ve kademelerinin tespitinde değerlendirilir.
+**             Geçici Madde 21 —** Bu Kanun uyarınca, 657 sayılı Devlet
+Memurları Kanununa tâbi olan Kurum ve Fon personelinin Kurum ve Fonda
+geçen hizmet süreleri, öğrenim durumu itibarıyla yükselebilecekleri
+dereceyi aşmamak koşuluyla 657 sayılı Kanunun ek geçici 1, 2 ve 3 üncü
+maddeleri ile 2.2.2005 tarihli ve 5289 sayılı Kanun hükümleri dikkate
+alınarak kazanılmış hak aylık derece ve kademelerinin tespitinde
+değerlendirilir.
 
-Bu suretle 5434 sayılı Kanuna tâbi olan personelin kazanılmış hak aylık
-derecelerinde değerlendirilemeyen geçmiş hizmet süreleri emekli
-keseneğine esas aylıklarında değerlendirilir.
+             Bu suretle 5434 sayılı Kanuna tâbi olan personelin
+kazanılmış hak aylık derecelerinde değerlendirilemeyen geçmiş hizmet
+süreleri emekli keseneğine esas aylıklarında değerlendirilir.
 
-Söz konusu personele, iş mevzuatına göre herhangi bir tazminat ödenmez.
-Bu personelin önceden kıdem tazminatı ödenmiş süreleri hariç kıdem
-tazminatına hak kazanacak şekilde geçmiş olan hizmet süreleri 5434
-sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu hükümlerine göre emekli
-sandığı ikramiyelerinin hesabında dikkate alınır.
+             Söz konusu personele, iş mevzuatına göre herhangi bir
+tazminat ödenmez. Bu personelin önceden kıdem tazminatı ödenmiş süreleri
+hariç kıdem tazminatına hak kazanacak şekilde geçmiş olan hizmet
+süreleri 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu
+hükümlerine göre emekli sandığı ikramiyelerinin hesabında dikkate
+alınır.
 
-**Geçici Madde 22 —** T.C. Emekli Sandığı dışındaki sosyal güvenlik
-kurumlarından emekli olup, bu Kanunun yürürlüğe girdiği tarihten önce
-Kurul ve Fon Kurulu üyeliklerine atananlardan T.C. Emekli Sandığıyla
-ilişkilendirilmelerini isteyenler, göreve başladıkları tarihi takip eden
-aybaşından itibaren T.C. Emekli Sandığı ile ilişkilendirilirler. Bu
-süreye ait emekli kesenek ve karşılıkları genel esaslara göre T.C.
-Emekli Sandığına ödenir.
+**             Geçici Madde 22 —** T.C. Emekli Sandığı dışındaki sosyal
+güvenlik kurumlarından emekli olup, bu Kanunun yürürlüğe girdiği
+tarihten önce Kurul ve Fon Kurulu üyeliklerine atananlardan T.C. Emekli
+Sandığıyla ilişkilendirilmelerini isteyenler, göreve başladıkları tarihi
+takip eden aybaşından itibaren T.C. Emekli Sandığı ile
+ilişkilendirilirler. Bu süreye ait emekli kesenek ve karşılıkları genel
+esaslara göre T.C. Emekli Sandığına ödenir.
 
 9612-1
 
-**Geçici Madde 23 —** **(Mülga: 31/5/2006-5510/106 md.)**
+** **
 
-**Geçici Madde 24** – **(Ek : 8/3/2006-5472/2 md.)**
+**             Geçici Madde 23 —** **(Mülga: 31/5/2006-5510/106 md.)**
 
-Banka tarafından yetkili mercilere beyan edilen sigortaya tabi mevduat
-tutarı ile Fon tarafından tespit edilen mevduat tutarı arasında bir fark
-bulunması nedeniyle bu maddenin yayımı tarihinden önce haklarında Fon
-tarafından takibat başlatılmış kişilerin ve bankaların (iflas kararı
-verilmiş olanlar dahil), Fona olan borçlarından dolayı bu Kanun
-hükümlerine göre cebri icra yoluyla varlıklarının satışından elde edilen
-bedelin, bu Kanunun 134 üncü maddesinin sekizinci fıkrası uyarınca
-yapılan garameten dağıtımı sonrasında Fon payına düşen kısmı, yukarıdaki
-nedene dayanılarak Fon tarafından haklarında takibat başlatılmış
-kişilerin ve bankanın Devlete ve sosyal güvenlik kuruluşlarına olan 6183
-sayılı Kanun kapsamındaki borçlarına ödenmek üzere bir hesapta toplanır.
-Bankanın ve bu madde kapsamındaki kişilerin, Devlete ve sosyal güvenlik
-kuruluşlarına olan 6183 sayılı Kanun kapsamındaki borçlarının
-ödenmesinden sonra kalan tutar, Fon alacağına mahsup edilir. Bu madde
-hükmü, maddenin yürürlüğe girdiği tarihten önce yapılan satışlar için de
-uygulanır.
+             **Geçici Madde 24** –  **(Ek : 8/3/2006-5472/2 md.)**
 
-**Geçici Madde 25 –** **(Ek : 8/3/2006-5472/2 md.)**
+             Banka tarafından yetkili mercilere beyan edilen sigortaya
+tabi mevduat tutarı ile Fon tarafından tespit edilen mevduat tutarı
+arasında bir fark bulunması nedeniyle bu maddenin yayımı tarihinden önce
+haklarında Fon tarafından takibat başlatılmış kişilerin ve bankaların
+(iflas kararı verilmiş olanlar dahil), Fona olan borçlarından dolayı bu
+Kanun hükümlerine göre cebri icra yoluyla varlıklarının satışından elde
+edilen bedelin, bu Kanunun 134 üncü maddesinin sekizinci fıkrası
+uyarınca yapılan garameten dağıtımı sonrasında Fon payına düşen kısmı,
+yukarıdaki nedene dayanılarak Fon tarafından haklarında takibat
+başlatılmış kişilerin ve bankanın Devlete ve sosyal güvenlik
+kuruluşlarına olan 6183 sayılı Kanun kapsamındaki borçlarına ödenmek
+üzere bir hesapta toplanır. Bankanın ve bu madde kapsamındaki kişilerin,
+Devlete ve sosyal güvenlik kuruluşlarına olan 6183 sayılı Kanun
+kapsamındaki borçlarının ödenmesinden sonra kalan tutar, Fon alacağına
+mahsup edilir. Bu madde hükmü, maddenin yürürlüğe girdiği tarihten önce
+yapılan satışlar için de uygulanır.
 
-Bu maddenin yürürlüğe girdiği tarihten önce Fon tarafından satış ilânı
-verilmiş, satışı gerçekleşmiş ancak ihale bedelinin alacaklılara
-dağıtımı sonuçlanmamış satışlar ile 31/12/2006 tarihine kadar ilân
-edilecek satışlar kapsamında yapılacak teslimlerde, 3065 sayılı Katma
-Değer Vergisi Kanununun 17 nci maddesinin (4) numaralı fıkrasının (m)
-bendi uyarınca istisna uygulanacak kısmın hesaplanmasında, 5411 sayılı
-Kanunun bu maddenin yürürlüğe girdiği tarihten önceki hükümlerine göre
-Fona intikal etmesi gereken tutar esas alınır.
+             **Geçici Madde 25 –**  **(Ek : 8/3/2006-5472/2 md.)**
 
-**Geçici Madde 26 –** **(Ek : 4/6/2008-5766/23 md.)**
+             Bu maddenin yürürlüğe girdiği tarihten önce Fon tarafından
+satış ilânı verilmiş, satışı gerçekleşmiş ancak ihale bedelinin
+alacaklılara dağıtımı sonuçlanmamış satışlar ile 31/12/2006 tarihine
+kadar ilân edilecek satışlar kapsamında yapılacak teslimlerde, 3065
+sayılı Katma Değer Vergisi  Kanununun 17 nci maddesinin (4) numaralı
+fıkrasının (m) bendi uyarınca istisna uygulanacak kısmın
+hesaplanmasında, 5411 sayılı Kanunun bu maddenin yürürlüğe girdiği
+tarihten önceki hükümlerine göre Fona intikal etmesi gereken tutar esas
+alınır.
+
+**Geçici Madde 26 –**  **(Ek : 4/6/2008-5766/23 md.)**
 
 6183 sayılı Kanunun 35 inci maddesi; Fon tarafından devralınan
-şirketlerde Fon aleyhine, 6183 sayılı Kanunun mükerrer 35 inci maddesi;
+şirketlerde Fon aleyhine, 6183 sayılı Kanunun mükerrer 35 inci maddesi; 
 Fonun veya Fon personelinin kayyım sıfatı ile atandığı şirketlerde Fon
 ve Fon personeli aleyhine, bu Kanun ve mülga Bankalar kanunları
 kapsamında banka ve şirketlerde Bakan, Kurul veya Fon Kurulu tarafından
 görevlendirilen kişiler aleyhine uygulanmaz.
 
-Temettü hariç ortaklık hakları ile yönetim ve denetimi Fona intikal eden
-ve/veya bankacılık işlemleri yapma ve mevduat kabul etme izin ve
-yetkileri ilişkili Bakan, Bakanlar Kurulu veya Kurul tarafından
+             Temettü hariç ortaklık hakları ile yönetim ve denetimi Fona
+intikal eden ve/veya bankacılık işlemleri yapma ve mevduat kabul etme
+izin ve yetkileri ilişkili Bakan, Bakanlar Kurulu veya Kurul tarafından
 kaldırılarak tasfiyeleri Fon eliyle yürütülen veya Fon tarafından
 tasfiye işlemleri başlatılan bankalar hakkında başlatılan işlemler
 sonuçlanıncaya ve her türlü Fon alacakları tahsil edilinceye kadar,
@@ -6177,47 +6376,53 @@ sözleşmeleri uyarınca temsile yetkilendirilmiş veya tüzel kişilerin
 yetkili organlarınca temsil yetkisi verilmiş kişi veya kişiler ile tüzel
 kişiliği olmayan teşekkülü idare edenlerden,
 
-9612-2
+ 
+
+ 
 
 9613
 
-a\) Fon bankalarının; yönetim ve denetimine sahip olduğu iştiraklerinden,
-hâkim ortağı olan tüzel kişilerden, gerçek ve tüzel kişi hâkim
-ortaklarının hâkim ortak olduğu şirketlerden, bu kişiler adına hareket
-eden veya onlar hesabına kendi adına para, mal veya hak edinen
-şirketlerden olan Fon alacaklarında, banka kaynağının
+ 
+
+             a) Fon bankalarının; yönetim ve denetimine sahip olduğu
+iştiraklerinden, hâkim ortağı olan tüzel kişilerden, gerçek ve tüzel
+kişi hâkim ortaklarının hâkim ortak olduğu şirketlerden, bu kişiler
+adına hareket eden veya onlar hesabına kendi adına para, mal veya hak
+edinen şirketlerden olan Fon alacaklarında, banka kaynağının
 kullanıldığı/kullandırıldığı tarihten itibaren borcun devam ettiği dönem
 boyunca,
 
-b\) Fon bankalarının kurumsal kredilerinden kaynaklanan Fon
+             b) Fon bankalarının kurumsal kredilerinden kaynaklanan Fon
 alacaklarında, kredinin kat edildiği tarihten itibaren borcun devam
 ettiği dönem boyunca,
 
-c\) Fon gelirlerinden kaynaklanan alacaklarda, Fon alacağının ilgili
-kuruluşa tebliğ edildiği tarihten itibaren borcun devam ettiği dönem
-boyunca,
+             c) Fon gelirlerinden kaynaklanan alacaklarda, Fon
+alacağının ilgili kuruluşa tebliğ edildiği tarihten itibaren borcun
+devam ettiği dönem boyunca,
 
-kanuni temsilci sıfatını haiz kişiler kanuni temsilci olarak addedilir.
+             kanuni temsilci sıfatını haiz kişiler kanuni temsilci
+olarak addedilir.
 
-**Geçici Madde 27 –** **(Ek : 4/6/2008-5766/23 md.)**
+**Geçici Madde 27 –**  **(Ek : 4/6/2008-5766/23 md.)**
 
-Bu Kanun ve mülga Bankalar kanunları hükümlerine göre, Fonun mülkiyetine
-geçen veya Fon tarafından satışı yapılarak alıcı adına tescili yapılan
-taşınmazlarda borçlu veya üçüncü şahıslar bulunmakta ise, bu kişilere,
-onbeş (15) gün içinde taşınmazın tahliye edilmesini ihtar eden tahliye
-emri tebliğ edilir. Taşınmazın bu müddet içinde tahliye edilmemesi
-halinde, gerektiğinde kolluk kuvveti yardımı da alınarak borçlu veya
-üçüncü şahıs taşınmazdan çıkarılarak taşınmazın tahliyesi Fon tarafından
-gerçekleştirilir. Tahliyeye ilişkin masraflar taşınmazın yeni maliki
-tarafından karşılanır.
+             Bu Kanun ve mülga Bankalar kanunları hükümlerine göre,
+Fonun mülkiyetine geçen veya Fon tarafından satışı yapılarak alıcı 
+adına tescili yapılan taşınmazlarda borçlu veya üçüncü şahıslar
+bulunmakta ise, bu kişilere, onbeş (15) gün içinde taşınmazın tahliye
+edilmesini ihtar eden tahliye emri tebliğ edilir. Taşınmazın bu müddet
+içinde tahliye edilmemesi halinde, gerektiğinde kolluk kuvveti yardımı
+da alınarak borçlu veya üçüncü şahıs taşınmazdan çıkarılarak taşınmazın
+tahliyesi Fon tarafından gerçekleştirilir. Tahliyeye ilişkin masraflar
+taşınmazın yeni maliki tarafından karşılanır.
 
-Fon tarafından bu Kanun ve mülga Bankalar Kanunları hükümlerine göre
-yapılan veya yapılmış olan satışlarda, satış şartnamesi veya eklerinde
-belirtilen süre içinde tahliye taahhütlerinin yerine getirilmemesi
-halinde de bu maddenin birinci fıkrası hükümleri uygulanır. Bu takdirde
-15 günlük süre taşınmazın tahliyesine ilişkin olarak satış şartnamesi ve
-eklerinde belirtilen sürenin bitiminde başlar. Fonun, taahhüt ihlali
-sebebiyle alıcıdan tazminat isteme hakkı saklıdır.
+             Fon tarafından bu Kanun ve mülga Bankalar Kanunları
+hükümlerine göre yapılan veya yapılmış olan satışlarda, satış şartnamesi
+veya eklerinde belirtilen süre içinde tahliye taahhütlerinin yerine
+getirilmemesi halinde de bu maddenin birinci fıkrası hükümleri
+uygulanır. Bu takdirde 15 günlük süre taşınmazın tahliyesine ilişkin
+olarak satış şartnamesi ve eklerinde belirtilen sürenin bitiminde
+başlar. Fonun, taahhüt ihlali sebebiyle alıcıdan tazminat isteme hakkı
+saklıdır.
 
 **Geçici Madde 28-(Ek: 13/2/2011-6111/150 md.)**
 
@@ -6234,14 +6439,14 @@ kaldırılan 44 üncü maddesi hükümleri uyarınca faaliyetlerini yürütür.
 Merkez Bankası nezdindeki Risk Merkezi bilgileri, bu Kanuna göre kurulan
 Risk Merkezine aktarılır.
 
-**Geçici Madde 29- (Ek: 13/2/2011-6111/150 md.)**
+**Geçici Madde 29-(Ek: 13/2/2011-6111/150 md.)**
 
 Kurumun merkezinin İstanbul’a taşınmasına ilişkin iş ve işlemler
 tamamlanıncaya kadar Kurumun idari merkezi Ankara’dır. Merkezin nakli,
 iki yıl içinde tamamlanır. Bakanlar Kurulu bu süreyi uzatmaya
 yetkilidir.
 
-**Geçici Madde 30- (Ek: 25/4/2012-6300/4 md.)**
+**Geçici Madde 30-(Ek: 25/4/2012-6300/4 md.)**
 
 Bu maddenin yürürlüğe girdiği tarihte görevde bulunan Kurul ile Fon
 Kurulu Başkan ve üyelerinin üyelikleri, görev sürelerinin sonuna kadar
@@ -6260,366 +6465,729 @@ uygulanır. Ancak, ilgili değişikliklerin yürürlüğe girdiği tarihten
 önceki hükümlere göre kendilerine bir yıl ödeme yapılmış Kurul başkan ve
 üyeleri ile Fon Kurulu başkan ve üyeleri bu uygulamadan yararlanamaz.
 
-*Yürürlük*
+**Geçici Madde 31** **–(Ek: 24/5/2013-6487/31 md.) **
 
-**Madde 170 —** Bu Kanunun; 90 ve 91 inci maddeleri bu Kanunun yayımı
-tarihinden itibaren iki ay içinde, 168 inci maddesinin (B), (C), (D) ve
-(E) fıkraları 1.1.2006 tarihinde, diğer maddeleri yayımı tarihinde
-yürürlüğe girer.
+Bankacılık mevzuatının uygulanmasıyla ilgili olarak, Avrupa İnsan
+Hakları Mahkemesine yapılmış başvuru veya Avrupa İnsan Hakları
+Mahkemesinin kararı kapsamında karşılıklı olarak dostane çözüme
+ulaşılması hâlinde, ilgili kamu otoritesinin şikayet ya da yazılı
+başvurudan vazgeçme veya müdahillikten çekilme beyanının ilgili
+Cumhuriyet savcılığı veya mahkemeye ulaşması üzerine, dostane çözüm
+kapsamına giren fiiller nedeniyle yapılmakta olan soruşturma veya
+kovuşturmada şüpheli veya sanıklar hakkında kovuşturmaya yer olmadığı
+veya düşme kararı verilir.
 
-*Yürütme*
+Yukarıdaki fıkra hükmü, bu maddenin yürürlüğe girdiği tarih itibarıyla
+derdest olan soruşturma veya kovuşturmalarla ilgili olarak uygulanır.
 
-**Madde 171 —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+*             Yürürlük*
+
+**             Madde 170 —** Bu Kanunun; 90 ve 91 inci maddeleri bu
+Kanunun yayımı tarihinden itibaren iki ay içinde, 168 inci maddesinin
+(B), (C), (D) ve (E) fıkraları 1.1.2006 tarihinde, diğer maddeleri
+yayımı tarihinde yürürlüğe girer.
+
+*             Yürütme*
+
+**             Madde 171 —** Bu Kanun hükümlerini Bakanlar Kurulu
+yürütür.
 
 9614
 
-\(I) SAYILI CETVEL
+ 
 
-KURUMU: BANKACILIK DÜZENLEME VE DENETLEME KURUMU
+                                                               (I)
+SAYILI CETVEL
 
-*SINIF UNVAN DERECE ADET*
+                KURUMU: BANKACILIK DÜZENLEME VE DENETLEME KURUMU
 
-GİH Başkan Yardımcısı 1 3
+ 
 
-GİH Başkanlık Müşaviri 1 5
+*SINIF         UNVAN                                                 
+                                   DERECE      ADET*
 
-GİH Daire Başkanı 1 10
+GİH            Başkan
+Yardımcısı                                                                            
+1                  3
 
-GİH Kıdemli Bankalar Yeminli Başmurakıbı 1 30
+GİH            Başkanlık
+Müşaviri                                                                           
+1                  5
 
-GİH Kıdemli Bankacılık Başuzmanı 1 20
+GİH            Daire
+Başkanı                                                                                    
+1                10
 
-GİH Bankalar Yeminli Başmurakıbı 1 9
+GİH            Kıdemli Bankalar Yeminli
+Başmurakıbı                                             1               
+30
 
-GİH Bankacılık Başuzmanı 1 4
+GİH            Kıdemli Bankacılık
+Başuzmanı                                                         
+1                20
 
-GİH Başuzman 1 8
+GİH            Bankalar Yeminli
+Başmurakıbı                                                          
+1                 9
 
-GİH Kurum Uzmanı 1 4
+GİH            Bankacılık
+Başuzmanı                                                                       
+1                  4
 
-GİH Müdür 1 2
+GİH           
+Başuzman                                                                                         
+1                  8
 
-AH Avukat 1 1
+GİH            Kurum
+Uzmanı                                                                                 
+1                  4
 
-SH Doktor 1 1
+GİH           
+Müdür                                                                                               
+1                  2
 
-GİH Uzman 1 5
+AH            
+Avukat                                                                                              
+1                  1
 
-GİH Şef 1 3
+SH             
+Doktor                                                                                              
+1                  1
 
-GİH Dava Takip Memuru 1 1
+GİH           
+Uzman                                                                                              
+1                  5
 
-GİH Sekreter 1 1
+GİH           
+Şef                                                                                                     
+1                  3
 
-GİH Bankalar Yeminli Başmurakıbı 2 8
+GİH            Dava Takip
+Memuru                                                                        
+1                  1
 
-GİH Bankacılık Başuzmanı 2 4
+GİH           
+Sekreter                                                                                             
+1                  1
 
-GİH Başuzman 2 4
+GİH            Bankalar Yeminli
+Başmurakıbı                                                         
+2                  8
 
-GİH Kurum Uzmanı 2 8
+GİH            Bankacılık
+Başuzmanı                                                                      
+2                  4
 
-GİH Müdür 2 2
+GİH           
+Başuzman                                                                                         
+2                  4
 
-GİH Uzman 2 2
+GİH            Kurum
+Uzmanı                                                                                 
+2                  8
 
-GİH Savunma Uzmanı 2 1
+GİH           
+Müdür                                                                                               
+2                  2
 
-GİH Şef 2 2
+GİH           
+Uzman                                                                                              
+2                  2
 
-GİH Memur 2 2
+GİH            Savunma
+Uzmanı                                                                              
+2                  1
 
-GİH Sekreter 2 1
+GİH           
+Şef                                                                                                     
+2                  2
 
-GİH Şoför 2 2
+GİH           
+Memur                                                                                              
+2                  2
 
-GİH Bankalar Yeminli Başmurakıbı 3 13
+GİH           
+Sekreter                                                                                             
+2                  1
 
-GİH Bankacılık Başuzmanı 3 12
+GİH           
+Şoför                                                                                                 
+2                  2
 
-GİH Bankalar Yeminli Murakıbı 3 20
+GİH            Bankalar Yeminli
+Başmurakıbı                                                          
+3                13
 
-GİH Bankacılık Uzmanı 3 10
+GİH            Bankacılık
+Başuzmanı                                                                       
+3                12
 
-GİH Başuzman 3 4
+GİH            Bankalar Yeminli
+Murakıbı                                                               
+3                20
 
-GİH Kurum Uzmanı 3 4
+GİH            Bankacılık
+Uzmanı                                                                            
+3                10
 
-GİH Uzman 3 5
+GİH           
+Başuzman                                                                                         
+3                  4
 
-GİH Şef 3 1
+GİH            Kurum
+Uzmanı                                                                                 
+3                  4
 
-GİH Memur 3 2
+GİH           
+Uzman                                                                                              
+3                  5
 
-GİH Sekreter 3 3
+GİH           
+Şef                                                                                                     
+3                  1
 
-GİH Bankalar Yeminli Murakıbı 4 30
+GİH           
+Memur                                                                                              
+3                  2
 
-GİH Bankacılık Uzmanı 4 10
+GİH           
+Sekreter                                                                                             
+3                  3
 
-GİH Kurum Uzmanı 4 7
+GİH            Bankalar Yeminli
+Murakıbı                                                               
+4                30
 
-GİH Avukat (Kurum Uzmanı) 4 1
+GİH            Bankacılık
+Uzmanı                                                                            
+4                10
+
+GİH            Kurum
+Uzmanı                                                                                 
+4                  7
+
+GİH            Avukat (Kurum
+Uzmanı)                                                                 
+4                  1
 
 9615
 
-AH Avukat 4 1
+########  
 
-TH Mühendis 4 1
+AH            
+Avukat                                                                                              
+4                  1
 
-GİH Uzman 4 3
+TH            
+Mühendis                                                                                          
+4                  1
 
-GİH Şef 4 3
+GİH           
+Uzman                                                                                              
+4                  3
 
-GİH Memur 4 7
+GİH           
+Şef                                                                                                     
+4                  3
 
-GİH Sekreter 4 2
+GİH           
+Memur                                                                                              
+4                  7
 
-GİH Şoför 4 4
+GİH           
+Sekreter                                                                                             
+4                  2
 
-YH Hizmetli 4 1
+GİH           
+Şoför                                                                                                 
+4                  4
 
-GİH Bankalar Yeminli Murakıbı 5 30
+YH            
+Hizmetli                                                                                            
+4                  1
 
-GİH Bankacılık Uzmanı 5 15
+GİH            Bankalar Yeminli
+Murakıbı                                                               
+5                30
 
-GİH Bankacılık Uzman Yardımcısı 5 2
+GİH            Bankacılık
+Uzmanı                                                                            
+5                15
 
-GİH Kurum Uzmanı 5 4
+GİH            Bankacılık Uzman
+Yardımcısı                                                           
+5                  2
 
-GİH Uzman 5 5
+GİH            Kurum
+Uzmanı                                                                                 
+5                  4
 
-GİH Şef 5 1
+GİH           
+Uzman                                                                                              
+5                  5
 
-GİH Santral Memuru 5 1
+GİH           
+Şef                                                                                                     
+5                  1
 
-GİH Memur 5 1
+GİH            Santral
+Memuru                                                                                
+5                  1
 
-GİH Sekreter 5 1
+GİH           
+Memur                                                                                              
+5                  1
 
-GİH Şoför 5 4
+GİH           
+Sekreter                                                                                             
+5                  1
 
-YH Dağıtıcı 5 1
+GİH           
+Şoför                                                                                                 
+5                  4
 
-GİH Bankalar Yeminli Murakıbı 6 45
+YH            
+Dağıtıcı                                                                                              
+5                  1
 
-GİH Bankacılık Uzmanı 6 40
+GİH            Bankalar Yeminli
+Murakıbı                                                               
+6                45
 
-GİH Hukuk Uzmanı 6 10
+GİH            Bankacılık
+Uzmanı                                                                            
+6                40
 
-GİH Bilişim Uzmanı 6 15
+GİH            Hukuk
+Uzmanı                                                                                 
+6                10
 
-GİH Bankacılık Uzman Yardımcısı 6 5
+GİH            Bilişim
+Uzmanı                                                                                 
+6                15
 
-GİH Kurum Uzmanı 6 4
+GİH            Bankacılık Uzman
+Yardımcısı                                                           
+6                  5
 
-AH Avukat 6 1
+GİH            Kurum
+Uzmanı                                                                                 
+6                  4
 
-TH Mimar 6 1
+AH            
+Avukat                                                                                              
+6                  1
 
-GİH Mütercim-Tercüman 6 2
+TH            
+Mimar                                                                                               
+6                  1
 
-GİH Şef 6 3
+GİH           
+Mütercim-Tercüman                                                                         
+6                  2
 
-GİH Kütüphaneci 6 1
+GİH           
+Şef                                                                                                     
+6                  3
 
-GİH Sekreter 6 2
+GİH           
+Kütüphaneci                                                                                     
+6                  1
 
-TH Teknisyen 6 2
+GİH           
+Sekreter                                                                                     
+       6                  2
 
-GİH Şoför 6 2
+TH            
+Teknisyen                                                                                         
+ 6                  2
 
-YH Dağıtıcı 6 1
+GİH           
+Şoför                                                                                                 
+6                  2
 
-GİH Bankalar Yeminli Murakıbı 7 45
+YH            
+Dağıtıcı                                                                                              
+6                  1
 
-GİH Bankacılık Uzmanı 7 30
+GİH            Bankalar Yeminli
+Murakıbı                                                               
+7                45
 
-GİH Hukuk Uzmanı 7 10
+GİH            Bankacılık
+Uzmanı                                                                            
+7                30
 
-GİH Bilişim Uzmanı 7 15
+GİH            Hukuk
+Uzmanı                                                                                 
+7                10
 
-GİH Bankalar Yeminli Murakıp Yardımcısı 7 10
+GİH            Bilişim
+Uzmanı                                                                                 
+7                15
 
-GİH Bankacılık Uzman Yardımcısı 7 5
+GİH            Bankalar Yeminli Murakıp
+Yardımcısı                                              7               
+10
 
-GİH Kurum Uzmanı 7 1
+GİH            Bankacılık Uzman
+Yardımcısı                                                           
+7                  5
 
-AH Avukat 7 1
+GİH            Kurum
+Uzmanı                                                                                 
+7                  1
 
-GİH Mütercim-Tercüman 7 4
+AH            
+Avukat                                                                                              
+7                  1
 
-SH Doktor 7 1
+GİH           
+Mütercim-Tercüman                                                                         
+7                  4
 
-GİH Şef 7 2
+SH             
+Doktor                                                                                              
+7                  1
+
+GİH           
+Şef                                                                                                     
+7                  2
 
 9616
 
-GİH Kütüphaneci 7 1
+########  
 
-GİH Memur 7 1
+GİH           
+Kütüphaneci                                                                                     
+7                  1
 
-GİH Sekreter 7 10
+GİH           
+Memur                                                                                              
+7                  1
 
-TH Teknisyen 7 2
+GİH           
+Sekreter                                                                                             
+7                10
 
-GİH Şoför 7 3
+TH            
+Teknisyen                                                                                         
+7                  2
 
-GİH Bankalar Yeminli Murakıp Yardımcısı 8 30
+GİH           
+Şoför                                                                                                 
+7                  3
 
-GİH Bankacılık Uzman Yardımcısı 8 23
+GİH            Bankalar Yeminli Murakıp
+Yardımcısı                                              8               
+30
 
-TH Mühendis 8 4
+GİH            Bankacılık Uzman
+Yardımcısı                                                           
+8                 23
 
-GİH Memur 8 3
+TH            
+Mühendis                                                                                          
+8                  4
 
-GİH Sekreter 8 9
+GİH           
+Memur                                                                                              
+8                  3
 
-TH Teknisyen 8 3
+GİH           
+Sekreter                                                                                             
+8                  9
 
-GİH Şoför 8 1
+TH            
+Teknisyen                                                                                         
+8                  3
 
-GİH Bankalar Yeminli Murakıp Yardımcısı 9 45
+GİH           
+Şoför                                                                                                 
+8                  1
 
-GİH Bankacılık Uzman Yardımcısı 9 20
+GİH            Bankalar Yeminli Murakıp
+Yardımcısı                                              9               
+45
 
-GİH Hukuk Uzman Yardımcısı 9 15
+GİH            Bankacılık Uzman
+Yardımcısı                                                           
+9                20
 
-GİH Bilişim Uzman Yardımcısı 9 30
+GİH            Hukuk Uzman
+Yardımcısı                                                                
+9                15
 
-AH Avukat 9 3
+GİH            Bilişim Uzman
+Yardımcısı                                                                
+9                30
 
-GİH Mütercim-Tercüman 9 4
+AH            
+Avukat                                                                                              9                 
+3
 
-GİH Dava Takip Memuru 9 2
+GİH           
+Mütercim-Tercüman                                                                         
+9                  4
 
-GİH Memur 9 5
+GİH            Dava Takip
+Memuru                                                                        
+9                  2
 
-GİH Şoför 9 2
+GİH           
+Memur                                                                                              
+9                  5
 
-GİH Santral Memuru 10 1
+GİH           
+Şoför                                                                                                 
+9                  2
 
-SH Hemşire 10 1
+GİH            Santral
+Memuru                                                                              
+10                  1
 
-GİH Şoför 10 1
+SH             
+Hemşire                                                                                           
+10                  1
 
-GİH Koruma ve Güvenlik Görevlisi 10 1
+GİH           
+Şoför                                                                                               
+10                  1
 
-TH Teknisyen 12 3
+GİH            Koruma ve Güvenlik
+Görevlisi                                                       
+10                  1
 
-SH Hemşire 12 1
+TH            
+Teknisyen                                                                                       
+12                  3
 
-YH Dağıtıcı 12 2
+SH             
+Hemşire                                                                                           
+12                  1
 
-GİH Koruma ve Güvenlik Görevlisi 12 4
+YH            
+Dağıtıcı                                                                                            
+12                  2
 
-GİH Santral Memuru 13 2
+GİH            Koruma ve Güvenlik
+Görevlisi                                                       
+12                  4
 
-GİH Memur 13 2
+GİH            Santral
+Memuru                                                                              
+13                  2
 
-YH Dağıtıcı 13 3
+GİH           
+Memur                                                                                            
+13                  2
 
-YH Hizmetli 13 4
+YH            
+Dağıtıcı                                                                                            13                 
+3
 
-**GENEL TOPLAM 851**
+YH            
+Hizmetli                                                                                          
+13                  4
+
+GİH Başkan Yardımcısı^(1)^ 1 2
+
+GİH Müdür^(1)^ 1 4
+
+GİH Bankacılık Düzenleme ve Denetleme Kurumu Uzman yardımcısı^(1)^ 9 10
+
+**GENEL TOPLAM 867**
+
+*\_\_\_\_\_\_\_\_\_\_\_*
+
+*(1) 20/6/2013 tarihli ve 6493 sayılı Kanunun 40 maddesi ile ihdas
+edilmiştir.*
 
 9617
 
+                                                     (II) SAYILI CETVEL
+
+                   KURUMU: TASARRUF MEVDUATI SİGORTA FONU
+
  
 
-\(II) SAYILI CETVEL
+*SINIFI        UNVANI               
+                                                                 
+DERECESİ    ADET*
 
-KURUMU: TASARRUF MEVDUATI SİGORTA FONU
+GİH            Başkan
+Yardımcısı                                                                            
+1                  2
 
-*SINIFI UNVANI DERECESİ ADET*
+GİH            Daire
+Başkanı                                                                                    
+1                10
 
-GİH Başkan Yardımcısı 1 2
+GİH            Başkanlık
+Müşaviri                                                                           
+1                  5
 
-GİH Daire Başkanı 1 10
+GİH           
+Müdür                                                                                               
+1                  2
 
-GİH Başkanlık Müşaviri 1 5
+GİH           
+Müdür                                                                                               
+3                  1
 
-GİH Müdür 1 2
+GİH           
+Müdür                                                                                               
+4                  1
 
-GİH Müdür 3 1
+GİH           
+Denetçi                                                                                              
+1                  2
 
-GİH Müdür 4 1
+GİH           
+Denetçi                                                                                              
+2                  2
 
-GİH Denetçi 1 2
+GİH           
+Denetçi                                                                                              
+3                  1
 
-GİH Denetçi 2 2
+GİH           
+Denetçi                                                                                              
+4                  1
 
-GİH Denetçi 3 1
+GİH           
+Denetçi                                                                                              
+5                  1
 
-GİH Denetçi 4 1
+GİH           
+Denetçi                                                                                              
+6                  3
 
-GİH Denetçi 5 1
+GİH           
+Denetçi                                                                                              
+7                  5
 
-GİH Denetçi 6 3
+GİH            Denetçi
+Yardımcısı                                                                            
+7                  1
 
-GİH Denetçi 7 5
+GİH            Denetçi
+Yardımcısı                                                                            
+8                  4
 
-GİH Denetçi Yardımcısı 7 1
+GİH            Denetçi
+Yardımcısı                                                                            
+9                  5
 
-GİH Denetçi Yardımcısı 8 4
+AH            
+Avukat                                                                                              
+1                  3
 
-GİH Denetçi Yardımcısı 9 5
+AH            
+Avukat                                                                                              
+2                  2
 
-AH Avukat 1 3
+AH            
+Avukat                                                                                              
+3                  3
 
-AH Avukat 2 2
+AH            
+Avukat                                                                                              
+4                  5
 
-AH Avukat 3 3
+AH            
+Avukat                                                                                              
+5                17
 
-AH Avukat 4 5
+AH            
+Avukat                                                                                              
+6                14
 
-AH Avukat 5 17
+AH            
+Avukat                                                                                              
+7                30
 
-AH Avukat 6 14
+AH            
+Avukat                                                                                              
+8                32
 
-AH Avukat 7 30
+AH            
+Avukat                                                                                              
+9                24
 
-AH Avukat 8 32
+GİH           
+Uzman                                                                                              
+1                15
 
-AH Avukat 9 24
+GİH           
+Uzman                                                                                              
+2                15
 
-GİH Uzman 1 15
+GİH           
+Uzman                                                                                              
+3                16
 
-GİH Uzman 2 15
+GİH           
+Uzman                                                                                              
+4                30
 
-GİH Uzman 3 16
+GİH           
+Uzman                                                                                              
+5                30
 
-GİH Uzman 4 30
+GİH           
+Uzman                                                                                              
+6                40
 
-GİH Uzman 5 30
+GİH           
+Uzman                                                                                              
+7                40
 
-GİH Uzman 6 40
+GİH            Uzman
+Yardımcısı                                                                            
+8                40
 
-GİH Uzman 7 40
+GİH            Uzman
+Yardımcısı                                                                            
+9                13
 
-GİH Uzman Yardımcısı 8 40
+**                    GENEL
+TOPLAM                                                                                          
+415**
 
-GİH Uzman Yardımcısı 9 13
+ 
 
-**GENEL TOPLAM 415**
+ 
+
+ 
 
 9618
 
+########  
+
 \(III) SAYILI CETVEL
-
-KURUMU: TASARRUF MEVDUATI SİGORTA FONU
-
-*POZİSYON UNVANI ADEDİ*
-
-İdarî Personel 120
-
-Destek Personeli 35
-
-**TOPLAM 155**
 
  
 
-9618-1
+             KURUMU: TASARRUF MEVDUATI SİGORTA FONU
+
+ 
+
+*POZİSYON UNVANI                                ADEDİ*
+
+İdarî Personel                                                  
+120              
+
+Destek Personeli                                               
+35              
+
+**TOPLAM                                                       155**
+
+ 
+
+ 
+
+ 9618-1
 
  **5411 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -6660,6 +7228,21 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6362                                                       33, 37, 72                                   30/12/2012
 
   6456                                                       Ek Madde 1                                   18/4/2013
+
+  6462                                                       85,114                                       3/5/2013
+
+  6487                                                       Geçici Madde 31                              11/6/2013
+
+  6493                                                       90, 91, 92,101 Ek (I) Sayılı Cetvel          27/6/2013
   ---------------------------------------------------------- -------------------------------------------- ------------
 
+1.  
 
+      
+    ==
+
+ 
+
+ 
+
+ 
