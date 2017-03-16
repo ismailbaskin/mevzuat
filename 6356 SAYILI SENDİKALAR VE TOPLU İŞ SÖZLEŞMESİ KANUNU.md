@@ -1,4 +1,4 @@
-**6385 sayılı Kanun ile değişik hali**
+**6552 sayılı Kanun ile değişik hali**
 
 **SENDİKALAR VE TOPLU İŞ SÖZLEŞMESİ KANUNU**
 
@@ -786,6 +786,12 @@ dağıtamaz. Ancak sendikaların grev ve lokavt süresince tüzüklerine göre
 üyelerine yapacakları yardımlar ile kuruluşların eğitim amaçlı
 yardımları bu hükmün dışındadır.
 
+\(10) **(Ek: 10/9/2014-6552/19 md.)** İşveren sendikaları, tüzüklerinde
+hüküm bulunmak ve şartları genel kurul kararıyla belirlenmek kaydıyla,
+işçilerin sigorta primlerinin işveren payının ödemelerinde kullanılmak
+ve nakit mevcudunun yüzde yirmi beşini aşmamak üzere karşılıksız yardıma
+dayalı dayanışma ve yardım fonu oluşturabilir.
+
 **İşyeri sendika temsilcisinin atanması ve görevleri**
 
 **MADDE 27 –**(1) Toplu iş sözleşmesi yapmak üzere yetkisi kesinleşen
@@ -1141,11 +1147,11 @@ yapılmasıyla birlikte teşmil uygulaması kendiliğinden sona erer.
 **Yetki**
 
 **MADDE 41 –** (1) Kurulu bulunduğu işkolunda çalışan işçilerin en az
-yüzde üçünün üyesi bulunması şartıyla işçi sendikası, toplu iş
+yüzde birinin üyesi bulunması şartıyla işçi sendikası, toplu iş
 sözleşmesinin kapsamına girecek işyerinde başvuru tarihinde çalışan
 işçilerin yarıdan fazlasının, işletmede ise yüzde kırkının kendi üyesi
 bulunması hâlinde bu işyeri veya işletme için toplu iş sözleşmesi
-yapmaya yetkilidir.
+yapmaya yetkilidir. ^(1)^
 
 \(2) İşletme toplu iş sözleşmeleri için işyerleri bir bütün olarak
 dikkate alınır ve yüzde kırk çoğunluk buna göre hesaplanır.
@@ -1158,14 +1164,14 @@ sözleşmesi yapmaya yetkilidir.
 sendika üyesi olmayan bir işveren ise kendi işyeri veya işyerleri için
 toplu iş sözleşmesi yapmaya yetkilidir.
 
-\(5) Bir işkolunda çalışan işçilerin yüzde üçünün tespitinde Bakanlıkça
+\(5) Bir işkolunda çalışan işçilerin yüzde birinin tespitinde Bakanlıkça
 her yıl ocak ve temmuz aylarında yayımlanan istatistikler esas alınır.
 Bu istatistiklerde her bir işkolundaki toplam işçi sayısı ile
 işkollarındaki sendikaların üye sayıları yer alır. Yayımlanan
 istatistik, toplu iş sözleşmesi ve diğer işlemler için yeni istatistik
 yayımlanıncaya kadar geçerlidir. Yetki belgesi almak üzere başvuran veya
 yetki belgesi alan işçi sendikasının yetkisini daha sonra yayımlanacak
-istatistikler etkilemez.
+istatistikler etkilemez. ^(1)^
 
 \(6) Yayımından itibaren on beş gün içinde itiraz edilmeyen istatistik
 kesinleşir. İstatistiğin gerçeğe uymadığı gerekçesiyle bu süre içinde
@@ -1178,6 +1184,12 @@ kesin olarak karara bağlar.
 düzenlenmesinde kendisine gönderilen üyelik ve üyelikten çekilme
 bildirimleri ile Sosyal Güvenlik Kurumuna yapılan işçi bildirimlerini
 esas alır.
+
+––––––––––––––––
+
+*(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 20 nci maddesiyle, bu
+fıkralarda yer alan “yüzde üçünün” ibareleri “yüzde birinin” şeklinde
+değiştirilmiştir.*
 
 11712
 
@@ -1205,7 +1217,7 @@ sendikasının tespitinde dikkate alınmaz.
 \(5) Yetki tespiti ile ilgili usul ve esaslar Bakanlıkça çıkarılacak bir
 yönetmelikle düzenlenir.
 
-**Yetki itirazı**
+**Yetki itirazı ^(1)^**
 
 **MADDE 43 –**(1) Kendilerine 42 nci madde uyarınca gönderilen tespit
 yazısını alan işçi veya işveren sendikaları veya sendika üyesi olmayan
@@ -1215,8 +1227,8 @@ nedenlerini de göstererek yazının kendilerine tebliğ edildiği tarihten
 itibaren altı iş günü içinde mahkemeye yapabilir.
 
 \(2) İtiraz dilekçesi görevli makama kayıt ettirildikten sonra mahkemeye
-verilir. Kurulu bulunduğu işkolunda çalışan işçilerin yüzde üçünden daha
-az üyesi bulunan işçi sendikası, yetki itirazında bulunamaz.
+verilir. Kurulu bulunduğu işkolunda çalışan işçilerin yüzde birinden
+daha az üyesi bulunan işçi sendikası, yetki itirazında bulunamaz. ^(1)^
 
 \(3) İtiraz dilekçesinde veya ekinde somut delillerin yer almaması
 hâlinde itiraz incelenmeksizin reddedilir. İşçi ve üye sayılarının
@@ -1229,9 +1241,9 @@ olarak karara bağlanır.
 \(4) 42 nci maddenin üçüncü fıkrası uyarınca kendisine yetki şartlarına
 sahip olmadığı bildirilen işçi sendikası, altı iş günü içinde yetkili
 olup olmadığının tespiti için dava açabilir. Mahkeme açılan davayı o
-işkolunda çalışan işçilerin en az yüzde üçünü üye kaydeden işçi
+işkolunda çalışan işçilerin en az yüzde birini üye kaydeden işçi
 sendikaları ile işveren sendikası veya sendika üyesi olmayan işverene de
-bildirir. Mahkeme davayı iki ay içinde sonuçlandırır.
+bildirir. Mahkeme davayı iki ay içinde sonuçlandırır. ^(1)^
 
 \(5) İtiraz, karar kesinleşinceye kadar yetki işlemlerini durdurur.
 
@@ -1243,6 +1255,13 @@ reddedilmişse ya da kendisine yetki şartlarına sahip olmadığı bildirilen
 sendikanın itirazı sonucunda yetki şartlarına sahip olduğunu tespit eden
 kesinleşmiş mahkeme kararının tebliğ edildiği tarihten itibaren altı iş
 günü içinde; ilgili sendikaya, Bakanlıkça bir yetki belgesi verilir.
+
+––––––––––––––
+
+*(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 20 nci maddesiyle, bu
+maddenin ikinci fıkrasında yer alan “yüzde üçünden” ibaresi “yüzde
+birinden”, dördüncü fıkrasında yer alan “yüzde üçünü” ibaresi “yüzde
+birini” olarak değiştirilmiştir.*
 
 11713
 
@@ -1999,6 +2018,13 @@ Kanuna yapılmış sayılır.
 
 11724
 
+**EK MADDE 1 –(Ek: 10/9/2014-6552/21 md.)**
+
+41 inci maddenin birinci ve beşinci fıkraları ile 43 üncü maddenin
+ikinci ve dördüncü fıkralarında yer alan kurulu bulunduğu işkolunda en
+az yüzde bir üye şartı, Ekonomik ve Sosyal Konseye üye konfederasyonlara
+üye olmayan işçi sendikaları için yüzde üç olarak uygulanır.
+
 **GEÇİCİ MADDE 1 –** (1) Kuruluşlar bu Kanun gereği yapmak zorunda
 oldukları tüzük değişikliklerini bu Kanunun yayımı tarihinden itibaren
 bir yıl içinde yönetim kurulu kararıyla gerçekleştirir. Tüzük
@@ -2034,12 +2060,7 @@ maddenin ikinci fıkrasındaki nedenlerden biri ile görevi sona eren
 yöneticiler, bu tarihten itibaren bir ay içerisinde işverene başvurmak
 kaydıyla emsal ücret üzerinden kıdem tazminatına hak kazanır.
 
-**GEÇİCİ MADDE 6 –** (1) 41 inci maddenin birinci ve beşinci fıkraları
-ile 43 üncü maddenin ikinci ve dördüncü fıkralarında yer alan kurulu
-bulunduğu işkolunda en az yüzde üç üye şartı, Ekonomik ve Sosyal Konseye
-üye konfederasyonlara bağlı işçi sendikaları için Ocak 2013
-istatistiğinin yayımı tarihinden 1/7/2016 tarihine kadar yüzde bir,
-1/7/2018 tarihine kadar yüzde iki olarak uygulanır.
+**GEÇİCİ MADDE 6 –** (1) **(Mülga: 10/9/2014-6552/144 md.)**
 
 \(2) En son yayımlanan 2009 istatistiği sonrasında, 15/9/2012 tarihine
 kadar kurulmuş ve Ekonomik ve Sosyal Konseye üye konfederasyonlara üye
@@ -2090,7 +2111,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **6356 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  6385                                                                         Geçici Madde 6                                                19/1/2013
+  6385                                                                         GEÇİCİ MADDE 6                                                19/1/2013
+  6552                                                                         26, 41, 43, EK MADDE 1, GEÇİCİ MADDE 6                        11/9/2014
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
