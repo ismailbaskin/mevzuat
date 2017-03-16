@@ -1,6 +1,4 @@
-**6358 sayılı Kanun ile değişik hali**
-
- 
+**6361 sayılı Kanun ile değişik hali**
 
 **HARÇLAR KANUNU ^(1)^**
 
@@ -3261,6 +3259,15 @@ metne işlenmiştir.*
   f\) İvaz karşılığında kuru mülkiyet iktisabında devir bedeli üzerinden
   devir eden ve devir alan için ayrı ayrı ^(1)^**  **
 
+  g\) **(Ek: 21/11/2012-6361/51 md.)** Satıp geri kiralama yöntemi ile
+  gerçekleştirilen kiralama sözleşmeleri kapsamında kiracı tarafından
+  sözleşme süresi sonunda geri alınmak kaydıyla kiralanan taşınmazların
+  kiralayana satışı sırasında devredenden (Taşınmazın herhangi bir şekilde
+  kiracı tarafından geri alınmamasının tespiti durumunda ilgililerden (a)
+  bendindeki oran ile bu bentteki oran arasındaki farka tekabül eden harç
+  tutarı 213 sayılı Kanun hükümlerine göre gecikme faizi ile birlikte
+  alınır.)
+
   Yukarıdaki (e) fıkrasında yer alan intifa hakkı ile (f) fıkrasında yer alan kuru mülkiyetin değerleri bu Kanunun 64 üncü maddesinin son fıkrasına göre hesaplanan miktarlardan düşük olamaz.
 
   **II –Kadastro ve tapulama işlemleri:**
@@ -3277,10 +3284,6 @@ metne işlenmiştir.*
   vermeyenlere, tapulamada tespitte hazır bulunmayanlara ait
   gayrimenkullerin kadastrolanması veya tapulanmasında,
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------- ------------------------------
-
-**  **                                      
-
-                                             **       **
 
 ——————————
 
@@ -5210,6 +5213,8 @@ Tarifeler             1/1/2005
   6322                   113, 123, (8) sayılı Tarife                          15/6/2012
 
   6358                   Geçici Madde 6                                       10/11/2012
+
+  6361                   \(4) sayılı Tarife                                   13/12/2012
   ---------------------- ---------------------------------------------------- ------------------------------
 
  
