@@ -1,4 +1,4 @@
-**6356 sayılı Kanun ile değişik hali**
+2243
 
 []{#K139 .anchor}**İŞ MAHKEMELERİ KANUNU**
 
@@ -74,26 +74,63 @@ tarih ve E. 1970/63, K.1971/38 sayılı kararı ile iptal edilmiştir.*
 İş Kanununun 79 uncu maddesinde yazılı uzlaşma teşebbüsünün yapılmamış
 olması davanın kabulüne ve görülmesine mani teşkil etmez*.*
 
-**Madde 8 – (Değişik: 2/3/2005-5308/1 md.)**
+**(Ek: 10/9/2014 – 6552/64 md.)** 31/5/2006 tarihli ve 5510 sayılı
+Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile diğer sosyal
+güvenlik mevzuatından kaynaklanan uyuşmazlıklarda, hizmet akdine tabi
+çalışmaları nedeniyle zorunlu sigortalılık sürelerinin tespiti talepleri
+hariç olmak üzere, dava açılmadan önce Sosyal Güvenlik Kurumuna müracaat
+edilmesi zorunludur. Diğer kanunlarda öngörülen süreler saklı kalmak
+kaydıyla yapılan müracaata altmış gün içinde Kurumca cevap verilmezse
+talep reddedilmiş sayılır. Kuruma karşı dava açılabilmesi için
+taleplerin reddedilmesi veya reddedilmiş sayılması şarttır. Kuruma
+başvuruda geçirilecek süre zamanaşımı ve hak düşürücü sürelerin
+hesaplanmasında dikkate alınmaz.
+
+**(Ek: 10/9/2014 – 6552/64 md.)** Hizmet akdine tabi çalışmaları
+nedeniyle zorunlu sigortalılık sürelerinin tespiti talebi ile işveren
+aleyhine açılan davalarda, dava Kuruma resen ihbar edilir. İhbar üzerine
+davaya davalı yanında ferî müdahil olarak katılan Kurum, yanında
+katıldığı taraf başvurmasa dâhi kanun yoluna başvurabilir. Kurum,
+yargılama sonucu verilecek kararı kesinleştikten sonra uygulamakla
+yükümlüdür.
+
+**Madde 8 – (Değişik: 2/3/2005-5308/1 md.) ^(1)^**
 
 İş mahkemelerince verilen nihaî kararlara karşı istinaf yoluna
 başvurulabilir. Şu kadar ki, para ile değerlendirilemeyen dava ve işler
-hakkındaki kararlar hariç, miktar veya değeri bin lirayı geçmeyen
-davalar hakkındaki nihaî kararlar kesindir.
+hakkındaki kararlar hariç, miktar veya değeri üç bin Türk lirasını
+geçmeyen davalar hakkındaki nihaî kararlar kesindir. ^(1)^
 
 İstinaf yoluna başvurma süresi, karar yüze karşı verilmişse nihaî
 kararın taraflara tefhimi, yokluklarında verilmiş ise tebliği tarihinden
 itibaren sekiz gündür.
 
 Bölge adliye mahkemesinin para ile değerlendirilemeyen dava ve işler
-hakkındaki kararları ile miktar veya değeri beşbin lirayı geçen davalar
-hakkındaki nihaî kararlara karşı tebliğ tarihinden başlayarak sekiz gün
-içinde temyiz yoluna başvurulabilir.
+hakkındaki kararları ile miktar veya değeri kırk bin Türk lirasını geçen
+davalar hakkındaki nihaî kararlara karşı tebliğ tarihinden başlayarak
+sekiz gün içinde temyiz yoluna başvurulabilir. ^(1)^
 
 Kanun yoluna başvurulan kararlar, bölge adliye mahkemesi ve Yargıtayca
 iki ay içinde karara bağlanır.
 
-Yargıtayın kararlarına karşı karar düzeltme yoluna başvurulamaz.
+**(Değişik beşinci fıkra: 24/11/2016-6763/5 md.)** Birinci ve üçüncü
+fıkralardaki parasal sınırlar her takvim yılı başından geçerli olmak
+üzere, önceki yılda uygulanan parasal sınırların; o yıl için 4/1/1961
+tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi
+hükümleri uyarınca Maliye Bakanlığınca her yıl tespit ve ilan edilen
+yeniden değerleme oranında artırılması suretiyle uygulanır. Bu şekilde
+belirlenen sınırların on Türk lirasını aşmayan kısımları dikkate
+alınmaz. Parasal sınırların uygulanmasında hükmün verildiği tarihteki
+miktar esas alınır.
+
+––––––––––––––––––
+
+*(1) 24/11/2016 tarihli ve 6763 sayılı Kanunun 5 inci maddesiyle, bu
+maddenin birinci fıkrasında yer alan “bin lirayı” ibaresi “üç bin Türk
+lirasını” şeklinde, üçüncü fıkrasında yer alan “beşbin lirayı” ibaresi
+“kırk bin Türk lirasını” şeklinde değiştirilmiştir.*
+
+2245-2263
 
 **Madde 9 –** İş mahkemelerinin çalışma zamanları ihtiyaca göre haftanın
 münasip günleri ve iş bakımından günün münasip saatleri nazara alınarak
@@ -115,8 +152,6 @@ mütaallik kararını takyit etmez.
 kişilerin taraf oldukları iş davalarında mahkemece çağırılacak tercüman
 ve mütercim ücreti, mütekabiliyet şartı ile Devlet Hazinesinden
 karşılanır.
-
-2245-2263
 
 **Madde 12 – 14 – (İptal: Anayasa Mah. nin 13/4/1971 tarih ve E.
 1970/63, K. 1971/38 sayılı kararı ile.)**
@@ -181,6 +216,10 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6352                                                                              1, Geçici Madde 2                                                                                               5/7/2012
 
   6356                                                                              1                                                                                                               7/11/2012
+
+  6552                                                                              7                                                                                                               11/9/2014
+
+  6763                                                                              8                                                                                                               2/12/2016
   --------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------- ----------------------
 
 –––––––––––––––––
