@@ -1,4 +1,4 @@
-**6462 sayılı Kanun ile değişik hali**
+**6495 sayılı Kanun ile değişik hali**
 
 **TERÖR VE TERÖRLE MÜCADELEDEN DOĞAN**
 
@@ -12,7 +12,7 @@
 
 **Kabul Tarihi : 17/7/2004**
 
-**Yayımlandığı R. Gazete : Tarih : 27/7/2004 Sayı :25535 **
+**Yayımlandığı R.Gazete : Tarih : 27/7/2004 Sayı :25535 **
 
 **Yayımlandığı Düstur : Tertip : 5 Cilt : 43 **
 
@@ -410,30 +410,49 @@ yönetmelikle düzenlenir.
 
 **Ek Madde 1 –** **(Ek: 4/7/2012-6353/80 md.)**
 
-16 yaşından büyükler için tespit edilen otuz günlük asgari ücretin net
-tutarının; 9 uncu maddenin birinci fıkrasının (b) bendinde belirtilen
-malullerin kendilerine yüzde altmışı, (c) bendinde belirtilen malullerin
-kendilerine yüzde sekseni, (d) bendinde belirtilen malullerin
-kendilerine tamamı, (e) bendinde belirtilenlerin 31/5/2006 tarihli ve
-5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 34
-üncü maddesi uyarınca belirlenecek hak sahiplerine ise tamamı üzerinden
-paylaştırılarak aylık bağlanır. Bu maddeye göre aylığa hak kazananların
-diğer mevzuata göre de aylığa hak kazanması halinde, tercih ettikleri
-aylıkları, Sosyal Güvenlik Kurumuna yazılı müracaatlarını takip eden ay
-başından itibaren ödenir, diğer aylıkları sürekli olarak kesilir.
+**(Değişik fıkra: 12/7/2013-6495/90 md.)** (9.500) gösterge rakamının
+memur aylık katsayısı ile çarpımı sonucu bulunacak tutarın, çalışma gücü
+kaybı;
 
-Ancak, iki yönden aylığa aynı zamanda hak kazananlara, müstehak
-oldukları tarihten itibaren fazla aylıkları ödenir. Tercih ettikleri
-aylıklarını alanlar, yeniden Sosyal Güvenlik Kurumuna yazılı olarak
-başvurdukları tarihi izleyen ay başından itibaren bu isteklerinden
-dönebilirler. Sosyal Güvenlik Kurumunca ödenen bu aylıklar her yıl
-sonunda faturası karşılığında Maliye Bakanlığından tahsil edilir.
+a\) Yüzde kırktan daha aşağı olanlar hariç olmak kaydıyla, 9 uncu
+maddenin birinci fıkrasının (b) bendinde belirtilen malullerin
+kendilerine yüzde altmışı tutarında,
+
+b\) 9 uncu maddenin birinci fıkrasının (c) bendinde belirtilen malullerin
+kendilerine yüzde sekseni tutarında,
+
+c\) 9 uncu maddenin birinci fıkrasının (d) bendinde belirtilen malullerin
+kendilerine tamamı tutarında,
+
+ç) 9 uncu maddenin birinci fıkrasının (e) bendinde belirtilenlerin
+31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
+Sigortası Kanununun 34 üncü maddesi uyarınca belirlenecek hak
+sahiplerine ise tamamı üzerinden yapılacak paylaştırma tutarında,
+
+aylık bağlanır.
+
+**(Değişik fıkra: 12/7/2013-6495/90 md.)** Sosyal Güvenlik Kurumunca
+ödenen bu aylıklar her yıl sonunda faturası karşılığında Maliye
+Bakanlığından tahsil edilir.
+
+8932
+
+**(Ek fıkra: 12/7/2013-6495/90 md.)** Ancak, ölenlerin anne ve babasına
+aylık bağlanmasında, 5510 sayılı Kanunun 34 üncü maddesinin birinci
+fıkrasının (d) bendinde belirtilen her türlü kazanç ve irattan elde
+etmiş olduğu gelirinin asgari ücretin net tutarından daha az olması ve
+diğer çocuklarından hak kazanılan gelir ve aylıklar hariç olmak üzere
+gelir ve/veya aylık bağlanmamış olması şartları aranmaz. Çalışma gücü
+kayıpları nedeniyle bu maddeye göre aylık bağlanmasına hak kazanmakla
+birlikte aylık bağlanmamış olanlardan veya bu maddeye göre aylık almakta
+iken vefat edenlerin önceden tespit edilmiş malullük oranlarına göre hak
+kazanabilecekleri ya da almakta oldukları aylıklar, 5510 sayılı Kanunun
+34 üncü maddesi uyarınca belirlenecek hak sahiplerine birinci fıkranın
+(ç) bendine göre intikal ettirilir.
 
 Bu madde kapsamına girenlerin ilgili valiliğe müracaatı üzerine valilik
 tarafından tanzim edilecek aylık bağlanmaya ilişkin belgeler Sosyal
 Güvenlik Kurumuna gönderilir.
-
-8932
 
 Terör örgütleri tarafından öldürülen veya yaralanan ya da güvenlik
 kuvvetleri tarafından etkisiz hale getirilen veya yaralanan terör örgütü
@@ -473,9 +492,9 @@ bir yıl içinde sonuçlandırılır.
 –––––––––––––
 
 *(1) Bu madde gereğince yapılan başvuruların sonuçlandırılma
-süresi,20/7/2013 tarihli ve 28713 sayılı Resmi Gazete’de yayımlanan
-24/6/2013 tarihli ve 2013/5034 sayılı Bakanlar Kurulu Kararı Eki Kararın
-1 inci maddesiyle, 2/4/2012 tarihli ve 2012/2996 sayılı Bakanlar Kurulu
+süresi,18/6/2014 tarihli ve 29034 sayılı Resmi Gazete’de yayımlanan
+21/5/2014 tarihli ve 2014/6401 sayılı Bakanlar Kurulu Kararı Eki Kararın
+1 inci maddesiyle, 24/6/2013 tarihli ve 2013/5034 sayılı Bakanlar Kurulu
 Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
 
 8932-1
@@ -565,7 +584,7 @@ Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
 
 **YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
-  ------------------------ ------------------------------------------------------------- ----------------------------
+  ------------------------ ------------------------------------------------------------- ------------------------------------------
   **Değiştiren Kanunun**   **5233 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
                                                                                          
   **Numarası**                                                                           
@@ -579,6 +598,10 @@ Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
   6353                     Ek Madde 1, Geçici Madde 5                                    12/7/2012
 
   6462                     6, 7, 9, 12                                                   3/5/2013
-  ------------------------ ------------------------------------------------------------- ----------------------------
+
+  6495                     Ek Madde 1                                                    12/7/2012 tarihinden geçerli olmak üzere
+                                                                                         
+                                                                                         2/8/2013
+  ------------------------ ------------------------------------------------------------- ------------------------------------------
 
 
