@@ -1,4 +1,4 @@
-**6456 sayılı Kanun ile değişik hali**
+**6518 sayılı Kanun ile değişik hali**
 
  
 
@@ -2374,9 +2374,9 @@ esas alınır.
 
  
 
-3927
+[[]{#OLE_LINK9 .anchor}]{#OLE_LINK10 .anchor}3927
 
-[[]{#OLE_LINK9 .anchor}]{#OLE_LINK10 .anchor}**(1) SAYILI TARİFE** ^(1)^
+**(1) SAYILI TARİFE** ^(1)^
 
 **(Değişik :21/11/1980 -2345/2 md.)**
 
@@ -2447,10 +2447,11 @@ verilmesi halinde hüküm
 altına alınan anlaşmazlık konusu değer üzerinden **(Binde 68,31)** Binde
 36
 
-**(Ek hüküm: 4/12/1985 - 3239/96-A md.)** Bakanlar Kurulu dava çeşitleri
-itibariyle birlikte veya ayrı ayrı olmak üzere bu bente yazılı nispeti
-binde 10’a kadar indirmeye veya Kanunda yazılı nispete kadar çıkarmaya
-yetkilidir.
+**(Ek hüküm: 4/12/1985 - 3239/96-A md.)** Tahkim yargılamasında bu bende
+göre hesaplanan harç yüzde elli oranında uygulanır. Bakanlar Kurulu dava
+çeşitleri itibariyle birlikte veya ayrı ayrı olmak üzere bu bente yazılı
+nispeti binde 10’a kadar indirmeye veya Kanunda yazılı nispete kadar
+çıkarmaya yetkilidir. ^(5)^
 
 ——————————
 
@@ -2474,6 +2475,11 @@ ibaresi eklenmiş ve metne işlenmiştir.*
 *(4) Bu alt bentde yer alan “Bölge Adliye Mahkemeleri” ibaresi,
 26/9/2004 tarihli ve 5235 sayılı Kanunun 52 nci maddesiyle, 1/4/2005
 tarihinden geçerli olmak üzere eklenmiş ve metne işlenmiştir.*
+
+*(5) 6/2/2014 tarihli ve 6518 sayılı Kanunun 9 uncu maddesiyle, bu
+bentte yer alan “Bakanlar Kurulu” ibaresinden önce gelmek üzere “Tahkim
+yargılamasında bu bende göre hesaplanan harç yüzde elli oranında
+uygulanır.” ibaresi eklenmiştir.*
 
 3928
 
@@ -5485,14 +5491,14 @@ tarihinden geçerli olmak üzere 31/12/2004
 3954-3
 
   ------------------------------------------------------------------------------------- ----------------------------------------------------------------------- -----------------------------------------------------------
-  **Değiştiren Kanun/İptal Eden Anayasa Mahkemesi Kararı**                              ***492 sayılı Kanunun değiştirilen maddeleri ***                        ***Yürürlüğe giriş tarihi***
+  **Değiştiren Kanun/İptal Eden Anayasa Mahkemesi Kararı**                              **492 sayılı Kanunun değiştirilen maddeleri **                          **Yürürlüğe giriş tarihi**
                                                                                                                                                                 
-  ***No.***                                                                                                                                                     
+  **No.**                                                                                                                                                       
 
   5582                                                                                  59, (1) ve (8) sayılı Tarifeler                                         6/3/2007
 
   5615                                                                                  123, (4) sayılı Tarife                                                  4/4/2007
-
+                                                                                                                                                                
                                                                                         \(8) sayılı  Tarife                                                     1/1/2008
 
   5766                                                                                  42, 59, 63, 123, (1), (3) ve (8) sayılı Tarifeler                       6/6/2008
@@ -5529,6 +5535,8 @@ tarihinden geçerli olmak üzere 31/12/2004
   6487                                                                                  28, (8) sayılı Tarife                                                   11/6/2013
 
   6456                                                                                  113 ve (8) sayılı Tarife                                                1/1/2014
+
+  6518                                                                                  \(1) sayılı Tarife                                                      19/2/2014
   ------------------------------------------------------------------------------------- ----------------------------------------------------------------------- -----------------------------------------------------------
 
 
