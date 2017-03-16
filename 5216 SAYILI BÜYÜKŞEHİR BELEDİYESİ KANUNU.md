@@ -1,13 +1,12 @@
-**6360 sayılı Kanun ile değişik hali**
+8901
 
-BÜYÜKŞEHİR BELEDİYESİ KANUNU ^(1)^
-----------------------------------
+**BÜYÜKŞEHİR BELEDİYESİ KANUNU ^(1)^**
 
-  Kanun Numarası : 5216
+**  Kanun Numarası : 5216**
 
-Kabul Tarihi : 10/7/2004
+**Kabul Tarihi : 10/7/2004**
 
-Yayımlandığı R.Gazete : Tarih : 23/7/2004 Sayı :25531
+**Yayımlandığı R.Gazete : Tarih : 23/7/2004 Sayı :25531 **
 
 **Yayımlandığı Düstur : Tertip : 5 Cilt : 43 **
 
@@ -34,11 +33,12 @@ içindeki belediyeleri kapsar.
 
 **Madde 3-** Bu Kanunun uygulanmasında;
 
-a\) Büyükşehir belediyesi: En az üç ilçe veya ilk kademe belediyesini
-kapsayan, bu belediyeler arasında koordinasyonu sağlayan; kanunlarla
-verilen görev ve sorumlulukları yerine getiren, yetkileri kullanan;
-idarî ve malî özerkliğe sahip ve karar organı seçmenler tarafından
-seçilerek oluşturulan kamu tüzel kişisini,
+a\) **(Değişik: 12/11/2012-6360/4 md.)** Büyükşehir belediyesi: Sınırları
+il mülki sınırı olan ve sınırları içerisindeki ilçe belediyeleri
+arasında koordinasyonu sağlayan; idarî ve malî özerkliğe sahip olarak
+kanunlarla verilen görev ve sorumlulukları yerine getiren, yetkileri
+kullanan; karar organı seçmenler tarafından seçilerek oluşturulan kamu
+tüzel kişisini,
 
 b\) Büyükşehir belediyesinin organları: Büyükşehir belediye meclisi,
 büyükşehir belediye encümeni ve büyükşehir belediye başkanını,
@@ -46,9 +46,7 @@ büyükşehir belediye encümeni ve büyükşehir belediye başkanını,
 c\) İlçe belediyesi: Büyükşehir belediyesi sınırları içinde kalan ilçe
 belediyesini,
 
-d\) İlk kademe belediyesi: Büyükşehir belediye sınırları içinde ilçe
-kurulmaksızın oluşturulan ve büyükşehir ilçe belediyeleriyle aynı yetki,
-imtiyaz ve sorumluluklara sahip belediyeyi,
+d\) **(Mülga: 12/11/2012-6360/4 md.)**
 
 İfade eder.
 
@@ -58,16 +56,18 @@ imtiyaz ve sorumluluklara sahip belediyeyi,
 
 *Kuruluş*
 
-**Madde 4-** Belediye sınırları içindeki ve bu sınırlara en fazla 10.000
-metre uzaklıktaki yerleşim birimlerinin son nüfus sayımına göre toplam
-nüfusu 750.000'den fazla olan il belediyeleri, fizikî yerleşim durumları
-ve ekonomik gelişmişlik düzeyleri de dikkate alınarak, kanunla
+**Madde 4- (Değişik: 12/11/2012-6360/5 md.)**
+
+Toplam nüfusu 750.000’den fazla olan illerin il belediyeleri kanunla
 büyükşehir belediyesine dönüştürülebilir.
 
 *Büyükşehir belediyesinin sınırları*
 
-**Madde 5-** Büyükşehir belediyelerinin sınırları, adını aldıkları
-büyükşehirlerin belediye sınırlarıdır.
+**Madde 5-** **(Değişik: 12/11/2012-6360/6 md.)**
+
+Büyükşehir belediyelerinin sınırları, il mülki sınırlarıdır.
+
+İlçe belediyelerinin sınırları, bu ilçelerin mülki sınırlarıdır.
 
 –––––––––––––
 
@@ -78,50 +78,34 @@ hüküm altına alınmıştır.*
 
 8902
 
-İlçe belediyelerinin sınırları, bu ilçelerin, büyükşehir belediyesi
-içinde kalan kısımlarının sınırlarıdır.
-
-İlk kademe belediyelerinin, büyükşehir belediye sınırları dışında
-belediye sınırı olamaz.
-
 *Büyükşehir belediyesine katılma*
 
-**Madde 6-** Büyükşehir belediyesinin sınırları çevresinde ve aynı il
-sınırları içinde bulunan belediye ve köylerin, büyükşehir belediyesine
-katılması konusunda Belediye Kanunu hükümleri uygulanır. Bu durumda
-katılma kararı, ilgili ilçe veya ilk kademe belediye meclisinin talebi
-üzerine, büyükşehir belediye meclisi tarafından alınır.
-
-**(Mülga ikinci fıkra: 6/3/2008-5747/3 md.)**
-
-**(Mülga üçüncü fıkra: 6/3/2008-5747/3 md.) **
-
-**(Mülga dördüncü fıkra: 6/3/2008-5747/3 md.) **
+**Madde 6-** **(Mülga: 12/11/2012-6360/13 md.)**
 
 ÜÇÜNCÜ BÖLÜM
 
 *Büyükşehir Belediyesinin Görev, Yetki ve Sorumlulukları*
 
-*Büyükşehir ve ilçe belediyelerinin görev ve sorumlulukları ^(1)^*
+*Büyükşehir ve ilçe belediyelerinin görev ve sorumlulukları ^(1)(2)^*
 
 **Madde 7-** Büyükşehir belediyesinin görev, yetki ve sorumlulukları
 şunlardır:
 
-a\) İlçe ve ilk kademe belediyelerinin görüşlerini alarak büyükşehir
+a\) İlçe (…)^(2)^ belediyelerinin görüşlerini alarak büyükşehir
 belediyesinin stratejik plânını, yıllık hedeflerini, yatırım
 programlarını ve bunlara uygun olarak bütçesini hazırlamak.
 
-b\) Çevre düzeni plânına uygun olmak kaydıyla, büyükşehir belediye ve
-mücavir alan sınırları içinde 1/5.000 ile 1/25.000 arasındaki her
-ölçekte nazım imar plânını yapmak, yaptırmak ve onaylayarak uygulamak;
+b\) Çevre düzeni plânına uygun olmak kaydıyla, büyükşehir belediye
+(…)^(3)^ sınırları içinde 1/5.000 ile 1/25.000 arasındaki her ölçekte
+nazım imar plânını yapmak, yaptırmak ve onaylayarak uygulamak;
 büyükşehir içindeki belediyelerin nazım plâna uygun olarak
 hazırlayacakları uygulama imar plânlarını, bu plânlarda yapılacak
 değişiklikleri, parselasyon plânlarını ve imar ıslah plânlarını aynen
 veya değiştirerek onaylamak ve uygulanmasını denetlemek; nazım imar
 plânının yürürlüğe girdiği tarihten itibaren bir yıl içinde uygulama
-imar plânlarını ve parselasyon plânlarını yapmayan ilçe ve ilk kademe
+imar plânlarını ve parselasyon plânlarını yapmayan ilçe (…)^(2)^
 belediyelerinin uygulama imar plânlarını ve parselasyon plânlarını
-yapmak veya yaptırmak.
+yapmak veya yaptırmak. ^(3)^
 
 c\) Kanunlarla büyükşehir belediyesine verilmiş görev ve hizmetlerin
 gerektirdiği proje, yapım, bakım ve onarım işleriyle ilgili her
@@ -134,7 +118,7 @@ işyerlerine büyükşehir belediyesinin sorumluluğunda bulunan alanlarda
 işletilecek yerlere ruhsat vermek ve denetlemek.
 
 e\) Belediye Kanununun 69 ve 73 üncü maddelerindeki yetkileri
-kullanmak.^(2)^
+kullanmak.^(4)^
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -142,7 +126,15 @@ kullanmak.^(2)^
 görev ve sorumlulukları” iken, 12/11/2012 tarihli ve 6360 sayılı Kanunun
 7 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.*
 
-*(2) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle, bu
+*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+maddenin birinci fıkrasında yer alan “ve ilk kademe” ibareleri madde
+metninden çıkarılmıştır.*
+
+*(3) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+bentte yer alan “ve mücavir alan” ibaresi madde metninden
+çıkarılmıştır.*
+
+*(4) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle, bu
 bentte yer alan “68 ve 72 nci” ibaresi, “69 ve 73 üncü” şeklinde
 değiştirilmiş ve metne işlenmiştir.*
 
@@ -158,13 +150,15 @@ tespit etmek ve işletmek, işlettirmek veya kiraya vermek; kanunların
 belediyelere verdiği trafik düzenlemesinin gerektirdiği bütün işleri
 yürütmek.
 
-g\) Büyükşehir belediyesinin yetki alanındaki meydan, bulvar, cadde ve
-ana yolları yapmak, yaptırmak, bakım ve onarımını sağlamak, kentsel
-tasarım projelerine uygun olarak bu yerlere cephesi bulunan yapılara
-ilişkin yükümlülükler koymak; ilân ve reklam asılacak yerleri ve
-bunların şekil ve ebadını belirlemek; meydan, bulvar, cadde, yol ve
-sokak ad ve numaraları ile bunlar üzerindeki binalara numara verilmesi
-işlerini gerçekleştirmek.
+g\) **(Değişik: 12/11/2012-6360/7 md.)** Büyükşehir belediyesinin yetki
+alanındaki mahalleleri ilçe merkezine bağlayan yollar, meydan, bulvar,
+cadde ve ana yolları yapmak, yaptırmak, bakım ve onarımı ile bu yolların
+temizliği ve karla mücadele çalışmalarını yürütmek; kentsel tasarım
+projelerine uygun olarak bu yerlere cephesi bulunan yapılara ilişkin
+yükümlülükler koymak; ilân ve reklam asılacak yerleri ve bunların şekil
+ve ebadını belirlemek; meydan, bulvar, cadde, yol ve sokak ad ve
+numaraları ile bunlar üzerindeki binalara numara verilmesi işlerini
+gerçekleştirmek.
 
 h\) Coğrafî ve kent bilgi sistemlerini kurmak.
 
@@ -285,7 +279,7 @@ görevleri ile temizlik hizmetleri ve adres ve numaralandırmaya ilişkin
 görevlerini belediye meclisi kararı ile ilçe belediyelerine
 devredebilir, birlikte yapabilirler.
 
-İlçe ve ilk kademe belediyelerinin görev ve yetkileri şunlardır:
+İlçe (…) ^(1)^ belediyelerinin görev ve yetkileri şunlardır: ^(1)^
 
 a\) Kanunlarla münhasıran büyükşehir belediyesine verilen görevler ile
 birinci fıkrada sayılanlar dışında kalan görevleri yapmak ve yetkileri
@@ -299,13 +293,13 @@ umuma açık istirahat ve eğlence yerlerini ruhsatlandırmak ve denetlemek.
 
 d\) Birinci fıkrada belirtilen hizmetlerden; 775 sayılı Gecekondu
 Kanununda belediyelere verilen yetkileri kullanmak, otopark, spor,
-dinlenme ve eğlence yerleri ile parkları yapmak; yaşlılar, özürlüler,
+dinlenme ve eğlence yerleri ile parkları yapmak; yaşlılar, engelliler,
 kadınlar, gençler ve çocuklara yönelik sosyal ve kültürel hizmetler
 sunmak; mesleki eğitim ve beceri kursları açmak; mabetler ile sağlık,
 eğitim, kültür tesis ve binalarının yapım, bakım ve onarımı ile kültür
 ve tabiat varlıkları ve tarihî dokuyu korumak; kent tarihi bakımından
 önem taşıyan mekânların ve işlevlerinin geliştirilmesine ilişkin
-hizmetler yapmak.^(1)(2)^
+hizmetler yapmak.^(2)(3)(4)^
 
 e\) Defin ile ilgili hizmetleri yürütmek.
 
@@ -314,14 +308,21 @@ güvenliği açısından tehlike oluşturan binaları tahliye etmek ve yıkmak.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesiyle bu
+*(1) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır.*
+
+*(2) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesiyle bu
 bende, “belirtilen hizmetlerden” ibaresinden sonra gelmek üzere “775
 sayılı Gecekondu Kanununda belediyelere verilen yetkileri
 kullanmak,”ibaresi eklenmiş ve metne işlenmiştir.*
 
-*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 7 nci maddesiyle, bu
+*(3) 12/11/2012 tarihli ve 6360 sayılı Kanunun 7 nci maddesiyle, bu
 bentte yer alan “beceri kursları açmak;” ibaresinden sonra gelmek üzere
 “mabetler ile” ibaresi eklenmiştir.*
+
+*(4) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “özürlüler” ibaresi “engelliler” şeklinde
+değiştirilmiştir.*
 
 8905
 
@@ -335,20 +336,18 @@ tesisler bu Kanunun kapsamı dışındadır.
 tarım ve hayvancılığı desteklemek amacıyla her türlü faaliyet ve
 hizmette bulunabilirler.
 
- *Alt yapı hizmetleri*
-======================
+*Alt yapı hizmetleri ^(1)^*
 
 **Madde 8-** Büyükşehir içindeki alt yapı hizmetlerinin koordinasyon
 içinde yürütülmesi amacıyla büyükşehir belediye başkanı ya da
 görevlendirdiği kişinin başkanlığında, yönetmelikle belirlenecek kamu
 kurum ve kuruluşları ile özel kuruluşların temsilcilerinin katılacağı
-alt yapı koordinasyon merkezi kurulur. Büyükşehir ilçe ve ilk kademe
-belediye başkanları kendi belediyesini ilgilendiren konuların
-görüşülmesinde koordinasyon merkezlerine üye olarak katılırlar. Alt yapı
-koordinasyon merkezi toplantılarına ayrıca gündemdeki konularla ilgili
-kamu kurumu niteliğindeki meslek kuruluşlarının (oda üst kuruluşu
-bulunan yerlerde üst kuruluşun) temsilcileri de davet edilerek görüşleri
-alınır.
+alt yapı koordinasyon merkezi kurulur. Büyükşehir ilçe (…)^(1)^ belediye
+başkanları kendi belediyesini ilgilendiren konuların görüşülmesinde
+koordinasyon merkezlerine üye olarak katılırlar. Alt yapı koordinasyon
+merkezi toplantılarına ayrıca gündemdeki konularla ilgili kamu kurumu
+niteliğindeki meslek kuruluşlarının (oda üst kuruluşu bulunan yerlerde
+üst kuruluşun) temsilcileri de davet edilerek görüşleri alınır.
 
 Alt yapı koordinasyon merkezi, kamu kurum ve kuruluşları ile özel
 kuruluşlar tarafından büyükşehir içinde yapılacak alt yapı yatırımları
@@ -405,6 +404,12 @@ Koordinasyon Merkezi toplantılarına ayrıca gündemdeki konularla ilgili
 niteliğindeki meslek kuruluşlarından ihtisas meslek odalarının
 temsilcileri de davet edilerek görüşleri alınır.
 
+*––––––––––––––*
+
+*(1) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+maddenin birinci fıkrasında yer alan “ve ilk kademe” ibaresi madde
+metninden çıkarılmıştır.*
+
 8906
 
 Bu Kanun ile büyükşehir belediyesine verilen trafik hizmetlerini
@@ -437,13 +442,13 @@ konularda bu Kanunla birlikte Belediye Kanunu ve diğer mevzuat hükümleri
 ile ilgisine göre belediyelere tanınan yetki, imtiyaz ve muafiyetlere
 sahiptir.
 
-*Büyükşehir belediyesinin imar denetim yetkisi*
+*Büyükşehir belediyesinin imar denetim yetkisi ^(2)^*
 
-**Madde 11-** Büyükşehir belediyesi, ilçe ve ilk kademe belediyelerinin
-imar uygulamalarını denetlemeye yetkilidir. Denetim yetkisi, konu ile
-ilgili her türlü bilgi ve belgeyi istemeyi, incelemeyi ve gerektiğinde
-bunların örneklerini almayı içerir. Bu amaçla istenecek her türlü bilgi
-ve belgeler en geç onbeş gün içinde verilir. İmar uygulamalarının
+**Madde 11-** Büyükşehir belediyesi, ilçe (…)^(2)^ belediyelerinin imar
+uygulamalarını denetlemeye yetkilidir. Denetim yetkisi, konu ile ilgili
+her türlü bilgi ve belgeyi istemeyi, incelemeyi ve gerektiğinde bunların
+örneklerini almayı içerir. Bu amaçla istenecek her türlü bilgi ve
+belgeler en geç onbeş gün içinde verilir. İmar uygulamalarının
 denetiminde kamu kurum ve kuruluşlarından, üniversiteler ve kamu kurumu
 niteliğindeki meslek kuruluşlarından yararlanılabilir.
 
@@ -482,17 +487,21 @@ imtiyazları” iken, 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci
 maddesiyle metne işlendiği şekilde, aynı maddede yer alan “, ilçe ve ilk
 kademe” ibaresi “ve ilçe” şeklinde değiştirilmiştir.*
 
+*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+maddenin birinci fıkrasında yer alan “ve ilk kademe” ibaresi madde
+metninden çıkarılmıştır.*
+
 8907
 
-Büyükşehir ilçe ve ilk kademe belediye meclisleri ile bunların çalışma
-usul ve esaslarına ilişkin diğer hususlarda Belediye Kanunu hükümleri
-uygulanır.
+Büyükşehir ilçe (…)^(1)^ belediye meclisleri ile bunların çalışma usul
+ve esaslarına ilişkin diğer hususlarda Belediye Kanunu hükümleri
+uygulanır. ^(1)^
 
-*Meclis toplantısı^(1)^*
+*Meclis toplantısı^(2)^*
 
 **Madde 13-** Büyükşehir belediye meclisi, her ayın ikinci haftası
 önceden meclis tarafından belirlenen günde mutat toplantı yerinde
-toplanır (...) ^(1)^. Bütçe görüşmesine rastlayan toplantı süresi en çok
+toplanır (...) ^(2)^. Bütçe görüşmesine rastlayan toplantı süresi en çok
 yirmi, diğer toplantıların süresi en çok beş gündür. **(Ek cümle:
 3/7/2005 - 5393/85 md.)** Meclis kendi belirleyeceği bir ay tatil
 yapabilir.
@@ -521,7 +530,7 @@ istenip de büyükşehir belediye meclisi üye tam sayısının salt
 çoğunluğuyla ısrar edilen kararlar kesinleşir.
 
 Büyükşehir belediye başkanı, meclisin ısrarı ile kesinleşen kararlar
-aleyhine (...)^(1)^ idarî yargıya başvurabilir.
+aleyhine (...)^(2)^ idarî yargıya başvurabilir.
 
 **(Değişik dördüncü fıkra: 6/3/2008-5747/3 md.)** Büyükşehir belediye
 meclisi ve ilçe belediye meclisi kararları, kesinleştiği tarihten
@@ -535,17 +544,17 @@ gönderilir. Mülkî idare amirine gönderilmeyen kararlar yürürlüğe girmez.
 
 **(Mülga yedinci fıkra: 6/3/2008-5747/3 md.)**
 
-Büyükşehir kapsamındaki ilçe ve ilk kademe belediye meclisleri
-tarafından alınan imara ilişkin kararlar, kararın gelişinden itibaren üç
-ay içinde büyükşehir belediye meclisi tarafından nazım imar plânına
-uygunluğu yönünden incelenerek aynen veya değiştirilerek kabul
-edildikten sonra büyükşehir belediye başkanına gönderilir. **(Ek cümle:
-6/3/2008-5747/3 md.)** Üç ay içinde büyükşehir belediye meclisinde
-görüşülmeyen kararlar onaylanmış sayılır.
+Büyükşehir kapsamındaki ilçe (…) ^(1)^ belediye meclisleri tarafından
+alınan imara ilişkin kararlar, kararın gelişinden itibaren üç ay içinde
+büyükşehir belediye meclisi tarafından nazım imar plânına uygunluğu
+yönünden incelenerek aynen veya değiştirilerek kabul edildikten sonra
+büyükşehir belediye başkanına gönderilir. **(Ek cümle: 6/3/2008-5747/3
+md.)** Üç ay içinde büyükşehir belediye meclisinde görüşülmeyen kararlar
+onaylanmış sayılır. ^(1)^
 
 *İhtisas komisyonları*
 
-**Madde 15-** Büyükşehir belediye meclisi, (...)^(1)^ üyeleri arasından
+**Madde 15-** Büyükşehir belediye meclisi, (...)^(2)^ üyeleri arasından
 seçilecek en az beş, en çok dokuz kişiden oluşan ihtisas komisyonları
 kurabilir.
 
@@ -557,7 +566,10 @@ spor komisyonu ile ulaşım komisyonunun kurulması zorunludur.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesiyle 13 üncü
+*(1) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır.*
+
+*(2) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesiyle 13 üncü
 maddenin birinci fıkrasının sonuna “Meclis kendi belirleyeceği bir ay
 tatil yapabilir.” cümlesi eklenmiş ve fıkrada  geçen "Kasım ayı
 toplantısı dönem başı toplantısıdır." cümlesi ile 14 üncü maddenin
@@ -613,13 +625,13 @@ başkanı, ilgili kanunda gösterilen esas ve usullere göre büyükşehir
 belediyesi sınırları içindeki seçmenler tarafından doğrudan seçilir.
 
 Büyükşehir belediye başkan vekili, Belediye Kanunundaki usullere göre
-belirlenir. Ancak, büyükşehir kapsamındaki ilçe ve ilk kademe belediye
-başkanları büyükşehir belediye başkan vekili olamaz.
+belirlenir. Ancak, büyükşehir kapsamındaki ilçe (…) ^(2)^ belediye
+başkanları büyükşehir belediye başkan vekili olamaz. ^(2)^
 
 Büyükşehir ve ilçe belediye başkanları görevlerinin devamı süresince
 siyasi partilerin yönetim ve denetim organlarında görev alamaz;
 profesyonel spor klüplerinin başkanlığını yapamaz ve yönetiminde
-bulunamaz. ^(2)^
+bulunamaz. ^(3)^
 
 *Büyükşehir belediye başkanının görev ve yetkileri*
 
@@ -644,7 +656,10 @@ organların kararlarını uygulamak.
 yer alan “her yılın ilk olağan toplantısında” ibaresi madde metninden
 çıkarılmıştır.*
 
-*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu
+*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır.*
+
+*(3) 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu
 fıkrada yer alan “büyükşehir kapsamındaki ilçe ve ilk kademe” ibaresi
 “ilçe” şeklinde değiştirilmiştir.*
 
@@ -682,8 +697,8 @@ l\) **(İptal: Anayasa Mahkemesi’nin 25/1/2007 tarihli ve E.: 2004/79, K.:
 2007/6 sayılı Kararı ile.)**
 
 m\) Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak,
-özürlülerle ilgili faaliyetlere destek olmak üzere özürlü merkezleri
-oluşturmak.
+engellilerle ilgili faaliyetlere destek olmak üzere engelli merkezleri
+oluşturmak. ^(1)^
 
 **(Mülga son fıkra: 12/11/2012-6360/13 md.)**
 
@@ -692,7 +707,7 @@ oluşturmak.
 **Madde 19-** Belediye Kanunundaki hükümler saklı kalmak kaydıyla
 büyükşehir belediye meclisinin feshine neden olan eylem ve işlemlere
 katılan büyükşehir ve ilçe belediye başkanlarının görevlerine Danıştay
-kararıyla son verilir. ^(1)^
+kararıyla son verilir. ^(2)^
 
 *Danışmanlar*
 
@@ -724,7 +739,11 @@ belediyesi meclisinin kararı ile olur.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “özürlülerle” ve “özürlü” ibareleri sırasıyla
+“engellilerle” ve “engelli” şeklinde değiştirilmiştir.*
+
+*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu
 maddede yer alan “, ilçe ve ilk kademe” ibaresi “ve ilçe” şeklinde
 değiştirilmiştir.*
 
@@ -769,7 +788,7 @@ ALTINCI BÖLÜM
 
 *Malî Hükümler*
 
-*Büyükşehir belediyesinin gelirleri*
+*Büyükşehir belediyesinin gelirleri *
 
 **Madde 23-** Büyükşehir belediyesinin gelirleri şunlardır:
 
@@ -781,8 +800,8 @@ c\) 2464 sayılı Belediye Gelirleri Kanununda yer alan oran ve esaslara
 göre büyükşehir belediyesince tahsil olunacak at yarışları dahil
 müşterek bahislerden elde edilen Eğlence Vergisinin % 20’si müşterek
 bahislere konu olan yarışların yapıldığı yerin belediyesine, % 30’u
-nüfuslarına göre dağıtılmak üzere diğer ilçe ve ilk kademe
-belediyelerine ayrıldıktan sonra kalan % 50'si.
+nüfuslarına göre dağıtılmak üzere diğer ilçe (…)^(1)^ belediyelerine
+ayrıldıktan sonra kalan % 50'si. ^(1)^
 
 d\) Büyükşehir belediyesine bırakılan sosyal ve kültürel tesisler, spor,
 eğlence ve dinlenme yerleri ile yeşil sahalar içinde tahsil edilecek her
@@ -791,6 +810,11 @@ türlü belediye vergi, resim ve harçları.
 e\) 7 nci maddenin birinci fıkrasının (g) bendinde belirtilen alanlar ile
 bu alanlara cephesi bulunan binalar üzerindeki her türlü ilân ve
 reklamların vergileri ile asma, tahsis ve bakım ücretleri.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+bentte yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır.*
 
 8911
 
@@ -823,7 +847,7 @@ o\) Diğer gelirler.
 
 **(Mülga ikinci fıkra: 2/7/2008-5779/8 md.)**
 
-Büyükşehir belediyeleri ve bağlı kuruluşları ile ilçe ve ilk kademe
+Büyükşehir belediyeleri ve bağlı kuruluşları ile ilçe (…)^(1)^
 belediyeleri; tahsil ettikleri vergiler ve benzeri malî yükümlülüklerden
 birbirlerine ödemeleri gereken paylar ile su, atık su ve doğalgaz
 bedellerini zamanında yatırmadıkları takdirde, ilgili belediye veya
@@ -831,13 +855,13 @@ bağlı kuruluşun talebi üzerine söz konusu tutar, İller Bankası
 tarafından, yükümlü belediyenin genel bütçe vergi gelirleri payından
 kesilerek alacaklı belediyenin hesabına aktarılır. **(Değişik ikinci
 cümle: 21/4/2005-5335/28 md.)** Gecikmeden kaynaklanacak faiz ve benzeri
-her türlü zararın tazmininden, ilgili ilçe veya ilk kademe belediye
-başkanı ve sayman şahsen sorumludur. Bu fıkra hükmü, ilçe ve ilk kademe
+her türlü zararın tazmininden, ilgili ilçe (…) ^(2)^ belediye başkanı ve
+sayman şahsen sorumludur. Bu fıkra hükmü, ilçe ve ilk kademe
 belediyeleri hesabına yapılacak her türlü aktarmaları zamanında yapmayan
 büyükşehir belediye başkanı, bağlı kuruluş genel müdürleri ve saymanları
-hakkında da uygulanır.
+hakkında da uygulanır. ^(1)(2)^
 
-*Büyükşehir belediyesinin giderleri*
+*Büyükşehir belediyesinin giderleri ^(3)^*
 
 **Madde 24-** Büyükşehir belediyesinin giderleri şunlardır:
 
@@ -848,8 +872,8 @@ b\) Belediye personeline ve belediyenin seçilmiş organlarının üyelerine
 ödenen maaş, ücret, ödenek, huzur hakkı, yolluklar, hizmete ilişkin
 eğitim ile diğer giderler.
 
-c\) İlçe, ilk kademe belediyeleri ile bağlı kuruluşlara yapacakları
-yardımlar ve ortak proje giderleri.
+c\) İlçe (…) ^(3)^ belediyeleri ile bağlı kuruluşlara yapacakları
+yardımlar ve ortak proje giderleri. ^(3)^
 
 d\) Her türlü alt yapı, yapım, onarım ve bakım giderleri.
 
@@ -862,14 +886,26 @@ ve diğer gelirlerin takip ve tahsili için yapılacak giderler.
 g\) Belediyenin kuruluşuna katıldığı şirket, kuruluş ve birliklerle
 ilgili ortaklık payı ile üyelik aidatı giderleri.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır.*
+
+*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “veya ilk kademe” ibaresi madde metninden
+çıkarılmıştır.*
+
+*(3) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “, ilk kademe” ibaresi madde metninden çıkarılmıştır.*
+
 8912
 
 h\) Mezarlıkların tesisi, korunması ve bakımına ilişkin giderler.
 
 i\) Faiz, borçlanmaya ilişkin diğer ödemeler ve sigorta giderleri.
 
-j\) Dar gelirli, yoksul, muhtaç ve kimsesizler ile özürlülere yapılacak
-sosyal hizmet ve yardımlar.
+j\) Dar gelirli, yoksul, muhtaç ve kimsesizler ile engellilere yapılacak
+sosyal hizmet ve yardımlar.^(1)^
 
 k\) Dava takip ve icra giderleri.
 
@@ -891,19 +927,19 @@ yoklaması ve araştırması giderleri.
 r\) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan
 diğer giderler.
 
-*Büyükşehir belediye bütçesi*
+*Büyükşehir belediye bütçesi ^(2)^*
 
-**Madde 25-** Büyükşehir belediye bütçesi ile ilçe ve ilk kademe
+**Madde 25-** Büyükşehir belediye bütçesi ile ilçe (…) ^(2)^
 belediyelerinden gelen bütçeler büyükşehir belediye meclisine sunulur ve
 büyükşehir belediye meclisince yatırım ve hizmetler arasında bütünlük
-sağlayacak biçimde aynen veya değiştirilerek kabul edilir.
+sağlayacak biçimde aynen veya değiştirilerek kabul edilir. ^(2)^
 
 Büyükşehir ve ilçe belediye bütçeleri, büyükşehir belediye meclisinde
 aynı toplantı döneminde ve birlikte görüşülerek karara bağlanır ve tek
-bütçe hâlinde bastırılır. ^(1)^
+bütçe hâlinde bastırılır. ^(3)^
 
-Büyükşehir belediye meclisi, ilçe ve ilk kademe belediyelerinin
-bütçelerini kabul ederken;
+Büyükşehir belediye meclisi, ilçe (…) ^(2)^ belediyelerinin bütçelerini
+kabul ederken; ^(2)^
 
 a\) Bütçe metnindeki kanun, tüzük ve yönetmeliklere aykırı madde ve
 ibareleri çıkarmaya veya değiştirmeye,
@@ -920,16 +956,32 @@ eklemeye,
 
 Yetkilidir.
 
-Büyükşehir belediye meclisince ilçe ve ilk kademe belediye bütçelerinde
+Büyükşehir belediye meclisince ilçe (…) ^(2)^ belediye bütçelerinde
 yapılan değişikliklere karşı on gün içinde Danıştaya itiraz edilebilir.
-Danıştay, itirazı otuz gün içinde karara bağlar.
+Danıştay, itirazı otuz gün içinde karara bağlar. ^(2)^
 
 Bütçenin hazırlanması ve uygulanmasına ilişkin diğer hususlarda Belediye
 Kanunu hükümleri uygulanır.
 
+–––––––––––––––––
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “özürlülere” ibaresi “engellilere” şeklinde
+değiştirilmiştir.*
+
+*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+maddenin birinci, üçüncü ve dördüncü fıkralarında yer alan “ve ilk
+kademe” ibareleri madde metninden çıkarılmıştır.*
+
+*(3) 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu
+fıkrada yer alan “Büyükşehir, ilçe ve ilk kademe” ibaresi “Büyükşehir ve
+ilçe” şeklinde değiştirilmiştir.*
+
+8912-1
+
 *Şirket kurulması*
 
-**Madde 26-** **(Değişik: 29/3/2011-6215/21 md.) ^(2)^**
+**Madde 26-** **(Değişik: 29/3/2011-6215/21 md.) ^(1)^**
 
 Büyükşehir belediyesi kendisine verilen görev ve hizmet alanlarında,
 ilgili mevzuatta belirtilen usullere göre sermaye şirketleri kurabilir.
@@ -946,19 +998,6 @@ devredebilir. **(Ek cümle:** **12/11/2012-6360/10 md.)** Ancak, bu
 yerlerin belediye şirketlerince üçüncü kişilere devri 2886 sayılı Kanun
 hükümlerine tabidir.
 
-–––––––––––––––––
-
-*(1) 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu
-fıkrada yer alan “Büyükşehir, ilçe ve ilk kademe” ibaresi “Büyükşehir ve
-ilçe” şeklinde değiştirilmiştir.*
-
-*(2) 12/4/2011 tarihli ve 27903 sayılı Resmi Gazete’de yayımlanan
-29/3/2011 tarihli ve 6215 sayılı Kanunun hükmü olan bu madde metni,
-13/4/2011 tarihli ve 27904 sayılı Resmi Gazete’de yayımlanan
-düzeltmesiyle birlikte işlenmiştir.*
-
-8913
-
 YEDİNCİ BÖLÜM
 
 *Çeşitli Hükümler*
@@ -973,30 +1012,49 @@ ilçe belediyelerinin kendi aralarında hizmetlerin yürütülmesiyle ilgili
 ihtilaf çıkması durumunda, büyükşehir belediye meclisi yönlendirici ve
 düzenleyici kararlar almaya yetkilidir.
 
-Yeni kurulan büyükşehir belediyelerinde meydan, bulvar, cadde, yol,
-sokak, park, spor ve kültürel tesislerin büyükşehir belediyesi ile
-büyükşehir kapsamındaki diğer belediyeler arasında dağılımına ilişkin
-esaslar büyükşehir belediye meclisi tarafından belirlenir.
+(…)^(2)^ büyükşehir belediyelerinde meydan, bulvar, cadde, yol, sokak,
+park, spor ve kültürel tesislerin büyükşehir belediyesi ile büyükşehir
+kapsamındaki diğer belediyeler arasında dağılımına ilişkin esaslar
+büyükşehir belediye meclisi tarafından belirlenir. ^(2)^
 
-Büyükşehir belediyesi mücavir alanlarının ilçe ve ilk kademe
-belediyeleri arasındaki bölüşümü büyükşehir belediye meclisince yapılır.
+Büyükşehir belediyesi mücavir alanlarının ilçe (…)^(3)^ belediyeleri
+arasındaki bölüşümü büyükşehir belediye meclisince yapılır.
 
 Büyükşehir belediyesi, 7 nci maddede sayılan hizmetleri, malî ve teknik
 imkânları çerçevesinde, nüfus ve hizmet alanlarını dikkate alarak, bu
 hizmetlerden yararlanacak büyükşehir kapsamındaki diğer belediyeler
-arasında dengeli olarak yürütmek zorundadır. İlçe veya ilk kademe
+arasında dengeli olarak yürütmek zorundadır. İlçe (…)^(4)^
 belediyelerine ait görevlerden bir veya birkaçı, bedeli kendileri
 tarafından karşılanmak ve istekte bulunmak kaydıyla, büyükşehir belediye
 meclisinin kararına dayanarak, ortaklaşa veya bizzat büyükşehir
-belediyesi tarafından yapılabilir.
+belediyesi tarafından yapılabilir. ^(3)^
 
-Büyükşehir belediyesi, ilçe ve ilk kademe belediyeleri ile ortak
-projeler geliştirebilir ve yatırım yapabilir. Büyükşehir belediyesi,
-kesinleşmiş en son yıl bütçe gelirinin % 10’unu aşmamak ve bütçede
-ödeneği ayrılmış olmak şartıyla, ilgili belediyenin yatırım programında
-yer alan projelerin finansmanı için büyükşehir belediye başkanının
-teklifi ve meclisin kararıyla ilçe ve ilk kademe belediyelerine malî ve
-aynî yardım yapabilir.^(1)^
+–––––––––––––––––
+
+*(1) 12/4/2011 tarihli ve 27903 sayılı Resmi Gazete’de yayımlanan
+29/3/2011 tarihli ve 6215 sayılı Kanunun hükmü olan bu madde metni,
+13/4/2011 tarihli ve 27904 sayılı Resmi Gazete’de yayımlanan
+düzeltmesiyle birlikte işlenmiştir.*
+
+*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “Yeni kurulan” ibaresi madde metninden çıkarılmıştır.*
+
+*(3) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır.*
+
+*(4) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “veya ilk kademe” ibaresi madde metninden
+çıkarılmıştır.*
+
+8913
+
+Büyükşehir belediyesi, ilçe (…) ^(2)^ belediyeleri ile ortak projeler
+geliştirebilir ve yatırım yapabilir. Büyükşehir belediyesi, kesinleşmiş
+en son yıl bütçe gelirinin % 10’unu aşmamak ve bütçede ödeneği ayrılmış
+olmak şartıyla, ilgili belediyenin yatırım programında yer alan
+projelerin finansmanı için büyükşehir belediye başkanının teklifi ve
+meclisin kararıyla ilçe (…)^(2)^ belediyelerine malî ve aynî yardım
+yapabilir.^(1)(2)^
 
 Büyükşehir belediyesi ile bağlı kuruluşları, belediye başkanının onayı
 ile birbirlerinin nakit ihtiyacını karşılayabilir. Bu şekildeki ödünç
@@ -1019,7 +1077,7 @@ otopark tesisi için gerekli arsa alımları ile bölge ve genel
 otoparkların inşasında kullanır. Bu gelirler bu fıkrada belirtilen amaç
 dışında kullanılamaz.
 
-*Diğer hükümler ^(2)^*
+*Diğer hükümler ^(3)^*
 
 **Madde 28-** Belediye Kanunu ve diğer ilgili Kanunların bu kanuna
 aykırı olmayan hükümleri ilgisine göre büyükşehir ve ilçe belediyeleri
@@ -1051,7 +1109,10 @@ Kanun ile değişikliklerine yapılan atıflar  bu Kanuna yapılmış sayılır
 sayılı Kanunun 28 inci maddesiyle “% 10’unu” olarak değiştirilmiş ve
 metne işlenmiştir.*
 
-*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu
+*(2) 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır.*
+
+*(3) 12/11/2012 tarihli ve 6360 sayılı Kanunun 12 nci maddesiyle, bu
 maddede yer alan “büyükşehir” ibaresinden sonra gelen “, büyükşehir ilçe
 ve ilk kademe” ibaresi “ve ilçe” şeklinde değiştirilmiştir.*
 
@@ -1059,15 +1120,15 @@ ve ilk kademe” ibaresi “ve ilçe” şeklinde değiştirilmiştir.*
 
 **Ek Madde 1- (Ek:1/7/2005-5378/40 md.)**
 
-Büyükşehir belediyelerinde özürlülerle ilgili bilgilendirme,
+Büyükşehir belediyelerinde engellilerle ilgili bilgilendirme,
 bilinçlendirme, yönlendirme, danışmanlık, sosyal ve mesleki
-rehabilitasyon hizmetleri vermek üzere özürlü hizmet birimleri
-oluşturulur. Bu birimler, faaliyetlerini özürlülere hizmet amacıyla
+rehabilitasyon hizmetleri vermek üzere engelli hizmet birimleri
+oluşturulur. Bu birimler, faaliyetlerini engellilere hizmet amacıyla
 kurulmuş vakıf, dernek ve bunların üst kuruluşlarıyla işbirliği hâlinde
-sürdürürler. Özürlü hizmet birimlerinin kuruluş, görev, yetki,
+sürdürürler. Engelli hizmet birimlerinin kuruluş, görev, yetki,
 sorumluluk ve işleyişine ilişkin usûl ve esaslar Özürlüler İdaresi
 Başkanlığının görüşü alınarak İçişleri Bakanlığınca hazırlanacak
-yönetmelikle belirlenir.
+yönetmelikle belirlenir. ^(1)^
 
 **Ek Madde 2- (Ek: 6/3/2007-5594/1 md.)**
 
@@ -1129,6 +1190,13 @@ ruhsat, imtiyaz sözleşmesi ve ulaşım araçları kira sözleşmesi, ruhsatta
 şartıyla herhangi bir işleme gerek kalmaksızın büyükşehir belediyesi
 toplu taşım ve ulaşım sistemine dahil edilir.
 
+*–––––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “özürlülerle”, “özürlü”, “özürlülere” ve “Özürlü”
+ibareleri sırasıyla “engellilerle”, “engelli”, “engellilere” ve
+“Engelli”, şeklinde değiştirilmiştir.*
+
 8914-1
 
 **Geçici Madde 1-** Büyükşehir belediyeleri, bu Kanunun yürürlüğe
@@ -1183,8 +1251,6 @@ mahalle olarak katıldıkları belediyeye devredilir.
 Büyükşehir belediye kapsamına alınma nedeniyle meydana gelecek mülki
 sınır değişiklikleri katılma durumuna uygun olarak 5442 sayılı İl
 İdaresi Kanunu hükümlerine göre çözülür.
-
-8914-2
 
 8915
 
@@ -1299,23 +1365,44 @@ aktarılır.
 
 **YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
-  ------------------------------------------ ------------------------------------------------------------- -----------------------------------------------------
+  ------------------------------------------ ------------------------------------------------------------- -------------------------------------------------------------------------
   **Değiştiren Kanunun/ KHK’nin Numarası**   **5216 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+
   5281                                       31                                                            23/7/2004 tarihinden geçerli olmak üzere 31/12/2004
+
   5335                                       6, 7, 23, 27 ve Geçici Madde 3                                27/4/2005
+
   5378                                       Ek Madde 1                                                    7/7/2005
+
   5390                                       Madde 6 ve İşlenemeyen hüküm                                  13/7/2005
+
   5393                                       7, 13, 14, 15, 16 ve 22                                       13/7/2005
+
   5538                                       7                                                             12/7/2006
+
   5568                                       Geçici Madde 3 ve 5                                           30/12/2006
+
   5594                                       Ek Madde 2                                                    10/3/2007
+
   5675                                       13                                                            7/6/2007
+
   5747                                       6 , 14 ve Geçici Madde 2                                      22/3/2008
+
   5779                                       23                                                            1/7/2008 tarihinden geçerli olmak üzere 15/7/2008
+
   5951                                       Geçici Madde 5                                                5/2/2010
+
   6215                                       26                                                            12/4/2011
+
   KHK/661                                    21, 22                                                        2/11/2011
+
   6360                                       7, 9, 10, 17, 18, 19, 24, 25, 26, 27, 28                      6/12/2012
-  ------------------------------------------ ------------------------------------------------------------- -----------------------------------------------------
+                                                                                                           
+                                             3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 17, 23, 24, 25, 27       6/12/2012 tarihinden sonra yapılan ilk mahalli idareler genel seçiminde
+                                                                                                           
+                                                                                                           (30/3/2014)
+
+  6462                                       7, 18, 24, Ek Madde 1                                         3/5/2013
+  ------------------------------------------ ------------------------------------------------------------- -------------------------------------------------------------------------
 
 
