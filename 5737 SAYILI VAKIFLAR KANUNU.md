@@ -1,14 +1,14 @@
-5737 sayılı Kanunun 651 sayılı KHK ile Değişik Hali
+**666 KHK ile değişik hali**
 
 **VAKIFLAR KANUNU**
 
-**Kanun Numarası : 5737 **
+**Kanun Numarası : 5737**
 
-**Kabul Tarihi : 20/2/2008 **
+**Kabul Tarihi : 20/2/2008**
 
-**Yayımlandığı R.Gazete : Tarih: 27/2/2008 Sayı : 26800 **
+**Yayımlandığı R.Gazete : Tarih: 27/2/2008 Sayı : 26800**
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 47**
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 47 **
 
 **BİRİNCİ KISIM**
 
@@ -80,6 +80,8 @@ birimi,
 Temsilcilik: Vakıf faaliyetlerinin yürütülebilmesi için yeni vakfa bağlı
 olarak açılan, tüzel kişiliği ve bünyesinde organları bulunmayan alt
 birimi,
+
+10242
 
 Vakıf yönetimi: Mülhak, cemaat ve esnaf vakıfları ile yeni vakıflarda;
 vakfiye, 1936 Beyannamesi, vakıf senedi, 4721 sayılı Türk Medenî Kanunu
@@ -169,6 +171,8 @@ Yeni vakıfların yönetim organı vakıf senedine göre oluşturulur ve bu
 vakıfların yönetim organlarında görev alanların çoğunluğunun, Türkiye’de
 yerleşik bulunması gerekir.
 
+10243
+
 **Genel Müdürlükçe yönetilecek ve temsil edilecek vakıflar**
 
 **MADDE 7 –** On yıl süreyle yönetici atanamayan veya yönetim organı
@@ -181,15 +185,15 @@ daha yönetici seçimi ve ataması yapılamaz.
 
 İlgililerin vakfiye şartlarına göre intifa hakları saklıdır.
 
-**(Ek: 13/2/2011-6111/208 md.)** İntifa haklarına ilişkin talepler galle
-fazlası almaya hak kazanıldığını gösteren mahkeme kararının kesinleştiği
-tarihten itibaren beş yıl geçmekle düşer.
+**(Ek fıkra:13/2/2011-6111/208 md.)** İntifa haklarına ilişkin talepler
+galle fazlası almaya hak kazanıldığını gösteren mahkeme kararının
+kesinleştiği tarihten itibaren beş yıl geçmekle düşer.
 
-**(Ek: 13/2/2011-6111/208 md.)** Mazbut vakıflarda intifa hakları, galle
-fazlası almaya hak kazanıldığını gösteren mahkeme kararının kesinleştiği
-tarihten itibaren, vakfın son beş yıl içindeki malvarlığı, gelirleri ve
-giderleri ile sınırlı olmak ve galle fazlasının mevcudiyeti şartıyla
-Genel Müdürlükçe belirlenir.
+**(Ek fıkra:13/2/2011-6111/208 md.)** Mazbut vakıflarda intifa hakları,
+galle fazlası almaya hak kazanıldığını gösteren mahkeme kararının
+kesinleştiği tarihten itibaren, vakfın son beş yıl içindeki malvarlığı,
+gelirleri ve giderleri ile sınırlı olmak ve galle fazlasının mevcudiyeti
+şartıyla Genel Müdürlükçe belirlenir.
 
 **Yeni vakıf organlarının tamamlanması**
 
@@ -265,6 +269,8 @@ Genel Müdürlükçe her bir eylem için beşyüz Türk Lirası idarî para ceza
 verilir. İdarî para cezalarına karşı tebliğ tarihinden itibaren onbeş
 gün içinde 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu
 hükümlerine göre kanun yoluna başvurulabilir.
+
+10244
 
 **İKİNCİ BÖLÜM**
 
@@ -352,6 +358,8 @@ Tahsis edilen taşınmaz; ticari bir faaliyette kullanılamaz, tahsise
 aykırı kullanımın tespiti halinde Genel Müdürlüğün talebi üzerine
 taşınmaz, bulunduğu yerin mülki amirliğince tahliye edilir.
 
+10245
+
 Cemaat vakıflarına ait, kısmen veya tamamen hayrat olarak kullanılmayan
 taşınmazlar, vakıf yönetiminin talebi halinde Meclis kararıyla; aynı
 cemaate ait başka bir vakfa tahsis edilebilir veya vakfın akarına
@@ -438,6 +446,8 @@ kamulaştırılmadığı takdirde ilgili bakanlığın görüşü alınarak Gene
 Müdürlükçe özel okul, özel hastane veya özel spor tesisi olarak
 değerlendirilebilir.
 
+10246
+
 **Zilyetlik yoluyla kazanım**
 
 **MADDE 23 –** Vakıfların malları üzerinde zilyetlik yoluyla kazanma
@@ -519,6 +529,8 @@ gelirleriyle korunmasına ve yaşatılmasına Meclis yetkilidir.
 varlıkları; Genel Müdürlük, ilgili kamu kurum ve kuruluşları ile
 kullananları tarafından korunur.
 
+10247
+
 **Vakıf kültür varlıklarının devri**
 
 **MADDE 30 –** Vakıf yoluyla meydana gelip de her ne suretle olursa
@@ -587,17 +599,12 @@ ve İstihdam**
 Müdürlüğü kurulmuştur.
 
 Başbakan, Genel Müdürlüğün yönetimi ile ilgili yetkilerini gerekli
-gördüğü takdirde görevlendireceği Başbakan Yardımcısının vasıtasıyla
-kullanabilir.*^(1)\ ^*
+gördüğü takdirde görevlendireceği Başbakan Yardımcısı vasıtasıyla
+kullanabilir. *^(1)^*
 
 Vakıflar Genel Müdürlüğü, merkez ve taşra teşkilâtından oluşur.
 
 Genel Müdürlüğün merkezi Ankara’dadır.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-*(1)* *22/8/2011 tarihli ve 651 sayılı KHK’nin 14 üncü maddesi ile bu
-fıkrada yer alan “Devlet Bakanı” ibaresi “Başbakan Yardımcısı” şeklinde
-değiştirilmiştir.*
 
 **Genel Müdürlüğün görevleri**
 
@@ -611,6 +618,14 @@ b\) Vakfiyelerde öngörülen hizmetlerin en iyi şekilde yerine
 getirilebilmesini sağlamak amacıyla Genel Müdürlüğe ve mazbut vakıflara
 ait paralar ile malları değerlendirmek, daha fazla gelir getirici
 yatırımlara tahsis etmek.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 22/8/2011 tarihli ve 651 sayılı KHK’nın 14 üncü maddesi ile bu
+fıkrada yer alan “Devlet Bakanı” ibaresi “Başbakan Yardımcısı” şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+10248
 
 c\) Genel Müdürlüğe ve mazbut vakıflara ait paralar ile işletmeler kurma,
 kurulmuş şirketlere iştirak etme, bunların sermaye artışları
@@ -689,6 +704,8 @@ kullanılabilir.
 Genel Müdürlüğe yapılan şartlı bağışlar, bağış yapanın şartları
 doğrultusunda harcanır.
 
+10249
+
 **İKİNCİ BÖLÜM**
 
 **Vakıflar Meclisi**
@@ -735,7 +752,7 @@ d\) Genel Müdürlükçe gerek görülen hususları karara bağlamak.
 
 **Meclis üyelerinin nitelikleri ve görev süresi **
 
-**MADDE 43 –** Meclis üyelerinin; 14/7/1965 tarihli ve 657 sayılı Devlet
+**MADDE 43 –** Meclis üyelerinin; 14/7/1965 tarihli ve 657 sayılı Devlet
 Memurları Kanunu ile belirlenen Devlet memuru olma şartlarını taşıması,
 ortak kararnameyle atanacak üyelerden; en az üçünün kamu kurum ve
 kuruluşlarında on yıldan fazla görev yapmış olması gerekir.
@@ -771,6 +788,8 @@ doğrultusunda üç yıllığına yenisi atanır.
 
 Vakıflar tarafından seçilen üyelerden boşalma olması halinde kalan
 süreyi tamamlamak üzere sırasıyla yedek üyeler görev alır.
+
+10250
 
 Uhdesinde kamu görevi bulunmayan Meclis üyelerine, ayda dörtten fazla
 olmamak üzere her toplantı günü için (3000) gösterge rakamının memur
@@ -857,6 +876,8 @@ f\) Kültür ve Tescil Daire Başkanlığı.
 
 g\) Dış İlişkiler Daire Başkanlığı.
 
+10251
+
 **Vakıf Hizmetleri Daire Başkanlığı**
 
 **MADDE 51 –** Vakıf Hizmetleri Daire Başkanlığının görevleri şunlardır:
@@ -882,7 +903,7 @@ sosyal yardım kurumları, aşevleri gibi tesisler açmak, yönetimini
 sağlamak, öğrencilere eğitim yardımı yapmak, ihtiyaç sahibi insanlara
 sosyal yardımlarda bulunmak, muhtaç ve engellilere aylık bağlamak.
 
-d\) **(Ek: 22/8/2011-651/KHK/ 15 md.)** Usul ve esasları Genel Müdürlükçe
+d\) **(Ek: 22/8/2011-KHK-651/15 md. )** Usul ve esasları Genel Müdürlükçe
 çıkarılan yönetmelikle belirlenmek üzere ihtiyaç sahibi yükseköğrenim
 öğrencilerine 3/3/2004 tarihli ve 5102 sayılı Yüksek Öğrenim
 Öğrencilerine Burs Kredi Verilmesine İlişkin Kanun hükümlerine tabi
@@ -955,6 +976,14 @@ görülen taşınmazların satın alınması işlemlerini yürütmek.
 
 d\) Genel Müdürlüğe yapılacak taşınmaz mal bağış işlemlerini yürütmek.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 22/8/2011 tarihli ve 651 sayılı KHK’nın 15 inci maddesi ile bu
+maddenin birinci fıkrasına (c) bendinden sonra gelmek üzere (d) bendi
+eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir*
+
+10252
+
 e\) Tavize tâbi olan taşınmaz malların tespiti ile taviz bedellerinin
 tahsilini sağlamak.
 
@@ -962,11 +991,6 @@ f\) Görev ve faaliyetlerinin gerektirdiği alt yapı çalışmalarını yapmak
 veya yaptırmak.
 
 g\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-*(1)* *22/8/2011 tarihli ve 651 sayılı KHK’nin 15 inci maddesi ile bu
-maddenin birinci fıkrasına (d) bendi eklenmiş ve mevcut bentler buna
-göre teselsül ettirilmiştir yer alan*
 
 **Sağlık Hizmetleri Daire Başkanlığı**
 
@@ -1057,6 +1081,8 @@ ilişkin işlemleri yürütmek.
 
 f\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
 
+10253
+
 **Danışma ve denetim birimleri**
 
 **MADDE 58 –** Genel Müdürlüğün danışma ve denetim birimleri şunlardır:
@@ -1143,6 +1169,8 @@ getirmek.
 c\) Genel Müdürlüğün yönetimi ile hizmetlerin geliştirilmesi ve
 performansla ilgili bilgi ve verileri toplamak, analiz etmek,
 yorumlamak.
+
+10254
 
 d\) Genel Müdürlüğün görev alanına giren konularda, hizmetleri
 etkileyecek dış faktörleri incelemek, kurum içi kapasite araştırması
@@ -1234,6 +1262,8 @@ terfi, ücret, sendika ve benzeri özlük hakları işlemlerini yürütmek.
 c\) Genel Müdürlük personelinin hizmet içi eğitim programını hazırlamak,
 uygulamak ve değerlendirmek.
 
+10255
+
 d\) İç denetimle ilgili hizmetleri yürütmek.
 
 e\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
@@ -1281,47 +1311,33 @@ Taşra teşkilâtının çalışma usûl ve esasları yönetmelikle belirlenir.
 **MADDE 67 –** Genel Müdürlük personeli 657 sayılı Devlet Memurları
 Kanununa tâbidir.
 
-Genel Müdürlükte; Genel Müdür, Genel Müdür Yardımcısı, Vakıflar Meclisi
-Üyesi, I. Hukuk Müşaviri, Rehberlik ve Teftiş Başkanı, Baş Müfettiş,
-Müfettiş, Basın ve Halkla İlişkiler Müşaviri, Daire Başkanı, Bölge
-Müdürü, Hukuk Müşaviri, Müdür, Şube Müdürü, Vakıf Uzmanı, Avukat, Mimar
-ve Mühendis, Şehir Plancısı, Müze Araştırmacısı ile Kurum Tabibi
-kadrolarına atananlar, kadroları karşılık gösterilmek suretiyle, 657
-sayılı Devlet Memurları Kanunu ve diğer kanunların sözleşmeli personel
-çalıştırılması hakkındaki hükümlerine bağlı olmaksızın sözleşmeli
-çalıştırılabilir.
+**(Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.)**
 
-Sözleşmeli olarak Genel Müdürlükte fiilen çalışan personele bu Kanuna
-ekli (III) sayılı cetvelde unvanlar itibarıyla yer alan taban ve tavan
-ücretleri arasında kalmak üzere, Meclis tarafından belirlenecek tutarda
-aylık brüt sözleşme ücreti ödenir. Başbakanlık merkez teşkilâtında
-sözleşmeli olarak çalıştırılan emsali personelin yararlandığı ücret
-artışlarından Genel Müdürlükte çalışan sözleşmeli personel de aynı usûl
-ve esaslara göre aynen yararlandırılır. Bu personel T.C. Emekli Sandığı
-ile ilişkilendirilir. Söz konusu personele, çalıştıkları günlerle
-orantılı olarak (hastalık ve yıllık izinleri dahil), ocak, nisan, temmuz
-ve ekim aylarında birer aylık sözleşme ücreti tutarında ikramiye ödenir.
-Bunlardan üstün gayret ve çalışmaları sonucunda emsallerine göre
-başarılı çalışma yaptıkları tespit edilenlere Genel Müdürün teklifi,
-ilgili Bakanın uygun görüşü üzerine Başbakan onayı ile haziran ve aralık
-aylarında birer aylık sözleşme ücreti tutarına kadar teşvik ikramiyesi
-ödenebilir. Bu fıkranın uygulanmasına ilişkin usûl ve esaslar ile söz
-konusu personele yapılacak diğer ödemeler Bakanlar Kurulunca tespit
-edilir.
+**(Mülga üçüncü fıkra: 11/10/2011-KHK-666/1 md.)**
 
-Genel Müdürlük merkez ve taşra teşkilâtı kadrolarında çalışan memurlara
-(kadro karşılığı sözleşmeli personel hariç) 10/10/1984 tarihli ve 3056
-sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararnamenin
-Değiştirilerek Kabulü Hakkında Kanunun 31 inci maddesinde yer alan fazla
-çalışma ücreti aynı usûl ve esaslara göre ödenir.
+**(Mülga son fıkra: 11/10/2011-KHK-666/1 md.)**
 
-**Atamalar** *^(1)^*
+**Atamalar**^(1)(2)^
 
-**MADDE 68 –** Genel Müdür, Genel Müdür Yardımcısı, I. Hukuk Müşaviri ,
-Rehberlik ve Teftiş Başkanı ile Bölge Müdürü ortak kararnameyle, (…)
-*^(1)^* Daire Başkanı, Genel Müdürün teklifi Başbakanın veya
+**MADDE 68 –** Genel Müdür, Genel Müdür Yardımcısı, I. Hukuk Müşaviri,
+Rehberlik ve Teftiş Başkanı ile Bölge Müdürü ortak kararnameyle,
+(…)*^(1)^* Daire Başkanı, Genel Müdürün teklifi Başbakanın veya
 görevlendirdiği Başbakan Yardımcısının onayıyla, diğer personel ise
-Genel Müdür tarafından atanır.*^(2)^*
+Genel Müdür tarafından atanır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu maddede yer alan “… Rehberlik ve Teftiş Başkanı ile …” ibaresi
+Anayasa Mahkemesi’nin 17/6/2010 tarihli E.:2008/22 K.: 2010/82 sayılı
+Kararı ile iptal edilmiştir. *
+
+*(2) 22/8/2011 tarihli ve 651 sayılı KHK’nın 16 ncı maddesi ile bu
+maddenin birinci fıkrasına “I. Hukuk Müşaviri” ibaresinden sonra gelmek
+üzere “, Rehberlik ve Teftiş Başkanı” ibaresi eklenmiş ve aynı fıkrada
+yer alan “Devlet Bakanının” ibaresi “Başbakan Yardımcısının” şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+10256
 
 **Vakıf Uzmanı ve Vakıf Uzman Yardımcısı **
 
@@ -1394,19 +1410,9 @@ olamayanlar veya Müfettiş Yardımcılığı süresi içerisinde olumsuz sicil
 alanlar bu unvanlarını kaybederler ve durumlarına uygun memur
 kadrolarına atanırlar.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+10257
 
-*(1) Anayasa Mahkemesi’nin 17/6/2010 tarihli E.:2008/22 K.: 2010/82
-sayılı Kararı ile Bu maddede yer alan “… Rehberlik ve Teftiş Başkanı ile
-…” ibaresi iptal edilmiştir. *
-
-*(2) 22/8/2011 tarihli ve 651 sayılı KHK’nin 16 ncı maddesi ile bu
-fıkrada yer alan “I. Hukuk Müşaviri” ibaresinden sonra gelmek üzere “,
-Rehberlik ve Teftiş Başkanı” ibaresi eklenmiş ve aynı fıkrada yer alan
-“Devlet Bakanının” ibaresi “Başbakan Yardımcısının” şeklinde
-değiştirilmiştir.*
-
-**Kadro iptal ve ihdasları**
+**Kadro iptal ve ihdasları**^(1)^
 
 **MADDE 71 –** Vakıflar Genel Müdürlüğünün 190 sayılı Genel Kadro ve
 Usulü Hakkında Kanun Hükmünde Kararname eki (I) sayılı cetvelde yer alan
@@ -1417,24 +1423,9 @@ eklenmiştir.
 
 **Performans ve vekalet ücreti**
 
-**MADDE 72 –** Bezm-i Alem Valide Sultan Vakıf Gureba Hastanesi
-personelinin katkısıyla elde edilen döner sermaye gelirlerinden bu
-birimde çalışan memurlara; hizmet sunum şartları, personelin unvanı,
-görevi, çalışma şartları ve süresi, hizmete katkısı, performansı,
-serbest çalışıp çalışmaması ile muayene, ameliyat, anestezi, girişimsel
-işlemler ve özellik arz eden riskli bölümlerde çalışma gibi unsurlar
-esas alınmak suretiyle, Sağlık Bakanlığına bağlı sağlık kurumlarında
-unvanlara göre uygulanan tavan ödeme miktarları aşılmamak kaydıyla,
-Sağlık Bakanlığı personeli için tespit edilen esas ve usûller de dikkate
-alınarak Meclisçe belirlenecek usûl, esas ve oranda ödeme yapılabilir.
-Bu şekilde yapılacak ödeme, cari yılda elde edilen döner sermaye
-gelirinin yüzde ellisini geçemez.
+**MADDE 72 –** **(Mülga birinci fıkra: 11/10/2011-KHK-666/1 md.)**
 
-Birinci fıkrada belirtilen haklardan faydalanan personel haricinde kalan
-tüm personele, vakıf kira gelirlerinin yüzde üçünü geçmemek ve
-maaşlarının üçte birini aşmamak üzere, Meclisçe belirlenecek usûl, esas
-ve oranda ödeme yapılabilir. Bu ödemelerden damga vergisi hariç kesinti
-yapılmaz.
+**(Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.)**
 
 Genel Müdürlük lehine sonuçlanan dava ve icra takipleri nedeniyle hükme
 bağlanarak karşı taraftan tahsil olunan vekalet ücretlerinin; avukatlara
@@ -1487,6 +1478,13 @@ Genel Müdürlüğün ve mazbut vakıfların tahsil edilemeyen gelirleri,
 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
 Hakkında Kanun hükümlerine göre Genel Müdürlükçe tahsil edilir.
 
+–––––––––––––––––––
+
+*(1) Bu Kanunla iptal ve ihdas edilen kadrolar için 27/2/2008 tarihli ve
+26800 sayılı Resmi Gazete’ye bakınız.*
+
+10258
+
 Vakıf kültür varlıklarının onarımları ve restorasyonları ile çevre
 düzenlemesi ve kamulaştırma işlemleri, 180 sayılı Bayındırlık ve İskan
 Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname
@@ -1513,11 +1511,6 @@ harcamalarının tamamı Gelir ve Kurumlar Vergisi matrahından düşülür.
 
 Kuruluşunda veya kurulduktan sonra vakıflara bağışlanan taşınır ve
 taşınmaz mallar Veraset ve İntikal Vergisinden istisnadır.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) Bu Kanunla iptal ve ihdas edilen kadrolar için 27/2/2008 tarihli ve
-26800 sayılı Resmi Gazete’ye bakınız.*
 
 **Dava ve icra takibi ile alacaklardan vazgeçme**
 
@@ -1557,6 +1550,8 @@ ibaresinden sonra gelmek üzere "Vakıf Uzmanlığına" ibareleri,
 2\) 152 nci maddesinin "II- Tazminatlar" bölümünün "A- Özel Hizmet
 Tazminatı" bendinin (i) alt bendine; "Kültür ve Turizm Uzmanları"
 ibaresinden sonra gelmek üzere "Vakıf Uzmanları" ibaresi,
+
+10259
 
 3\) Eki (I) sayılı ek gösterge cetvelinin, "I- Genel İdare Hizmetleri
 Sınıfı" bölümünün (h) bendine "Kültür ve Turizm Uzmanları" ibaresinden
@@ -1626,6 +1621,8 @@ uygulanmakta olan mevcut kadroların kullanımına devam olunur.
 
 Bu Kanunla yapılan düzenleme sonucu kadro ve görev unvanları
 değişmeyenler yeni kadrolarına atanmış sayılırlar.
+
+10260
 
 Bu Kanuna göre kadro ve görev unvanları değişen yahut kaldırılan
 personel, en geç altı ay içinde derece ve kademelerine uygun olmak
@@ -1698,6 +1695,8 @@ kadrolarına nakledilen personelin, 6/1/2005 tarihli ve 5283 sayılı
 Kanunun 5 inci maddesinin altıncı fıkrasında yer alan hükümlerden
 yararlandırılmasına devam olunur.
 
+10261
+
 Genel Müdürlüğe bağlı olarak faaliyette bulunan Ayvalık Vakıf
 Zeytinlikleri, Vakıf Memba Suları ve Bezm-i Alem Valide Sultan Vakıf
 Gureba Hastanesi işletmeleri; 5018 sayılı Kamu Malî Yönetimi ve Kontrol
@@ -1706,14 +1705,14 @@ işletmelerin yeniden yapılandırılması ile ilgili düzenleme yapılıncaya
 kadar faaliyetlerini döner sermaye işletmesi olarak yürütmeye devam
 ederler.
 
-**GEÇİCİ MADDE 10- (Ek: 13/2/2011-6111/209 md.)**
+**GEÇİCİ MADDE 10- (Ek:13/2/2011-6111/209 md.)**
 
 Bu maddenin yürürlüğe girdiği tarih itibarıyla bu Kanunun 7 nci
 maddesine eklenen hükümler, bu maddenin yürürlüğe girdiği tarihten önce
 açılmış ve halen devam eden intifa haklarının ödenmesi, malvarlığı ve
 gelirlerinin tespitine ilişkin davalarda da uygulanır.
 
-**GEÇİCİ MADDE 11 –(Ek: 22/8/2011-KHK/651/ 17 md.)**
+**GEÇİCİ MADDE 11 – (Ek: 22/8/2011-KHK-651/17 md. )**
 
 Cemaat vakıflarının;
 
@@ -1748,170 +1747,102 @@ düzenlenir.
 
 **MADDE 82 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **(I) SAYILI CETVEL**
-  
-  VAKIFLAR GENEL MÜDÜRLÜĞÜ MERKEZ TEŞKİLATI
-  
-    --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
-    *Genel Müdür*   *Vakıflar Meclisi (15)*   *Genel Müdür Yardımcısı*   *Ana Hizmet Birimleri*                              *Danışma ve Denetim Birimleri*             *Yardımcı Hizmet Birimleri*
-    Genel Müdür                               Genel Müdür Yardımcısı     1- Vakıf Hizmetleri Daire Başkanlığı                1- Hukuk Müşavirliği                       1- İnsan Kaynakları Daire Başkanlığı
-                                              Genel Müdür Yardımcısı     2- Hayır Hizmetleri Daire Başkanlığı                2- Rehberlik ve Teftiş Başkanlığı          2- Destek Hizmetleri Daire Başkanlığı
-                                              Genel Müdür Yardımcısı     3- Sanat Eserleri ve Yapı İşleri Daire Başkanlığı   3- Strateji Geliştirme Daire Başkanlığı    
-                                                                         4- Yatırım ve Emlak Daire Başkanlığı                4- Basın ve Halkla İlişkiler Müşavirliği   
-                                                                         5- Sağlık Hizmetleri Daire Başkanlığı                                                          
-                                                                         6- Kültür ve Tescil Daire Başkanlığı                                                           
-                                                                         7- Dış İlişkiler Daire Başkanlığı                                                              
-                                                                                                                                                                        
-    --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
-  
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(I) **SAYILI CETVEL**
 
-  --------------------------------------------------------------------------------------------------------------------------------------------
-  **(II) SAYILI CETVEL**
-  
-  **VAKIFLAR GENEL MÜDÜRLÜĞÜ**
-  
-  **(TAŞRA TEŞKİLATI)**
-  
-  **BÖLGE MÜDÜRLÜKLERİ **
-  
-  ***SIRA NO BÖLGE ADI BAĞLI İLLER ***
-  
-  1 ADANA Adana, Mersin, Osmaniye
-  
-  2 ANKARA Ankara, Bolu, Çankırı, Düzce, Kırıkkale
-  
-  3 ANTALYA Antalya, Burdur, Isparta
-  
-  4 AYDIN Aydın, Denizli, Muğla
-  
-  5 BALIKESİR Balıkesir, Çanakkale
-  
-  6 BİTLİS Bitlis, Hakkari, Muş, Şırnak, Siirt, Van
-  
-  7 BURSA Bursa, Bilecik, Sakarya, Yalova
-  
-  8 DİYARBAKIR Diyarbakır, Batman, Bingöl, Mardin
-  
-  9 EDİRNE Edirne, Kırklareli
-  
-  10 ERZURUM Erzurum, Kars, Ardahan, Bayburt, Erzincan, Iğdır, Ağrı
-  
-  11 GAZİANTEP Gaziantep, Kilis
-  
-  12 HATAY Hatay, Kahramanmaraş
-  
-  13 İSTANBUL I. BÖLGE Avrupa Yakası, Tekirdağ
-  
-  14 İSTANBUL II. BÖLGE Anadolu Yakası, Kocaeli
-  
-  15 İZMİR İzmir, Manisa
-  
-  16 KASTAMONU Kastamonu, Bartın, Karabük, Zonguldak
-  
-  17 KAYSERİ Kayseri, Niğde, Nevşehir, Kırşehir
-  
-  18 KONYA Konya, Aksaray, Karaman
-  
-  19 KÜTAHYA Kütahya, Afyonkarahisar, Eskişehir, Uşak
-  
-  20 MALATYA Malatya, Elazığ, Tunceli
-  
-  21 SAMSUN Samsun, Ordu, Sinop
-  
-  22 SİVAS Sivas, Yozgat
-  
-  23 ŞANLIURFA Şanlıurfa, Adıyaman
-  
-  24 TOKAT Tokat, Amasya, Çorum
-  
-  25 TRABZON Trabzon, Artvin, Giresun, Gümüşhane, Rize
-  
-    -------------------------------------------------------------------------------------------------- ------------------ ------------------
-    []{#RANGE!A3:H26 .anchor} **(Değişik:25/6/2009-5917/ 47 md.) (III) SAYILI CETVEL **
-  
-    **VAKIFLAR GENEL MÜDÜRLÜĞÜ **
-  
-    **SÖZLEŞMELİ PERSONELİNE İLİŞKİN AYLIK ÜCRET SINIRLARI **
-    
-    **(BRÜT TL)**
-  
-    **GÖREV UNVANI**
-  
-    **Genel Müdür**
-  
-    **Vakıflar Meclisi Üyesi, Genel Müdür Yrd., I.Hukuk Müşaviri, Rehberlik ve Teftiş Başkanı**
-  
-    **Başmüfettiş, Daire Başkanı, Hukuk Müşaviri, Basın ve Halkla İlişkiler Müşaviri, Bölge Müdürü**
-  
-    **Müdür, Şube Müdürü**
-  
-    **Müfettiş, Vakıf Uzmanı**
-  
-    **Kadro Derecesi 1**
-  
-    **Kadro Derecesi 2**
-  
-    **Kadro Derecesi 3**
-  
-    **Kadro Derecesi 4**
-  
-    **Kadro Derecesi 5**
-  
-    **Kadro Derecesi 6**
-  
-    **Kadro Derecesi 7 ve Diğerleri**
-  
-    **Avukat, Mimar, Mühendis, Şehir Plancısı, Kurum Tabibi (Daire Tabibi), Müze Araştırmacısı**
-  
-    **Kadro Derecesi 1**
-  
-    **Kadro Derecesi 2**
-  
-    **Kadro Derecesi 3**
-  
-    **Kadro Derecesi 4**
-  
-    **Kadro Derecesi 5**
-  
-    **Kadro Derecesi 6 ve Diğerleri**
-    -------------------------------------------------------------------------------------------------- ------------------ ------------------
-  
-  --------------------------------------------------------------------------------------------------------------------------------------------
+**VAKIFLAR GENEL MÜDÜRLÜĞÜ MERKEZ TEŞKİLATI**
 
-  -------------------------- --------------------------------------------- ------------------------- ------------------------------------------------------------ ------------------------------------------------
-  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**                        **5737 sayılı Kanunun değiştirilen maddeleri**
-                                                                                                                                                                  
-                                                                           **Resmi Gazete Tarihi**                                                                
+  --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
+  *Genel Müdür*   *Vakıflar Meclisi (15)*   *Genel Müdür Yardımcısı*   *Ana Hizmet Birimleri*                              *Danışma ve Denetim Birimleri*             *Yardımcı Hizmet Birimleri*
+  Genel Müdür                               Genel Müdür Yardımcısı     1- Vakıf Hizmetleri Daire Başkanlığı                1- Hukuk Müşavirliği                       1- İnsan Kaynakları Daire Başkanlığı
+                                            Genel Müdür Yardımcısı     2- Hayır Hizmetleri Daire Başkanlığı                2- Rehberlik ve Teftiş Başkanlığı          2- Destek Hizmetleri Daire Başkanlığı
+                                            Genel Müdür Yardımcısı     3- Sanat Eserleri ve Yapı İşleri Daire Başkanlığı   3- Strateji Geliştirme Daire Başkanlığı    
+                                                                       4- Yatırım ve Emlak Daire Başkanlığı                4- Basın ve Halkla İlişkiler Müşavirliği   
+                                                                       5- Sağlık Hizmetleri Daire Başkanlığı                                                          
+                                                                       6- Kültür ve Tescil Daire Başkanlığı                                                           
+                                                                       7- Dış İlişkiler Daire Başkanlığı                                                              
+                                                                                                                                                                      
+  --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
 
-  5917                       1/7/2009                                      10/7/2009                                                                              \(III) Sayılı Cetvel
+**(II) SAYILI CETVEL**
 
-  6111                       25/2/2011                                     25/2/2011                                                                              7, Geçici Madde 10
+**VAKIFLAR GENEL MÜDÜRLÜĞÜ**
 
-                             11/7/2011                                     11/1/2011                 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Karar   68
+**(TAŞRA TEŞKİLATI)**
 
-  KHK/651                    27/8/2011                                     27/8/2011                                                                              35, 52, 68, Geçici Madde 11
+**BÖLGE MÜDÜRLÜKLERİ **
 
-                                                                                                                                                                  
+***SIRA NO BÖLGE ADI BAĞLI İLLER ***
 
-                                                                                                                                                                  
+1 ADANA Adana, Mersin, Osmaniye
 
-                                                                                                                                                                  
+2 ANKARA Ankara, Bolu, Çankırı, Düzce, Kırıkkale
 
-                                                                                                                                                                  
+3 ANTALYA Antalya, Burdur, Isparta
 
-                                                                                                                                                                  
+4 AYDIN Aydın, Denizli, Muğla
 
-                                                                                                                                                                  
+5 BALIKESİR Balıkesir, Çanakkale
 
-                                                                                                                                                                  
+6 BİTLİS Bitlis, Hakkari, Muş, Şırnak, Siirt, Van
 
-                                                                                                                                                                  
+7 BURSA Bursa, Bilecik, Sakarya, Yalova
 
-                                                                                                                                                                  
+8 DİYARBAKIR Diyarbakır, Batman, Bingöl, Mardin
 
-                                                                                                                                                                  
-  -------------------------- --------------------------------------------- ------------------------- ------------------------------------------------------------ ------------------------------------------------
+9 EDİRNE Edirne, Kırklareli
 
+10 ERZURUM Erzurum, Kars, Ardahan, Bayburt, Erzincan, Iğdır, Ağrı
 
+11 GAZİANTEP Gaziantep, Kilis
+
+12 HATAY Hatay, Kahramanmaraş
+
+13 İSTANBUL I. BÖLGE Avrupa Yakası, Tekirdağ
+
+14 İSTANBUL II. BÖLGE Anadolu Yakası, Kocaeli
+
+15 İZMİR İzmir, Manisa
+
+16 KASTAMONU Kastamonu, Bartın, Karabük, Zonguldak
+
+17 KAYSERİ Kayseri, Niğde, Nevşehir, Kırşehir
+
+18 KONYA Konya, Aksaray, Karaman
+
+19 KÜTAHYA Kütahya, Afyonkarahisar, Eskişehir, Uşak
+
+20 MALATYA Malatya, Elazığ, Tunceli
+
+21 SAMSUN Samsun, Ordu, Sinop
+
+22 SİVAS Sivas, Yozgat
+
+23 ŞANLIURFA Şanlıurfa, Adıyaman
+
+24 TOKAT Tokat, Amasya, Çorum
+
+25 TRABZON Trabzon, Artvin, Giresun, Gümüşhane, Rize
+
+10263
+
+**(III)** []{#RANGE!A3:H26 .anchor}**SAYILI CETVEL **
+
+**(Mülga: 11/10/2011-KHK-666/1 md.)**
+
+**5737 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**          **5737 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5917                                                                                III Sayılı Cetvel                                             1/7/2009 tarihinden geçerli olmak üzere 10/7/2009
+  6111                                                                                7 ve Geçici madde 10                                          25/2/2011
+  Anayasa Mahkemesi’nin 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Kararı   68                                                            11/7/2011
+  KHK/651                                                                             35, 52, 68, Geçici Madde 11                                   27/8/2011
+  KHK/666                                                                             67, 72, III Sayılı Cetvel                                     14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
+
+10264
