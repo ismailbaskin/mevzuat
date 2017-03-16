@@ -1,4 +1,4 @@
-**6526 sayılı Kanun ile değişik hali**
+**6529 sayılı Kanun ile değişik hali**
 
 **TÜRK CEZA KANUNU ^(1)^**
 
@@ -740,7 +740,7 @@ hapis ve adlî para cezalarıdır.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (1) *Bu fıkrada geçen "cinsel saldırı, çocukların cinsel istismarı"
-    ibaresi, 29/6/2005 tarihli ve 5377 sayılı Kanunun 6 ıncı maddesiyle
+    ibaresi, 29/6/2005 tarihli ve 5377 sayılı Kanunun 6 ncı maddesiyle
     madde metninden çıkarılmıştır.*
 
 8975
@@ -2465,26 +2465,39 @@ yoksun kılma suçlarının işlenmesi sonucunda yararına haksız menfaat
 sağlanan tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine
 hükmolunur.
 
-*Eğitim ve öğretimin engellenmesi*
+*Eğitim ve öğretim hakkının engellenmesi ^(1)^*
 
-**Madde 112-** (1) Cebir veya tehdit kullanılarak ya da hukuka aykırı
-başka bir davranışla;
+**Madde 112-** **(Değişik: 2/3/2014-6529/12 md.)**
+
+\(1) Cebir veya tehdit kullanılarak ya da hukuka aykırı başka bir
+davranışla;
 
 a\) Devletçe kurulan veya kamu makamlarının verdiği izne dayalı olarak
 yürütülen her türlü eğitim ve öğretim faaliyetlerine,
 
-b\) Öğrencilerin toplu olarak oturdukları binalara veya bunların
+b\) Kişinin eğitim ve öğretim hakkını kullanmasına,
+
+c\) Öğrencilerin toplu olarak oturdukları binalara veya bunların
 eklentilerine girilmesine veya orada kalınmasına,
 
-Engel olunması halinde, bir yıldan üç yıla kadar hapis cezasına
-hükmolunur.
+engel olunması hâlinde, fail hakkında iki yıldan beş yıla kadar hapis
+cezasına hükmolunur.
 
-*Kamu kurumu veya kamu kurumu niteliğindeki meslek kuruluşlarının
-faaliyetlerinin engellenmesi*
+*Kamu hizmetlerinden yararlanma hakkının engellenmesi ^(2)^*
 
-**Madde 113-** (1) Cebir veya tehdit kullanılarak ya da hukuka aykırı
-başka bir davranışla, kamu kurumu faaliyetinin yürütülmesine engel
-olunması halinde, bir yıldan üç yıla kadar hapis cezasına hükmolunur.
+**Madde 113-** **(Değişik: 2/3/2014-6529/13 md.)**
+
+\(1) Cebir veya tehdit kullanılarak ya da hukuka aykırı başka bir
+davranışla;
+
+a\) Bir kamu faaliyetinin yürütülmesine,
+
+b\) Kamu kurumlarında veya kamu kurumu niteliğindeki meslek
+kuruluşlarında verilen ya da kamu makamlarının verdiği izne dayalı
+olarak sunulan hizmetlerden yararlanılmasına,
+
+engel olunması hâlinde, fail hakkında iki yıldan beş yıla kadar hapis
+cezasına hükmolunur.
 
 *Siyasi hakların kullanılmasının engellenmesi*
 
@@ -2496,6 +2509,17 @@ parti yönetimindeki görevinden ayrılmaya,
 
 b\) Seçim yoluyla gelinen bir kamu görevine aday olmamaya veya seçildiği
 görevden ayrılmaya,
+
+–––––––––––––––
+
+*(1) Bu madde başlığı “Eğitim ve öğretimin engellenmesi” iken, 2/3/2014
+tarihli ve 6529 sayılı Kanunun 12 nci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+*(2) Bu madde başlığı “Kamu kurumu veya kamu kurumu niteliğindeki meslek
+kuruluşlarının faaliyetlerinin engellenmesi” iken, 2/3/2014 tarihli ve
+6529 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
 8997
 
@@ -2513,9 +2537,17 @@ siyasi, sosyal, felsefi inanç, düşünce ve kanaatlerini açıklamaya veya
 değiştirmeye zorlayan ya da bunları açıklamaktan, yaymaktan meneden
 kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.
 
-\(2) Dini ibadet ve ayinlerin toplu olarak yapılmasının, cebir veya
-tehdit kullanılarak ya da hukuka aykırı başka bir davranışla
-engellenmesi halinde, yukarıdaki fıkraya göre ceza verilir.
+\(2) **(Değişik: 2/3/2014-6529/14 md.)** Dini inancın gereğinin yerine
+getirilmesinin veya dini ibadet veya ayinlerin bireysel ya da toplu
+olarak yapılmasının, cebir veya tehdit kullanılarak ya da hukuka aykırı
+başka bir davranışla engellenmesi hâlinde, fail hakkında birinci fıkraya
+göre cezaya hükmolunur.
+
+\(3) **(Ek: 2/3/2014-6529/14 md.)** Cebir veya tehdit kullanarak ya da
+hukuka aykırı başka bir davranışla bir kimsenin inanç, düşünce veya
+kanaatlerinden kaynaklanan yaşam tarzına ilişkin tercihlerine müdahale
+eden veya bunları değiştirmeye zorlayan kişiye birinci fıkra hükmüne
+göre ceza verilir.
 
 *Konut dokunulmazlığının ihlali*
 
@@ -2617,24 +2649,25 @@ yetkili kamu makamlarına verdiği dilekçenin hukuki bir neden olmaksızın
 kabul edilmemesi halinde, fail hakkında altı aya kadar hapis cezasına
 hükmolunur.
 
-*Ayırımcılık*
+*Nefret ve ayırımcılık ^(1)^*
 
-**Madde 122-** (1) Kişiler arasında dil, ırk, renk, cinsiyet,
-engellilik, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri
-sebeplerle ayırım yaparak; ^(1)(2)^
+**Madde 122- (Değişik: 2/3/2014-6529/15 md.)**
 
-a\) Bir taşınır veya taşınmaz malın satılmasını, devrini veya bir
-hizmetin icrasını veya hizmetten yararlanılmasını engelleyen veya
-kişinin işe alınmasını veya alınmamasını yukarıda sayılan hallerden
-birine bağlayan,
+\(1) Dil, ırk, milliyet, renk, cinsiyet, engellilik, siyasi düşünce,
+felsefi inanç, din veya mezhep farklılığından kaynaklanan nefret
+nedeniyle;
 
-b\) Besin maddelerini vermeyen veya kamuya arz edilmiş bir hizmeti
-yapmayı reddeden,
+a\) Bir kişiye kamuya arz edilmiş olan bir taşınır veya taşınmaz malın
+satılmasını, devrini veya kiraya verilmesini,
 
-c\) Kişinin olağan bir ekonomik etkinlikte bulunmasını engelleyen,
+b\) Bir kişinin kamuya arz edilmiş belli bir hizmetten yararlanmasını,
 
-Kimse hakkında altı aydan bir yıla kadar hapis veya adlî para cezası
-verilir.
+c\) Bir kişinin işe alınmasını,
+
+d\) Bir kişinin olağan bir ekonomik etkinlikte bulunmasını,
+
+engelleyen kimse, bir yıldan üç yıla kadar hapis cezası ile
+cezalandırılır.
 
 *Kişilerin huzur ve sükununu bozma*
 
@@ -2659,12 +2692,8 @@ hükmolunur.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 1/7/2005 tarihli ve 5378 sayılı Kanunun 41 inci maddesiyle, bu
-fıkrada geçen "dil, ırk, renk, cinsiyet," ibaresinden sonra gelmek üzere
-"özürlülük," ibaresi eklenmiş ve metne işlenmiştir.*
-
-*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
-fıkrada yer alan “özürlülük” ibaresi “engellilik” olarak
+*(1) Bu madde başlığı “Ayırımcılık” iken, 2/3/2014 tarihli ve 6529
+sayılı Kanunun 15 inci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
 8999
@@ -4259,11 +4288,7 @@ pişmanlık hükümleri birden fazla uygulanmaz.
 
 *Şapka ve Türk harfleri*
 
-**        Madde 222-** (1) 25.11.1925 tarihli ve 671 sayılı Şapka
-İktisası Hakkında Kanunla, 1.11.1928 tarihli ve 1353 sayılı Türk
-Harflerinin Kabul ve Tatbiki Hakkında Kanunun koyduğu yasaklara veya
-yükümlülüklere aykırı hareket edenlere iki aydan altı aya kadar hapis
-cezası verilir.
+**        Madde 222-** **(Mülga: 2/3/2014-6529/16 md.)**
 
 ALTINCI BÖLÜM
 
@@ -4302,7 +4327,7 @@ alan kişi, beş yıldan onbeş yıla kadar hapis cezası ile cezalandırılır.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) Bu fıkrada geçen "örgüte üye olan" ibaresinden sonra gelmek üzere,
+*(1)Bu fıkrada geçen "örgüte üye olan" ibaresinden sonra gelmek üzere,
 29/6/2005 tarihli ve 5377 sayılı Kanunun 26 ncı maddesiyle "ya da üye
 olmamakla birlikte örgüt adına suç işleyen veya örgüte bilerek ve
 isteyerek yardım eden" ibaresi eklenmiştir.*
@@ -5125,7 +5150,7 @@ değiştirilmiş ve metne işlenmiştir.*
 
 *Kanuna aykırı eğitim kurumu*
 
-**        Madde 263 – (Mülga – 17/4/2013-6460/13 md.)**
+**        Madde 263 – (Mülga – 17/4/2013-6460/13 md.) **
 
 *Özel işaret ve kıyafetleri usulsüz kullanma*
 
@@ -5428,7 +5453,7 @@ bildirmeyen kişi, yukarıdaki fıkra hükmüne göre cezalandırılır.
 \(3) Mağdurun onbeşyaşını bitirmemiş bir çocuk, bedensel veya ruhsal
 bakımdan engelli olan ya da hamileliği nedeniyle kendisini savunamayacak
 durumda bulunan kimse olması halinde, yukarıdaki fıkralara göre
-verilecek ceza, yarı oranında artırılır.^(1)^
+verilecek ceza, yarı oranında artırılır. ^(1)^
 
 \(4) Tanıklıktan çekinebilecek olan kişiler bakımından cezaya
 hükmolunmaz. Ancak, suçu önleme yükümlülüğünün varlığı dolayısıyla ceza
@@ -5470,10 +5495,10 @@ işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 delilleri mahkemeye teslim eden kişi hakkında bu maddede tanımlanan suç
 nedeniyle verilecek cezanın beşte dördü indirilir.
 
-\_\_\_\_\_\_\_\_\_\_\_\_
+*–––––––––––––––––*
 
-*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
-fıkrada yer alan “özürlü” ibaresi “engelli” olarak değiştirilmiştir.*
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.*
 
 9032-1
 
@@ -6553,12 +6578,9 @@ değiştirilmiş ve metne işlenmiştir.*
 
 9046-1/9047
 
-**5237 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
-
-**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
-YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
-
-**GÖSTERİR LİSTE**
+**5237 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA
+MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+GÖSTERİR LİSTE**
 
   -------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**             **5237 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                                                       **Yürürlüğe Giriş Tarihi**
@@ -6594,6 +6616,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                                                                                     (10/6/2014)
 
   6526                                                                                135, 136, 138                                                 6/3/2014
+
+  6529                                                                                112, 113, 115, 122, 222                                       13/3/2014
   ----------------------------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------
 
 
