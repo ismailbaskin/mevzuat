@@ -1,4 +1,4 @@
-**5918 sayılı Kanun ile değişik hali**
+**6009 sayılı Kanun ile değişik hali**
 
 **KABAHATLER** **KANUNU**
 
@@ -356,8 +356,9 @@ Yıldır.
 
 \(3) Mülkiyetin kamuya geçirilmesine ilişkin zamanaşımı süresi on yıldır.
 
-\(4) Zamanaşımı süresi, kararın kesinleşmesi tarihinden itibaren işlemeye
-başlar.
+\(4) **(Değişik: 23/7/2010-6009/37 md.)** Zamanaşımı süresi, kararın
+kesinleşmesinin rastladığı takvim yılını takip eden takvim yılı başından
+itibaren işlemeye başlar.
 
 \(5) Kanun hükmü gereği olarak idarî yaptırımın yerine getirilmesine
 başlanamaması veya yerine getirilememesi halinde zamanaşımı işlemez.
@@ -876,6 +877,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5348                                                                         EK MADDE 1                                                    18/5/2005
   5560                                                                         3, 17, 20, 27, 28, GEÇİCİ MADDE 1                             19/12/2006
   5918                                                                         43/A                                                          9/7/2009
+  6009                                                                         21                                                            1/8/2010
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
