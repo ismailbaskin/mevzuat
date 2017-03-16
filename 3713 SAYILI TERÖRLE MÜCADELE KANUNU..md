@@ -1,4 +1,4 @@
-7215
+**6518 sayılı Kanun ile değişik hali**
 
 []{#K93 .anchor}TERÖRLE MÜCADELE KANUNU
 
@@ -346,9 +346,11 @@ K:2013/84 sayılı kararıyla iptal edilmiş olup, Kararın Resmi Gazetede
 yayımlandığı 2/8/2013 tarihinden itibaren bir yıl sonra yürürlüğe
 gireceği hüküm altına alınmıştır.*
 
+7218-2
+
 7219
 
-*Gözetim süresi*
+Gözetim süresi
 
 **Madde 11 – (Mülga: 18/11/1992 - 3842/31 md.)**
 
@@ -361,13 +363,13 @@ yaptırımlara çevirme ve erteleme yasağı ^(1)^ *
 
 **Madde 13- (Mülga: 2/7/2012-6352/105 md.)**
 
-*Muhbirlerin hüviyetlerinin açıklanmaması*
+Muhbirlerin hüviyetlerinin açıklanmaması
 
 **Madde 14 –** Bu Kanun kapsamına giren suçlar ve suçluları ihbar
 edenlerin hüviyetleri, rızaları olmadıkça veya ihbarın mahiyeti
 haklarında suç teşkil etmedikçe açıklanamaz.
 
-*Müdafi tayini ^(2)\ ^*
+Müdafi tayini ^(2)\ ^
 
 **Madde 15 – (Değişik: 29/6/2006-5532/11 md.)**
 
@@ -385,13 +387,13 @@ düzenlenir.
 
 ÜÇÜNCÜ BÖLÜM
 
-*Cezaların İnfazı *
+Cezaların İnfazı
 
-*Cezaların infazı ve tutukluların muhafazası *
+Cezaların infazı ve tutukluların muhafazası
 
 **Madde 16 – (Mülga: 29/6/2006-5532/17 md.)**
 
-*Koşullu salıverilme^(1)^*
+Koşullu salıverilme^(1)^
 
 **Madde 17-** **(Değişik: 29/6/2006-5532/12 md.)**
 
@@ -412,15 +414,15 @@ işlemeleri halinde, şartla salıverilmeden yararlanamazlar.
 
 ——————————
 
-*(1) 29/6/2006 tarihli ve 5532 sayılı Kanunun 10 ve 12 inci maddesiyle
-13 üncü maddenin başlığı “Erteleme ve paraya çevrilme”, 17 nci maddenin
+\(1) 29/6/2006 tarihli ve 5532 sayılı Kanunun 10 ve 12 inci maddesiyle 13
+üncü maddenin başlığı “Erteleme ve paraya çevrilme”, 17 nci maddenin
 başlığı "Şartla salıverilme" iken metne işlendiği şekilde
 değiştirilmiştir. Daha sonra 26/2/2008 tarihli ve 5739 sayılı Kanunun 3
 üncü maddesiyle 13 üncü maddenin başlığı “Seçenek yaptırımlara çevirme
-ve erteleme yasağı” iken metne işlendiği şekilde değiştirilmiştir.*
+ve erteleme yasağı” iken metne işlendiği şekilde değiştirilmiştir.
 
-*(2) Madde 18/11/1992 tarihli ve 3842 sayılı Kanunla değiştirilmiş ve
-metne işlenmiştir. *
+\(2) Madde 18/11/1992 tarihli ve 3842 sayılı Kanunla değiştirilmiş ve
+metne işlenmiştir.
 
 7220
 
@@ -433,15 +435,15 @@ cezasına mahkûm olan terör suçluları koşullu salıverilme hükümlerinden
 yararlanamaz. Bunlar hakkında ağırlaştırılmış müebbet ağır hapis cezası
 ölünceye kadar devam eder.
 
-*Ceza ve tutukevi inşaatı*
+Ceza ve tutukevi inşaatı
 
 **Madde 18- (Mülga: 29/6/2006-5532/17 md.)**
 
 DÖRDÜNCÜ BÖLÜM
 
-*Çeşitli Hükümler*
+Çeşitli Hükümler
 
-*Ödüllendirme*
+Ödüllendirme
 
 **Madde 19 – (Değişik: 29/6/2006-5532/13 md.)**
 
@@ -450,7 +452,7 @@ faillerinin yakalanabilmesine yardımcı olanlara veya yerlerini yahut
 kimliklerini bildirenlere para ödülü verilir. Ödülün miktar, usûl ve
 esasları İçişleri Bakanlığınca çıkarılacak yönetmelikte belirtilir.
 
-*Koruma tedbirleri *
+Koruma tedbirleri
 
 **Madde 20 – (Değişik: 29/6/2006-5532/14 md.)**
 
@@ -498,7 +500,7 @@ dahi terör suçluları tarafından kendilerine veya eş ve çocuklarının
 canına vuku bulan bir taarruzu savmak için silah kullanmaya
 yetkilidirler.
 
-*Yardım ^(1)(3)^*
+Yardım ^(1)(3)^
 
 *Malul olanlarla aylığa müstehak dul ve yetimlere yardım*
 
@@ -549,8 +551,8 @@ indirilebilir.
 
 ——————————
 
-*(1) Bu madde başlığı, 13/11/1995 tarih ve 4131 sayılı Kanun'un 1 inci
-maddesi ile değiştirilmiş ve metne işlenmiştir. *
+\(1) Bu madde başlığı, 13/11/1995 tarih ve 4131 sayılı Kanun'un 1 inci
+maddesi ile değiştirilmiş ve metne işlenmiştir.
 
 *(2) Bu arada yer alan "Memur ve” ibaresi, 29/6/2006 tarihli ve 5532
 sayılı Kanunun 15 inci maddesiyle madde metninden çıkarılmıştır.*
@@ -749,7 +751,7 @@ değiştirilmiştir.*
 7223
 
 **Ek Madde 1 – (Ek: 13/11/1995 - 4131/3 md.; Değişik: 12/7/2013-6495/86
-md.)**
+md.) ^(1)^**
 
 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol
 Kanununun eki (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu
@@ -759,9 +761,9 @@ kurulan diğer her türlü kamu kurum ve kuruluşları; 657 sayılı Devlet
 Memurları Kanununa tabi memur kadroları ile sözleşmeli personel
 pozisyonlarının ve sürekli işçi kadrolarının %2’sini aşağıdaki
 hükümlerde belirtilen hak sahiplerinin istihdamı için ayırmak ve bu
-madde hükümleri çerçevesinde İçişleri Bakanlığınca hak sahibi olduğu
-belirlenerek Devlet Personel Başkanlığına bildirilen ve Başkanlıkça
-atama teklifi yapılanları atamak zorundadır. Kamu kurum ve
+madde hükümleri çerçevesinde Aile ve Sosyal Politikalar Bakanlığınca hak
+sahibi olduğu belirlenerek Devlet Personel Başkanlığına bildirilen ve
+Başkanlıkça atama teklifi yapılanları atamak zorundadır. Kamu kurum ve
 kuruluşlarının kadrolarına, ilgili mali yılda 190 sayılı Kanun Hükmünde
 Kararnamenin ek 7 nci maddesi kapsamında yapabilecekleri toplam atama
 sayılarının ne kadarını bu madde kapsamında yapılacak atamalar için
@@ -813,6 +815,14 @@ b\) İkinci fıkranın (a) ve (b) bentlerinde sayılan malullerin kendileri
 veya eş veya çocuklarından birisi, eşi veya çocuğu yoksa kendisi veya
 kardeşlerinden birisi olmak üzere toplam bir kişi,
 
+–––––––––––––––––
+
+*(1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 40 ıncı maddesiyle, bu
+maddede yer alan “İçişleri Bakanlığınca” ibareleri “Aile ve Sosyal
+Politikalar Bakanlığınca” şeklinde, son fıkrasında yer alan “Aile ve
+Sosyal Politikalar Bakanlığı” ibaresi “İçişleri Bakanlığı” şeklinde
+değiştirilmiştir.*
+
 7224
 
 c\) İkinci fıkranın (c) bendine göre malul sayılanların kendileri veya eş
@@ -852,38 +862,43 @@ eşdeğer unvanlı pozisyon ve kadrolar esas alınır.
 Kamu kurum ve kuruluşları bu madde kapsamında atama yapılması amacıyla
 ayırdıkları %2 oranındaki kadro ve pozisyonların unvan ve sayısını her
 yılın şubat ve ağustos aylarının son gününe kadar Devlet Personel
-Başkanlığına bildirirler.
+Başkanlığına bildirirler.**(Ek cümle: 6/2/2014-6518/40 md.)** Bu madde
+kapsamında atama teklifi yapılarak göreve başlayanlar, niteliklerini
+taşıdıkları veya eğitim durumları itibarıyla ihraz ettikleri unvanlara
+ilişkin kadro ve pozisyonlara, görev yaptıkları kamu kurum ve
+kuruluşlarınca atanabilir.
 
-Bu madde kapsamında başvuranlardan hak sahibi olanlar İçişleri
-Bakanlığınca tespit edilerek, liste hâlinde her yılın mart ve eylül
-aylarının son gününe kadar Devlet Personel Başkanlığına bildirilir.
-Bildirilenlerin atama teklifleri, kamu kurum ve kuruluşlarının söz
-konusu münhal kadro ve pozisyonlarına Devlet Personel Başkanlığınca kırk
-beş gün içinde yapılır. Kamu kurum ve kuruluşlarınca atama yapılabilecek
-kadro ve pozisyonların bildirilmemesi veya unvan bazında ihtiyacın
-karşılanamaması durumunda Devlet Personel Başkanlığınca kapsamdaki kamu
-kurum ve kuruluşlarının münhal kadro ve pozisyonlarına resen atama
-teklifi yapılır. Atama işlemlerinin, atama teklifinin kamu kurum ve
-kuruluşuna intikalinden itibaren otuz gün içinde yapılması zorunludur.
-Atama emri ilgili kamu kurum ve kuruluşu tarafından 7201 sayılı Tebligat
-Kanunu hükümlerine göre ilgililere tebliğ edilir. İlgililerin işe
-başlama sürelerine ve işe başlamama hâlinde yapılacak işlemlere ilişkin
-olarak 657 sayılı Kanunun 62 nci ve 63 üncü maddeleri hükümleri
-uygulanır. Atama onayı alınmasına rağmen görevine başlamayanlar ile
-başladıktan sonra herhangi bir sebeple görevden ayrılanlar bu madde
-kapsamında yeniden istihdam edilemezler. Kamu kurum ve kuruluşları atama
-ve göreve başlatma işlemlerinin sonucunu, işlemlerin tamamlanmasını
-takip eden on beş gün içinde Devlet Personel Başkanlığına bildirirler.
+Bu madde kapsamında başvuranlardan hak sahibi olanlar Aile ve Sosyal
+Politikalar Bakanlığınca tespit edilerek, liste hâlinde her yılın mart
+ve eylül aylarının son gününe kadar Devlet Personel Başkanlığına
+bildirilir. Bildirilenlerin atama teklifleri, kamu kurum ve
+kuruluşlarının söz konusu münhal kadro ve pozisyonlarına Devlet Personel
+Başkanlığınca kırk beş gün içinde yapılır. Kamu kurum ve kuruluşlarınca
+atama yapılabilecek kadro ve pozisyonların bildirilmemesi veya unvan
+bazında ihtiyacın karşılanamaması durumunda Devlet Personel
+Başkanlığınca kapsamdaki kamu kurum ve kuruluşlarının münhal kadro ve
+pozisyonlarına resen atama teklifi yapılır. Atama işlemlerinin, atama
+teklifinin kamu kurum ve kuruluşuna intikalinden itibaren otuz gün
+içinde yapılması zorunludur. Atama emri ilgili kamu kurum ve kuruluşu
+tarafından 7201 sayılı Tebligat Kanunu hükümlerine göre ilgililere
+tebliğ edilir. İlgililerin işe başlama sürelerine ve işe başlamama
+hâlinde yapılacak işlemlere ilişkin olarak 657 sayılı Kanunun 62 nci ve
+63 üncü maddeleri hükümleri uygulanır. Atama onayı alınmasına rağmen
+görevine başlamayanlar ile başladıktan sonra herhangi bir sebeple
+görevden ayrılanlar bu madde kapsamında yeniden istihdam edilemezler.
+Kamu kurum ve kuruluşları atama ve göreve başlatma işlemlerinin
+sonucunu, işlemlerin tamamlanmasını takip eden on beş gün içinde Devlet
+Personel Başkanlığına bildirirler.
 
 7224-1
 
 Bu maddenin uygulanmasında takip edilecek usul ve esaslar ile diğer
-hususlar; Aile ve Sosyal Politikalar Bakanlığı, Çalışma ve Sosyal
-Güvenlik Bakanlığı, Maliye Bakanlığı ve Millî Savunma Bakanlığı ile
-Sosyal Güvenlik Kurumu Başkanlığının görüşleri alınmak suretiyle, bu
-maddenin yürürlüğe girdiği tarihten itibaren dört ay içinde Devlet
-Personel Başkanlığı ile İçişleri Bakanlığınca müştereken hazırlanan ve
-Bakanlar Kurulunca yürürlüğe konulan yönetmelikle belirlenir.
+hususlar; İçişleri Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı,
+Maliye Bakanlığı ve Millî Savunma Bakanlığı ile Sosyal Güvenlik Kurumu
+Başkanlığının görüşleri alınmak suretiyle, bu maddenin yürürlüğe girdiği
+tarihten itibaren dört ay içinde Devlet Personel Başkanlığı ile Aile ve
+Sosyal Politikalar Bakanlığınca müştereken hazırlanan ve Bakanlar
+Kurulunca yürürlüğe konulan yönetmelikle belirlenir. ^(1)^
 
 **Ek Madde 2 – (Ek : 29/8/1996 - 4178/3 md.; İptal: 6/1/1999 tarih ve
 E.: 1996/68, K.: 1999/1 sayılı Kararı ile; Yeniden düzenleme:
@@ -942,19 +957,25 @@ dairesince veya Başsavcılıklarınca,
 Salıverilirler.
 
 Haklarında kamu davası açılacaklar ile daha önce kamu davası açılmış
-olan sanıkların yargılamaları yapılır. (…)^(1)^ Yapılan yargılama
+olan sanıkların yargılamaları yapılır. (…)^(2)^ Yapılan yargılama
 sonunda mahkümiyete ilişkin hükmün kesinleşmesini müteakip haklarında
 Kanunun Geçici 1 inci maddesinde belirtilen şartla salıverilme hükümleri
-uygulanır.
+uygulanır. ^(2)^
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+–––––––––––––––––
 
-*(1) Bu maddenin ikinci fıkrasındaki "Duruşmalara gelmeyen sanıkların
+*(1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 40 ıncı maddesiyle, bu
+fıkrada yer alan “Aile ve Sosyal Politikalar Bakanlığı” ibaresi
+“İçişleri Bakanlığı” şeklinde değiştirilmiştir.*
+
+*(2)Bu maddenin ikinci fıkrasındaki "Duruşmalara gelmeyen sanıkların
 savcı veya hakim huzurunda alınmış mevcut beyanları ile yetinilir."
 hükmü Ana. Mah.'nin 31/3/1992 tarih ve E.:1991/18, K.:1992/20 sayılı
 kararı ile iptal edilmiş olup, iptal hükmü, sözkonusu kararın yayımı
 tarihi olan 27 Ocak 1993 tarihinden başlayarak altı ay sonra yürürlüğe
 girmiştir.*
+
+7224-2
 
 7225
 
@@ -1106,50 +1127,50 @@ haklardan yararlanır.
 
 7226-1
 
-**Geçici Madde 13- (Ek: 12/7/2013-6495/87 md.)**
+**Geçici Madde 13- (Ek: 12/7/2013-6495/87 md.) ^(1)^**
 
 Bu maddenin yürürlüğe girdiği tarihten önce ek 1 inci madde kapsamında
 istihdam hakkı bulunanlardan kırk beş yaşını doldurduğu için istihdam
 hakkından yararlanamayacak olanlar, söz konusu maddede öngörülen
-yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içinde İçişleri
-Bakanlığına müracaat etmeleri şartıyla bir defaya mahsus olmak üzere
-mezkûr maddede belirtilen istihdam hakkı sınırlamaları çerçevesinde
-yararlandırılır.
+yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içinde Aile ve
+Sosyal Politikalar Bakanlığına müracaat etmeleri şartıyla bir defaya
+mahsus olmak üzere mezkûr maddede belirtilen istihdam hakkı
+sınırlamaları çerçevesinde yararlandırılır. ^(1)^
 
 Bu maddenin yürürlüğe girdiği tarihte ek 1 inci madde kapsamına girenler
-ile bu maddenin birinci fıkrasında belirtilenlerden İçişleri
-Bakanlığınca hak sahibi olduğu tespit edilenlerin atama teklifleri
-Devlet Personel Başkanlığınca 2015 yılı sonuna kadar kura usulü ile
-yapılır. Hak sahiplerinin atama teklifleri; ek 1 inci madde kapsamına
-giren kurum ve kuruluşların dolu kadro ve pozisyon sayısının, kurumların
-toplam dolu kadro ve pozisyon sayısına oranı esas alınmak suretiyle hak
-sahiplerinin kamu kurum ve kuruluşlarına dengeli dağılımı gözetilerek
-Devlet Personel Başkanlığınca kura usulü ile gerçekleştirilir. Hak
-sahiplerinin atamasının yapılacağı kadro veya pozisyonun belirlenmesinde
-ek 1 inci maddede öngörülen usul uygulanır. Bu madde kapsamında
-yapılacak işlemlere ilişkin usul ve esaslar, ek 1 inci maddede öngörülen
-yönetmelikte düzenlenir. Kura sonucu yapılacak atamalarda atama
-teklifleri ile birlikte atama teklifi yapılan kamu kurum ve
-kuruluşlarına diğer kanunlardaki hükümlere bakılmaksızın ve başka bir
-işleme gerek kalmaksızın kadro ve pozisyonlar ihdas, tahsis ve vize
-edilmiş sayılır. Bu kadro ve pozisyonlar mevzuatı uyarınca düzenlenen
-ilgili cetvel ve bölümlere eklenmiş sayılır. Bu şekilde ihdas edilen
-kadro ve pozisyonlar herhangi bir şekilde boşalması hâlinde başka bir
-işleme gerek kalmaksızın iptal edilmiş sayılır.
+ile bu maddenin birinci fıkrasında belirtilenlerden Aile ve Sosyal
+Politikalar Bakanlığınca hak sahibi olduğu tespit edilenlerin atama
+teklifleri Devlet Personel Başkanlığınca 2015 yılı sonuna kadar kura
+usulü ile yapılır. Hak sahiplerinin atama teklifleri; ek 1 inci madde
+kapsamına giren kurum ve kuruluşların dolu kadro ve pozisyon sayısının,
+kurumların toplam dolu kadro ve pozisyon sayısına oranı esas alınmak
+suretiyle hak sahiplerinin kamu kurum ve kuruluşlarına dengeli dağılımı
+gözetilerek Devlet Personel Başkanlığınca kura usulü ile
+gerçekleştirilir. Hak sahiplerinin atamasının yapılacağı kadro veya
+pozisyonun belirlenmesinde ek 1 inci maddede öngörülen usul uygulanır.
+Bu madde kapsamında yapılacak işlemlere ilişkin usul ve esaslar, ek 1
+inci maddede öngörülen yönetmelikte düzenlenir. Kura sonucu yapılacak
+atamalarda atama teklifleri ile birlikte atama teklifi yapılan kamu
+kurum ve kuruluşlarına diğer kanunlardaki hükümlere bakılmaksızın ve
+başka bir işleme gerek kalmaksızın kadro ve pozisyonlar ihdas, tahsis ve
+vize edilmiş sayılır. Bu kadro ve pozisyonlar mevzuatı uyarınca
+düzenlenen ilgili cetvel ve bölümlere eklenmiş sayılır. Bu şekilde ihdas
+edilen kadro ve pozisyonlar herhangi bir şekilde boşalması hâlinde başka
+bir işleme gerek kalmaksızın iptal edilmiş sayılır. ^(1)^
 
 Bu madde uyarınca yapılan atamalar, ek 1 inci maddede belirtilen hak
 sahiplerinin atanması için ayrılması gereken %2 oranındaki kadro ve
 pozisyon sayılarının hesabında dikkate alınmaz.
 
-Bu maddenin yürürlüğe girdiği tarihten önce ek 1 inci maddeye göre
-yapılan başvurular başvuru tarihindeki mevzuat hükümlerine göre
-sonuçlandırılır.
+**(Değişik dördüncü fıkra: 6/2/2014-6518/41 md.)** Bu maddenin yürürlüğe
+girdiği tarihten önce ek 1 inci maddeye göre yapılan başvurularda bu
+madde hükümleri uygulanır.
 
 Bu madde ile ek 1 inci madde kapsamında 31/12/2015 tarihine kadar
 yapılacak atamalar, yılı merkezi yönetim bütçe kanunlarında yer alan
 kısıtlamalara tabi tutulmaz.
 
-Yürürlükten kaldırılan hükümler
+*Yürürlükten kaldırılan hükümler *
 
 **Madde 23 –** a) 2 sayılı Hıyaneti Vataniye Kanunu,
 
@@ -1166,13 +1187,21 @@ Kanun",
 
 Yürürlükten kaldırılmıştır.
 
-Yürürlük
+*Yürürlük*
 
 **Madde 24 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-Yürütme
+*Yürütme *
 
 **Madde 25 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+–––––––––––––––––
+
+*(1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 41 inci maddesiyle, bu
+maddenin birinci fıkrasında yer alan “İçişleri Bakanlığına” ibaresi
+“Aile ve Sosyal Politikalar Bakanlığına”, ikinci fıkrasında yer alan
+“İçişleri Bakanlığınca” ibaresi “Aile ve Sosyal Politikalar
+Bakanlığınca” şeklinde değiştirilmiştir.*
 
 7226-2
 
@@ -1190,48 +1219,6 @@ yararlanma durumları hakkında gerekli karar verilir.
 
 7227-7231
 
-**3713 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
-
-**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
-
-**Kanun Yürürlüğe**
-
-**No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi**
-
-\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_
-
-3871 – 20/3/1993
-
-3842 – 1/12/1992
-
-4082 – 8/3/1995
-
-4126 – 30/10/1995
-
-4131 2 nci maddesi 12/4/1991
-
-tarihinde
-
-Diğerleri 16/11/1995
-
-4178 – 4/9/1996
-
-4211 – 19/11/1996
-
-4404 – 10/7/1999
-
-4666 – 5/5/2001
-
-4744 – 19/2/2002
-
-4928 – 19/7/2003
-
-4963 – 7/8/2003
-
-7232
-
 **3713 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL **
@@ -1240,40 +1227,61 @@ Diğerleri 16/11/1995
 
 **GÖSTERİR LİSTE**
 
-  ------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------- --------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**     **3713 sayılı Kanunun değişen veya iptal edilen maddeleri**                              **Yürürlüğe Giriş Tarihi**
+  ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **3713 sayılı Kanunun değişen veya iptal edilen maddeleri**                              **Yürürlüğe Giriş Tarihi**
 
-  5218                                                                           17                                                                                       21/7/2004
+  3871                                                                         –                                                                                        20/3/1993
 
-  5460                                                                           21                                                                                       28/2/2006
+  3842                                                                         –                                                                                        1/12/1992
 
-  5532                                                                           1, 3, 4, 5, 6, 7, 8, 8/A, 8/B, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21 ve Ek Madde 2   18/7/2006
+  4082                                                                         –                                                                                        8/3/1995
 
-  5673                                                                           Ek Madde 1                                                                               2/6/2007
+  4126                                                                         –                                                                                        30/10/1995
 
-  5739                                                                           13                                                                                       1/3/2008
+  4131                                                                         2 nci maddesi                                                                            12/4/1991
+                                                                                                                                                                        
+                                                                               Diğerleri                                                                                16/11/1995
 
-  5763                                                                           Ek Madde 1                                                                               26/5/2008
+  4178                                                                         –                                                                                        4/9/1996
 
-  (5754 sayılı Kanun ile değişik) 5510                                           21                                                                                       1/10/2008
+  4211                                                                         –                                                                                        19/11/1996
 
-  6008                                                                           5, 9, 13                                                                                 25/7/2010
+  4404                                                                         –                                                                                        10/7/1999
 
-  6352                                                                           2, 6, 9,10, 13                                                                           5/7/2012
+  4666                                                                         –                                                                                        5/5/2001
 
-  6353                                                                           21, Ek Madde 1, Geçici Madde 11, 12                                                      12/7/2012
+  4744                                                                         –                                                                                        19/2/2002
 
-  6415                                                                           8                                                                                        16/2/2013
+  4928                                                                         –                                                                                        19/7/2003
 
-  6459                                                                           6, 7                                                                                     30/4/2013
+  4963                                                                         –                                                                                        7/8/2003
 
-  6462                                                                           21                                                                                       3/5/2013
+  5218                                                                         17                                                                                       21/7/2004
 
-  6495                                                                           21, Ek Madde 1, Geçici Madde 13                                                          2/8/2013
+  5460                                                                         21                                                                                       28/2/2006
 
-  Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100, K:2013/84 sayılı kararı   10 uncu maddenin 5 inci fıkrası                                                          2/8/2013 tarihinden itibaren bir yıl sonra
-                                                                                                                                                                          
-                                                                                                                                                                          2/8/2014
-  ------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------- --------------------------------------------
+  5532                                                                         1, 3, 4, 5, 6, 7, 8, 8/A, 8/B, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21 ve Ek Madde 2   18/7/2006
+
+  5673                                                                         Ek Madde 1                                                                               2/6/2007
+
+  5739                                                                         13                                                                                       1/3/2008
+  ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- ----------------------------
+
+7232
+
+  ------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**     **3713 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5763                                                                           Ek Madde 1                                                    26/5/2008
+  (5754 sayılı Kanun ile değişik) 5510                                           21                                                            1/10/2008
+  6008                                                                           5, 9, 13                                                      25/7/2010
+  6352                                                                           2, 6, 9,10, 13                                                5/7/2012
+  6353                                                                           21, Ek Madde 1, Geçici Madde 11, 12                           12/7/2012
+  6415                                                                           8                                                             16/2/2013
+  6459                                                                           6, 7                                                          30/4/2013
+  6462                                                                           21                                                            3/5/2013
+  6495                                                                           21, Ek Madde 1, Geçici Madde 13                               2/8/2013
+  Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100, K:2013/84 sayılı kararı   10 uncu maddenin beşinci fıkrası                              2/8/2014
+  6518                                                                           Ek Madde 1, Geçici Madde 13                                   19/2/2014
+  ------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
 
 
