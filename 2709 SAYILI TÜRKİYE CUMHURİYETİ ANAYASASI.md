@@ -1,4 +1,4 @@
-**8/7/1993 tarihli ve 3913 sayılı Kanun ile değişik hali**
+**23/7/1995 tarihli ve 4121 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -12,55 +12,47 @@
 
 B A Ş L A N G I Ç
 
-Ebedî Türk vatan ve milletinin bütünlüğüne ve kutsal Türk Devletinin
-varlığına karşı, Cumhuriyet devrinde benzeri görülmemiş bölücü ve yıkıcı
-kanlı bir iç savaşın gerçekleşme noktasına yaklaştığı sırada;
+**(Değişik: 23/7/1995-4121/1 md.)**
 
-Türk Milletinin ayrılmaz parçası olan Türk Silahlı Kuvvetlerinin,
-milletin çağrısıyla gerçekleştirdiği 12 Eylül 1980 harekâtı sonucunda,
-Türk Milletinin meşru temsilcileri olan Danışma Meclisince hazırlanıp,
-Millî Güvenlik Konseyince son şekli verilerek Türk Milleti tarafından
-kabul ve tasvip ve doğrudan doğruya O'nun eliyle vazolunan bu ANAYASA :
+Türk Vatanı ve Milletinin ebedi varlığını ve Yüce Türk Devletinin
+bölünmez bütünlüğünü belirleyen bu Anayasa, Türkiye Cumhuriyetinin
+kurucusu, ölümsüz önder ve eşsiz kahraman Atatürk'ün belirlediği
+milliyetçilik anlayışı ve onun inkılap ve ilkeleri doğrultusunda;
 
-— Türkiye Cumhuriyetinin kurucusu, ölümsüz önder ve eşsiz kahraman
-Atatürk'ün belirlediği milliyetçilik anlayışı ve O'nun inkılâp ve
-ilkeleri doğrultusunda;
+Dünya milletleri ailesinin eşit haklara sahip şerefli bir üyesi olarak,
+Türkiye Cumhuriyetinin ebedi varlığı, refahı, maddi ve manevi mutluluğu
+ile çağdaş medeniyet düzeyine ulaşma azmi yönünde;
 
-— Dünya milletler ailesinin eşit haklara sahip şerefli bir üyesi olarak;
-Türkiye Cumhuriyetinin ilelebet varlığı, refahı, maddî ve manevî
-mutluluğu ile çağdaş medeniyet düzeyine ulaşma azmi yönünde;
-
-— Millet iradesinin mutlak üstünlüğü, egemenliğin kayıtsız şartsız Türk
+Millet iradesinin mutlak üstünlüğü, egemenliğin kayıtsız şartsız Türk
 Milletine ait olduğu ve bunu millet adına kullanmaya yetkili kılınan
 hiçbir kişi ve kuruluşun, bu Anayasada gösterilen hürriyetçi demokrasi
 ve bunun icaplarıyla belirlenmiş hukuk düzeni dışına çıkamayacağı;
 
-— Kuvvetler ayrımının, Devlet organları arasında üstünlük sıralaması
-anlamına gelmeyip, belli Devlet yetkilerinin kullanılmasından ibaret ve
-bununla sınırlı medenî bir işbölümü ve işbirliği olduğu ve üstünlüğün
-ancak Anayasa ve kanunlarda bulunduğu;
+Kuvvetler ayrımının, Devlet organları arasında üstünlük sıralaması
+anlamına gelmeyip, belli Devlet yetki ve görevlerinin kullanılmasından
+ibaret ve bununla sınırlı medeni bir işbölümü ve işbirliği olduğu ve
+üstünlüğün ancak Anayasa ve kanunlarda bulunduğu;
 
-— Hiçbir düşünce ve mülahazanın Türk millî menfaatlerinin, Türk
-varlığının Devleti ve ülkesiyle bölünmezliği esasının, Türklüğün tarihî
-ve manevî değerlerinin, Atatürk milliyetçiliği, ilke ve inkılâpları ve
+Hiçbir düşünce ve mülahazanın Türk milli menfaatlerinin, Türk
+varlığının, Devleti ve ülkesiyle bölünmezliği esasının, Türklüğün tarihi
+ve manevi değerlerinin, Atatürk milliyetçiliği, ilke ve inkılapları ve
 medeniyetçiliğinin karşısında korunma göremeyeceği ve lâiklik ilkesinin
-gereği kutsal din duygularının, Devlet işlerine ve politikaya kesinlikle
-karıştırılmayacağı;
+gereği olarak kutsal din duygularının, Devlet işlerine ve politikaya
+kesinlikle karıştırılamayacağı;
 
-— Her Türk vatandaşının bu Anayasadaki temel hak ve hürriyetlerden
-eşitlik ve sosyal adalet gereklerince yararlanarak millî kültür,
-medeniyet ve hukuk düzeni içinde onurlu bir hayat sürdürme ve maddî ve
-manevî varlığını bu yönde geliştirme hak ve yetkisine doğuştan sahip
-olduğu;
+Her Türk vatandaşının bu Anayasadaki temel hak ve hürriyetlerden eşitlik
+ve sosyal adalet gereklerince yararlanarak milli kültür, medeniyet ve
+hukuk düzeni içinde onurlu bir hayat sürdürme ve maddi ve manevi
+varlığını bu yönde geliştirme hak ve yetkisine doğuştan sahip olduğu;
 
-— Topluca Türk vatandaşlarının mîllî gurur ve iftiharlarda, millî sevinç
-ve kederlerde, millî varlığa karşı hak ve ödevlerde, nimet ve
+Topluca Türk vatandaşlarının milli gurur ve iftiharlarda, milli sevinç
+ve kederlerde, milli varlığa karşı hak ve ödevlerde, nimet ve
 külfetlerde ve millet hayatının her türlü tecellisinde ortak olduğu,
-birbirinin hak ve hürriyetine kesin saygı, karşılıklı içten sevgi ve
-kardeşlik duygularıyla ve «Yurtta sulh, cihanda sulh» arzu ve inancı
+birbirinin hak ve hürriyetlerine kesin saygı, karşılıklı içten sevgi ve
+kardeşlik duygularıyla ve "Yurtta sulh, cihanda sulh" arzu ve inancı
 içinde, huzurlu bir hayat talebine hakları bulunduğu;
 
-FİKİR, İNANÇ ve KARARIYLA anlaşılmak, sözüne ve ruhuna bu yönde saygı ve
+FİKİR, İNANÇ VE KARARIYLA anlaşılmak, sözüne ve ruhuna bu yönde saygı ve
 mutlak sadakatle yorumlanıp uygulanmak üzere,
 
 TÜRK MİLLETİ TARAFINDAN, demokrasiye âşık Türk evlatlarının vatan ve
@@ -567,29 +559,26 @@ Dernek kurma hürriyetinin kullanılmasında
 
 uygulanacak şekil, şart ve usuller kanunla gösterilir.
 
-Dernekler, 13 üncü maddedeki genel sınırlamalara aykırı hareket
-edemeyecekleri gibi; siyasî amaç güdemezler,siyasî faaliyette
-bulunamazlar, siyasî partilerden destek göremez ve onlara destek
-olamazlar, sendikalarla, kamu kurumu niteliğindeki meslek kuruluşları ve
-vakıflarla bu amaçla ortak hareket edemezler.
+**(Mülga dördüncü fıkra: 23/7/1995-4121/2 md.)**
 
-Kuruluş amaç ve şartlarını kaybeden yahut kanunun öngördüğü
-yükümlülükleri yerine getirmeyen dernekler, kendiliğinden dağılmış
-sayılır.
+**(Mülga beşinci fıkra: 23/7/1995-4121/2 md.)**
 
-Dernekler, kanunun öngördüğü hallerde hâkim kararıyla kapatılabilir.
-Devletin ülkesi ve milletiyle bölünmez bütünlüğünün, millî güvenliğin,
-millî egemenliğin, kamu düzeninin, başkalarının hak ve hürriyetlerinin
-korunması ve suçların önlenmesi bakımlarından gecikilmesinde sakınca
-bulunan hallerde, hâkim kararına kadar kanunen yetkili kılman merciin
-emriyle faaliyetten alıkonulabilir.
+**(Değişik altıncı fıkra: 23/7/1995-4121/2 md.)** Dernekler, kanunun
+öngördüğü hallerde hâkim kararıyla kapatılabilir veya faaliyetten
+alıkonulabilir. Ancak, milli güvenliğin, kamu düzeninin, suç işlenmesini
+veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde
+gecikmede sakınca varsa, kanunla bir merci, derneği faaliyetten men ile
+yetkilendirilebilir. Bu merciin kararı, yirmidört saat içerisinde
+görevli hakimin onayına sunulur. Hâkim, kararını kırksekiz saat içinde
+açıklar; aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.
 
-Birinci fıkra hükmü, Silahlı Kuvvetler ve kolluk kuvvetleri mensupları
-ile kamu hizmeti görevlilerinin dernek kurma haklarına başkaca
-sınırlamalar getirilmesine veya bu hürriyeti kullanmalarının
-yasaklanmasına engel değildir.
+**(Değişik yedinci fıkra: 23/7/1995-4121/2 md.)** Birinci fıkra hükmü,
+Silahlı Kuvvetler ve kolluk kuvvetleri mensuplarına ve görevlerinin
+gerektirdiği ölçüde Devlet memurlarına kanunla sınırlamalar
+getirilmesine engel değildir.
 
-Bu madde hükmü vakıflara ve bu nitelikteki kuruluşlara da uygulanır.
+**(Değişik sekizinci fıkra: 23/7/1995-4121/2 md.)** Bu madde hükümleri
+vakıflarla ilgili olarak da uygulanır.
 
 *B. Toplantı ve gösteri yürüyüşü düzenleme hakk*ı
 
@@ -878,20 +867,7 @@ aykırı olamaz.
 
 *D. Sendikal faaliyet*
 
-**Madde 52 – **Sendikalar, 13 üncü maddede sayılan genel sınırlamalara
-aykırı hareket edemeyecekleri gibi; siyasî amaç güdemezler, siyasî
-faaliyette bulunamazlar, siyasî partilerden destek göremezler ve onlara
-destek olamazlar; derneklerle, kamu kurumu niteliğindeki meslek
-kuruluşları ve vakıflarla bu amaçlarla ortak hareket edemezler.
-
-İşyerinde sendikal faaliyette bulunma, o işyerinde çalışmamayı haklı
-göstermez.
-
-Sendikalar üzerindeki Devletin idarî ve malî denetimi ile gelir ve
-giderleri, üye aidatının sendikaya ödenme şekli kanunla düzenlenir.
-
-Sendikalar gelirlerini amaçları dışında kullanamazlar; tüm gelirlerini
-Devlet bankalarında muhafaza ederler.
+**Madde 52 – (Mülga: 23/7/1995-4121/3 md.)**
 
 *VI. Toplu iş sözleşmesi, grev hakkı ve lokavt*
 
@@ -902,6 +878,21 @@ sosyal durumlarını ve çalışma şartlarını düzenlemek amacıyla toplu iş
 sözleşmesi yapma hakkına sahiptirler.
 
 Toplu iş sözleşmesinin nasıl yapılacağı kanunla düzenlenir.
+
+**(Ek fıkra: 23/7/1995-4121/4 md.)** 128 inci maddenin ilk fıkrası
+kapsamına giren kamu görevlilerinin kanunla kendi aralarında kurmalarına
+cevaz verilecek olan ve bu maddenin birinci ve ikinci fıkraları ile 54
+üncü madde hükümlerine tabi
+
+olmayan sendikalar ve üst kuruluşları, üyeleri adına yargı mercilerine
+başvurabilir ve İdareyle amaçları doğrultusunda toplu görüşme
+yapabilirler. Toplu görüşme sonunda anlaşmaya varılırsa düzenlenecek
+mutabakat metni taraflarca imzalanır. Bu mutabakat metni, uygun idari
+veya kanuni düzenlemenin yapılabilmesi için Bakanlar Kurulunun takdirine
+sunulur. Toplu görüşme sonunda mutabakat metni imzalanmamışsa anlaşma ve
+anlaşmazlık noktaları da taraflarca imzalanacak bir tutanakla Bakanlar
+Kurulunun takdirine sunulur. Bu fıkranın uygulanmasına ilişkin usuller
+kanunla düzenlenir.
 
 Aynı işyerinde, aynı dönem için, birden fazla toplu iş sözleşmesi
 yapılamaz ve uygulanamaz.
@@ -1081,89 +1072,116 @@ kapatılamaz.
 seçme, seçilme ve bağımsız olarak veya bir siyasî parti içinde siyasî
 faaliyette bulunma ve halkoylamasına katılma hakkına sahiptir.
 
-Seçimler ve halkoylaması serbest, eşit, gizli, tek dereceli, genel oy,
-açık sayım ve döküm esaslarına göre, yargı yönetim ve denetimi altında
-yapılır.
+**(Değişik ikinci fıkra: 23/7/1995-4121/5 md.)** Seçimler ve
+halkoylaması serbest, eşit, gizli, tek dereceli, genel oy,
 
-**(Değişik üçüncü fıkra: 17/5/1987-3361/1 md.)** Seçimlerin ve
-halkoylamasının yapıldığı yılda, ay ve gün hesaba katılmaksızın, 20
-yaşına giren her Türk vatandaşı seçme ve halkoylamasına katılma hakkına
-sahiptir.
+açık sayım ve döküm esaslarına göre, yargı yönetim ve denetimi altında
+yapılır. Ancak, yurt dışında bulunan Türk vatandaşlarının oy hakkını
+kullanabilmeleri amacıyla kanun, uygulanabilir tedbirleri belirler.
+
+**(Değişik üçüncü fıkra: 23/7/1995-4121/5 md.)** Onsekiz yaşını dolduran
+her Türk vatandaşı seçme ve halkoylamasına katılma haklarına sahiptir.
 
 Bu hakların kullanılması kanunla düzenlenir.
 
-Silah altında bulunan er ve erbaşlarla, askerî öğrenciler, ceza ve
-tevkif evlerinde bulunan tutuklular ve hükümlüler oy kullanamazlar.
+**(Değişik beşinci fıkra: 23/7/1995-4121/5 md.)** Silah altında bulunan
+er ve erbaşlar ile askeri öğrenciler, ceza infaz kurumlarında bulunan
+hükümlüler oy kullanamazlar. Ceza infaz kurumları ve tutukevlerinde
+bulunan tutukluların seçme haklarını kullanmalarında, oyların sayım ve
+dökümünde seçim emniyeti açısından alınması gerekli tedbirler Yüksek
+Seçim Kurulu tarafından tespit edilir ve görevli hâkimin yerinde yönetim
+ve denetimi altında yapılır.
+
+**(Ek altıncı fıkra: 23/7/1995-4121/5 md.)** Seçim kanunları, temsilde
+adalet ve yönetimde istikrar ilkelerini bağdaştıracak biçimde
+düzenlenir.
 
 *III. Siyasi partilerle ilgili hükümler*
 
-*A. Parti kurma, partilere girme ve partilerden çıkma*
+*A. Parti kurma, partilere girme ve partilerden ayrılma ^(1)^*
 
-**Madde 68 – **Vatandaşlar, siyasî parti kurma ve usulüne göre partilere
-girme ve partilerden çıkma hakkına sahiptir. Parti üyesi olabilmek için
-yirmibir yaşını ikmal etmek şarttır.
+**Madde 68 – (Değişik: 23/7/1995-4121/6 md.) **
 
-Siyasî partiler, demokratik siyasî hayatın vazgeçilmez unsurlarıdır.
+Vatandaşlar, siyasi parti kurma ve usulüne göre partilere girme ve
+partilerden ayrılma hakkına sahiptir. Parti üyesi olabilmek için onsekiz
+yaşını doldurmuş olmak gerekir.
 
-Siyasî partiler, önceden izin almadan kurulurlar ve Anayasa ve kanun
-hükümleri içinde faaliyetlerini sürdürürler.
+Siyasi partiler, demokratik siyasi hayatın vazgeçilmez unsurlarıdır.
 
-Siyasî partilerin tüzük ve programları, Devletin ülkesi ve milletiyle
-bölünmez bütünlüğüne, insan haklarına, millet egemenliğine, demokratik
-ve lâik Cumhuriyet ilkelerine aykırı olamaz.
+Siyasi partiler önceden izin almadan kurulurlar ve Anayasa ve kanun
+hükümleri içerisinde faaliyetlerini sürdürürler.
 
-Sınıf veya zümre egemenliğini veya herhangi bir tür diktatörlüğü
-savunmayı ve yerleştirmeyi amaçlayan siyasî partiler kurulamaz.
+Siyasi partilerin tüzük ve programları ile eylemleri, Devletin
+bağımsızlığına, ülkesi ve milletiyle bölünmez bütünlüğüne, insan
+haklarına, eşitlik ve hukuk devleti ilkelerine, millet egemenliğine,
+demokratik ve lâik Cumhuriyet ilkelerine aykırı olamaz; sınıf veya zümre
+diktatörlüğünü veya herhangi bir tür diktatörlüğü savunmayı ve
+yerleştirmeyi amaçlayamaz; suç işlenmesini teşvik edemez.
 
-Siyasî partiler, yurt dışında teşkilatlanıp faaliyette bulunamaz, kadın
-kolu, gençlik kolu ve benzeri şekilde ayrıcalık yaratan yan kuruluşlar
-meydana getiremez, vakıf kuramazlar.
-
-Hâkimler ve savcılar, yüksek yargı organları mensupları, yükseköğretim
-kurumlarındaki öğretim elemanları, Yükseköğretim Kurulu üyeleri, kamu
-kurum ve kuruluşlarının memur statüsündeki görevlileri ile yaptıkları
+Hâkimler ve savcılar, Sayıştay dahil yüksek yargı organları mensupları,
+kamu kurum ve kuruluşlarının memur statüsündeki görevlileri, yaptıkları
 hizmet bakımından işçi niteliği taşımayan diğer kamu görevlileri,
-öğrenciler ve Silahlı Kuvvetler mensupları siyasî partilere giremezler.
+Silahlı Kuvvetler mensupları ile yükseköğretim öncesi öğrencileri siyasi
+partilere üye olamazlar.
+
+Yüksek öğretim elemanlarının siyasi partilere üye olmaları ancak kanunla
+düzenlenebilir. Kanun bu elemanların, siyasi partilerin merkez organları
+dışında kalan parti görevi almalarına cevaz veremez ve parti üyesi
+yüksek öğretim elemanlarının yüksek öğretim kurumlarında uyacakları
+esasları belirler.
+
+Yüksek öğretim öğrencilerinin siyasi partilere üye olabilmelerine
+ilişkin esaslar kanunla düzenlenir.
+
+Siyasi partilere, Devlet, yeterli düzeyde ve hakça mali yardım yapar.
+Partilere yapılacak yardımın, alacakları üye aidatının ve bağışların
+tabi olduğu esaslar kanunla düzenlenir.
 
 *B. Siyasi partilerin uyacakları esaslar*
 
-**Madde 69 –** Siyasî partiler, tüzük ve programları dışında faaliyette
-bulunamazlar; Anayasanın 14 üncü maddesindeki sınırlamalar dışına
-çıkamazlar; çıkanlar temelli kapatılır.
+**Madde 69 – (Değişik: 23/7/1995-4121/7 md.) **
 
-Siyasî partiler, kendi siyasetlerini yürütmek ve güçlendirmek amacıyla
-dernekler, sendikalar, vakıflar, kooperatifler ve kamu kurumu
-niteliğindeki meslek kuruluşları ve bunların üst kuruluşları ile siyasî
-ilişki ve işbirliği içinde bulunamazlar. Bunlardan maddî yardım
-alamazlar.
+Siyasi partilerin faaliyetleri, parti içi düzenlemeleri ve çalışmaları
+demokrasi ilkelerine uygun olur. Bu ilkelerin uygulanması kanunla
+düzenlenir.
 
-Siyasî partilerin parti içi çalışmaları ve kararları, demokrasi
-esaslarına aykırı olamaz.
+Siyasi partiler, ticari faaliyetlere girişemezler.
 
-Siyasî partilerin malî denetimi Anayasa Mahkemesince yapılır.
+Siyasi partilerin gelir ve giderlerinin amaçlarına uygun olması
+gereklidir. Bu kuralın uygulanması kanunla düzenlenir. Anayasa
+Mahkemesince siyasi partilerin mal edinimleri ile gelir ve giderlerinin
+kanuna uygunluğunun tespiti, bu hususun denetim yöntemleri ve aykırılık
+halinde uygulanacak yaptırımlar kanunda gösterilir. Anayasa Mahkemesi,
+bu denetim görevini yerine getirirken Sayıştaydan yardım sağlar. Anayasa
+Mahkemesinin bu denetim sonunda vereceği kararlar kesindir.
 
-Cumhuriyet Başsavcılığı, kurulan partilerin tüzük ve programlarının ve
-kurucularının hukukî durumlarının Anayasa ve kanun hükümlerine
-uygunluğunu, kuruluşlarını takiben ve öncelikle denetler; faaliyetlerini
-de takip eder.
+Siyasi partilerin kapatılması, Yargıtay Cumhuriyet Başsavcısının açacağı
+dava üzerine Anayasa Mahkemesince kesin olarak karara bağlanır.
 
-Siyasî partilerin kapatılması, Cumhuriyet Başsavcılığının açacağı dava
-üzerine, Anayasa Mahkemesince karara bağlanır.
+Bir siyasi partinin tüzüğü ve programının 68 inci maddenin dördüncü
+fıkrası hükümlerine aykırı bulunması halinde temelli kapatma kararı
+verilir.
 
-Temelli kapatılan siyasî partilerin kurucuları ile her kademedeki
-yöneticileri; yeni bir siyasî partinin kurucusu, yöneticisi ve denetçisi
-olamayacakları gibi, kapatılmış bir siyasî partinin mensuplarının üye
-çoğunluğunu teşkil edeceği yeni bir siyasî parti de kurulamaz.
+Bir siyasi partinin 68 inci maddenin dördüncü fıkrası hükümlerine aykırı
+eylemlerinden ötürü temelli kapatılmasına, ancak, onun bu nitelikteki
+fiillerin işlendiği bir odak haline geldiğinin Anayasa Mahkemesince
+tespit edilmesi halinde karar verilir.
 
-Siyasî partiler, yabancı devletlerden, Uluslararası kuruluşlardan,
-yabancı ülkelerdeki dernek ve gruplardan herhangi bir suretle aynî ve
-nakdî yardım alamazlar, bunlardan emir alamazlar ve bunların Türkiyenin
-bağımsızlığı ve ülke bütünlüğü aleyhindeki karar ve faaliyetlerine
-katılamazlar. Bu fıkra hükümlerine aykırı hareket eden siyasî partiler
-de temelli kapatılır.
+Temelli kapatılan bir parti bir başka ad altında kurulamaz.
 
-Siyasî partilerin kuruluş ve faaliyetleri, denetleme ve kapatılmaları
-yukarıdaki esaslar dairesinde kanunla düzenlenir.
+Bir siyasi partinin temelli kapatılmasına beyan veya faaliyetleriyle
+sebep olan kurucuları dahil üyeleri, Anayasa Mahkemesinin temelli
+kapatmaya ilişkin kesin kararının Resmi Gazetede gerekçeli olarak
+yayımlanmasından başlayarak beş yıl süreyle bir başka partinin kurucusu,
+üyesi, yöneticisi ve deneticisi olamazlar.
+
+Yabancı devletlerden, uluslararası kuruluşlardan ve Türk uyrukluğunda
+olmayan gerçek ve tüzel kişilerden maddi yardım alan siyasi partiler
+temelli olarak kapatılır.
+
+Siyasi partilerin kuruluş ve çalışmaları, denetlenme ve kapatılmaları
+ile siyasi partilerin ve adayların seçim harcamaları ve usulleri
+yukarıdaki esaslar çerçevesinde kanunla düzenlenir.
 
 *IV. Kamu hizmetlerine girme hakkı *
 
@@ -1185,6 +1203,12 @@ yürütme organlarında görev alanlar, bundan istisna edilemez.
 **Madde 72 – **Vatan hizmeti, her Türkün hakkı ve ödevidir. Bu hizmetin
 Silahlı Kuvvetlerde veya kamu kesiminde ne şekilde yerine getirileceği
 veya getirilmiş sayılacağı kanunla düzenlenir.
+
+–––––––––––––––
+
+*(1) Bu madde başlığı, “A. Parti kurma, partilere girme ve partilerden
+çıkma” iken, 23/7/1995 tarihli ve 4121 sayılı Kanunun 6 ncı maddesiyle
+metne işlendiği şekilde değiştirilmiştir.*
 
 *VI. Vergi ödevi *
 
@@ -1225,10 +1249,10 @@ YASAMA
 
 *A. Kuruluşu: *
 
-**Madde 75 – (Değişik: 17/5/1987-3361/2 md.)**
+**Madde 75 – (Değişik: 23/7/1995-4121/8 md.)**
 
-Türkiye Büyük Millet Meclisi, milletçe genel oyla seçilen dörtyüzelli
-milletvekilinden kurulur.
+Türkiye Büyük Millet Meclisi genel oyla seçilen beşyüzelli
+milletvekilinden oluşur.
 
 *B. Milletvekili seçilme yeterliliği *
 
@@ -1383,35 +1407,47 @@ yeniden dokunulmazlığını kaldırmasına bağlıdır.
 Türkiye Büyük Millet Meclisindeki siyasi parti gruplarınca, yasama
 dokunulmazlığı ile ilgili görüşme yapılamaz ve karar alınamaz.
 
-*5. Üyeliğin düşmesi *
+*5. Milletvekilliğinin düşmesi ^(1)^*
 
-**Madde 84 – **İstifa eden, Türkiye Büyük Millet Meclisine seçilmeye
-engel bir suçtan dolayı hüküm giyen, kısıtlanan, partisinden istifa
-ederek; başka bir partiye giren veya seçim hükümetleri hariç Bakanlar
-Kurulunda görev alan, üyelikle bağdaşmayan bir hizmet kabul eden, Meclis
-çalışmalarına özürsüz olarak bir ay içinde toplam beş birleşim günü
-katılmayanların üyeliğinin düşmesine, üye tamsayısının salt çoğunluğu
-ile karar verilir.
+**Madde 84 – (Değişik: 23/7/1995-4121/9 md.) **
 
-Partisinden istifa eden milletvekili bir sonraki seçimde, istifa
-tarihinde mevcut herhangi bir partinin genel merkez organlarınca aday
-gösterilemez.
+İstifa eden milletvekilinin milletvekilliğinin düşmesi, istifanın
+geçerli olduğu Türkiye Büyük Millet Meclisi Başkanlık Divanınca tespit
+edildikten sonra, Türkiye Büyük Millet Meclisi Genel Kurulunca
+kararlaştırılır.
 
-Anayasa Mahkemesinin kararında partinin kapatılmasına eylem ve sözleri
-ile sebebiyet verdiği belirtilen milletvekilinin üyeliği ile temelli
-olarak kapatılan siyasî partinin, kapatılmasına ilişkin davanın açıldığı
-tarihte, parti üyesi olan diğer milletvekillerinin üyeliği, kapatma
-kararının Türkiye Büyük Millet Meclisi Başkanlığına tebliğ edildiği
-tarihte sona erer.
+Milletvekilliğinin kesin hüküm giyme veya kısıtlanma halinde düşmesi, bu
+husustaki kesin mahkeme kararının Genel Kurula bildirilmesiyle olur.
+
+82 nci maddeye göre milletvekilliğiyle bağdaşmayan bir görev veya
+hizmeti sürdürmekte ısrar eden milletvekilinin milletvekilliğinin
+düşmesine, yetkili komisyonun bu durumu tespit eden raporu üzerine Genel
+Kurul gizli oyla karar verir.
+
+Meclis çalışmalarına özürsüz veya izinsiz olarak bir ay içerisinde
+toplam beş birleşim günü katılmayan milletvekilinin milletvekilliğinin
+düşmesine, durumun Meclis Başkanlık Divanınca tespit edilmesi üzerine,
+Genel Kurulca üye tamsayısının salt çoğunluğunun oyuyla karar
+verilebilir.
+
+Partisinin temelli kapatılmasına beyan ve eylemleriyle sebep olduğu
+Anayasa Mahkemesinin temelli kapatmaya ilişkin kesin kararında
+belirtilen milletvekilinin milletvekilliği, bu kararın Resmi Gazetede
+gerekçeli olarak yayımlandığı tarihte sona erer. Türkiye Büyük Millet
+Meclisi Başkanlığı bu kararın gereğini derhal yerine getirip Genel
+Kurula bilgi sunar.
 
 *6. İptal istemi*
 
-**Madde 85 – **Yasama dokunulmazlığının kaldırılmasına veya üyeliğin
-düştüğüne Meclisçe karar verilmesi hallerinde, karar tarihinden
-başlayarak bir hafta içinde, ilgili üye veya Türkiye Büyük Millet
-Meclisi üyelerinden herhangi biri, bu kararın, Anayasa veya İçtüzük
-hükümlerine aykırılığı iddiasıyla iptali için Anayasa Mahkemesine
-başvurabilir. Anayasa Mahkemesi, iptal istemini onbeş gün içinde karara
+**Madde 85 – (Değişik: 23/7/1995-4121/10 md.)**
+
+Yasama dokunulmazlığının kaldırılmasına veya milletvekilliğinin
+düşmesine 84 üncü maddenin birinci, üçüncü veya dördüncü fıkralarına
+göre karar verilmiş olması hallerinde, Meclis Genel Kurulu kararının
+alındığı tarihten başlayarak yedi gün içerisinde ilgili milletvekili
+veya bir diğer milletvekili, kararın, Anayasaya, kanuna veya İçtüzüğe
+aykırılığı iddiasıyla iptali için Anayasa Mahkemesine başvurabilir.
+Anayasa Mahkemesi, iptal istemini onbeş gün içerisinde kesin karara
 bağlar.
 
 *7. Ödenek ve yolluklar*
@@ -1493,6 +1529,12 @@ birinci fıkra hükmü uygulanır. Usulüne göre yürürlüğe konulmuş
 milletlerarası andlaşmalar kanun hükmündedir. Bunlar hakkında Anayasaya
 aykırılık iddiası ile Anayasa Mahkemesine başvurulamaz.
 
+–––––––––––––––––
+
+*(1) Bu madde başlığı “5. Üyeliğin düşmesi” iken, 23/7/1995 tarihli ve
+4121 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
 *E. Kanun hükmünde kararname çıkarma yetkisi verme*
 
 **Madde 91 – **Türkiye Büyük Millet Meclisi, Bakanlar Kuruluna kanun
@@ -1554,8 +1596,9 @@ verebilir.
 
 *A. Toplanma ve tatil*
 
-**Madde 93 –** Türkiye Büyük Millet Meclisi, her yıl Eylül ayının ilk
-günü kendiliğinden toplanır.
+**Madde 93 – (Değişik birinci fıkra: 23/7/1995-4121/11 md.)** Türkiye
+Büyük Millet Meclisi, her yıl Ekim ayının ilk günü kendiliğinden
+toplanır.
 
 Meclis, bir yasama yılında en çok üç ay tatil yapabilir; ara verme veya
 tatil sırasında, doğrudan doğruya veya Bakanlar Kurulunun istemi
@@ -2252,9 +2295,14 @@ tarafından seçilerek oluşturulan kamu tüzelkişileridir.
 Mahalli idarelerin kuruluş ve görevleri ile yetkileri, yerinden yönetim
 ilkesine uygun olarak kanunla düzenlenir.
 
-Mahallî idarelerin seçimleri, Anayasanın 67 nci maddesindeki esaslara
-göre beş yılda bir yapılır. Kanun, büyük yerleşim merkezleri için özel
-yönetim biçimleri getirebilir.
+**(Değişik üçüncü fıkra: 23/7/1995-4121/12 md.)** Mahalli idarelerin
+seçimleri, 67 nci maddedeki esaslara göre beş
+
+yılda bir yapılır. Ancak, milletvekili genel veya ara seçiminden önceki
+veya sonraki bir yıl içinde yapılması gereken mahalli idareler
+organlarına veya bu organların üyelerine ilişkin genel veya ara seçimler
+milletvekili genel veya ara seçimleriyle birlikte yapılır. Kanun, büyük
+yerleşim merkezleri için özel yönetim biçimleri getirebilir.
 
 Mahalli idarelerin seçilmiş organlarının, organlık sıfatını
 kazanmalarına ilişkin itirazların çözümü ve kaybetmeleri, konusundaki
@@ -2450,32 +2498,29 @@ Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve
 sürekli görevlerde çalışanların meslek kuruluşlarına girme mecburiyeti
 aranmaz.
 
-Meslek kuruluşları, kuruluş amaçları dışında faaliyet gösteremezler;
-siyasetle uğraşamazlar, siyasî partiler, sendikalar ve derneklerle ortak
-hareket edemezler.
+**(Değişik fıkra: 23/7/1995-4121/13 md.)** Bu meslek kuruluşları,
+kuruluş amaçları dışında faaliyette bulunamazlar.
 
-Siyasî partiler, sendikalar ve sendika üst kuruluşları; meslek
-kuruluşlarının ve üst kuruluşları organlarının seçimlerinde aday
-gösteremezler ve belirli adayların leh veya aleyhlerinde faaliyette
-bulunamazlar ve propaganda yapamazlar.
+**(Değişik fıkra: 23/7/1995-4121/13 md.)** Bu meslek kuruluşları ve üst
+kuruluşları organlarının seçimlerinde siyasi partiler aday
+gösteremezler.
 
-Kamu kurumu niteliğindeki meslek kuruluşları, kanunda gösterildiği
-şekilde Devletin idarî ve malî denetimine tâbidir.
+**(Değişik fıkra: 23/7/1995-4121/13 md.)** Bu meslek kuruluşları
+üzerinde Devletin idari ve mali denetimine ilişkin kurallar kanunla
+düzenlenir.
 
-Amaçları dışında faaliyet gösteren ve siyasetle uğraşan meslek
-kuruluşlarının sorumlu organlarının görevine, kanunun belirttiği merciin
-istemi üzerine, mahkeme kararı ile son verilir ve yerlerine yenileri
-seçtirilir.
+**(Değişik fıkra: 23/7/1995-4121/13 md.)** Amaçları dışında faaliyet
+gösteren meslek kuruluşlarının sorumlu organlarının görevine, kanunun
+belirlediği merciin veya Cumhuriyet savcısının istemi üzerine mahkeme
+kararıyla son verilir ve yerlerine yenileri seçtirilir.
 
-Türk Devletinin varlık ve bağımsızlığının, ülkenin ve milletin bölünmez
-bütünlüğünün, toplumun huzurunun korunması ve Devletin Anayasada
-belirtilen temel niteliklerini tehdit edici faaliyetlerin önlenmesi
-bakımından gecikmesinde sakınca bulunan hallerde mahallin en büyük mülkî
-amiri bu organları geçici olarak görevden uzaklaştırabilir.
-
-Görevden uzaklaştırma kararı; üç gün içinde mahkemeye bildirilir.
-Mahkeme görevden uzaklaştırma kararının yerinde olup olmadığına en geç
-on gün içinde karar verir.
+**(Değişik fıkra: 23/7/1995-4121/13 md.)** Ancak, milli güvenliğin, kamu
+düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut
+yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, kanunla bir
+merci, meslek kuruluşlarını veya üst kuruluşlarını faaliyetten men ile
+yetkilendirilebilir. Bu merciin kararı, yirmidört saat içerisinde
+görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde
+açıklar; aksi halde, bu idari karar kendiliğinden yürürlükten kalkar.
 
 *İ. Diyanet İşleri Başkanlığı*
 
@@ -2749,7 +2794,11 @@ düzenlenir.
 Anayasa Mahkemesi Yüce Divan sıfatıyla baktığı davalar dışında kalan
 işleri dosya üzerinde inceler. Ancak, gerekli gördüğü hallerde sözlü
 açıklamalarını dinlemek üzere ilgilileri ve konu üzerinde bilgisi
-olanları çağırabilir.
+olanları çağırabilir. **(Ek cümle: 23/7/1995-4121/14 md.)** ve siyasi
+partilerin temelli kapatılması veya kapatılmasına ilişkin davalarda,
+Yargıtay Cumhuriyet Başsavcısından sonra kapatılması istenen siyasi
+partinin genel başkanlığının veya tayin edeceği bir vekilin savunmasını
+dinler.
 
 *5. İptal davası*
 
@@ -3174,8 +3223,7 @@ olarak derhal ağaçlandırılır.
 öncelikle üretimin artırılmasını ve tüketicinin korunmasını amaçlayan
 kooperatifçiliğin gelişmesini sağlayacak tedbirleri alır.
 
-Kooperatifler, Devletin her türlü kontrol ve denetimine tâbi olup,
-siyasetle uğraşamaz ve siyasî partilerle işbirliği yapamazlar.
+**(Mülga son fıkra: 23/7/1995-4121/15 md.)**
 
 *VI. Tüketiciler ile esnaf ve sanatkarların korunması *
 
@@ -3556,26 +3604,52 @@ değişik hükümlerine göre yapılır.
 maddesinde yapılan değişiklik ilk milletvekili genel seçiminde, diğer
 maddeleri ise bu Kanunun yayımı tarihinde yürürlüğe girer.
 
+**2- 23/7/1995 tarihli ve 4121 sayılı Kanunun 16 ncı maddesi:**
+
+**Madde 16 – **Bu Kanunun halkoylamasına sunulması halinde,
+
+1 inci maddesi,
+
+2, 3, 13 ve 15 inci maddeleri birlikte,
+
+4 üncü maddesi,
+
+5 inci maddesi,
+
+6, 7 ve 14 üncü maddeleri birlikte,
+
+8 inci maddesi ve 17 nci maddesinin ilk fıkrası birlikte,
+
+9 ve 10 uncu maddeleri birlikte,
+
+11 inci maddesi,
+
+12 nci maddesi,
+
+Ayrı ayrı oylanır.
+
+Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------- ----------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Değiştiren **        **2709 sayılı Kanunun değişen maddeleri**             **Yürürlüğe Giriş Tarihi**
-                                                                               
-  **Kanunun Numarası**                                                         
+  ---------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Değiştiren **        **2709 sayılı Kanunun değişen maddeleri**                                                  **Yürürlüğe Giriş Tarihi**
+                                                                                                                    
+  **Kanunun Numarası**                                                                                              
 
-  3361                   67, 75, 175, Geçici Madde 4 ve İşlenemeyen Hükümler   Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.
+  3361                   67, 75, 175, Geçici Madde 4 ve İşlenemeyen Hükümler                                        Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.
 
-  3913                   133                                                   10/7/1993
+  3913                   133                                                                                        10/7/1993
 
-                                                                               
+  4121                   BAŞLANGIÇ hükmü, 33, 52, 53, 67, 68, 69, 84,85, 93, 127, 135,149, 171, İşlenemeyen Hüküm   26/7/1995
 
-                                                                               
+                         75                                                                                         İlk milletvekili genel seçiminin başlangıcı tarihinden itibaren
 
-                                                                               
-  ---------------------- ----------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                    
+  ---------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
