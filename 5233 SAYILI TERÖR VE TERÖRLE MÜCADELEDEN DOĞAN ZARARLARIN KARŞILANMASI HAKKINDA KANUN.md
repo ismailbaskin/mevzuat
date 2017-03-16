@@ -1,4 +1,4 @@
-**6495 sayılı Kanun ile değişik hali**
+8927
 
 **TERÖR VE TERÖRLE MÜCADELEDEN DOĞAN**
 
@@ -113,10 +113,9 @@ kuruluşlarınca uygulanmış projelerin, zararın giderilmesine katkıları;
 zarar görenin değerlendirebileceği enkaz ve diğer yararlar; sigorta
 şirketlerince veya ilgili mevzuata göre kamu kurum ve kuruluşları ile
 sosyal güvenlik kuruluşlarınca ödenen tazminatlar, tedavi ve cenaze
-giderleri ile Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonundan yapılan
-yardımların zarar miktarından mahsup edilmesi suretiyle belirlenen ve 9
-uncu veya 10 uncu maddelere göre yapılan nakdî veya aynî ödeme miktarını
-içeren sulhname tasarılarını hazırlamak.
+giderlerinin (…) ^(2)^ zarar miktarından mahsup edilmesi suretiyle
+belirlenen ve 9 uncu veya 10 uncu maddelere göre yapılan nakdî veya aynî
+ödeme miktarını içeren sulhname tasarılarını hazırlamak. ^(2)^
 
 c\) Sulhname tasarısının kabul edilmemesi veya 12 nci maddenin ikinci
 fıkrasına göre kabul edilmemiş sayılması hâllerinde bir uyuşmazlık
@@ -129,9 +128,14 @@ tespit edilmesi hâlinde, buna ilişkin karar tutanağı düzenleyerek bir
 –––––––––––––––
 
 *(1) 28/12/2005 tarihli ve 5442 sayılı Kanunun 2 nci maddesiyle; bu
-maddenin (c) ve (d) bentlerinde geçen "birer" ibareleri"bir" şeklinde
+maddenin (c) ve (d) bentlerinde geçen "birer" ibareleri "bir" şeklinde
 değiştirilmiş, "ve Bakanlığa göndermek" ibareleri madde metninden
 çıkarılmıştır.*
+
+*(2) 2/1/2017 tarihli ve 684 sayılı KHK’nin 4 üncü maddesiyle, bu bentte
+yer alan “cenaze giderleri” ibaresi “cenaze giderlerinin” şeklinde
+değiştirilmiş ve “ile Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonundan
+yapılan yardımların” ibaresi yürürlükten kaldırılmıştır.*
 
 8928-1
 
@@ -341,8 +345,10 @@ Bakanlık, ellibin Yeni Türk Lirasının üzerindeki aynî ifa veya nakdî
 yıl 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri
 uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılır.
 
-Devletin ödeme nedeniyle genel hükümlere göre sorumlular hakkında rücu
-hakkı saklıdır.
+**(Değişik üçüncü fıkra: 27/3/2015-6638/17 md.)** Devlet, ödeme
+nedeniyle genel hükümlere göre sorumlulara rücu eder. Bu Kanun
+kapsamındaki rücu istemine ilişkin zamanaşımı süreleri bir kat
+artırılarak uygulanır.
 
 ––––––––––––––––––
 
@@ -492,10 +498,12 @@ bir yıl içinde sonuçlandırılır.
 –––––––––––––
 
 *(1) Bu madde gereğince yapılan başvuruların sonuçlandırılma
-süresi,18/6/2014 tarihli ve 29034 sayılı Resmi Gazete’de yayımlanan
-21/5/2014 tarihli ve 2014/6401 sayılı Bakanlar Kurulu Kararı Eki Kararın
-1 inci maddesiyle, 24/6/2013 tarihli ve 2013/5034 sayılı Bakanlar Kurulu
-Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
+süresi,16/4/2015 tarihli ve 29328 sayılı Resmi Gazete’de yayımlanan
+8/4/2015 tarihli ve 2015/7529 sayılı Bakanlar Kurulu Kararı Eki Kararın
+1 inci maddesiyle, 18/6/2014 tarihli ve 29034 sayılı Resmi Gazete’de
+yayımlanan 21/5/2014 tarihli ve 2014/6401 sayılı Bakanlar Kurulu Kararı
+Eki Kararın 1 inci maddesiyle uzatılan sürenin bitiminden itibaren bir
+yıl uzatılmıştır.*
 
 8932-1
 
@@ -507,7 +515,7 @@ başvuruların sonuçlandırılma süresi, maddelerde öngörülen
 sonuçlandırılma süresinin bitiminden itibaren bir yıl uzatılmıştır. Bu
 sürenin de bitmesi ve başvuruların sonuçlandırılamamış olması halinde,
 Bakanlar Kurulu bu süreyi her defasında bir yılı aşmamak üzere
-uzatabilir. ^(1)^
+uzatabilir.
 
 **Geçici Madde 4 – (Ek: 24/5/2007-5666/1 md.)**
 
@@ -536,6 +544,63 @@ ay başından itibaren 5510 sayılı Kanunda belirtilen usul ve esaslara
 göre aylığa hak kazanırlar. Ancak bu maddenin yürürlüğe girdiği tarihten
 önceki dönem için herhangi bir ödeme yapılmaz.
 
+**Geçici Madde 6-** **(Ek: 20/8/2016-6745/58 md.)**
+
+16/5/2012 tarihli ve 6306 sayılı Afet Riski Altındaki Alanların
+Dönüştürülmesi Hakkında Kanunun ek 1 inci maddesinin birinci fıkrasının
+(a) bendi uyarınca ilan edilen riskli alanlar ile Bakanlar Kurulunun
+22/10/2012 tarihli ve 2012/3900 sayılı ve 16/2/2016 tarihli ve 2016/8538
+sayılı kararları ile ilan edilen riskli alanlarda ve bu alanların
+dönüştürülmesi için kullanılacak rezerv yapı alanlarında 6306 sayılı
+Kanun ile birlikte bu Kanunun 6306 sayılı Kanuna aykırı olmayan
+hükümlerine ve aşağıdaki hükümlere göre uygulama yapılabilir.
+
+Bu alanlarda; imar planı, imar uygulaması, alt ve üst yapı projeleri,
+ruhsat ve yapım da dâhil olmak üzere bütün iş ve işlemler Çevre ve
+Şehircilik Bakanlığı tarafından resen yapılır, yaptırılır ve onaylanır.
+Bu alanlarda her tür ve ölçekteki meri imar planı, plan notları ve plan
+açıklama raporunda ilgili idarelere verilmiş görüş bildirme de dâhil her
+türlü görev ve yetkiler Çevre ve Şehircilik Bakanlığına geçer.
+
+8932-2
+
+7 nci maddenin birinci fıkrasının (a) bendi uyarınca taşınmazlara
+verilen zararların ayni olarak karşılanması esastır. Bu alanlarda
+yapılacak yapılardaki kat irtifakı veya kat mülkiyeti; hak sahiplerine,
+mülkiyet haklarına ve/veya oluşan zararlara karşılık, bağımsız
+bölümlerin devri yapılıncaya kadar Hazine adına kurulur. Ayrıca inşaat
+ruhsatı Hazine adına düzenlenir. Bu alanlarda yapılacak uygulamalarda
+tüm tapu ve kadastro işlemleri ile yıkım ve yapıma ilişkin her türlü
+izin ve ruhsat gibi iş ve işlemler ilgililerin muvafakatı aranmaksızın
+Çevre ve Şehircilik Bakanlığı tarafından resen yapılır veya yaptırılır.
+
+Parselasyon planlarında, gerekli görülmesi hâlinde ilk uygulamadaki
+düzenleme ortaklık payı oranını tamamlamak üzere düzenleme ortaklık payı
+kesintisi yapılabilir.
+
+Riskli alan ve bu alanların dönüştürülmesi için kullanılacak rezerv yapı
+alanlarına ilişkin Çevre ve Şehircilik Bakanlığınca onaylanan imar
+planları ve parselasyon planları ilgili çevre ve şehircilik il
+müdürlüğünde on beş gün süreyle ilan edilir. Bu planlara itiraz, ilan
+süresi içinde ilgili çevre ve şehircilik il müdürlüğüne yapılır ve
+itirazlar Çevre ve Şehircilik Bakanlığınca beş gün içerisinde
+değerlendirilir. İtirazların reddedilmesi hâlinde, planlar başkaca bir
+onay işlemine gerek kalmaksızın red kararı tarihinde kesinleşir. İtiraz
+olmaması hâlinde planlar askı süresinin sonunda kesinleşir.
+
+Çevre ve Şehircilik Bakanlığınca yapılan uygulamaya karşı, işlemin
+ilgilisine tebliğ tarihinden itibaren; imar ve parselasyon planlarına
+karşı ilan tarihinin bitiminden itibaren on beş gün içerisinde dava
+açılabilir. Mahkemece, idarenin savunmasının alınmasından sonra otuz gün
+içinde karar verilir, bu karara karşı on beş gün içinde temyiz yoluna
+gidilebilir.
+
+Bu madde uyarınca uygulama yapılan rezerv yapı alanlarında
+gerçekleştirilen her türlü mal ve hizmet alımları ile yapım işleri, ceza
+ve yasaklama hükümleri hariç 4/1/2002 tarihli ve 4734 sayılı Kamu İhale
+Kanunu hükümlerinden istisnadır. Bu fıkranın uygulanmasına ilişkin usul
+ve esaslar Çevre ve Şehircilik Bakanlığınca belirlenir.
+
 *Yürürlük *
 
 **Madde 18-** Bu Kanun yayımı tarihinde yürürlüğe girer.
@@ -544,7 +609,7 @@ göre aylığa hak kazanırlar. Ancak bu maddenin yürürlüğe girdiği tarihte
 
 **Madde 19-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-8932-2
+8932-3
 
 **17/7/2004 TARİHLİ VE 5233 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
@@ -573,12 +638,14 @@ ise iade talep edilmez.
 –––––––––––––
 
 *(1) Bu madde gereğince yapılan başvuruların sonuçlandırılma
-süresi,20/7/2013 tarihli ve 28713 sayılı Resmi Gazete’de yayımlanan
-24/6/2013 tarihli ve 2013/5034 sayılı Bakanlar Kurulu Kararı Eki Kararın
-1 inci maddesiyle, 2/4/2012 tarihli ve 2012/2996 sayılı Bakanlar Kurulu
-Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
+süresi,16/4/2015 tarihli ve 29328 sayılı Resmi Gazete’de yayımlanan
+8/4/2015 tarihli ve 2015/7529 sayılı Bakanlar Kurulu Kararı Eki Kararın
+1 inci maddesiyle, 18/6/2014 tarihli ve 29034 sayılı Resmi Gazete’de
+yayımlanan 21/5/2014 tarihli ve 2014/6401 sayılı Bakanlar Kurulu Kararı
+Eki Kararın 1 inci maddesiyle uzatılan sürenin bitiminden itibaren bir
+yıl uzatılmıştır.*
 
-8932-3
+8932-4
 
 **5233 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
 
@@ -602,6 +669,12 @@ Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
   6495                     Ek Madde 1                                                    12/7/2012 tarihinden geçerli olmak üzere
                                                                                          
                                                                                          2/8/2013
+
+  6638                     13                                                            4/4/2015
+
+  6745                     Geçici Madde 6                                                7/9/2016
+
+  KHK/684                  5                                                             23/1/2017
   ------------------------ ------------------------------------------------------------- ------------------------------------------
 
 
