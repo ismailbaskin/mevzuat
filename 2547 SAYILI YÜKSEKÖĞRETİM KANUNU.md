@@ -1,4 +1,4 @@
-**6569 sayılı Kanun ile değişik hali**
+**6637 sayılı Kanun ile değişik hali**
 
 []{#K1 .anchor}**YÜKSEKÖĞRETİM KANUNU**
 
@@ -2293,24 +2293,22 @@ Yükseköğretim Kurulunun görüşü ve Milli Eğitim Bakanlığının önerisi
 ücretinden muaf tutulacaklar ile yabancı uyruklu öğrencilerden alınacak
 asgari öğrenim ücretlerinin tutarı Bakanlar Kurulu kararıyla belirlenir.
 
-c\. Bu maddenin (ç) fıkrasında belirtilen durumlarda her bir ders için
-kredi başına ödenecek katkı payı veya öğrenim ücreti tutarları, her bir
-dersin kredisinin ilgili dönemde alınması gereken toplam ders kredisine
-oranlanması sonucu bulunacak katsayının ilgili dönem için belirlenen
-öğrenci katkı payı veya öğrenim ücreti ile çarpılarak, ilgili
-yükseköğretim kurumunca dönem başlarında hesaplanır. ^(2)^
+c\. (…)^(2)^ bir ders için kredi başına ödenecek katkı payı veya öğrenim
+ücreti tutarları, her bir dersin kredisinin ilgili dönemde alınması
+gereken toplam ders kredisine oranlanması sonucu bulunacak katsayının
+ilgili dönem için belirlenen öğrenci katkı payı veya öğrenim ücreti ile
+çarpılarak, ilgili yükseköğretim kurumunca dönem başlarında hesaplanır.
+^(3)^
 
-ç. **(Değişik: 19/11/2014-6569/29 md.)** Diploma programlarının hazırlık
-sınıfı eğitimi hariç olmak üzere, iki yıllık önlisans ve dört, beş ve
-altı yıllık lisans programlarından (açıköğretim programları hariç) bu
-süreler sonunda mezun olamayan öğrencilerden, ilgili dönem için
-öngörülen katkı payı ya da öğrenim ücretinin yanı sıra bu maddenin (c)
-fıkrasına göre hesaplanan kredi başına ödenecek katkı payı veya öğrenim
-ücreti; dersin alınacağı dönem için belirlenen kredi başına katkı payı
-veya öğrenim ücretinin yüzde elli fazlası ile hesaplanarak alınır. Çift
-ana dal programında kayıtlı olan öğrencilerden ise diploma programının
-öğrenim süresi ve ilave bir yıl sonunda bu madde hükümlerine göre katkı
-payı veya öğrenim ücreti alınır.
+ç. **(Değişik: 27/3/2015-6637/20 md.)** Diploma programlarının hazırlık
+sınıfı eğitimi hariç olmak üzere, iki yıllık ön lisans ve dört, beş ve
+altı yıllık lisans programlarından bu süreler sonunda mezun olamayan
+öğrencilerden, ilgili dönem için öngörülen katkı payı ve öğrenim ücreti
+alınır. Çift ana dal programında kayıtlı olan öğrencilerden ise diploma
+programının öğrenim süresi ve ilave bir yıl sonunda bu madde hükümlerine
+göre katkı payı alınır. Yükseköğretim Kurulu tarafından belirlenen
+öğrenim sürelerinde lisansüstü programlardan mezun olamayan
+öğrencilerden de bu madde hükümlerine göre katkı payı alınır.
 
 –––––––––––––––––
 
@@ -2318,7 +2316,11 @@ payı veya öğrenim ücreti alınır.
 6111 sayılı Kanunun 172 nci maddesiyle metne işlendiği şekilde
 değiştirilmiştir. *
 
-*(2) 19/11/2014 tarihli ve 6569 sayılı Kanunun 29 uncu maddesiyle, bu
+*(2) 27/3/2015 tarihli ve 6637 sayılı Kanunun 23 üncü maddesiyle bu
+fıkrada yer alan “Bu maddenin (ç) fıkrasında belirtilen durumlarda her”
+ibaresi yürürlükten kaldırılmıştır.*
+
+*(3) 19/11/2014 tarihli ve 6569 sayılı Kanunun 29 uncu maddesiyle, bu
 fıkrada yer alan “(ç), (d) ve (e) fıkralarında” ibaresi “(ç) fıkrasında”
 şeklinde değiştirilmiştir.*
 
@@ -2594,7 +2596,7 @@ durdurulması, üniversite öğretim mesleğinden çıkarma ve kamu görevinden
 çıkarma cezalarıdır. Hangi fiillere hangi disiplin cezasının
 uygulanacağı, bu bentte sayılan kişilerin disiplin işlemleri ve disiplin
 amirlerinin yetkileri, Devlet memurlarına uygulanan usul ve esaslar da
-göz önüne alınmak suretiyle Yükseköğretim Kurulunca düzenlenir.
+göz önüne alınmak suretiyle Yükseköğretim Kurulunca düzenlenir.^(2)^
 
 c\. **(Değişik: 14/4/1982 - 2653/3 md.)** Ceza soruşturması usulü:
 
@@ -2609,6 +2611,11 @@ işledikleri ileri sürülen suçlar hakkında aşağıdaki hükümler uygulanı
 *(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu
 maddenin birinci fıkrasının (a) bendinde yer alan “Öğrenci Seçme ve
 Yerleştirme Merkezi Başkanı,” ibaresi madde metninden çıkarılmıştır.*
+
+*(2) Bu fıkranın ikinci cümlesi, Anayasa Mahkemesinin 14/1/2015 tarihli
+ve E:2014/100, K:2015/6 sayılı kararı ile iptal edilmiş olup, İptal
+Kararının Resmi Gazetede yayımlandığı 7/4/2015 tarihinden başlayarak
+dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.*
 
 5375
 
@@ -5401,6 +5408,14 @@ Bu madde hükmü Gülhane Askeri Tıp Akademisi öğretim üyeleri hakkında da
 uygulanır. Ancak bu öğretim üyelerine üniversite ödeneği ile sağlık
 hizmetleri tazminatı ödenmez.
 
+**Geçici Madde 71 –** **(Ek: 27/3/2015-6637/21 md.)**
+
+Bu maddenin yürürlüğe girdiği tarih itibarıyla 2014-2015 eğitim-öğretim
+yılı için öğrencilerden tahsil edilmiş öğrenci katkı payı ve öğrenim
+ücretlerinin ilgili dönem için öngörülen katkı payı ve öğrenim
+ücretlerini aşan kısmı, talep edilip edilmediğine bakılmaksızın
+ilgililere red ve iadeler gelir kaleminden iade edilir.
+
 *Yürürlük: *
 
 **Madde 67 – **Bu kanunun;
@@ -5971,7 +5986,7 @@ TARİHİNİ GÖSTERİR LİSTE**
 
 5394-4
 
-  -------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------- --------------------------------------------------
+  -------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------- ---------------------------------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                                        **2547 sayılı Kanunun değişen veya iptal edilen maddeleri**                **Yürürlüğe Giriş Tarihi**
 
   **Anayasa **                                                                                                   **36 ncı maddenin altıncı fıkrası ile Geçici Madde 59 **                   **1/1/2013 tarihinden başlayarak altı ay sonra**
@@ -5990,7 +6005,13 @@ TARİHİNİ GÖSTERİR LİSTE**
 
   **Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/17(Yürürlüğü Durdurma) sayılı Kararı**      **Geçici Madde 64**                                                        **8/11/2014**
 
-  **6569**                                                                                                       **3, 35, 40, 44, 46, 49, 50, Ek Madde 11, Geçici Madde 67, 68, 69, 70 **   **26/11/2011**
-  -------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------- --------------------------------------------------
+  **6569**                                                                                                       **3, 35, 40, 44, 46, 49, 50, Ek Madde 11, Geçici Madde 67, 68, 69, 70 **   **26/11/2014**
+
+  **Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E.: 2014/100, K.: 2015/6 sayılı Kararı**                          **53**                                                                     **7/4/2015 tarihinden başlayarak dokuz ay sonra**
+                                                                                                                                                                                            
+                                                                                                                                                                                            **(7/1/2016)**
+
+  **6637**                                                                                                       **46, Geçici Madde 71**                                                    **7/4/2015**
+  -------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------- ---------------------------------------------------
 
 
