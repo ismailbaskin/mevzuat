@@ -1,4 +1,4 @@
-**6362 sayılı Kanun ile değişik hali**
+**6456 sayılı Kanun ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -5567,8 +5567,9 @@ kurumlarına yapılan atıflar, katılım bankalarına yapılmış sayılır.
 Türkiye Bankalar Birliği nezdinde, kredi kuruluşları ile Kurulca uygun
 görülecek finansal kuruluşların müşterilerinin risk bilgilerini toplamak
 ve söz konusu bilgileri bu kuruluşlar ile gerçek veya tüzel kişilerin
-kendileriyle ya da onay vermeleri koşuluyla özel hukuk tüzel kişileri
-ile de paylaşılmasını sağlamak üzere Risk Merkezi kurulmuştur.
+kendileriyle ya da onay vermeleri koşuluyla gerçek kişiler ve özel hukuk
+tüzel kişileri ile de paylaşılmasını sağlamak üzere Risk Merkezi
+kurulmuştur.^(1)^
 
 Kredi kuruluşları ile Kurulca uygun görülecek finansal kuruluşlar, Risk
 Merkezine üye olmak zorundadır. Üye kuruluşlar, Risk Merkezince
@@ -5597,6 +5598,12 @@ bunların üst kuruluşlarına verilecek, müşterilerin bu kuruluşlar
 nezdindeki risk bilgileri Kanunun 73 üncü maddesinin dördüncü fıkrası
 kapsamında değerlendirilir.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1)3/4/2013 tarihli ve 6456 sayılı Kanunun 41 inci maddesi ile bu
+fıkrada yer alan “özel hukuk” ibaresinden önce gelmek üzere “gerçek
+kişiler ve” ibaresi eklenmiştir.*
+
 9608-1
 
 Risk Merkezinin kuruluşuna, faaliyetine ve çalışmasına, Risk Merkezi
@@ -5620,10 +5627,11 @@ Risk Merkezi, topladığı her türlü bilgiyi, Kurum ve Merkez Bankasına
 istenen biçim ve sürede vermekle yükümlüdür. Ayrıca, gerçek ya da tüzel
 kişilerin gerekçesini belirterek risk bilgilerinin kendilerine verilmesi
 için yazılı talepte bulunmaları ya da kredi kuruluşları ile Kurulca
-uygun görülecek finansal kuruluşlar dışındaki bir özel hukuk tüzel
-kişisine bu nitelikteki bilgilerin verilmesi için onay verdiklerinin
-ispat edilmesi halinde bahse konu bilgiler de talepte bulunan tarafça
-karşılanacak belli bir ücret karşılığında verilir.
+uygun görülecek finansal kuruluşlar dışındaki bir gerçek kişi veya özel
+hukuk tüzel kişisine bu nitelikteki bilgilerin verilmesi için onay
+verdiklerinin ispat edilmesi halinde bahse konu bilgiler de talepte
+bulunan tarafça karşılanacak belli bir ücret karşılığında
+verilir.*^(1)^*
 
 Risk Merkezinin bütün işlem ve kayıtları gizlidir. Sır sahibinin
 bilgilerinin açıklanması konusunda açık rızasının bulunması durumunda
@@ -5671,7 +5679,171 @@ zorundadır.
 Bankalar ve finansal holding şirketleri durumlarını, bu Kanun
 hükümlerine bir yıl içinde intibak ettirmek zorundadır.
 
+\_\_\_\_\_\_\_\_\_
+
+*(1)* *3/4/2013 tarihli ve 6456 sayılı Kanunun 41 inci maddesi ile bu
+fıkrada yer alan “bir özel hukuk” ibaresi “bir gerçek kişi veya özel
+hukuk” şeklinde değiştirilmiştir.*
+
+9608-29608
+
+**E)** **(30.9.1983 tarihli ve 90 sayılı Ödünç Para Verme İşleri
+Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)**
+
+**F) (14.1.1970 tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası
+Kanunu ile ilgili olup yerine işlenmiştir.) **
+
+**G) (15.7.1950 tarihli ve 5682 sayılı Pasaport Kanunu Kanunu ile ilgili
+olup yerine işlenmiştir.) **
+
+**H)** (**30.1.2002 tarihli ve 4743 sayılı Kanunu ile ilgili olup yerine
+işlenmiştir.) **
+
+**I) (13.6.1945 tarihli ve 4759 sayılı İller Bankası Kanunu Kanunu ile
+ilgili olup yerine işlenmiştir.) **
+
+**İ) (10.2.1954 tarihli ve 6245 sayılı Harcırah Kanunu ile ilgili olup
+yerine işlenmiştir.) **
+
+**J) (11.1.1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk
+Anonim Ortaklığı Kanunu ile ilgili olup yerine işlenmiştir.) **
+
+*Mülga kanunlara yapılan atıflar*
+
+**Madde 169 —** Diğer kanunlarda mülga 3182 sayılı Bankalar Kanunu ve bu
+Kanunla yürürlükten kaldırılan 4389 sayılı Bankalar Kanununa yapılan
+atıflar bu Kanunun ilgili maddelerine yapılmış sayılır.
+
+Diğer kanunlarda ve mülga 3182 sayılı Bankalar Kanunu ve bu Kanunla
+yürürlükten kaldırılan 4389 sayılı Bankalar Kanununda özel finans
+kurumlarına yapılan atıflar, katılım bankalarına yapılmış sayılır.
+
+*Risk Merkezi*
+
+**Ek Madde 1-(Ek: 13/2/2011-6111/149 md.)**
+
+Türkiye Bankalar Birliği nezdinde, kredi kuruluşları ile Kurulca uygun
+görülecek finansal kuruluşların müşterilerinin risk bilgilerini toplamak
+ve söz konusu bilgileri bu kuruluşlar ile gerçek veya tüzel kişilerin
+kendileriyle ya da onay vermeleri koşuluyla gerçek kişiler ve özel hukuk
+tüzel kişileri ile de paylaşılmasını sağlamak üzere Risk Merkezi
+kurulmuştur.^(1)^
+
+Kredi kuruluşları ile Kurulca uygun görülecek finansal kuruluşlar, Risk
+Merkezine üye olmak zorundadır. Üye kuruluşlar, Risk Merkezince
+istenilen, müşterileri ile ilgili her türlü bilgiyi vermekle yükümlüdür.
+Risk Merkezi, bu yükümlülüğe uymayanlara bilgi akışını durdurmaya
+yetkilidir.
+
+Risk Merkezi, Kurumun ve Merkez Bankasının personeli arasından
+belirleyeceği birer üye dâhil olmak üzere dokuz üyeden oluşan bir
+yönetim tarafından idare edilir. Risk Merkezi yönetimini oluşturan
+üyeler üç yıllık dönem için görev yapmak üzere seçilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1)3/4/2013 tarihli ve 6456 sayılı Kanunun 41 inci maddesi ile bu
+fıkrada yer alan “özel hukuk” ibaresinden önce gelmek üzere “gerçek
+kişiler ve” ibaresi eklenmiştir.*
+
+9608-1
+
+Risk Merkezi yönetimi, Risk Merkezinin kuruluş amaçları doğrultusunda
+özel hukuk tüzel kişileri ile kamu kurum ve kuruluşlarından, kamu kurumu
+niteliğinde meslek kuruluşları ve bunların üst kuruluşlarından bilgi
+talep etmeye ve bunlarla Kurulun uygun görüşüne istinaden bilgi
+alış-verişine yönelik sözleşmeler imzalamaya yetkilidir. Özel hukuk
+tüzel kişileri ile kamu kurum ve kuruluşları, kamu kurumu niteliğinde
+meslek kuruluşları ve bunların üst kuruluşları Risk Merkezi yönetimi
+tarafından talep edilen bilgileri vermekle yükümlüdürler. Kredi
+kuruluşları ile Kurulca uygun görülecek finansal kuruluşların
+müşterilerinin onay vermesi koşuluyla, Risk Merkezi ile bilgi
+alış-verişi sözleşmesi imzalayan özel hukuk tüzel kişileri ile kamu
+kurum ve kuruluşlarına kamu kurumu niteliğinde meslek kuruluşları ve
+bunların üst kuruluşlarına verilecek, müşterilerin bu kuruluşlar
+nezdindeki risk bilgileri Kanunun 73 üncü maddesinin dördüncü fıkrası
+kapsamında değerlendirilir.
+
+Risk Merkezinin kuruluşuna, faaliyetine ve çalışmasına, Risk Merkezi
+yönetiminin oluşumuna, toplanmasına ve karar almasına, Risk Merkezine
+verilen bilgilerin kapsam, biçim ve içeriğine ve bunların
+paylaşılmasına, paylaşılacak bilgilerin kapsam ve içeriğine,
+ücretlendirilmesine ve üyelerce ödenecek aidatların belirlenmesine
+ilişkin usul ve esaslar, Türkiye Katılım Bankaları Birliği ve Kurul
+tarafından belirlenen finansal kuruluşların üye oldukları meslek
+örgütlerinin görüşü ile Kurulun ve Merkez Bankasının uygun görüşü
+alınarak Türkiye Bankalar Birliğince belirlenir ve Resmi Gazetede
+yayımlanır.
+
+Süresinde üyeler tarafından ödenmeyen aidatlar ve komisyonlar Türkiye
+Bankalar Birliğince kanuni yollara başvurularak tahsil edilir.
+
+Kurum, gerektiğinde Risk Merkezini denetler, denetime ilişkin usul ve
+esaslar Kurum tarafından belirlenir.
+
+Risk Merkezi, topladığı her türlü bilgiyi, Kurum ve Merkez Bankasına
+istenen biçim ve sürede vermekle yükümlüdür. Ayrıca, gerçek ya da tüzel
+kişilerin gerekçesini belirterek risk bilgilerinin kendilerine verilmesi
+için yazılı talepte bulunmaları ya da kredi kuruluşları ile Kurulca
+uygun görülecek finansal kuruluşlar dışındaki bir gerçek kişi veya özel
+hukuk tüzel kişisine bu nitelikteki bilgilerin verilmesi için onay
+verdiklerinin ispat edilmesi halinde bahse konu bilgiler de talepte
+bulunan tarafça karşılanacak belli bir ücret karşılığında
+verilir.*^(1)^*
+
+Risk Merkezinin bütün işlem ve kayıtları gizlidir. Sır sahibinin
+bilgilerinin açıklanması konusunda açık rızasının bulunması durumunda
+belirlediği kişiye risk bilgileri verilir. Kişinin rızasına dayanan
+bilgilerin verilmesine ilişkin usul ve esaslar, Kurulun ve Merkez
+Bankasının uygun görüşü, Türkiye Katılım Bankaları Birliğinin ve Kurulun
+belirleyeceği kurum ve kuruluşların görüşü alınarak Türkiye Bankalar
+Birliğince belirlenir ve Resmi Gazetede yayımlanır.
+
+Risk Merkezi nezdinde bulunan sır niteliğindeki bilgileri, bu konuda
+kanunen yetkili kılınan mercilerden başkalarına açıklayanlar, hukuka
+aykırı olarak kendisi ya da başkası yararına kullananlar, yayanlar,
+verenler, aktaranlar veya ele geçirenler hakkında 159 uncu madde
+hükümleri uygulanır. Bu fıkrada tanımlanan suçların bir tüzel kişinin
+faaliyeti çerçevesinde işlenmesi halinde, ilgili tüzel kişi hakkında
+Türk Ceza Kanununun tüzel kişilere özgü güvenlik tedbirlerine
+hükmolunur.
+
+\_\_\_\_\_\_\_\_\_
+
+*(1)* *3/4/2013 tarihli ve 6456 sayılı Kanunun 41 inci maddesi ile bu
+fıkrada yer alan “bir özel hukuk” ibaresi “bir gerçek kişi veya özel
+hukuk” şeklinde değiştirilmiştir.*
+
 9608-2
+
+Risk Merkezi, nezdindeki her türlü bilgi alış-verişini 73 üncü maddenin
+dördüncü fıkrası uyarınca en az beş banka tarafından kurulmuş şirketler
+aracılığı ile ve bu şirketlerle yapılacak sözleşmeler çerçevesinde de
+gerçekleştirebilir.
+
+**Geçici Madde 1 —** Bu Kanuna göre çıkarılacak yönetmelik, tebliğ ve
+kararlar yürürlüğe girinceye kadar, kaldırılan hükümlere dayanılarak
+çıkarılan düzenlemelerin, bu Kanuna aykırı olmayan hükümlerinin
+uygulanmasına devam olunur.
+
+Bu Kanunda öngörülen düzenlemeler bir yıl içerisinde yürürlüğe konulur.
+
+**Geçici Madde 2 —** 12.5.2001 tarih ve 4672 sayılı Kanunun geçici 2/a
+maddesi hükümleri saklıdır.
+
+**Geçici Madde 3 —** Bu Kanunun yürürlüğe girdiği tarihte, Kurum
+tarafından daha önce faaliyet izni verilmiş olan tüm bankalar, bu
+Kanunun yürürlüğe girdiği tarihten önceki kanunlara uygun olarak
+yapmakta oldukları faaliyetlerine devam ederler. Bankalar bu Kanunun
+yürürlüğe girmesinden itibaren, iki ay içinde faaliyet gösterdikleri
+alanları bildiren beyannameyi Kuruma
+
+verirler. Bankalar, faaliyetlerini bu Kanunun 4 üncü maddesi
+kapsamındaki faaliyet konularını genişletmeden önce Kurumdan izin almak
+zorundadır.
+
+Bankalar ve finansal holding şirketleri durumlarını, bu Kanun
+hükümlerine bir yıl içinde intibak ettirmek zorundadır.
 
 9609
 
@@ -6486,6 +6658,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6352                                                       105, 128                                     5/7/2012
 
   6362                                                       33, 37, 72                                   30/12/2012
+
+  6456                                                       Ek Madde 1                                   18/4/2013
   ---------------------------------------------------------- -------------------------------------------- ------------
 
 
