@@ -1,4 +1,4 @@
-**6354 sayılı Kanun ile değişik hali**
+**6428 sayılı Kanun ile değişik hali**
 
  
 
@@ -419,69 +419,8 @@ kurumlar arası naklen veya açıktan atamaya hak kazanırlar.
 Devlet hizmeti yükümlüsü personel, bu Kanun hükümleri dışında genel
 hükümlere ve ilgili Kurum mevzuatına tâbidir.
 
-­­­­­­­­­­­­­­­­ **Ek Madde 7- (Ek: 3/7/2005-5396/1 md.)**
-
-Yapılmasının gerekli olduğuna Yüksek Planlama Kurulu tarafından karar
-verilen sağlık tesisleri, Sağlık Bakanlığınca verilecek ön proje ve
-belirlenecek temel standartlar çerçevesinde, kendisine veya Hazineye ait
-taşınmazlar üzerinde ihale ile belirlenecek gerçek veya özel hukuk tüzel
-kişilerine kırkdokuz yılı geçmemek şartıyla belirli süre ve bedel
-üzerinden kiralama karşılığı yaptırılabilir. **(Ek cümle:
-11/10/2011-KHK-663/58 md.)** Değeri yirmi milyon Türk Lirasına kadar
-olan tesislerin bu madde kapsamında yaptırılmasına Sağlık Bakanınca
-karar verilebilir.
-
-Bu amaçla Maliye Bakanlığınca, gerçek veya özel hukuk tüzel kişilerine
-Hazineye ait taşınmazlar bedelsiz devredilebilir. Bu taşınmazların
-sözleşme süresince amacı dışında kullanılamayacağına, Maliye ve Sağlık
-bakanlıklarından izin alınmaksızın devredilemeyeceğine dair tapu
-kütüğüne şerh konulur.
-
-Kira bedeli ve kiralama süresinin tespitinde; taşınmazın gerçek veya
-özel hukuk tüzel kişilerine ait olup olmadığı, bedelsiz Hazine taşınmazı
-devredilip devredilmediği, yatırımın maliyeti, tıbbî donanımın bu
-kişiler tarafından sağlanıp sağlanmayacağı, kiralama konusu taşınmaz ve
-üzerindeki sağlık tesislerinde tıbbî hizmetler dışındaki hizmetlerin ve
-alanların işletilmesinin kiralayana verilip verilmeyeceği hususları
-dikkate alınır.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) Anayasa Mahkemesi’nin 13/3/2006 tarihli ve E: 2006/21, K: 2006/38
-sayılı Kararı ile; Ek Madde 3 ün son fıkrasının birinci cümlesinde yer
-alan “... veya yurt dışında kendi nam ve hesabına okuyarak Devletten
-öğrenci dövizi almadan ...” bölümü ile Ek Madde 6’nın birinci fıkrasının
-üçüncü cümlesinin “... veya tabip iken eksik kalan yükümlülüğünü uzman
-tabip olarak tamamlama... “ bölümü iptal edilmiştir.*
-
-6948-3
-
-Bu şekilde yapılacak kiralama işlemlerine ait kira bedelleri Sağlık
-Bakanlığına bağlı Döner Sermaye İşletmelerince ödenir.
-
-Sağlık Bakanlığının kullanımında bulunan sağlık tesislerinin,
-öngörülecek proje ve belirlenecek esaslar doğrultusunda yenilenmesi;
-tesislerdeki tıbbî hizmet alanları dışındaki hizmet ve alanların
-işletilmesi karşılığında, sözleşmeyle gerçek veya özel hukuk tüzel
-kişilerine yaptırılabilir.
-
-Bu madde kapsamında yapılacak yatırımlarla ilgili olarak, otuzaltı aylık
-süreyi geçmemek ve sözleşmede belirlenecek inşaat yapım süresi ile
-sınırlı olmak kaydıyla, Sağlık Bakanlığı ile gerçek veya özel hukuk
-tüzel kişileri arasında yapılacak her türlü iş ve işlemler ile
-düzenlenecek kağıtlar, 1.7.1964 tarihli ve 488 sayılı Damga Vergisi
-Kanununa göre alınan damga vergisi ile 2.7.1964 tarihli ve 492 sayılı
-Harçlar Kanunu uyarınca alınan harçlardan müstesnadır.
-
-Bu maddeye göre yapılacak iş ve işlemler, 8.9.1983 tarihli ve 2886
-sayılı Devlet İhale Kanunu ile 4.1.2002 tarihli ve 4734 sayılı Kamu
-İhale Kanununa tâbi değildir.
-
-Bu maddenin uygulanmasına ilişkin esas ve usûller ile ihale yöntemi;
-gerçek veya özel hukuk tüzel kişilerinde aranılacak nitelikler,
-sözleşmelerin kapsamı ve konuya ilişkin diğer hususlar Maliye Bakanlığı,
-Sağlık Bakanlığı, Devlet Planlama Teşkilatı ve Hazine müsteşarlıklarınca
-müştereken hazırlanarak Bakanlar Kurulu kararı ile yürürlüğe konulur.
+­­­­­­­­­­­­­­­­ **Ek Madde 7- (Ek: 3/7/2005-5396/1 md.; Mülga:
+21/2/2013-6428/12 md.) ^(2)^**
 
 *Mahallî idareler ve birliklerce verilen sağlık hizmetleri*
 
@@ -497,6 +436,21 @@ Kanununun 49 uncu maddesinin üçüncü fıkrası uyarınca istihdam edilen
 sözleşmeli personel eliyle verilen sağlık hizmetleri, resmî sağlık
 kuruluşları tarafından verilen sağlık hizmetleri kapsamında kabul
 edilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Anayasa Mahkemesi’nin 13/3/2006 tarihli ve E: 2006/21, K: 2006/38
+sayılı Kararı ile; Ek Madde 3 ün son fıkrasının birinci cümlesinde yer
+alan “... veya yurt dışında kendi nam ve hesabına okuyarak Devletten
+öğrenci dövizi almadan ...” bölümü ile Ek Madde 6’nın birinci fıkrasının
+üçüncü cümlesinin “... veya tabip iken eksik kalan yükümlülüğünü uzman
+tabip olarak tamamlama... “ bölümü iptal edilmiştir.*
+
+*(2) 21/2/2013 tarihli ve 6428 sayılı Kanunun 12 nci maddesiyle,
+mevzuatta bu maddeye yapılan atıfların 6428 sayılı Kanuna yapılmış
+sayılacağı hüküm altına alınmıştır.*
+
+6948-3
 
 **Ek Madde 9 – (Ek: 21/1/2010-5947/11 md.; Değişik:
 11/10/2011-KHK-663/58 md.; Değişik: 4/7/2012-6354/8 md.)**
@@ -515,8 +469,6 @@ işbirliği yapar.
 Birlikte kullanılacak sağlık tesisleri için, Bakanlık ve Yükseköğretim
 Kurulu Başkanlığının uygun görüşü alınarak, il valisi ile üniversite
 rektörü arasında birlikte kullanım protokolü akdedilir.
-
-6948-4
 
 Birlikte kullanımdaki sağlık tesislerinde tıpta uzmanlık ve lisans
 eğitimleri, Sağlık Bakanlığı uzmanlık öğrencilerinin eğitimi de dâhil
@@ -793,6 +745,8 @@ yürüttükleri görevlere ait kadro unvanlarına göre atamaları yapılır.
   KHK/663                           5, 6, 7, 8, 9, Ek Madde 1, 7, 9               2/11/2011
 
   6354                              Ek Madde 1, Ek Madde 9                        12/7/2012
+
+  6428                              Ek Madde 7                                    9/3/2013
   --------------------------------- --------------------------------------------- ----------------------------
 
 
