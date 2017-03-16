@@ -1,4 +1,4 @@
-4/12/2004 tarihli ve 5271 sayılı Kanunun ilk hali
+25/5/2005 tarihli ve 5353 sayılı Kanun ile Değişik Hali
 
 **CEZA MUHAKEMESİ KANUNU**
 
@@ -501,8 +501,8 @@ belirtilir.
 açıklanır ve isterse kararın bir örneği de verilir.
 
 \(2) Koruma tedbirlerine ilişkin olanlar hariç, aleyhine kanun yoluna
-başvurulabilecek hâkim veya mahkeme kararları, hukuken geçerli mazerete
-dayanarak hazır bulanamayan ilgilisine tebliğ olunur.
+başvurulabilecek hâkim veya mahkeme kararları, (…)*^(1)^* hazır
+bulunamayan ilgilisine tebliğ olunur.*^(1)^*
 
 \(3) İlgili taraf serbest olmayan bir kişi veya tutuklu ise tebliğ edilen
 karar, kendisine okunup anlatılır.
@@ -623,6 +623,13 @@ sebepleri sonradan bildirirse aleyhine hükmedilen giderler kaldırılır.
 
 \(2) Fiilî hizmette bulunan askerler hakkındaki zorla getirme kararı
 askerî makamlar aracılığıyla infaz olunur.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 1 inci maddesiyle bu
+fıkrada yer alan “hukuken geçerli mazerete dayanarak” ibaresi madde
+metninden çıkarılmış ve “ bulanamayan” ibaresi “bulunamayan” olarak
+değiştirilmiştir*
 
 **Tanıklıktan çekinme**
 
@@ -1111,44 +1118,62 @@ itiraz, kararın yerine getirilmesini durdurur.
 \(5) Bu madde hükmü, 223 üncü maddenin sekizinci fıkrası gereğince
 yargılamanın durması kararı verilmesi gereken hâllerde de uygulanır.
 
-**Şüpheli veya sanığın beden muayenesi ve vücudundan örnek alınması **
+**MADDE 75.** —**(Değişik:25/5/2005-5353/2 md.) **
 
-**MADDE 75.**- (1) Bir suça ilişkin delil elde etmek için, şüpheli veya
-sanığın bedeninin tıbbî muayenesine ya da vücudundan kan veya cinsel
-salgı gibi örnekler alınmasına, Cumhuriyet savcısı veya mağdurun
-istemiyle ya da re'sen hâkim veya mahkeme tarafından karar verilebilir.
-Bu müdahaleler ancak hekim tarafından veya hekim gözetiminde sağlık
-mesleği mensubu diğer bir kişi tarafından yapılabilir. Şüpheli veya
-sanığın vücudundan saç, tükürük ve tırnak gibi örnekler alınabilmesine
-Cumhuriyet savcısı da karar verebilir. Cumhuriyet savcısının kararı,
-yirmidört saat içinde hâkim veya mahkemenin onayına sunulur. Hâkim veya
-mahkeme, yirmidört saat içinde kararını verir. Onaylanmayan kararlar
-hükümsüz kalır ve elde edilen deliller kullanılamaz.
+\(1) Bir suça ilişkin delil elde etmek için şüpheli veya sanık üzerinde
+iç beden muayenesi yapılabilmesine ya da vücuttan kan veya benzeri
+biyolojik örneklerle saç, tükürük, tırnak gibi örnekler alınabilmesine;
+Cumhuriyet savcısı veya mağdurun istemiyle ya da re'sen hâkim veya
+mahkeme, gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı
+tarafından karar verilebilir. Cumhuriyet savcısının kararı, yirmidört
+saat içinde hâkim veya mahkemenin onayına sunulur. Hâkim veya mahkeme,
+yirmidört saat içinde kararını verir. Onaylanmayan kararlar hükümsüz
+kalır ve elde edilen deliller kullanılamaz.
 
-\(2) Tıbbî muayenenin yapılabilmesi veya vücuttan örnekler alınabilmesi
-için; müdahalenin, kişinin sağlığına zarar verme tehlikesinin
-bulunmaması gerekir.
+\(2) İç beden muayenesi yapılabilmesi veya vücuttan kan veya benzeri
+biyolojik örnekler alınabilmesi için müdahalenin, kişinin sağlığına
+zarar verme tehlikesinin bulunmaması gerekir.
 
-\(3) Üst sınırı iki yıldan daha az hapis cezasını gerektiren suçlarda
-kişi üzerinde beden muayenesi yapılamaz; kişiden kan, saç, tükürük,
-tırnak, cinsel salgı gibi örnek alınamaz.
+\(3) İç beden muayenesi veya vücuttan kan veya benzeri biyolojik örnekler
+alınması, ancak tabip veya sağlık mesleği mensubu diğer bir kişi
+tarafından yapılabilir.
 
-\(4) Bu madde gereğince alınacak hâkim veya mahkeme kararlarına itiraz
+\(4) Cinsel organlar veya anüs bölgesinde yapılan muayene de iç beden
+muayenesi sayılır.
+
+\(5) Üst sınırı iki yıldan daha az hapis cezasını gerektiren suçlarda,
+kişi üzerinde iç beden muayenesi yapılamaz; kişiden kan veya benzeri
+biyolojik örneklerle saç, tükürük, tırnak gibi örnekler alınamaz.
+
+\(6) Bu madde gereğince alınacak hâkim veya mahkeme kararlarına itiraz
 edilebilir.
 
-**Diğer kişilerin beden muayenesi **
+\(7) Özel kanunlardaki alkol muayenesine ve kan örneği alınmasına ilişkin
+hükümler saklıdır.
 
-**MADDE 76**. - (1) Bir suça ilişkin delil elde etmek amacıyla, mağdurun
-bedeni üzerinde tıbbî muayene yapılabilmesine veya kan, saç, tükürük,
-tırnak, cinsel salgı gibi örnekler alınabilmesine; sağlığını tehlikeye
-düşürmemek koşuluyla, Cumhuriyet savcısının istemiyle ya da re'sen hâkim
-veya mahkeme tarafından karar verilebilir.
+**Diğer kişilerin beden muayenesi ve vücuttan örnek alınması*^(1)^***
 
-\(2) Çocuğun soy bağının araştırılmasına gerek duyulması halinde, bu
-araştırmanın yapılabilmesi için, birinci fıkra hükmüne göre karar
-alınması gereklidir.
+**MADDE 76.** — **(Değişik:25/5/2005-5353/3 md.) **
 
-\(3) Tanıklıktan çekinme sebepleri ile muayeneden veya bedenden örnek
+\(1) Bir suça ilişkin delil elde etmek amacıyla, mağdurun vücudu üzerinde
+dış veya iç beden muayenesi yapılabilmesine veya vücudundan kan veya
+benzeri biyolojik örneklerle saç, tükürük, tırnak gibi örnekler
+alınabilmesine; sağlığını tehlikeye düşürmemek ve cerrahî bir müdahalede
+bulunmamak koşuluyla; Cumhuriyet savcısının istemiyle ya da re'sen hâkim
+veya mahkeme, gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı
+tarafından karar verilebilir. Cumhuriyet savcısının kararı, yirmidört
+saat içinde hâkim veya mahkemenin onayına sunulur. Hâkim veya mahkeme,
+yirmidört saat içinde kararını verir. Onaylanmayan kararlar hükümsüz
+kalır ve elde edilen deliller kullanılamaz.
+
+\(2) Mağdurun rızasının varlığı halinde, bu işlemlerin yapılabilmesi için
+birinci fıkra hükmüne göre karar alınmasına gerek yoktur.
+
+\(3) Çocuğun soy bağının araştırılmasına gerek duyulması halinde; bu
+araştırmanın yapılabilmesi için birinci fıkra hükmüne göre karar
+alınması gerekir.
+
+\(4) Tanıklıktan çekinme sebepleri ile muayeneden veya vücuttan örnek
 alınmasından kaçınılabilir. Çocuk ve akıl hastasının çekinmesi konusunda
 kanunî temsilcisi karar verir. Çocuk veya akıl hastasının, tanıklığın
 hukukî anlam ve sonuçlarını algılayabilecek durumda olması hâlinde,
@@ -1157,7 +1182,7 @@ hâkim tarafından karar verilir. Ancak, bu hâlde elde edilen deliller
 davanın ileri aşamalarında şüpheli veya sanık olmayan kanunî temsilcinin
 izni olmadıkça kullanılamaz.
 
-\(4) Bu madde gereğince alınacak hâkim veya mahkeme kararlarına itiraz
+\(5) Bu madde gereğince verilen hâkim veya mahkeme kararlarına itiraz
 edilebilir.
 
 **Kadının muayenesi**
@@ -1194,30 +1219,42 @@ incelemelerin yapılmasını ve yetkisiz üçüncü kişilerin bilgi edinmesini
 önlemekle yükümlüdürler. İncelenecek bulgu, bilirkişiye ilgilinin adı ve
 soyadı, adresi, doğum tarihi bildirilmeksizin verilir.
 
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 3 üncü maddesi ile bu
+madde başlığı “Diğer kişilerin beden muayenesi” iken metne işlendiği
+şekilde değiştirilmiştir.*
+
 **Genetik inceleme sonuçlarının gizliliği **
 
-**MADDE 80.**- (1) 75, 76 ve 78 inci maddeler hükümlerine göre alınan
-örnekler üzerinde yapılan inceleme sonuçları, kişisel veri niteliğinde
-olup, başka bir amaçla kullanılamaz; dosya içeriğini öğrenme yetkisine
-sahip bulunan kişiler tarafından bir başkasına verilemez. Bu bilgiler,
-kovuşturmaya yer olmadığı kararına itiraz süresinin dolması, itirazın
-reddi veya hükmün kesinleşmesi hallerinde en geç on gün içinde
-Cumhuriyet savcısının huzurunda yok edilir ve bu husus dosyasında
-muhafaza edilmek üzere tutanağa geçirilir.
+**MADDE 80**. —**(Değişik:25/5/2005-5353/4 md.)**
+
+\(1) 75, 76 ve 78 inci madde hükümlerine göre alınan örnekler üzerinde
+yapılan inceleme sonuçları, kişisel veri niteliğinde olup, başka bir
+amaçla kullanılamaz; dosya içeriğini öğrenme yetkisine sahip bulunan
+kişiler tarafından bir başkasına verilemez.
+
+\(2) Bu bilgiler, kovuşturmaya yer olmadığı kararına itiraz süresinin
+dolması, itirazın reddi, beraat veya ceza verilmesine yer olmadığı
+kararı verilip kesinleşmesi hâllerinde Cumhuriyet savcısının huzurunda
+derhâl yok edilir ve bu husus dosyasında muhafaza edilmek üzere tutanağa
+geçirilir.
 
 **Fizik kimliğin tespiti**
 
-**MADDE 81.**- (1) Üst sınırı iki yıl veya daha fazla hapis cezasını
-gerektiren bir suçtan dolayı şüpheli veya sanığın, kimliğinin teşhisi
-için gerekli olması halinde, Cumhuriyet savcısı veya hâkim kararıyla,
-fotoğrafı, beden ölçüleri, parmak ve ayak izi, bedeninde yer almış olup
-teşhisini kolaylaştıracak diğer özellikleri ile sesi ve görüntüleri
-kayda alınarak, soruşturma ve kovuşturma işlemlerine ilişkin dosyaya
-konulur.
+**MADDE 81.**- **(Değişik:25/5/2005-5353/5 md.)**
 
-\(2) Kovuşturmaya yer olmadığı veya beraat kararı verilmesi hâllerinde
-söz konusu kayıtlar Cumhuriyet savcısının huzurunda derhâl yok edilir ve
-bu husus tutanağa geçirilir.
+\(1) Üst sınırı iki yıl veya daha fazla hapis cezasını gerektiren bir
+suçtan dolayı şüpheli veya sanığın, kimliğinin teşhisi için gerekli
+olması halinde, Cumhuriyet savcısının emriyle fotoğrafı, beden ölçüleri,
+parmak ve avuç içi izi, bedeninde yer almış olup teşhisini
+kolaylaştıracak diğer özellikleri ile sesi ve görüntüleri kayda
+alınarak, soruşturma ve kovuşturma işlemlerine ilişkin dosyaya konulur.
+
+\(2) Kovuşturmaya yer olmadığı kararına itiraz süresinin dolması,
+itirazın reddi, beraat veya ceza verilmesine yer olmadığı kararı verilip
+kesinleşmesi hâllerinde söz konusu kayıtlar Cumhuriyet savcısının
+huzurunda derhâl yok edilir ve bu husus tutanağa geçirilir.
 
 **Yönetmelik**
 
@@ -1226,7 +1263,7 @@ yapılması ile ilgili usuller yönetmelikte gösterilir.
 
 **Keşif **
 
-**MADDE 83.**- (1) Keşif, hâkim veya mahkeme veya naip hâkim ya da
+**MADDE 83**.- (1) Keşif, hâkim veya mahkeme veya naip hâkim ya da
 istinabe olunan hâkim veya mahkeme ile gecikmesinde sakınca bulunan
 hâllerde Cumhuriyet savcısı tarafından yapılır.
 
@@ -1257,8 +1294,18 @@ verilebilir.
 
 **Yer gösterme **
 
-**MADDE 85**. - (1) Yer gösterme işlemi hakkında 83 ve 84 üncü madde
-hükümleri uygulanır.
+**MADDE 85**. -**(Değişik:25/5/2005-5353/6 md.)**
+
+\(1) Cumhuriyet savcısı, kendisine yüklenen suç hakkında açıklamada
+bulunmuş olan şüpheliye yer gösterme işlemi yaptırabilir. 250 nci
+maddenin birinci fıkrası kapsamına giren suçlar söz konusu olduğunda,
+adli kolluk amiri de yer gösterme işlemi yaptırmaya yetkilidir.
+
+\(2) Soruşturmayı geciktirmemek kaydıyla, müdafi de yer gösterme işlemi
+sırasında hazır bulunabilir.
+
+\(3) Yer gösterme işlemi, 169 uncu maddeye uygun olarak tutanağa
+bağlanır.
 
 **Ölünün kimliğini belirleme ve adlî muayene **
 
@@ -1344,11 +1391,15 @@ takdirde, yakalama yetkisine sahiptirler.
 nedeniyle kendilerini idareden aciz bulunanlara karşı işlenen suçüstü
 hallerinde kişinin yakalanması şikâyete bağlı değildir.
 
-\(4) Kolluk, yakalanan kişiye kanunî haklarını derhâl bildirir.
+\(4) **(Değişik:25/5/2005-5353/7 md.)** Kolluk, yakalandığı sırada
+kaçmasını, kendisine veya başkalarına zarar vermesini önleyecek
+tedbirleri aldıktan sonra, yakalanan kişiye kanunî haklarını derhal
+bildirir.
 
-\(5) Birinci fıkraya göre yakalanıp kolluğa teslim edilen veya ikinci
-fıkra uyarınca görevlilerce yakalanan kişi, düzenlenecek soruşturma
-belgesiyle birlikte hemen Cumhuriyet Savcılığına gönderilir.
+\(5) **(Değişik:25/5/2005-5353/7 md.)** Birinci fıkraya göre yakalanıp
+kolluğa teslim edilen veya ikinci fıkra uyarınca görevlilerce yakalanan
+kişi ve olay hakkında Cumhuriyet savcısına hemen bilgi verilerek, emri
+doğrultusunda işlem yapılır.
 
 \(6) Yakalama emrine konu işlemin yerine getirilmesi nedeniyle yakalama
 emrinin çıkarılma amacının ortadan kalkması durumunda mahkeme, hâkim
@@ -1359,8 +1410,12 @@ istenir.
 
 **MADDE 91**. - (1) Yukarıdaki maddeye göre yakalanan kişi, Cumhuriyet
 Savcılığınca bırakılmazsa, soruşturmanın tamamlanması için gözaltına
-alınmasına karar verilebilir. Gözaltı süresi, yakalama anından itibaren
-yirmidört saati geçemez.
+alınmasına karar verilebilir. **(Değişik Cümle:25/5/2005-5353/8 md.)**
+Gözaltı süresi, yakalama yerine en yakın hâkim veya mahkemeye
+gönderilmesi için zorunlu süre hariç, yakalama anından itibaren
+yirmidört saati geçemez. **(Ek Cümle:25/5/2005-5353/8 md.)** Yakalama
+yerine en yakın hâkim veya mahkemeye gönderilme için zorunlu süre oniki
+saatten fazla olamaz.
 
 \(2) Gözaltına alma, bu tedbirin soruşturma yönünden zorunlu olmasına ve
 kişinin bir suçu işlediğini düşündürebilecek emarelerin varlığına
@@ -1410,12 +1465,14 @@ belirtilerin varlığı hâllerinde kelepçe takılabilir.
 
 **Yakalanan kişinin mahkemeye götürülmesi**
 
-**MADDE 94**. - (1) Yakalanan kişi, hakkında kamu davası açılmış ise
-hemen yetkili mahkemeye; kamu davası açılmamış ise, en yakın sulh ceza
-hâkimliğine götürülür.
+**MADDE 94**. – **(Değişik:25/5/2005-5353/9 md.)**
 
-\(2) Hâkim veya mahkeme, aynı gün yakalananın serbest bırakılmasına veya
-adlî kontrol altına alınmasına veya tutuklanmasına karar verir.
+\(1) Hâkim veya mahkeme tarafından verilen yakalama emri üzerine
+soruşturma veya kovuşturma evresinde yakalanan kişi, en geç yirmidört
+saat içinde yetkili hâkim veya mahkeme önüne çıkarılamıyorsa, aynı süre
+içinde en yakın sulh ceza hâkimi önüne çıkarılır; serbest bırakılmadığı
+takdirde, yetkili hâkim veya mahkemeye en kısa zamanda gönderilmek üzere
+tutuklanır.
 
 **Yakalanan veya gözaltına alınanın durumunun yakınlarına bildirilmesi**
 
@@ -1444,8 +1501,11 @@ edildiği, haklarının tam olarak anlatıldığı açıkça yazılır.
 
 **Yakalama emri ve nedenleri**
 
-**MADDE 98.**- (1) Soruşturma evresinde şüpheli kaçak ise, Cumhuriyet
-savcısının istemi üzerine sulh ceza hâkimi tarafından yakalama emri
+**MADDE 98.**- **(Değişik:25/5/2005-5353/10 md.)** (1) Soruşturma
+evresinde çağrı üzerine gelmeyen veya çağrı yapılamayan şüpheli
+hakkında, Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi
+tarafından yakalama emri düzenlenebilir. Ayrıca, tutuklama isteminin
+reddi kararına itiraz halinde, itiraz mercii tarafından da yakalama emri
 düzenlenebilir.
 
 \(2) Yakalanmış iken kolluk görevlisinin elinden kaçan şüpheli veya sanık
@@ -1538,8 +1598,9 @@ Kanununun 68 ve 74 üncü maddelerinde tanımlanan suçlar.
 f\) 31.8.1956 tarihli ve 6831 sayılı Orman Kanununun 110 uncu maddesinin
 dört ve beşinci fıkralarında tanımlanan kasten orman yakma suçları.
 
-\(4) Sadece adlî para cezasını gerektiren veya hapis cezasının üst sınırı
-iki yıldan fazla olmayan suçlarda tutuklama kararı verilemez.
+\(4) **(Değişik:25/5/2005-5353/11 md.)** Sadece adlî para cezasını
+gerektiren veya hapis cezasının üst sınırı bir yıldan fazla olmayan
+suçlarda tutuklama kararı verilemez.
 
 **Tutuklama kararı**
 
@@ -1584,8 +1645,7 @@ uzatılabilir; uzatma süresi toplam üç yılı geçemez.
 **MADDE 103.**- (1) Cumhuriyet savcısı, şüphelinin adlî kontrol altına
 alınarak serbest bırakılmasını sulh ceza hâkiminden isteyebilir.
 Hakkında tutuklama kararı verilmiş şüpheli ve müdafii de aynı istemde
-bulunabilirler. Bu hâlde sulh ceza hâkimi, Cumhuriyet savcısı ile
-şüpheli ve müdafiini dinledikten sonra üç gün içinde karar verir.
+bulunabilirler. **(Mülga üçüncü cümle: 25/5/2005-5353/12 md.)**
 
 \(2) Soruşturma evresinde Cumhuriyet savcısı adlî kontrol veya
 tutuklamanın artık gereksiz olduğu kanısına varacak olursa, şüpheliyi
@@ -1608,10 +1668,12 @@ incelemeden sonra verilir; bu karar re'sen de verilebilir.
 
 **Usul **
 
-**MADDE 105.**– Salıverilme istemi üzerine, merciince Cumhuriyet
-savcısı, şüpheli, sanık veya müdafii dinlendikten sonra, istemin
-kabulüne, reddine veya 109 uncu maddeye göre, adlî kontrol uygulanmasına
-karar verilebilir. Bu kararlara itiraz edilebilir.
+**MADDE 105.** — **(Değişik:25/5/2005-5353/13 md.)**
+
+\(1) 103 ve 104 üncü maddeler uyarınca yapılan istem üzerine, merciince
+Cumhuriyet savcısı, şüpheli, sanık veya müdafiin görüşü alındıktan
+sonra, üç gün içinde istemin kabulüne, reddine veya adlî kontrol
+uygulanmasına karar verilir. Bu kararlara itiraz edilebilir.
 
 **Salıverilenin yükümlülükleri **
 
@@ -1662,7 +1724,7 @@ içinde de re'sen karar verir.
 
 Adlî Kontrol
 
-**Adlî kontrol**
+**Adlî kontrol*^(1)^***
 
 **MADDE 109**. - (1) 100 üncü maddede belirtilen tutuklama sebeplerinin
 varlığı halinde, üst sınırı üç yıl veya daha az hapis cezasını
@@ -1706,11 +1768,15 @@ i\) Aile yükümlülüklerini yerine getireceğine ve adlî kararlar gereğince
 ödemeye mahkûm edildiği nafakayı düzenli olarak ödeyeceğine dair güvence
 vermek.
 
-\(4) Hâkim veya Cumhuriyet savcısı (d) bendinde belirtilen yükümlülüğün
+\(4) **(Ek:25/5/2005-5353/14 md.)**Şüphelinin, üçüncü fıkranın (a) ve (f)
+bentlerinde yazılı yükümlülüklere tâbi tutulması bakımından, birinci
+fıkrada belirtilen süre sınırı dikkate alınmaz.
+
+\(5) Hâkim veya Cumhuriyet savcısı (d) bendinde belirtilen yükümlülüğün
 uygulamasında şüphelinin meslekî uğraşılarında araç kullanmasına sürekli
 veya geçici olarak izin verebilir.
 
-\(5) Adlî kontrol altında geçen süre, şahsî hürriyeti sınırlama sebebi
+\(6) Adlî kontrol altında geçen süre, şahsî hürriyeti sınırlama sebebi
 sayılarak cezadan mahsup edilemez. Bu hüküm, maddenin üçüncü fıkrasının
 (e) bendinde belirtilen hallerde uygulanmaz.
 
@@ -1765,6 +1831,12 @@ giderilmesi ve eski hâle getirme; şüpheli veya sanık nafaka borçlarını
 
 \(2) Şüpheli veya sanığı güvence göstermeye zorunlu kılan kararda,
 güvencenin karşıladığı kısımlar ayrı ayrı gösterilir.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+(1) *25/5/2005 tarihli ve 5353 sayılı Kanunun 14 üncü maddesi ile bu
+    maddeye dördüncü fıkra eklenmiş ve diğer fıkralar buna göre teselsül
+    ettirilmiştir.*
 
 **Önceden ödetme**
 
@@ -1828,9 +1900,14 @@ uygulanmaz.
 
 **Arama kararı**
 
-**MADDE 119**. - (1) Hâkim kararı üzerine veya gecikmesinde sakınca
-bulunan hâllerde Cumhuriyet savcısının yazılı emri ile kolluk
-görevlileri arama yapabilirler.
+**MADDE 119**. - **(Değişik:25/5/2005-5353/15 md.)** (1) Hâkim kararı
+üzerine veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet
+savcısının, Cumhuriyet savcısına ulaşılamadığı hallerde ise kolluk
+amirinin yazılı emri ile kolluk görevlileri arama yapabilirler. Ancak,
+konutta, işyerinde ve kamuya açık olmayan kapalı alanlarda arama, hâkim
+kararı veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının
+yazılı emri ile yapılabilir. Kolluk amirinin yazılı emri ile yapılan
+arama sonuçları Cumhuriyet Başsavcılığına derhal bildirilir.
 
 \(2) Arama karar veya emrinde;
 
@@ -1843,16 +1920,15 @@ c\) Karar veya emrin geçerli olacağı zaman süresi,
 
 Açıkça gösterilir.
 
-\(3) Arama tutanağına işlemi yapanların açık kimlikleri yazılır. Arama
-sonucunda bazı eşyaya elkoyma söz konusu olduğunda 127 nci maddenin
-birinci fıkrası hükmü uygulanır.
+\(3) Arama tutanağına işlemi yapanların açık kimlikleri yazılır. **(Mülga
+ikinci cümle:25/5/2005-5353/15 md.)**
 
 \(4) Cumhuriyet savcısı hazır olmaksızın konut, işyeri veya diğer kapalı
 yerlerde arama yapabilmek için o yer ihtiyar heyetinden veya komşulardan
 iki kişi bulundurulur.
 
-\(5) Askerî mahallerde yapılacak arama, hâkim veya Cumhuriyet savcısının
-istem ve katılımıyla askerî makamlar tarafından yerine getirilir.
+\(5) Askerî mahallerde yapılacak arama, (…)*^(1)^* Cumhuriyet savcısının
+istem ve katılımıyla askerî makamlar tarafından yerine getirilir.*^(1)^*
 
 **Aramada hazır bulunabilecekler **
 
@@ -1883,6 +1959,11 @@ iddialarına da yer verilir.
 
 \(3) Koruma altına alınan veya elkonulan eşyanın tam bir defteri yapılır
 ve bu eşya resmî mühürle mühürlenir veya bir işaret konulur.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 15 inci maddesiyle bu
+fıkrada yer alan "hâkim veya" ibaresi madde metninden çıkarılmıştır.*
 
 **Belge veya kâğıtları inceleme yetkisi**
 
@@ -1938,16 +2019,19 @@ bu kimselerin nezdinde bulundukça elkonulamaz.
 
 **Elkoyma kararını verme yetkisi**
 
-**MADDE 127.** - (1) Hâkim kararı üzerine veya gecikmesinde sakınca
-bulunan hâllerde Cumhuriyet savcısının yazılı emri ile kolluk
-görevlileri, elkoyma işlemini gerçekleştirebilir.
+**MADDE 127.** - **(Değişik:25/5/2005-5353/16 md.)** (1) Hâkim kararı
+üzerine veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet
+savcısının, Cumhuriyet savcısına ulaşılamadığı hallerde ise kolluk
+amirinin yazılı emri ile kolluk görevlileri, elkoyma işlemini
+gerçekleştirebilir.
 
 \(2) Kolluk görevlisinin açık kimliği, elkoyma işlemine ilişkin tutanağa
 geçirilir.
 
-\(3) Cumhuriyet savcısının yazılı emri yirmidört saat içinde görevli
-hâkimin onayına sunulur. Hâkim, kararını elkoymadan itibaren kırksekiz
-saat içinde açıklar; aksi hâlde elkoyma kendiliğinden kalkar.
+\(3) **(Değişik:25/5/2005-5353/16 md.)** Hâkim kararı olmaksızın yapılan
+elkoyma işlemi, yirmidört saat içinde görevli hâkimin onayına sunulur.
+Hâkim, kararını elkoymadan itibaren kırksekiz saat içinde açıklar; aksi
+hâlde elkoyma kendiliğinden kalkar.
 
 \(4) Zilyedliğinde bulunan eşya veya diğer malvarlığı değerlerine
 elkonulan kimse, hâkimden her zaman bu konuda bir karar verilmesini
@@ -1955,9 +2039,9 @@ isteyebilir.
 
 \(5) Elkoyma işlemi, suçtan zarar gören mağdura gecikmeksizin bildirilir.
 
-\(6) Askerî mahâllerde yapılacak elkoyma işlemi, hâkim veya Cumhuriyet
+\(6) Askerî mahâllerde yapılacak elkoyma işlemi, (…)*^(1)^*Cumhuriyet
 savcısının istem ve katılımıyla askerî makamlar tarafından yerine
-getirilir.
+getirilir.*^(1)^*
 
 **Taşınmazlara, hak ve alacaklara elkoyma **
 
@@ -1984,6 +2068,11 @@ h\) Diğer malvarlığı değerlerine,
 Elkonulabilir. Bu taşınmaz, hak, alacak ve diğer malvarlığı değerlerinin
 şüpheli veya sanıktan başka bir kişinin zilyetliğinde bulunması halinde
 dahi, elkoyma işlemi yapılabilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 16 ncı maddesiyle bu
+fıkrada yer alan "hâkim veya" ibaresi madde metninden çıkarılmıştır.*
 
 \(2) Birinci fıkra hükmü;
 
@@ -2249,41 +2338,46 @@ BEŞİNCİ BÖLÜM
 
 Telekomünikasyon Yoluyla Yapılan İletişimin Denetlenmesi
 
-**İletişimin tespiti, dinlenmesi ve kayda alınması **
+*İletişimin tespiti, dinlenmesi ve kayda alınması *
 
-**MADDE 135**. - (1) Bir suç dolayısıyla yapılan soruşturmalarda, suç
-işlendiğine ilişkin kuvvetli şüphe sebeplerinin varlığı ve başka suretle
-delil elde edilmesi imkânının bulunmaması durumunda, hâkim veya
-gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının kararıyla
-şüpheli veya sanığın telekomünikasyon yoluyla iletişimi tespit
-edilebilir, dinlenebilir ve kayda alınabilir. Cumhuriyet savcısı
-kararını derhâl hâkimin onayına sunar ve hâkim, kararını en geç
-yirmidört saat içinde verir. Sürenin dolması veya hâkim tarafından
-aksine karar verilmesi halinde tedbir Cumhuriyet savcısı tarafından
-derhâl kaldırılır.
+**Madde 135 –** (1) **(Değişik birinci cümle: 25/5/2005 – 5353/17 md.)**
+Bir suç dolayısıyla yapılan soruşturma ve kovuşturmada, suç işlendiğine
+ilişkin kuvvetli şüphe sebeplerinin varlığı ve başka suretle delil elde
+edilmesi imkânının bulunmaması durumunda, hâkim veya gecikmesinde
+sakınca bulunan hallerde Cumhuriyet savcısının kararıyla şüpheli veya
+sanığın telekomünikasyon yoluyla iletişimi tespit edilebilir,
+dinlenebilir, kayda alınabilir ve sinyal bilgileri değerlendirilebilir.
+Cumhuriyet savcısı kararını derhâl hâkimin onayına sunar ve hâkim,
+kararını en geç yirmidört saat içinde verir. Sürenin dolması veya hâkim
+tarafından aksine karar verilmesi halinde tedbir Cumhuriyet savcısı
+tarafından derhâl kaldırılır.
 
-\(2) Şüphelinin tanıklıktan çekinebilecek kişilerle arasındaki iletişimi
-kayda alınamaz. Kayda alma gerçekleştikten sonra bu durumun anlaşılması
-hâlinde, alınan kayıtlar derhâl yok edilir.
+\(2) Şüpheli veya sanığın tanıklıktan çekinebilecek kişilerle arasındaki
+iletişimi kayda alınamaz. Kayda alma gerçekleştikten sonra bu durumun
+anlaşılması hâlinde, alınan kayıtlar derhâl yok edilir. *^(1)^*
 
 \(3) Birinci fıkra hükmüne göre verilen kararda, yüklenen suçun türü,
 hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının türü,
 telefon numarası veya iletişim bağlantısını tespite imkân veren kodu,
 tedbirin türü, kapsamı ve süresi belirtilir. Tedbir kararı en çok üç ay
-için verilebilir; bu süre, bir defa daha uzatılabilir.
+için verilebilir; bu süre, bir defa daha uzatılabilir. **(Ek cümle:
+25/5/2005 – 5353/17 md.)** Ancak, örgütün faaliyeti çerçevesinde işlenen
+suçlarla ilgili olarak gerekli görülmesi halinde, hâkim bir aydan fazla
+olmamak üzere sürenin müteaddit defalar uzatılmasına karar verebilir.
 
-\(4) Şüpheli veya sanığın yakalanabilmesi için, kullanmakta olduğu mobil
+\(4) Şüpheli veya sanığın yakalanabilmesi için, (…) *^(1)^* mobil
 telefonun yeri, hâkim veya gecikmesinde sakınca bulunan hallerde
 Cumhuriyet savcısının kararına istinaden tespit edilebilir. Bu hususa
-ilişkin olarak verilen kararda, kullanılan mobil telefon numarası ve
+ilişkin olarak verilen kararda, (…)*^(1\ )^* mobil telefon numarası ve
 tespit işleminin süresi belirtilir. Tespit işlemi en çok üç ay için
 yapılabilir; bu süre, bir defa daha uzatılabilir.
 
 \(5) Bu madde hükümlerine göre alınan karar ve yapılan işlemler, tedbir
 süresince gizli tutulur.
 
-\(6) Bu madde hükümleri ancak aşağıda sayılan suçlarla ilgili olarak
-uygulanabilir:
+\(6) Bu madde kapsamında dinleme, kayda alma ve sinyal bilgilerinin
+değerlendirilmesine ilişkin hükümler ancak aşağıda sayılan suçlarla
+ilgili olarak uygulanabilir: *^(1)^*
 
 a\) Türk Ceza Kanununda yer alan;
 
@@ -2304,30 +2398,50 @@ a\) Türk Ceza Kanununda yer alan;
 8\. Suç işlemek amacıyla örgüt kurma (iki, yedi ve sekizinci fıkralar
 hariç, madde 220),
 
-9\. İhaleye fesat karıştırma (madde 235),
+9\. **(Ek: 25/5/2005 – 5353/17 md.)** Fuhuş (madde 227, fıkra 3), *^(1)^*
 
-10\. Rüşvet (madde 252),
+10\. İhaleye fesat karıştırma (madde 235), *^(1)^*
 
-11\. Suçtan kaynaklanan malvarlığı değerlerini aklama (madde 282),
+11\. Rüşvet (madde 252), *^(1)^*
 
-12\. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde
-315),
+12\. Suçtan kaynaklanan malvarlığı değerlerini aklama (madde 282),
+*^(1)^*
 
-13\. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331,
-333, 334, 335, 336, 337) suçları.
+13\. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde
+315), *^(1)^*
+
+14\. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331,
+333, 334, 335, 336, 337) suçları. *^(1)^*
 
 b\) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda
 tanımlanan silah kaçakçılığı (madde 12) suçları.
 
-c\) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını
-gerektiren suçlar.
+c\) **(Ek: 25/5/2005 – 5353/17 md.)** Bankalar Kanununun 22 nci
+maddesinin (3) ve (4) numaralı fıkralarında tanımlanan zimmet suçu,
+*^(1)^*
 
-d\) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü
-maddelerinde tanımlanan suçlar.
+d\) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını
+gerektiren suçlar. *^(1)^*
+
+e\) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü
+maddelerinde tanımlanan suçlar. *^(1)^*
 
 \(7) Bu maddede belirlenen esas ve usuller dışında hiç kimse, bir
 başkasının telekomünikasyon yoluyla iletişimini dinleyemez ve kayda
 alamaz.
+
+––––––––––––––––––––––––––––––––––
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 17 nci maddesiyle; ikinci
+fıkrasında geçen "Şüphelinin" ibaresi "Şüpheli veya sanığın" olarak
+değiştirilmiş, dördüncü fıkrasındaki "kullanmakta olduğu" ve
+"kullanılan" ibareleri madde metninden çıkarılmış, altıncı fıkrasında
+geçen "hükümleri" ibaresi "kapsamında dinleme, kayda alma ve sinyal
+bilgilerinin değerlendirilmesine ilişkin hükümler" olarak değiştirilmiş,
+altıncı fıkranın (a) bendine (8) numaralı alt bentten sonra gelmek üzere
+(9) numaralı alt bent eklenmiş ve diğer alt bentler buna göre teselsül
+ettirilmiş ve (b) bendinden sonra gelmek üzere (c) bendi eklenmiş ve
+diğer bentler buna göre teselsül ettirilmiştir.*
 
 **Müdafiin bürosu ve yerleşim yeri**
 
@@ -2359,9 +2473,10 @@ durumda, yapılan tespit veya dinlemeye ilişkin kayıtlar Cumhuriyet
 savcısının denetimi altında en geç on gün içinde yok edilerek, durum bir
 tutanakla tespit edilir.
 
-\(4) Tespit ve dinlemeye ilişkin kayıtların yok edilmesi halinde, en geç
-onbeş gün içinde, Cumhuriyet Başsavcılığı, tedbirin nedeni, kapsamı,
-süresi ve sonucu hakkında ilgilisine yazılı olarak bilgi verir.
+\(4) Tespit ve dinlemeye ilişkin kayıtların yok edilmesi halinde,
+soruşturma evresinin bitiminden itibaren en geç onbeş gün içinde,
+Cumhuriyet Başsavcılığı, tedbirin nedeni, kapsamı, süresi ve sonucu
+hakkında ilgilisine yazılı olarak bilgi verir.*^(1)\ ^*
 
 **Tesadüfen elde edilen deliller **
 
@@ -2435,7 +2550,7 @@ maddelerinde tanımlanan suçlar.
 hâlinde, şüpheli veya sanığın kamuya açık yerlerdeki faaliyetleri ve
 işyeri teknik araçlarla izlenebilir, ses veya görüntü kaydı alınabilir:
 
-a\) Türk Ceza Kanununda yer alan;
+a\) Türk Ceza Kanununda yer alan; *^(2)^*
 
 1\. Göçmen kaçakçılığı ve insan ticareti (madde 79, 80),
 
@@ -2448,16 +2563,28 @@ a\) Türk Ceza Kanununda yer alan;
 5\. Suç işlemek amacıyla örgüt kurma (iki, yedi ve sekizinci fıkralar
 hariç, madde 220),
 
-6\. İhaleye fesat karıştırma (madde 235),
+6\. Fuhuş (madde 227, fıkra 3)*^(2)^*
 
-7\. Rüşvet (madde 252),
+7\. İhaleye fesat karıştırma (madde 235),
 
-8\. Suçtan kaynaklanan malvarlığı değerlerini aklama (madde 282),
+8\. Rüşvet (madde 252),
 
-9\. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde
+9\. Suçtan kaynaklanan malvarlığı değerlerini aklama (madde 282),
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 18 inci maddesiyle bu
+fıkrada geçen "halinde" ibaresinden sonra gelmek üzere "soruşturma
+evresinin bitiminden itibaren" ibaresi eklenmiş ve metne işlenmiştir.*
+
+*(2) 25/5/2005 tarihli ve 5353 sayılı Kanunun 19 uncu maddesiyle bu
+bende altı numaralı alt bent eklenmiş ve diğer alt bentler buna göre
+teselsül ettirilmiştir.*
+
+10\. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde
 315),
 
-10\. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331,
+11\. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331,
 333, 334, 335, 336, 337),
 
 Suçları.
@@ -2477,7 +2604,10 @@ tarafından verilen kararlar yirmidört saat içinde hâkim onayına sunulur.
 
 \(3) Teknik araçlarla izleme kararı en çok dört haftalık süre için
 verilebilir. Bu süre gerektiğinde bir defaya mahsus olmak üzere
-uzatılabilir.
+uzatılabilir. **(Ek cümle: 25/5/2005 – 5353/19 md.)** Ancak, örgütün
+faaliyeti çerçevesinde işlenen suçlarla ilgili olarak gerekli görülmesi
+halinde, hâkim bir haftadan fazla olmamak üzere sürenin müteaddit
+defalar uzatılmasına karar verebilir.
 
 \(4) Elde edilen deliller, yukarıda sayılan suçlarla ilgili soruşturma ve
 kovuşturma dışında kullanılamaz; ceza kovuşturması bakımından gerekli
@@ -2562,8 +2692,9 @@ hukukunun genel prensiplerine göre verilecek tazminat miktarının
 saptanmasında mahkeme gerekli gördüğü her türlü araştırmayı yapmaya veya
 hâkimlerinden birine yaptırmaya yetkilidir.
 
-\(7) Mahkeme, istemde bulunanı, Cumhuriyet savcısını ve Hazine
-temsilcisini dinledikten sonra kararını verir.
+\(7) **(Değişik: 25/5/2005 – 5353/20 md.)** Mahkeme, kararını duruşmalı
+olarak verir. İstemde bulunan ile Hazine temsilcisi, açıklamalı çağrı
+kâğıdı tebliğine rağmen gelmezlerse, yokluklarında karar verilebilir.
 
 \(8) Karara karşı, istemde bulunan, Cumhuriyet savcısı veya Hazine
 temsilcisi, istinaf yoluna başvurabilir; inceleme öncelikle ve
@@ -2579,8 +2710,10 @@ Cumhuriyet savcısının yazılı istemi ile aynı mahkemeden alınacak kararla
 kamu alacaklarının tahsiline ilişkin mevzuat hükümleri uygulanarak geri
 alınır. Bu karara itiraz edilebilir.
 
-\(2) Devlet, ödediği tazminattan dolayı, koruma tedbiriyle ilgili olarak
-görevini kötüye kullanan kamu görevlilerine rücu eder.
+\(2) **(Değişik: 25/5/2005 – 5353/21 md.)** Devlet, ödediği tazminattan
+dolayı, koruma tedbiriyle ilgili olarak görevinin gereklerine aykırı
+hareket etmek suretiyle görevini kötüye kullanan kamu görevlilerine rücu
+eder.
 
 \(3) İftira konusunu oluşturan suç veya yalan tanıklık nedeniyle
 gözaltına alınma ve tutuklama halinde; Devlet, iftira eden veya yalan
@@ -2754,7 +2887,8 @@ de bulunmazsa istemi aranmaksızın bir müdafi görevlendirilir.
 \(3) Üst sınırı en az beş yıl hapis cezasını gerektiren suçlardan dolayı
 yapılan soruşturma ve kovuşturmada ikinci fıkra hükmü uygulanır.
 
-**Müdafi görevini yerine getirmediğinde yapılacak işlem**
+**Müdafi görevini yerine getirmediğinde yapılacak işlem ve müdafilik
+görevinden yasaklanma*^(1)^***
 
 **MADDE 151**. - (1) 150 nci madde hükmüne göre görevlendirilen müdafi,
 duruşmada hazır bulunmaz veya vakitsiz olarak duruşmadan çekilir veya
@@ -2763,8 +2897,35 @@ bir müdafi görevlendirilmesi için gerekli işlemi yapar. Bu durumda
 mahkeme oturuma ara verebileceği gibi oturumun ertelenmesine de karar
 verebilir.
 
-\(2) Eğer yeni müdafi savunmasını hazırlamak için yeterli zaman
-olmadığını açıklarsa oturum ertelenir.
+(1) Eğer yeni müdafi savunmasını hazırlamak için yeterli zaman
+    olmadığını açıklarsa oturum ertelenir.
+
+\(3) **(Ek: 25/5/2005 – 5353/22 md.)** 149 uncu maddeye göre seçilen veya
+150 nci maddeye göre görevlendirilen ve Türk Ceza Kanununun 220 ve 314
+üncü maddesinde sayılan suçlar ile terör suçlarından tutuklu ve hükümlü
+olanların müdafilik veya vekillik görevini üstlenen avukat, hakkında bu
+fıkrada sayılan suçlar nedeniyle kovuşturma açılması halinde tutuklu
+veya hükümlünün müdafilik veya vekilliğini üstlenmekten yasaklanabilir.
+
+\(4) **(Ek: 25/5/2005 – 5353/22 md.)** Cumhuriyet savcısının yasaklamaya
+ilişkin talebi hakkında, müdafi veya vekil hakkında açılan kovuşturmanın
+yapıldığı mahkeme tarafından gecikmeksizin karar verilir. Bu kararlara
+karşı itiraz edilebilir. İtiraz sonucunda yasaklama kararının
+kaldırılması halinde avukat görevini devam ettirir. Müdafilik görevinden
+yasaklama kararı, kovuşturma konusu suçla sınırlı olmak üzere, bir yıl
+süre ile verilebilir. Ancak, kovuşturmanın niteliği itibariyle bu
+süreler altı aydan fazla olmamak üzere en fazla iki defa uzatılabilir.
+Kovuşturma sonunda mahkûmiyet dışında bir karar verilmesi halinde,
+kesinleşmesi beklenmeksizin yasaklama kararı kendiliğinden kalkar.
+
+\(5) **(Ek: 25/5/2005 – 5353/22 md.)** Görevden yasaklama kararı, tutuklu
+veya hükümlü ile yeni bir müdafi görevlendirilmesi için derhal ilgili
+baro başkanlığına bildirilir.
+
+\(6) **(Ek: 25/5/2005 – 5353/22 md.)** Müdafi veya vekil görevden
+yasaklanmış bulunduğu sürece başka davalarla ilgili olsa bile
+müdafiliğini veya vekilliğini üstlendiği kişiyi ceza infaz kurumunda
+veya tutukevinde ziyaret edemez.
 
 **Şüpheli veya sanığın birden fazla olması hâlinde savunma **
 
@@ -2786,10 +2947,10 @@ bilirkişi raporları ve adı geçenlerin hazır bulunmaya yetkili oldukları
 diğer adlî işlemlere ilişkin tutanaklar hakkında, ikinci fıkra hükmü
 uygulanmaz.
 
-\(4) Müdafi, Cumhuriyet Savcılığınca iddianamenin mahkemeye verildiği
-tarihten itibaren dosya içeriğini ve muhafaza altına alınmış delilleri
-inceleyebilir; bütün tutanak ve belgelerin örneklerini harçsız olarak
-alabilir.
+\(4) **(Değişik: 25/5/2005 – 5353/23 md.)** Müdafi, iddianamenin mahkeme
+tarafından kabul edildiği tarihten itibaren dosya içeriğini ve muhafaza
+altına alınmış delilleri inceleyebilir; bütün tutanak ve belgelerin
+örneklerini harçsız olarak alabilir.
 
 \(5) Bu maddenin içerdiği haklardan suçtan zarar görenin vekili de
 yararlanır.
@@ -2825,6 +2986,12 @@ yapıldığı yer barosunca görevlendirilir.
 
 \(3) Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde,
 baro tarafından görevlendirilen avukatın görevi sona erer.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 22 inci maddesiyle bu
+maddenin başlığı “Müdafi görevini yerine getirmediğinde yapılacak işlem”
+iken metne işlendiği şekilde değiştirilmiştir.*
 
 **İKİNCİ KİTAP**
 
@@ -2911,7 +3078,8 @@ derhâl bildirmek ve bu Cumhuriyet savcısının adliyeye ilişkin bütün
 emirlerini gecikmeksizin yerine getirmekle yükümlüdür.
 
 \(3) Cumhuriyet savcısı, adlî kolluk görevlilerine emirleri yazılı; acele
-hâllerde, sözlü olarak verir.
+hâllerde, sözlü olarak verir. **(Ek Cümle: 25/5/2005 – 5353/24 md.)**
+Sözlü emir, en kısa sürede yazılı olarak da bildirilir.
 
 \(4) Diğer kamu görevlileri de, yürütülmekte olan soruşturma kapsamında
 ihtiyaç duyulan bilgi ve belgeleri, talep eden Cumhuriyet savcısına
@@ -2924,7 +3092,9 @@ savcılarının sözlü veya yazılı istem ve emirlerini yapmakta kötüye
 kullanma veya ihmalleri görülen kolluk âmir ve memurları hakkında
 Cumhuriyet savcılarınca doğrudan doğruya soruşturma yapılır. Vali ve
 kaymakamlar hakkında 2.12.1999 tarihli ve 4483 sayılı Memurlar ve Diğer
-Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanır.
+Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri, en üst
+dereceli kolluk amirleri hakkında ise, hâkimlerin görevlerinden dolayı
+tâbi oldukları yargılama usulü uygulanır.*^(1)^*
 
 \(6) Ağır cezayı gerektiren suçüstü hâllerinde, bu Kanunun hükümleri
 uygulanmak koşuluyla, vali ve kaymakamların kişisel suçlarından dolayı
@@ -2958,9 +3128,20 @@ Teşkilatı Kanununun 8, 9 ve 12 nci maddeleri, 10.3.1983 tarihli ve 2803
 sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanununun 7 nci maddesi,
 2.7.1993 tarihli ve 485 sayılı Gümrük Müsteşarlığının Teşkilat ve
 Görevleri Hakkında Kanun Hükmünde Kararnamenin 8 inci maddesi ve
-9.7.1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun 3
+9.7.1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun 4
 üncü maddesinde belirtilen soruşturma işlemlerini yapan güvenlik
-görevlilerini ifade eder.
+görevlilerini ifade eder.*^(2)^*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 24 üncü maddesiyle bu
+fıkraya "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması
+Hakkında Kanun Hükümleri" ibaresinden sonra gelmek üzere ", en üst
+dereceli kolluk amirleri hakkında ise, hâkimlerin görevlerinden dolayı
+tâbi oldukları yargılama usulü" ibaresi eklenmiştir.*
+
+*(2) 25/5/2005 tarihli ve 5353 sayılı Kanunun 25 inci maddesiyle bu
+fıkrada yer alan “3 üncü” ibaresi “4 üncü” olarak değiştirilmiştir.*
 
 \(2) Soruşturma işlemleri, Cumhuriyet savcısının emir ve talimatları
 doğrultusunda öncelikle adlî kolluğa yaptırılır. Adlî kolluk
@@ -3115,13 +3296,16 @@ ceza mahkemesine en yakın ağır ceza mahkemesi başkanına itiraz edebilir.
 \(2) İtiraz dilekçesinde, kamu davasının açılmasını gerektirebilecek
 olaylar ve deliller belirtilir.
 
-\(3) Başkan, kamu davasının açılması için yeterli nedenler bulunmazsa,
-istemi gerekçeli olarak reddeder; istemde bulunan suçtan zarar göreni
-giderlere mahkûm eder ve dosyayı Cumhuriyet savcısına gönderir.
-Cumhuriyet savcısı, kararı itiraz edene ve şüpheliye bildirir.
+\(3) **(Değişik: 25/5/2005 – 5353/26 md.)** Başkan, kararını vermek için
+soruşturmanın genişletilmesine gerek görür ise bu hususu açıkça
+belirtmek suretiyle, o yer sulh ceza hâkimini görevlendirebilir; kamu
+davasının açılması için yeterli nedenler bulunmazsa, istemi gerekçeli
+olarak reddeder; itiraz edeni giderlere mahkûm eder ve dosyayı
+Cumhuriyet savcısına gönderir. Cumhuriyet savcısı, kararı itiraz edene
+ve şüpheliye bildirir.
 
-\(4) Başkanın, kamu davasının açılmasına karar vermesi halinde;
-Cumhuriyet savcısı kamu davasını açar.
+\(4) **(Değişik: 25/5/2005 – 5353/26 md.)** Başkan istemi yerinde
+bulursa, Cumhuriyet savcısı iddianame düzenleyerek mahkemeye verir.
 
 \(5) Cumhuriyet savcısının kamu davasının açılmaması hususunda takdir
 yetkisini kullandığı hâllerde bu madde hükmü uygulanmaz.
@@ -3133,20 +3317,36 @@ karar vermesine bağlıdır.
 
 **İddianamenin iadesi**
 
-**MADDE 174**. - (1) Mahkeme, iddianamenin ve soruşturma evrakının
-verildiği tarihten itibaren yedi gün içinde soruşturma evresine ilişkin
-bütün belgeler incelendikten sonra; iddianamenin 170 inci maddedeki
-unsurları içermediğini tespit ettiğinde, eksik ve hatalı noktaları
-belirterek iddianamenin Cumhuriyet Başsavcılığına iadesine karar verir.
+**MADDE 174**. – **(Değişik: 25/5/2005 – 5353/27 md.)**
 
-\(2) Önödemeye tâbi işlerde, ön ödeme usulü uygulanmaksızın kamu davası
-açılamaz. Aksi takdirde iddianame iade edilir.
+\(1) Mahkeme tarafından, iddianamenin ve soruşturma evrakının verildiği
+tarihten itibaren onbeş gün içinde soruşturma evresine ilişkin bütün
+belgeler incelendikten sonra, eksik veya hatalı noktalar belirtilmek
+suretiyle;
 
-\(3) Cumhuriyet savcısı, iddianamenin iadesi üzerine, kararda gösterilen
-eksiklikleri tamamladıktan ve hatalı noktaları düzelttikten sonra
-yeniden iddianame düzenleyerek dosyayı mahkemeye gönderir.
+a\) 170 inci maddeye aykırı olarak düzenlenen,
 
-\(4) İade kararına karşı Cumhuriyet savcısı itiraz edebilir.
+b\) Suçun sübûtuna etki edeceği mutlak sayılan mevcut bir delil
+toplanmadan düzenlenen,
+
+c\) Önödemeye veya uzlaşmaya tâbi olduğu soruşturma dosyasından açıkça
+anlaşılan işlerde önödeme veya uzlaşma usulü uygulanmaksızın düzenlenen,
+
+İddianamenin Cumhuriyet Başsavcılığına iadesine karar verilir.
+
+\(2) Suçun hukukî nitelendirilmesi sebebiyle iddianame iade edilemez.
+
+\(3) En geç birinci fıkrada belirtilen süre sonunda iade edilmeyen
+iddianame kabul edilmiş sayılır.
+
+\(4) Cumhuriyet savcısı, iddianamenin iadesi üzerine, kararda gösterilen
+eksiklikleri tamamladıktan ve hatalı noktaları düzelttikten sonra,
+kovuşturmaya yer olmadığı kararı verilmesini gerektiren bir durumun
+bulunmaması halinde, yeniden iddianame düzenleyerek dosyayı mahkemeye
+gönderir. İlk kararda belirtilmeyen sebeplere dayanılarak yeniden
+iddianamenin iadesi yoluna gidilemez.
+
+\(5) İade kararına karşı Cumhuriyet savcısı itiraz edebilir.
 
 ÜÇÜNCÜ KİTAP
 
@@ -3382,6 +3582,10 @@ edilemeyeceğini öne sürerse mahkeme, bu hususta bir karar verir.
 hazır bulunmayan sanık hakkında duruşma yapılmaz. Gelmemesinin geçerli
 nedeni olmayan sanığın zorla getirilmesine karar verilir.
 
+\(2) **(Ek: 25/5/2005 – 5353/28 md.)** Sanık hakkında, toplanan delillere
+göre mahkûmiyet dışında bir karar verilmesi gerektiği kanısına
+varılırsa, sorgusu yapılmamış olsa da dava yokluğunda bitirilebilir.
+
 **Sanığın mahkemeden uzaklaşması**
 
 **MADDE 194**. - (1) Mahkemeye gelen sanığın duruşmanın devamı süresince
@@ -3529,7 +3733,11 @@ Delillerin Ortaya Konulması ve Tartışılması
 **Delillerin ortaya konulması ve reddi**
 
 **MADDE 206.**- (1) Sanığın sorguya çekilmesinden sonra delillerin
-ortaya konulmasına başlanır.
+ortaya konulmasına başlanır. **(Ek cümle: 25/5/2005-5353/29 md.)**
+Ancak, sanığın tebligata rağmen mazeretsiz olarak gelmemesi sebebiyle
+sorgusunun yapılamamış olması, delillerin ortaya konulmasına engel
+olmaz. **(Ek cümle: 25/5/2005-5353/29 md.)**Ortaya konulan deliller,
+sonradan gelen sanığa bildirilir.
 
 \(2) Ortaya konulması istenilen bir delil aşağıda yazılı hâllerde
 reddolunur:
@@ -3544,8 +3752,7 @@ c\) İstem, sadece davayı uzatmak maksadıyla yapılmışsa.
 gösterirlerse, tanığın dinlenmesinden veya başka herhangi bir delilin
 ortaya konulmasından vazgeçilebilir.
 
-\(4) Katılan, yalnız kişisel haklarını ispat için gösterdiği delilden
-vazgeçebilir.
+\(4) **(Mülga: 25/5/2005-5353/29 md.)**
 
 **Delil ve olayın geç bildirilmesi**
 
@@ -3768,8 +3975,9 @@ Hallerinde verilir.
 a\) Yüklenen suçla bağlantılı olarak yaş küçüklüğü, akıl hastalığı veya
 sağır ve dilsizlik hali ya da geçici nedenlerin bulunması,
 
-b\) Yüklenen suçun zorunluluk hali ya da cebir veya tehdit etkisiyle
-işlenmesi,
+b\) **(Değişik: 25/5/2055-5353/30 md.)** Yüklenen suçun hukuka aykırı
+fakat bağlayıcı emrin yerine getirilmesi suretiyle veya zorunluluk hali
+ya da cebir veya tehdit etkisiyle işlenmesi,
 
 c\) Meşru savunmada sınırın heyecan, korku ve telaş nedeniyle aşılması,
 
@@ -4174,16 +4382,32 @@ kalmaz.
 
 Kaçakların Yargılanması
 
-**Kaçağın tanımı**
+**Kaçağın tanımı *^(1)^***
 
 **MADDE 247.**- (1) Hakkındaki kovuşturmanın sonuçsuz kalmasını sağlamak
 amacıyla yurt içinde saklanan veya yabancı ülkede bulunan ve bu nedenle
 mahkeme tarafından kendisine ulaşılamayan kişiye kaçak denir.
 
-\(2) Kaçak sanık hakkında kovuşturma yapılabilir. Ancak, daha önce
+\(2) **(Ek: 25/5/2055-5353/31 md.) *^(1)^***
+
+Hakkında, 248 inci maddenin ikinci fıkrasında belirtilen suçlardan
+dolayı kovuşturma başlatılmış olan sanığın, yetkili mahkemece usulüne
+göre yapılan tebligata uymamasından dolayı verilen zorla getirilme
+kararı da yerine getirilemez ise, mahkeme;
+
+a\) Çağrının bir gazete ile sanığın bilinen konutunun kapısına asılmak
+suretiyle ilânına karar verir; yapılacak ilânlarda, onbeş gün içinde
+gelmediği takdirde 248 inci maddede gösterilen tedbirlere
+hükmedilebileceğini ayrıca açıklar,
+
+b\) Bu işlemlerin yerine getirildiğinin bir tutanak ile saptanmasından
+itibaren onbeş gün içinde başvurmayan sanığın kaçak olduğuna karar
+verir.
+
+\(3) Kaçak sanık hakkında kovuşturma yapılabilir. Ancak, daha önce
 sorgusu yapılmamış ise, mahkûmiyet kararı verilemez.
 
-\(3) Duruşma yapılan hâllerde kaçak sanığın müdafii yoksa, mahkeme
+\(4) Duruşma yapılan hâllerde kaçak sanığın müdafii yoksa, mahkeme
 barodan bir avukat görevlendirilmesini ister.
 
 **Zorlama amaçlı elkoyma ve teminat belgesi **
@@ -4237,6 +4461,12 @@ a\) Türk Ceza Kanununda tanımlanan;
 333, 334, 335, 336, 337),
 
 Suçları,
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 31 inci maddesiyle bu
+maddeye ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül
+ettirilmiştir.*
 
 b\) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda
 tanımlanan silah kaçakçılığı (madde 12) suçları,
@@ -5657,14 +5887,14 @@ girer.*^(1)^*
 bu maddede yer alan "1 Nisan 2005“ ibaresi "1 Haziran 2005“ şeklinde
 değiştirilmiş ve metne işlenmiştir.*
 
-  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------
          **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5271 sayılı Kanunun değiştirilen maddeleri**
                                                                                                                                                     
                                                                                   **Resmi Gazete Tarihi**                                           
 
   1.     5328                       31/3/2005                                     31/3/2005                                                         334
 
-  1.                                                                                                                                                
+  1.     5353                       1/6/2005                                      1/6/2005                                                          35, 75, 76, 80, 81, 85, 90, 91, 94, 98, 100, 103, 105, 109, 119, 127, 135, 137, 140, 142, 143, 151, 153, 161, 164, 173, 174, 193, 206, 223, 247
 
   1.                                                                                                                                                
 
@@ -5689,6 +5919,6 @@ değiştirilmiş ve metne işlenmiştir.*
   1.                                                                                                                                                
 
   1.                                                                                                                                                
-  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
