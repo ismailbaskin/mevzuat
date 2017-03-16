@@ -1,12 +1,10 @@
 1.  #### 
 
-    #### 30/7/2003 tarihli ve 4963 sayılı Kanunla değişik hali
+    #### 1/7/2005 tarihli ve 5378 sayılı Kanunla değişik
 
     #### TÜRK MEDENÎ KANUNU 
 
-** **
-
-** **
+  
 
   ------------------------------------ --------------------------
   **Kanun Numarası **                  : 4721
@@ -556,7 +554,7 @@ DERNEKLER
 
 **A. Kuruluşu**
 
-**I. Tanımı**
+**I. Tanımı **
 
 **MADDE 56**.- Dernekler, gerçek veya tüzel en az yedi kişinin kazanç
 paylaşma dışında belirli ve ortak bir amacı gerçekleştirmek üzere, bilgi
@@ -577,17 +575,21 @@ III. Tüzük
 
 **MADDE 58.-** Her derneğin bir tüzüğü bulunur.
 
-Dernek tüzüğünde derneğin adı, amacı, yerleşim yeri, kurucuları, gelir
-kaynakları, üyelik koşulları, organları ve örgütü ile geçici yönetim
-kurulunun gösterilmesi zorunludur.
+Dernek tüzüğünde derneğin adı, amacı, (...)^(2)^ gelir kaynakları,
+üyelik koşulları, organları ve örgütü ile geçici yönetim kurulunun
+gösterilmesi zorunludur.
 
 Dernek tüzüğü, kanunun emredici hükümlerine aykırı olamaz.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) Bu fıkrada geçen “en az yedi gerçek kişinin” ibaresi, 30/7/2003
-tarihli ve 4963 sayılı Kanunun 31 inci maddesiyle “gerçek veya tüzel en
-az yedi kişinin” olarak değiştirilmiş ve metne işlenmiştir.*
+(1) *Bu fıkrada geçen “en az yedi gerçek kişinin” ibaresi, 30/7/2003
+    tarihli ve 4963 sayılı Kanunun 31 inci maddesiyle “gerçek veya tüzel
+    en az yedi kişinin” olarak değiştirilmiş ve metne işlenmiştir.*
+
+(2) *4/11/2004 tarihli ve 5253 sayılı Kanunun 38 inci maddesinin “B”
+    bendi hükmü ile burada yer alan “*yerleşim yeri, kurucuları,*”
+    ibaresi madde metninden çıkarılmıştır.*
 
 Dernek tüzüğünde düzenlenmemiş konularda kanun hükümleri uygulanır.
 
@@ -624,16 +626,15 @@ dernek, dernekler kütüğüne kaydedilir.
 
 3\. Dernek tüzüğünün ilânı
 
-**MADDE 61.-** Dernek tüzüğü, derneğe yapılan yazılı bildirimden
-başlayarak onbeş gün içinde yerel bir gazete ile ilân edilir.
-
-Tüzük ve yerleşim yeri değişikliklerinde de aynı usul uygulanır.
+**MADDE 61.-** (**Mülga: 4/11/2004-5253/38-C md.) **
 
 4\. İlk genel kurul toplantısı
 
-**MADDE 62.-** Dernekler, tüzüklerinin gazetede yayımlandığı günü
-izleyen altı ay içinde ilk genel kurul toplantılarını yapmak ve zorunlu
-organlarını oluşturmakla yükümlüdürler.
+**MADDE 62.-** **(Değişik: 4/11/2004-5253/38-A md.) **
+
+Dernekler, 60 ıncı maddenin son fıkrası gereğince yapılan yazılı
+bildirimi izleyen altı ay içinde ilk genel kurul toplantılarını yapmak
+ve zorunlu organlarını oluşturmakla yükümlüdürler.
 
 **B. Üyelik**
 
@@ -650,16 +651,20 @@ kabul etmeye zorlanamaz.
 **MADDE 64.-** Fiil ehliyetine sahip bulunan her gerçek kişi ile tüzel
 kişiler, derneklere üye olma hakkına sahiptir.^(1)^
 
-Yazılı olarak yapılacak üyelik başvurusu, tüzükte başkaca bir düzenleme
-yoksa, dernek yönetim kurulunca en çok otuz gün içinde karara bağlanır
-ve sonuç yazıyla başvuru sahibine bildirilir. Başvurusu kabul edilen
-üye, bu amaçla tutulacak deftere kaydedilir.
+Yazılı olarak yapılacak üyelik başvurusu, (…)^(2)^ dernek yönetim
+kurulunca en çok otuz gün içinde karara bağlanır ve sonuç yazıyla
+başvuru sahibine bildirilir. Başvurusu kabul edilen üye, bu amaçla
+tutulacak deftere kaydedilir.
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
-*(1) 30/7/2003 tarihli ve 4963 sayılı Kanunun 32 nci maddesiyle, 64 üncü
-maddenin birinci fıkrasında yer alan "gerçek kişi" ibaresinden sonra
-gelmek üzere "ile tüzel kişiler" ibaresi eklenmiştir.*
+(1) *30/7/2003 tarihli ve 4963 sayılı Kanunun 32 nci maddesiyle, 64 üncü
+    maddenin birinci fıkrasında yer alan "gerçek kişi" ibaresinden sonra
+    gelmek üzere "ile tüzel kişiler" ibaresi eklenmiştir. *
+
+(2) *4/11/2004 tarihli ve 5253 sayılı Kanunun 38 inci maddesinin “B”
+    bendi hükmü ile burada yer alan “*tüzükte başkaca bir hüküm yoksa,*”
+    ibaresi madde metninden çıkarılmıştır.*
 
 **II. Sona ermesi**
 
@@ -742,9 +747,9 @@ devredilemez.
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
-\(1) 30/7/2003 tarihli ve 4963 sayılı Kanunun 33 üncü maddesiyle, 66 ncı
-maddesinde yer alan "altı ay önceden" ibaresi madde metninden
-çıkarılmıştır.
+(1) 30/7/2003 tarihli ve 4963 sayılı Kanunun 33 üncü maddesiyle, 66 ncı
+    maddesinde yer alan "altı ay önceden" ibaresi madde metninden
+    çıkarılmıştır.
 
 **II. Genel kurul**
 
@@ -760,8 +765,8 @@ a\. Olağan toplantı
 **MADDE 74.-** Genel kurul, tüzükte belirtilen zamanda yönetim kurulunun
 çağrısı üzerine toplanır.
 
-Olağan genel kurul toplantılarının en geç iki yılda bir yapılması
-zorunludur.
+**(Değişik ikinci fıkra: 4/11/2004-5253/38-A md.)** Olağan genel kurul
+toplantılarının en geç üç yılda bir yapılması zorunludur.
 
 b\. Olağanüstü toplantı
 
@@ -785,8 +790,7 @@ Bu şekilde karar alınması olağan toplantı yerine geçmez.
 
 **MADDE 77.-** Genel kurul, yönetim kurulunca, en az onbeş gün önceden
 toplantıya çağrılır. Bu amaçla toplantının günü, saati, yeri ve gündemi,
-yerel bir gazete ile ilân edilir ve aynı zamanda üyelere bir yazıyla
-bildirilir.
+(…)^(1)^ üyelere (…)^(2)^ bildirilir.
 
 Toplantıya çağrı usulü ve toplantının ertelenmesine ilişkin konular,
 yönetmelikle düzenlenir.
@@ -805,6 +809,16 @@ katından az olamaz.
 
 Genel kurul toplantısı, bir defadan fazla geri bırakılamaz.
 
+*\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+(1) *4/11/2004 tarihli ve 5253 sayılı Kanunun 38 inci maddesinin “B”
+    bendi hükmü ile burada yer alan “yerel bir gazete ile ilân edilir ve
+    aynı zamanda” ibaresi madde metninden çıkarılmıştır. *
+
+(2) *4/11/2004 tarihli ve 5253 sayılı Kanunun 38 inci maddesinin “B”
+    bendi hükmü ile burada yer alan “bir yazıyla” ibaresi madde
+    metninden çıkarılmıştır.*
+
 5\. Toplantı usulü
 
 **MADDE 79.-** Genel kurul toplantısının açılışından sonra, toplantıyı
@@ -815,8 +829,7 @@ Genel kurul toplantısında yalnız gündemde yer alan maddeler görüşülür.
 Ancak, toplantıda hazır bulunan üyelerin en az onda biri tarafından
 görüşülmesi yazılı olarak istenen konuların gündeme alınması zorunludur.
 
-Genel kurul toplantılarına hükûmet komiseri katılır. Ancak, komiserin
-toplantıya katılmaması toplantının yapılmasını önlemez.
+**(Mülga üçüncü fıkra: 4/11/2004-5253/38-C md.) **
 
 6\. Genel kurulun görev ve yetkileri
 
@@ -956,23 +969,33 @@ olarak katılabilirler.
 
 **MADDE 92.-** **(Değişik: 2/1/2003-4778/35 md.)**
 
-Yabancı dernekler, uluslararası alanda işbirliği yapılmasında yarar
-görülen hallerde ve karşılıklı olmak koşuluyla Dışişleri Bakanlığının
-görüşü alınmak suretiyle İçişleri Bakanlığının izniyle Türkiye’de
-faaliyette ve işbirliğinde bulunabilirler, şube açabilirler, üst
-kuruluşlar kurabilir ve kurulmuş üst kuruluşlara katılabilirler.
+Yabancı dernekler, (…)^(1)^ Dışişleri Bakanlığının görüşü alınmak
+suretiyle İçişleri Bakanlığının izniyle Türkiye’de faaliyette ve
+işbirliğinde bulunabilirler, şube açabilirler, üst kuruluşlar kurabilir
+ve kurulmuş üst kuruluşlara katılabilirler.
 
 III. Yabancıların dernek kurma hakkı
 ------------------------------------
 
 **MADDE 93.-** Türkiye'de yerleşme hakkına sahip olan yabancı gerçek
-kişiler, karşılıklı olmak koşuluyla dernek kurabilirler veya kurulmuş
-derneklere üye olabilirler.
+kişiler, (…)^(2)^ dernek kurabilirler veya kurulmuş derneklere üye
+olabilirler.
 
 Onursal üyelik için bu koşul aranmaz.
 
-F. Derneklerin örgütlenmesi
----------------------------
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+(1) *4/11/2004 tarihli ve 5253 sayılı Kanunun 38 inci maddesinin “B”
+    bendi hükmü ile burada yer alan “*uluslararası alanda işbirliği
+    yapılmasında yarar görülen hallerde ve karşılıklı olmak koşuluyla*”
+    ibaresi madde metninden çıkarılmıştır. *
+
+(2) *4/11/2004 tarihli ve 5253 sayılı Kanunun 38 inci maddesinin “B”
+    bendi hükmü ile burada yer alan “*karşılıklı olmak koşuluyla*”
+    ibaresi madde metninden çıkarılmıştır.*
+
+    1.  F. Derneklerin örgütlenmesi
+        ---------------------------
 
 **I. Şube açmaları**
 
@@ -3877,9 +3900,9 @@ Nafakaya ilişkin hükümler saklıdır.
 alınamaz ya da bu önlemlerin yetersiz olacağı önceden anlaşılırsa, hâkim
 aşağıdaki hâllerde velâyetin kaldırılmasına karar verir:
 
-1\. Ana ve babanın deneyimsizliği, hastalığı, özürlü olması, başka bir
-yerde bulunması veya benzeri sebeplerden biriyle velâyet görevini gereği
-gibi yerine getirememesi.
+1.**(Değişik: 1/7/2005-5378/38 md.)** Ana ve babanın deneyimsizliği,
+hastalığı, başka bir yerde bulunması veya benzeri sebeplerden biriyle
+velayet görevini gereği gibi yerine getirememesi.
 
 2\. Ana ve babanın çocuğa yeterli ilgiyi göstermemesi veya ona karşı
 yükümlülüklerini ağır biçimde savsaklaması.
@@ -11841,6 +11864,8 @@ MAHKEMESİ KARARININ **
   **Değiştiren Kanun No.**   **Değiştiren Kanun/An. MahkemeKararının Yürürlüğe giriş tarihi**   **Anayasa Mahkemesi Karar Tarih/No.**   **4721 sayılı Kanunun değiştirilen maddeleri**
   4778                       11/1/2003                                                                                                  91, 92
   4963                       30/7/2003                                                                                                  56, 64, 66, 82, 94
+  5253                       23/11/2004                                                                                                 58, 61, 62, 64, 74, 77, 79, 92 ve 93
+  5378                       7/7/2005                                                                                                   348
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
 
 
