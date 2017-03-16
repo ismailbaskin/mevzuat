@@ -1,54 +1,44 @@
-**6586 sayılı Kanun ile değişik hali**
+3451
 
- 
+[]{#K15 .anchor}**TÜRK SİLAHLI KUVVETLERİ İÇ HİZMET**
 
-[[]{#k15 .anchor}]{#K15 .anchor}
+**KANUNU ^(1)^**
 
-TÜRK SİLAHLI KUVVETLERİ İÇ HİZMET
+**Kanun Numarası : 211**
 
-KANUNU ^(1)^
+**Kabul Tarihi : 4/1/1961**
 
-** **
+**Yayımlandığı R.Gazete : Tarih : 9/1/1961 Sayı : 10702**
 
-          Kanun Numarası               : 211
+**Yayımlandığı Düstur : Tertip : 4 Cilt : 1 Sayfa : 1008**
 
-          Kabul Tarihi                      : 4/1/1961
+*Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren*
 
-          Yayımlandığı R.Gazete     : Tarih : 9/1/1961   Sayı : 10702
+*yönetmelik için, “Yönetmelikler Külliyatı”nın kanunlara göre*
 
-          Yayımlandığı Düstur         : Tertip : 4   Cilt : 1   Sayfa :
-1008
+*düzenlenen nümerik fihristine bakınız. *
 
- 
+A\) ESASLAR
 
-Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren
+*I – Tarifler ^(2)^*
 
-yönetmelik için, “Yönetmelikler Külliyatı”nın kanunlara göre
+**Madde 1 – (Değişik: 18/6/2003 – 4902/9 md.)**
 
-düzenlenen nümerik fihristine bakınız
-
-             A)  ESASLAR
-
-             I - Tarifler
-
-            **Madde 1 – (Değişik: 18/6/2003 – 4902/9 md.)**
-
-**            ** Türk Silâhlı Kuvvetleri : Kara (Jandarma dahil), Deniz
-(Sahil Güvenlik dahil) ve Hava Kuvvetleri subay, askerî memur, astsubay,
-erbaş ve erleri ile askerî öğrencilerden teşekkül eden ve seferde
-ihtiyatlarla ikmal edilen, kadro ve kuruluşlarla teşkilâtı gösterilen
-silâhlı Devlet kuvvetidir.
+Türk Silâhlı Kuvvetleri : Kara (…)^(2)^ , Deniz (…)^(2)^ ve Hava
+Kuvvetleri subay, askerî memur, astsubay, erbaş ve erleri ile askerî
+öğrencilerden teşekkül eden ve seferde ihtiyatlarla ikmal edilen, kadro
+ve kuruluşlarla teşkilâtı gösterilen silâhlı Devlet kuvvetidir.
 
 **Madde 2 –(Değişik: 13/7/2013-6496/ 17 md.)** Askerlik: Harp sanatını
 öğrenmek ve yapmak mükellefiyetidir.
 
-             Asker : Askerlik mükellefiyeti altına giren şahıslarla
-(Erbaş ve erler) özel kanunlarla Silahlı Kuvvetlere intisabeden ve resmi
-bir kıyafet taşıyan şahsa denir.
+Asker : Askerlik mükellefiyeti altına giren şahıslarla (Erbaş ve erler)
+özel kanunlarla Silahlı Kuvvetlere intisabeden ve resmi bir kıyafet
+taşıyan şahsa denir.
 
-             **Madde 3 –** Askerler ve rütbeler:
+**Madde 3 –** Askerler ve rütbeler:
 
-             a) Askerler:
+a\) Askerler:
 
 1\. **(Değişik: 10/3/2011-6191/10 md.)** Er: İhtiyaçları Devlet
 tarafından deruhte ve temin olunan rütbesiz askerdir. Sözleşmeli erler
@@ -61,360 +51,345 @@ askerdir.
 Askerlik Kanununa göre mükellef bulundukları hizmetleri ifadan sonra
 hususi kanunlara tevfikan muayyen bir hizmet taahhüdü suretiyle Silahlı
 Kuvvetlerde vazife gören uzman ve sözleşmeli çavuş ve onbaşılar da erbaş
-sayılır. ^(2)^
+sayılır. ^(3)^
 
-             3. Astsubay: Hususi kanununa göre Silahlı Kuvvetlere
-katılan astsubay çavuştan astsubay kıdemli başçavuşa kadar rütbeyi haiz
-olan askerdir.
+3\. Astsubay: Hususi kanununa göre Silahlı Kuvvetlere katılan astsubay
+çavuştan astsubay kıdemli başçavuşa kadar rütbeyi haiz olan askerdir.
 
-             4. Askeri öğrenci: Subay, askeri memur veya astsubay
-yetiştirilmek üzere muhtelif okul ve üniversitelerde okuyan ve resmi bir
-kıyafet taşıyan öğrencilerdir.
+4\. Askeri öğrenci: Subay, askeri memur veya astsubay yetiştirilmek üzere
+muhtelif okul ve üniversitelerde okuyan ve resmi bir kıyafet taşıyan
+öğrencilerdir.
 
-–––––––––––––
+*–––––––––––––*
 
-(1)  Kanunda geçen “Uzman Çavuş” Tabiri, 18/3/1986 tarih ve 3269 sayılı
+*(1) Kanunda geçen “Uzman Çavuş” Tabiri, 18/3/1986 tarih ve 3269 sayılı
 Kanunun 21 inci maddesi ile “Uzman erbaş” olarak değiştirilmiş ve metne
-işlenmiştir.
+işlenmiştir.*
 
-*(2)   Bu paragraf  10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu
+*(2) 2/1/2017 tarihli ve 681 sayılı KHK’nin 1 inci maddesiyle, bu
+maddede yer alan “(Jandarma dahil)” ve “(Sahil Güvenlik dahil)”
+ibareleri yürürlükten kaldırılmıştır.*
+
+*(3) Bu paragraf 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu
 maddesinin hükmüdür.*
 
 3452
 
- 
+5\. Askeri memur: İdari işlerde, fen ve sanat kollarında vazife gören ve
+kanuna göre subaylara muadil ve özel bir silsileye tabi bulunan
+askerdir.
 
-             5. Askeri memur: İdari işlerde, fen ve sanat kollarında
-vazife gören ve kanuna göre subaylara muadil ve özel bir silsileye tabi
-bulunan askerdir.
+6\. Subay: Hususi kanuna göre Silahlı Kuvvetlere intisabeden asteğmenden
+mareşala (Büyük amirale) kadar rütbeyi haiz olan askerdir.
 
-             6. Subay: Hususi kanuna göre Silahlı Kuvvetlere intisabeden
-asteğmenden mareşala (Büyük amirale) kadar rütbeyi haiz olan askerdir.
+b\) Rütbeler:
 
-             b) Rütbeler:
+1\. Erbaşlar:
 
-             1. Erbaşlar:
+a\) Onbaşı
 
-             a) Onbaşı
+b\) Çavuş
 
-             b) Çavuş
+2\. Astsubaylar :^(1)^
 
-             2. Astsubaylar :^(1)^
+a\) Astsubay çavuş
 
-             a) Astsubay çavuş
+b\) Astsubay üstçavuş
 
-             b) Astsubay üstçavuş
+c\) Astsubay başçavuş
 
-             c) Astsubay başçavuş
+d\) Astsubay kıdemli başçavuş
 
-             d) Astsubay kıdemli başçavuş
+3\. Askeri memurlar:
 
-             3. Askeri memurlar:
+a\) 8 inci sınıf (Asteğmen muadili)
 
-             a) 8 inci sınıf (Asteğmen muadili)
+b\) 7 inci sınıf (Teğmen muadili)
 
-             b) 7 inci sınıf (Teğmen muadili)
+c\) 6 ıncı sınıf (Üsteğmen muadili)
 
-             c) 6 ıncı sınıf (Üsteğmen muadili)
+d\) 5 inci sınıf (Yüzbaşı muadili)
 
-             d) 5 inci sınıf (Yüzbaşı muadili)
+e\) 4 üncü sınıf (Kıdemli yüzbaşı muadili)
 
-             e) 4 üncü sınıf (Kıdemli yüzbaşı muadili)
+f\) 3 üncü sınıf (Binbaşı muadili)
 
-             f) 3 üncü sınıf (Binbaşı muadili)
+g\) 2 inci sınıf (Yarbay muadili)
 
-             g) 2 inci sınıf (Yarbay muadili)
+h\) 1 inci sınıf (Albay muadili)
 
-             h) 1 inci sınıf (Albay muadili)
+4\. Subaylar:
 
-             4. Subaylar:
+a\) Asteğmen
 
-             a) Asteğmen
+b\) Teğmen
 
-             b) Teğmen
+c\) Üsteğmen
 
-             c) Üsteğmen
+d\) Yüzbaşı
 
-             d) Yüzbaşı
+e\) Binbaşı
 
-             e) Binbaşı
+f\) Yarbay Üst subaylar
 
-             f) Yarbay        Üst subaylar
+g\) Albay
 
-             g) Albay
+h\) Tuğgeneral (Tuğamiral)
 
-             h) Tuğgeneral  (Tuğamiral)
+i\) Tümgeneral (Tümamiral)
 
-             i) Tümgeneral  (Tümamiral)
+j\) Korgeneral (Koramiral) General veya amiraller
 
-             j) Korgeneral   (Koramiral)         General veya amiraller
+k\) Orgeneral (Oramiral)
 
-             k) Orgeneral    (Oramiral)
-
-             l) Mareşal        (Büyük amiral)
+l\) Mareşal (Büyük amiral)
 
 ——————————
 
-(1)    27/7/1967 tarih ve 926 sayılı Türk Silahlı Kuvvetleri Personel
-Kanununun 77 nci maddesiyle astsubayların rütbeleri:
+*(1) 27/7/1967 tarih ve 926 sayılı Türk Silahlı Kuvvetleri Personel
+Kanununun 77 nci maddesiyle astsubayların rütbeleri:*
 
-        Astsubay Çavuş
+*Astsubay Çavuş*
 
-               "     Kıdemli çavuş
+*" Kıdemli çavuş*
 
-               "     Üstçavuş
+*" Üstçavuş*
 
-               "     Kıdemli üstçavuş
+*" Kıdemli üstçavuş*
 
-               "     Başçavuş
+*" Başçavuş*
 
-               "     Kıdemli başçavuş
+*" Kıdemli başçavuş*
 
-        şeklinde yeniden düzenlenmiş ve aynı Kanunun 208 inci maddesinin
-(r) bendinde de 4/1/1961 tarih ve 211 sayılı Kanunun 3 üncü maddesinin
-(b) fıkrasının (2) nci bendinin bu Kanuna aykırı hükümlerinin ilga
-edildiği belirtilmiştir.
-
- 
+*şeklinde yeniden düzenlenmiş ve aynı Kanunun 208 inci maddesinin (r)
+bendinde de 4/1/1961 tarih ve 211 sayılı Kanunun 3 üncü maddesinin (b)
+fıkrasının (2) nci bendinin bu Kanuna aykırı hükümlerinin ilga edildiği
+belirtilmiştir.*
 
 3453
 
- 
+**Madde 4 –** Muhtelif sınıfların rütbe isimlerinin başlarına sınıf vaya
+meslek ismi konulur.
 
-               **Madde 4 –** Muhtelif sınıfların rütbe isimlerinin
-başlarına sınıf vaya meslek ismi konulur. 
+**Madde 5 –** Nizam: Tüzükler, kararnameler, yönetmelikler,
+talimnamelerin ve talimatların hükümleridir.
 
-              **Madde 5 –** Nizam: Tüzükler, kararnameler,
-yönetmelikler, talimnamelerin ve talimatların hükümleridir.
+**Madde 6 –** Hizmet: Kanunlarla nizamlarda yapılması veyahut
+yapılmaması yazılmış olan hususlarla,amir tarafından yazı veya sözle
+emredilen veya yasak edilen işlerdir.
 
-            **Madde 6 –** Hizmet: Kanunlarla nizamlarda yapılması
-veyahut yapılmaması yazılmış olan hususlarla,amir tarafından yazı veya
-sözle emredilen veya yasak edilen işlerdir.
+**Madde 7 –** Vazife: Hizmetin icabettirdiği şeyi yapmak ve menettiği
+şeyi yapmamaktır.
 
-             **Madde 7 –** Vazife: Hizmetin icabettirdiği şeyi yapmak ve
-menettiği şeyi yapmamaktır.
+**Madde 8 –** Emir: Hizmete ait bir talep veya yasağın sözle,yazı ile ve
+sair surette ifadesidir.
 
-             **Madde 8 –** Emir: Hizmete ait bir talep veya yasağın
-sözle,yazı ile ve sair surette ifadesidir.
+**Madde 9 –** Amir: Makam ve memuriyet itibariyle emretmek salahiyetini
+haiz kimsedir. Bunun emri altındakilere maiyet denir.
 
-             **Madde 9 –** Amir: Makam ve memuriyet itibariyle emretmek
-salahiyetini haiz kimsedir. Bunun emri altındakilere maiyet denir.
+**Madde 10 –** Üst tabiri, rütbe veya kıdem büyüklüğünü gösterir.
 
-             **Madde 10 –** Üst tabiri, rütbe veya kıdem büyüklüğünü
-gösterir.
+Ast,üstün rütbece veya kıdemce aşağısında bulunan kimsedir.
 
-             Ast,üstün rütbece veya kıdemce aşağısında bulunan kimsedir.
+**Madde 11 –** Makam: Her amirin Silahlı Kuvvetlerde temsil ettiği
+mevkidir.
 
-             **Madde 11 –** Makam: Her amirin Silahlı Kuvvetlerde temsil
-ettiği mevkidir.
+**Madde 12 –** a) Kıta: Görevin yapılması için taktik ve idari
+birlikleri kapsıyan ve bir kumanda altında toplanan teşkillere kıta
+denir.
 
-             **Madde 12 –** a) Kıta: Görevin yapılması için taktik ve
-idari birlikleri kapsıyan ve bir kumanda altında toplanan teşkillere
-kıta denir.
+Taktik birlik: Belli bir kuruluş ve kadrosu olup asli görevi muharebe
+hareketleri olan bir teşkildir.Taktik birlikler içerisinde bazı idari
+unsurlar da bulunabilir.
 
-             Taktik birlik: Belli bir kuruluş ve kadrosu olup asli
-görevi muharebe hareketleri olan bir teşkildir.Taktik birlikler
-içerisinde bazı idari unsurlar da bulunabilir.
+İdari birlik: Belli bir kuruluş ve kadrosu olup asli görevi hizmet
+hareketleri olan bir teşkildir.
 
-             İdari birlik: Belli bir kuruluş ve kadrosu olup asli görevi
-hizmet hareketleri olan bir teşkildir.
+b\) Karargah: Kumandan veya amirlerin kıta veya kurumlarının sevk ve
+idarelerinde yardımcı olan bir toplumdur.Karargahlar bir kuruluş ve
+kadro ile tesbit edilir.
 
-             b) Karargah: Kumandan veya amirlerin kıta veya kurumlarının
-sevk ve idarelerinde yardımcı olan bir toplumdur.Karargahlar bir kuruluş
-ve kadro ile tesbit edilir.
+c\) **(Değişik: 2/1/2017-KHK-681/2 md.)** Askeri kurum: Kıta ve karargah
+anlamı dışında kalan okul, ordu evi, dikim evi, fabrika, tersane,
+askerlik şubesi, ikmal merkezi ve depo gibi askeri tesis ve
+teşkillerdir.
 
-             c) Askeri kurum: Kıta ve karargah anlamı dışında kalan
-askeri hastane, okul, ordu evi, dikim evi, fabrika, askerlik şubesi,
-ikmal merkezi ve depo gibi askeri tesis ve teşkillerdir.
+*II - Disiplin*
 
-             II - Disiplin
+**Madde 13 –** Disiplin: Kanunlara, nizamlara ve amirlere mutlak bir
+itaat ve astının ve üstünün hukukuna riayet demektir.
 
-             **Madde 13 –** Disiplin: Kanunlara, nizamlara ve amirlere
-mutlak bir itaat ve astının ve üstünün hukukuna riayet demektir.
+Askerliğin temeli disiplindir.
 
-             Askerliğin temeli disiplindir.
+Disiplinin muhafazası ve idamesi için hususi kanunlarla cezai ve hususi
+kanun ve nizamlarla idari tedbirler alınır.
 
-             Disiplinin muhafazası ve idamesi için hususi kanunlarla
-cezai ve hususi kanun ve nizamlarla idari tedbirler alınır.
+*III- Astın vazifeleri*
 
-             III- Astın vazifeleri
+**Madde 14 –** Ast; amir ve üstüne umumi adap ve askeri usullere uygun
+tam bir hürmet görtermeye, amirlerine mutlak surette itaate ve kanun ve
+nizamlarda gösterilen hallerde de üstlerine mutlak itaate mecburdur.
 
-             **Madde 14 –** Ast; amir ve üstüne umumi adap ve askeri
-usullere uygun tam bir hürmet görtermeye, amirlerine mutlak surette
-itaate ve kanun ve nizamlarda gösterilen hallerde de üstlerine mutlak
-itaate mecburdur.
+Ast muayyen olan vazifeleri, aldığı emri vaktinde yapar ve değiştiremez,
+haddini aşamaz. İcradan doğacak mesuliyetler emri verene aittir.
 
-             Ast muayyen olan vazifeleri, aldığı emri vaktinde yapar ve
-değiştiremez, haddini aşamaz. İcradan doğacak mesuliyetler emri verene
-aittir.
-
-             İtaat hissini tehdit eden her türlü tezahürler, sözler,
-yazılar ve fiil ve hareketler cezai müeyyidelerle men olunur.
+İtaat hissini tehdit eden her türlü tezahürler, sözler, yazılar ve fiil
+ve hareketler cezai müeyyidelerle men olunur.
 
 3454
 
-* *
+*IV - Amirin vazifeleri*
 
-*             IV - Amirin vazifeleri*
+**Madde 15 –** Amir; emirlerini maiyetindeki her şahsa verebilir.
+Vazifelerin zamanında ve tam olarak yapılıp yapılmadığı takip ve
+yapılmasını temin eder.
 
-             **Madde 15 –** Amir; emirlerini maiyetindeki her şahsa
-verebilir. Vazifelerin zamanında ve tam olarak yapılıp yapılmadığı takip
-ve yapılmasını temin eder.
+**Madde 16 –** Amir; maiyetine hizmetle münasebeti olmıyan emir veremez.
+Astından hususi bir menfaat temin edecek bir talepte bulunamaz.
+Hediyesini kabul edemez ve borç alamaz.
 
-             **Madde 16 –** Amir; maiyetine hizmetle münasebeti olmıyan
-emir veremez. Astından hususi bir menfaat temin edecek bir talepte
-bulunamaz. Hediyesini kabul edemez ve borç alamaz.
+**Madde 17 –** Amir; maiyetine hürmet ve itimat hisleri verir. Maiyetin
+ahlaki, ruhi ve bedeni hallerini daima nezaret ve himayesi altında
+bulundurur. Amirin maiyetine karşı daima bitaraflık ve hakkaniyeti
+muhafazası esastır.
 
-             **Madde 17 –** Amir; maiyetine hürmet ve itimat hisleri
-verir. Maiyetin ahlaki, ruhi ve bedeni hallerini daima nezaret ve
-himayesi altında bulundurur. Amirin maiyetine karşı daima bitaraflık ve
-hakkaniyeti muhafazası esastır.
+**Madde 18 –** Amir; maiyetine disiplini bozan fiil ve hareketlerinden
+dolayı disiplin cezaları verir.
 
-             **Madde 18 –** Amir; maiyetine disiplini bozan fiil ve
-hareketlerinden dolayı disiplin cezaları verir.
+Disiplin cezalarının mahiyeti ve verilmesi usulü hususi kanundaki
+hallere göre tayin ve tesbit olunur.
 
-             Disiplin cezalarının mahiyeti ve verilmesi usulü hususi
-kanundaki hallere göre tayin ve tesbit olunur.
+*V - Emir*
 
-             V - Emir
+**Madde 19 – (Değişik: 2/1/2017-KHK-681/3 md.)**
 
-             **Madde 19 –** Emrin üniforma ile verilmesi lazımdır.
-Üniformasız olan bir amirin verdiği emirleri onu tanıyanlar yapmaya
-mecburdur.
+Astlar, üniformalı veya üniformasız asker amirleri ile sivil amirlerinin
+verdiği emirleri yerine getirmek zorundadır.
 
-             **Madde 20 –** Emirler ast tarafından değiştirilemez.
-Ancak, ahval ve şerait emri yapılamıyacak bir hale koymuşsa veyahut emir
-verilirken meçhul kalmış sebepler meydana çıkmışsa veya emrin yapılması
-büyük bir tehlikeyi ve ağır bir zararı da mücip olacaksa ve bütün bu
-haller karşısında amirden yeni bir emir alınmasına hal ve zaman da
-müsait değilse; ast mesuliyeti üzerine alarak emri yeni vaziyete uygun
-bir tarzda değiştirerek yapabilir ve ilk fırsatta emri yapılmıyan veya
+**Madde 20 –** Emirler ast tarafından değiştirilemez. Ancak, ahval ve
+şerait emri yapılamıyacak bir hale koymuşsa veyahut emir verilirken
+meçhul kalmış sebepler meydana çıkmışsa veya emrin yapılması büyük bir
+tehlikeyi ve ağır bir zararı da mücip olacaksa ve bütün bu haller
+karşısında amirden yeni bir emir alınmasına hal ve zaman da müsait
+değilse; ast mesuliyeti üzerine alarak emri yeni vaziyete uygun bir
+tarzda değiştirerek yapabilir ve ilk fırsatta emri yapılmıyan veya
 kısmen yapılan amirlere de malümat verilir.
 
-             **Madde 21 –** Emirler,kaideten birbirine bağlı makamlar ve
-kumandanlar tarafından bir silsile takip edilerek verilir. Müstacel ve
-zaruri hallerde bu sıraya riayet edilmeden de emir verilebilir. Bu
-takdirde amir atlanmış olan kademelere en kısa zamanda bilgi verir. Ve
-böyle bir emri alan astda kendi amirini haberdar eder.
+**Madde 21 –** Emirler,kaideten birbirine bağlı makamlar ve kumandanlar
+tarafından bir silsile takip edilerek verilir. Müstacel ve zaruri
+hallerde bu sıraya riayet edilmeden de emir verilebilir. Bu takdirde
+amir atlanmış olan kademelere en kısa zamanda bilgi verir. Ve böyle bir
+emri alan astda kendi amirini haberdar eder.
 
-             **Madde 22 –** Bir amirin verdiği emir yapılırken daha
-büyük bir amirden evvelki emre muhalif ikinci bir emir daha alınacak
-olursa,ikinci emri veren amire evvelki emir bildirilir. Eğer ikinci amir
-kendi emrinin yapılmasında israr ederse bu amirin emri yapılır. Ve
-birinci amire malumat verilir. Eğer daha büyük amire birinci amirin
-emrini bildirmeye hal ve zaman müsait değilse vaziyete uygun olan emir
-kendi mesuliyeti dahilinde yapılır ve amirlere bildirilir.
+**Madde 22 –** Bir amirin verdiği emir yapılırken daha büyük bir amirden
+evvelki emre muhalif ikinci bir emir daha alınacak olursa,ikinci emri
+veren amire evvelki emir bildirilir. Eğer ikinci amir kendi emrinin
+yapılmasında israr ederse bu amirin emri yapılır. Ve birinci amire
+malumat verilir. Eğer daha büyük amire birinci amirin emrini bildirmeye
+hal ve zaman müsait değilse vaziyete uygun olan emir kendi mesuliyeti
+dahilinde yapılır ve amirlere bildirilir.
 
-             **Madde 23 –** Fesat ve isyan halinde bulunan bir
-kıta,karargah veya askeri kurumda intizamı temin etmek, yağmacılığın
-önünü almak ve kaçak askerleri çevirmek için bu halleri gören her üst
-emir ve kumanda işini üzerine almak ile vazifesi ile mükelleftir.
+**Madde 23 –** Fesat ve isyan halinde bulunan bir kıta,karargah veya
+askeri kurumda intizamı temin etmek, yağmacılığın önünü almak ve kaçak
+askerleri çevirmek için bu halleri gören her üst emir ve kumanda işini
+üzerine almak ile vazifesi ile mükelleftir.
 
-             **Madde 24 –** Disipline aykırı gördüğü her hale müdahaleye
-ve emir vermeye her üst görevlidir.
+**Madde 24 –** Disipline aykırı gördüğü her hale müdahaleye ve emir
+vermeye her üst görevlidir.
 
-             B) PERSONEL İŞLERİ
+*B) PERSONEL İŞLERİ*
 
-             I - Müracaatlar
+*I - Müracaatlar*
 
-             **Madde 25 –** Her asker resmi ve şahsi işlerinden dolayı
-müracaatini söz veya yazı ile en yakın amirinden başlıyarak silsile
-yoliyle yapar.
+**Madde 25 –** Her asker resmi ve şahsi işlerinden dolayı müracaatini
+söz veya yazı ile en yakın amirinden başlıyarak silsile yoliyle yapar.
 
-             Müracaatlar takip ve tahkik ve bir karara bağlanarak
-neticesi müracaat sahibine mümkün olan en kısa zamanda mutlaka
-bildirilir. Ancak; bu müddet hiçbir halde bir ayı geçemez.
+Müracaatlar takip ve tahkik ve bir karara bağlanarak neticesi müracaat
+sahibine mümkün olan en kısa zamanda mutlaka bildirilir. Ancak; bu
+müddet hiçbir halde bir ayı geçemez.
 
-             Birden fazla kimselerin toplu olarak söz veya yazı ile
-müracaatleri yasaktır.
+Birden fazla kimselerin toplu olarak söz veya yazı ile müracaatleri
+yasaktır.
 
 3455
 
-* *
+*II - Şikayetler*
 
-*             II - Şikayetler*
+**Madde 26 –** Her asker, gerek hizmete ve gerek zati işlerine ait kanun
+ve nİzamların kendisine vermiş olduğu hak ve salahiyetler her hangi bir
+surette haksız olarak ihlal edilirse veya ihlal edildiğini zannederse
+şikayet etmek hakkını haizdir.
 
-             **Madde 26 –** Her asker, gerek hizmete ve gerek zati
-işlerine ait kanun ve nİzamların kendisine vermiş olduğu hak ve
-salahiyetler her hangi bir surette haksız olarak ihlal edilirse veya
-ihlal edildiğini zannederse şikayet etmek hakkını haizdir.
+**Madde 27 –** Şikayet söz veya yazı ile en yakın amire yapılır. Eğer bu
+amirden şikayet olunacaksa bir derece üstündeki amire yapılır.Ve bunun
+gibi her şikayet edilen amir geçilir. Sözle yapılan şikayetler bir
+zabıtla tesbit olunur.
 
-             **Madde 27 –** Şikayet söz veya yazı ile en yakın amire
-yapılır. Eğer bu amirden şikayet olunacaksa bir derece üstündeki amire
-yapılır.Ve bunun gibi her şikayet edilen amir geçilir. Sözle yapılan
-şikayetler bir zabıtla tesbit olunur.
+**Madde 28 –** Toplu olarak şikayet yasaktır. Bir veya aynı hadise
+birden fazla şahısların şikayetlerine sebep veya mevzu olursa bunların
+her biri ayrı ayrı ve yalnız başına şikayet hakkını kullanabilirler.
 
-             **Madde 28 –** Toplu olarak şikayet yasaktır. Bir veya aynı
-hadise birden fazla şahısların şikayetlerine sebep veya mevzu olursa
-bunların her biri ayrı ayrı ve yalnız başına şikayet hakkını
-kullanabilirler.
+**Madde 29 –** Şikayet reddedildiği takdirde, şikayetçiye bu yüzden ceza
+verilmez. Ancak şikayet ederken şikayetçi bir suç işlemiş veya bir
+disiplin tecavüzünde bulunmuşsa ayrıca mesul olur.
 
-             **Madde 29 –** Şikayet reddedildiği takdirde, şikayetçiye
-bu yüzden ceza verilmez. Ancak şikayet ederken şikayetçi bir suç işlemiş
-veya bir disiplin tecavüzünde bulunmuşsa ayrıca mesul olur.
+**Madde 30 –** Şikayetler ve itirazlar mutlaka tahkik olunarak bir
+karara bağlanır ve neticesi şikayet edene ve lüzum görülürse şikayet
+olunana mümkün olan en kısa zamanda bildirilir. Ancak bu müddet hiçbir
+halde bir ayı geçemez.
 
-             **Madde 30 –** Şikayetler ve itirazlar mutlaka tahkik
-olunarak bir karara bağlanır ve neticesi şikayet edene ve lüzum
-görülürse şikayet olunana mümkün olan en kısa zamanda bildirilir. Ancak
-bu müddet hiçbir halde bir ayı geçemez.
+Adli tahkikata mevzu olan şikayet ve itirazlar hakkında Ceza ve Usul
+kanunlarındaki hükümler mahfuzdur.
 
-             Adli tahkikata mevzu olan şikayet ve itirazlar hakkında
-Ceza ve Usul kanunlarındaki hükümler mahfuzdur.
+**Madde 31 –** Bir şikayet üzerine karar vermek selahiyeti, şikayetin
+müstenit olduğu vaka hakkında şikayet olunana disiplin cezası vermek
+salahiyetini haiz olan ilk disiplin amirine verilmiştir.
 
-             **Madde 31 –** Bir şikayet üzerine karar vermek selahiyeti,
-şikayetin müstenit olduğu vaka hakkında şikayet olunana disiplin cezası
-vermek salahiyetini haiz olan ilk disiplin amirine verilmiştir.
+O amirin vereceği karar aleyhine gerek şikayet eden ve gerekse şikayet
+olunan, mertebeler silsilesi yolu ile daha yüksek amirlere itiraz
+edebilir.
 
-             O amirin vereceği karar aleyhine gerek şikayet eden ve
-gerekse şikayet olunan, mertebeler silsilesi yolu ile daha yüksek
-amirlere itiraz edebilir.
+*III - Mükafat ve ceza*
 
-             III - Mükafat ve ceza
+**Madde 32 –** Disiplinin muhafazası ve hizmete mütaallik hususlarda
+tekamülü teşvik ve temin için mükafat ve ceza tedbirlerine müracat
+olunur.
 
-             **Madde 32 –** Disiplinin muhafazası ve hizmete mütaallik
-hususlarda tekamülü teşvik ve temin için mükafat ve ceza tedbirlerine
-müracat olunur.
+Mükafat ve cezaya ait tedbirler kanun ve nizamlara göre alınır.
 
-             Mükafat ve cezaya ait tedbirler kanun ve nizamlara göre
-alınır.
+*IV - İzin*
 
-             IV - İzin
+**Madde 33 –** a) Askerlerin izin işleri hususi kanunlara ve nizamlara
+göre tanzim olunur. Vazifenin bulunmayı icap ettirdiği yerden izinsiz
+hiçbir asker gündüz ve gece ayrılamaz.
 
-             **Madde 33 –** a) Askerlerin izin işleri hususi kanunlara
-ve nizamlara göre tanzim olunur. Vazifenin bulunmayı icap ettirdiği
-yerden izinsiz hiçbir asker gündüz ve gece ayrılamaz.
+Nöbetçi ve vazifeli olmıyan veya kendisine ayrıca hususi bir vazife
+verilmiyen subay, askeri memur ve astsubaylar günlük mesai veya eğitimin
+bitiminde vazife mahallinden ayrılabilirler.
 
-             Nöbetçi ve vazifeli olmıyan veya kendisine ayrıca hususi
-bir vazife verilmiyen subay, askeri memur ve astsubaylar günlük mesai
-veya eğitimin bitiminde vazife mahallinden ayrılabilirler.
+**(Ek : 19/2/1980 - 2259/1 md.)** Ancak subay sınıf okullarında temel
+eğitimde bulunan subayların günlük çalışma ve okuldan gece izinli
+ayrılmaları, eğitim ve öğretim programlarına göre, ayrıca düzenlenecek
+bir yönetmelikle belirlenir.
 
-             **(Ek : 19/2/1980 - 2259/1 md.)** Ancak subay sınıf
-okullarında temel eğitimde bulunan subayların günlük çalışma ve okuldan
-gece izinli ayrılmaları, eğitim ve öğretim programlarına göre, ayrıca
-düzenlenecek bir yönetmelikle belirlenir.
+b\) Kıta, karargah ve kurumlarda günlük çalışma saatleri mevsim, iklim,
+ahval ve hizmetin özelliklerine göre bir talimatla tesbit edilir.
 
-             b) Kıta, karargah ve kurumlarda günlük çalışma saatleri
-mevsim, iklim, ahval ve hizmetin özelliklerine göre bir talimatla tesbit
-edilir.
+Kıtalarda umumi mesai ve hizmet zamanı kalk borusunda başlar. Gece
+yoklamasından sonra biter. Karargah ve kurumlarda günlük vazife müddeti
+en az 6 saattır.
 
-             Kıtalarda umumi mesai ve hizmet zamanı kalk borusunda
-başlar. Gece yoklamasından sonra biter. Karargah ve kurumlarda günlük
-vazife müddeti en az 6 saattır.
+*V - Kıyafet*
 
-             V - Kıyafet
+**Madde 34 –** a) Silahlı Kuvvetler mensupları üniforma giyerler. Hizmet
+esnasında üniformayı giymek mecburidir. Hususi vazifeler sebebiyle
+hizmet esnasında sivil elbise giymek amirin müsaadesine bağlıdır. Her
+asker üniformasının şeref ve haysiyetini korumaya mecburdur.
 
-             **Madde 34 –** a) Silahlı Kuvvetler mensupları üniforma
-giyerler. Hizmet esnasında üniformayı giymek mecburidir. Hususi
-vazifeler sebebiyle hizmet esnasında sivil elbise giymek amirin
-müsaadesine bağlıdır. Her asker üniformasının şeref ve haysiyetini
-korumaya mecburdur.
-
-             Barlar, genelevler, meyhaneler ile bunlara benzer yerlere
-askerler üniforma ile giremezler.
+Barlar, genelevler, meyhaneler ile bunlara benzer yerlere askerler
+üniforma ile giremezler.
 
 3456
-
- 
 
 b\) Subay, askeri memur ve astsubaylar vazife dışında sivil elbise
 giyebilirler. Sivil elbise ile vazife yerine giriş ve çıkışlar
@@ -432,11 +407,15 @@ olunur.
 ve saç, tuvaletlerinde sadelik esastır. Favori, biş,sakal ve bıyık
 bırakılamaz. Hangi hallerde, görevlerde, zamanlarda ve kimler hakkında
 yukarıdaki kayıtlama ve kısıtlamaların uygulanmayacağı Genelkurmay
-Başkanınca belirlenir.
+Başkanınca belirlenir. **(Ek cümle: 27/3/2015-6638/66 md.)** Ancak,
+Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı mensuplarının
+kıyafetine ilişkin hususlar, Genelkurmay Başkanlığının görüşü alınarak
+Millî Savunma Bakanlığı ve İçişleri Bakanlığı tarafından müştereken
+çıkarılacak yönetmelikle düzenlenir.
 
 e\) **(Mülga : 11/2/2014-6519/20 md.) **
 
-Kimlik kartları, özlük dosyaları, kişisel veriler ve posta gönderileri
+*Kimlik kartları, özlük dosyaları, kişisel veriler ve posta gönderileri*
 
 **Madde 34/A – (Ek: 11/2/2014-6519/8 md.)**
 
@@ -456,7 +435,7 @@ Uzman erbaşlar hariç erbaş ve erler ile askerî öğrenciler tarafından
 gönderilen ve kendilerine gelen posta gönderileri ilgilinin amirince
 denetlenebilir.
 
-C\) UMUMİ VAZİFELER
+*C) UMUMİ VAZİFELER*
 
 **Madde 35 – (Değişik: 13/7/2013-6496/18 md.)**
 
@@ -511,8 +490,6 @@ korunma ve muhafazasından sorumludur.
 
 3457
 
- 
-
 **Madde 43 – (Değişik cümle: 13/7/2013-6496/19 md.)** Türk Silahlı
 Kuvvetleri mensupları siyasi faaliyette bulunamaz. Bundan ötürü Silahlı
 Kuvvetler mensuplarının siyasi parti veya derneklere girmeleri bunların
@@ -566,7 +543,7 @@ yükümlülüklerini ve haklarını ortadan kaldırmaz.
 **Madde 44 –** Askerler her zaman ve her yerde birbirlerini selamlamaya
 mecburdurlar. Bunun tatbik tarzı talimatnamede gösterilmiştir.
 
-D\) GARNİZON KUMANDANLIĞI
+*D) GARNİZON KUMANDANLIĞI*
 
 **Madde 45 –** Garnizon; içinde ve civarında yerleşmiş kıta, karargah
 veya askeri kurum bulunan meskün yerlere denir.
@@ -583,72 +560,68 @@ kıta, karargâh ve kurumların dışında kadro ve teşkiller oluşturulabilir.
 
 3458
 
- 
+**Madde 47 –** Garnizon kumandanı garnizona dahil bütün kıta ve askeri
+kurumların disiplin amiridir.
 
-             **Madde 47 –** Garnizon kumandanı garnizona dahil bütün
-kıta ve askeri kurumların disiplin amiridir.
+**(Değişik : 19/2/1980 - 2259/2 md.)** Garnizon Komutanlığına ait
+hizmetler, sivil makamlarla olan ilişkiler,Cumhurbaşkanı ile Devlet
+büyüklerinin garnizona gelişlerinde alınacak güvenlik önlemleri ve
+emekli orgeneral-oramiraller ile garnizonda bulunan emekli veya muvazzaf
+diğer askeri şahısların güvenliklerine ilişkin hususlar, Milli Savunma
+ve İçişleri Bakanlarınca müştereken hazırlanacak bir yönetmelikte
+gösterilir.
 
-             **(Değişik : 19/2/1980 - 2259/2 md.)** Garnizon
-Komutanlığına ait hizmetler, sivil makamlarla olan
-ilişkiler,Cumhurbaşkanı ile Devlet büyüklerinin garnizona gelişlerinde
-alınacak güvenlik önlemleri ve emekli orgeneral-oramiraller ile
-garnizonda bulunan emekli veya muvazzaf diğer askeri şahısların
-güvenliklerine ilişkin hususlar, Milli Savunma ve İçişleri Bakanlarınca
-müştereken hazırlanacak bir yönetmelikte gösterilir.
+**(Ek : 17/6/1992 - 3810/1 md.)** Koruma hizmeti ile görevlendirilen
+asker kişiler, karakol, karakol nöbetçisi ve devriye sıfat ve
+yetkilerine sahiptir. Koruma görevlileri bu Kanunun, 2559 sayılı Polis
+Vazife ve Selahiyet Kanununun ve diğer kanunların silah kullanmayı
+öngördüğü hal ve şartlardan herhangi birinin tahakkuku halinde silah
+kullanmaya yetkilidir. Bunlar, korudukları kişiye karşı silahlı bir
+saldırıya teşebbüs edilmesi halinde doğruca ve duraksamadan hedefe ateş
+edebilirler.
 
-             **(Ek : 17/6/1992 - 3810/1 md.)** Koruma hizmeti ile
-görevlendirilen asker kişiler, karakol, karakol nöbetçisi ve devriye
-sıfat ve yetkilerine sahiptir. Koruma görevlileri bu Kanunun, 2559
-sayılı Polis Vazife ve Selahiyet Kanununun ve diğer kanunların silah
-kullanmayı öngördüğü hal ve şartlardan herhangi birinin tahakkuku
-halinde silah kullanmaya yetkilidir. Bunlar, korudukları kişiye karşı
-silahlı bir saldırıya teşebbüs edilmesi halinde doğruca ve duraksamadan
-hedefe ateş edebilirler.
+**Madde 48 –** Büyük garnizonlarda (Tümen ve eşidi askeri kurumlar ile
+daha büyük kıta ve kurumların bulunduğu yerlerde) garnizon kumandanları,
+oradaki kıta kumandanları rütbece kendisinden sonra gelen birine
+garnizon kumandanlığını devredebilir.
 
-             **Madde 48 –** Büyük garnizonlarda (Tümen ve eşidi askeri
-kurumlar ile daha büyük kıta ve kurumların bulunduğu yerlerde) garnizon
-kumandanları, oradaki kıta kumandanları rütbece kendisinden sonra gelen
-birine garnizon kumandanlığını devredebilir.
+**Madde 49 –** Garnizon kumandanları garnizona ait her türlü hususatta
+mıntıkasında bulundukları tümen, kolordu ve ordu (Deniz ve Havada eşidi)
+kumandanlıklarına bağlıdırlar.
 
-             **Madde 49 –** Garnizon kumandanları garnizona ait her
-türlü hususatta mıntıkasında bulundukları tümen, kolordu ve ordu (Deniz
-ve Havada eşidi) kumandanlıklarına bağlıdırlar.
-
-             **Madde 50 –**Yukardaki maddelerde belirtilen hükümler
-dışında veya istisnaihaller karşısında garnizon kumandanlığı görevinin
-hangi kıta kumandanı veya kurum amiri tarafından yapılacağı Genelkurmay
+**Madde 50 –**Yukardaki maddelerde belirtilen hükümler dışında veya
+istisnaihaller karşısında garnizon kumandanlığı görevinin hangi kıta
+kumandanı veya kurum amiri tarafından yapılacağı Genelkurmay
 Başkanlığınca düzenlenir.
 
-             E) KIŞLALARDA, KONAK VE ORDUGAHLARDA KUMANDANLIK
+*E) KIŞLALARDA, KONAK VE ORDUGAHLARDA KUMANDANLIK*
 
-             **Madde 51 –** Kışla: Askerin barındırıldığı ve hizmet
-gördüğü tek bir bina veya toplu halde bulunan muhtelif binalar ile
-bunların müştemilatından olan diğer binalar ve arazidir.
+**Madde 51 –** Kışla: Askerin barındırıldığı ve hizmet gördüğü tek bir
+bina veya toplu halde bulunan muhtelif binalar ile bunların
+müştemilatından olan diğer binalar ve arazidir.
 
-             **(Değişik ikinci fıkra: 18/6/2003-4902/11 md.)** Karargâh
-ve askerî kurumlar ile Deniz Kuvvetleri (Sahil Güvenlik dahil)
-teşkilâtında bulunan gemiler gibi askerî tesisler de kışla olarak
-mütalâa edilir.
+**(Değişik ikinci fıkra: 18/6/2003-4902/11 md.)** Karargâh ve askerî
+kurumlar ile Deniz Kuvvetleri (Sahil Güvenlik dahil) teşkilâtında
+bulunan gemiler gibi askerî tesisler de kışla olarak mütalâa edilir.
 
-             Konak: Askerlerin hazar ve seferde muvakkat bir zaman için
-meskün yerlerde yerleşmesidir.
+Konak: Askerlerin hazar ve seferde muvakkat bir zaman için meskün
+yerlerde yerleşmesidir.
 
-             Ordugah: Askerlerin muvakkat bir zaman için açıkta çadır
-veya baraka ve zeminliklerde yerleştirildiği sahaya denir.
+Ordugah: Askerlerin muvakkat bir zaman için açıkta çadır veya baraka ve
+zeminliklerde yerleştirildiği sahaya denir.
 
-             **Madde 52 –** Müstakil olarak bir kışla, konak veya
-ordugahta bulunan bir kıta veya askeri kurumun kumandan veya amiri aynı
-zamanda bu yerlerin kışla, konak veya ordugah kumandanıdır.
+**Madde 52 –** Müstakil olarak bir kışla, konak veya ordugahta bulunan
+bir kıta veya askeri kurumun kumandan veya amiri aynı zamanda bu
+yerlerin kışla, konak veya ordugah kumandanıdır.
 
-             Muhtelif birlik ve kurumların bir arada bulunduğu kışla,
-konak ve ordugahlarda kumandanlık en büyük rütbeli kumandan veya amire
-aittir.
+Muhtelif birlik ve kurumların bir arada bulunduğu kışla, konak ve
+ordugahlarda kumandanlık en büyük rütbeli kumandan veya amire aittir.
 
-             **Madde 53 –** Her kışlada kışla binaları ve teşhizatının
-daima iyi bir halde bulunmasını temin etmekle görevli bir subay veya
-astsubay bulunur. Buna kışla subayı denilir. Bu vazifenin kimin
-tarafından yapılacağı kadrolarda ve talimatlarda gösterilmemişse kışla
-kumandanı, emrindeki subay veya astsubaylardan birine bu görevi verir.
+**Madde 53 –** Her kışlada kışla binaları ve teşhizatının daima iyi bir
+halde bulunmasını temin etmekle görevli bir subay veya astsubay bulunur.
+Buna kışla subayı denilir. Bu vazifenin kimin tarafından yapılacağı
+kadrolarda ve talimatlarda gösterilmemişse kışla kumandanı, emrindeki
+subay veya astsubaylardan birine bu görevi verir.
 
 3459
 
@@ -656,7 +629,7 @@ kumandanı, emrindeki subay veya astsubaylardan birine bu görevi verir.
 kurum amirleri kışla kumandanlığı görevini rütbece kendisinden sonra
 gelen birine devredebilir.
 
-F\) YOKLAMALAR
+*F) YOKLAMALAR*
 
 **Madde 55 –** İnsan ve hayvan mevcutlarını anlamak, bunlardan ve silah,
 malzeme ve eşyada bir vukuat olup olmadığı haberini almak maksadı ile
@@ -669,9 +642,9 @@ Yoklamaların şekli ve yapılış tarzı talimatnamede gösterilir.
 kışla kumandanı tarafından verilecek emir üzerine de yoklama
 yapılabilir.
 
-G\) SAĞLIK İŞLERİ^(1)^
+*G) SAĞLIK İŞLERİ^(1)^*
 
-(…)^(1)^
+*(…)^(1)^*
 
 **Madde 57 – (Değişik: 22/1/2015-6586/20 md.)**
 
@@ -751,7 +724,7 @@ takibi, gerekiyorsa 59 uncu madde kapsamında kontrolü sağlanmak
 suretiyle, kıta komutanları, karargâh veya askerî kurum amirleri ile
 bunların tabipleri tarafından yapılır.
 
-(…)^(1)^
+*(…)^(1)^*
 
 **Madde 62 – (Değişik: 22/1/2015-6586/25 md.)**
 
@@ -796,22 +769,26 @@ genel sağlık sigortası hükümlerine uygun olarak tedavilerinin yapılması
 kaydıyla bir yıla kadar uzatılabilir.
 
 Terhislerini müteakip dördüncü fıkra uyarınca genel sağlık sigortası
-dışında tedavisine devam olunacakların askerî hastanelere sevkleri,
-yerleşim yerlerindeki veya yerleşim yerlerine en yakın askerlik şubeleri
-tarafından sağlanır. Bunların kendileri ile sevk edildiği yere bir kimse
-refakatinde gitmesi resmî tabip raporuyla gerekli görülenlerin
-refakatçisine; gidiş ve dönüş yol ücreti ile gidiş ve dönüş süresi için
-gündelik, sevk eden askerlik şubesi tarafından peşin veya avans olarak
-ödenir. Yol ücretinin ödenmesinde şehirlerarası karayolu toplu taşım
-vasıtası ücretleri; gündelikte ise en düşük dereceli devlet memuru
-gündeliği esas alınır.
+dışında tedavisine devam olunacakların Sağlık Bakanlığı veya üniversite
+hastanelerine sevkleri, yerleşim yerlerindeki veya yerleşim yerlerine en
+yakın askerlik şubeleri tarafından sağlanır. Bunların kendileri ile sevk
+edildiği yere bir kimse refakatinde gitmesi resmî tabip raporuyla
+gerekli görülenlerin refakatçisine; gidiş ve dönüş yol ücreti ile gidiş
+ve dönüş süresi için gündelik, sevk eden askerlik şubesi tarafından
+peşin veya avans olarak ödenir. Yol ücretinin ödenmesinde şehirlerarası
+karayolu toplu taşım vasıtası ücretleri; gündelikte ise en düşük
+dereceli devlet memuru gündeliği esas alınır. ^(2)^
 
 \_\_\_\_\_\_\_\_\_\_\_
 
 *(1) 22/1/2015 tarihli ve 6586 sayılı Kanunun 110 uncu maddesiyle bu alt
 bölüm başlığı yürürlükten kaldırılmıştır.*
 
-3461
+*(2) 2/1/2017 tarihli ve 681 sayılı KHK’nin 4 üncü maddesiyle, bu
+fıkrada yer alan “askerî hastanelere” ibaresi “Sağlık Bakanlığı veya
+üniversite hastanelerine” şeklinde değiştirilmiştir. *
+
+3461/3462-1
 
 **Madde 63 – (Değişik: 22/1/2015-6586/26 md.)**
 
@@ -881,6 +858,8 @@ Askerî veya sivil sağlık hizmet sunucuları tarafından düzenlenen
 raporlar ve diğer sağlık kayıtları, personel ve sağlık bilgi sistemleri
 ile özlük dosyalarında muhafaza edilir.
 
+3462/3462-2
+
 **Madde 68 –**a) **(Değişik : 29/7/1998 - 4375/1 md.)** Gülhane Askeri
 Tıp Akademisi Profesörler Kurulu raporu ile yurtiçinde tedavilerinin
 mümkün olmadığı tespit edilen subay, askeri memur, astsubay, uzman
@@ -902,16 +881,13 @@ askeri ataşelikler veya konsolosluklarca tasdik edilen faturalara
 istinaden Milli Savunma Bakanlığı veya Jandarma Genel Komutanlığı
 veyahut da Sahil Güvenlik Komutanlığı bütçelerinden ödenir. Bunlardan;
 tüberküloz, kanser, kronik böbrek, akıl hastalıkları, organ nakli ve
-benzeri uzun süreli tedaviye ihtiyaç gösteren
-
-3462
-
-hastalıklara yakalandıkları resmi sağlık kurulu raporu ile belirlenenler
-hariç olmak üzere, tedavileri ayakta veya meskende yapılanlar için
-kullanılacak ilaç bedellerinin % 20'si hasta tarafından ödenir. İlaç
-bedellerine katılma yükümlülüğü, tatbikat ve manevralarda askeri
-personele, savaş halinde ise askeri personele ve bunların sağlık karnesi
-alma hakkına sahip olan aile fertlerine uygulanmaz.
+benzeri uzun süreli tedaviye ihtiyaç gösteren hastalıklara
+yakalandıkları resmi sağlık kurulu raporu ile belirlenenler hariç olmak
+üzere, tedavileri ayakta veya meskende yapılanlar için kullanılacak ilaç
+bedellerinin % 20'si hasta tarafından ödenir. İlaç bedellerine katılma
+yükümlülüğü, tatbikat ve manevralarda askeri personele, savaş halinde
+ise askeri personele ve bunların sağlık karnesi alma hakkına sahip olan
+aile fertlerine uygulanmaz.
 
 c\) Dış memleketlerdeki tedavi müddeti iki yılı geçemez. Bu müddet içinde
 acil haller müstesna raporda gösterilen hastalıktan başka yapılan
@@ -924,59 +900,7 @@ Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik
 Komutanlığına gönderilir. Müteakip altı ayda bir, aynı işlem
 tekrarlanır.
 
-**Madde 69 – (Değişik: 22/1/2015-6586/31 md.)**
-
-Aşağıda belirtilenler askerî sağlık kurum ve kuruluşlarında sivil
-hastalar için ayrılan kontenjana tabi olmaksızın muayene ve tedavi
-edilirler:
-
-a\) Subay, astsubay, uzman jandarma, sivil personel, uzman erbaşlar ve
-bunların emeklileri ile kendi özel kanunlarında belirtilen
-yükümlülüklerini tamamlayarak istifa eden veya emeklilik mevzuatı
-gereği, diğer şartları sağlamalarına rağmen yaşla ilgili şartları
-sağlamamaları nedeniyle emeklilik haklarını elde edemeden ayrılanlar ve
-vefat etmiş olsalar dahi bunların eş, üst soy, alt soy, erkek ve kız
-kardeşleri, evlat edinen ve evlatlık ile üvey çocukları.
-
-b\) Harp ve vazife malullüğünü gerektiren sebeplerden dolayı ölen yedek
-subay, erbaş ve erlerin aylık almaya müstahak dul ve yetimleri.
-
-c\) Harp ve vazife malulü yedek subay, erbaş ve erlerle bunların 5510
-sayılı Kanun hükümlerine göre sağlık hizmetinden yararlanabilecek aile
-fertleri ile dul ve yetimleri.
-
-d\) Sosyal Güvenlik Kurumu tarafından vazife malullüğü aylığı bağlanan ve
-bu nedenle okullarından ilişiği kesilen harp okulları, üniversite ve
-yüksekokullar ile astsubay meslek yüksekokulları ve Gülhane Askeri Tıp
-Akademisi Komutanlığına bağlı fakülte ve yüksekokullarda öğrenimde
-bulunan askerî öğrenciler ile bunların 5510 sayılı Kanuna göre sağlık
-hizmetlerinden yararlanabilecek aile fertleri, bunların vazife
-malullüğünü gerektiren sebeplerden dolayı ölümleri hâlinde sağlık
-hizmetlerinden yararlanabilecek aile fertleri ve uzun süreli tedavi
-gerektiren hastalıklar nedeniyle okulları ile ilişikleri kesilenlerden
-ilişiklerinin kesilmesine neden olan sağlık sorunu giderilinceye kadar
-tedavisi devam eden askerî öğrenciler.
-
-e\) Kendi özel kanunlarında belirtilen usul, esas ve sürelere ilişkin
-hususlar saklı kalmak kaydıyla, Türk Silâhlı Kuvvetlerinden ayrılan
-sözleşmeli subay, astsubay, uzman erbaşlar, sözleşmeli erbaş ve erler
-ile bunların 5510 sayılı Kanun ve kendi özel kanunları gereği sağlık
-hizmetinden yararlanabilecek aile fertleri.
-
-f\) 24/2/1968 tarihli ve 1005 sayılı İstiklâl Madalyası Verilmiş
-Bulunanlara Vatanî Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkında
-Kanun hükümlerine göre şeref aylığı alan kişiler ile bunların eşleri.
-
-g\) Türk Silâhlı Kuvvetleri adına öğrenim görmek üzere temel ve intibak
-eğitimine tabi tutulanlardan 8/6/1949 tarihli ve 5434 sayılı Türkiye
-Cumhuriyeti Emekli Sandığı Kanununun 56 ncı maddesi gereğince vazife
-malulü sayılarak aylık bağlananların kendileri ve bunların 5510 sayılı
-Kanuna göre sağlık hizmetlerinden yararlanabilecek aile fertleri ve bu
-şekilde temel ve intibak eğitimine tabi tutulanlardan aynı maddeye göre
-vazife malulü sayılmalarını gerektiren sebeplerle hayatını kaybedenler
-üzerinden dul veya yetim aylığı almakta olanların kendileri.
-
-3462-1
+**Madde 69 – (Mülga: 2/1/2017-KHK-681/5 md.)**
 
 **Madde 70 – (Değişik: 22/1/2015-6586/32 md.) **
 
@@ -984,20 +908,10 @@ Yabancı devletlerin silâhlı kuvvetler mensupları ve bunların bakmakla
 yükümlü oldukları kişiler, 5510 sayılı Kanun hükümleri saklı kalmak
 kaydıyla, uluslararası antlaşmalar ile taraflar arasındaki ikili
 anlaşmalarda yer alan hükümler doğrultusunda sağlık hizmetlerinden
-yararlandırılırlar. Yukarıda belirtilenler dışında kalan yabancı uyruklu
-hastalar ise, 5510 sayılı Kanun hükümleri saklı kalmak kaydıyla ve sivil
-hastalara tanınan kontenjanlar dâhilinde sağlık hizmetlerinden
-yararlanabilirler.
+yararlandırılırlar. **(Mülga ikinci cümle: 2/1/2017-KHK-681/6 md.)(…)**
 
-**Madde 70/A – (Ek: 22/1/2015-6586/33 md.)**
-
-Türk Silâhlı Kuvvetleri mensupları ile bu Kanunda belirlenen esaslara
-göre yakınlarının ikinci ve üçüncü basamak muayene ve tedavilerini
-sağlamak, 59 uncu maddede belirtilen rapor, muayene ve diğer sağlık
-hizmetleri ile askerlerin ve adayların sıhhi yeterliklerini tespit
-etmek, kontenjan dâhilinde sivil kişilere sağlık hizmeti vermek
-maksadıyla askerî ihtiyaçlar dikkate alınarak Genelkurmay Başkanlığınca
-asker hastaneleri kurulur.
+**Madde 70/A – (Ek: 22/1/2015-6586/33 md.; Mülga: 25/7/2016-KHK-669/109
+md.; Aynen kabul: 9/11/2016-6756/109 md.)**
 
 **Madde 70/B – (Ek: 22/1/2015-6586/33 md.)**
 
@@ -1042,7 +956,7 @@ yem, tedavi, yer ve malzeme giderleri ilgisine göre Millî Savunma
 Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı
 bütçelerinden karşılanır.
 
-İ) RÜTBE SAHİPLERİNİN VAZİFELERİ
+*İ) RÜTBE SAHİPLERİNİN VAZİFELERİ*
 
 **Madde 74 –** Hangi rütbe sahibinin hangi birlik ve askeri kurumda ne
 gibi vazife alacağı kadrolarda tesbit edilir.
@@ -1059,9 +973,9 @@ mecburdur.
 Her rütbe sahibinin bu maddeye göre vazifeleri de talimatname ile
 gösterilir.
 
-J\) ASKERLİKTE NÖBET HİZMETLERİ
+*J) ASKERLİKTE NÖBET HİZMETLERİ*
 
-I - Genel
+*I - Genel*
 
 **Madde 76 –** Nöbet; askerlikteki müşterek hizmetlerin yapılmasını ve
 devamını sağlamak maksadı ile bu hizmetlerin belli bir sıra ve süre ile
@@ -1076,7 +990,7 @@ hizmetine tabi tutulacak personelin kimler olacağı, nöbet hizmetlerinin
 yapılış tarzı ile şekli ve nöbetçilere ait vazifeler talimatname ile
 tayin ve tesbit olunur.
 
-II - Karakol, karakol nöbetçisi ve devriye
+*II - Karakol, karakol nöbetçisi ve devriye*
 
 **Madde 78 –** a) Karakol: Hazarda ve seferde emniyet, muhafaza disiplin
 ve gözetleme maksatları ile konulan ve bir amir emrinde bulunan silahlı
@@ -1149,7 +1063,7 @@ Muvakkat yakalananlar adli takibatı mucip bir sebep varsa salahiyetli
 askeri veya adli makamlara teslim olunur. Aksi takdirde nihayet muvakkat
 yakalandığının ertesi günü serbest bırakılır.
 
-K\) HAZIR KITA
+*K) HAZIR KITA*
 
 **Madde 83 –** Hal ve vaziyetin icabettirdiği zamanlarda her kışla konak
 ve ordugah da derhal kullanılmak üzere ayrıca bir hazır kıta
@@ -1165,7 +1079,7 @@ uyuyamıyacağı çıkaran kumandanca emredilir.
 **Madde 85 –** Fevkalade hallerde bütün kuvvet dahi hazır kıta halinde
 bulundurulur.
 
-L\) ASAYİŞİN TEMİNİ İÇİN ASKERİN NASIL KULLANILACAĞI VE ÖRFİ İDARE
+*L) ASAYİŞİN TEMİNİ İÇİN ASKERİN NASIL KULLANILACAĞI VE ÖRFİ İDARE*
 
 **Madde 86 –** Asayişi temin için Silahlı Kuvvetlerin nasıl
 kullanılacağı ve örfi idare ilanı halinde askerlerin vazife ve
@@ -1173,246 +1087,249 @@ salahiyetleri hususi kanunlar hükümlerine göre yürütülür.
 
 3465
 
-* *
+*M) ASKERLERİN SİLAH KULLANMA YETKİLERİ*
 
-*             M) ASKERLERİN SİLAH KULLANMA YETKİLERİ*
+**Madde 87 – (Değişik : 25/4/1972 - 1582/1 md.)**
 
-             **Madde 87 – (Değişik : 25/4/1972 - 1582/1 md.)**
+Askerler karakol, karakol nöbetçisi, devriye, nakliyat muhafazası
+hizmetlerinde veya asayişi temin için görevlendirildiklerinde aşağıda
+gösterilen hallerde silah kullanmaya yetkilidirler.
 
-             Askerler karakol, karakol nöbetçisi, devriye, nakliyat
-muhafazası hizmetlerinde veya asayişi temin için görevlendirildiklerinde
-aşağıda gösterilen hallerde silah kullanmaya yetkilidirler.
+*I - Silah kullanmasını gerektiren haller*
 
-             I - Silah kullanmasını gerektiren haller
+a\) Bu hizmetlerden birini yaparken müessir bir fiil ile taarruza uğranıl
+dığı veya müeesir bir fiil veya tehlikeli bir tehdit ile bu hizmetlerle
+yapılmasına mukavemet edildiği takdirde bu taarruz ve mukavemetleri
+gidermek için,
 
-             a) Bu hizmetlerden birini yaparken müessir bir fiil ile
-taarruza uğranıldığı veya müeesir bir fiil veya tehlikeli bir tehdit ile
-bu hizmetlerle yapılmasına mukavemet edildiği takdirde bu taarruz ve
-mukavemetleri gidermek için,
+b\) Bir taarruz veya mukavemete hazırlanan ve silahını veya mukavemete
+elverişli bir aleti bırakmaya davet edildiği halde, bu davete derhal
+itaat etmiyen veyahut bıraktığı silahı veya aleti tekrar eline almaya
+davranan veya alan kimseyi itaate zorlamak için,
 
-             b) Bir taarruz veya mukavemete hazırlanan ve silahını veya
-mukavemete elverişli bir aleti bırakmaya davet edildiği halde, bu davete
-derhal itaat etmiyen veyahut bıraktığı silahı veya aleti tekrar eline
-almaya davranan veya alan kimseyi itaate zorlamak için,
-
-             c) Bu kanunun 80 ve 81 inci maddeleri gereğince muvakkaten
-yakalanan bir şahsın veyahut muhafaza ve sevki kendisine tevdi edilmiş
-olan bir tutuklunun veya hükümlünün kaçması veya kaçmaya teşebbüs etmesi
-ve verilecek dur emrini dinlemediği görüldüğünde başka türlü ele
+c\) Bu kanunun 80 ve 81 inci maddeleri gereğince muvakkaten yakalanan bir
+şahsın veyahut muhafaza ve sevki kendisine tevdi edilmiş olan bir
+tutuklunun veya hükümlünün kaçması veya kaçmaya teşebbüs etmesi ve
+verilecek dur emrini dinlemediği görüldüğünde başka türlü ele
 geçirilmesi kabil olmadığı takdirde yakalanması için,
 
-             d) Kendi muhafazasına tevdi edilmiş olan insan ve her türlü
-eşyaya karşı vukubulan taarruzu defetmek için,
+d\) Kendi muhafazasına tevdi edilmiş olan insan ve her türlü eşyaya karşı
+vukubulan taarruzu defetmek için,
 
-             e) Bu maddede sayılan görevleri yapan askerlere karşı,
-sözle yapılan sataşma veya hareketlerin bertaraf edilmesi sırasında
-mukavemet, taarruz, müessir fiil veya tehlikeli bir tehditle
-karşılaşıldığında bu halleri gidermek için.
+e\) Bu maddede sayılan görevleri yapan askerlere karşı, sözle yapılan
+sataşma veya hareketlerin bertaraf edilmesi sırasında mukavemet,
+taarruz, müessir fiil veya tehlikeli bir tehditle karşılaşıldığında bu
+halleri gidermek için.
 
-            II - Silah kullanma derecesi
+*II - Silah kullanma derecesi*
 
-             Bu maddede yazılı hizmetlerin yapılması sırasında silah
-kullanılması için başkaca bir çare kalmaması veya zaruret olması
-şarttır.
+Bu maddede yazılı hizmetlerin yapılması sırasında silah kullanılması
+için başkaca bir çare kalmaması veya zaruret olması şarttır.
 
-             1. Şahıs veya topluluk silahsız ise; mukavemet, taarruz,
-müessir fiil veya tehdidin derecesine göre asayiş hizmeti ile görevli
-birlik komutanı gerekli uyarmayı yaparak silah kullanılacağını ihtar
-eder. Bu ihtara itaat edilmezse bunu sağlıyacak dereceden başlamak üzere
-silah kullanılır.
-
-             2. Şahıs veya topluluk silahlı veya taarruzun önemli
-derecede etkili kılacak şekilde aletleri taşıyorsa, silah veya aletlerin
-bırakılması ihtar olunur. Tecavüz taarruz veya mukavemet buna rağmen
-devam ederse itaati sağlıyacak dereceden başlamak üzere silah
+1\. Şahıs veya topluluk silahsız ise; mukavemet, taarruz, müessir fiil
+veya tehdidin derecesine göre asayiş hizmeti ile görevli birlik komutanı
+gerekli uyarmayı yaparak silah kullanılacağını ihtar eder. Bu ihtara
+itaat edilmezse bunu sağlıyacak dereceden başlamak üzere silah
 kullanılır.
 
-             III - Silah kullanma tarzı
+2\. Şahıs veya topluluk silahlı veya taarruzun önemli derecede etkili
+kılacak şekilde aletleri taşıyorsa, silah veya aletlerin bırakılması
+ihtar olunur. Tecavüz taarruz veya mukavemet buna rağmen devam ederse
+itaati sağlıyacak dereceden başlamak üzere silah kullanılır.
 
-             1. Silah çeşitlerine göre etkili olabilecek şekilde
-kullanılır. Önce kesici ve dürtücü silahlar ile ateşli silahlar hedefe
-tevcih edilir, sonra ateşli silahların dipçik ve kabzaları kullanılır,
-daha sonra kesici ve dürtücü ve ateşli silahlar bilfiil kullanılır.
+*III - Silah kullanma tarzı*
 
-             2. Silah kullanmak mutlaka ateş etmek değildir. Ateş etmek
-son çaredir. Önce havaya ihtar ateşi yapılır. Sonra ayağa doğru ateş
-edilir, mukavemet veya taarruza veyahut tehlikeli bir tehdide varan
-mukavemet hali devam ederse, hedef gözetilmeksizin ateş edilir.
+1\. Silah çeşitlerine göre etkili olabilecek şekilde kullanılır. Önce
+kesici ve dürtücü silahlar ile ateşli silahlar hedefe tevcih edilir,
+sonra ateşli silahların dipçik ve kabzaları kullanılır, daha sonra
+kesici ve dürtücü ve ateşli silahlar bilfiil kullanılır.
 
-             IV - Ateş emri ve kendiliğinden ateş etmek
+2\. Silah kullanmak mutlaka ateş etmek değildir. Ateş etmek son çaredir.
+Önce havaya ihtar ateşi yapılır. Sonra ayağa doğru ateş edilir,
+mukavemet veya taarruza veyahut tehlikeli bir tehdide varan mukavemet
+hali devam ederse, hedef gözetilmeksizin ateş edilir.
 
-             1. Ateş etmek bilhassa bunun için emir verilmiş olmasına
-bağlıdır.
+*IV - Ateş emri ve kendiliğinden ateş etmek*
 
-             2. Ateş emri verilmemiş olsa dahi her asker silahını
-kullanabilir. Ancak silahını kullanılacağı zamanın ve kullanma derece ve
-tarzının tayini her olayın cereyan ettiği haller ve şartlar göz önünde
-tutularak silahını kullanacak asker tarafından bizzat takdir olunur.
+1\. Ateş etmek bilhassa bunun için emir verilmiş olmasına bağlıdır.
+
+2\. Ateş emri verilmemiş olsa dahi her asker silahını kullanabilir. Ancak
+silahını kullanılacağı zamanın ve kullanma derece ve tarzının tayini her
+olayın cereyan ettiği haller ve şartlar göz önünde tutularak silahını
+kullanacak asker tarafından bizzat takdir olunur.
 
 3466
 
-* *
+*V - Ateş emri vermeye yetkili makamlar*
 
-*             V - Ateş emri vermeye yetkili makamlar*
+1\. Bu maddede yazılı görevleri yapmak için birliğe görev veren üst
+komutan olay yerinde bulunuyorsa sözle ateş emri vermeye yetkilidir.
+Komutan, bu emri yazı ile teyit eder.
 
-             1. Bu maddede yazılı görevleri yapmak için birliğe görev
-veren üst komutan olay yerinde bulunuyorsa sözle ateş emri vermeye
-yetkilidir. Komutan, bu emri yazı ile teyit eder.
+2\. Asayişe memur edilen kuvvetlerin olay yerinde bulunan birlik komutanı
+veya asayişe memur edilen birliğin parçalarına komuta eden en küçük
+komutan ve amirler dahi önceden emir verilmemiş olsa bile sözle ateş
+emri vermeye yetkilidir.
 
-             2. Asayişe memur edilen kuvvetlerin olay yerinde bulunan
-birlik komutanı veya asayişe memur edilen birliğin parçalarına komuta
-eden en küçük komutan ve amirler dahi önceden emir verilmemiş olsa bile
-sözle ateş emri vermeye yetkilidir.
+*VI - Sorumluluk*
 
-             VI - Sorumluluk
+Her olayın cereyan ettiği haller ve şartlar göz önünde tutulmak kaydiyle
+bu madde hükümlerine göre silahını kullanan askere ve silah kullanma
+emrini veren birlik komutanına sorumluluk yüklenemez.
 
-             Her olayın cereyan ettiği haller ve şartlar göz önünde
-tutulmak kaydiyle bu madde hükümlerine göre silahını kullanan askere ve
-silah kullanma emrini veren birlik komutanına sorumluluk yüklenemez.
+*VII - Soruşturma usulü ve adli yardım*
 
-             VII - Soruşturma usulü ve adli yardım
+**(Ek : 22/11/1990 - 3683/5 md.)** Silah kullanmak zorunda kalan asker
+kişiler hakkında, hazırlık soruşturması Askeri Savcı, Cumhuriyet Savcısı
+veya yardımcıları tarafından yapılır. Haklarında dava açılan sanık asker
+kişiler duruşmadan vareste tutulabilir. Olayın mahiyetine ve kusurun
+derecesine göre sanığın mensup olduğu Bakanlıkça durumu uygun
+görülenlerin vekalet verdiği avukatın ücreti, bu bakanlıkların bütçesine
+konulacak ödenekten karşılanır. Avukat tutma ve avukatlık ücretinin
+ödeme usul ve esasları, Milli Savunma ve İçişleri bakanlıklarınca bu
+Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde çıkarılacak
+yönetmelikle düzenlenir.
 
-             **(Ek : 22/11/1990 - 3683/5 md.)** Silah kullanmak zorunda
-kalan asker kişiler hakkında, hazırlık soruşturması Askeri Savcı,
-Cumhuriyet Savcısı veya yardımcıları tarafından yapılır. Haklarında dava
-açılan sanık asker kişiler duruşmadan vareste tutulabilir. Olayın
-mahiyetine ve kusurun derecesine göre sanığın mensup olduğu Bakanlıkça
-durumu uygun görülenlerin vekalet verdiği avukatın ücreti, bu
-bakanlıkların bütçesine konulacak ödenekten karşılanır. Avukat tutma ve
-avukatlık ücretinin ödeme usul ve esasları, Milli Savunma ve İçişleri
-bakanlıklarınca bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay
-içinde çıkarılacak yönetmelikle düzenlenir.
+**Madde 88 – (Değişik : 25/4/1972 - 1582/1 md.)**
 
-             **Madde 88 – (Değişik : 25/4/1972 - 1582/1 md.)**
-
-             Silah kullanma yetkisini haiz bulunan her asker veya silah
-kullanma emrini vermeye yetkili her komutan kanunun tayin etmiş olduğu
+Silah kullanma yetkisini haiz bulunan her asker veya silah kullanma
+emrini vermeye yetkili her komutan kanunun tayin etmiş olduğu
 müsaadeleri yerinde ve zamanında kullanmaz veya silahlarından tamamiyle
 istifade etmezse fiilin mahiyetine göre cezalandırılır.
 
-             **Madde 89 –** 87 nci maddede gösterilen hallerden başka
-hizmete ait bir vazifeyi yaparken maruz kaldığı bir mukavemeti bertaraf
-etmek veyahut askere veya askeri eşyaya karşı yapılan bir tecavüze karşı
-koymak için silah kullanmak zarureti hasıl olursa, her asker silah
-kullanmaya salahiyetli ve vazifelidir.
+**Madde 89 –** 87 nci maddede gösterilen hallerden başka hizmete ait bir
+vazifeyi yaparken maruz kaldığı bir mukavemeti bertaraf etmek veyahut
+askere veya askeri eşyaya karşı yapılan bir tecavüze karşı koymak için
+silah kullanmak zarureti hasıl olursa, her asker silah kullanmaya
+salahiyetli ve vazifelidir.
 
-             **Madde 90 –** 87 ve 89 uncu maddelerde gösterilen
-hallerden başka her asker meşru müdafaa halinde silah kullanmaya
-salahiyettardır.
+**Madde 90 –** 87 ve 89 uncu maddelerde gösterilen hallerden başka her
+asker meşru müdafaa halinde silah kullanmaya salahiyettardır.
 
-             N) ASKERİ İNZİBAT KUVVETLERİNİN VAZİFE, TEŞKİL VE YETKİLERİ
+*N) ASKERİ İNZİBAT KUVVETLERİNİN VAZİFE, TEŞKİL VE YETKİLERİ*
 
-             **Madde 91 –** a) Garnizonlarda askeri disiplinin
-muhafazası, önleyici zabıta ve adliye vazifeleri ile askeri trafik
-vazifeleri garnizon kumandanlarına aittir.
+**Madde 91 –** a) Garnizonlarda askeri disiplinin muhafazası, önleyici
+zabıta ve adliye vazifeleri ile askeri trafik vazifeleri garnizon
+kumandanlarına aittir.
 
-             Garnizon kumandanları yukarıda gösterilen vazifeleri merkez
+Garnizon kumandanları yukarıda gösterilen vazifeleri merkez
 kumandanlıkları marifetiyle yürütür.
 
-             Merkez kumandanlıkları; büyük garnizonlarda kadrolarla
-tesbit ve teşkil olunur. Diğer garnizonlarda garnizon kumandanları
-rütbece kendisinden bir veya nihayet iki derece ast olan bir subayı
-merkez kumandanı olarak tayin ve tavzif edebilir. Merkez kumandanlığı
-teşkiline lüzum görülmiyen küçük garnizonlarda buna ait vazifeler,
-garnizon kumandanı tarafından tayin edilecek bir inzıbat subayı veya
-astsubayı buna da imkan olmıyan hallerde bizzat garnizon kumandanı
-tarafından yapılır.
+Merkez kumandanlıkları; büyük garnizonlarda kadrolarla tesbit ve teşkil
+olunur. Diğer garnizonlarda garnizon kumandanları rütbece kendisinden
+bir veya nihayet iki derece ast olan bir subayı merkez kumandanı olarak
+tayin ve tavzif edebilir. Merkez kumandanlığı teşkiline lüzum görülmiyen
+küçük garnizonlarda buna ait vazifeler, garnizon kumandanı tarafından
+tayin edilecek bir inzıbat subayı veya astsubayı buna da imkan olmıyan
+hallerde bizzat garnizon kumandanı tarafından yapılır.
 
-             b) Merkez kumandanlığı kadro ile tesbit ve teşkil
-edilmediği ahvalde; garnizon dahilindeki kıta ve askeri müesseselerin
-miktarı, şehrin genişliği ve vazifelerin ehemmiyeti gözönüne alınarak
-kafi miktarda subay, astsubay, erbaş ve erler merkez kumandanı veya
-inzıbat subayı veya astsubayın emrine verilir ve bunlara inzıbat kuvveti
-denilir.
+b\) Merkez kumandanlığı kadro ile tesbit ve teşkil edilmediği ahvalde;
+garnizon dahilindeki kıta ve askeri müesseselerin miktarı, şehrin
+genişliği ve vazifelerin ehemmiyeti gözönüne alınarak kafi miktarda
+subay, astsubay, erbaş ve erler merkez kumandanı veya inzıbat subayı
+veya astsubayın emrine verilir ve bunlara inzıbat kuvveti denilir.
 
-             Askeri inzıbat kuvveti mensupları Silahlı Kuvvetler Kıyafet
+Askeri inzıbat kuvveti mensupları Silahlı Kuvvetler Kıyafet
 Kararnamesinde tesbit edilen hususi işareti taşırlar.
 
 3467
 
- 
+**Madde 92 –** a) Askeri inzibat erbaş ve erleri vazife esnasında diğer
+erbaş veerlere karşı karakol sıfatını ve karakolların kanuni salahiyet
+ve mesuliyetlerini haizdirler.
 
-             **Madde 92 –** a) Askeri inzibat erbaş ve erleri vazife
-esnasında diğer erbaş veerlere karşı karakol sıfatını ve karakolların
-kanuni salahiyet ve mesuliyetlerini haizdirler.
+b\) **(Değişik: 28/5/2003-4861/18 md.)** Fakülte ve yüksek okul
+öğrencileri ile harp okulu öğrencilerine subaylar gibi; (…) ^(1)^
+astsubay meslek yüksek okulu öğrencileri ile astsubay nasbedilmek üzere
+temel askerlik eğitimine tâbi tutulanlara astsubaylar gibi muamele
+olunur. ^(1)^
 
-             b) **(Değişik: 28/5/2003-4861/18 md.)** Fakülte ve yüksek
-okul öğrencileri ile harp okulu öğrencilerine subaylar gibi; astsubay
-hazırlama ve astsubay meslek yüksek okulu öğrencileri ile astsubay
-nasbedilmek üzere temel askerlik eğitimine tâbi tutulanlara astsubaylar
-gibi muamele olunur.
-
-             c) Subay ve askeri memurlarla astsubaylar hakkında askeri
-inzibat vazifeleri; ancak üst veya kendi rütbelerindeki inzibat subay ve
+c\) Subay ve askeri memurlarla astsubaylar hakkında askeri inzibat
+vazifeleri; ancak üst veya kendi rütbelerindeki inzibat subay ve
 astsubayları tarafından yapılabilir.
 
-             O mahalde salahiyetli bir inzibat subayı veya astsubayı
-mevcut değilse vakaya şahit olan üst veya aynı rütbedeki her subay,
-askeri memur veya astsubay müdahaleye ve inzibat vazifesini ifaya
+O mahalde salahiyetli bir inzibat subayı veya astsubayı mevcut değilse
+vakaya şahit olan üst veya aynı rütbedeki her subay, askeri memur veya
+astsubay müdahaleye ve inzibat vazifesini ifaya mecburdur.
+
+Ancak ağır cezayı müstelzim meşhut cürüm halinde subayları, askeri
+memurları ve astsubayları dahi yakalamaya askeri inzibatlar, polisler,
+jandarmalar ve herkes mezundur.
+
+Bu takdirde dahi suçlu askerler duruma göre ya salahiyetli askeri
+inzibat memuru gelinceye kadar vaka mahallinde tutulur veya en yakın
+askeri inzibat karakoluna, yoksa askeri makamlara teslim edilir. Bundan
+sonra yapılacak hazırlık tahkikatında salahiyetli inzibat memuru veya
+mevcut askeri makamın tayin edeceği bir subay bulunur.
+
+**(Ek fıkra: 24/11/2016-6763/6 md.)** Suçun 26/9/2004 tarihli ve 5237
+sayılı Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü,
+Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan suçlar ile 12/4/1991
+tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan
+olması durumunda, dördüncü fıkra hükümleri uygulanmaz ve yakalanan kişi
+Cumhuriyet savcısının talimatı ile adli kolluk görevlilerine teslim
+edilir.
+
+**Madde 93 –** Üniformalı veya sivil elbiseli subay, askeri memur ve
+astsubaylar ağır cezalı cürümler dışındaki suçları işledikleri takdirde
+polis veya jandarma kuvvetleri tarafından en yakın askeri makama veya
+inzibat karakoluna davet edilir. Askeri şahıs bu daveti kabule
 mecburdur.
 
-             Ancak ağır cezayı müstelzim meşhut cürüm halinde subayları,
-askeri memurları ve astsubayları dahi yakalamaya askeri inzibatlar,
-polisler, jandarmalar ve herkes mezundur.
+Bu şahıslara ait hazırlık tahkikatı bizzat C. Müddeiumumileri veya
+salahiyetli askeri adli hakimler tarafından yürütülür ve tahkikat
+tamamlanıncaya kadar askeri makamlarca nezaret altında tutulurlar. **(Ek
+cümle: 24/11/2016-6763/7 md.)** Suçun Türk Ceza Kanununun İkinci Kitap
+Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde
+tanımlanan suçlar ile Terörle Mücadele Kanunu kapsamına giren suçlardan
+olması durumunda, kişi Cumhuriyet savcısının talimatı ile adli kolluk
+görevlilerine teslim edilir.
 
-             Bu takdirde dahi suçlu askerler duruma göre ya salahiyetli
-askeri inzibat memuru gelinceye kadar vaka mahallinde tutulur veya en
-yakın askeri inzibat karakoluna, yoksa askeri makamlara teslim edilir.
-Bundan sonra yapılacak hazırlık tahkikatında salahiyetli inzibat memuru
-veya mevcut askeri makamın tayin edeceği bir subay bulunur.
+**Madde 94 –** Her hangi bir vakada askeri inzibatların kuvveti kafi
+gelmediği takdirde en yakın askeri kıtadan asker celbolunur. Acele ve
+tehirinde tehlike melhuz olan hallerde en yakın polis ve jandarma
+kuvvetlerine de müracaat olunur. Askeri inzibatlar tarafından vaki
+olacak yardım talepleri üzerine polis ve jandarmalar tarafından yardımda
+bulunulacağı gibi polis ve jandarmalar tarafından vaki olacak yardım
+talepleri de askeri inzibatlarca yerine getirilir.
 
-             **Madde 93 –** Üniformalı veya sivil elbiseli subay, askeri
-memur ve astsubaylar ağır cezalı cürümler dışındaki suçları işledikleri
-takdirde polis veya jandarma kuvvetleri tarafından en yakın askeri
-makama veya inzibat karakoluna davet edilir. Askeri şahıs bu daveti
-kabule mecburdur.
+**Madde 95 –** İnzibat er ve erbaşları diğer er ve erbaşlara, inzibat
+subay ve astsubayları aynı veya ast rütbedeki bütün subay, askeri memur
+ve astsubaylarla er ve erbaşlara ve bütün askeri inzibatlar sivil
+şahıslara karşı aşağıda gösterilen hallerde muvakkat yakalama
+salahiyetini haizdir.
 
-             Bu şahıslara ait hazırlık tahkikatı bizzat C.
-Müddeiumumileri veya salahiyetli askeri adli hakimler tarafından
-yürütülür ve tahkikat tamamlanıncaya kadar askeri makamlarca nezaret
-altında tutulurlar.
+a\) Bu kanunun 80 inci maddesinde gösterilen hallerde,
 
-             **Madde 94 –** Her hangi bir vakada askeri inzibatların
-kuvveti kafi gelmediği takdirde en yakın askeri kıtadan asker
-celbolunur. Acele ve tehirinde tehlike melhuz olan hallerde en yakın
-polis ve jandarma kuvvetlerine de müracaat olunur. Askeri inzibatlar
-tarafından vaki olacak yardım talepleri üzerine polis ve jandarmalar
-tarafından yardımda bulunulacağı gibi polis ve jandarmalar tarafından
-vaki olacak yardım talepleri de askeri inzibatlarca yerine getirilir.
+b\) Askeri disiplini bozan hallerde,
 
-             **Madde 95 –** İnzibat er ve erbaşları diğer er ve
-erbaşlara, inzibat subay ve astsubayları aynı veya ast rütbedeki bütün
-subay, askeri memur ve astsubaylarla er ve erbaşlara ve bütün askeri
-inzibatlar sivil şahıslara karşı aşağıda gösterilen hallerde muvakkat
-yakalama salahiyetini haizdir.
+c\) Adli bir vazifenin yerine getirilmesi hallerinde,
 
-             a) Bu kanunun 80 inci maddesinde gösterilen hallerde,
+d\) Vazifelerini ifa esnasında veya vazifelerinden dolayı tecavüz veya
+hakarete maruz kaldıkları takdirde;
 
-             b) Askeri disiplini bozan hallerde,
+Yukarıdaki hallerde muvakkat yakalananlar hakkında da bu kanunun 82 inci
+maddesi son fıkrası hükmü gereğince işlem yapılır.
 
-             c) Adli bir vazifenin yerine getirilmesi hallerinde,
+**Madde 96 –** Askeri inzibatlar vazifeli bulundukları zamanda bu
+kanunun 87, 88 ve 89 uncu maddelerinde (Ve her türlü ahvalde de 90 ıncı
+maddesinde) zikredilen silah kullanma salahiyetlerini haizdirler.
 
-             d) Vazifelerini ifa esnasında veya vazifelerinden dolayı
-tecavüz veya hakarete maruz kaldıkları takdirde;
+**Madde 97 –** Askeri inzibatların askeri disiplini muhafaza, önleyici
+zabıta ve adliye vazifeleri ile askeri trafik vazifeleri talimatname ve
+talimatlarla gösterilir.
 
-             Yukarıdaki hallerde muvakkat yakalananlar hakkında da bu
-kanunun 82 inci maddesi son fıkrası hükmü gereğince işlem yapılır.
+–––––––––––––––
 
-             **Madde 96 –** Askeri inzibatlar vazifeli bulundukları
-zamanda bu kanunun 87, 88 ve 89 uncu maddelerinde (Ve her türlü ahvalde
-de 90 ıncı maddesinde) zikredilen silah kullanma salahiyetlerini
-haizdirler.
-
-             **Madde 97 –** Askeri inzibatların askeri disiplini
-muhafaza, önleyici zabıta ve adliye vazifeleri ile askeri trafik
-vazifeleri talimatname ve talimatlarla gösterilir.
+*(1) 2/1/2017 tarihli ve 681 sayılı KHK’nin 7 nci maddesiyle, bu fıkrada
+yer alan “astsubay hazırlama ve” ibaresi yürürlükten kaldırılmıştır.*
 
 3468
 
 *O) SOSYAL HİZMETLER*
 
-I -Orduevleri, askerî gazinolar, kışla gazinoları veya vardiya
-yatakhaneleri ile diğer tesisler^(1)^
+*I -Orduevleri, askerî gazinolar, kışla gazinoları veya vardiya
+yatakhaneleri ile diğer tesisler^(1)^*
 
 **Madde 98 – (Değişik : 11/2/2014-6519/11 md.) **
 
@@ -1438,7 +1355,7 @@ Orduevi ve bağlısı şubeler, askerî gazinolar, kışla gazinoları ve
 vardiya yatakhanelerinin yılı merkezî yönetim bütçe kanunu ile
 belirlenen giderleri genel bütçeden karşılanabilir.
 
-II - Özel, yerel veya kış eğitim merkezleri^(2)^
+*II - Özel, yerel veya kış eğitim merkezleri^(2)^*
 
 **Madde 99 – (Değişik : 11/2/2014-6519/12 md.)**
 
@@ -1555,7 +1472,7 @@ Maliye Bakanlığının uygun görüşü üzerine yönetmelik ile belirlenir.
 
 3468-2
 
-III - Askerî müzeler^(1)^
+*III - Askerî müzeler^(1)^*
 
 **Madde 105 – (Değişik : 11/2/2014-6519/17 md.)**
 
@@ -1581,7 +1498,7 @@ işlendiği şekilde değiştirilmiştir.*
 
 3469
 
-IV - Muafiyet ve istisnalar^(1)^
+*IV - Muafiyet ve istisnalar^(1)^*
 
 **Madde 106 – (Değişik : 11/2/2014-6519/18 md.)**
 
@@ -1597,7 +1514,7 @@ Bu maddede sayılan tesisler emlak vergisinden, bu tesislerin mal ve
 hizmet alımları nedeniyle düzenlediği ödemeye ilişkin kâğıtlar damga
 vergisinden istisnadır.
 
-V - Hazine payı^(2)^
+*V - Hazine payı^(2)^*
 
 **Madde 107 – (Değişik : 11/2/2014-6519/19 md.)**
 
@@ -1609,7 +1526,7 @@ ilgili muhasebe birimine yatırılır. Bu oranı, sayılan tesislerin
 faaliyet türleri itibarıyla topluca veya ayrı ayrı ya da her bir tesis
 için ayrı ayrı sıfıra kadar indirmeye Maliye Bakanı yetkilidir.
 
-VI - Askeri nakil vasıtalarından istifade
+*VI - Askeri nakil vasıtalarından istifade*
 
 **Madde 108 –** Subay, askeri memur ve astsubaylar ile aileleri
 aşağıdaki hallerde askeri kara ve deniz nakil vasıtalarından
@@ -1646,8 +1563,6 @@ istifade şekli talimatname ile tesbit olunur.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 *(1) 11/2/2014 tarihli ve 6519 sayılı Kanunun 18 inci maddesiyle bu
 maddenin başlığı “Askeri kantinler” iken metne işlendiği şekilde
 değiştirilmiştir.*
@@ -1671,23 +1586,23 @@ için izin belgesi aranmaz.
 
 Sevk muhtırası ile yapılacak seyahatler tam ücrete tabidir.
 
-P\) MERASİM
+*P) MERASİM*
 
 **Madde 110 –** Askeri merasimler; Askeri Merasim ve Protokol
 Talimatnamesi esaslarına göre yapılır.
 
-R\) HARB ESİRLERİ VE MÜLTECİLER
+*R) HARB ESİRLERİ VE MÜLTECİLER*
 
 **Madde 111 –** Harb esirleri hakkında 6020 ve mülteciler hakkında da
 4104 sayılı kanun hükümleri tatbik olunur.
 
-S\) TABİİ AFETLERDE YARDIM
+*S) TABİİ AFETLERDE YARDIM*
 
 **Madde 112 –** Yer sarsıntısı, yangın, su basması, yer kayması, kaya
 düşmesi, çığ ve benzeri tabii afetler zuhurunda 7269 sayılı kanun ve
 ekleri hükümleri dahilinde hareket olunur.
 
-T\) ASKERİ ÖĞRENCİLER
+*T) ASKERİ ÖĞRENCİLER*
 
 **Madde 113 –** a) **(Değişik: 28/5/2003-4861/19 md.)** Astsubay meslek
 yüksek okulları, fakülte ve yüksek okullar ile harp okullarında okuyan
@@ -1704,10 +1619,8 @@ tutulan adaylar, aynı zamanda astsubaylara karşı ast durumunda olup,
 askerî öğrencilerin, belirtilen hallerin dışında, gerek kendi aralarında
 gerekse erbaş ve erlere karşı astlık ve üstlük ilişkileri yoktur.
 
-c\) Lise, ortaokul ve eşidi okullar askeri öğrencileri; bu kanunun 14
-üncü maddesinin asta tahmil ettiği vazifeleri aynen yapmaya
-mecburdurlar. Hilafına hareket edenler diğer askerlerin tabi olduğu
-cezai müeyyidelere tabidirler.
+c\) **(Mülga: 25/7/2016-KHK-669/10 md.; Aynen kabul: 9/11/2016-6756/10
+md.)**
 
 d\) Bütün askeri öğrencilerin yalnız kendileri bu kanunun (G) bölümünde
 belirtilen sağlık işleri ile ilgili hükümlerden ve şehiriçi ve
@@ -1721,16 +1634,15 @@ teferruatlı olarak gösterilir.
 
 Askeri öğrenciler diğer hususlarda kendi okul talimatlarına tabidirler.
 
-U\) SİLAHLI KUVVETLERDE ÇALIŞAN SİVİL PERSONEL
+*U) SİLAHLI KUVVETLERDE ÇALIŞAN SİVİL PERSONEL*
 
 **Madde 115 –** Silahlı Kuvvetlerde çalışan sivil memur, müstahdem,
 müteferrik müstahdem ve gündelikçi sivil personel bu kanunun askerlere
 tahmil ettiği sorumluluk ve hizmetlerin ifası bakımından:
 
 a\) Amir vazifesi alanlar; maiyetindeki bütün askeri ve sivil personele
-hizmetin icabettirdiği emirleri verebilir. Ceza vermek salahiyetleri
-yoktur. Maiyetin cezalandırılması icabeden hallerde en yakın askeri
-amire müracaat edilir.
+hizmetin icabettirdiği emirleri verebilir. **(Mülga ikinci ve üçüncü
+cümle: 3/10/2016-KHK-676/53 md.)(…)**
 
 b\) Bütün sivil personel emrinde çalıştıkları askeri amirlere karşı ast
 durumunda olup bu kanunun 14 üncü maddesinin asta tahmil ettiği
@@ -1763,13 +1675,13 @@ kanunun 108 inci maddesi hükmünden faydalanabilirler.
 f\) **(Değişik : 22/11/1990 - 3683/9 md.)** Sivil personelin görevdeki
 kıyafetleri, Kıyafet Yönetmeliğinde gösterilir.
 
-g\) **(Ek : 22/11/1990 - 3683/9 md.)** Milli Savunma Bakanlığı ile Türk
-Silahlı Kuvvetleri kadrolarında veya kadro açıklamalar bölümünde özel
-nitelikli olarak gösterilen görev yerlerine atanan sivil memurlar Türk
-Silahlı Kuvvetleri sosyal tesislerinden görevlendirildikleri kadro
+g\) **(Ek : 22/11/1990 - 3683/9 md.)** Milli Savunma Bakanlığı ile
+Genelkurmay Başkanlığı kadrolarında veya kadro açıklamalar bölümünde
+özel nitelikli olarak gösterilen görev yerlerine atanan sivil memurlar
+Türk Silahlı Kuvvetleri sosyal tesislerinden görevlendirildikleri kadro
 derecesindeki subaylar gibi istifade ederler. Bu statüdeki sivil
 memurlar ile askeri personel arasındaki protokol münasebetlerinin
-düzenlenmesinde de aynı esas uygulanır.
+düzenlenmesinde de aynı esas uygulanır. ^(1)^
 
 **Madde 117 –** Bu Kanunun yukarıda gösterilen esasları da gözönünde
 tutularak Silahlı Kuvvetlerde çalışan sivil personel hakkında tatbik
@@ -1793,6 +1705,14 @@ Sözleşmeli Erbaş ve Er Kanunu kapsamında istihdam edilen sözleşmeli
 erbaş ve erlere, bu Kanunun erbaş ve erlere ilişkin hükümleri aynen
 uygulanır.
 
+–––––––––––––––
+
+*(1) 2/1/2017 tarihli ve 681 sayılı KHK’nin 8 inci maddesiyle, bu bentte
+yer alan* “*Türk Silahlı Kuvvetleri kadrolarında” ibaresi “Genelkurmay
+Başkanlığı kadrolarında” şeklinde değiştirilmiştir.*
+
+3472
+
 **Ek Madde** **2 –** **(Ek: 22/1/2015-6586/37 md.)**
 
 Asker kişilerin kıta, karargâh ve kurumlarda ya da görev esnasında veya
@@ -1813,45 +1733,47 @@ avukatlık ücretinin ödenmesine ilişkin usul ve esaslar, Millî Savunma ve
 İçişleri Bakanlıklarınca bu Kanunun yürürlüğe girdiği tarihten itibaren
 üç ay içinde müştereken çıkarılan yönetmelikle düzenlenir.
 
+**Geçici Madde 1-(Ek: 25/7/2016-KHK-669/11 md.; Aynen kabul:
+9/11/2016-6756/11 md.)**
+
+Bu maddenin yürürlüğe girdiği tarihten önce sağlık nedeniyle sınıf veya
+statü değişikliği işlemine tabi tutulan Türk Silahlı Kuvvetleri
+personeli, bir yıl içinde başvurmaları halinde Milli Savunma ve Sağlık
+Bakanlıklarının müştereken oluşturacağı komisyonlar tarafından yeniden
+sağlık muayenesine tabi tutulurlar. Verilecek raporlar kesin olup, bu
+rapor sonucuna göre haklarında işlem tesis edilir.
+
 **Madde 121 –** Bu Kanunun sağlık işlerine ait 57 - 70 inci madde
 hükümleri 1 Mart 1961 tarihinde diğer hükümleri yapılacak talimatname
 ile birlikte 27 Mayıs 1961 tarihinde yürürlüğe girer.
 
 **Madde 122 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
- 
+3472-1
 
-3472
+**4/1/1961 TARİHLİ VE 211 SAYILI KANUNA İŞLENEMEYEN**
 
- 
+**HÜKÜMLER:**
 
-             **4/1/1961 TARİHLİ VE 211 SAYILI KANUNA İŞLENEMEYEN
-HÜKÜMLER:**
+1\) **7/2/1990 tarihli ve 3612 sayılı Kanunun Geçici Maddesi :**
 
- 
+**Geçici Madde –** İlgili kanunlarında tüzükle düzenlenmesi öngörülmekle
+birlikte bu Kanun ile yönetmelik şeklinde tanzimi uygun bulunan
+hususlarla ilgili olarak çıkarılması gereken yönetmelikler yürürlüğe
+girinceye kadar mevcut hükümlerin uygulanmasına devam olunur.
 
-             1) **7/2/1990 tarihli ve 3612 sayılı Kanunun Geçici Maddesi
-:**
+2\) **22/11/1990 tarihli ve 3683 sayılı Kanunun 10 uncu maddesi :**
 
-             **Geçici Madde –** İlgili kanunlarında tüzükle düzenlenmesi
-öngörülmekle birlikte bu Kanun ile yönetmelik şeklinde tanzimi uygun
-bulunan hususlarla ilgili olarak çıkarılması gereken yönetmelikler
-yürürlüğe girinceye kadar mevcut hükümlerin uygulanmasına devam olunur.
-
-             2) **22/11/1990 tarihli ve 3683 sayılı Kanunun 10 uncu
-maddesi :**
-
-             **Madde 10 –** Asker kişilerle ilgili olup diğer kanunlarda
-geçen "Kıyafet Kararnamesi" ibaresi, "Kıyafet Yönetmeliği" şeklinde
+**Madde 10 –** Asker kişilerle ilgili olup diğer kanunlarda geçen
+"Kıyafet Kararnamesi" ibaresi, "Kıyafet Yönetmeliği" şeklinde
 değiştirilmiştir.
 
-             3) **23/2/2005 tarihli ve 5305 sayılı Kanunun Geçici
-Maddesi :**
+3\) **23/2/2005 tarihli ve 5305 sayılı Kanunun Geçici Maddesi :**
 
-             **Geçici Madde 1-** Bu Kanunun yürürlüğe girmesinden önce
-uzun süreli tedavi gerektiren hastalıklar nedeniyle okulları ile
-ilişikleri kesilen askerî öğrencilerin tedavileri hakkında da 70 inci
-maddenin ikinci fıkrası hükümleri uygulanır.
+**Geçici Madde 1-** Bu Kanunun yürürlüğe girmesinden önce uzun süreli
+tedavi gerektiren hastalıklar nedeniyle okulları ile ilişikleri kesilen
+askerî öğrencilerin tedavileri hakkında da 70 inci maddenin ikinci
+fıkrası hükümleri uygulanır.
 
 3473
 
@@ -1948,15 +1870,23 @@ MAHKEMESİ TARAFINDAN İPTAL EDİLEN**
 
 3474-1
 
-  ---------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **211 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                                                  **Yürürlüğe Giriş Tarihi**
-  **5758**                                                                     **69**                                                                                                                                                                      **9/5/2008**
-  **6191**                                                                     **3, Ek Madde 1**                                                                                                                                                           **22/3/2011**
-  **6413**                                                                     **115**                                                                                                                                                                     **16/2/2013**
-  **6496**                                                                     **2, 35, 43**                                                                                                                                                               **31/7/2013**
-  **6514**                                                                     **57**                                                                                                                                                                      **18/1/2014**
-  **6519**                                                                     **34, 34/A, 43, 46, 98, 99, 101, 102, 103, 104, 105, 106, 107**                                                                                                             **22/2/2014**
-  **6586 **                                                                    **57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 69, 70, 70/A, 70/B, 71, 72, 73, 116, Ek Madde 2, G) Sağlık İşleri” bölümünde yer alan I-II- III nolu alt bölüm başlıkları**   **3/2/2015**
-  ---------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
+  ------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **211 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                                                  **Yürürlüğe Giriş Tarihi**
+  **5758**                                                                              **69**                                                                                                                                                                      **9/5/2008**
+  **6191**                                                                              **3, Ek Madde 1**                                                                                                                                                           **22/3/2011**
+  **6413**                                                                              **115**                                                                                                                                                                     **16/2/2013**
+  **6496**                                                                              **2, 35, 43**                                                                                                                                                               **31/7/2013**
+  **6514**                                                                              **57**                                                                                                                                                                      **18/1/2014**
+  **6519**                                                                              **34, 34/A, 43, 46, 98, 99, 101, 102, 103, 104, 105, 106, 107**                                                                                                             **22/2/2014**
+  **6586**                                                                              **57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 69, 70, 70/A, 70/B, 71, 72, 73, 116, Ek Madde 2, G) Sağlık İşleri” bölümünde yer alan I-II- III nolu alt bölüm başlıkları**   **3/2/2015**
+  **6638**                                                                              **34**                                                                                                                                                                      **4/4/2015**
+  **KHK/669**                                                                           **70/A, 113, Geçici Madde 1**                                                                                                                                               **31/7/2016**
+  **KHK/676**                                                                           **115**                                                                                                                                                                     **29/10/2016**
+  **6756**                                                                              **70/A, 113, Geçici Madde 1**                                                                                                                                               **24/11/2016**
+  **6763**                                                                              **92, 93**                                                                                                                                                                  **2/12/2016**
+  **KHK/681**                                                                           **1, 12, 19, 62, 69, 70, 92, 116**                                                                                                                                          **6/1/2017**
+  ------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
 
+ 
 
+ 
