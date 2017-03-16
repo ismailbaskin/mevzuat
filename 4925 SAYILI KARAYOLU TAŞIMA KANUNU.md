@@ -1,6 +1,6 @@
-5917 sayılı Kanun ile değişik hali
+ Anayasa Mahkemesinin 8/11/2012 tarihli ve
 
- 
+E:2012/27, K:2012/173 sayılı Kararı ile değişik hali
 
 KARAYOLU TAŞIMA KANUNU ^(1)^
 
@@ -925,7 +925,7 @@ h\) Kanunun uygulanmasıyla ilgili diğer esas ve usulleri,
 Düzenleyen yönetmelikler Bakanlıkça hazırlanarak Resmî Gazetede
 yayımlanır.
 
-*Yetki devri*
+*Yetki devri^(1)^*
 
 Madde 35 - Bakanlık, bu Kanun gereğince yerine getirmekle yükümlü olduğu
 görev ve yetkilerinin tamamını veya bir kısmını devredebilir. Devirle
@@ -972,6 +972,17 @@ Madde 37 - Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 Madde 38 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu madde, Anayasa Mahkemesinin 8.11.2012 tarihli ve E:2012/27,
+K:2012/173 sayılı kararıyla iptal edilmiş olup iptal hükmünün, kararın
+Resmî Gazete’de yayımlandığı 28/3/2013 tarihinden başlayarak dokuz ay
+sonra yürürlüğe girmesi hüküm altına alınmıştır.*
+
+ 
+
+ 
+
 8556
 
 **4925 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
@@ -981,21 +992,25 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4925 sayılı Kanunun değişen veya iptal edilen maddeleri**      **Yürürlüğe Giriş Tarihi**
+  ------------------------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**      **4925 sayılı Kanunun değişen veya iptal edilen maddeleri**      **Yürürlüğe Giriş Tarihi**
 
-  5228                                                                         29                                                               31/7/2004
+  5228                                                                            29                                                               31/7/2004
 
-  5335                                                                         33 üncü maddenin birinci fıkrasında yer alan ibare değişikliği   1/1/2009
-                                                                                                                                                
-                                                                               33 üncü maddeye eklenen ikinci fıkranın (1) numaralı bendi       1/1/2003 tarihinden geçerli olmak üzere 27/4/2005
-                                                                                                                                                
-                                                                               33 üncü maddeye eklenen diğer fıkra hükümleri                    27/4/2005
+  5335                                                                            33 üncü maddenin birinci fıkrasında yer alan ibare değişikliği   1/1/2009
+                                                                                                                                                   
+                                                                                  33 üncü maddeye eklenen ikinci fıkranın (1) numaralı bendi       1/1/2003 tarihinden geçerli olmak üzere 27/4/2005
+                                                                                                                                                   
+                                                                                  33 üncü maddeye eklenen diğer fıkra hükümleri                    27/4/2005
 
-  5728                                                                         5, 24, 26, 27, 28, 29, 30, 31                                    8/2/2008
+  5728                                                                            5, 24, 26, 27, 28, 29, 30, 31                                    8/2/2008
 
-  5917                                                                         26, 27, 30, 31, 33                                               10/7/2009
-  ---------------------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------
+  5917                                                                            26, 27, 30, 31, 33                                               10/7/2009
+
+  Anayasa Mahkemesinin 8/11/2012 tarihli ve E:2012/27, K:2012/173 sayılı Kararı   35                                                               28/3/2013 tarihinden başlayarak dokuz ay sonra
+                                                                                                                                                   
+                                                                                                                                                   (28/12/2013)
+  ------------------------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------
 
  
 
