@@ -1,4 +1,6 @@
-**6496 sayılı Kanun ile değişik hali **
+**6514 sayılı Kanun ile değişik hali**
+
+ 
 
 [[]{#k15 .anchor}]{#K15 .anchor}
 
@@ -645,64 +647,63 @@ kumandanı, emrindeki subay veya astsubaylardan birine bu görevi verir.
 
 3459
 
- 
+**Madde 54 –** Tümen (Dahil) daha yukarı kıta kumandanları ve eşidi
+kurum amirleri kışla kumandanlığı görevini rütbece kendisinden sonra
+gelen birine devredebilir.
 
-             **Madde 54 –** Tümen (Dahil) daha yukarı kıta kumandanları
-ve eşidi kurum amirleri kışla kumandanlığı görevini rütbece kendisinden
-sonra gelen birine devredebilir.
+*F) YOKLAMALAR*
 
-             F) YOKLAMALAR
+**Madde 55 –** İnsan ve hayvan mevcutlarını anlamak, bunlardan ve silah,
+malzeme ve eşyada bir vukuat olup olmadığı haberini almak maksadı ile
+kıta, karargah ve kurumlarda biri sabah, diğeri akşam, üçüncüsü de gece
+olmak üzere günde üç defa yoklama yapılır.
 
-             **Madde 55 –** İnsan ve hayvan mevcutlarını anlamak,
-bunlardan ve silah, malzeme ve eşyada bir vukuat olup olmadığı haberini
-almak maksadı ile kıta, karargah ve kurumlarda biri sabah, diğeri akşam,
-üçüncüsü de gece olmak üzere günde üç defa yoklama yapılır.
+Yoklamaların şekli ve yapılış tarzı talimatnamede gösterilir.
 
-             Yoklamaların şekli ve yapılış tarzı talimatnamede
-gösterilir.
+**Madde 56 –** Kati bir lüzum görülürse, muayyen yoklamalardan başka
+kışla kumandanı tarafından verilecek emir üzerine de yoklama
+yapılabilir.
 
-             **Madde 56 –** Kati bir lüzum görülürse, muayyen
-yoklamalardan başka kışla kumandanı tarafından verilecek emir üzerine de
-yoklama yapılabilir.
+*G) SAĞLIK İŞLERİ*
 
-             G) SAĞLIK İŞLERİ
+*I - Genel*
 
-             I - Genel
+**Madde 57 –** Silahlı kuvvetler sağlık işlerinde askerlerin fizik ve
+moral durumlarını takip ve koruyucu tababetin tatbikı esastır.
 
-             **Madde 57 –** Silahlı kuvvetler sağlık işlerinde
-askerlerin fizik ve moral durumlarını takip ve koruyucu tababetin
-tatbikı esastır.
+**(Ek fıkra: 2/1/2014-6514/39 md.)** Silahlı kuvvetlerin sağlık
+teşkillerindeki sağlık hizmetleri, harekât ihtiyaçları hariç ulusal
+sağlık mevzuatında yer alan hizmet standartlarına göre yürütülür.
 
-             Bu hizmetin yürütülmesinden ve görülmesinden kıta
-kumandanları veya kurum amirleri ile bunların tabipleri sorumludur.
+Bu hizmetin yürütülmesinden ve görülmesinden kıta kumandanları veya
+kurum amirleri ile bunların tabipleri sorumludur.
 
-             **Madde 58 –** a) Hastalanan askerlerin muayene ve
-tedavileri kendi kıta ve kurumlarının kadrolarında gösterilen
-tabiplerince yapılır.
+**Madde 58 –** a) Hastalanan askerlerin muayene ve tedavileri kendi kıta
+ve kurumlarının kadrolarında gösterilen tabiplerince yapılır.
 
-             b) Kadroda gösterilen tabip mevcut değilse oradaki diğer
-kıta veya askeri kurumların tabiplerinden biri, yoksa mahalli askeri
-hastane tabiplerinden biri, askeri hastane bulunmuyorsa sırası ile
-hükümet, belediye veya resmi vazifeli sivil tabiplerden biri, bunlar da
-mevcut değilse serbest çalışan sivil tabiplerden biri, kıta veya kurum
-tabibi olarak görevlendirilir.
+b\) Kadroda gösterilen tabip mevcut değilse oradaki diğer kıta veya
+askeri kurumların tabiplerinden biri, yoksa mahalli askeri hastane
+tabiplerinden biri, askeri hastane bulunmuyorsa sırası ile hükümet,
+belediye veya resmi vazifeli sivil tabiplerden biri, bunlar da mevcut
+değilse serbest çalışan sivil tabiplerden biri, kıta veya kurum tabibi
+olarak görevlendirilir.
 
-             c) **(Değişik: 18/6/2003 – 4902/12 md.)** Kıt’a veya askerî
-kurum tabibi olarak görevlendirilen serbest çalışan sivil tabiplerin
-ücretleri, mukavelesine göre Millî Savunma Bakanlığı, Jandarma Genel
-Komutanlığı veya Sahil Güvenlik Komutanlığı bütçelerinden ödenir.
+c\) **(Değişik: 18/6/2003 – 4902/12 md.)** Kıt’a veya askerî kurum tabibi
+olarak görevlendirilen serbest çalışan sivil tabiplerin ücretleri,
+mukavelesine göre Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı
+veya Sahil Güvenlik Komutanlığı bütçelerinden ödenir.
 
-             d) **(Değişik: 18/6/2003 – 4902/12 md.)** Hastanın veya
-tabibin nakli için askerî vasıtalardan istifade mümkün olmadığı hallerde
-diğer sivil nakil vasıtalarından faydalanılır ve masrafı, Millî Savunma
-Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı
-bütçelerinden ödenir.
+d\) **(Değişik: 18/6/2003 – 4902/12 md.)** Hastanın veya tabibin nakli
+için askerî vasıtalardan istifade mümkün olmadığı hallerde diğer sivil
+nakil vasıtalarından faydalanılır ve masrafı, Millî Savunma Bakanlığı,
+Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı bütçelerinden
+ödenir.
 
-             **Madde 59 –** Kıta veya askeri kurumunun bulunduğu yerden
-başka bir yerde hastalanan askerler hastalıklarını, oranın garnizon veya
-merkez kumandanlığına haber verirler. Garnizon veya merkez kumandanı
-lüzumu halinde hastanın nezdine tabip göndermeye, icabediyorsa hastayı
-askeri bir hastaneye, yoksa başka hastaneye naklettirmeye mecburdur.
+**Madde 59 –** Kıta veya askeri kurumunun bulunduğu yerden başka bir
+yerde hastalanan askerler hastalıklarını, oranın garnizon veya merkez
+kumandanlığına haber verirler. Garnizon veya merkez kumandanı lüzumu
+halinde hastanın nezdine tabip göndermeye, icabediyorsa hastayı askeri
+bir hastaneye, yoksa başka hastaneye naklettirmeye mecburdur.
 
 **(Değişik ikinci fıkra: 18/6/2003 – 4902/13 md.)** Askerî garnizon veya
 merkez komutanlığı bulunmayan yerlerde hastalananlar, mahallin hükûmet
@@ -713,119 +714,115 @@ yatırılması halinde yol masrafı, başka hastaneye yatırılması halinde
 bütün nakil, muayene ve tedavi masrafı, Millî Savunma Bakanlığı,
 Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığınca ödenir.
 
-             Hasta raporları garnizon kumandanlıkları, yoksa mahalli
-mülki amirliklerince hastanın amirine gönderilir.
+Hasta raporları garnizon kumandanlıkları, yoksa mahalli mülki
+amirliklerince hastanın amirine gönderilir.
 
-             II - Hastalanan ve ölen er ve erbaşlar ^(1)^
+II - Hastalanan ve ölen er ve erbaşlar ^(1)^
 
-             **Madde 60 –** Hastalananlar hastalıklarını derhal
-amirlerine haber vermeye mecburdur. Hastalanan bunu yapmazsa en yakın
-amiri tarafından haber verilir. Hasta acil vakalarda derhal, diğer
-hallerde vizite zamanında tabibe gösterilir. Mesai saati haricinde
-hastalananlar nöbetçi tabibine gösterilir.
+**Madde 60 –** Hastalananlar hastalıklarını derhal amirlerine haber
+vermeye mecburdur. Hastalanan bunu yapmazsa en yakın amiri tarafından
+haber verilir. Hasta acil vakalarda derhal, diğer hallerde vizite
+zamanında tabibe gösterilir. Mesai saati haricinde hastalananlar nöbetçi
+tabibine gösterilir.
 
-             Tabibin lüzum gördüğü erbaş ve erler hastaneye gönderilir.
-Acil hallerde en seri vasıtadan istifade edilir. Hastaneden dönenler
-kıta veya askeri kurum tabibine gösterilir.
+Tabibin lüzum gördüğü erbaş ve erler hastaneye gönderilir. Acil hallerde
+en seri vasıtadan istifade edilir. Hastaneden dönenler kıta veya askeri
+kurum tabibine gösterilir.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(1)  15/10/1980 tarih ve 2318 sayılı Kanunun 2 nci maddesiyle değişik
-şeklidir.
+*(1) 15/10/1980 tarih ve 2318 sayılı Kanunun 2 nci maddesiyle değişik
+şeklidir.*
 
 3460
 
- 
-
-             **(Ek üçüncü fıkra: 23/2/2005-5305/1 md.)** 5434 sayılı
-Türkiye Cumhuriyeti Emekli Sandığı Kanunu, 2330 sayılı Nakdî Tazminat ve
-Aylık Bağlanması Hakkında Kanun ve 3713 sayılı Terörle Mücadele Kanunu
-kapsamı dışında kalan ve askerlik hizmetini yapmakta iken hayatî önemi
-haiz bir hastalığının bulunduğu resmî sağlık kurulu raporuyla tespit
-edilen erbaş ve erlerden, tedavileri devam etmekte iken terhis edilen ve
-Türkiye Cumhuriyeti Emekli Sandığı, Sosyal Sigortalar Kurumu veya
-Bağ-Kur’un sağlık hizmetlerinden faydalanma imkânı bulunmayanların yarım
-kalan tedavilerine, askerî hastane sağlık kurullarınca verilecek karar
-üzerine azamî bir yıl süre ile devam edilir. Bunların askerî hastanelere
+**(Ek üçüncü fıkra: 23/2/2005-5305/1 md.)** 5434 sayılı Türkiye
+Cumhuriyeti Emekli Sandığı Kanunu, 2330 sayılı Nakdî Tazminat ve Aylık
+Bağlanması Hakkında Kanun ve 3713 sayılı Terörle Mücadele Kanunu kapsamı
+dışında kalan ve askerlik hizmetini yapmakta iken hayatî önemi haiz bir
+hastalığının bulunduğu resmî sağlık kurulu raporuyla tespit edilen erbaş
+ve erlerden, tedavileri devam etmekte iken terhis edilen ve Türkiye
+Cumhuriyeti Emekli Sandığı, Sosyal Sigortalar Kurumu veya Bağ-Kur’un
+sağlık hizmetlerinden faydalanma imkânı bulunmayanların yarım kalan
+tedavilerine, askerî hastane sağlık kurullarınca verilecek karar üzerine
+azamî bir yıl süre ile devam edilir. Bunların askerî hastanelere
 sevkleri, yerleşim yerlerindeki veya yerleşim yerlerine en yakın
 askerlik şubeleri tarafından sağlanır. Sevk edilen hasta ile sevk
 edildiği yere bir kimse refakatinde gitmesinin resmî tabip raporuyla
 belgelenmesi durumunda refakatçisine; gidiş ve dönüş yol ücreti ile
 gidiş ve dönüş süresi için gündelik, sevk eden askerlik şubesi
 tarafından peşin veya avans olarak ödenir. Yol ücretinin ödenmesinde
-şehirlerarası karayolu toplu taşım vasıtası  ücretleri;  gündelikte  ise
-en  düşük  dereceli Devlet memuru gündeliği esas alınır. Tedavi
-giderleri ile ödenen yol ücretleri ve gündelikler, Millî Savunma
-Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının
-bütçelerinden karşılanır.
+şehirlerarası karayolu toplu taşım vasıtası ücretleri; gündelikte ise en
+düşük dereceli Devlet memuru gündeliği esas alınır. Tedavi giderleri ile
+ödenen yol ücretleri ve gündelikler, Millî Savunma Bakanlığı, Jandarma
+Genel Komutanlığı ve Sahil Güvenlik Komutanlığının bütçelerinden
+karşılanır.
 
-             **(Ek : 15/10/1980 - 2318/2 md.)** Barışta, er ve
-erbaşların yurt içinde ve dışında ölümleri halinde cenaze giderleri ile
-cenazenin nakli, istenilen yere götürülmesi veya getirilmesi gideri,
-ilgili bakanlıklar bütçelerinden ödenir.^(1)^
+**(Ek : 15/10/1980 - 2318/2 md.)** Barışta, er ve erbaşların yurt içinde
+ve dışında ölümleri halinde cenaze giderleri ile cenazenin nakli,
+istenilen yere götürülmesi veya getirilmesi gideri, ilgili bakanlıklar
+bütçelerinden ödenir.^(1)^
 
-             **Madde 61 – (Değişik :23/7/1999 - 4418/2 md.)**
+**Madde 61 – (Değişik :23/7/1999 - 4418/2 md.)**
 
-             Erbaş ve erlerin kıta ve askeri kurumlara katılış ve
-ayrılışlarında genel sağlık muayeneleri yapılır. Bu muayeneler ilk altı
-aylık devrede üç ayda bir, bundan sonraki devrede altı ayda bir olmak
-üzere tekrarlanır. Muayenelerin neticeleri sağlık fişlerine kaydedilir.
+Erbaş ve erlerin kıta ve askeri kurumlara katılış ve ayrılışlarında
+genel sağlık muayeneleri yapılır. Bu muayeneler ilk altı aylık devrede
+üç ayda bir, bundan sonraki devrede altı ayda bir olmak üzere
+tekrarlanır. Muayenelerin neticeleri sağlık fişlerine kaydedilir.
 Komutan ve amirler bu muayene neticelerine göre personelin sağlık
 durumunu takip ve kontrol ederler.
 
-             III - Hastalanan subay, askeri memur, astsubaylar ile
-emeklileri ve bunların aileleri:
+*III - Hastalanan subay, askeri memur, astsubaylar ile emeklileri ve
+bunların* aileleri:
 
-             **Madde 62 –** Hastalanan subay, askeri memur ve
-astsubaylar hastalıklarını bizzat yahut yazı ile veya başka bir vasıta
-ile amirlerine bildirmeye mecburdurlar. Amirler de hasta haberini alınca
+**Madde 62 –** Hastalanan subay, askeri memur ve astsubaylar
+hastalıklarını bizzat yahut yazı ile veya başka bir vasıta ile
+amirlerine bildirmeye mecburdurlar. Amirler de hasta haberini alınca
 kıta veya kurum tabibini, yoksa 58 inci maddenin (b) fıkrası gereğince
 vazifelendirilen tabibi hastanın nezdine gönderir.
 
-             **Madde 63 –** Müstacel vakalarda hasta, durumu amirine
-bildirmekle beraber yakınsa kendi kıta veya askeri kurum tabibine,
-değilse sırası ile, civardaki diğer kıta veya askeri kurum tabibine,
-askeri hastane tabibine, Hükümet veya belediye tabibine ve ancak
-bunlardan hiçbiri mevcut değilse serbest çalışan bir sivil tabibe
-müracaat edebilir.
+**Madde 63 –** Müstacel vakalarda hasta, durumu amirine bildirmekle
+beraber yakınsa kendi kıta veya askeri kurum tabibine, değilse sırası
+ile, civardaki diğer kıta veya askeri kurum tabibine, askeri hastane
+tabibine, Hükümet veya belediye tabibine ve ancak bunlardan hiçbiri
+mevcut değilse serbest çalışan bir sivil tabibe müracaat edebilir.
 
-             Serbest çalışan sivil tabibe müracaat zarureti hasıl olduğu
-takdirde muayene,tedavi ve nakil masrafı hastanın kendine aittir.
+Serbest çalışan sivil tabibe müracaat zarureti hasıl olduğu takdirde
+muayene,tedavi ve nakil masrafı hastanın kendine aittir.
 
-             **Madde 64 –** Hastalık hakkındaki rapor hastayı muayene ve
-tedavi eden tabip veya tabipler veyahut müessese baştabipleri tarafından
-hastanın amirine gönderilir.
+**Madde 64 –** Hastalık hakkındaki rapor hastayı muayene ve tedavi eden
+tabip veya tabipler veyahut müessese baştabipleri tarafından hastanın
+amirine gönderilir.
 
-             **Madde 65 –** Hastalık raporunu alan amir keyfiyeti bir
-derece yukarı amirine arz eder. 24 saatten fazla hasta olanların durumu
-kıtalarda tümen, (Deniz ve Havada eşidi birlik) kumandanlıklarına kadar,
-karargah ve askeri kurumlarda bir derece yukarı amire bildirilir.
+**Madde 65 –** Hastalık raporunu alan amir keyfiyeti bir derece yukarı
+amirine arz eder. 24 saatten fazla hasta olanların durumu kıtalarda
+tümen, (Deniz ve Havada eşidi birlik) kumandanlıklarına kadar, karargah
+ve askeri kurumlarda bir derece yukarı amire bildirilir.
 
-             **Madde 66 –** a) Subay, askeri memur ve astsubayları
-askeri tabip ve mütehassıslar kıta, kurum, hastane ve meskenlerinde her
-zaman ücretsiz olarak muayene ve tedaviye mecburdurlar. Bunların askeri
-hastanelerde yatırılarak tedavileri halinde hiçbir suret ve maksatla
-ilaç, iaşe ve malzeme bedeli alınmaz.
+**Madde 66 –** a) Subay, askeri memur ve astsubayları askeri tabip ve
+mütehassıslar kıta, kurum, hastane ve meskenlerinde her zaman ücretsiz
+olarak muayene ve tedaviye mecburdurlar. Bunların askeri hastanelerde
+yatırılarak tedavileri halinde hiçbir suret ve maksatla ilaç, iaşe ve
+malzeme bedeli alınmaz.
 
-             **(Değişik : 22/11/1990 - 3683/1 md.)** Hastanelere
-yatırılmayıp ayakta veya meskende muayene ve tedavi edilenlerin, sağlık
-karnesine sahip aile fertleri dahil, tedavi  için gerekli  malzeme ve
-reçete muhteviyatı kıt'a, askeri kurum veya hastanece aynen verilir.
-Malzeme ve reçete muhteviyatının mevcut olmaması halinde bedeli, Milli
-Savunma Bakanlığı veya Jandarma Genel Komutanlığı veyahut da Sahil
-Güvenlik  Komutanlığı bütçesinden nakden ödenir. Her iki halde de
-kullanılacak ilaç bedelinin % 20'si sağlık karnesi sahibi  tarafından
-karşılanır. Ancak, 70 inci madde kapsamında kalan hak sahipleri
-bakımından bu oran % 10 olarak uygulanır. Bu hüküm tatbikat ve
-manevralarda askeri personele, savaş halinde ise tüm askeri personele ve
-sağlık karnesi hakkına  sahip  olan  aile mensuplarına uygulanmaz.
-Ayrıca,  resmi  sağlık   kurulu   raporu   ile   belirlenen;  
-tüberküloz,   kanser,   kronik  böbrek,
+**(Değişik : 22/11/1990 - 3683/1 md.)** Hastanelere yatırılmayıp ayakta
+veya meskende muayene ve tedavi edilenlerin, sağlık karnesine sahip aile
+fertleri dahil, tedavi için gerekli malzeme ve reçete muhteviyatı kıt'a,
+askeri kurum veya hastanece aynen verilir. Malzeme ve reçete
+muhteviyatının mevcut olmaması halinde bedeli, Milli Savunma Bakanlığı
+veya Jandarma Genel Komutanlığı veyahut da Sahil Güvenlik Komutanlığı
+bütçesinden nakden ödenir. Her iki halde de kullanılacak ilaç bedelinin
+% 20'si sağlık karnesi sahibi tarafından karşılanır. Ancak, 70 inci
+madde kapsamında kalan hak sahipleri bakımından bu oran % 10 olarak
+uygulanır. Bu hüküm tatbikat ve manevralarda askeri personele, savaş
+halinde ise tüm askeri personele ve sağlık karnesi hakkına sahip olan
+aile mensuplarına uygulanmaz. Ayrıca, resmi sağlık kurulu raporu ile
+belirlenen; tüberküloz, kanser, kronik böbrek,
 
 ——————————
 
 *(1) 23/2/2005 tarihli ve 5305 sayılı Kanunun 1 inci maddesiyle, maddeye
-üçüncü fıkra  eklenmiş ve  bu fıkranın  dördüncü fıkra olarak teselsül
+üçüncü fıkra eklenmiş ve bu fıkranın dördüncü fıkra olarak teselsül
 ettirildiği hükme bağlanmıştır.*
 
 3461
@@ -1817,173 +1814,44 @@ maddenin ikinci fıkrası hükümleri uygulanır.
 
 3473
 
- 
+**211 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA
+MAHKEMESİ TARAFINDAN İPTAL EDİLEN**
 
- 
+**HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
-             **211 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **211 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                                                                                                                       **Yürürlüğe Giriş Tarihi**
 
-**                                 YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR
-LİSTE**
+  172                                                                          —                                                                                                                                                                                                                                                19/2/1963
 
- 
+  725                                                                          —                                                                                                                                                                                                                                                21/2/1966
 
- 
-**Kanun                                                                                                                        
-Yürürlüğe**
+  926                                                                          Kıta tazminatına ait hükümleri                                                                                                                                                                                                                   1 Aralık 1967 tarihinden geçerli olmak üzere 172 nci maddede gösterilen yönetmeliğin yürürlüğe konulduğu tarihte
+                                                                                                                                                                                                                                                                                                                                
+                                                                               Kademe terfii, aylıklar harçlıklar mahrumiyet yeri ödeneği, öğrenim yurtları ve burslar ile aile yardımı ödeneği, ölüm yardımı ödeneği, temsil giderleri, emeklilik ikramiyesi (49 uncu madde uyarınca verilecek tazminatlar hariç) ve yakacak   1/3/1970
+                                                                                                                                                                                                                                                                                                                                
+                                                                               yardımına ait hükümleri                                                                                                                                                                                                                          10/8/1967
+                                                                                                                                                                                                                                                                                                                                
+                                                                               Diğer hükümleri                                                                                                                                                                                                                                  
 
-***     No.                               Farklı tarihte yürürlüğe giren
-maddeler                      giriş tarihi***
+  1423                                                                         —                                                                                                                                                                                                                                                14/7/1971
 
-       172                                                          
-—                                                             19/2/1963
+  1582                                                                         —                                                                                                                                                                                                                                                5/5/1972
 
-       725                                                          
-—                                                             21/2/1966
+  2016                                                                         —                                                                                                                                                                                                                                                2/7/1976
 
-       926           Kıta tazminatına ait
-hükümleri                                                          1
-Aralık 1967
+  2083                                                                         —                                                                                                                                                                                                                                                24/3/1977
 
-                                                                                                                                        
-tarihinden
+  2259                                                                         —                                                                                                                                                                                                                                                23/2/1980
 
-                                                                                                                                    
-geçerli olmak
+  2318                                                                         —                                                                                                                                                                                                                                                18/10/1980
 
-                                                                                                                                         
-üzere 172
+  2537                                                                         —                                                                                                                                                                                                                                                18/10/1981
 
-                                                                                                                                     
-nci maddede
+  2861                                                                         —                                                                                                                                                                                                                                                25/6/1983
 
-                                                                                                                                         
-gösterilen
-
-                                                                                                                                    
-yönetmeliğin
-
-                                                                                                                                         
-yürürlüğe
-
-                                                                                                                                        
-konulduğu
-
-                                                                                                                                              
-tarihte
-
-                       Kademe terfii, aylıklar harçlıklar mahrumiyet
-yeri ödeneği,
-
-                       öğrenim yurtları ve burslar ile aile yardımı
-ödeneği, ölüm yardımı
-
-                       ödeneği, temsil giderleri, emeklilik ikramiyesi
-(49 uncu madde
-
-                       uyarınca verilecek tazminatlar hariç) ve yakacak
-yardımına
-
-                       ait
-hükümleri                                                                                              
-1/3/1970
-
-                        Diğer
-hükümleri                                                                                      
-10/8/1967
-
-     1423                                                          
-—                                                             14/7/1971
-
-     1582                                                          
-—                                                               5/5/1972
-
-     2016                                                          
-—                                                               2/7/1976
-
-     2083                                                          
-—                                                             24/3/1977
-
-     2259                                                          
-—                                                             23/2/1980
-
-     2318                                                          
-—                                                           18/10/1980
-
-     2537                                                          
-—                                                           18/10/1981
-
-     2861                                                          
-—                                                             25/6/1983
-
-     3084                                                          
-—                                                             1/12/1984
-
-     2771           İkinci
-madde                                                                                            
-16/5/1982
-
-                        4, 6, 7, 10
-maddeler                                                                                   
-1/4/1983
-
-                        Diğer
-maddeleri                                                                                         
-1/1/1983
-
-KHK/243                                                       
-—                                                           31/12/1984
-
-KHK/336                                                       
-—                                                               5/8/1988
-
-     3612                                                          
-—                                                             16/2/1990
-
-     3683           4 üncü
-maddesi                                                                                       
-29/5/1991
-
-                        Diğer
-Maddeleri                                                                                    
-29/11/1990
-
-KHK/469                                                       
-—                                                               2/1/1992
-
-     3810                                                          
-—                                                               3/7/1992
-
-KHK/499                                                       
-—                                                               2/9/1993
-
-     4187                                                          
-—                                                           13/10/1996
-
-     4375                                                          
-—                                                               2/8/1998
-
-     4418                                                          
-—                                                             29/7/1999
-
-     4419                                                          
-—                                                             29/7/1999
-
-     4861                                                          
-—                                                               6/6/2003
-
-     4902                                                          
-—                                                             24/6/2003
-
-     5305           60, 66, 70 ve İşlenemeyen
-Hüküm                                                          
-26/2/2005
-
-     5365                      68, 69, 70, 105,
-116                                                                     
-21/6/2005
-
- 
+  3084                                                                         —                                                                                                                                                                                                                                                1/12/1984
+  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------
 
 3474
 
@@ -1997,16 +1865,55 @@ Hüküm                                    �
 
   ---------------------------------------------------------------------------- ------------------------------------------------------------ ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **211 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+
+  2771                                                                         İkinci madde                                                 16/5/1982
+                                                                                                                                            
+                                                                               4, 6, 7, 10 maddeler                                         1/4/1983
+                                                                                                                                            
+                                                                               Diğer maddeleri                                              1/1/1983
+
+  KHK/243                                                                      —                                                            31/12/1984
+
+  KHK/336                                                                      —                                                            5/8/1988
+
+  3612                                                                         —                                                            16/2/1990
+
+  3683                                                                         4 üncü maddesi                                               29/5/1991
+                                                                                                                                            
+                                                                               Diğer Maddeleri                                              29/11/1990
+
+  KHK/469                                                                      —                                                            2/1/1992
+
+  3810                                                                         —                                                            3/7/1992
+
+  KHK/499                                                                      —                                                            2/9/1993
+
+  4187                                                                         —                                                            13/10/1996
+
+  4375                                                                         —                                                            2/8/1998
+
+  4418                                                                         —                                                            29/7/1999
+
+  4419                                                                         —                                                            29/7/1999
+
+  4861                                                                         —                                                            6/6/2003
+
+  4902                                                                         —                                                            24/6/2003
+
+  5305                                                                         60, 66, 70 ve İşlenemeyen Hüküm                              26/2/2005
+
+  5365                                                                         68, 69, 70, 105, 116                                         21/6/2005
+  ---------------------------------------------------------------------------- ------------------------------------------------------------ ----------------------------
+
+3474-1
+
+  ---------------------------------------------------------------------------- ------------------------------------------------------------ ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **211 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   **5758**                                                                     **69**                                                       **9/5/2008**
   **6191**                                                                     **3, Ek Madde 1**                                            **22/3/2011**
   **6413**                                                                     **115**                                                      **16/2/2013**
   **6496**                                                                     **2, 35, 43**                                                **31/7/2013**
+  **6514**                                                                     **57**                                                       **18/1/2014**
   ---------------------------------------------------------------------------- ------------------------------------------------------------ ----------------------------
 
- 
 
- 
-
- 
-
- 
