@@ -1,4 +1,6 @@
-**6462 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 18/10/2012 tarihli **
+
+**ve E.: 2010/82, K.: 2012/159 sayılı Kararı ile değişik hali**
 
 **BELEDİYE KANUNU**
 
@@ -8,7 +10,7 @@ Kabul Tarihi : 3/7/2005
 
 Yayımlandığı R.Gazete : Tarih: 13/7/2005 Sayı : 25874
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 44 Sayfa:
+Yayımlandığı Düstur : Tertip : 5 Cilt : 44
 
 ** **
 
@@ -2051,11 +2053,9 @@ değişiklikler belediyeye bildirilir.
 
 Kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde; ifraz, tevhit,
 sınırlı ayni hak tesisi ve terkini, cins değişikliği ve yapı ruhsatı
-verilmesine ilişkin işlemler belediyenin izni ile yapılır. Bu yerlerde
-devam eden inşaatlardan projeye uygunluğu belediye tarafından kabul
-edilenler dışındaki diğer inşaatlar beş yıl süreyle durdurulur. Bu
-sürenin sonunda durdurma kararının devam edip etmeyeceğine belediye
-tarafından karar verilir. Toplam durdurma süresi on yılı geçemez. ^(1)^
+verilmesine ilişkin işlemler belediyenin izni ile yapılır. **(İptal
+ikinci , üçüncü, dördüncü cümleler:** **Anayasa Mahkemesi’nin 18/10/2012
+tarihli ve E.: 2010/82, K.:2012/159 sayılı Kararı ile) (…) ^(1)^**
 
 Belediye, kentsel dönüşüm ve gelişim projelerini gerçekleştirmek
 amacıyla; imar uygulaması yapmaya, imar uygulaması yapılan alanlardaki
@@ -2106,12 +2106,8 @@ saklıdır.
 
 –––––––––––––––––––
 
-*(1) Bu fıkranın ikinci, üçüncü ve dördüncü cümleleri Anayasa
-Mahkemesi’nin 18/10/2012 tarihli ve E.: 2010/82, K.:2012/159 sayılı
-Kararı ile iptal edilmiş olup, yine Anayasa Mahkemesi’nin 18/10/2012
-tarihli ve E.: 2010/82, K.: 2012/34 (Yürürlüğü Durdurma) Kararı ile
-iptal Kararının Resmi Gazete’de yayımlanacağı tarihe kadar yürürlüğünün
-durdurulması hüküm altına alınmıştır.*
+*(1) Sözkonusu İptal Kararı 23/7/2013 tarihli ve 28716 sayılı Resmi
+Gazete’de yayımlanmıştır.*
 
 9495
 
@@ -2496,19 +2492,13 @@ tamamlanarak göreve başlatılır.
 
 *1) 17/6/2010 tarihli ve 5998 sayılı Kanunun Geçici Maddesi:*
 
-**Geçici Madde 1 –** Bu Kanunun yürürlüğe girmesinden önce yargı
-mercilerinde açılmış ve henüz kesin hükme bağlanmamış davalarda bu Kanun
-hükümleri uygulanır. Ancak bu Kanunla getirilen değişik hükümlerin
-uygulanması nedeniyle haksız çıkan tarafa harç, yargılama gideri ve
-avukatlık ücreti yükletilemez. ^(1)^
+**Geçici Madde 1 – (İptal: Anayasa Mahkemesi’nin 18/10/2012 tarihli ve
+E.: 2010/82, K.:2012/159 sayılı Kararı ile.)** ^(1)^
 
 –––––––––––––––––––
 
-*(1) Bu madde, Anayasa Mahkemesi’nin 18/10/2012 tarihli ve E.: 2010/82,
-K.:2012/159 sayılı Kararı ile iptal edilmiş olup, yine Anayasa
-Mahkemesi’nin 18/10/2012 tarihli ve E.: 2010/82, K.: 2012/34 (Yürürlüğü
-Durdurma) Kararı ile iptal Kararının Resmi Gazete’de yayımlanacağı
-tarihe kadar yürürlüğünün durdurulması hüküm altına alınmıştır.*
+*(1) Sözkonusu İptal Kararı 23/7/2013 tarihli ve 28716 sayılı Resmi
+Gazete’de yayımlanmıştır.*
 
 9500-1
 
@@ -2564,6 +2554,12 @@ tarihe kadar yürürlüğünün durdurulması hüküm altına alınmıştır.*
   1.     6338                       1/1/2013                                      11/7/2012                                                         49
 
   1.     6462                       3/5/2013                                      3/5/2013                                                          14, 38, 44, 60, 77
+
+  1.                                23/7/2013                                     23/7/2013                 18/10/2012                              73, İşlenemeyen Hüküm
+                                                                                                                                                    
+                                                                                                            E.: 2010/82                             
+                                                                                                                                                    
+                                                                                                            K.: 2012/159                            
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
 
