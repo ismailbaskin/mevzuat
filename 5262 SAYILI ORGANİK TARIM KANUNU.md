@@ -1,4 +1,4 @@
-5262 sayılı Kanunun İlk Hali
+5262 sayılı Kanunun 5728 sayılı Kanun ile Değişik Hali
 
 **ORGANİK TARIM KANUNU**
 
@@ -280,66 +280,60 @@ Ceza Hükümleri, Cezaların Tahsili ve İtiraz
 
 **Ceza hükümleri**
 
-**MADDE 12. —** Bu Kanun hükümlerine uymayanlara uygulanacak cezaî
-hükümler aşağıda belirtilmiştir:
+**MADDE 12. —(Değişik: 23/1/2008-5728/560 md.)**
 
-a\) 5 inci maddenin ikinci fıkrasına aykırı hareket edenlere, onmilyar
-lira idarî para cezası verilir.
+Bu Kanun hükümlerine uymayanlara uygulanacak cezaî hükümler aşağıda
+belirtilmiştir:
+
+a\) 5 inci maddenin ikinci fıkrasına aykırı hareket edenlere, onbin Türk
+Lirası idarî para cezası verilir.
 
 b\) 5 inci maddenin üçüncü fıkrasına aykırı hareket ettiği tespit
-edilenlere, ellimilyar lira idarî para cezası verilir. Fiilin tekrarı
-halinde, yetki ve izin belgeleri iptal edilir. Başka ad ve unvan altında
-olsa dahi, bu Kanun kapsamında çalışmalarına izin verilmez.
+edilenlere, ellibin Türk Lirası idarî para cezası verilir. Fiilin
+tekrarı halinde, yetki ve izin belgeleri iptal edilir. Başka ad ve unvan
+altında olsa dahi, bu Kanun kapsamında çalışmalarına izin verilmez.
 
-c\) 5 inci maddenin dördüncü fıkrasına aykırı hareket edenlere,
-onbeşmilyar lira idarî para cezası verilir. Fiilin tekrarı halinde,
-idarî para cezası iki katı olarak uygulanır ve kendilerine bir daha
-çalışma izni verilmez.
+c\) 5 inci maddenin dördüncü fıkrasına aykırı hareket edenlere, onbeşbin
+Türk Lirası idarî para cezası verilir. Fiilin tekrarı halinde, idarî
+para cezası iki katı olarak uygulanır ve kendilerine bir daha çalışma
+izni verilmez.
 
-d\) 5 inci maddenin beşinci fıkrasına aykırı hareket edenlere,
-yirmimilyar lira idarî para cezası verilir. Fiilin tekrarı halinde,
-çalışma izinleri iptal edilir.
+d\) 5 inci maddenin beşinci fıkrasına aykırı hareket edenlere, yirmibin
+Türk Lirası idarî para cezası verilir. Fiilin tekrarı halinde, çalışma
+izinleri iptal edilir.
 
 e\) 5 inci maddenin altıncı fıkrasına aykırı hareket eden kuruluşlara,
-onbeşmilyar lira idarî para cezası verilir. Fiilin tekrarı halinde,
+onbeşbin Türk Lirası idarî para cezası verilir. Fiilin tekrarı halinde,
 idarî para cezası iki katı olarak uygulanır ve çalışma izinleri iptal
 edilir.
 
-f\) 5 inci maddenin yedinci fıkrasına aykırı hareket edenlere,
-yirmimilyar lira idarî para cezası verilir.
+f\) 5 inci maddenin yedinci fıkrasına aykırı hareket edenlere, yirmibin
+Türk Lirası idarî para cezası verilir.
 
-g\) 6 ncı maddenin birinci fıkrasına aykırı hareket edenlere, onmilyar
-lira idarî para cezası verilir.
+g\) 6 ncı maddenin birinci fıkrasına aykırı hareket edenlere, onbin Türk
+Lirası idarî para cezası verilir.
 
-h\) 6 ncı maddenin ikinci fıkrasına aykırı hareket edenlere, yirmimilyar
-lira idarî para cezası verilir.
+h\) 6 ncı maddenin ikinci fıkrasına aykırı hareket edenlere, yirmibin
+Türk Lirası idarî para cezası verilir.
 
-ı) 8 inci maddeye aykırı hareket edenlere, onbeşmilyar lira idarî para
-cezası verilir. Aykırılık etiket bilgilerinden kaynaklanıyorsa, etiket
-bilgileri düzeltilinceye kadar ürüne el konulur ve yukarıdaki para
-cezası uygulanıp ürün piyasadan toplattırılır. Toplatma masrafları
+ı) 8 inci maddeye aykırı hareket edenlere, onbeşbin Türk Lirası idarî
+para cezası verilir. Aykırılık etiket bilgilerinden kaynaklanıyorsa,
+etiket bilgileri düzeltilinceye kadar ürüne el konulur ve yukarıdaki
+para cezası uygulanıp ürün piyasadan toplattırılır. Toplatma masrafları
 müteşebbisten tahsil edilir.
 
 j\) 9 uncu maddenin birinci fıkrası ile 10 uncu maddeye aykırı hareket
-edenlere, otuzmilyar lira idarî para cezası verilir.
+edenlere, otuzbin Türk Lirası idarî para cezası verilir.
 
-k\) Bu Kanuna göre denetimleri engelleyen kişi ve kuruluşlara, onmilyar
-lira idarî para cezası verilir.
+k\) Bu Kanuna göre denetimleri engelleyen kişi ve kuruluşlara, onbin Türk
+Lirası idarî para cezası verilir.
 
 **Cezaların tahsili ve itiraz**
 
-**MADDE 13. —** Bu Kanunda yazılı olan idarî para cezaları, Bakanlık
-veya o yerin en büyük mülkî amiri tarafından verilir. İdarî para
-cezalarına dair kararlar ilgililere 11.2.1959 tarihli ve 7201 sayılı
-Tebligat Kanunu hükümlerine göre tebliğ edilir. Bu cezalara karşı tebliğ
-tarihinden itibaren en geç yedi gün içinde yetkili idare mahkemesine
-itiraz edilebilir. İtiraz, idarece verilen cezanın yerine getirilmesini
-durdurmaz. İtiraz üzerine verilen karar kesindir. İtiraz zaruret
-görülmeyen hallerde evrak üzerinde inceleme yapılarak en kısa sürede
-sonuçlandırılır. Bu Kanuna göre verilen idarî para cezaları 21.7.1953
-tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
-hükümlerine göre tahsil olunur ve tahsil edilen para cezaları Hazineye
-gelir kaydedilir.
+**MADDE 13. —(Değişik: 23/1/2008-5728/561 md.)**
+
+Bu Kanunda yazılı olan idarî para cezaları, Bakanlık veya mahallî mülkî
+amir tarafından verilir.
 
 BEŞİNCİ BÖLÜM
 
@@ -359,3 +353,39 @@ devam olunur.
 **Yürütme**
 
 **MADDE 15. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5262 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                             
+                                                                           **Resmi Gazete Tarihi**                                           
+
+  5728                       8/2/2008                                      8/2/2008                                                          12, 13
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+
+
