@@ -1,4 +1,4 @@
-5035 sayılı Kanun ile değişik hali
+5281 sayılı Kanun ile değişik hali
 
 TEKNOLOJİ GELİŞTİRME BÖLGELERİ KANUNU
 
@@ -280,6 +280,12 @@ denetler. Bölgede fiilen çalışmayanlara istisna uygulandığının tespit
 edilmesi halinde, ziyaa uğratılan vergi ve buna ilişkin cezalardan
 yönetici şirket de ayrıca sorumludur.
 
+**(Ek fıkra: 30/12/2004-5281/41 md.)** Bu madde hükümleri
+TÜBİTAK-Marmara Araştırma Merkezi Teknoloji Serbest Bölgesi yönetici
+şirketi, bu bölgede faaliyet gösteren Gelir ve Kurumlar Vergisi
+mükellefleri ile bölgede çalışan araştırmacı, yazılımcı ve AR-GE
+personelinin bu görevleri ile ilgili ücretleri bakımından da uygulanır.
+
 **Yürürlük**
 
 **MADDE 11 —** Bu Kanun yayımı tarihinde yürürlüğe girer.
@@ -295,9 +301,10 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- --------------------------------------------------
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4691 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5035                                                                         8, GEÇİCİ MADDE 2                                             1/1/2004 tarihinden geçerli olmak üzere 2/1/2004
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- --------------------------------------------------
+  5281                                                                         GEÇİCİ MADDE 2                                                1/1/2005 tarihinden geçerli olmak üzere 31/12/2004
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
 
 
