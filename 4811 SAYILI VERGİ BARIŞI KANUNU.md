@@ -1,4 +1,4 @@
-4811 sayılı Kanunun 4833 sayılı Kanun ile Değişik Hali
+4811 sayılı Kanunun 4849 sayılı Kanun ile Değişik Hali
 
 **VERGİ BARIŞI KANUNU**
 
@@ -440,6 +440,12 @@ göre artırılan matrahlardan indirilemez.
 vergisine mahsuben daha önce tevkif yoluyla ödemiş oldukları vergilerin,
 mahsup ya da nakden iadesi ile ilgili taleplerine ilişkin inceleme ve
 tarhiyat hakkı saklıdır.
+
+14\. **(Ek: 17/4/2003-4849/1 md.)** Bu maddede yer alan asgarî matrah
+artırımı tutarları, 27.2.2003 tarihinden itibaren uygulanmak üzere adi
+ortaklıkların gerçek kişi ortakları ile kalkınmada öncelikli yörelerde
+mükellefiyet kaydı bulunan gelir ve kurumlar vergisi mükellefleri için %
+50 oranında, diğer illerde ise % 25 oranında indirilerek uygulanır.
 
 **Katma değer vergisinde artırım**
 
@@ -907,28 +913,18 @@ mükelleflere başvuru süresi tespit etmeye yetkilidir.
 
 **MADDE 23. -** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
-         **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **4811 sayılı Kanunun değiştirilen maddeleri**
-                                                                                                                                                    
-                                                                                  **Resmi Gazete Tarihi**                                           
+  ------ -------------------------- ------------------------------------------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+         **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**                                     **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **4811 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                                                                      
+                                                                                                                    **Resmi Gazete Tarihi**                                           
 
-  1.     4833                       31/3/2003                                     31/3/2003                                                         2
+  1.     4833                       31/3/2003                                                                       31/3/2003                                                         2
 
-  1.                                                                                                                                                
+  1.     4849                       27/2/2003 tarihinden geçerli olmak üzere 24/4/2003 tarihinde yürürlüğe girer.   24/4/2003                                                         7
 
-  1.                                                                                                                                                
+  1.                                                                                                                                                                                  
 
-  1.                                                                                                                                                
-
-  1.                                                                                                                                                
-
-  1.                                                                                                                                                
-
-  1.                                                                                                                                                
-
-  1.                                                                                                                                                
-
-  1.                                                                                                                                                
-  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+  1.                                                                                                                                                                                  
+  ------ -------------------------- ------------------------------------------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
 
