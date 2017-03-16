@@ -1,4 +1,4 @@
-**6518 sayılı Kanun ile değişik hali**
+**6519 sayılı Kanun ile değişik hali**
 
 []{#K93 .anchor}TERÖRLE MÜCADELE KANUNU
 
@@ -350,7 +350,7 @@ gireceği hüküm altına alınmıştır.*
 
 7219
 
-Gözetim süresi
+*Gözetim süresi*
 
 **Madde 11 – (Mülga: 18/11/1992 - 3842/31 md.)**
 
@@ -363,13 +363,13 @@ yaptırımlara çevirme ve erteleme yasağı ^(1)^ *
 
 **Madde 13- (Mülga: 2/7/2012-6352/105 md.)**
 
-Muhbirlerin hüviyetlerinin açıklanmaması
+*Muhbirlerin hüviyetlerinin açıklanmaması*
 
 **Madde 14 –** Bu Kanun kapsamına giren suçlar ve suçluları ihbar
 edenlerin hüviyetleri, rızaları olmadıkça veya ihbarın mahiyeti
 haklarında suç teşkil etmedikçe açıklanamaz.
 
-Müdafi tayini ^(2)\ ^
+*Müdafi tayini ^(2)\ ^*
 
 **Madde 15 – (Değişik: 29/6/2006-5532/11 md.)**
 
@@ -387,13 +387,13 @@ düzenlenir.
 
 ÜÇÜNCÜ BÖLÜM
 
-Cezaların İnfazı
+*Cezaların İnfazı *
 
-Cezaların infazı ve tutukluların muhafazası
+*Cezaların infazı ve tutukluların muhafazası *
 
 **Madde 16 – (Mülga: 29/6/2006-5532/17 md.)**
 
-Koşullu salıverilme^(1)^
+*Koşullu salıverilme^(1)^*
 
 **Madde 17-** **(Değişik: 29/6/2006-5532/12 md.)**
 
@@ -414,15 +414,15 @@ işlemeleri halinde, şartla salıverilmeden yararlanamazlar.
 
 ——————————
 
-\(1) 29/6/2006 tarihli ve 5532 sayılı Kanunun 10 ve 12 inci maddesiyle 13
-üncü maddenin başlığı “Erteleme ve paraya çevrilme”, 17 nci maddenin
+*(1) 29/6/2006 tarihli ve 5532 sayılı Kanunun 10 ve 12 inci maddesiyle
+13 üncü maddenin başlığı “Erteleme ve paraya çevrilme”, 17 nci maddenin
 başlığı "Şartla salıverilme" iken metne işlendiği şekilde
 değiştirilmiştir. Daha sonra 26/2/2008 tarihli ve 5739 sayılı Kanunun 3
 üncü maddesiyle 13 üncü maddenin başlığı “Seçenek yaptırımlara çevirme
-ve erteleme yasağı” iken metne işlendiği şekilde değiştirilmiştir.
+ve erteleme yasağı” iken metne işlendiği şekilde değiştirilmiştir.*
 
-\(2) Madde 18/11/1992 tarihli ve 3842 sayılı Kanunla değiştirilmiş ve
-metne işlenmiştir.
+*(2) Madde 18/11/1992 tarihli ve 3842 sayılı Kanunla değiştirilmiş ve
+metne işlenmiştir. *
 
 7220
 
@@ -435,15 +435,15 @@ cezasına mahkûm olan terör suçluları koşullu salıverilme hükümlerinden
 yararlanamaz. Bunlar hakkında ağırlaştırılmış müebbet ağır hapis cezası
 ölünceye kadar devam eder.
 
-Ceza ve tutukevi inşaatı
+*Ceza ve tutukevi inşaatı*
 
 **Madde 18- (Mülga: 29/6/2006-5532/17 md.)**
 
 DÖRDÜNCÜ BÖLÜM
 
-Çeşitli Hükümler
+*Çeşitli Hükümler*
 
-Ödüllendirme
+*Ödüllendirme*
 
 **Madde 19 – (Değişik: 29/6/2006-5532/13 md.)**
 
@@ -452,7 +452,7 @@ faillerinin yakalanabilmesine yardımcı olanlara veya yerlerini yahut
 kimliklerini bildirenlere para ödülü verilir. Ödülün miktar, usûl ve
 esasları İçişleri Bakanlığınca çıkarılacak yönetmelikte belirtilir.
 
-Koruma tedbirleri
+*Koruma tedbirleri *
 
 **Madde 20 – (Değişik: 29/6/2006-5532/14 md.)**
 
@@ -480,11 +480,9 @@ görünümün değiştirilmesi dahil, nüfus kaydı, ehliyet, evlenme cüzdanı,
 diploma ve benzeri belgelerin değiştirilmesi, askerlik işleminin
 düzenlenmesi, menkul ve gayrimenkul mal varlıklarıyla ilgili hakları,
 sosyal güvenlik ve diğer hakların korunması gibi hususlarda düzenleme
-yapılır. Korumaya alınmış emekli personelden, meskende korunmaları
-mutlak surette zorunlu bulunanlar; görev yaptıkları bakanlık veya kamu
-kurum ve kuruluşlarına ait konutlardan Maliye Bakanlığınca rayiç kiralar
-dikkate alınarak tespit olunacak kira bedeli ile kiralama esaslarına
-göre yararlandırılır.
+yapılır. **(Değişik: 11/2/2014-6519/ 57 md.)** Korumaya alınmış emekli
+personelden, meskende korunmaları mutlak surette zorunlu bulunanlar
+Başbakanlıkça belirlenecek konutlardan yararlandırılır.
 
 Bu tedbirlerin uygulanmasında, İçişleri Bakanlığı ile ilgili diğer kurum
 ve kuruluşlar gerekli her türlü gizlilik kurallarına uymak
@@ -500,7 +498,7 @@ dahi terör suçluları tarafından kendilerine veya eş ve çocuklarının
 canına vuku bulan bir taarruzu savmak için silah kullanmaya
 yetkilidirler.
 
-Yardım ^(1)(3)^
+*Yardım ^(1)(3)^*
 
 *Malul olanlarla aylığa müstehak dul ve yetimlere yardım*
 
@@ -551,8 +549,8 @@ indirilebilir.
 
 ——————————
 
-\(1) Bu madde başlığı, 13/11/1995 tarih ve 4131 sayılı Kanun'un 1 inci
-maddesi ile değiştirilmiş ve metne işlenmiştir.
+*(1) Bu madde başlığı, 13/11/1995 tarih ve 4131 sayılı Kanun'un 1 inci
+maddesi ile değiştirilmiş ve metne işlenmiştir. *
 
 *(2) Bu arada yer alan "Memur ve” ibaresi, 29/6/2006 tarihli ve 5532
 sayılı Kanunun 15 inci maddesiyle madde metninden çıkarılmıştır.*
@@ -975,8 +973,6 @@ kararı ile iptal edilmiş olup, iptal hükmü, sözkonusu kararın yayımı
 tarihi olan 27 Ocak 1993 tarihinden başlayarak altı ay sonra yürürlüğe
 girmiştir.*
 
-7224-2
-
 7225
 
 **Geçici Madde 3 –** Bu Kanunun yayımı tarihinden sonra, Geçici 1 inci
@@ -1282,6 +1278,7 @@ yararlanma durumları hakkında gerekli karar verilir.
   6495                                                                           21, Ek Madde 1, Geçici Madde 13                               2/8/2013
   Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100, K:2013/84 sayılı kararı   10 uncu maddenin beşinci fıkrası                              2/8/2014
   6518                                                                           Ek Madde 1, Geçici Madde 13                                   19/2/2014
+  6519                                                                           20                                                            22/2/2014
   ------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
 
 
