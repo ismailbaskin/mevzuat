@@ -1,6 +1,6 @@
 1.  #### 
 
-    #### 3/7/2005 tarihli ve 5399 sayılı Kanunla değişik
+    #### 4/5/2007 tarihli ve 5650 sayılı Kanunla değişik
 
     #### TÜRK MEDENÎ KANUNU 
 
@@ -5703,9 +5703,9 @@ TASARRUF ÖZGÜRLÜĞÜ
 
 **I. Kapsamı**
 
-**MADDE 505.-** Mirasçı olarak altsoyu, ana ve babası, kardeşleri veya
-eşi bulunan mirasbırakan, mirasının saklı paylar dışında kalan kısmında
-ölüme bağlı tasarrufta bulunabilir.
+**MADDE 505**.- **(Değişik birinci fıkra: 4/5/2007-5650/1 md.)** Mirasçı
+olarak altsoyu, ana ve babası veya eşi bulunan miras bırakan, mirasının
+saklı paylar dışında kalan kısmında ölüme bağlı tasarrufta bulunabilir.
 
 Bu mirasçılardan hiç biri yoksa, mirasbırakan mirasının tamamında
 tasarruf edebilir.
@@ -5719,7 +5719,7 @@ II. Saklı pay
 
 2\. Ana ve babadan her biri için yasal miras payının dörtte biri,
 
-3\. Kardeşlerden her biri için yasal miras payının sekizde biri,
+3\. **(Mülga:4/5/2007-5650/2 md.),**
 
 4\. Sağ kalan eş için, altsoy veya ana ve baba zümresiyle birlikte
 mirasçı olması hâlinde yasal miras payının tamamı, diğer hâllerde yasal
@@ -11868,6 +11868,7 @@ MAHKEMESİ KARARININ **
   5253                       23/11/2004                                                                                                 58, 61, 62, 64, 74, 77, 79, 92 ve 93
   5378                       7/7/2005                                                                                                   348
   5399                       15/7/2005                                                                                                  313
+  5650                       10/5/2007                                                                                                  505, 506
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
 
 
