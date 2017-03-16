@@ -1,5 +1,4 @@
-5737 sayılı Kanunun Anayasa Mahkemesinin 17/6/2010 tarihli ve E.:
-2008/22, K.: 2010/82 sayılı Kararı ile Değişik Hali
+5737 sayılı Kanunun 651 sayılı KHK ile Değişik Hali
 
 **VAKIFLAR KANUNU**
 
@@ -588,12 +587,17 @@ ve İstihdam**
 Müdürlüğü kurulmuştur.
 
 Başbakan, Genel Müdürlüğün yönetimi ile ilgili yetkilerini gerekli
-gördüğü takdirde görevlendireceği Devlet Bakanı vasıtasıyla
-kullanabilir.
+gördüğü takdirde görevlendireceği Başbakan Yardımcısının vasıtasıyla
+kullanabilir.*^(1)\ ^*
 
 Vakıflar Genel Müdürlüğü, merkez ve taşra teşkilâtından oluşur.
 
 Genel Müdürlüğün merkezi Ankara’dadır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+*(1)* *22/8/2011 tarihli ve 651 sayılı KHK’nin 14 üncü maddesi ile bu
+fıkrada yer alan “Devlet Bakanı” ibaresi “Başbakan Yardımcısı” şeklinde
+değiştirilmiştir.*
 
 **Genel Müdürlüğün görevleri**
 
@@ -864,7 +868,7 @@ b\) İdarî para cezası ile ilgili işlemleri yürütmek.
 
 c\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
 
-**Hayır Hizmetleri Daire Başkanlığı**
+**Hayır Hizmetleri Daire Başkanlığı*^(1)^***
 
 **MADDE 52 –** Hayır Hizmetleri Daire Başkanlığının görevleri şunlardır:
 
@@ -878,12 +882,18 @@ sosyal yardım kurumları, aşevleri gibi tesisler açmak, yönetimini
 sağlamak, öğrencilere eğitim yardımı yapmak, ihtiyaç sahibi insanlara
 sosyal yardımlarda bulunmak, muhtaç ve engellilere aylık bağlamak.
 
-d\) Sosyal yardım hizmeti veren kurum ve kuruluşlarla işbirliği yapmak.
+d\) **(Ek: 22/8/2011-651/KHK/ 15 md.)** Usul ve esasları Genel Müdürlükçe
+çıkarılan yönetmelikle belirlenmek üzere ihtiyaç sahibi yükseköğrenim
+öğrencilerine 3/3/2004 tarihli ve 5102 sayılı Yüksek Öğrenim
+Öğrencilerine Burs Kredi Verilmesine İlişkin Kanun hükümlerine tabi
+olmaksızın burs vermek.
 
-e\) Uluslararası kuruluşlarla işbirliği yaparak sosyal politikalar ve
+e\) Sosyal yardım hizmeti veren kurum ve kuruluşlarla işbirliği yapmak.
+
+f\) Uluslararası kuruluşlarla işbirliği yaparak sosyal politikalar ve
 sosyal yardım projeleri üretmek ve yürütmek.
 
-f\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
+g\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
 
 **Sanat Eserleri ve Yapı İşleri Daire Başkanlığı**
 
@@ -952,6 +962,11 @@ f\) Görev ve faaliyetlerinin gerektirdiği alt yapı çalışmalarını yapmak
 veya yaptırmak.
 
 g\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+*(1)* *22/8/2011 tarihli ve 651 sayılı KHK’nin 15 inci maddesi ile bu
+maddenin birinci fıkrasına (d) bendi eklenmiş ve mevcut bentler buna
+göre teselsül ettirilmiştir yer alan*
 
 **Sağlık Hizmetleri Daire Başkanlığı**
 
@@ -1302,10 +1317,11 @@ Değiştirilerek Kabulü Hakkında Kanunun 31 inci maddesinde yer alan fazla
 
 **Atamalar** *^(1)^*
 
-**MADDE 68 –** Genel Müdür, Genel Müdür Yardımcısı, I. Hukuk Müşaviri
-ile Bölge Müdürü ortak kararnameyle, (…) *^(1)^* Daire Başkanı, Genel
-Müdürün teklifi Başbakanın veya görevlendirdiği Devlet Bakanının
-onayıyla, diğer personel ise Genel Müdür tarafından atanır.
+**MADDE 68 –** Genel Müdür, Genel Müdür Yardımcısı, I. Hukuk Müşaviri ,
+Rehberlik ve Teftiş Başkanı ile Bölge Müdürü ortak kararnameyle, (…)
+*^(1)^* Daire Başkanı, Genel Müdürün teklifi Başbakanın veya
+görevlendirdiği Başbakan Yardımcısının onayıyla, diğer personel ise
+Genel Müdür tarafından atanır.*^(2)^*
 
 **Vakıf Uzmanı ve Vakıf Uzman Yardımcısı **
 
@@ -1382,7 +1398,13 @@ kadrolarına atanırlar.
 
 *(1) Anayasa Mahkemesi’nin 17/6/2010 tarihli E.:2008/22 K.: 2010/82
 sayılı Kararı ile Bu maddede yer alan “… Rehberlik ve Teftiş Başkanı ile
-…” ibaresi iptal edilmiştir.*
+…” ibaresi iptal edilmiştir. *
+
+*(2) 22/8/2011 tarihli ve 651 sayılı KHK’nin 16 ncı maddesi ile bu
+fıkrada yer alan “I. Hukuk Müşaviri” ibaresinden sonra gelmek üzere “,
+Rehberlik ve Teftiş Başkanı” ibaresi eklenmiş ve aynı fıkrada yer alan
+“Devlet Bakanının” ibaresi “Başbakan Yardımcısının” şeklinde
+değiştirilmiştir.*
 
 **Kadro iptal ve ihdasları**
 
@@ -1691,6 +1713,33 @@ maddesine eklenen hükümler, bu maddenin yürürlüğe girdiği tarihten önce
 açılmış ve halen devam eden intifa haklarının ödenmesi, malvarlığı ve
 gelirlerinin tespitine ilişkin davalarda da uygulanır.
 
+**GEÇİCİ MADDE 11 –(Ek: 22/8/2011-KHK/651/ 17 md.)**
+
+Cemaat vakıflarının;
+
+a\) 1936 Beyannamesinde kayıtlı olup malik hanesi açık olan taşınmazları,
+
+b\) 1936 Beyannamesinde kayıtlı olup kamulaştırma, satış ve trampa
+dışındaki nedenlerle Hazine, Vakıflar Genel Müdürlüğü, belediye ve il
+özel idaresi adına kayıtlı taşınmazları,
+
+c\) 1936 Beyannamesinde kayıtlı olup kamu kurumları adına tescilli olan
+mezarlıkları ve çeşmeleri,
+
+tapu kayıtlarındaki hak ve mükellefiyetleri ile birlikte bu maddenin
+yürürlüğe girdiği tarihten itibaren oniki ay içinde müracaat edilmesi
+halinde, Meclisin olumlu kararından sonra, ilgili tapu sicil
+müdürlüklerince cemaat vakıfları adına tescil edilir.
+
+Cemaat vakıfları tarafından satın alınmış veya cemaat vakıflarına
+vasiyet edildiği veya bağışlandığı halde, mal edinememe gerekçesiyle
+Hazine veya Genel Müdürlük adına tapuda kayıt edilen taşınmazlardan
+üçüncü şahıslar adına kayıtlı olanların Maliye Bakanlığınca tespit
+edilen rayiç değeri Hazine veya Genel Müdürlük tarafından ödenir.
+
+Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle
+düzenlenir.
+
 **Yürürlük**
 
 **MADDE 81 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
@@ -1842,7 +1891,7 @@ gelirlerinin tespitine ilişkin davalarda da uygulanır.
 
                              11/7/2011                                     11/1/2011                 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Karar   68
 
-                                                                                                                                                                  
+  KHK/651                    27/8/2011                                     27/8/2011                                                                              35, 52, 68, Geçici Madde 11
 
                                                                                                                                                                   
 
