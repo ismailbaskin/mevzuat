@@ -1,5 +1,7 @@
-**Anayasa Mahkemesi’nin E.: 2005/139, K.: 2007/33 sayılı Kararı ile
-değişik hali**
+**5754 sayılı Kanunla ve**
+
+**(5754 sayılı Kanunla değiştirilen) 5510 sayılı Kanunla değişik iki
+hali**
 
 **BANKACILIK KANUNU**
 
@@ -1824,7 +1826,21 @@ hareket eden kişiler ile görevlileri, sıfat ve görevleri dolayısıyla
 öğrendikleri bankalara veya müşterilerine ait sırları, bu konuda kanunen
 açıkça yetkili kılınan mercilerden başkasına açıklayamazlar. Bankaların
 destek hizmeti aldığı kuruluş ve çalışanları hakkında da bu hüküm
-uygulanır. Bu yükümlülük görevden ayrıldıktan sonra da devam eder.
+uygulanır. Bu yükümlülük görevden ayrıldıktan sonra da devam eder. **(Ek
+iki cümle: 17/4/2008-5754/86 md.)** 22/4/1926 tarihli ve 818 sayılı
+Borçlar Kanunu, 13/6/1952 tarihli ve 5953 sayılı Basın Mesleğinde
+Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında
+Kanun, 20/4/1967 tarihli ve 854 sayılı Deniz İş Kanunu ile 22/5/2003
+tarihli ve 4857 sayılı İş Kanunu kapsamında çalıştırılan işçi, gemiadamı
+ve gazetecinin ücret, prim, ikramiye ve bu nitelikte her çeşit istihkak
+ödemelerinin özel olarak açılan banka hesabına yapılması halinde, bu
+hesaplara ilişkin bilgi ve belgelerin Çalışma ve Sosyal Güvenlik
+Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığı ile bunlara bağlı
+kurum ve kuruluşlara verilmesi sırrın ifşaı sayılmaz. Bu bilgi ve
+belgelerin verilmesine ilişkin usûl ve esaslar Çalışma ve Sosyal
+Güvenlik Bakanlığı, Maliye Bakanlığı, Hazine Müsteşarlığından sorumlu
+Devlet Bakanlığı ile Bankacılık Düzenleme ve Denetleme Kurumunca
+belirlenir.
 
 Kredi kuruluşları ve finansal kuruluşların destek hizmeti kuruluşları
 ile aralarında akdedecekleri yazılı sözleşmeler çerçevesinde bu
@@ -3873,9 +3889,7 @@ Danıştayda görülür. Fon Kurulu kararlarına karşı yapılan başvurular
 acele işlerden sayılır.
 
 **(İptal ikinci fıkra: Anayasa Mahkemesi’nin 9/3/2006 tarihli ve E.:
-2006/33, K.: 2006/36 sayılı Kararı ile.)**
-
-**Fonun bütçesi**
+2006/33, K.: 2006/36 sayılı Kararı ile.) Fonun bütçesi**
 
 **MADDE 129 —** **(Değişik: 8/3/2006-5472/1 md.)**
 
@@ -5573,8 +5587,7 @@ aybaşından itibaren T.C. Emekli Sandığı ile ilişkilendirilirler. Bu
 süreye ait emekli kesenek ve karşılıkları genel esaslara göre T.C.
 Emekli Sandığına ödenir.
 
-**GEÇİCİ MADDE 23 —** **(İptal: Anayasa Mahkemesi’nin 22/3/2007 tarihli
-ve E.: 2005/139, K.: 2007/33 sayılı Kararı ile.)**
+**GEÇİCİ MADDE 23 —** **(Mülga: 31/5/2006-5510/106 md.)**
 
 **GEÇİCİ MADDE 24 –** **(Ek: 8/3/2006-5472/2 md.)**
 
@@ -5965,6 +5978,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   Anayasa Mah.’nin E.: 2006/33, K.: 2006/36 sayılı Kararı                      128                                                           10/1/2007
   5667                                                                         91, 101, 120, 124                                             30/5/2007
   Anayasa Mah.’nin E.: 2005/139, K.: 2007/33 sayılı Kararı                     92, 121, Geçici Madde 23                                      15/12/2008
+  5754                                                                         73                                                            8/5/2008
+  5510 (5754 sayılı Kanun ile değişik)                                         Geçici Madde 23                                               1/10/2008
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
