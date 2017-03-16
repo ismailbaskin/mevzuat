@@ -1,6 +1,8 @@
-**6645 sayılı Kanun ile değişik hali**
+[]{#K1 .anchor}**Anayasa Mahkemesi’nin 7/11/2014 tarihli ve**
 
-[]{#K1 .anchor}**YÜKSEKÖĞRETİM KANUNU**
+**E.: 2014/61, K.: 2014/166 sayılı Kararı ile değişik hali**
+
+**YÜKSEKÖĞRETİM KANUNU**
 
 **Kanun Numarası : 2547 **
 
@@ -73,9 +75,9 @@ bilimsel özerkliğe sahip bir yükseköğretim kurumudur.
 5348
 
 d\) Üniversite: Bilimsel özerkliğe ve kamu tüzelkişiliğine sahip yüksek
-düzeyde eğitim - öğretim, bilimsel araştırma,yayın ve danışmanlık yapan;
-fakülte, enstitü, yüksekokul ve benzeri kuruluş ve birimlerden oluşan
-bir yükseköğretim kurumudur.
+düzeyde eğitim - öğretim, bilimsel araştırma, yayın ve danışmanlık
+yapan; fakülte, enstitü, yüksekokul ve benzeri kuruluş ve birimlerden
+oluşan bir yükseköğretim kurumudur.
 
 e\) Fakülte: Yüksek düzeyde eğitim - öğretim, bilimsel araştırma ve yayın
 yapan; kendisine birimler bağlanabilen bir yükseköğretim kurumudur.
@@ -5310,13 +5312,9 @@ tarihten itibaren ilişiklerinin kesildiği yükseköğretim kurumuna
 başvuruda bulunmaları hâlinde geçici 58 inci maddede yer alan esaslara
 göre, takip eden eğitim-öğretim yılında öğrenimlerine başlayabilirler.
 
-**Geçici Madde 64 –** **(Ek: 2/1/2014-6514/14 md.)^(1)(2)^**
-
-Bu maddenin yürürlüğe girdiği tarih itibarıyla mesai saatleri dışında
-serbest meslek faaliyetinde bulunmakta veya özel kuruluşlarda çalışmakta
-olan öğretim üyeleri, bu maddenin yayımı tarihinden itibaren üç ay
-içinde bu faaliyetlerini sona erdirir; bu süre içinde sona erdirmeyen
-öğretim üyelerinin üniversiteyle ilişikleri kesilir.
+**Geçici Madde 64 –** **(Ek: 2/1/2014-6514/14 md.; İptal: Anayasa
+Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/166 sayılı
+Kararı ile.)**
 
 **Geçici Madde 65 –** **(Ek: 2/1/2014-6514/15 md.)**
 
@@ -5349,20 +5347,6 @@ maddesi uyarınca ödenecek Hazine payı ile bu Kanunun 58 inci maddesi
 uyarınca ayrılacak payların ve yapılacak ek ödemenin hesabında dikkate
 alınmaz. Bu maddenin uygulanması ile ilgili sınırlamalar getirmeye, usul
 ve esaslar belirlemeye Maliye Bakanlığı yetkilidir.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) Anayasa Mahkemesi’nin 11/4/2014 tarihli ve 28969 sayılı Resmi
-Gazete’de yayımlanan 9/4/2014 tarihli ve E.: 2014/61, K.: 2014/6
-(Yürürlüğü Durdurma) sayılı Kararı ile bu maddenin yürürlüğü
-durdurulmuştur.*
-
-*(2) Bu madde Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61,
-K.: 2014/166 sayılı Kararı ile iptal edilmiş olup, 8/11/2014 tarihli ve
-29169 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 7/11/2014
-tarihli ve E.: 2014/61, K.: 2014/17(Yürürlüğü Durdurma) sayılı Kararı
-ile sözkonusu İptal Kararının Resmi Gazete’de yayımlanıncaya kadar
-mezkur maddenin yürürlüğü durdurulmuştur.*
 
 5388-15
 
@@ -5995,34 +5979,36 @@ TARİHİNİ GÖSTERİR LİSTE**
 
 5394-4
 
-  -------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------- ---------------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                                        **2547 sayılı Kanunun değişen veya iptal edilen maddeleri**                **Yürürlüğe Giriş Tarihi**
+  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- -----------------------------------------------
+  Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası                                        2547 sayılı Kanunun değişen veya iptal edilen maddeleri               Yürürlüğe Giriş Tarihi
 
-  **Anayasa **                                                                                                   **36 ncı maddenin altıncı fıkrası ile Geçici Madde 59 **                   **1/1/2013 tarihinden başlayarak altı ay sonra**
-                                                                                                                                                                                            
-  **Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı **                                                                                                           **(1/7/2013)**
+  Anayasa                                                                                                    36 ncı maddenin altıncı fıkrası ile Geçici Madde 59                   1/1/2013 tarihinden başlayarak altı ay sonra
+                                                                                                                                                                                   
+  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                                                       (1/7/2013)
 
-  **Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı**                       **58**                                                                     **10/10/2013 **
+  Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı                       58                                                                    10/10/2013
 
-  **6514 **                                                                                                      **36, 58, Ek madde 29, Geçici Madde 64, Geçici madde 65**                  **18/1/2014**
+  6514                                                                                                       36, 58, Ek madde 29, Geçici Madde 64, Geçici madde 65                 18/1/2014
 
-  **6528**                                                                                                       **53**                                                                     **14/3/2014**
+  6528                                                                                                       53                                                                    14/3/2014
 
-  **Anayasa Mahkemesi’nin 9/4/2014 tarihli ve E.: 2014/61, K.: 2014/6 (Yürürlüğü Durdurma) sayılı Kararı ile**   **Geçici Madde 64**                                                        **11/4/2014**
+  Anayasa Mahkemesi’nin 9/4/2014 tarihli ve E.: 2014/61, K.: 2014/6 (Yürürlüğü Durdurma) sayılı Kararı ile   Geçici Madde 64                                                       11/4/2014
 
-  **6552**                                                                                                       **Geçici Madde 66**                                                        **11/9/2014**
+  6552                                                                                                       Geçici Madde 66                                                       11/9/2014
 
-  **Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/17(Yürürlüğü Durdurma) sayılı Kararı**      **Geçici Madde 64**                                                        **8/11/2014**
+  Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/17(Yürürlüğü Durdurma) sayılı Kararı      Geçici Madde 64                                                       8/11/2014
 
-  **6569**                                                                                                       **3, 35, 40, 44, 46, 49, 50, Ek Madde 11, Geçici Madde 67, 68, 69, 70 **   **26/11/2014**
+  6569                                                                                                       3, 35, 40, 44, 46, 49, 50, Ek Madde 11, Geçici Madde 67, 68, 69, 70   26/11/2014
 
-  **Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E.: 2014/100, K.: 2015/6 sayılı Kararı**                          **53**                                                                     **7/4/2015 tarihinden başlayarak dokuz ay sonra**
-                                                                                                                                                                                            
-                                                                                                                                                                                            **(7/1/2016)**
+  Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E.: 2014/100, K.: 2015/6 sayılı Kararı                          53                                                                    7/4/2015 tarihinden başlayarak dokuz ay sonra
+                                                                                                                                                                                   
+                                                                                                                                                                                   (7/1/2016)
 
-  **6637**                                                                                                       **46, Geçici Madde 71**                                                    **7/4/2015**
+  6637                                                                                                       46, Geçici Madde 71                                                   7/4/2015
 
-  **6645**                                                                                                       **5**                                                                      **23/4/2015**
-  -------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------- ---------------------------------------------------
+  6645                                                                                                       5                                                                     23/4/2015
+
+  Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/166 sayılı Kararı                         Geçici Madde 64                                                       19/6/2015
+  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- -----------------------------------------------
 
 
