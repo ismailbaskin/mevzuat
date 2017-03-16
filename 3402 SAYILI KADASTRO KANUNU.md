@@ -1,4 +1,4 @@
-**6352 sayılı Kanun ile değişik hali**
+6971
 
  
 
@@ -85,85 +85,84 @@ dinlenemezler.
 
 6972
 
- 
+Bilirkişiliğe mani yukarıdaki haller, kadastro teknisyeni, muhtar ve
+diğer görevliler ile bunların yerine kaim olanlar hakkında da uygulanır.
 
-             Bilirkişiliğe mani yukarıdaki haller, kadastro teknisyeni,
-muhtar ve diğer görevliler ile bunların yerine kaim olanlar hakkında da
-uygulanır.
+Kadastro komisyonu; kadastro müdürü veya yardımcısının başkanlığında,
+bir kadastro üyesi ve itirazın mahiyetine göre kontrol mühendisinden
+veya tasarruf kontrol memurundan oluşur. Kontrol mühendisinin
+bulunmaması halinde yerine fen kontrol memuru katılır.
 
-             Kadastro komisyonu; kadastro müdürü veya yardımcısının
-başkanlığında, bir kadastro üyesi ve itirazın mahiyetine göre kontrol
-mühendisinden veya tasarruf kontrol memurundan oluşur. Kontrol
-mühendisinin bulunmaması halinde yerine fen kontrol memuru katılır.
+Bu maddede unvanları belirtilen memurlar bu maksatla açılmış okul veya
+kurslardan mezun olanlar arasından atanırlar.
 
-             Bu maddede unvanları belirtilen memurlar bu maksatla
-açılmış okul veya kurslardan mezun olanlar arasından atanırlar.
+**(Mülga son fıkra: 11/10/2011-KHK-666/1 md.)^(1)^**
 
-             **(Mülga son fıkra: 11/10/2011-KHK-666/1 md.)**
+*Kadastro çalışma alanı, ilan ve itiraz:*
 
-             *Kadastro çalışma alanı, ilan ve itiraz:*
+**Madde 4 –** Kadastro bölgesindeki her köy ile belediye sınırları
+içinde bulunan mahallelerin her biri, kadastro çalışma alanını teşkil
+eder.
 
-             **Madde 4 –** Kadastro bölgesindeki her köy ile belediye
-sınırları içinde bulunan mahallelerin her biri, kadastro çalışma alanını
-teşkil eder.
+Kadastro müdürü, kadastrosuna başlanacak mahalleyi veya köyü en az 15
+gün önce bölge merkezi ile çalışma alanı ve komşu köy, mahalle ve
+belediyelerde alışılmış vasıtalarla duyurur. Bu duyuruda çalışma
+sınırlarının tespitine hangi gün ve saatte başlanacağı belirtilir.
 
-             Kadastro müdürü, kadastrosuna başlanacak mahalleyi veya
-köyü en az 15 gün önce bölge merkezi ile çalışma alanı ve komşu köy,
-mahalle ve belediyelerde alışılmış vasıtalarla duyurur. Bu duyuruda
-çalışma sınırlarının tespitine hangi gün ve saatte başlanacağı
-belirtilir.
+**(Değişik üçüncü fıkra: 22/2/2005 – 5304/3 md.)** Çalışma alanında
+orman bulunması ve 6831 sayılı Orman Kanununa göre orman kadastrosuna
+başlanılmamış olması halinde, orman kadastrosu ve bu ormanların içinde
+ve bitişiğinde her çeşit taşınmaz malların ormanlarla müşterek
+sınırlarının tayini ve tespiti kadastro ekibi tarafından yapılır. Ancak,
+bu çalışmalarda kadastro ekibine, Orman Genel Müdürlüğü taşra
+teşkilâtınca görevlendirilecek en az bir orman yüksek mühendisi veya
+orman mühendisi ile tarım müdürlüklerince görevlendirilecek bir ziraat
+yüksek mühendisi veya ziraat mühendisinin bildirimden itibaren yedi gün
+içerisinde iştirak ettirilmesi zorunludur. Bu çalışmalara muhtar ve
+bilirkişilerin katılmaması halinde çalışmalar re’sen devam ettirilir.
+**^(2)^**
 
-             **(Değişik üçüncü fıkra: 22/2/2005 – 5304/3 md.)** Çalışma
-alanında orman bulunması ve 6831 sayılı Orman Kanununa göre orman
-kadastrosuna başlanılmamış olması halinde, orman kadastrosu ve bu
-ormanların içinde ve bitişiğinde her çeşit taşınmaz malların ormanlarla
-müşterek sınırlarının tayini ve tespiti kadastro ekibi tarafından
-yapılır. Ancak, bu çalışmalarda kadastro ekibine, Orman Genel Müdürlüğü
-taşra teşkilâtınca görevlendirilecek en az bir orman yüksek mühendisi
-veya orman mühendisi ile tarım müdürlüklerince görevlendirilecek bir
-ziraat yüksek mühendisi veya ziraat mühendisinin bildirimden itibaren
-yedi gün içerisinde iştirak ettirilmesi zorunludur. Bu çalışmalara
-muhtar ve bilirkişilerin katılmaması halinde çalışmalar re’sen devam
-ettirilir. **^(1)^** 
-
-             **(Değişik : 22/2/2005 – 5304/3 md.)** Ormanla ilgili
-yapılan itirazların incelenmesinde kadastro komisyonuna da itiraza konu
+**(Değişik : 22/2/2005 – 5304/3 md.)** Ormanla ilgili yapılan
+itirazların incelenmesinde kadastro komisyonuna da itiraza konu
 tespitlerde görev almayan Orman Genel Müdürlüğü taşra teşkilâtınca
 görevlendirilecek bir orman yüksek mühendisi veya orman mühendisi ile
 tarım müdürlüklerince görevlendirilecek bir ziraat yüksek mühendisi veya
-ziraat mühendisi iştirak ettirilmesi zorunludur. **^(1)^** 
+ziraat mühendisi iştirak ettirilmesi zorunludur. **^(2)^**
 
-             **(Değişik: 22/2/2005 – 5304/3 md.)**Çalışma alanındaki
-ormanların bu ekipçe sınırlandırma ve tespitleri yapılarak otuz günlük
-kısmî ilâna alınır. Bu alanlarda orman kadastrosu yapılmış sayılır.
-**^(1)^** 
+**(Değişik: 22/2/2005 – 5304/3 md.)**Çalışma alanındaki ormanların bu
+ekipçe sınırlandırma ve tespitleri yapılarak otuz günlük kısmî ilâna
+alınır. Bu alanlarda orman kadastrosu yapılmış sayılır. **^(2)^**
 
-             **(Değişik : 22/2/2005 – 5304/3 md.)**Orman kadastrosu
-kesinleşmiş yerlerde bu sınırlara aynen uyulur. **^(1)^** 
+**(Değişik : 22/2/2005 – 5304/3 md.)**Orman kadastrosu kesinleşmiş
+yerlerde bu sınırlara aynen uyulur. **^(2)^**
 
-             Kadastro ekibi; kadastro çalışma alanı sınırının tespitinde
-il ve ilçelerin belediye sınırları ile köy sınırlarını dikkate alır. Bu
+Kadastro ekibi; kadastro çalışma alanı sınırının tespitinde il ve
+ilçelerin belediye sınırları ile köy sınırlarını dikkate alır. Bu
 sınırlar mahalle, belediye, köy idari sınırları sayılmaz.
 
-             Sınır tespitlerinde; komşu mahalle veya köyün bilgi ve
-belgelerinden istifade edilir.
+Sınır tespitlerinde; komşu mahalle veya köyün bilgi ve belgelerinden
+istifade edilir.
 
-             Tespit edilen sınır harita veya ölçü krokisinde gösterilir.
+Tespit edilen sınır harita veya ölçü krokisinde gösterilir.
 
-             Kadastro teknisyenlerince tespit edilen sınıra yedi gün
-içerisinde kadastro müdürlüğü nezdinde itiraz edilebilir.
+Kadastro teknisyenlerince tespit edilen sınıra yedi gün içerisinde
+kadastro müdürlüğü nezdinde itiraz edilebilir.
 
-             Kadastro müdürü, bu itirazı inceleyerek yedi gün içerisinde
-karara bağlar. İlgililer hazırsa tefhim, değilse derhal tebliğ edilen bu
-karara karşı yedi gün içerisinde kadastro mahkemesine itiraz edilebilir.
-Bu itiraz, duruşmasız ve gerektiğinde mahallinde inceleme yapılarak,
-onbeş gün içinde kesin karara bağlanır. Ancak; tespit edilen bu sınıra
-karşı kesinleşmiş mahkeme kararı var ise aynı konuda itirazda
-bulunulamaz.
+Kadastro müdürü, bu itirazı inceleyerek yedi gün içerisinde karara
+bağlar. İlgililer hazırsa tefhim, değilse derhal tebliğ edilen bu karara
+karşı yedi gün içerisinde kadastro mahkemesine itiraz edilebilir. Bu
+itiraz, duruşmasız ve gerektiğinde mahallinde inceleme yapılarak, onbeş
+gün içinde kesin karara bağlanır. Ancak; tespit edilen bu sınıra karşı
+kesinleşmiş mahkeme kararı var ise aynı konuda itirazda bulunulamaz.
 
 ––––––––––––––––––––
 
-*(1)  22/2/2005 tarihli ve 5304 sayılı Kanunun 3 üncü maddesinde " 3402
+*(1) 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan
+düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205
+sayılı Kararı ile iptal edilmiştir.*
+
+*(2) 22/2/2005 tarihli ve 5304 sayılı Kanunun 3 üncü maddesinde " 3402
 sayılı Kanunun 4 üncü maddesinin üçüncü fıkrası aşağıdaki şekilde
 değiştirilmiştir.” hükmü yer almaktadır, ancak değiştirilen üçüncü fıkra
 dört ayrı fıkra olarak düzenlenmiştir.*
@@ -1349,27 +1348,24 @@ ettirilir. Çalışma sonucunda bir zabıt düzenlenir
 
 6988
 
- 
-
 ve bu zabıt ekip görevlileri ile kontrol mühendisi tarafından birlikte
 imzalanır. Düzeltme işlemleri, orman mevzuatı ile tapu ve kadastro
 mevzuatına göre yapılmış ve bu Kanuna göre yapılacak askı ilanı ile de
 ilan ve tebliğ edilmiş sayılır.
 
-             Hazine adına orman sınırları dışına çıkarılan yerler, daha
-öncesi tescil edilmiş olduğuna bakılmaksızın Maliye Bakanlığının talebi
-üzerine, Tapu ve Kadastro Genel Müdürlüğünce fiili kullanım durumları
-dikkate alınmak suretiyle ifraz ve/veya tevhit de yapılabilir. Bu
-işlemler sırasında, orman ve kadastro haritalarında tespit edilen fenni
-hatalar, yukarıdaki üçüncü fıkrada belirtilen usul ve esaslara göre
-düzeltilir.
+Hazine adına orman sınırları dışına çıkarılan yerler, daha öncesi tescil
+edilmiş olduğuna bakılmaksızın Maliye Bakanlığının talebi üzerine, Tapu
+ve Kadastro Genel Müdürlüğünce fiili kullanım durumları dikkate alınmak
+suretiyle ifraz ve/veya tevhit de yapılabilir. Bu işlemler sırasında,
+orman ve kadastro haritalarında tespit edilen fenni hatalar, yukarıdaki
+üçüncü fıkrada belirtilen usul ve esaslara göre düzeltilir.
 
-             **(İptal beşinci fıkra: Anayasa Mahkemesi’nin 12/5/2011
-tarihli ve E.: 2009/24, K.: 2011/75 sayılı Kararı ile.)**
+**(İptal beşinci fıkra: Anayasa Mahkemesi’nin 12/5/2011 tarihli ve E.:
+2009/24, K.: 2011/75 sayılı Kararı ile.)**
 
-             Kadastro çalışmalarına başlanılmadan önce, Hazine adına
-orman sınırları dışına çıkarılan yerlerin içerisinde özel kanunlarına
-göre değerlendirilmesi gereken alanlar bulunup bulunmadığı kadastro
+Kadastro çalışmalarına başlanılmadan önce, Hazine adına orman sınırları
+dışına çıkarılan yerlerin içerisinde özel kanunlarına göre
+değerlendirilmesi gereken alanlar bulunup bulunmadığı kadastro
 müdürlüğünce ilgili kurum ve kuruluşlarına yazı ile sorulur. İlgili
 idarelerce 15 gün içerisinde kadastro müdürlüğüne bilgi verilir. Bu süre
 içinde cevap verilmediği takdirde, söz konusu alanların bulunmadığı
@@ -1378,83 +1374,82 @@ zeminde gösterilen sınırlara göre bu yerler içindeki bu alanların
 sınırları ölçülerek krokisinde gösterilir ve beyanlar hanesinde
 belirtilir.
 
- 
+**Ek Madde 5 – (Ek: 12/7/2013-6495/31 md.)**
 
-**ONUNCU BÖLÜM**
+Kadastrosu veya tapulaması tamamlanan çalışma alanlarında, orman
+kadastrosu ya da tahdidi yapılmamış ormanlar, 4 üncü ve 39 uncu
+maddelerde yer alan esaslar çerçevesinde kadastroya tabi tutulur.
 
-**Geçici Hükümler**
+ONUNCU BÖLÜM
 
-             **Geçici Madde 1 –** Bu Kanunun yürürlüğe girmesinden önce
-kurulmuş tapulama mahkemeleri, kadastro mahkemesi adını alır ve açılmış
-davaları, bu Kanundaki hükümlere göre yürütür.
+Geçici Hükümler
 
-             Asliye hukuk mahkemelerinde bu Kanunun yürürlüğe
-girmesinden önce 2613 sayılı Kadastro ve Tapu Tahriri Kanununa göre
-açılan veya müracaata bırakılan davalara, kadastro mahkemelerinde bu
-Kanundaki hükümler doğrultusunda bakılmaya devam olunur.
+**Geçici Madde 1 –** Bu Kanunun yürürlüğe girmesinden önce kurulmuş
+tapulama mahkemeleri, kadastro mahkemesi adını alır ve açılmış davaları,
+bu Kanundaki hükümlere göre yürütür.
 
-             Tapulama hakimleri ile tapulama mahkemelerinde yetkili
-olarak görev yapan hakimler yeniden bir atamaya veya yetkilendirilmeye
-gerek olmadan kadastro hakimi olarak görevlerini yürütürler. Bu hüküm,
-tapulama mahkemelerinde görevli diğer personel hakkında da uygulanır.
+Asliye hukuk mahkemelerinde bu Kanunun yürürlüğe girmesinden önce 2613
+sayılı Kadastro ve Tapu Tahriri Kanununa göre açılan veya müracaata
+bırakılan davalara, kadastro mahkemelerinde bu Kanundaki hükümler
+doğrultusunda bakılmaya devam olunur.
 
-             **Geçici Madde 2 –** Tapulama Kanununa göre birlik
-merkezinde duruşma açılmasına karar verilmiş olup da, duruşma henüz
-açılmamışsa, ilk duruşma için birlik merkezine gidilmeyerek, dava bu
-Kanunun hükümlerine göre yürütülür.
+Tapulama hakimleri ile tapulama mahkemelerinde yetkili olarak görev
+yapan hakimler yeniden bir atamaya veya yetkilendirilmeye gerek olmadan
+kadastro hakimi olarak görevlerini yürütürler. Bu hüküm, tapulama
+mahkemelerinde görevli diğer personel hakkında da uygulanır.
 
-             **Geçici Madde 3 –** Bu Kanun gereğince ihtiyaç duyulan
-kadroların ihdası ve mevcut kadrolarda yapılacak değişiklikler, 190
-sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname esaslarına
-göre 8 ay içinde gerçekleştirilir.
+**Geçici Madde 2 –** Tapulama Kanununa göre birlik merkezinde duruşma
+açılmasına karar verilmiş olup da, duruşma henüz açılmamışsa, ilk
+duruşma için birlik merkezine gidilmeyerek, dava bu Kanunun hükümlerine
+göre yürütülür.
 
-             Bu madde gereğince, yeni kadroların ihdası ve mevcut
-kadrolarda yapılacak değişikliğe kadar, Tapu ve Kadastro Genel
-Müdürlüğünde çalışan personel, bu Kanunda belirtilen unvanlarda
-görevlendirilebilir.
+**Geçici Madde 3 –** Bu Kanun gereğince ihtiyaç duyulan kadroların
+ihdası ve mevcut kadrolarda yapılacak değişiklikler, 190 sayılı Genel
+Kadro ve Usulü Hakkında Kanun Hükmünde Kararname esaslarına göre 8 ay
+içinde gerçekleştirilir.
 
-             **Geçici Madde 4 –** Tapulama ve kadastro mahkemelerince bu
-Kanunun yürürlüğe girmesinden önce kesin hükme bağlanmış uyuşmazlıklara
-bu Kanun uygulanmaz. Tapulama mahkemeleri ile kadastro mahkemesi
-sıfatıyla görev yapan asliye mahkemelerinde halen görülmekte olan
-davalar ile 10 yıllık hak düşürücü süre içerisinde açılacak davalara bu
-Kanun hükümleri uygulanır.
+Bu madde gereğince, yeni kadroların ihdası ve mevcut kadrolarda
+yapılacak değişikliğe kadar, Tapu ve Kadastro Genel Müdürlüğünde çalışan
+personel, bu Kanunda belirtilen unvanlarda görevlendirilebilir.
+
+**Geçici Madde 4 –** Tapulama ve kadastro mahkemelerince bu Kanunun
+yürürlüğe girmesinden önce kesin hükme bağlanmış uyuşmazlıklara bu Kanun
+uygulanmaz. Tapulama mahkemeleri ile kadastro mahkemesi sıfatıyla görev
+yapan asliye mahkemelerinde halen görülmekte olan davalar ile 10 yıllık
+hak düşürücü süre içerisinde açılacak davalara bu Kanun hükümleri
+uygulanır.
 
 6988-1
 
- 
+Bu Kanunun yürürlüğünden önce düzenlenmiş tapulama tutanakları ve
+kadastro beyannameleri ile verilmiş bulunan komisyon kararları
+geçerliliklerini korurlar. Bunlara süresi içinde itiraz durumunda bu
+Kanun hükümleri uygulanır.
 
-            Bu Kanunun yürürlüğünden önce düzenlenmiş tapulama
-tutanakları ve kadastro beyannameleri ile verilmiş bulunan komisyon
-kararları geçerliliklerini korurlar. Bunlara süresi içinde itiraz
-durumunda bu Kanun hükümleri uygulanır.
+2613 sayılı Kadastro ve Tapu Tahriri Kanunu ile diğer kanunlar gereğince
+özel kadastrosu yapılan ve tutanakları kesinleşmiş bulunan taşınmazlar
+için 10 yıllık hak düşürücü süre geçmiş ise, bu Kanunun yürürlüğe
+girdiği tarihten itibaren bir yıl içinde hak sahipleri dava açabilirler.
 
-             2613 sayılı Kadastro ve Tapu Tahriri Kanunu ile diğer
-kanunlar gereğince özel kadastrosu yapılan ve tutanakları kesinleşmiş
-bulunan taşınmazlar için 10 yıllık hak düşürücü süre geçmiş ise, bu
-Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde hak sahipleri
-dava açabilirler.
+Tapulama ve kadastrosu yapılıp tespit dışı bırakılan yerlerde tapulu
+taşınmazların maliklerinin talep etmesi halinde, bu Kanun hükümlerine
+göre bunların kadastrosu yapılır.
 
-             Tapulama ve kadastrosu yapılıp tespit dışı bırakılan
-yerlerde tapulu taşınmazların maliklerinin talep etmesi halinde, bu
-Kanun hükümlerine göre bunların kadastrosu yapılır.
+**Geçici Madde 5 – (Değişik: 22/2/2005 – 5304/12 md.)**
 
-             **Geçici Madde 5 – (Değişik: 22/2/2005 – 5304/12 md.)**
+Bu Kanunun yürürlüğe girmesinden önce 766 ve 2613 sayılı Kanun
+hükümlerine göre kurulmuş komisyonlara intikal etmiş veya edecek
+itirazlar, bu komisyonlarda bu Kanun hükümlerine göre incelenip, askı
+ilânına alınarak sonuçlandırılır.
 
-**            ** Bu Kanunun yürürlüğe girmesinden önce 766 ve 2613
-sayılı Kanun hükümlerine göre kurulmuş komisyonlara intikal etmiş veya
-edecek itirazlar, bu komisyonlarda bu Kanun hükümlerine göre incelenip,
-askı ilânına alınarak sonuçlandırılır.
+**Geçici Madde 6 – (Ek: 22/2/2005 – 5304/13 md.)**
 
-             **Geçici Madde 6 – (Ek: 22/2/2005 – 5304/13 md.)**
+Bu Kanunla yapılan değişiklikler nedeniyle yapılması gereken yönetmelik
+değişiklikleri ve düzenlemeleri, bu Kanunun yürürlüğe girdiği tarihten
+itibaren altı ay içerisinde Tapu Kadastro Genel Müdürlüğünce
+hazırlanarak bağlı bulunduğu Bakanın onayı ile yürürlüğe konulur.
 
-             Bu Kanunla yapılan değişiklikler nedeniyle yapılması
-gereken yönetmelik değişiklikleri ve düzenlemeleri, bu Kanunun yürürlüğe
-girdiği tarihten itibaren altı ay içerisinde Tapu Kadastro Genel
-Müdürlüğünce hazırlanarak bağlı bulunduğu Bakanın onayı ile yürürlüğe
-konulur.
-
-             **Geçici Madde 7 – (Ek: 22/2/2005 – 5304/13 md.; Değişik:
+**Geçici Madde 7 – (Ek: 22/2/2005 – 5304/13 md.; Değişik:
 15/1/2009-5831/9 md.)**
 
 Bu Kanuna göre yapılacak çalışmalardan önce 6831 sayılı Orman Kanununa
@@ -1470,8 +1465,8 @@ gerekçesiyle tespit harici bırakılan alanlarda, daha sonra kesinleşen
 orman kadastrosu sonucunda orman sınırı dışında kalan tapulu ve tapusuz
 taşınmazların 3402 sayılı Kanun hükümleri gereğince kadastrosu yapılır.
 
-**Geçici Madde 9 – (Ek: 15/1/2009-5831/9 md.; Mülga:
-11/10/2011-KHK-666/1 md.)**
+**Geçici Madde 9 – (Ek: 15/1/2009-5831/9 md. ; Mülga:
+11/10/2011-KHK-666/1 md.)^(1)^**
 
 **Geçici Madde 10 – (Ek: 25/2/2009-5841/3 md.; İptal: Anayasa
 Mahkemesi’nin 12/5/2011 tarihli ve E.: 2009/31, K.: 2011/77 sayılı
@@ -1483,20 +1478,21 @@ Bu Kanunun 36/A maddesi hükmü, henüz infaz edilmemiş yargı
 kararlarındaki vekâlet ücreti dâhil yargılama giderleri için de
 uygulanır.
 
-*             Yürürlük:*
+*Yürürlük:*
 
-             **Madde 49 –** Bu Kanun yayımlandığı tarihten üç ay sonra
-yürürlüğe girer.
+**Madde 49 –** Bu Kanun yayımlandığı tarihten üç ay sonra yürürlüğe
+girer.
 
-             *Yürütme:*
+*Yürütme:*
 
-             **Madde 50 –** Bu Kanunu Bakanlar Kurulu yürütür.
+**Madde 50 –** Bu Kanunu Bakanlar Kurulu yürütür.
 
- 
+**–––––––––––––––––––––**
 
- 
-
- 
+*(1) 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan
+düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205
+sayılı Kararı ile iptal edilmiştir.*
 
 6988-2/6994
 
@@ -1507,32 +1503,36 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------- -------------------------------------------------------------- -----------------------------------------------------
-  **Değiştiren**                                                         **3402 sayılı Kanunun değişen veya iptal edilen maddeleri**    **Yürürlüğe Giriş **
-                                                                                                                                        
-  **Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                                                                  **Tarihi**
+  -------------------------------------------------------------------------------------- ------------------------------------------------------------------------- -----------------------------------------------------
+  **Değiştiren**                                                                         **3402 sayılı Kanunun değişen veya iptal edilen maddeleri**               **Yürürlüğe Giriş **
+                                                                                                                                                                   
+  **Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                                                                                             **Tarihi**
 
-  4576                                                                   —                                                              13/6/2000
+  4576                                                                                   —                                                                         13/6/2000
 
-  5304                                                                   1,3,4,8,15,22,26,37,41,45,47, Ek Madde 1, Geçici Madde 5,6,7   3/3/2005
+  5304                                                                                   1, 3, 4, 8,15, 22, 26, 37, 41, 45, 47, Ek Madde 1, Geçici Madde 5, 6, 7   3/3/2005
 
-  *5403*                                                                 *14 *                                                          *19/7/2005*
+  5403                                                                                   14                                                                        19/7/2005
 
-  5728                                                                   42, 43                                                         8/2/2008
+  5728                                                                                   42, 43                                                                    8/2/2008
 
-  5831                                                                   Ek Madde 2, 3, 4, Geçici Madde 7, 8, 9                         27/1/2009
+  5831                                                                                   Ek Madde 2, 3, 4, Geçici Madde 7, 8, 9                                    27/1/2009
 
-  5841                                                                   12, Geçici Madde 10                                            14/3/2009
+  5841                                                                                   12, Geçici Madde 10                                                       14/3/2009
 
-  6083                                                                   37, 38, 47                                                     10/12/2010
+  6083                                                                                   37, 38, 47                                                                10/12/2010
 
-  6099                                                                   36/A, Geçici Madde 11                                          19/1/2011
+  6099                                                                                   36/A, Geçici Madde 11                                                     19/1/2011
 
-  KHK/666                                                                3, Geçici Madde 9                                              31/12/2011 tarihinden geçerli olmak üzere 2/11/2011
+  KHK/666                                                                                3, Geçici Madde 9                                                         31/12/2011 tarihinden geçerli olmak üzere 2/11/2011
 
-  6302                                                                   13                                                             18/5/2012
+  6302                                                                                   13                                                                        18/5/2012
 
-  6352                                                                   33/A                                                           5/7/2012
-  ---------------------------------------------------------------------- -------------------------------------------------------------- -----------------------------------------------------
+  6352                                                                                   33/A                                                                      5/7/2012
+
+  6495                                                                                   Ek Madde 5                                                                2/8/2013
+
+  Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı   3, Geçici Madde 9                                                         10/10/2013
+  -------------------------------------------------------------------------------------- ------------------------------------------------------------------------- -----------------------------------------------------
 
 
