@@ -1,4 +1,4 @@
-**6094 sayılı Kanun ile değişik hali**
+**6111 sayılı Kanun ile değişik hali**
 
 **YENİLENEBİLİR ENERJİ KAYNAKLARININ ELEKTRİK ENERJİSİ ÜRETİMİ AMAÇLI
 KULLANIMINA İLİŞKİN KANUN**
@@ -486,15 +486,25 @@ sözleşmelerinde ABD Doları cinsinden yer alan DSİ enerji katılım
 payları, sözleşmede yer aldığı miktarda ödeme tarihindeki Merkez Bankası
 döviz kuru üzerinden her işletme yılının sonunda DSİ'ye ödenir.
 
-4628 sayılı Kanun kapsamında kurulmuş veya kurulacak olan hidroelektrik
-santrallar için belirlenecek ve Devlet Su İşleri Genel Müdürlüğüne
+**(Değişik birinci cümle: 13/2/2011-6111/128 md.)** 4628 sayılı Kanun
+kapsamında kurulmuş ve kurulacak olan hidroelektrik santrallar için
+imzalanan su kullanım hakkı anlaşması hükümleri çerçevesinde DSİ’ye
 ödenecek olan enerji hissesi katılım payının hesabında esas alınacak
-ortak tesis bedeli, TEFE ile su kullanım anlaşmasının yapıldığı tarihe
-getirilmiş olan ihaleye esas ilk keşif bedelinin % 30’undan fazlasını
-geçemez. Proje ile ilgili kamulaştırmalar için yapılmış ve yapılacak
-olan ödemelerin TEFE ile su kullanım anlaşması tarihine getirilmiş
-bedelinin enerji hissesine düşen miktarının tamamı şirket tarafından
-ödenir.
+tesis bedeli, tek veya çok maksatlı tesislerde tesisin ihaleye esas ilk
+keşfi;
+
+a\) Enerji tesisini ihtiva ediyorsa, tesisin DSİ tarafından yapılan
+kısmın ilk keşif bedeli,
+
+b\) Enerji tesisini ihtiva etmiyorsa, ortak tesise ait ilk keşif bedeli,
+
+TEFE/ÜFE ile su kullanım anlaşmasının yapıldığı tarihe getirilmiş olan
+bedelin % 30’undan fazlasını geçemez ve (b) bendi kapsamına giren
+tesislerde, DSİ tarafından enerji tesisine harcanan miktar var ise
+TEFE/ÜFE ile hesaplanarak ayrıca enerji hissesi katılım payına ilave
+edilir. Proje ile ilgili kamulaştırmalar için yapılmış ve yapılacak olan
+ödemelerin TEFE ile su kullanım anlaşması tarihine getirilmiş bedelinin
+enerji hissesine düşen miktarının tamamı şirket tarafından ödenir.
 
 **GEÇİCİ MADDE 5 –** **(Ek: 29/12/2012-6094/7 md.)**
 
@@ -582,6 +592,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6094                                                                         3, 4, 6, 6/A, 6/B, 6/C, 8, 10, GEÇİCİ MADDE 5,                8/1/2011
                                                                                                                                              
                                                                                \(I) ve (II) sayılı cetvel                                    
+
+  6111                                                                         GEÇİCİ MADDE 4                                                25/2/2011
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
