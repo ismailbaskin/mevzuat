@@ -1,14 +1,18 @@
-**6475 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’NİN 27/9/2012 tarihli ve **
+
+**E:2012/20, K:2012/132 sayılı Kararı ile değişik hali**
 
 **KAMU İHALE KANUNU**
 
-**Kanun Numarası : 4734**
+** **
 
-**Kabul Tarihi : 4/1/2002**
+**Kanun Numarası               : 4734**
 
-**Yayımlandığı R.Gazete : Tarih: 22/1/2002 Sayı: 24648**
+**Kabul Tarihi  : 4/1/2002**
 
-**Yayımlandığı Düstur : Tertip: 5, Cilt: 42 **
+**Yayımlandığı R.Gazete  : Tarih: 22/1/2002    Sayı: 24648**
+
+**Yayımlandığı Düstur         : Tertip: 5,  Cilt: 42**
 
   ** **
 
@@ -20,42 +24,45 @@ BİRİNCİ BÖLÜM
 
 *Uygulama İlkeleri*
 
-*Amaç*
+* *
 
-**Madde 1-** Bu Kanunun amacı, kamu hukukuna tâbi olan veya kamunun
-denetimi altında bulunan veyahut kamu kaynağı kullanan kamu kurum ve
-kuruluşlarının yapacakları ihalelerde uygulanacak esas ve usulleri
-belirlemektir.
+*            Amaç*
 
-*Kapsam*
+**            Madde 1-** Bu Kanunun amacı, kamu hukukuna tâbi olan veya
+kamunun denetimi altında bulunan veyahut kamu kaynağı kullanan kamu
+kurum ve kuruluşlarının yapacakları ihalelerde uygulanacak esas ve
+usulleri belirlemektir.
 
-**Madde 2-** Aşağıda belirtilen idarelerin kullanımında bulunan her
-türlü kaynaktan karşılanan mal veya hizmet alımları ile yapım işlerinin
-ihaleleri bu Kanun hükümlerine göre yürütülür:
+*            Kapsam*
 
-a\) **(Değişik: 1/6/2007-5680/1 md.)** Genel bütçe kapsamındaki kamu
-idareleri ile özel bütçeli idareler, il özel idareleri ve belediyeler
-ile bunlara bağlı; döner sermayeli kuruluşlar, birlikler (meslekî
-kuruluş şeklinde faaliyet gösterenler ile bunların üst kuruluşları
-hariç), tüzel kişiler.
+**            Madde 2-** Aşağıda belirtilen idarelerin kullanımında
+bulunan her türlü kaynaktan karşılanan mal veya hizmet alımları ile
+yapım işlerinin ihaleleri bu Kanun hükümlerine göre yürütülür:
 
-b\) **(Değişik: 30/7/2003-4964/1 md.)** Kamu iktisadi kuruluşları ile
-iktisadi devlet teşekküllerinden oluşan kamu iktisadi teşebbüsleri.
+            a) **(Değişik: 1/6/2007-5680/1 md.)** Genel bütçe
+kapsamındaki kamu idareleri ile özel bütçeli idareler, il özel idareleri
+ve belediyeler ile bunlara bağlı; döner sermayeli kuruluşlar, birlikler
+(meslekî kuruluş şeklinde faaliyet gösterenler ile bunların üst
+kuruluşları hariç), tüzel kişiler.
 
-c\) **(Değişik: 30/7/2003-4964/1 md.)** Sosyal güvenlik kuruluşları,
-fonlar, özel kanunlarla kurulmuş ve kendilerine kamu görevi verilmiş
-tüzel kişiliğe sahip kuruluşlar (meslekî kuruluşlar ve vakıf yüksek
-öğretim kurumları hariç) ile bağımsız bütçeli kuruluşlar.
+            b) **(Değişik: 30/7/2003-4964/1 md.)** Kamu iktisadi
+kuruluşları ile iktisadi devlet teşekküllerinden oluşan kamu iktisadi
+teşebbüsleri.
 
-d\) **(Değişik: 12/6/2002-4761/10 md.)** (a), (b) ve (c) bentlerinde
-belirtilenlerin doğrudan veya dolaylı olarak birlikte ya da ayrı ayrı
-sermayesinin yarısından fazlasına sahip bulundukları her çeşit kuruluş,
-müessese, birlik, işletme ve şirketler.
+            c) **(Değişik: 30/7/2003-4964/1 md.)** Sosyal güvenlik
+kuruluşları, fonlar, özel kanunlarla kurulmuş ve kendilerine kamu görevi
+verilmiş tüzel kişiliğe sahip kuruluşlar (meslekî kuruluşlar ve vakıf
+yüksek öğretim kurumları hariç) ile bağımsız bütçeli kuruluşlar.
 
-e\) **(Değişik:13/2/2011-6111/176 md.)** 4603 sayılı Kanun kapsamındaki
-bankalar ile bu bankaların doğrudan veya dolaylı olarak birlikte ya da
-ayrı ayrı sermayesinin yarısından fazlasına sahip bulundukları
-şirketlerin yapım ihaleleri.
+            d) **(Değişik: 12/6/2002-4761/10 md.)** (a), (b) ve (c)
+bentlerinde belirtilenlerin doğrudan veya dolaylı olarak birlikte ya da
+ayrı ayrı sermayesinin yarısından fazlasına sahip bulundukları her çeşit
+kuruluş, müessese, birlik, işletme ve şirketler.
+
+     e) **(Değişik:13/2/2011-6111/176 md.)** 4603 sayılı Kanun
+kapsamındaki bankalar ile bu bankaların doğrudan veya dolaylı olarak
+birlikte ya da ayrı ayrı sermayesinin yarısından fazlasına sahip
+bulundukları şirketlerin yapım ihaleleri.
 
 **(Değişik ikinci fıkra: 13/2/2011-6111/176 md.)** Ancak, Tasarruf
 Mevduatı Sigorta Fonu ve bu Fonun hisselerine kısmen ya da tamamen sahip
@@ -68,28 +75,33 @@ gayrimenkul yatırım ortaklıkları ile enerji, su, ulaştırma ve
 telekomünikasyon sektörlerinde faaliyet gösteren teşebbüs, işletme ve
 şirketler bu Kanun kapsamı dışındadır.
 
-*İstisnalar*
+*    İstisnalar*
 
-**Madde 3-** **(Değişik: 30/7/2003-4964/2 md.) **
+**            Madde 3-(Değişik: 30/7/2003-4964/2 md.) **
 
-a\) Kanun kapsamına giren kuruluşlarca, kuruluş amacı veya mevzuatı
-gereği işlemek, değerlendirmek, iyileştirmek veya satmak üzere doğrudan
-üreticilerden veya ortaklarından yapılan tarım veya hayvancılıkla ilgili
-ürün alımları ile 6831 sayılı Orman Kanunu gereğince orman köyleri
-kalkındırma kooperatiflerinden ve köylülerden yapılacak hizmet alımları,
+            a) Kanun kapsamına giren kuruluşlarca, kuruluş amacı veya
+mevzuatı gereği işlemek, değerlendirmek, iyileştirmek veya satmak üzere
+doğrudan üreticilerden veya ortaklarından yapılan tarım veya
+hayvancılıkla ilgili ürün alımları ile 6831 sayılı Orman Kanunu
+gereğince orman köyleri kalkındırma kooperatiflerinden ve köylülerden
+yapılacak hizmet alımları,
+
+ 
 
 8228
 
-b\) **(Değişik: 20/11/2008-5812/1 md.)** Savunma, güvenlik veya
-istihbarat alanları ile ilişkili olduğuna veya gizlilik içinde
+ 
+
+            b) **(Değişik: 20/11/2008-5812/1 md.)** Savunma, güvenlik
+veya istihbarat alanları ile ilişkili olduğuna veya gizlilik içinde
 yürütülmesi gerektiğine ilgili bakanlık tarafından karar verilen veya
 mevzuatı uyarınca sözleşmenin yürütülmesi sırasında özel güvenlik
 tedbirleri alınması gereken veya devlet güvenliğine ilişkin temel
 menfaatlerin korunmasını gerektiren hallerle ilgili olan mal ve hizmet
 alımları ile yapım işleri,
 
-c\) Uluslararası anlaşmalar gereğince sağlanan dış finansman ile
-yaptırılacak olan ve finansman anlaşmasında farklı ihale usul ve
+            c) Uluslararası anlaşmalar gereğince sağlanan dış finansman
+ile yaptırılacak olan ve finansman anlaşmasında farklı ihale usul ve
 esaslarının uygulanacağı belirtilen mal veya hizmet alımları ile yapım
 işleri; uluslararası sermaye piyasalarından yapılacak borçlanmalara
 ilişkin her türlü danışmanlık ve kredi derecelendirme hizmetleri;
@@ -100,35 +112,36 @@ sayılı Kanun çerçevesinde yapılacak her türlü danışmanlık hizmet
 alımları; hava taşımacılığı yapan teşebbüs, işletme ve şirketlerin
 ticari faaliyetlerine ilişkin mal ve hizmet alımları,
 
-d\) İdarelerin yabancı ülkelerdeki kuruluşlarının mal veya hizmet
-alımları ile yapım işleri; yurt dışında bulunan nakil vasıtalarının o
-yerden sağlanması zorunlu mal veya hizmet alımları,
+            d) İdarelerin yabancı ülkelerdeki kuruluşlarının mal veya
+hizmet alımları ile yapım işleri; yurt dışında bulunan nakil
+vasıtalarının o yerden sağlanması zorunlu mal veya hizmet alımları,
 
-e\) Bu Kanun kapsamına giren kuruluşların; Adalet Bakanlığına bağlı ceza
-infaz kurumları, tutukevleri işyurtları kurumları, Sosyal Hizmetler ve
-Çocuk Esirgeme Kurumuna bağlı huzurevleri ve yetiştirme yurtları, Millî
-Eğitim Bakanlığına bağlı üretim yapan okullar ve merkezler, Tarım ve
-Köyişleri Bakanlığına bağlı enstitü ve üretme istasyonları ile
-Başbakanlık Basımevi İşletmesi tarafından bizzat üretilen mal ve
-hizmetler için anılan kuruluşlardan, Devlet Malzeme Ofisi Ana Statüsünde
-yer alan mal ve hizmetler için Devlet Malzeme Ofisi Genel Müdürlüğünden,
-yük, yolcu veya liman hizmetleri için Türkiye Cumhuriyeti Devlet
-Demiryolları İşletmesi Genel Müdürlüğünden, akaryakıt ve taşıt için
-Tasfiye İşleri Döner Sermaye İşletmeleri Genel Müdürlüğünden yapacakları
-alımlar ile araştırma-geliştirme faaliyetleri kapsamında Türkiye
-Bilimsel ve Teknolojik Araştırma Kurumundan yapacakları mal, hizmet ve
-danışmanlık hizmet alımları, et ve et ürünleri için Et ve Balık Kurumu
-Genel Müdürlüğünden, ray üstünde çeken ve çekilen araçlarda kullanılan
-monoblok tekerlek ve tekerlek takımları için Makine ve Kimya Endüstrisi
-Kurumu Genel Müdürlüğünden yapacakları alımlar, ^(1)^
+            e) Bu Kanun kapsamına giren kuruluşların; Adalet Bakanlığına
+bağlı ceza infaz kurumları, tutukevleri işyurtları kurumları, Sosyal
+Hizmetler ve Çocuk Esirgeme Kurumuna bağlı huzurevleri ve yetiştirme
+yurtları, Millî Eğitim Bakanlığına bağlı üretim yapan okullar ve
+merkezler, Tarım  ve  Köyişleri  Bakanlığına  bağlı  enstitü ve üretme
+istasyonları ile Başbakanlık Basımevi İşletmesi tarafından bizzat
+üretilen mal ve hizmetler için anılan kuruluşlardan, Devlet Malzeme
+Ofisi Ana Statüsünde yer alan mal ve hizmetler için Devlet Malzeme Ofisi
+Genel Müdürlüğünden, yük, yolcu veya liman hizmetleri için Türkiye
+Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünden, akaryakıt
+ve taşıt için Tasfiye İşleri Döner Sermaye İşletmeleri Genel
+Müdürlüğünden yapacakları alımlar ile araştırma-geliştirme faaliyetleri
+kapsamında Türkiye Bilimsel ve Teknolojik Araştırma Kurumundan
+yapacakları mal, hizmet ve danışmanlık hizmet alımları, et ve et
+ürünleri için Et ve Balık Kurumu Genel Müdürlüğünden, ray üstünde çeken
+ve çekilen araçlarda kullanılan monoblok tekerlek ve tekerlek takımları
+için Makine ve Kimya Endüstrisi Kurumu Genel Müdürlüğünden yapacakları
+alımlar, ^(1)^
 
-f\) **(Değişik: 20/11/2008-5812/1 md.)** Ulusal araştırma-geliştirme
-kurumlarının yürüttüğü ve desteklediği araştırma-geliştirme projeleri
-için gerekli olan mal ve hizmet alımları ile finansmanının tamamı Kanun
-kapsamındaki bir idare tarafından karşılanarak elde edilen sonuçların bu
-idare tarafından sadece kendi faaliyetlerinin yürütülmesinde
-faydalanıldığı haller hariç, her türlü araştırma ve geliştirme hizmeti
-alımları,
+            f) **(Değişik: 20/11/2008-5812/1 md.)** Ulusal
+araştırma-geliştirme kurumlarının yürüttüğü ve desteklediği
+araştırma-geliştirme projeleri için gerekli olan mal ve hizmet alımları
+ile finansmanının tamamı Kanun kapsamındaki bir idare tarafından
+karşılanarak elde edilen sonuçların bu idare tarafından sadece kendi
+faaliyetlerinin yürütülmesinde faydalanıldığı haller hariç, her türlü
+araştırma ve geliştirme hizmeti alımları,
 
 ––––––––––––
 
@@ -185,10 +198,10 @@ m\) **(Ek: 9/7/2008-5784/28 md.)** Boru Hatları ile Petrol Taşıma A.Ş.
 (BOTAŞ) tarafından ithalat yoluyla yapılacak spot sıvılaştırılmış doğal
 gaz (LNG) alımları,
 
-n\) **(Ek: 20/11/2008-5812/1 md.)** Uluslararası mükellefiyetlerden doğan
-veya ulusal amaçlı; savunma, güvenlik, insani yardım gibi durumlarda
-ortaya çıkabilecek acil ihtiyaçların, süratli ve etkin bir biçimde
-temini amacıyla, önceden güvenceler alınmasına olanak sağlayan
+n\) **(Ek: 20/11/2008-5812/1 md.;)** Uluslararası mükellefiyetlerden
+doğan veya ulusal amaçlı; savunma, güvenlik, insani yardım gibi
+durumlarda ortaya çıkabilecek acil ihtiyaçların, süratli ve etkin bir
+biçimde temini amacıyla, önceden güvenceler alınmasına olanak sağlayan
 anlaşmalar veya sözleşmeler yapmak suretiyle mal ve hizmet alımları,
 
 *––––––––––––*
@@ -227,12 +240,12 @@ kim olursa olsun, Türkiye Kömür İşletmeleri Kurumu Genel Müdürlüğünün
 kendisine veya bağlı ortaklık veya iştiraklerine ait olan kömür
 sahalarından yapacağı mal ve hizmet alımları,
 
-s\) **(Ek: 31/3/2012-6288/5 md.; Değişik: 24/4/2013-6461/10 md.)**
-Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğü ile
-Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketinin,
-Türkiye Demiryolu Makinaları Sanayii Anonim Şirketi, Türkiye Lokomotif
-ve Motor Sanayii Anonim Şirketi ve Türkiye Vagon Sanayii Anonim
-Şirketinden yapacağı mal veya hizmet alımları,
+s\) **(Ek: 31/3/2012-6288/5 md.; Değişik; 1/5/2013-6461/10 md.)** Türkiye
+Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğü ile Türkiye
+Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketinin, Türkiye
+Demiryolu Makinaları Sanayii Anonim Şirketi, Türkiye Lokomotif ve Motor
+Sanayii Anonim Şirketi ve Türkiye Vagon Sanayii Anonim Şirketinden
+yapacağı mal veya hizmet alımları,
 
 t\) **(Ek: 4/7/2012-6353/27 md.)** Ölçme, Seçme ve Yerleştirme Merkezi
 Başkanlığının kurduğu veya iştirak ettiği şirketten (ÖSYM’nin yapacağı
@@ -258,19 +271,6 @@ sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım
 hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve
 benzeri diğer hizmetleri, ^(1)^
 
-*––––––––––––*
-
-*(1) 22/2/2007 tarihli ve 5583 sayılı Kanunun 9 uncu maddesi ile eklenen
-“(k)” bendi, 13/2/2011 tarihli ve 6111 sayılı Kanunun 177nci maddesi ile
-“(p)” bendi olarak teselsül ettirilmiştir.*
-
-*(2) 20/11/2008 tarihli ve 5812 sayılı Kanunun 2 nci maddesiyle; bu
-tanımda yer alan “mimarlık ve mühendislik, etüt ve proje, harita ve
-kadastro, imar uygulama, her ölçekte imar planı” ibareleri metinden
-çıkarılmıştır.*
-
-8228-3
-
 Yapım : Bina, karayolu, demiryolu, otoyol, havalimanı, rıhtım, liman,
 tersane, köprü, tünel, metro, viyadük, spor tesisi, alt yapı, boru
 iletim hattı, haberleşme ve enerji nakil hattı, baraj, enerji santrali,
@@ -285,6 +285,19 @@ veya bunların oluşturdukları ortak girişimleri,
 
 Hizmet sunucusu : Hizmet alımı ihalesine teklif veren gerçek veya tüzel
 kişileri veya bunların oluşturdukları ortak girişimleri,
+
+*––––––––––––*
+
+*(1) 22/2/2007 tarihli ve 5583 sayılı Kanunun 9 uncu maddesi ile eklenen
+“(k)” bendi, 13/2/2011 tarihli ve 6111 sayılı Kanunun 177nci maddesi ile
+“(p)” bendi olarak teselsül ettirilmiştir.*
+
+*(2) 20/11/2008 tarihli ve 5812 sayılı Kanunun 2 nci maddesiyle; bu
+tanımda yer alan “mimarlık ve mühendislik, etüt ve proje, harita ve
+kadastro, imar uygulama, her ölçekte imar planı” ibareleri metinden
+çıkarılmıştır.*
+
+8228-3
 
 Danışman : Danışmanlık yapan, bilgi ve deneyimini idarenin yararı için
 kullanan, danışmanlığını yaptığı işin yüklenicileri ile hiçbir organik
@@ -307,68 +320,78 @@ veren tedarikçi, hizmet sunucusu veya yapım müteahhidini,
 
 İstekli olabilecek: **(Ek: 20/11/2008-5812/2 md.)** İhale konusu alanda
 faaliyet gösteren ve ihale veya ön yeterlik dokümanı satın almış gerçek
-veya tüzel kişiyi ya da bunların oluşturdukları ortak girişimi,
+veya tüzel kişiyi ya da bunların oluşturdukları ortak girişimi, 
 
-8228-4
+ 
+
+ 
 
 8229
+
+ 
 
 Yerli istekli: **(Değişik: 30/7/2003-4964/3 md.)** Türkiye Cumhuriyeti
 vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre
 kurulmuş tüzel kişilikleri,
 
-Yüklenici : Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
+            Yüklenici : Üzerine ihale yapılan ve sözleşme imzalanan
+istekliyi,
 
-İdare : İhaleyi yapan bu Kanun kapsamındaki kurum ve kuruluşları,
+            İdare : İhaleyi yapan bu Kanun kapsamındaki kurum ve
+kuruluşları,
 
-İhale yetkilisi: **(Değişik: 30/7/2003-4964/3 md.)** İdarenin, ihale ve
-harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile
-usulüne uygun olarak yetki devri yapılmış görevlilerini,
+            İhale yetkilisi: **(Değişik: 30/7/2003-4964/3 md.)**
+İdarenin, ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya
+kurulları ile usulüne uygun olarak yetki devri yapılmış görevlilerini,
 
-Başvuru belgesi : Belli istekliler arasında ihale usulünde ön yeterliğe
-katılan aday tarafından yeterliğinin tespitinde kullanılmak üzere
-sunulan belgeleri,
+            Başvuru belgesi : Belli istekliler arasında ihale usulünde
+ön yeterliğe katılan aday tarafından  yeterliğinin tespitinde
+kullanılmak üzere sunulan belgeleri,
 
-İhale dokümanı : İhale konusu mal veya hizmet alımları ile yapım
-işlerinde; isteklilere talimatları da içeren idari şartnameler ile
+            İhale dokümanı : İhale konusu mal veya hizmet alımları ile
+yapım işlerinde; isteklilere talimatları da içeren idari şartnameler ile
 yaptırılacak işin projesini de kapsayan teknik şartnameler, sözleşme
 tasarısı ve gerekli diğer belge ve bilgileri,
 
-Ön proje : Belli bir yapının kesin ihtiyaç programına göre; gerekli
-arazi ve zemin araştırmaları yapılmadan, bilgilerin halihazır
+            Ön proje : Belli bir yapının kesin ihtiyaç programına göre;
+gerekli arazi ve zemin araştırmaları yapılmadan, bilgilerin halihazır
 haritalardan alındığı, çevresel etki değerlendirme ve fizibilite
 raporları dahil elde edilen verilere dayanılarak hazırlanan plân, kesit,
 görünüş ve profillerin belirtildiği bir veya birkaç çözümü içeren
 projeyi,
 
-Kesin proje : Belli bir yapının onaylanmış ön projesine göre; mümkün
-olan arazi ve zemin araştırmaları yapılmış olan, yapı elemanlarının
-ölçülendirilip boyutlandırıldığı, inşaat sistem ve gereçleri ile teknik
-özelliklerinin belirtildiği projeyi,
+            Kesin proje : Belli bir yapının onaylanmış ön projesine
+göre; mümkün olan arazi ve zemin araştırmaları yapılmış olan, yapı
+elemanlarının ölçülendirilip boyutlandırıldığı, inşaat sistem ve
+gereçleri ile teknik özelliklerinin  belirtildiği projeyi,
 
-Uygulama projesi : Belli bir yapının onaylanmış kesin projesine göre
-yapının her türlü ayrıntısının belirtildiği projeyi,
+            Uygulama projesi : Belli bir yapının onaylanmış kesin
+projesine göre yapının her türlü ayrıntısının belirtildiği projeyi,
 
-(…)^(1)^
+            (…)^(1)^
 
-İhale : Bu Kanunda yazılı usul ve şartlarla mal veya hizmet alımları ile
-yapım işlerinin istekliler arasından seçilecek birisi üzerine
-bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip
+            İhale : Bu Kanunda yazılı usul ve şartlarla mal veya hizmet
+alımları ile yapım işlerinin istekliler arasından seçilecek birisi
+üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip
 sözleşmenin imzalanması ile tamamlanan işlemleri,
 
-Teklif: Bu Kanuna göre yapılacak ihalelerde isteklinin idareye sunduğu
-fiyat teklifi ile değerlendirmeye esas belge ve/veya bilgileri,
+            Teklif: Bu Kanuna göre yapılacak ihalelerde isteklinin
+idareye sunduğu fiyat teklifi ile değerlendirmeye esas belge ve/veya
+bilgileri,
 
-Açık ihale usulü: Bütün isteklilerin teklif verebildiği usulü,
-
-Belli istekliler arasında ihale usulü: Ön yeterlik değerlendirmesi
-sonucunda idare tarafından davet edilen isteklilerin teklif verebildiği
+            Açık ihale usulü: Bütün isteklilerin teklif verebildiği
 usulü,
 
-Pazarlık usulü: Bu Kanunda belirtilen hallerde kullanılabilen, ihale
-sürecinin iki aşamalı olarak gerçekleştirildiği ve idarenin ihale konusu
-işin teknik detayları ile gerçekleştirme yöntemlerini ve belli hallerde
-fiyatı isteklilerle görüştüğü usulü,
+            Belli istekliler arasında ihale usulü: Ön yeterlik
+değerlendirmesi sonucunda idare tarafından davet edilen isteklilerin
+teklif verebildiği usulü,
+
+            Pazarlık usulü: Bu Kanunda belirtilen hallerde
+kullanılabilen, ihale sürecinin iki aşamalı olarak gerçekleştirildiği ve
+idarenin ihale konusu işin teknik detayları ile gerçekleştirme
+yöntemlerini ve belli hallerde fiyatı isteklilerle görüştüğü usulü,
+
+           
 
 *––––––––––––*
 
@@ -376,73 +399,78 @@ fiyatı isteklilerle görüştüğü usulü,
 “Restitüsyon Projesi” tanımları, 14/7/2004 tarihli ve 5226 sayılı
 Kanunun 22 nci maddesiyle madde metninden çıkartılmıştır.*
 
+ 
+
 8230
 
 Doğrudan temin: Bu Kanunda belirtilen hallerde ihtiyaçların, idare
 tarafından davet edilen isteklilerle teknik şartların ve fiyatın
 görüşülerek doğrudan temin edilebildiği usulü,
 
-Sözleşme: Mal veya hizmet alımları ile yapım işlerinde idare ile
-yüklenici arasında yapılan yazılı anlaşmayı,
+            Sözleşme: Mal veya hizmet alımları ile yapım işlerinde idare
+ile yüklenici arasında yapılan yazılı  anlaşmayı,
 
-Kurum: Kamu İhale Kurumunu,
+            Kurum: Kamu İhale Kurumunu,
 
-Kurul : Kamu İhale Kurulunu,
+            Kurul : Kamu İhale Kurulunu,
 
-Ön ilan: **(Ek: 20/11/2008-5812/2 md.)** Yıl içerisinde ihale edilmesi
-planlanmış işlere ilişkin olarak, mali yılın başlangıcını izleyen mümkün
-olan en kısa sürede yapılan duyuruyu,
+            Ön ilan: **(Ek: 20/11/2008-5812/2 md.)** Yıl içerisinde
+ihale edilmesi planlanmış işlere ilişkin olarak, mali yılın başlangıcını
+izleyen mümkün olan en kısa sürede yapılan duyuruyu,
 
-Elektronik Kamu Alımları Platformu: **(Ek: 20/11/2008-5812/2 md.)**
-İdareler ile kamu alımları sürecine taraf olanların bu sürece ilişkin
-işlemleri internet üzerinden gerçekleştirebilecekleri ve Kurum
-tarafından yönetilen elektronik ortamı,
+             Elektronik Kamu Alımları Platformu: **(Ek:
+20/11/2008-5812/2 md.)** İdareler ile kamu alımları sürecine taraf
+olanların bu sürece ilişkin işlemleri internet üzerinden
+gerçekleştirebilecekleri ve Kurum tarafından yönetilen elektronik
+ortamı,
 
-Dinamik alım sistemi: **(Ek: 20/11/2008-5812/2 md.)** İhale dokümanına
-uygun ön teklif veren ve sistemin geçerlik süresi içerisinde yeterlik
-kriterlerini sağlayan bütün isteklilerin sisteme kabul edildiği,
-piyasada mamul olarak bulunan malların tedarikine yönelik tamamen
-elektronik ortamda gerçekleştirilen alım sürecini,
+             Dinamik alım sistemi: **(Ek: 20/11/2008-5812/2 md.)** İhale
+dokümanına uygun ön teklif veren ve sistemin geçerlik süresi içerisinde
+yeterlik kriterlerini sağlayan bütün isteklilerin sisteme kabul
+edildiği, piyasada mamul olarak bulunan malların tedarikine yönelik
+tamamen elektronik ortamda gerçekleştirilen alım sürecini,
 
-Elektronik eksiltme: **(Ek: 20/11/2008-5812/2 md.)** Tekliflerin
-değerlendirilmesinin ardından elektronik ortamda eksiltme şeklinde
-sunulan yeni fiyatların veya belirli teklif unsurlarına ilişkin yeni
-değerlerin bir elektronik araç marifetiyle otomatik değerlendirme
+             Elektronik eksiltme: **(Ek: 20/11/2008-5812/2 md.)**
+Tekliflerin değerlendirilmesinin ardından elektronik ortamda eksiltme
+şeklinde sunulan yeni fiyatların veya belirli teklif unsurlarına ilişkin
+yeni değerlerin bir elektronik araç marifetiyle otomatik değerlendirme
 metotları kullanılarak yeniden değerlendirilmesi ve sıralandırılması
 şeklinde tekrar eden işlemleri,
 
-Çerçeve anlaşma: **(Ek: 20/11/2008-5812/2 md.)** Bir veya birden fazla
-idare ile bir veya birden fazla istekli arasında, belirli bir zaman
-aralığında gerçekleştirilecek alımların özellikle fiyat ve mümkün olan
-hallerde öngörülen miktarlarının tespitine ilişkin şartları belirleyen
-anlaşmayı,
+             Çerçeve anlaşma: **(Ek: 20/11/2008-5812/2 md.)** Bir veya
+birden fazla idare ile bir veya birden fazla istekli arasında, belirli
+bir zaman aralığında gerçekleştirilecek alımların özellikle fiyat ve
+mümkün olan hallerde öngörülen miktarlarının tespitine ilişkin şartları
+belirleyen anlaşmayı,
 
-İfade eder.
+            İfade eder.
 
-*Temel ilkeler*
+*            Temel ilkeler*
 
-**Madde 5-** İdareler, bu Kanuna göre yapılacak ihalelerde; saydamlığı,
-rekabeti, eşit muameleyi, güvenirliği, gizliliği, kamuoyu denetimini,
-ihtiyaçların uygun şartlarla ve zamanında karşılanmasını ve kaynakların
-verimli kullanılmasını sağlamakla sorumludur.
+**            Madde 5-** İdareler, bu Kanuna göre yapılacak ihalelerde;
+saydamlığı, rekabeti, eşit muameleyi, güvenirliği, gizliliği, kamuoyu
+denetimini, ihtiyaçların uygun şartlarla ve zamanında karşılanmasını ve
+kaynakların verimli kullanılmasını sağlamakla sorumludur.
 
-Aralarında kabul edilebilir doğal bir bağlantı olmadığı sürece mal
-alımı, hizmet alımı ve yapım işleri birarada ihale edilemez.
+            Aralarında kabul edilebilir doğal bir bağlantı olmadığı
+sürece mal alımı, hizmet alımı ve yapım işleri birarada ihale edilemez.
 
-Eşik değerlerin altında kalmak amacıyla mal veya hizmet alımları ile
-yapım işleri kısımlara bölünemez.
+            Eşik değerlerin altında kalmak amacıyla mal veya hizmet
+alımları ile yapım işleri kısımlara bölünemez.
 
-Bu Kanuna göre yapılacak ihalelerde açık ihale usulü ve belli istekliler
-arasında ihale usulü temel usullerdir. Diğer ihale usulleri Kanunda
-belirtilen özel hallerde kullanılabilir.
+            Bu Kanuna göre yapılacak ihalelerde açık ihale usulü ve
+belli istekliler arasında ihale usulü temel usullerdir. Diğer ihale
+usulleri Kanunda belirtilen özel hallerde kullanılabilir.
 
-Ödeneği bulunmayan hiçbir iş için ihaleye çıkılamaz.
+            Ödeneği bulunmayan hiçbir iş için ihaleye çıkılamaz.
 
-**(Değişik altıncı fıkra: 30/7/2003-4964/4 md.)** İlgili mevzuatı
-gereğince Çevresel Etki Değerlendirme (ÇED) raporu gerekli olan işlerde
-ihaleye çıkılabilmesi için ÇED olumlu belgesinin alınmış olması
+**            (Değişik altıncı fıkra: 30/7/2003-4964/4 md.)** İlgili
+mevzuatı gereğince Çevresel Etki Değerlendirme (ÇED) raporu gerekli olan
+işlerde ihaleye çıkılabilmesi için ÇED olumlu belgesinin alınmış olması
 zorunludur. Ancak, doğal afetlere bağlı olarak acilen ihale edilecek
 yapım işlerinde ÇED raporu aranmaz.
+
+ 
 
 8231
 
@@ -525,144 +553,156 @@ tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve
 28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1
 No.’lu Kamu İhale Tebliğine bakınız.*
 
+* *
+
 8232
 
-*İhaleye katılımda yeterlik kuralları*
+ 
 
-**Madde 10 –** İhaleye katılacak isteklilerden, ekonomik ve malî
-yeterlik ile mesleki ve teknik yeterliklerinin belirlenmesine ilişkin
-olarak aşağıda belirtilen bilgi ve belgeler istenebilir:
+*            İhaleye katılımda yeterlik kuralları*
 
-a\) Ekonomik ve malî yeterliğin belirlenmesi için;
+**            Madde 10 –** İhaleye katılacak isteklilerden, ekonomik ve
+malî yeterlik ile mesleki ve teknik yeterliklerinin belirlenmesine
+ilişkin olarak aşağıda belirtilen bilgi ve belgeler istenebilir:
 
-1\) Bankalardan temin edilecek isteklinin malî durumu ile ilgili
-belgeler,
+            a) Ekonomik ve malî yeterliğin belirlenmesi için;
 
-2\) **(Değişik: 30/7/2003-4964/7 md.)** İsteklinin, ilgili mevzuatı
-uyarınca yayınlanması zorunlu olan bilançosu veya bilançosunun gerekli
-görülen bölümleri, yoksa bunlara eşdeğer belgeleri,
+            1) Bankalardan temin edilecek isteklinin malî durumu ile
+ilgili belgeler,
 
-3\) İsteklinin iş hacmini gösteren toplam cirosu veya ihale konusu iş ile
-ilgili taahhüdü altındaki ve bitirdiği iş miktarını gösteren belgeler.
+            2) **(Değişik: 30/7/2003-4964/7 md.)** İsteklinin, ilgili
+mevzuatı uyarınca yayınlanması zorunlu olan bilançosu veya bilançosunun
+gerekli görülen bölümleri, yoksa bunlara eşdeğer belgeleri,
 
-b\) Mesleki ve teknik yeterliğin belirlenmesi için;
+            3) İsteklinin iş hacmini gösteren toplam cirosu veya ihale
+konusu iş ile ilgili taahhüdü altındaki ve bitirdiği iş miktarını
+gösteren belgeler.  
 
-1\) İsteklinin, mevzuatı gereği ilgili odaya kayıtlı olarak faaliyette
-bulunduğunu ve teklif vermeye yasal olarak yetkili olduğunu kanıtlayan
-belgeler,
+            b) Mesleki ve teknik yeterliğin belirlenmesi için;
 
-2\) **(Değişik: 20/11/2008-5812/3 md.)** İstekli tarafından kamu veya
-özel sektöre bedel içeren bir sözleşme kapsamında taahhüt edilen ihale
-konusu iş veya benzer işlere ilişkin olarak;
+            1) İsteklinin, mevzuatı gereği ilgili odaya kayıtlı olarak
+faaliyette bulunduğunu ve teklif vermeye yasal olarak yetkili olduğunu
+kanıtlayan belgeler,
 
-a\) Son onbeş yıl içinde geçici kabulü yapılan yapım işleri ile kabul
-işlemleri tamamlanan yapımla ilgili hizmet işleriyle ilgili deneyimi
-gösteren belgeler,
+            2) **(Değişik: 20/11/2008-5812/3 md.)** İstekli tarafından
+kamu veya özel sektöre bedel içeren bir sözleşme kapsamında taahhüt
+edilen ihale konusu iş veya benzer işlere ilişkin olarak;
 
-          b) Son onbeş yıl içinde geçici kabulü yapılan yapım işleri ile
-kabul işlemleri tamamlanan yapımla ilgili hizmet işlerinde sözleşme
+            a) Son onbeş yıl içinde geçici kabulü yapılan yapım işleri
+ile kabul işlemleri tamamlanan yapımla ilgili hizmet işleriyle ilgili
+deneyimi gösteren belgeler,
+
+            b) Son onbeş yıl içinde geçici kabulü yapılan yapım işleri
+ile kabul işlemleri tamamlanan yapımla ilgili hizmet işlerinde sözleşme
 bedelinin en az % 80'i oranında denetlenen ya da yönetilen işlerle
 ilgili deneyimi gösteren belgeler,
 
-             c) Devam eden yapım ve yapımla ilgili hizmet işlerinde; ilk
+            c) Devam eden yapım ve yapımla ilgili hizmet işlerinde; ilk
 sözleşme bedelinin tamamlanması şartıyla, son onbeş yıl içinde
 gerçekleşme oranı toplam sözleşme bedelinin en az % 80'ine ulaşan ve
 kusursuz olarak gerçekleştirilen, denetlenen veya yönetilen işlerle
 ilgili deneyimi gösteren belgeler,
 
-             d) Son beş yıl içinde kabul işlemleri tamamlanan mal ve
+            d) Son beş yıl içinde kabul işlemleri tamamlanan mal ve
 hizmet alımlarına ilişkin deneyimi gösteren belgeler,
 
-             e) Devredilen işlerde sözleşme bedelinin en az % 80’inin
+            e) Devredilen işlerde sözleşme bedelinin en az % 80’inin
 tamamlanması şartıyla, son onbeş yıl içinde geçici kabulü yapılan yapım
 işleri ile kabul işlemleri tamamlanan yapımla ilgili hizmet işleri ve
 son beş yıl içinde kabul işlemleri tamamlanan mal ve hizmet alımlarıyla
 ilgili deneyimi gösteren belgeler.
 
-3\) İsteklinin üretim ve/veya imalat kapasitesine, araştırma-geliştirme
-faaliyetlerine ve kaliteyi sağlamasına yönelik belgeler,
-
-4\) İsteklinin organizasyon yapısına ve ihale konusu işi yerine getirmek
-için yeterli sayıda ve nitelikte personel çalıştırdığına veya
-çalıştıracağına ilişkin bilgi ve/veya belgeler,
-
-5\) İhale konusu hizmet veya yapım işlerinde isteklinin yönetici kadrosu
-ile işi yürütecek teknik personelinin eğitimi ve mesleki niteliklerini
-gösteren belgeler,
-
-6\) İhale konusu işin yerine getirilebilmesi için gerekli görülen tesis,
-makine, teçhizat ve diğer ekipmana ilişkin belgeler,
-
-7\) İstekliye doğrudan bağlı olsun veya olmasın, kalite kontrolden
-sorumlu olan ilgili teknik personel veya teknik kuruluşlara ilişkin
+            3) İsteklinin üretim ve/veya imalat kapasitesine,
+araştırma-geliştirme faaliyetlerine ve kaliteyi sağlamasına yönelik
 belgeler,
+
+            4) İsteklinin organizasyon yapısına ve ihale konusu işi
+yerine getirmek için yeterli sayıda ve nitelikte personel çalıştırdığına
+veya çalıştıracağına ilişkin bilgi ve/veya belgeler,
+
+            5) İhale konusu hizmet veya yapım işlerinde isteklinin
+yönetici kadrosu ile işi yürütecek teknik personelinin eğitimi ve
+mesleki niteliklerini gösteren belgeler,
+
+            6) İhale konusu işin yerine getirilebilmesi için gerekli
+görülen tesis, makine, teçhizat ve diğer ekipmana ilişkin belgeler,
+
+            7) İstekliye doğrudan bağlı olsun veya olmasın, kalite
+kontrolden sorumlu olan ilgili teknik personel veya teknik kuruluşlara
+ilişkin belgeler,
 
 8232-1
 
-8\) İhale konusu işin ihale dokümanında belirtilen standartlara
-uygunluğunu gösteren, uluslar arası kurallara uygun şekilde akredite
-edilmiş kalite kontrol kuruluşları tarafından verilen sertifikalar,
+ 
 
-9\) İdarenin talebi halinde doğruluğu teyit edilmek üzere, tedarik
-edilecek malların numuneleri, katalogları ve/veya fotoğrafları.
+            8) İhale konusu işin ihale dokümanında belirtilen
+standartlara uygunluğunu gösteren, uluslar arası kurallara uygun şekilde
+akredite edilmiş kalite kontrol kuruluşları tarafından verilen
+sertifikalar,
 
-İhale konusu işin niteliğine göre yukarıda belirtilen bilgi veya
-belgelerden hangilerinin yeterlik değerlendirmesinde kullanılacağı,
+            9) İdarenin talebi halinde doğruluğu teyit edilmek üzere,
+tedarik edilecek malların numuneleri, katalogları ve/veya fotoğrafları.
+
+            İhale konusu işin niteliğine göre yukarıda belirtilen bilgi
+veya belgelerden hangilerinin yeterlik değerlendirmesinde kullanılacağı,
 ihale dokümanında ve ihale veya ön yeterliğe ilişkin ilân veya davet
 belgelerinde belirtilir.
 
-**(Ek fıkra: 12/6/2002-4761/13 md.)** Birinci fıkranın (b) bendinin (2)
-numaralı alt bendinde belirtilen belgelerden, yapım ve yapımla ilgili
-hizmet işlerinde, denetleme veya yönetme görevi nedeniyle alınanlarda
-gerçek kişinin mühendis veya mimar olma şartı aranır. İş bitirme,
-yönetim veya denetim suretiyle elde edilecek belgeler, belge sahibi kişi
-veya kuruluşların dışındaki istekliler tarafından kullanılamaz, belgeler
-devredilemez, kiraya verilemez ve satılamaz. Bu belge sahiplerinin
-kuracakları veya ortak olacakları tüzel kişiliklerin ihaleye
-girebilmesinde en az bir yıldır tüzel kişiliğin yarısından fazla
+**            (Ek fıkra: 12/6/2002-4761/13 md.)** Birinci fıkranın (b)
+bendinin (2) numaralı alt bendinde belirtilen belgelerden, yapım ve
+yapımla ilgili hizmet işlerinde, denetleme veya yönetme görevi nedeniyle
+alınanlarda gerçek kişinin mühendis veya mimar olma şartı  aranır. İş
+bitirme, yönetim veya denetim suretiyle elde edilecek belgeler, belge
+sahibi kişi veya kuruluşların dışındaki istekliler tarafından
+kullanılamaz, belgeler devredilemez, kiraya verilemez ve satılamaz. Bu
+belge sahiplerinin kuracakları veya ortak olacakları tüzel kişiliklerin
+ihaleye girebilmesinde en az bir yıldır tüzel kişiliğin yarısından fazla
 hissesine sahip olmaları, her ihalede bu oranın aranması ve teminat
 süresince bu oranın muhafaza edilmesi zorunludur. **(Değişik son cümle:
-20/11/2008-5812/3 md.)** Denetim faaliyetleri nedeniyle alınacak
-belgeler ilk beş yıl en fazla beşte bir oranında, daha sonraki yıllarda
-gerçek kişiler ile tüzel kişilerin en az beş yıldır yarısından fazla
-hissesine sahip olan mühendis ve mimarların iş denetleme nedeniyle
-alacakları belgeler tam olarak, yönetim faaliyetleri nedeniyle alınacak
-belgeler en fazla beşte bir oranında dikkate alınır. ^(1)^
+20/11/2008-5812/3 md.)**Denetim faaliyetleri nedeniyle alınacak belgeler
+ilk beş yıl en fazla beşte bir oranında, daha sonraki yıllarda gerçek
+kişiler ile tüzel kişilerin en az beş yıldır yarısından fazla hissesine
+sahip olan mühendis ve mimarların iş denetleme nedeniyle alacakları
+belgeler tam olarak, yönetim faaliyetleri nedeniyle alınacak belgeler en
+fazla beşte bir oranında dikkate alınır.^(1)^
 
-Aşağıda belirtilen durumlardaki istekliler ihale dışı bırakılır:
+            Aşağıda belirtilen durumlardaki istekliler ihale dışı
+bırakılır:
 
-a\) İflas eden, tasfiye halinde olan, işleri mahkeme tarafından
-yürütülen, konkordato ilân eden, işlerini askıya alan veya kendi
-ülkesindeki mevzuat hükümlerine göre benzer bir durumda olan.
+            a) İflas eden, tasfiye halinde olan, işleri mahkeme
+tarafından yürütülen, konkordato ilân eden, işlerini askıya alan veya
+kendi ülkesindeki mevzuat hükümlerine göre benzer bir durumda olan.
 
-b\) İflası ilân edilen, zorunlu tasfiye kararı verilen, alacaklılara
-karşı borçlarından dolayı mahkeme idaresi altında bulunan veya kendi
-ülkesindeki mevzuat hükümlerine göre benzer bir durumda olan.
+            b) İflası ilân edilen, zorunlu tasfiye kararı verilen,
+alacaklılara karşı borçlarından dolayı mahkeme idaresi altında bulunan
+veya kendi ülkesindeki mevzuat hükümlerine göre benzer bir durumda olan.
 
-c\) Türkiye’nin veya kendi ülkesinin mevzuat hükümleri uyarınca
-kesinleşmiş sosyal güvenlik prim borcu olan.
+            c) Türkiye’nin veya kendi ülkesinin mevzuat hükümleri
+uyarınca kesinleşmiş sosyal güvenlik prim borcu olan.
 
-d\) Türkiye’nin veya kendi ülkesinin mevzuat hükümleri uyarınca
-kesinleşmiş vergi borcu olan.
+            d) Türkiye’nin veya kendi ülkesinin mevzuat hükümleri
+uyarınca kesinleşmiş vergi borcu olan.
 
-e\) İhale tarihinden önceki beş yıl içinde, mesleki faaliyetlerinden
-dolayı yargı kararıyla hüküm giyen.
+            e) İhale tarihinden önceki beş yıl içinde, mesleki
+faaliyetlerinden dolayı yargı kararıyla hüküm giyen.
 
-f\) İhale tarihinden önceki beş yıl içinde, ihaleyi yapan idareye yaptığı
-işler sırasında iş veya meslek ahlakına aykırı faaliyetlerde bulunduğu
-bu idare tarafından ispat edilen.
+            f) İhale tarihinden önceki beş yıl içinde, ihaleyi yapan
+idareye yaptığı işler sırasında iş veya meslek ahlakına aykırı
+faaliyetlerde bulunduğu bu idare tarafından ispat edilen.
 
-g\) İhale tarihi itibariyle, mevzuatı gereği kayıtlı olduğu oda
-tarafından mesleki faaliyetten men edilmiş olan.
+            g) İhale tarihi itibariyle, mevzuatı gereği kayıtlı olduğu
+oda tarafından mesleki faaliyetten men edilmiş olan.
 
-h\) Bu maddede belirtilen bilgi ve belgeleri vermeyen veya yanıltıcı
-bilgi ve/veya sahte belge verdiği tespit edilen.
+            h) Bu maddede belirtilen bilgi ve belgeleri vermeyen veya
+yanıltıcı bilgi ve/veya sahte belge verdiği tespit edilen.
 
-i\) 11 inci maddeye göre ihaleye katılamayacağı belirtildiği halde
-ihaleye katılan.
+            i) 11 inci maddeye göre ihaleye katılamayacağı belirtildiği
+halde ihaleye katılan.
 
-j\) 17 nci maddede belirtilen yasak fiil veya davranışlarda bulundukları
-tespit edilen.
+            j) 17 nci maddede belirtilen yasak fiil veya davranışlarda
+bulundukları tespit edilen.
+
+ 
 
 *––––––––––––––––––––––*
 
@@ -672,79 +712,83 @@ bir yıldır” ibaresi eklenmiş ve metne işlenmiştir.*
 
 8232-2
 
-**(Ek fıkra: 28/3/2007-5615/23 md.)** Kurum, dördüncü fıkranın; (c)
-bendi ile ilgili olarak Sosyal Güvenlik Kurumu Başkanlığının uygun
-görüşünü alarak sosyal güvenlik prim borcunun kapsamı ve tutarını; (d)
-bendi ile ilgili olarak, Gelir İdaresi Başkanlığının uygun görüşünü
-alarak vergi borcu kapsamına girecek vergileri; tür ve tutar itibariyle
-belirlemeye yetkilidir.
+ 
 
-**(Ek fıkra: 28/3/2007-5615/23 md.)** Bu madde kapsamında istenen
-belgelerden hangilerinin taahhütname olarak sunulabileceği Kurum
+             **(Ek fıkra: 28/3/2007-5615/23 md.)** Kurum, dördüncü
+fıkranın; (c) bendi ile ilgili olarak Sosyal Güvenlik Kurumu
+Başkanlığının uygun görüşünü alarak sosyal güvenlik prim borcunun
+kapsamı ve tutarını; (d) bendi ile ilgili olarak, Gelir İdaresi
+Başkanlığının uygun görüşünü alarak vergi borcu kapsamına girecek
+vergileri; tür ve tutar itibariyle belirlemeye yetkilidir.
+
+             **(Ek fıkra: 28/3/2007-5615/23 md.)** Bu madde kapsamında
+istenen belgelerden hangilerinin taahhütname olarak sunulabileceği Kurum
 tarafından belirlenir. Gerçeğe aykırı hususlar içeren taahhütname
 sunulması veya ihale üzerinde kalan istekli tarafından taahhüt altına
 alınan durumu tevsik eden belgelerin sözleşme imzalanmadan önce
 verilmemesi halinde bu durumda olanlar ihale dışı bırakılarak geçici
 teminatları gelir kaydedilir.
 
-*İhaleye katılamayacak olanlar*
+*            İhaleye katılamayacak olanlar*
 
-**Madde 11-** Aşağıda sayılanlar doğrudan veya dolaylı veya alt
-yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde
+**            Madde 11-** Aşağıda sayılanlar doğrudan veya dolaylı veya
+alt yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde
 ihalelere katılamazlar:
 
-a\) **(Değişik: 20/11/2008-5812/4 md.)** Bu Kanun ve diğer kanunlardaki
-hükümler gereğince geçici veya sürekli olarak idarelerce veya mahkeme
-kararıyla kamu ihalelerine katılmaktan yasaklanmış olanlar ile 12/4/1991
-tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan
-veya örgütlü suçlardan veyahut kendi ülkesinde ya da yabancı bir ülkede
-kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.
-^(1)^
+           a) **(Değişik: 20/11/2008-5812/4 md.)** Bu Kanun ve diğer
+kanunlardaki hükümler gereğince geçici veya sürekli olarak idarelerce
+veya mahkeme kararıyla kamu ihalelerine katılmaktan yasaklanmış olanlar
+ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına
+giren suçlardan veya örgütlü suçlardan veyahut kendi ülkesinde ya da
+yabancı bir ülkede kamu görevlilerine rüşvet verme suçundan dolayı
+hükümlü bulunanlar. ^(1)^
 
-b\) İlgili mercilerce hileli iflas ettiğine karar verilenler.
+            b) İlgili mercilerce hileli iflas ettiğine karar verilenler.
 
-c\) İhaleyi yapan idarenin ihale yetkilisi kişileri ile bu yetkiye sahip
-kurullarda görevli kişiler.
+            c) İhaleyi yapan idarenin ihale yetkilisi kişileri ile bu
+yetkiye sahip kurullarda görevli kişiler.
 
-d\) İhaleyi yapan idarenin ihale konusu işle ilgili her türlü ihale
-işlemlerini hazırlamak, yürütmek, sonuçlandırmak ve onaylamakla görevli
-olanlar.
+            d) İhaleyi yapan idarenin ihale konusu işle ilgili her türlü
+ihale işlemlerini hazırlamak, yürütmek, sonuçlandırmak ve onaylamakla
+görevli olanlar.
 
-e\) (c) ve (d) bentlerinde belirtilen şahısların eşleri ve üçüncü
-dereceye kadar kan ve ikinci dereceye kadar kayın hısımları ile
+            e) (c) ve (d) bentlerinde belirtilen şahısların eşleri ve
+üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın  hısımları ile
 evlatlıkları ve evlat edinenleri.
 
-f\) (c), (d) ve (e) bentlerinde belirtilenlerin ortakları ile şirketleri
-(bu kişilerin yönetim kurullarında görevli bulunmadıkları veya
-sermayesinin % 10’undan fazlasına sahip olmadıkları anonim şirketler
-hariç).
+            f) (c), (d) ve (e) bentlerinde belirtilenlerin ortakları ile
+şirketleri (bu kişilerin yönetim kurullarında görevli bulunmadıkları
+veya sermayesinin % 10’undan fazlasına sahip olmadıkları anonim
+şirketler hariç).
 
-İhale konusu işin danışmanlık hizmetlerini yapan yükleniciler bu işin
-ihalesine katılamazlar. Aynı şekilde, ihale konusu işin yüklenicileri de
-o işin danışmanlık hizmeti ihalelerine katılamazlar. Bu yasaklar,
-bunların ortaklık ve yönetim ilişkisi olan şirketleri ile bu şirketlerin
-sermayesinin yarısından fazlasına sahip oldukları şirketleri için de
-geçerlidir.
+            İhale konusu işin danışmanlık hizmetlerini yapan
+yükleniciler bu işin ihalesine katılamazlar. Aynı şekilde, ihale konusu
+işin yüklenicileri de o işin danışmanlık hizmeti ihalelerine
+katılamazlar. Bu yasaklar, bunların ortaklık ve yönetim ilişkisi olan
+şirketleri ile bu şirketlerin sermayesinin yarısından fazlasına sahip
+oldukları şirketleri için de geçerlidir.
 
-**(Değişik üçüncü fıkra: 30/7/2003-4964/8 md.)** İhaleyi yapan idare
-bünyesinde bulunan veya idare ile ilgili her ne amaçla kurulmuş olursa
-olsun vakıf, dernek, birlik, sandık gibi kuruluşlar ile bu kuruluşların
-ortak oldukları şirketler bu idarelerin ihalelerine katılamazlar.
+**            (Değişik üçüncü fıkra: 30/7/2003-4964/8 md.)** İhaleyi
+yapan idare bünyesinde bulunan veya idare ile ilgili her ne amaçla
+kurulmuş olursa olsun vakıf, dernek, birlik, sandık gibi kuruluşlar ile
+bu kuruluşların ortak oldukları şirketler bu idarelerin ihalelerine
+katılamazlar.
 
-Bu yasaklara rağmen ihaleye katılan istekliler ihale dışı bırakılarak
-geçici teminatları gelir kaydedilir. Ayrıca, bu durumun tekliflerin
-değerlendirmesi aşamasında tespit edilememesi nedeniyle bunlardan biri
-üzerine ihale yapılmışsa, teminatı gelir kaydedilerek ihale iptal
-edilir.
+            Bu yasaklara rağmen ihaleye katılan istekliler ihale dışı
+bırakılarak geçici teminatları gelir kaydedilir. Ayrıca, bu durumun
+tekliflerin değerlendirmesi aşamasında tespit edilememesi nedeniyle
+bunlardan biri üzerine ihale yapılmışsa, teminatı gelir kaydedilerek
+ihale iptal edilir. 
 
-*Şartnameler*
+*            Şartnameler*
 
-**Madde 12-** İhale konusu mal veya hizmet alımları ile yapım işlerinin
-her türlü özelliğini belirten idari ve teknik şartnamelerin idarelerce
-hazırlanması esastır. Ancak, mal veya hizmet alımları ile yapım
-işlerinin özelliği nedeniyle idarelerce hazırlanmasının mümkün
-olmadığının ihale yetkilisi tarafından onaylanması kaydıyla, teknik
-şartnameler bu Kanun hükümlerine göre hazırlattırılabilir.
+**            Madde 12-** İhale  konusu mal veya hizmet alımları ile
+yapım işlerinin her türlü özelliğini belirten idari ve teknik
+şartnamelerin idarelerce hazırlanması esastır. Ancak, mal veya hizmet
+alımları ile yapım işlerinin özelliği nedeniyle idarelerce
+hazırlanmasının mümkün olmadığının ihale yetkilisi tarafından
+onaylanması kaydıyla, teknik şartnameler bu Kanun hükümlerine göre
+hazırlattırılabilir.
 
 *––––––––––––––––––––––*
 
@@ -836,155 +880,165 @@ No.’lu Kamu İhale Tebliğine bakınız.*
 
 8234
 
-Yaklaşık maliyeti 8 inci maddede yer alan eşik değerlerin altında kalan
-belli istekliler arasında yapılacak ihalelerde ön yeterlik ilânlarının
-son başvuru tarihinden en az yedi gün önce (b) bendindeki süre hariç
-diğer usullere göre yapılması ve ön yeterlik değerlendirmesi sonucunda
-yeterliği belirlenen adaylara ihale gününden önce (b) bendindeki
-sürelere göre davet mektubu gönderilmesi zorunludur.
+ 
 
-**(Ek fıkra: 20/11/2008-5812/5 md.)** İlanların, elektronik araçlar ile
-hazırlanması ve gönderilmesi halinde, birinci fıkranın (a) bendinin (1)
-numaralı alt bendindeki ilan süresi yedi gün kısaltılabilir. İlan ile
-ihale ve ön yeterlik dokümanına Elektronik Kamu Alımları Platformu
-üzerinden doğrudan erişimin temin edilmesi halinde, birinci fıkranın (a)
-bendinin (1) numaralı alt bendindeki ilan süresi ile belli istekliler
-arasında ihale usulü ile yapılacak ihalelerde ön yeterliği belirlenen
-adaylara yapılacak kırk günlük davet süresi beş gün kısaltılabilir.
+            Yaklaşık maliyeti 8 inci maddede yer alan eşik değerlerin
+altında kalan belli istekliler arasında yapılacak ihalelerde ön yeterlik
+ilânlarının son başvuru tarihinden en az yedi gün önce (b) bendindeki
+süre hariç diğer usullere göre yapılması ve ön yeterlik değerlendirmesi
+sonucunda yeterliği belirlenen adaylara ihale gününden önce (b)
+bendindeki sürelere göre davet mektubu gönderilmesi zorunludur.
 
-**(Ek fıkra: 20/11/2008-5812/5 md.)** İdareler, yaklaşık maliyeti 8 inci
-maddede belirtilen eşik değerlere eşit veya bu değerleri aşan ihaleler
-için Kamu İhale Bülteninde ön ilan yapabilirler. Uluslararası ilan
-yapılan haller dahil ön ilan yapılması halinde kırk günlük ilan ve davet
-süresi yirmidört güne kadar indirilebilir.
+            **(Ek fıkra: 20/11/2008-5812/5 md.)** İlanların, elektronik
+araçlar ile hazırlanması ve gönderilmesi halinde, birinci fıkranın (a)
+bendinin (1) numaralı alt bendindeki ilan süresi yedi gün
+kısaltılabilir. İlan ile ihale ve ön yeterlik dokümanına Elektronik Kamu
+Alımları Platformu üzerinden doğrudan erişimin temin edilmesi halinde,
+birinci fıkranın (a) bendinin (1) numaralı alt bendindeki ilan süresi
+ile belli istekliler arasında ihale usulü ile yapılacak ihalelerde ön
+yeterliği belirlenen adaylara yapılacak kırk günlük davet süresi beş gün
+kısaltılabilir.
 
-**(Ek fıkra: 20/11/2008-5812/5 md.)** Ön ilanda aşağıdaki hususların
-belirtilmesi zorunludur:
+            **(Ek fıkra: 20/11/2008-5812/5 md.)** İdareler, yaklaşık
+maliyeti 8 inci maddede belirtilen eşik değerlere eşit veya bu değerleri
+aşan ihaleler için Kamu İhale Bülteninde ön ilan yapabilirler.
+Uluslararası ilan yapılan haller dahil ön ilan yapılması halinde kırk
+günlük ilan ve davet süresi yirmidört güne kadar indirilebilir.
 
-a\) İdarenin adı, adresi, telefon ve faks numarası ile elektronik posta
-adresi.
+            **(Ek fıkra: 20/11/2008-5812/5 md.)** Ön ilanda aşağıdaki
+hususların belirtilmesi zorunludur:
 
-b\) İhalenin adı, niteliği, türü ile mal ve hizmet alımlarında kalemler
-ve tahmini miktarlar, yapım işlerinde ise işin yapılacağı yer, yapı
-tekniği ve ihtiyaç programına göre tahmin edilen fiziki miktarı veya
-kapsamı.
+            a) İdarenin adı, adresi, telefon ve faks numarası ile
+elektronik posta adresi.
 
-c\) Çerçeve anlaşma yapılıp yapılmayacağı.
+            b) İhalenin adı, niteliği, türü ile mal ve hizmet
+alımlarında kalemler ve tahmini miktarlar, yapım işlerinde ise işin
+yapılacağı yer, yapı tekniği ve ihtiyaç programına göre tahmin edilen
+fiziki miktarı veya kapsamı.
 
-d\) İhalenin yapılacağı yer.
+            c) Çerçeve anlaşma yapılıp yapılmayacağı.
 
-e\) İhale ilanının yılın hangi çeyreğinde yayımlanacağı.
+            d) İhalenin yapılacağı yer.
 
-**(Ek fıkra: 20/11/2008-5812/5 md.)** Ön ilan yapılan hallerde, dördüncü
-fıkrada belirtilen süre indiriminden faydalanılabilmesi için ihale
-ilanının ön ilan tarihinden itibaren en az kırk gün sonra yayımlanması
-gerekir. Ön ilan yapılmış olması idareye ihale yapma yükümlülüğü
-getirmez.
+            e) İhale ilanının yılın hangi çeyreğinde yayımlanacağı.
 
-**(Ek fıkra: 20/11/2008-5812/5 md.)** Ön ilan yapılan hallerde ihalenin
-açık ihale veya belli istekliler arasında ihale usullerinden biriyle
-gerçekleştirilmesi zorunludur.
+            **(Ek fıkra: 20/11/2008-5812/5 md.)** Ön ilan yapılan
+hallerde, dördüncü fıkrada belirtilen süre indiriminden
+faydalanılabilmesi için ihale ilanının ön ilan tarihinden itibaren en az
+kırk gün sonra yayımlanması gerekir. Ön ilan yapılmış olması idareye
+ihale yapma yükümlülüğü getirmez.
 
-**(Ek fıkra: 20/11/2008-5812/5 md.)** Ön ilanlar Kamu İhale Bülteninde
-ücretsiz yayımlanır.
+            **(Ek fıkra: 20/11/2008-5812/5 md.)** Ön ilan yapılan
+hallerde ihalenin açık ihale veya belli istekliler arasında ihale
+usullerinden biriyle gerçekleştirilmesi zorunludur.
 
-İlân edilecek ihalelerden hangilerinin, ayrıca Basın İlân Kurumu
-aracılığıyla Türkiye çapında dağıtımı olan gazetelerin birinde ilân
-edileceğini belirlemeye Kurum yetkilidir.
+            **(Ek fıkra: 20/11/2008-5812/5 md.)** Ön ilanlar Kamu İhale
+Bülteninde ücretsiz yayımlanır.
 
-İhalenin yapılacağı yerde gazete çıkmaması halinde ilân, aynı süreler
-içinde ilgili idare ile hükümet ve belediye binalarının ilân tahtalarına
-asılacak yazılar ve belediye yayın araçları ile yapılır. Bu işlemler bir
-tutanakla belgelenir.
+            İlân edilecek ihalelerden hangilerinin, ayrıca Basın İlân
+Kurumu aracılığıyla Türkiye çapında dağıtımı olan gazetelerin birinde
+ilân edileceğini belirlemeye Kurum yetkilidir.
 
-İdareler, yukarıda belirtilen zorunlu ilânların dışında işin önem ve
-özelliğine göre ihaleleri, uluslararası ilân veya yurt içinde çıkan
-başka gazeteler veya yayın araçları, bilgi işlem ağı veya elektronik
-haberleşme (internet) yolu ile de ayrıca ilân edebilir. Ancak,
-uluslararası ilân yapılması halinde yukarıda belirtilen asgarî ilân
-sürelerine oniki gün eklenir.
+            İhalenin yapılacağı yerde gazete çıkmaması halinde ilân,
+aynı süreler içinde ilgili idare ile hükümet ve belediye binalarının
+ilân tahtalarına asılacak yazılar ve belediye yayın araçları ile
+yapılır. Bu işlemler bir tutanakla belgelenir.
+
+            İdareler, yukarıda belirtilen zorunlu ilânların dışında işin
+önem ve özelliğine göre ihaleleri, uluslararası ilân veya yurt içinde
+çıkan başka gazeteler veya yayın araçları, bilgi işlem ağı veya
+elektronik haberleşme (internet) yolu ile de ayrıca ilân edebilir.
+Ancak, uluslararası ilân yapılması halinde yukarıda belirtilen asgarî
+ilân sürelerine oniki gün eklenir.  
+
+ 
 
 8235
 
-*Ortak girişimler *
+ 
 
-**Madde 14-** **(Değişik: 30/7/2003-4964/10 md.)**
+*            Ortak girişimler  *
 
-Ortak girişimler birden fazla gerçek veya tüzel kişi tarafından iş
-ortaklığı veya konsorsiyum olarak iki türlü oluşturulabilir. İş
-ortaklığı üyeleri, hak ve sorumluluklarıyla işin tümünü birlikte yapmak
-üzere, konsorsiyum üyeleri ise, hak ve sorumluluklarını ayırarak işin
-kendi uzmanlık alanlarıyla ilgili kısımlarını yapmak üzere ortaklık
-yaparlar. İş ortaklığı her türlü ihaleye teklif verebilir. Ancak
-idareler, işin farklı uzmanlıklar gerektirmesi durumunda, ihaleye
-konsorsiyumların teklif verip veremeyeceğini ihale dokümanında
-belirtirler. İhale aşamasında ortak girişimden kendi aralarında bir iş
-ortaklığı veya konsorsiyum yaptıklarına dair anlaşma istenir. İş
-ortaklığı anlaşmalarında pilot ortak, konsorsiyum anlaşmalarında ise
-koordinatör ortak belirtilir. İhalenin iş ortaklığı veya konsorsiyum
-üzerinde kalması halinde, sözleşme imzalanmadan önce noter tasdikli iş
-ortaklığı veya konsorsiyum sözleşmesinin verilmesi gerekir. İş ortaklığı
-anlaşma ve sözleşmesinde, iş ortaklığını oluşturan gerçek veya tüzel
-kişilerin taahhüdün yerine getirilmesinde müştereken ve müteselsilen
-sorumlu oldukları, konsorsiyum anlaşma ve sözleşmesinde ise,
-konsorsiyumu oluşturan gerçek veya tüzel kişilerin, işin hangi kısmını
-taahhüt ettikleri ve taahhüdün yerine getirilmesinde koordinatör ortak
-aracılığıyla aralarındaki koordinasyonu sağlayacakları belirtilir.
+**            Madde 14-(Değişik: 30/7/2003-4964/10 md.)**
 
-*Alt yükleniciler*
+            Ortak girişimler birden fazla gerçek veya tüzel kişi
+tarafından iş ortaklığı veya konsorsiyum olarak iki türlü
+oluşturulabilir. İş ortaklığı üyeleri, hak ve sorumluluklarıyla işin
+tümünü birlikte yapmak üzere, konsorsiyum üyeleri ise, hak ve
+sorumluluklarını ayırarak işin kendi uzmanlık alanlarıyla ilgili
+kısımlarını yapmak üzere ortaklık yaparlar. İş ortaklığı her türlü
+ihaleye teklif verebilir. Ancak idareler, işin farklı uzmanlıklar
+gerektirmesi durumunda, ihaleye konsorsiyumların teklif verip
+veremeyeceğini ihale dokümanında belirtirler. İhale aşamasında ortak
+girişimden kendi aralarında bir iş ortaklığı veya konsorsiyum
+yaptıklarına dair anlaşma istenir. İş ortaklığı anlaşmalarında pilot
+ortak, konsorsiyum anlaşmalarında ise koordinatör ortak belirtilir.
+İhalenin iş ortaklığı veya konsorsiyum üzerinde kalması halinde,
+sözleşme imzalanmadan önce noter tasdikli iş ortaklığı veya konsorsiyum
+sözleşmesinin verilmesi gerekir. İş ortaklığı anlaşma ve sözleşmesinde,
+iş ortaklığını oluşturan gerçek veya tüzel kişilerin taahhüdün yerine
+getirilmesinde müştereken ve müteselsilen sorumlu oldukları, konsorsiyum
+anlaşma ve sözleşmesinde ise, konsorsiyumu oluşturan gerçek veya tüzel
+kişilerin, işin hangi kısmını taahhüt ettikleri ve taahhüdün yerine
+getirilmesinde koordinatör ortak aracılığıyla aralarındaki koordinasyonu
+sağlayacakları belirtilir.
 
-**Madde 15 –** İhale konusu işin özelliği nedeniyle ihtiyaç görülmesi
-halinde, ihale aşamasında isteklilerden alt yüklenicilere yaptırmayı
-düşündükleri işleri belirtmeleri, sözleşme imzalamadan önce de alt
-yüklenicilerin listesini idarenin onayına sunmaları istenebilir. Ancak
-bu durumda, alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu
-yüklenicinin sorumluluğunu ortadan kaldırmaz.
+*            Alt yükleniciler*
+
+**            Madde 15 –** İhale konusu işin özelliği nedeniyle ihtiyaç
+görülmesi halinde, ihale aşamasında isteklilerden alt yüklenicilere
+yaptırmayı düşündükleri işleri belirtmeleri, sözleşme imzalamadan önce
+de alt yüklenicilerin listesini idarenin onayına sunmaları istenebilir.
+Ancak bu durumda, alt yüklenicilerin yaptıkları işlerle ilgili
+sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.
 
 8236
 
-*İhale saatinden önce ihalenin iptal edilmesi ^(1)^*
+ 
 
-**Madde 16-** İdarenin gerekli gördüğü veya ihale dokümanında yer alan
-belgelerde ihalenin yapılmasına engel olan ve düzeltilmesi mümkün
-bulunmayan hususların bulunduğunun tespit edildiği hallerde ihale
-saatinden önce ihale iptal edilebilir.
+*            İhale saatinden önce ihalenin iptal edilmesi ^(1)^*
 
-Bu durumda, iptal nedeni belirtilmek suretiyle ihalenin iptal edildiği
-isteklilere hemen ilân edilerek duyurulur. Bu aşamaya kadar teklif
-vermiş olanlara ihalenin iptal edildiği ayrıca tebliğ edilir. İhalenin
-iptal edilmesi halinde, verilmiş olan bütün teklifler reddedilmiş
-sayılır ve bu teklifler açılmaksızın isteklilere iade edilir. İhalenin
-iptal edilmesi nedeniyle isteklilerce idareden herhangi bir hak
-talebinde bulunulamaz.
+**            Madde 16-** İdarenin gerekli gördüğü veya ihale
+dokümanında yer alan belgelerde ihalenin yapılmasına engel olan ve
+düzeltilmesi mümkün bulunmayan hususların bulunduğunun tespit edildiği
+hallerde ihale saatinden önce ihale iptal edilebilir.
 
-İhalenin iptal edilmesi durumunda, iptal nedenleri gözden geçirilerek
-yeniden ihaleye çıkılabilir.
+            Bu durumda, iptal nedeni belirtilmek suretiyle ihalenin
+iptal edildiği isteklilere hemen ilân edilerek duyurulur. Bu aşamaya
+kadar teklif vermiş olanlara ihalenin iptal edildiği ayrıca tebliğ
+edilir. İhalenin iptal edilmesi halinde, verilmiş olan bütün teklifler
+reddedilmiş sayılır ve bu teklifler açılmaksızın isteklilere iade
+edilir. İhalenin iptal edilmesi nedeniyle isteklilerce idareden herhangi
+bir hak talebinde bulunulamaz.
 
-*Yasak fiil veya davranışlar *
+            İhalenin iptal edilmesi durumunda, iptal nedenleri gözden
+geçirilerek yeniden ihaleye çıkılabilir.
 
-**Madde 17-** İhalelerde aşağıda belirtilen fiil veya davranışlarda
-bulunmak yasaktır:
+*            Yasak fiil veya davranışlar *
 
-a\) Hile, vaat, tehdit, nüfuz kullanma, çıkar sağlama, anlaşma, irtikap,
-rüşvet suretiyle veya başka yollarla ihaleye ilişkin işlemlere fesat
-karıştırmak veya buna teşebbüs etmek.
+**            Madde 17-** İhalelerde aşağıda belirtilen fiil veya
+davranışlarda bulunmak yasaktır:
 
-b\) İsteklileri tereddüde düşürmek, katılımı engellemek, isteklilere
-anlaşma teklifinde bulunmak veya teşvik etmek, rekabeti veya ihale
-kararını etkileyecek davranışlarda bulunmak.
+            a) Hile, vaat, tehdit, nüfuz kullanma, çıkar sağlama,
+anlaşma, irtikap, rüşvet suretiyle veya başka yollarla ihaleye ilişkin
+işlemlere fesat karıştırmak veya buna teşebbüs  etmek.
 
-c\) Sahte belge veya sahte teminat düzenlemek, kullanmak veya bunlara
-teşebbüs etmek.
+            b) İsteklileri tereddüde düşürmek, katılımı engellemek,
+isteklilere anlaşma teklifinde bulunmak veya teşvik etmek, rekabeti veya
+ihale kararını etkileyecek davranışlarda bulunmak.
 
-d\) Alternatif teklif verebilme halleri dışında, ihalelerde bir istekli
-tarafından kendisi veya başkaları adına doğrudan veya dolaylı olarak,
-asaleten ya da vekaleten birden fazla teklif vermek.
+            c) Sahte belge veya sahte teminat düzenlemek, kullanmak veya
+bunlara teşebbüs etmek.
 
-e\) 11 inci maddeye göre ihaleye katılamayacağı belirtildiği halde
-ihaleye katılmak.
+            d) Alternatif teklif verebilme halleri dışında, ihalelerde
+bir istekli tarafından kendisi veya başkaları adına doğrudan veya
+dolaylı olarak, asaleten ya da vekaleten birden fazla teklif vermek.
 
-Bu yasak fiil veya davranışlarda bulunanlar hakkında bu Kanunun Dördüncü
-Kısmında belirtilen hükümler uygulanır.
+            e) 11 inci maddeye göre ihaleye katılamayacağı belirtildiği
+halde ihaleye katılmak.
+
+            Bu yasak fiil veya davranışlarda bulunanlar hakkında bu
+Kanunun Dördüncü Kısmında belirtilen hükümler uygulanır.
 
 İKİNCİ KISIM
 
@@ -994,23 +1048,23 @@ BİRİNCİ BÖLÜM
 
 *İhale Usulleri ve Uygulaması*
 
-*Uygulanacak ihale usulleri*
+*            Uygulanacak ihale usulleri*
 
-**Madde 18-** İdarelerce mal veya hizmet alımları ile yapım işlerinin
-ihalelerinde aşağıdaki usullerden biri uygulanır:
+**            Madde 18-** İdarelerce mal veya hizmet alımları ile yapım
+işlerinin ihalelerinde aşağıdaki usullerden biri uygulanır:
 
-a\) Açık ihale usulü.
+            a) Açık ihale usulü.
 
-b\) Belli istekliler arasında ihale usulü.
+            b) Belli istekliler arasında ihale usulü.
 
-c\) Pazarlık usulü.
+            c) Pazarlık usulü.
 
-d\) **(Mülga: 30/7/2003-4964/12 md.)**
+            d) **(Mülga: 30/7/2003-4964/12 md.)**
 
-*Açık ihale usulü*
+*            Açık ihale usulü*
 
-**Madde 19-** Açık ihale usulü, bütün isteklilerin teklif verebildiği
-usuldür.
+**            Madde 19-** Açık ihale usulü, bütün isteklilerin teklif
+verebildiği usuldür.
 
 –––––––––––––––
 
@@ -1211,168 +1265,176 @@ tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve
 28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1
 No.’lu Kamu İhale Tebliğine bakınız.*
 
-8238-2
-
 8239
+
+ 
 
 İKİNCİ BÖLÜM
 
 *İhalenin ve Ön Yeterliğin İlânı, İhale Dokümanının Verilmesi*
 
-*İhale ilânlarında bulunması zorunlu hususlar *
+*            İhale ilânlarında bulunması zorunlu hususlar *
 
-**Madde 24-** İhale dokümanında belirtilmeyen hususlara ilânlarda yer
-verilemez. İhale ilânlarında aşağıdaki hususların belirtilmesi
-zorunludur:
+**            Madde 24-** İhale dokümanında belirtilmeyen hususlara
+ilânlarda yer verilemez. İhale ilânlarında aşağıdaki hususların
+belirtilmesi zorunludur:
 
-a\) İdarenin adı, adresi, telefon ve faks numarası.
+            a) İdarenin adı, adresi, telefon ve faks numarası.
 
-b\) İhalenin adı, niteliği, türü, miktarı.
+            b) İhalenin adı, niteliği, türü, miktarı.
 
-c\) Mal alımı ihalelerinde teslim yeri, hizmet alımı ve yapım
+            c) Mal alımı ihalelerinde teslim yeri, hizmet alımı ve yapım
 ihalelerinde ise işin yapılacağı yer.
 
-d\) İhale konusu işe başlama ve işi bitirme tarihi.
+            d) İhale konusu işe başlama ve işi bitirme tarihi.
 
-e\) Uygulanacak ihale usulü, ihaleye katılabilme şartları ve istenilen
-belgelerin neler olduğu.
+            e) Uygulanacak ihale usulü, ihaleye katılabilme şartları ve
+istenilen belgelerin neler olduğu.
 
-f\) Yeterlik değerlendirmesinde uygulanacak kriterler.
+            f) Yeterlik değerlendirmesinde uygulanacak kriterler.
 
-g\) İhalenin sadece yerli isteklilere açık olup olmadığı ve yerli
-istekliler lehine fiyat avantajı uygulanıp uygulanmayacağı.
+            g) İhalenin sadece yerli isteklilere açık olup olmadığı ve
+yerli istekliler lehine fiyat avantajı uygulanıp uygulanmayacağı.
 
-h\) İhale dokümanının nerede görülebileceği ve hangi bedelle alınacağı.
-
-i\) **(Değişik: 30/7/2003-4964/16 md.)** İhalenin nerede, hangi tarih ve
-saatte yapılacağı.
-
-j\) Tekliflerin ihale saatine kadar nereye verileceği.
-
-k\) Teklif ve sözleşme türü.
-
-l\) **(Değişik: 30/7/2003-4964/16 md.)** Teklif edilen bedelin % 3’ünden
-az olmamak üzere, isteklice belirlenecek tutarda geçici teminat
-verileceği.
-
-m\) Tekliflerin geçerlilik süresi.
-
-n\) **(Ek: 30/7/2003-4964/16 md.)** İhaleye konsorsiyumların teklif verip
-veremeyeceği.
-
-*Ön yeterlik ilânlarında bulunması zorunlu hususlar *
-
-**Madde 25-** Ön yeterlik dokümanında belirtilmeyen hususlara ilânlarda
-yer verilemez. Ön yeterlik ilânlarında aşağıdaki hususların belirtilmesi
-zorunludur:
-
-a\) İdarenin adı, adresi, telefon ve faks numarası.
-
-b\) İhalenin adı, niteliği, türü, miktarı.
-
-c\) Mal alımı ihalelerinde teslim yeri, hizmet alımı ve yapım
-ihalelerinde ise işin yapılacağı yer.
-
-d\) İhale konusu işin başlama ve bitirme tarihi.
-
-e\) Ön yeterliğe katılabilme şartları ve istenilen belgelerin neler
-olduğu.
-
-f\) Ön yeterlik değerlendirmesinde uygulanacak kriterler.
-
-g\) İhalenin sadece yerli isteklilere açık olup olmadığı ve yerli
-istekliler lehine fiyat avantajı uygulanıp uygulanmayacağı.
-
-h\) Ön yeterlik dokümanının nerede görülebileceği ve hangi bedelle
+            h) İhale dokümanının nerede görülebileceği ve hangi bedelle
 alınacağı.
 
-i\) Ön yeterlik başvurusunun sunulacağı yer ile son başvuru tarih ve
-saati.
+            i) **(Değişik: 30/7/2003-4964/16 md.)** İhalenin nerede,
+hangi tarih ve saatte yapılacağı.
 
-j\) **(Ek: 30/7/2003-4964/17 md.)**İhaleye konsorsiyumların teklif verip
-veremeyeceği.
+            j) Tekliflerin ihale saatine kadar nereye verileceği.
 
-*İlânın uygun olmaması*
+            k) Teklif ve sözleşme türü.
 
-**Madde 26-** 13, 24 ve 25 inci maddelerdeki hükümlere uygun olmayan
-ilânlar geçersizdir. Bu durumda, ilân bu Maddelere uygun bir şekilde
-yenilenmedikçe ihale veya ön yeterlik yapılamaz.
+            l) **(Değişik: 30/7/2003-4964/16 md.)** Teklif edilen
+bedelin % 3’ünden az olmamak üzere, isteklice belirlenecek tutarda
+geçici teminat verileceği.
+
+            m) Tekliflerin geçerlilik süresi.
+
+            n) **(Ek: 30/7/2003-4964/16 md.)** İhaleye konsorsiyumların
+teklif verip veremeyeceği.
+
+*            Ön yeterlik ilânlarında bulunması zorunlu hususlar *
+
+**            Madde 25-** Ön yeterlik dokümanında belirtilmeyen
+hususlara ilânlarda yer verilemez. Ön yeterlik ilânlarında aşağıdaki
+hususların belirtilmesi zorunludur:
+
+            a) İdarenin adı, adresi, telefon ve faks numarası.
+
+            b) İhalenin adı, niteliği, türü, miktarı.
+
+            c) Mal alımı ihalelerinde teslim yeri, hizmet alımı ve yapım
+ihalelerinde ise işin yapılacağı yer.
+
+            d) İhale konusu işin başlama ve bitirme tarihi.
+
+            e) Ön yeterliğe katılabilme şartları ve istenilen belgelerin
+neler olduğu.
+
+            f) Ön yeterlik değerlendirmesinde uygulanacak kriterler.
+
+            g) İhalenin sadece yerli isteklilere açık olup olmadığı ve
+yerli istekliler lehine fiyat avantajı uygulanıp uygulanmayacağı.
+
+            h) Ön yeterlik dokümanının nerede görülebileceği ve hangi
+bedelle alınacağı.
+
+            i) Ön yeterlik başvurusunun sunulacağı yer ile son başvuru
+tarih ve saati.
+
+            j) **(Ek: 30/7/2003-4964/17 md.)**İhaleye konsorsiyumların
+teklif verip veremeyeceği.
+
+*            İlânın uygun olmaması*
+
+**            Madde 26-** 13, 24 ve 25 inci maddelerdeki hükümlere uygun
+olmayan ilânlar geçersizdir. Bu durumda, ilân bu Maddelere uygun bir
+şekilde yenilenmedikçe ihale veya ön yeterlik yapılamaz.
 
 8240
 
-**(Değişik ikinci fıkra: 20/11/2008-5812/9 md.)** Ancak, 13 üncü maddede
-belirtilen ilânın yapılmaması veya ilân sürelerine uyulmaması halleri
-hariç, yapılan ilânlarda 24 ve 25 inci madde hükümlerine uygun olmayan
-hatalar bulunması durumunda, 13 üncü maddeye göre yirmibeş ve kırk
-günlük ilan süresi bulunan ihalelerde ilânların yayımlanmasını takip
-eden onbeş gün diğer ihalelerde ise on gün içinde hatalı hususlar için
-düzeltme ilânı yapılmak suretiyle ihale veya ön yeterlik
-gerçekleştirilebilir.
+ 
 
-*İhale ve ön yeterlik dokümanının içeriği ve idari şartnamede yer alması
-zorunlu hususlar *
+            **(Değişik ikinci fıkra: 20/11/2008-5812/9 md.)**Ancak, 13
+üncü maddede belirtilen ilânın yapılmaması veya ilân sürelerine
+uyulmaması halleri hariç, yapılan ilânlarda 24 ve 25 inci madde
+hükümlerine uygun olmayan hatalar bulunması durumunda, 13 üncü maddeye
+göre yirmibeş ve kırk günlük ilan süresi bulunan ihalelerde ilânların
+yayımlanmasını takip eden onbeş gün diğer ihalelerde ise on gün içinde
+hatalı hususlar için düzeltme ilânı yapılmak suretiyle ihale veya ön
+yeterlik gerçekleştirilebilir.
 
-**Madde 27-** İhale dokümanında; isteklilere talimatları da içeren idari
-şartnameler ile yaptırılacak işin projesini de kapsayan teknik
-şartnameler, sözleşme tasarısı ve gerekli diğer belge ve bilgiler
+*            İhale ve ön yeterlik dokümanının içeriği ve idari
+şartnamede yer alması zorunlu hususlar *
+
+**            Madde 27-** İhale dokümanında; isteklilere talimatları da
+içeren idari şartnameler ile yaptırılacak işin projesini de kapsayan
+teknik şartnameler, sözleşme tasarısı ve gerekli diğer belge ve bilgiler
 bulunur. Ön yeterlik dokümanında ise adaylarda aranılan şartlara, ön
 yeterlik kriterlerine ve gerekli diğer belge ve bilgilere yer verilir.
 
-İdari şartnamede ihale konusuna göre asgari aşağıdaki hususların
-belirtilmesi zorunludur:
+            İdari şartnamede ihale konusuna göre asgari aşağıdaki
+hususların belirtilmesi zorunludur:
 
-a\) İşin adı, niteliği, türü ve miktarı, hizmetlerde iş tanımı.
+            a) İşin adı, niteliği, türü ve miktarı, hizmetlerde iş
+tanımı.
 
-b\) İdarenin adı, adresi, telefon ve faks numarası.
+            b) İdarenin adı, adresi, telefon ve faks numarası.
 
-c\) İhale usulü, ihale tarih ve saati ile tekliflerin nereye verileceği.
+            c) İhale usulü, ihale tarih ve saati ile tekliflerin nereye
+verileceği.
 
-d\) İsteklilere talimatlar.
+            d) İsteklilere talimatlar.
 
-e\) İsteklilerde aranılan şartlar, belgeler ve yeterlik kriterleri.
+            e) İsteklilerde aranılan şartlar, belgeler ve yeterlik
+kriterleri.
 
-f\) İhale dokümanında açıklama isteme ve yapılma yöntemleri.
+            f) İhale dokümanında açıklama isteme ve yapılma yöntemleri.
 
-g\) Tekliflerin geçerlilik süresi.
+            g) Tekliflerin geçerlilik süresi.
 
-h\) **(Değişik: 30/7/2003-4964/18 md.)** İhaleye konsorsiyumların teklif
-verip veremeyeceği, ihale konusu işin tamamına veya bir kısmına teklif
-verilmesinin mümkün olup olmadığı, mal alımı ihalelerinde alternatif
-teklif verilip verilemeyeceği, verilebilecekse alternatif tekliflerin
-nasıl değerlendirileceği.
+            h) **(Değişik: 30/7/2003-4964/18 md.)** İhaleye
+konsorsiyumların teklif verip veremeyeceği, ihale konusu işin tamamına
+veya bir kısmına teklif verilmesinin mümkün olup olmadığı, mal alımı
+ihalelerinde alternatif teklif verilip verilemeyeceği, verilebilecekse
+alternatif tekliflerin nasıl değerlendirileceği.
 
-i\) Ulaşım, sigorta, vergi, resim ve harç giderlerinden hangisinin teklif
-fiyatına dahil olacağı.
+            i) Ulaşım, sigorta, vergi, resim ve harç giderlerinden
+hangisinin teklif fiyatına dahil olacağı.
 
-j\) Tekliflerin alınması, açılması ve değerlendirilmesinde uygulanması
-gereken ve bu Kanunda belirtilen usul ve esaslar.
-
-k\) İhale kararının alınmasından sözleşmenin imzalanmasına kadar
+            j) Tekliflerin alınması, açılması ve değerlendirilmesinde
 uygulanması gereken ve bu Kanunda belirtilen usul ve esaslar.
 
-l\) İhalenin sadece yerli isteklilere açık olup olmadığı ve yerli
-istekliler lehine fiyat avantajı uygulanıp uygulanmayacağı.
+            k) İhale kararının alınmasından sözleşmenin imzalanmasına
+kadar uygulanması gereken ve bu Kanunda belirtilen usul ve esaslar.
 
-m\) Teklif ve sözleşme türü.
+            l) İhalenin sadece yerli isteklilere açık olup olmadığı ve
+yerli istekliler lehine fiyat avantajı uygulanıp uygulanmayacağı.
 
-n\) Geçici ve kesin teminat oranları ile teminatlara ait şartlar.
+            m) Teklif ve sözleşme türü.
 
-o\) **(Değişik: 30/7/2003-4964/18 md.)** İhale saatinden önce ihalenin
-iptal edilmesinde idarenin serbest olduğu.
+            n) Geçici ve kesin teminat oranları ile teminatlara ait
+şartlar.
 
-p\) Bütün tekliflerin reddedilmesi ve ihalenin iptal edilmesinde idarenin
-serbest olduğu.
+            o) **(Değişik: 30/7/2003-4964/18 md.)** İhale saatinden önce
+ihalenin iptal edilmesinde idarenin serbest olduğu.
 
-r\) İhale konusu işin başlama ve bitirme tarihi, yapılma yeri, teslim
-şartları ve gecikme halinde alınacak cezalar.
+            p) Bütün tekliflerin reddedilmesi ve ihalenin iptal
+edilmesinde idarenin serbest olduğu.
 
-s\) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği, verilecekse
-şartları ve miktarı ile sözleşme konusu işler için eğer ödenecekse fiyat
-farkının ne şekilde ödeneceği.
+            r) İhale konusu işin başlama ve bitirme tarihi, yapılma
+yeri, teslim şartları ve gecikme halinde alınacak cezalar.
 
-t\) **(Değişik: 30/7/2003-4964/18 md.)** Süre uzatımı verilebilecek
-haller ve şartları ile sözleşme kapsamında yaptırılabilecek iş artışları
-ile iş eksilişi durumunda karşılıklı yükümlülükler.
+            s) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği,
+verilecekse şartları ve miktarı ile sözleşme konusu işler için eğer
+ödenecekse fiyat farkının ne şekilde ödeneceği.
+
+            t) **(Değişik: 30/7/2003-4964/18 md.)** Süre uzatımı
+verilebilecek haller ve şartları ile sözleşme kapsamında
+yaptırılabilecek iş artışları ile iş eksilişi durumunda karşılıklı
+yükümlülükler.  
 
 8241
 
@@ -1517,50 +1579,54 @@ metne işlenmiştir.*
 
 8243
 
-\(c) bendinde belirtilen senetler ve bu senetler yerine düzenlenen
-belgelerden nominal değere faiz dahil edilerek ihraç edilenler,
-anaparaya tekabül eden satış değeri üzerinden teminat olarak kabul
-edilir.
+ 
 
-Teminat mektupları dışındaki teminatlar ihale komisyonlarınca teslim
-alınamaz. Bunların saymanlık ya da muhasebe müdürlüklerine yatırılması
-zorunludur.
+           (c) bendinde belirtilen senetler ve bu senetler yerine
+düzenlenen belgelerden nominal değere faiz dahil edilerek ihraç
+edilenler, anaparaya tekabül eden satış değeri üzerinden teminat olarak
+kabul edilir.
 
-İhale üzerinde kalan istekli ile ekonomik açıdan en avantajlı ikinci
-teklif sahibi istekliye ait teminat mektupları ihaleden sonra saymanlık
-ya da muhasebe müdürlüklerine teslim edilir. Diğer isteklilere ait
-teminatlar ise hemen iade edilir. İhale üzerinde kalan istekli ile
-sözleşme imzalanması halinde, ekonomik açıdan en avantajlı ikinci teklif
-sahibine ait teminat sözleşme imzalandıktan hemen sonra iade edilir.
+            Teminat mektupları dışındaki teminatlar ihale
+komisyonlarınca teslim alınamaz. Bunların saymanlık ya da muhasebe
+müdürlüklerine yatırılması zorunludur.
 
-Teminatlar, teminat olarak kabul edilen diğer değerlerle
+            İhale üzerinde kalan istekli ile ekonomik açıdan en
+avantajlı ikinci teklif sahibi istekliye ait teminat mektupları ihaleden
+sonra saymanlık ya da muhasebe müdürlüklerine teslim edilir. Diğer
+isteklilere ait teminatlar ise hemen iade edilir. İhale üzerinde kalan
+istekli ile sözleşme imzalanması halinde, ekonomik açıdan en avantajlı
+ikinci teklif sahibine ait teminat sözleşme imzalandıktan hemen sonra
+iade edilir.
+
+            Teminatlar, teminat olarak kabul edilen diğer değerlerle
 değiştirilebilir.
 
-Her ne suretle olursa olsun, idarece alınan teminatlar haczedilemez ve
-üzerine ihtiyati tedbir konulamaz.
+            Her ne suretle olursa olsun, idarece alınan teminatlar
+haczedilemez ve üzerine ihtiyati tedbir konulamaz.
 
-*Teminat mektupları^(1)^*
+*            Teminat mektupları^(1)^*
 
-**Madde 35-** Bu Kanun kapsamında (...)^(1)^ verilecek teminat
-mektuplarının kapsam ve şeklini tespite Kamu İhale Kurumu yetkilidir.
+**            Madde 35-**  Bu Kanun kapsamında (...)^(1)^ verilecek
+teminat mektuplarının kapsam ve şeklini tespite Kamu İhale Kurumu
+yetkilidir.
 
-32 nci maddeye göre belirlenen tekliflerin geçerlilik süresinden en az
-otuz gün fazla süreli olmak kaydıyla, geçici teminat mektuplarında süre
-belirtilir. Teklif geçerlilik süresinin uzatılması halinde, geçici
-teminat mektuplarının süresi de aynı süre ile uzatılır. Kesin teminat
-mektuplarının süresi ihale konusu işin bitiş tarihi dikkate alınmak
-suretiyle idare tarafından belirlenir.
+            32 nci maddeye göre belirlenen tekliflerin geçerlilik
+süresinden en az otuz gün fazla süreli olmak kaydıyla, geçici teminat
+mektuplarında süre belirtilir. Teklif geçerlilik süresinin uzatılması
+halinde, geçici teminat mektuplarının süresi de aynı süre ile uzatılır.
+Kesin teminat mektuplarının süresi ihale konusu işin bitiş tarihi
+dikkate alınmak suretiyle idare tarafından belirlenir.
 
-İlgili mevzuatına aykırı olarak düzenlenmiş teminat mektupları kabul
-edilmez.
+            İlgili mevzuatına aykırı olarak düzenlenmiş teminat
+mektupları kabul edilmez.
 
 DÖRDÜNCÜ BÖLÜM
 
 *Tekliflerin Değerlendirilmesi*
 
-*Tekliflerin alınması ve açılması*
+*            Tekliflerin alınması ve açılması*
 
-**Madde 36-** **(Değişik birinci cümle: 30/7/2003-4964/23 md.)**
+**            Madde 36-(Değişik birinci cümle: 30/7/2003-4964/23 md.)**
 Teklifler ihale dokümanında belirtilen ihale saatine kadar idareye
 verilir. İhale komisyonunca ihale dokümanında belirtilen saatte kaç
 teklif verilmiş olduğu bir tutanakla tespit edilerek, hazır bulunanlara
@@ -1570,10 +1636,10 @@ olmayan zarflar bir tutanak ile belirlenerek değerlendirmeye alınmaz.
 Zarflar isteklilerle birlikte hazır bulunanlar önünde alınış sırasına
 göre açılır.
 
-İsteklilerin belgelerinin eksik olup olmadığı ve teklif mektubu ile
-geçici teminatlarının usulüne uygun olup olmadığı kontrol edilir.
-Belgeleri eksik veya teklif mektubu ile geçici teminatı usulüne uygun
-olmayan istekliler tutanakla tespit edilir. İstekliler ile teklif
+            İsteklilerin belgelerinin eksik olup olmadığı ve teklif
+mektubu ile geçici teminatlarının usulüne uygun olup olmadığı kontrol
+edilir. Belgeleri eksik veya teklif mektubu ile geçici teminatı usulüne
+uygun olmayan istekliler tutanakla tespit edilir. İstekliler ile teklif
 fiyatları ve yaklaşık maliyet tutarı açıklanır. Bu işlemlere ilişkin
 hazırlanan tutanak ihale komisyonunca imzalanır. Bu aşamada; hiçbir
 teklifin reddine veya kabulüne karar verilmez, teklifi oluşturan
@@ -1591,23 +1657,27 @@ fıkrada yer alan “teklif fiyatları açıklanır” ibaresi “teklif fiyatla
 ve yaklaşık maliyet tutarı açıklanır” şeklinde değiştirilmiş ve metne
 işlenmiştir.*
 
+ 
+
 8244
 
-*Tekliflerin değerlendirilmesi *
+ 
 
-**Madde 37-** İhale komisyonunun talebi üzerine idare tekliflerin
-incelenmesi, karşılaştırılması ve değerlendirilmesinde yararlanmak üzere
-net olmayan hususlarla ilgili isteklilerden yazılı olarak tekliflerini
-açıklamalarını isteyebilir. Ancak bu açıklama, hiçbir şekilde teklif
-fiyatında değişiklik yapılması veya ihale dokümanında yer alan şartlara
-uygun olmayan tekliflerin uygun hale getirilmesi amacıyla istenilmez ve
-yapılmaz.
+*            Tekliflerin değerlendirilmesi *
 
-**(Değişik ikinci fıkra: 20/11/2008-5812/11 md.)** Tekliflerin
-değerlendirilmesinde, öncelikle belgeleri eksik olduğu veya teklif
-mektubu ile geçici teminatı usulüne uygun olmadığı 36 ncı maddeye göre
-ilk oturumda tespit edilen isteklilerin tekliflerinin değerlendirme dışı
-bırakılmasına karar verilir. Ancak, teklifin esasını değiştirecek
+**            Madde 37-** İhale komisyonunun talebi üzerine idare
+tekliflerin incelenmesi, karşılaştırılması ve  değerlendirilmesinde
+yararlanmak üzere net olmayan hususlarla ilgili isteklilerden yazılı
+olarak tekliflerini açıklamalarını isteyebilir. Ancak bu açıklama,
+hiçbir şekilde teklif fiyatında değişiklik yapılması veya ihale
+dokümanında yer alan şartlara uygun olmayan tekliflerin uygun hale
+getirilmesi amacıyla istenilmez ve yapılmaz.
+
+            **(Değişik ikinci fıkra: 20/11/2008-5812/11 md.)**
+Tekliflerin değerlendirilmesinde, öncelikle belgeleri eksik olduğu veya
+teklif mektubu ile geçici teminatı usulüne uygun olmadığı 36 ncı maddeye
+göre ilk oturumda tespit edilen isteklilerin tekliflerinin değerlendirme
+dışı bırakılmasına karar verilir. Ancak, teklifin esasını değiştirecek
 nitelikte olmaması kaydıyla, belgelerde bilgi eksikliği bulunması
 halinde idarece belirlenen sürede isteklilerden bu eksik bilgilerin
 tamamlanması yazılı olarak istenir. Belirlenen sürede bilgileri
@@ -1623,112 +1693,118 @@ olmadığı belirlenen isteklilerin teklifleri ile birim fiyat teklif
 cetvellerinde aritmetik hata bulunan teklifler değerlendirme dışı
 bırakılır.
 
-**(Mülga son fıkra: 20/11/2008-5812/11 md.)**
+            **(Mülga son fıkra: 20/11/2008-5812/11 md.)**
 
-*Aşırı düşük teklifler *
+*            Aşırı düşük teklifler *
 
-**Madde 38-** İhale komisyonu verilen teklifleri 37 nci maddeye göre
-değerlendirdikten sonra, diğer tekliflere veya idarenin tespit ettiği
-yaklaşık maliyete göre teklif fiyatı aşırı düşük olanları tespit eder.
-Bu teklifleri reddetmeden önce, belirlediği süre içinde teklif
-sahiplerinden teklifte önemli olduğunu tespit ettiği bileşenler ile
-ilgili ayrıntıları yazılı olarak ister.
+**            Madde 38-** İhale komisyonu verilen teklifleri 37 nci
+maddeye göre değerlendirdikten sonra, diğer tekliflere veya idarenin
+tespit ettiği yaklaşık maliyete göre teklif fiyatı aşırı düşük olanları
+tespit eder. Bu teklifleri reddetmeden önce, belirlediği süre içinde
+teklif sahiplerinden teklifte önemli olduğunu tespit ettiği bileşenler
+ile ilgili ayrıntıları yazılı olarak ister.
 
-İhale komisyonu;
+            İhale komisyonu;
 
-a\) İmalat sürecinin, verilen hizmetin ve yapım yönteminin ekonomik
-olması,
+            a) İmalat sürecinin, verilen hizmetin ve yapım yönteminin
+ekonomik olması,
 
-b\) Seçilen teknik çözümler ve teklif sahibinin mal ve hizmetlerin temini
-veya yapım işinin yerine getirilmesinde kullanacağı avantajlı koşullar,
+            b)  Seçilen teknik çözümler ve teklif sahibinin mal ve
+hizmetlerin temini veya yapım işinin yerine getirilmesinde kullanacağı
+avantajlı koşullar,
 
-c\) Teklif edilen mal, hizmet veya yapım işinin özgünlüğü,
+            c) Teklif edilen mal, hizmet veya yapım işinin özgünlüğü,
 
-Hususlarında belgelendirilmek suretiyle yapılan yazılı açıklamaları
-dikkate alarak, aşırı düşük teklifleri değerlendirir. Bu değerlendirme
-sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklamada
-bulunmayan isteklilerin teklifleri reddedilir.
+            Hususlarında belgelendirilmek suretiyle yapılan yazılı
+açıklamaları dikkate alarak, aşırı düşük teklifleri değerlendirir. Bu
+değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı
+açıklamada bulunmayan isteklilerin teklifleri reddedilir.
 
-**(Ek fıkra: 20/11/2008-5812/12 md.)** İhale komisyonu, aşırı düşük
-tekliflerin tespiti ve değerlendirilmesinde Kurum tarafından belirlenen
-kriterleri esas alır. Kurum bu maddenin uygulanmasında; aşırı düşük
-tekliflerin tespiti, değerlendirilmesi ve ekonomik açıdan en avantajlı
-teklifin belirlenmesi amacıyla sınır değer veya sorgulama kriterleri ya
-da ortalamalar belirlemeye yetkilidir.
+            **(Ek fıkra: 20/11/2008-5812/12 md.)** İhale komisyonu,
+aşırı düşük tekliflerin tespiti ve değerlendirilmesinde Kurum tarafından
+belirlenen kriterleri esas alır. Kurum bu maddenin uygulanmasında; aşırı
+düşük tekliflerin tespiti, değerlendirilmesi ve ekonomik açıdan en
+avantajlı teklifin belirlenmesi amacıyla sınır değer veya sorgulama
+kriterleri ya da ortalamalar belirlemeye yetkilidir.
 
 8245
 
-*Bütün tekliflerin reddedilmesi ve ihalenin iptali*
+ 
 
-**Madde 39-** (…)^(1)^ İhale komisyonu kararı üzerine idare, verilmiş
-olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir.
-İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal
-bildirilir. İdare bütün tekliflerin reddedilmesi nedeniyle herhangi bir
-yükümlülük altına girmez. **(Değişik son cümle: 30/7/2003-4964/24 md.)**
-Ancak, idare isteklilerin talepte bulunması halinde, ihalenin iptal
-edilme gerekçelerini talep eden isteklilere bildirir.
+*            Bütün tekliflerin reddedilmesi ve ihalenin iptali*
 
-*İhalenin karara bağlanması ve onaylanması *
+**            Madde 39-** (…)^(1)^ İhale komisyonu kararı üzerine idare,
+verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte
+serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere
+derhal bildirilir. İdare bütün tekliflerin reddedilmesi nedeniyle
+herhangi bir yükümlülük altına girmez. **(Değişik son cümle:
+30/7/2003-4964/24 md.)** Ancak, idare isteklilerin talepte bulunması
+halinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere
+bildirir.
 
-**Madde 40-** 37 ve 38 inci maddelere göre yapılan değerlendirme
-sonucunda ihale, ekonomik açıdan en avantajlı teklifi veren isteklinin
-üzerinde bırakılır.
+            *İhalenin karara bağlanması ve onaylanması *
 
-**(Değişik ikinci fıkra: 20/11/2008-5812/13 md.)** Ekonomik açıdan en
-avantajlı teklif, sadece fiyat esasına göre veya fiyat ile birlikte
-işletme ve bakım maliyeti, maliyet etkinliği, verimlilik, kalite ve
-teknik değer gibi fiyat dışındaki unsurlar da dikkate alınarak
+**            Madde 40-** 37 ve 38 inci maddelere göre yapılan
+değerlendirme sonucunda ihale, ekonomik açıdan en avantajlı teklifi
+veren isteklinin üzerinde bırakılır.
+
+            **(Değişik ikinci fıkra: 20/11/2008-5812/13 md.)** Ekonomik
+açıdan en avantajlı teklif, sadece fiyat esasına göre veya fiyat ile
+birlikte işletme ve bakım maliyeti, maliyet etkinliği, verimlilik,
+kalite ve teknik değer gibi fiyat dışındaki unsurlar da dikkate alınarak
 belirlenir. Ekonomik açıdan en avantajlı teklifin fiyat dışındaki
 unsurlar da dikkate alınarak belirleneceği ihalelerde, ihale dokümanında
 bu unsurların parasal değerleri veya nispi ağırlıkları belirlenir.
 
-Bu Kanunun 63 üncü maddesine göre ihale dokümanında yerli istekliler
-lehine fiyat avantajı sağlanacağı belirtilen ihalelerde, bu fiyat
-avantajı da uygulanmak suretiyle ekonomik açıdan en avantajlı teklif
-belirlenerek ihale sonuçlandırılır.
+            Bu Kanunun 63 üncü maddesine göre ihale dokümanında yerli
+istekliler lehine fiyat avantajı sağlanacağı belirtilen ihalelerde, bu
+fiyat avantajı da uygulanmak suretiyle ekonomik açıdan en avantajlı
+teklif belirlenerek ihale sonuçlandırılır.
 
-En düşük fiyatın ekonomik açıdan en avantajlı teklif olarak
+            En düşük fiyatın ekonomik açıdan en avantajlı teklif olarak
 değerlendirildiği ihalelerde, birden fazla istekli tarafından aynı
 fiyatın teklif edildiği ve bunların da ekonomik açıdan en avantajlı
 teklif olduğu anlaşıldığı takdirde, ikinci fıkrada belirtilen fiyat
 dışındaki unsurlar dikkate alınmak suretiyle ekonomik açıdan en
 avantajlı teklif belirlenerek ihale sonuçlandırılır.
 
-İhale komisyonu gerekçeli kararını belirleyerek, ihale yetkilisinin
-onayına sunar. Kararlarda isteklilerin adları veya ticaret unvanları,
-teklif edilen bedeller, ihalenin tarihi ve hangi istekli üzerine hangi
-gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.
+            İhale komisyonu gerekçeli kararını belirleyerek, ihale
+yetkilisinin onayına sunar. Kararlarda isteklilerin adları veya ticaret
+unvanları, teklif edilen bedeller, ihalenin tarihi ve hangi istekli
+üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri
+belirtilir.
 
-İhale yetkilisi, karar tarihini izleyen en geç beş iş günü içinde ihale
-kararını onaylar veya gerekçesini açıkça belirtmek suretiyle iptal eder.
-^(1)^
+            İhale yetkilisi, karar tarihini izleyen en geç beş iş günü
+içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek
+suretiyle iptal eder. ^(1)^
 
-İhale; kararın onaylanması halinde geçerli, iptal edilmesi halinde ise
-hükümsüz sayılır.
+            İhale; kararın onaylanması halinde geçerli, iptal edilmesi
+halinde ise hükümsüz sayılır.
 
-**(Değişik son fıkra: 20/11/2008-5812/13 md.)** İhale kararları ihale
-yetkilisince onaylanmadan önce idareler, ihale üzerinde kalan istekli
-ile varsa ekonomik açıdan en avantajlı ikinci teklif sahibi isteklinin
-ihalelere katılmaktan yasaklı olup olmadığını teyit ettirerek buna
-ilişkin belgeyi ihale kararına eklemek zorundadır. İki isteklinin de
-yasaklı çıkması durumunda ihale iptal edilir.
+            **(Değişik son fıkra: 20/11/2008-5812/13 md.)** İhale
+kararları ihale yetkilisince onaylanmadan önce idareler, ihale üzerinde
+kalan istekli ile varsa ekonomik açıdan en avantajlı ikinci teklif
+sahibi isteklinin ihalelere katılmaktan yasaklı olup olmadığını teyit
+ettirerek buna ilişkin belgeyi ihale kararına eklemek zorundadır. İki
+isteklinin de yasaklı çıkması durumunda ihale iptal edilir.
 
-*Kesinleşen ihale kararlarının bildirilmesi *
+*            Kesinleşen ihale kararlarının bildirilmesi *
 
-**Madde 41-** **(Değişik : 20/11/2008-5812/14 md.)**
+**            Madde 41-(Değişik : 20/11/2008-5812/14 md.)**
 
-İhale sonucu, ihale kararının ihale yetkilisi tarafından onaylandığı
-günü izleyen en geç üç gün içinde, ihale üzerinde bırakılan dahil olmak
-üzere, ihaleye teklif veren bütün isteklilere bildirilir. İhale
-sonucunun bildiriminde, tekliflerin değerlendirmeye alınmama veya uygun
-bulunmama gerekçelerine de yer verilir.
+             İhale sonucu, ihale kararının ihale yetkilisi tarafından
+onaylandığı günü izleyen en geç üç gün içinde, ihale üzerinde bırakılan
+dahil olmak üzere, ihaleye teklif veren bütün isteklilere bildirilir.
+İhale sonucunun bildiriminde, tekliflerin değerlendirmeye alınmama veya
+uygun bulunmama gerekçelerine de yer verilir.
 
-İhale kararının ihale yetkilisi tarafından iptal edilmesi durumunda da
-isteklilere gerekçeleri belirtilmek suretiyle bildirim yapılır.
+             İhale kararının ihale yetkilisi tarafından iptal edilmesi
+durumunda da isteklilere gerekçeleri belirtilmek suretiyle bildirim
+yapılır.
 
-İhale sonucunun bütün isteklilere bildiriminden itibaren; 21 inci
-maddenin (b) ve (c) bentlerine göre yapılan ihalelerde beş gün, diğer
-hallerde ise on gün geçmedikçe sözleşme imzalanamaz.
+             İhale sonucunun bütün isteklilere bildiriminden itibaren;
+21 inci maddenin (b) ve (c) bentlerine göre yapılan ihalelerde beş gün,
+diğer hallerde ise on gün geçmedikçe sözleşme imzalanamaz.
 
 *––––––––––––––––––*
 
@@ -1741,97 +1817,104 @@ işlenmiştir.*
 
 8246
 
-*Sözleşmeye davet *
+ 
 
-**Madde 42-** **(Değişik birinci fıkra: 20/11/2008-5812/15 md.)** 41
-inci maddede belirtilen sürelerin bitimini, ön mali kontrol yapılması
-gereken hallerde ise bu kontrolün tamamlandığı tarihi izleyen günden
-itibaren üç gün içinde ihale üzerinde bırakılan istekliye, tebliğ
+            *Sözleşmeye davet *
+
+**            Madde 42-**  **(Değişik birinci fıkra: 20/11/2008-5812/15
+md.)** 41 inci maddede belirtilen sürelerin bitimini, ön mali kontrol
+yapılması gereken hallerde ise bu kontrolün tamamlandığı tarihi izleyen
+günden itibaren üç gün içinde ihale üzerinde bırakılan istekliye, tebliğ
 tarihini izleyen on gün içinde kesin teminatı vermek suretiyle
 sözleşmeyi imzalaması hususu bildirilir. Yabancı istekliler için bu
 süreye oniki gün ilave edilir. Sözleşmenin imzalanacağı tarihte, ihale
 sonuç bilgileri Kuruma gönderilmek suretiyle ihale üzerinde kalan
 isteklinin ihalelere katılmaktan yasaklı olup olmadığının teyit edilmesi
-zorunludur.
+zorunludur. 
 
-43 üncü madde hükmü gereğince sözleşmeden önce kesin teminat alınmayan
-danışmanlık hizmet ihalelerinde sözleşmeye davet ise, kesin teminat
-istenilmeksizin birinci fıkra hükümlerine göre yapılır.
+            43 üncü madde hükmü gereğince sözleşmeden önce kesin teminat
+alınmayan danışmanlık hizmet ihalelerinde sözleşmeye davet ise, kesin
+teminat istenilmeksizin birinci fıkra hükümlerine göre yapılır.
 
-*Kesin teminat *
+*            Kesin teminat *
 
-**Madde 43-** Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun
-olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından
-önce ihale üzerinde kalan istekliden ihale bedeli üzerinden hesaplanmak
-suretiyle % 6 oranında kesin teminat alınır.
+**            Madde 43-** Taahhüdün sözleşme ve ihale dokümanı
+hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla,
+sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden ihale
+bedeli üzerinden hesaplanmak suretiyle % 6 oranında kesin teminat
+alınır.
 
-**(Ek fıkra: 20/11/2008-5812/16 md.)** Yapım işlerinde, 38 inci maddeye
-göre gerekli değerlendirmeler yapıldıktan sonra, ihalenin aynı madde
-uyarınca hesaplanan sınır değerin altında teklif veren isteklilerden
-biri üzerinde bırakılması halinde, kesin teminat sınır değerin yüzde
-altısı oranında alınır.
+            **(Ek fıkra: 20/11/2008-5812/16 md.)** Yapım işlerinde, 38
+inci maddeye göre gerekli değerlendirmeler yapıldıktan sonra, ihalenin
+aynı madde uyarınca hesaplanan sınır değerin altında teklif veren
+isteklilerden biri üzerinde bırakılması halinde, kesin teminat sınır
+değerin yüzde altısı oranında alınır.
 
-Ancak, danışmanlık hizmet ihalelerinde ihale dokümanında belirtilmesi
-kaydıyla, kesin teminat sözleşme yapılmadan önce alınmayabilir. Bu
-durumda, düzenlenecek her hakedişten % 6 oranında yapılacak kesintiler
-teminat olarak alıkonulur.
+            Ancak, danışmanlık hizmet ihalelerinde ihale dokümanında
+belirtilmesi kaydıyla, kesin teminat sözleşme yapılmadan önce
+alınmayabilir. Bu durumda, düzenlenecek her hakedişten % 6 oranında
+yapılacak kesintiler teminat olarak alıkonulur.
 
-*Sözleşme yapılmasında isteklinin görev ve sorumluluğu *
+*            Sözleşme yapılmasında isteklinin görev ve sorumluluğu *
 
-**Madde 44-** İhale üzerinde kalan istekli 42 ve 43 üncü maddelere göre
-kesin teminatı vererek sözleşmeyi imzalamak zorundadır. Sözleşme
-imzalandıktan hemen sonra geçici teminat iade edilir.
+**            Madde 44-** İhale üzerinde kalan istekli 42 ve 43 üncü
+maddelere göre kesin teminatı vererek sözleşmeyi imzalamak zorundadır.
+Sözleşme imzalandıktan hemen sonra geçici teminat iade edilir.
 
-Bu zorunluluklara uyulmadığı takdirde, protesto çekmeye ve hüküm almaya
-gerek kalmaksızın ihale üzerinde kalan isteklinin geçici teminatı gelir
-kaydedilir. Bu durumda idare, ekonomik açıdan en avantajlı ikinci teklif
-fiyatının ihale yetkilisince uygun görülmesi kaydıyla, bu teklif sahibi
-istekli ile de Kanunda belirtilen esas ve usullere göre sözleşme
-imzalayabilir. Ancak ekonomik açıdan en avantajlı ikinci teklif sahibi
-istekli ile sözleşme imzalanabilmesi için, 42 nci maddede belirtilen on
-günlük sürenin bitimini izleyen üç gün içinde ekonomik açıdan en
-avantajlı ikinci teklif sahibi istekliye 42 nci maddede belirtilen
-şekilde tebligat yapılır.
+            Bu zorunluluklara uyulmadığı takdirde, protesto çekmeye ve
+hüküm almaya gerek kalmaksızın ihale üzerinde kalan isteklinin geçici
+teminatı gelir kaydedilir. Bu durumda idare, ekonomik açıdan en
+avantajlı ikinci teklif fiyatının ihale yetkilisince uygun görülmesi
+kaydıyla, bu teklif sahibi istekli ile de Kanunda belirtilen esas ve
+usullere göre sözleşme imzalayabilir. Ancak ekonomik açıdan en avantajlı
+ikinci teklif sahibi istekli ile sözleşme imzalanabilmesi için, 42 nci
+maddede belirtilen on günlük sürenin bitimini izleyen üç gün içinde
+ekonomik açıdan en avantajlı ikinci teklif sahibi istekliye 42 nci
+maddede belirtilen şekilde tebligat yapılır.
 
-Ekonomik açıdan en avantajlı ikinci teklif sahibinin de sözleşmeyi
-imzalamaması durumunda ise, bu teklif sahibinin de geçici teminatı gelir
-kaydedilerek ihale iptal edilir.
+            Ekonomik açıdan en avantajlı ikinci teklif sahibinin de
+sözleşmeyi imzalamaması durumunda ise, bu teklif sahibinin de geçici
+teminatı gelir kaydedilerek ihale iptal edilir.
 
-*Sözleşme yapılmasında idarenin görev ve sorumluluğu*
+*            Sözleşme yapılmasında idarenin görev ve sorumluluğu*
 
-**Madde 45-** İdare, 42 ve 44 üncü maddede yazılı süre içinde sözleşme
-yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür.
-İdarenin bu yükümlülüğü yerine getirmemesi halinde, istekli sürenin
-bitmesini izleyen günden itibaren en geç beş gün içinde, on gün süreli
-bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir.
-Bu takdirde geçici teminat geri verilir ve istekli teminat vermek için
-yaptığı belgelendirilmiş giderleri istemeye hak kazanır. Bu zarar, sebep
-olanlara tazmin ettirilir ve ayrıca haklarında 60 ıncı madde hükümleri
-uygulanır.
+**            Madde 45-** İdare, 42 ve 44 üncü maddede yazılı süre
+içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla
+yükümlüdür. İdarenin bu yükümlülüğü yerine getirmemesi halinde, istekli
+sürenin bitmesini izleyen günden itibaren en geç beş gün içinde, on gün
+süreli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden
+vazgeçebilir. Bu takdirde geçici teminat geri verilir ve istekli teminat
+vermek için yaptığı belgelendirilmiş giderleri istemeye hak kazanır. Bu
+zarar, sebep olanlara  tazmin ettirilir ve ayrıca haklarında 60 ıncı
+madde hükümleri uygulanır.
 
 8247
 
-*İhalenin sözleşmeye bağlanması*
+ 
 
-**Madde 46-** **(Değişik birinci fıkra: 30/7/2003-4964/28 md.)**Yapılan
-bütün ihaleler bir sözleşmeye bağlanır. Sözleşmeler idarece hazırlanır
-ve ihale yetkilisi ile yüklenici tarafından imzalanır. Yüklenicinin
-ortak girişim olması halinde, sözleşmeler ortak girişimin bütün
-ortakları tarafından imzalanır. İhale dokümanında aksi belirtilmedikçe
-sözleşmelerin notere tescili ve onaylattırılması zorunlu değildir.
+*            İhalenin sözleşmeye bağlanması*
 
-İhale dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.
+**            Madde 46-(Değişik birinci fıkra: 30/7/2003-4964/28
+md.)**Yapılan bütün ihaleler bir sözleşmeye bağlanır. Sözleşmeler
+idarece hazırlanır ve ihale yetkilisi ile yüklenici tarafından
+imzalanır. Yüklenicinin ortak girişim olması halinde, sözleşmeler ortak
+girişimin bütün ortakları tarafından imzalanır. İhale dokümanında aksi
+belirtilmedikçe sözleşmelerin notere tescili ve onaylattırılması zorunlu
+değildir. 
 
-*Sonuç bildirimi^(1)^*
+            İhale dokümanında belirtilen şartlara aykırı sözleşme
+düzenlenemez.
 
-**Madde 47-** **(Değişik: 20/11/2008-5812/17 md.) **
+*            Sonuç bildirimi^(1)^*
 
-Bu Kanun kapsamında yer alan idarelerin yapım işleri ile mal ve hizmet
-alımlarının sonuçları, 42 nci maddeye göre gönderilenler hariç, en geç
-onbeş gün içinde Kuruma bildirilir. Bu sonuçlardan Kanun kapsamındaki
-ihalelere ilişkin olanlar Kurum tarafından Kamu İhale Bülteninde
-yayımlanır. Sonuç bildirimlerinde yer verilecek bilgiler ile savunma,
-güvenlik ve istihbarat alanlarında görev yapan idarelerin Kanun
+**            Madde 47-(Değişik: 20/11/2008-5812/17 md.) **
+
+**           ** Bu Kanun kapsamında yer alan idarelerin yapım işleri ile
+mal ve hizmet alımlarının sonuçları, 42 nci maddeye göre gönderilenler
+hariç, en geç onbeş gün içinde Kuruma bildirilir. Bu sonuçlardan Kanun
+kapsamındaki ihalelere ilişkin olanlar Kurum tarafından Kamu İhale
+Bülteninde yayımlanır. Sonuç bildirimlerinde yer verilecek bilgiler ile
+savunma, güvenlik ve istihbarat alanlarında görev yapan idarelerin Kanun
 kapsamında yaptıkları mal ve hizmet alımları ile yapım işlerine ilişkin
 ihale sonuçlarından hangilerinin yayımlanacağı ilgili idarenin görüşü
 alınarak Kurum tarafından belirlenir.
@@ -1840,95 +1923,101 @@ BEŞİNCİ BÖLÜM
 
 *Danışmanlık Hizmet İhaleleri ile İlgili Özel Hükümler*
 
-*Danışmanlık hizmetleri *
+*             Danışmanlık hizmetleri    *
 
-**Madde 48-** **(Değişik: 20/11/2008-5812/18 md.) **
+**             Madde 48-(Değişik: 20/11/2008-5812/18 md.) **
 
-Mimarlık ve mühendislik, etüt ve proje, harita ve kadastro, her ölçekte
-imar planı, imar uygulama, ÇED raporu hazırlanması, plan, yazılım
-geliştirme, tasarım, teknik şartname hazırlanması, denetim ve
-kontrolörlük gibi teknik, mali, hukuki veya benzeri alanlardaki
-hizmetler, danışmanlık hizmet sunucularından alınır.
+**            ** Mimarlık ve mühendislik, etüt ve proje, harita ve
+kadastro, her ölçekte imar planı, imar uygulama, ÇED raporu
+hazırlanması, plan, yazılım geliştirme, tasarım, teknik şartname
+hazırlanması, denetim ve kontrolörlük gibi teknik, mali, hukuki veya
+benzeri alanlardaki hizmetler, danışmanlık hizmet sunucularından alınır.
 
-Danışmanlık hizmetleri, bu bölümde yer alan hükümlere uygun olarak
-sadece belli istekliler arasında ihale usulü ile ihale edilir.
+            Danışmanlık hizmetleri, bu bölümde yer alan hükümlere uygun
+olarak sadece belli istekliler arasında ihale usulü ile ihale edilir.
 **(Değişik son cümle: 31/3/2012-6288/6 md.)** Ancak yaklaşık maliyeti 13
 üncü maddenin (b) bendinin (2) numaralı alt bendinde hizmet alımları
 için öngörülen üst limit tutarının dört katının altında kalan
 danışmanlık hizmetleri, hizmet alımı ihalesiyle gerçekleştirilebilir.
 
-*Ön yeterlik ve isteklilerin belirlenmesi *
+ *           Ön yeterlik ve isteklilerin belirlenmesi *
 
-**Madde 49 –** Ön yeterlik ilânları 13 üncü maddede belirlenen süre ve
-esaslar dahilinde yapılır.
+**            Madde 49 –** Ön yeterlik ilânları 13 üncü maddede
+belirlenen süre ve esaslar dahilinde yapılır.
+
+ 
 
 –––––––––––––––––––––
 
-*(1) Bu madde başlığı“İhale sonucunun ilânı” iken, 20/11/2008 tarihli ve
+*(1) Bu madde başlığı“İhale sonucunun ilânı” iken, 20/11/2008 tarihli ve
 5812 sayılı Kanunun 17 nci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
 8248
 
-Bu Kanun hükümlerine göre yapılan ön yeterlik ilânında, adayların genel
-uygunluklarını, malî kapasitelerini ve teknik yeteneklerini
-değerlendirmek üzere belirlenen ön yeterlik kriterlerine ilişkin
-bilgiler yer alır. Ayrıca bu ilânda, kısa listeye alınmak ve teklif
-vermek üzere davet edilecek adayların sayısı veya sayı aralığı
+ 
+
+            Bu Kanun hükümlerine göre yapılan ön yeterlik ilânında,
+adayların genel uygunluklarını, malî kapasitelerini ve teknik
+yeteneklerini değerlendirmek üzere belirlenen ön yeterlik kriterlerine
+ilişkin bilgiler yer alır. Ayrıca bu ilânda, kısa listeye alınmak ve
+teklif vermek üzere davet edilecek adayların sayısı veya sayı aralığı
 belirtilir.
 
-Ön yeterlik ilânı sonucunda başvuru sunan adayların, ön yeterlik
-dokümanı ve ilânında belirtilen ön yeterlik kriterlerine göre
+            Ön yeterlik ilânı sonucunda başvuru sunan adayların, ön
+yeterlik dokümanı ve ilânında belirtilen ön yeterlik kriterlerine göre
 değerlendirilmesi sonucunda, yeterlikleri tespit edilenler arasından en
 az üç en fazla on adayın yer alacağı kısa liste oluşturulur.
 
-*İhaleye davet *
+*            İhaleye davet *
 
-**Madde 50-** 49 uncu maddeye göre oluşturulan listede yer alan
-adaylara, teknik ve malî tekliflerini hazırlayabilmeleri için en az 13
-üncü maddedeki süreler verilerek, ihale dokümanı ile birlikte ihaleye
+**            Madde 50-** 49 uncu maddeye göre oluşturulan listede yer
+alan adaylara, teknik ve malî tekliflerini hazırlayabilmeleri için en az
+13 üncü maddedeki süreler verilerek, ihale dokümanı ile birlikte ihaleye
 davet mektubu gönderilir. Ön yeterlik değerlendirmesi sonucunda yeterli
 bulunmayanlar ile kısa listede yer verilmeyen adaylara yazılı olarak
 bildirim yapılır. İhaleye davet edilebilecek aday sayısının üçten az
 olması halinde davet mektubu gönderilmez ve ihale yapılmaz.^(1)^
 
-İstekliler tekliflerini hazırlarken ihale dokümanında açıklanmasına
-ihtiyaç duyulan hususlarla ilgili olarak son teklif verme gününden yirmi
-gün öncesine kadar yazılı olarak açıklama talep edebilir. İdarece
-açıklama yapılması halinde yapılan açıklama, kısa listede yer alan bütün
-isteklilere son teklif verme gününden en az on gün öncesinde bilgi
-sahibi olmalarını temin edecek şekilde yazılı olarak gönderilir.
+            İstekliler tekliflerini hazırlarken ihale dokümanında
+açıklanmasına ihtiyaç duyulan hususlarla ilgili olarak son teklif verme
+gününden yirmi gün öncesine kadar yazılı olarak açıklama talep edebilir.
+İdarece açıklama yapılması halinde yapılan açıklama, kısa listede yer
+alan bütün isteklilere son teklif verme gününden en az on gün öncesinde
+bilgi sahibi olmalarını temin edecek şekilde yazılı olarak gönderilir.
 
-Davet mektubu gönderildikten sonra, tekliflerin hazırlanmasını veya işin
-gerçekleştirilmesini etkileyebilecek maddi veya teknik hatalar veya
-eksikliklerin idarece tespit edilmesi veya isteklilerce yazılı olarak
-bildirilmesi halinde, ihale dokümanında değişiklikler yapılabilir.
-Yapılan bu değişikliklere ilişkin ihale dokümanının bağlayıcı bir
-parçası olan zeyilname kısa listede yer alan bütün isteklilere, son
-teklif verme gününden en az on gün öncesinde bilgi sahibi olmalarını
-temin edecek şekilde gönderilir. Zeyilname ile yapılan değişiklikler
-nedeniyle tekliflerin hazırlanabilmesi için ek süreye ihtiyaç duyulması
-halinde, ihale tarihi bir defaya mahsus olmak üzere en fazla yirmi gün
-ertelenebilir. Zeyilname düzenlenmesi halinde, teklifini bu düzenlemeden
-önce vermiş olan isteklilere tekliflerini geri çekerek, yeniden teklif
-verme imkanı sağlanır.
+            Davet mektubu gönderildikten sonra, tekliflerin
+hazırlanmasını veya işin gerçekleştirilmesini etkileyebilecek maddi veya
+teknik hatalar veya eksikliklerin idarece tespit edilmesi veya
+isteklilerce yazılı olarak bildirilmesi halinde, ihale dokümanında
+değişiklikler yapılabilir. Yapılan bu değişikliklere ilişkin ihale
+dokümanının bağlayıcı bir parçası olan zeyilname kısa listede yer alan
+bütün isteklilere, son teklif verme gününden en az on gün öncesinde
+bilgi sahibi olmalarını temin edecek şekilde  gönderilir. Zeyilname ile
+yapılan değişiklikler nedeniyle tekliflerin hazırlanabilmesi için ek
+süreye ihtiyaç duyulması halinde, ihale tarihi bir defaya mahsus olmak
+üzere en fazla yirmi gün ertelenebilir. Zeyilname düzenlenmesi halinde,
+teklifini bu düzenlemeden önce vermiş olan isteklilere tekliflerini geri
+çekerek, yeniden teklif verme imkanı sağlanır. 
 
-*Tekliflerin hazırlanması ve verilmesi *
+*            Tekliflerin hazırlanması ve verilmesi *
 
-**Madde 51-** İhale konusu danışmanlık hizmeti için teklif edilen
-bedelin yer aldığı teklif mektubu ile geçici teminat isteklinin malî
-teklifini oluşturur. Bu teklif, üzerine malî teklif olduğu yazılmak
+**            Madde 51-** İhale konusu danışmanlık hizmeti için teklif
+edilen bedelin yer aldığı teklif mektubu ile geçici teminat isteklinin
+malî teklifini oluşturur. Bu teklif, üzerine malî teklif olduğu yazılmak
 suretiyle bir zarfa konulur. Teklif mektuplarının 30 uncu maddede
 belirtilen şartlara uygun olması zorunludur.
 
-Teknik değerlendirme için istenilen diğer bütün belgeler isteklinin
-teknik teklifini oluşturur. Bu teklif, üzerine teknik teklif olduğu
-yazılmak suretiyle ayrı bir zarfa konulur.
+            Teknik değerlendirme için istenilen diğer bütün belgeler
+isteklinin teknik teklifini oluşturur. Bu teklif, üzerine teknik teklif
+olduğu yazılmak suretiyle ayrı bir zarfa konulur.
 
-Her iki zarfın üzerine de isteklinin adı, soyadı veya ticaret unvanı,
-tebligata esas açık adresi ve teklifin hangi işe ait olduğu yazılır.
-Zarfların yapıştırılan yerleri istekli tarafından imzalanır ve
-mühürlenir.
+            Her iki zarfın üzerine de isteklinin adı, soyadı veya
+ticaret unvanı, tebligata esas açık adresi ve teklifin hangi işe ait
+olduğu yazılır. Zarfların yapıştırılan yerleri istekli tarafından
+imzalanır ve mühürlenir.
+
+* *
 
 *–––––––––––––––––*
 
@@ -1938,114 +2027,119 @@ olarak değiştirilmiş ve metne işlenmiştir.*
 
 8249
 
-Malî ve teknik teklife ait zarflar birlikte ayrı bir zarf veya paket
-içerisine konularak, üzerine isteklinin adı, soyadı veya ticaret unvanı,
-tebligata esas açık adresi, teklifin hangi işe ait olduğu ve ihaleyi
-yapan idarenin açık adresi yazılmak suretiyle sunulur.
+ 
 
-*Tekliflerin değerlendirilmesi ve ihalenin yapılması *
+            Malî ve teknik teklife ait zarflar birlikte ayrı bir zarf
+veya paket içerisine konularak, üzerine isteklinin adı, soyadı veya
+ticaret unvanı, tebligata esas açık adresi, teklifin hangi işe ait
+olduğu ve ihaleyi yapan idarenin açık adresi yazılmak suretiyle sunulur.
 
-**Madde 52-** İhale komisyonunca ihalenin yapılacağı saatte kaç teklif
-verilmiş olduğu bir tutanakla tespit edilerek, hazır bulunanlara
-duyurulur ve hemen ihaleye başlanır. İhale komisyonu teklif zarflarını
-alınış sırasına göre inceler. 30 uncu maddenin birinci fıkrasına uygun
-olmayan zarflar bir tutanak ile belirlenerek değerlendirmeye alınmaz.
-Teknik tekliflere ait zarflar isteklilerle birlikte hazır bulunanlar
-önünde alınış sırasına göre açılarak, istenilen belgelerin tam olarak
-verilmiş olup olmadığı kontrol edilir ve durum bir tutanakla tespit
-olunur. Malî teklifleri içeren zarflar ise bir tutanağa bağlanarak
-açılmaksızın ihale komisyonunca toplu halde paketlenir, mühürlenip
-imzalanarak muhafaza altına alınır. Bu aşamada; hiçbir teklifin reddine
-veya kabulüne karar verilmez, teklifi oluşturan belgeler düzeltilemez ve
-tamamlanamaz. Teklifler ihale komisyonunca hemen değerlendirilmek üzere
-oturum kapatılır.
+*            Tekliflerin değerlendirilmesi ve ihalenin yapılması *
 
-Verilen teklifler, zeyilname düzenlenmesi hali hariç herhangi bir
-sebeple geri alınamaz ve değiştirilemez.
+**            Madde 52-** İhale komisyonunca ihalenin yapılacağı saatte
+kaç teklif verilmiş olduğu bir tutanakla tespit edilerek, hazır
+bulunanlara duyurulur ve hemen ihaleye başlanır. İhale komisyonu teklif
+zarflarını alınış sırasına göre inceler. 30 uncu maddenin birinci
+fıkrasına uygun olmayan zarflar bir tutanak ile belirlenerek
+değerlendirmeye alınmaz. Teknik tekliflere ait zarflar isteklilerle
+birlikte hazır bulunanlar önünde alınış sırasına göre açılarak,
+istenilen belgelerin tam olarak verilmiş olup olmadığı kontrol edilir ve
+durum bir tutanakla tespit olunur. Malî teklifleri içeren zarflar ise
+bir tutanağa bağlanarak açılmaksızın ihale komisyonunca toplu halde
+paketlenir, mühürlenip imzalanarak muhafaza altına alınır. Bu aşamada;
+hiçbir teklifin reddine veya kabulüne karar verilmez, teklifi oluşturan
+belgeler düzeltilemez ve tamamlanamaz. Teklifler ihale komisyonunca
+hemen değerlendirilmek üzere oturum kapatılır.
 
-Danışmanlık hizmet ihalelerinde tekliflerin değerlendirilmesi, teknik ve
-malî değerlendirme olmak üzere iki aşamada yapılır. İlk aşamada teknik
-teklif, ikinci aşamada ise malî teklif değerlendirilir ve her iki aşama
-için ayrı puanlama yapılır. Teknik ve malî puan için belirlenen ağırlık
-katsayıları dikkate alınarak yapılan hesaplama sonucunda toplam puan
-tespit edilir. Teknik ve malî puan ağırlık katsayıları, teknik puan
-ağırlığı daha yüksek olmak üzere hizmetin niteliği ve özgünlüğüne göre
-farklı oranlarda belirlenebilir.
+            Verilen teklifler, zeyilname düzenlenmesi hali hariç
+herhangi bir sebeple geri alınamaz ve değiştirilemez.
 
-Bu ihalelerde teknik değerlendirme kriterleri, 10 uncu Maddede
-belirtilen kriterlere uygun olarak belirlenir. İhale dokümanı ve davet
-mektubunda belirtilen bu kriterlerin belirlenmesinde; benzer nitelik ve
-ölçekteki sözleşmeleri yerine getirme deneyimi, iş için önerilen yöntem,
-organizasyon yapısı, yönetici kadrosu ile işi yürütecek teknik
-personelinin eğitimi ve mesleki nitelikleri esas alınır.
+            Danışmanlık hizmet ihalelerinde tekliflerin
+değerlendirilmesi, teknik ve malî değerlendirme olmak üzere iki aşamada
+yapılır. İlk aşamada teknik teklif, ikinci aşamada ise malî teklif
+değerlendirilir ve her iki aşama için ayrı puanlama yapılır. Teknik ve
+malî puan için belirlenen ağırlık katsayıları dikkate alınarak yapılan
+hesaplama sonucunda toplam puan tespit edilir. Teknik ve malî puan
+ağırlık katsayıları, teknik puan ağırlığı daha yüksek olmak üzere
+hizmetin niteliği ve özgünlüğüne göre farklı oranlarda belirlenebilir.
 
-Tekliflerin değerlendirilmesinde, öncelikle isteklilerin teknik
-değerlendirmeye esas bütün belgelerinin ihale dokümanında istenilen
-şartlara uygun olarak düzenlenip düzenlenmediği incelenir. Belgeleri
-eksik olan veya istenilen şartlara uygun olmadığı tespit edilen
-isteklilerin teklifleri değerlendirme dışı bırakılır. **(Değişik üçüncü
-ve dördüncü cümle: 20/11/2008-5812/19 md.)** Ancak, teklifin esasını
-değiştirecek nitelikte olmaması kaydıyla belgelerde bilgi eksikliği
-bulunması halinde, idarece belirlenen sürede isteklilerden bu eksik
-bilgilerin tamamlanması yazılı olarak istenir. Belirlenen sürede eksik
-bilgileri tamamlamayan istekliler değerlendirme dışı bırakılır ve geçici
-teminatları gelir kaydedilir.
+            Bu ihalelerde teknik değerlendirme kriterleri, 10 uncu
+Maddede belirtilen kriterlere uygun olarak belirlenir. İhale dokümanı ve
+davet mektubunda belirtilen bu kriterlerin belirlenmesinde; benzer
+nitelik ve ölçekteki sözleşmeleri yerine getirme deneyimi, iş için
+önerilen yöntem, organizasyon yapısı, yönetici kadrosu ile işi yürütecek
+teknik personelinin eğitimi ve mesleki nitelikleri esas alınır.
 
-İhale komisyonu ihale dokümanında ve davet mektubunda belirtilen teknik
-değerlendirme kriterleri ve puanlara göre teknik değerlendirme yaparak
-isteklilerin teknik puanlarını belirler. İhale dokümanında belirlenen
-asgari teknik puanın altında puan alan isteklilere ait teklifler
-değerlendirme dışı bırakılır.
+            Tekliflerin değerlendirilmesinde, öncelikle isteklilerin
+teknik değerlendirmeye esas bütün belgelerinin ihale dokümanında
+istenilen şartlara uygun olarak düzenlenip düzenlenmediği incelenir.
+Belgeleri eksik olan veya istenilen şartlara uygun olmadığı tespit
+edilen isteklilerin teklifleri değerlendirme dışı bırakılır. **(Değişik
+üçüncü ve dördüncü cümle: 20/11/2008-5812/19 md.)** Ancak, teklifin
+esasını değiştirecek nitelikte olmaması kaydıyla belgelerde bilgi
+eksikliği bulunması halinde, idarece belirlenen sürede isteklilerden bu
+eksik bilgilerin tamamlanması yazılı olarak istenir. Belirlenen sürede
+eksik bilgileri tamamlamayan istekliler değerlendirme dışı bırakılır ve
+geçici teminatları gelir kaydedilir.
+
+            İhale komisyonu ihale dokümanında ve davet mektubunda
+belirtilen teknik değerlendirme kriterleri ve puanlara göre teknik
+değerlendirme yaparak isteklilerin teknik puanlarını belirler. İhale
+dokümanında belirlenen asgari teknik puanın altında puan alan
+isteklilere ait teklifler değerlendirme dışı bırakılır.
 
 8250
 
-Belgeleri eksik olan veya istenilen şartlara uygun olmadığı tespit
-edilen veya asgari teknik puanın altında puan alan isteklilere,
+ 
+
+            Belgeleri eksik olan veya istenilen şartlara uygun olmadığı
+tespit edilen veya asgari teknik puanın altında puan alan isteklilere,
 değerlendirme dışı bırakıldığı ve malî tekliflerinin açılmadan malî
 tekliflerin açılacağı tarih ve saatte kendilerine veya vekillerine elden
 iade edileceği yazılı olarak bildirilir. Aynı tarihte, asgari teknik
 puan ve üzerinde puan alan isteklilere de malî tekliflerin açılacağı
-tarih ve saat yazılı olarak bildirilir.
+tarih ve saat yazılı olarak bildirilir. 
 
-İhale komisyonunca bildirilen tarih ve saatte öncelikle teknik
-değerlendirme sonuçları ile teknik puanlar hazır bulunanlar önünde
-açıklanır. İhale komisyonunca toplu halde muhafaza altına alınmış olan
-ve malî teklifleri içeren paket açılır. Teklifleri değerlendirme dışı
-bırakılan isteklilerin malî teklif zarfları açılmaksızın kendilerine
-veya vekillerine elden iade edilerek, bu istekliler ihale salonundan
-çıkarılır. **(Değişik dördüncü cümle: 20/11/2008-5812/19 md.)** Bu
-işlemlerden sonra, asgari teknik puan ve üzerinde puan alan isteklilerin
-mali teklif zarfları açılır ve teklif edilen fiyatlar ile yaklaşık
-maliyet açıklanarak bir tutanakla tespit edilir. İade edilemeyen malî
-tekliflere ait zarflar ihalenin sonuçlandırılmasından hemen sonra posta
-ile gönderilir.
+            İhale komisyonunca bildirilen tarih ve saatte öncelikle
+teknik değerlendirme sonuçları ile teknik puanlar hazır bulunanlar
+önünde açıklanır. İhale komisyonunca toplu halde muhafaza altına alınmış
+olan ve malî teklifleri içeren paket açılır. Teklifleri değerlendirme
+dışı bırakılan isteklilerin malî teklif zarfları açılmaksızın
+kendilerine veya vekillerine elden iade edilerek, bu istekliler ihale
+salonundan çıkarılır. **(Değişik dördüncü cümle: 20/11/2008-5812/19
+md.)** Bu işlemlerden sonra, asgari teknik puan ve üzerinde puan alan
+isteklilerin mali teklif zarfları açılır ve teklif edilen fiyatlar ile
+yaklaşık maliyet açıklanarak bir tutanakla tespit edilir. İade
+edilemeyen malî tekliflere ait zarflar ihalenin sonuçlandırılmasından
+hemen sonra posta ile gönderilir.
 
-Malî teklif içerisinde teklif mektubu ile geçici teminatı bulunmayan
-veya usulüne uygun olmayan istekliler değerlendirme dışı bırakılarak
-tutanakla tespit edilir. Teklif mektubu ile geçici teminatı uygun olan
-isteklilere ait malî puanlar belirlenir.
+            Malî teklif içerisinde teklif mektubu ile geçici teminatı
+bulunmayan veya usulüne uygun olmayan istekliler değerlendirme dışı
+bırakılarak tutanakla tespit edilir. Teklif mektubu ile geçici teminatı
+uygun olan isteklilere ait malî puanlar belirlenir.
 
-Bu isteklilere ait teknik ve malî puanlar ihale dokümanında belirlenen
-ağırlık katsayılarıyla çarpılarak toplam puanlar tespit edilir. Toplam
-puanı en yüksek olan istekli iş tanımı, sözleşme şartları, personel ve
-malî teklif ile ilgili görüşme yapmak üzere davet edilir. Ancak bu
-görüşme, ihale dokümanında yer alan şartları önemli ölçüde değiştirecek
-nitelikte olmamalıdır. Görüşme sonucunda şartların netleştirilerek
-anlaşmaya varılması halinde, bu istekliye ihale yapılır.
+            Bu isteklilere ait teknik ve malî puanlar ihale dokümanında
+belirlenen ağırlık katsayılarıyla çarpılarak toplam puanlar tespit
+edilir. Toplam puanı en yüksek olan istekli iş tanımı, sözleşme
+şartları, personel ve malî teklif ile ilgili görüşme yapmak üzere davet
+edilir. Ancak bu görüşme, ihale dokümanında yer alan şartları önemli
+ölçüde değiştirecek nitelikte olmamalıdır. Görüşme sonucunda şartların
+netleştirilerek anlaşmaya varılması halinde, bu istekliye ihale yapılır.
 
-İhale komisyonu tarafından alınan karar ihale yetkilisinin onayına
-sunulur.
+            İhale komisyonu tarafından alınan karar ihale yetkilisinin
+onayına sunulur.
 
-Yapılan görüşmede anlaşma sağlandığı halde ihale üzerinde kalan
-isteklinin sözleşme imzalama yükümlülüğünü yerine getirmemesi halinde,
-idarece geçici teminatı gelir kaydedilir. Bu durumda, teklif fiyatının
-ihale yetkilisince uygun görülmesi kaydıyla, ikinci en yüksek toplam
-puana sahip istekli ile de görüşme yapmak suretiyle sözleşme imzalanır.
-İkinci isteklinin sözleşme imzalama yükümlülüğünü yerine getirmemesi
-halinde, idarece geçici teminatı gelir kaydedilir.
+            Yapılan görüşmede anlaşma sağlandığı halde ihale üzerinde
+kalan isteklinin sözleşme imzalama yükümlülüğünü yerine getirmemesi
+halinde, idarece geçici teminatı gelir kaydedilir. Bu durumda, teklif
+fiyatının ihale yetkilisince uygun görülmesi kaydıyla, ikinci en yüksek
+toplam puana sahip istekli ile de görüşme yapmak suretiyle sözleşme
+imzalanır.  İkinci isteklinin sözleşme imzalama yükümlülüğünü yerine
+getirmemesi halinde, idarece geçici teminatı gelir kaydedilir.
 
-Gerek ön yeterlik sonucunda gerekse teknik veya malî değerlendirme
-sonucunda üçten az aday veya isteklinin kalması halinde ihale yapılmaz.
+            Gerek ön yeterlik sonucunda gerekse teknik veya malî
+değerlendirme sonucunda üçten az aday veya isteklinin kalması halinde
+ihale yapılmaz.
 
  
 
@@ -2057,74 +2151,79 @@ BİRİNCİ BÖLÜM
 
 *Kamu İhale Kurumu*
 
-*Kamu İhale Kurumu*
+*            Kamu İhale Kurumu*
 
-**Madde 53-** a) Bu Kanunla verilen görevleri yapmak üzere kamu tüzel
-kişiliğini haiz, idari ve malî özerkliğe sahip Kamu İhale Kurumu
-kurulmuştur. Kamu İhale Kurumu, bu Kanunda belirtilen esas, usul ve
-işlemlerin doğru olarak uygulanması konusunda görevli ve yetkilidir.
+**            Madde 53-**  a) Bu Kanunla verilen görevleri yapmak üzere
+kamu tüzel kişiliğini haiz, idari ve malî özerkliğe sahip Kamu İhale
+Kurumu kurulmuştur. Kamu İhale Kurumu, bu Kanunda belirtilen esas, usul
+ve işlemlerin doğru olarak uygulanması konusunda görevli ve yetkilidir.
 
-Kurumun ilişkili olduğu Bakanlık Maliye Bakanlığıdır. Kurumun merkezi
-Ankara’dadır.
+            Kurumun ilişkili olduğu Bakanlık Maliye Bakanlığıdır.
+Kurumun merkezi Ankara’dadır.
 
-Kurum görevini yerine getirirken bağımsızdır. Hiçbir organ, makam, merci
-ve kişi Kurumun kararlarını etkilemek amacıyla emir ve talimat veremez.
+            Kurum görevini yerine getirirken bağımsızdır. Hiçbir organ,
+makam, merci ve kişi Kurumun kararlarını etkilemek amacıyla emir ve
+talimat veremez.
+
+ 
 
 8251
 
-Kamu İhale Kurumu; Kamu İhale Kurulu, Başkanlık ve hizmet birimlerinden
-oluşur.
+ 
 
-b\) Bu Kanuna göre yapılacak ihaleler ile ilgili olarak Kurumun görev ve
-yetkileri aşağıda sayılmıştır:
+           Kamu İhale Kurumu; Kamu İhale Kurulu, Başkanlık ve  hizmet
+birimlerinden oluşur.
 
-1\) İhalenin başlangıcından sözleşmenin imzalanmasına kadar olan süre
-içerisinde idarece yapılan işlemlerde bu Kanun ve ilgili mevzuat
-hükümlerine uygun olmadığına ilişkin şikayetleri inceleyerek
+            b) Bu Kanuna göre yapılacak ihaleler ile ilgili olarak
+Kurumun görev ve yetkileri aşağıda sayılmıştır:
+
+            1) İhalenin başlangıcından sözleşmenin imzalanmasına kadar
+olan süre içerisinde idarece yapılan işlemlerde bu Kanun ve ilgili
+mevzuat hükümlerine uygun olmadığına ilişkin şikayetleri inceleyerek
 sonuçlandırmak.
 
-2\) Bu Kanuna ve Kamu İhale Sözleşmeleri Kanununa ilişkin bütün mevzuatı,
-standart ihale dokümanlarını ve tip sözleşmeleri hazırlamak, geliştirmek
-ve uygulamayı yönlendirmek.
+            2) Bu Kanuna ve Kamu İhale Sözleşmeleri Kanununa ilişkin
+bütün mevzuatı, standart ihale dokümanlarını ve tip sözleşmeleri
+hazırlamak, geliştirmek ve uygulamayı yönlendirmek.
 
-3\) İhale mevzuatı ile ilgili eğitim vermek, ulusal ve uluslararası
-koordinasyonu sağlamak.
+            3) İhale mevzuatı ile ilgili eğitim vermek, ulusal ve
+uluslararası koordinasyonu sağlamak.
 
-4\) Yapılan ihaleler ve sözleşmelerle ilgili Kurum tarafından belirlenen
-şekilde bilgi toplamak, adet, tutar ve diğer konular itibariyle
-istatistikler oluşturmak ve yayımlamak.
+            4) Yapılan ihaleler ve sözleşmelerle ilgili Kurum tarafından
+belirlenen şekilde bilgi toplamak, adet, tutar ve diğer konular
+itibariyle istatistikler oluşturmak ve yayımlamak.
 
-5\) Haklarında ihalelere katılmaktan yasaklama kararı verilenlerin
-sicillerini tutmak.
+            5) Haklarında ihalelere katılmaktan yasaklama kararı
+verilenlerin sicillerini tutmak.
 
-6\) Araştırma ve geliştirme faaliyetlerinde bulunmak.
+            6) Araştırma ve geliştirme faaliyetlerinde bulunmak.
 
-7\) İhale ilânları ile ilgili esas ve usulleri düzenlemek, basılı veya
-elektronik ortamda Kamu İhale Bültenini yayımlamak.
+            7) İhale ilânları ile ilgili esas ve usulleri düzenlemek,
+basılı veya elektronik ortamda Kamu İhale Bültenini yayımlamak.
 
-8\) Yerli isteklilerin, yabancı ülkelerde açılan ihalelere katılmalarına
-engel olunduğunun tespit edilmesi halinde, bu uygulamanın yapıldığı
-ülkenin isteklilerinin de, bu Kanun kapsamında yapılan ihalelere
-katılmalarının önlenmesine yönelik tedbirlerin alınmasını ve gerekli
-düzenlemelerin yapılmasını sağlamak üzere Bakanlar Kuruluna teklifte
-bulunmak.
+            8) Yerli isteklilerin, yabancı ülkelerde açılan ihalelere
+katılmalarına engel olunduğunun tespit edilmesi halinde, bu uygulamanın
+yapıldığı ülkenin isteklilerinin de, bu Kanun kapsamında yapılan
+ihalelere katılmalarının önlenmesine yönelik tedbirlerin alınmasını ve
+gerekli düzenlemelerin yapılmasını sağlamak üzere Bakanlar Kuruluna
+teklifte bulunmak.
 
-9\) Kurumun yıllık bütçesi ile kesin hesabını ve yıllık çalışma
-raporlarını hazırlamak, Kurum bütçesinin uygulanmasını, gelirlerin
-toplanmasını ve giderlerin yapılmasını sağlamak.
+            9) Kurumun yıllık bütçesi ile kesin hesabını ve yıllık
+çalışma raporlarını hazırlamak, Kurum bütçesinin uygulanmasını,
+gelirlerin toplanmasını ve giderlerin yapılmasını sağlamak.
 
-**(Mülga paragraf: 20/11/2008-5812/20 md.)**
+            **(Mülga paragraf: 20/11/2008-5812/20 md.)**
 
-Kurum, görevlerinin yerine getirilmesinde resmi ve özel bütün kurum,
-kuruluş ve kişilerden belge, bilgi ve görüş isteyebilir. Belge, bilgi ve
-görüşlerin istenilen süre içinde verilmesi zorunludur.
+            Kurum, görevlerinin yerine getirilmesinde resmi ve özel
+bütün  kurum, kuruluş ve kişilerden belge, bilgi ve görüş isteyebilir.
+Belge, bilgi ve görüşlerin istenilen süre içinde verilmesi zorunludur.
 
-Kurum, Kurul kararıyla bu Kanunun ve Kamu İhale Sözleşmeleri Kanununun
-uygulanmasına ilişkin standart ihale dokümanı, tip sözleşme, yönetmelik
-ve tebliğler çıkarmaya yetkilidir. Kurul ve Kurum yetkilerini,
-düzenleyici işlemler tesis ederek ve özel nitelikli kararlar alarak
-kullanır. Standart ihale dokümanları, tip sözleşmeler, yönetmelik ve
-tebliğler Resmî Gazetede yayımlanarak yürürlüğe konulur.
+            Kurum, Kurul kararıyla bu Kanunun ve Kamu İhale Sözleşmeleri
+Kanununun uygulanmasına ilişkin standart ihale dokümanı, tip sözleşme,
+yönetmelik ve tebliğler çıkarmaya yetkilidir. Kurul ve Kurum
+yetkilerini, düzenleyici işlemler tesis ederek ve özel nitelikli
+kararlar alarak kullanır. Standart ihale dokümanları, tip sözleşmeler,
+yönetmelik ve tebliğler Resmî Gazetede yayımlanarak yürürlüğe konulur.
 
 c\) **(Değişik: 24/10/2011-KHK-661/57 md.)** Kurumun karar organı biri
 başkan, biri ikinci başkan olmak üzere dokuz üyeden oluşan Kamu İhale
@@ -2135,10 +2234,12 @@ başkanıdır.
 
 8252
 
-**(Değişik: 24/10/2011-KHK-661/57 md.)** Üyelerin en az dört yıllık
-öğrenim veren hukuk, iktisat, siyasal bilgiler, işletme, iktisadi ve
-idari bilimler, mimarlık ve mühendislik fakülteleri ile bunlara denkliği
-yetkili makamlarca kabul edilen yurtdışındaki yükseköğretim
+ 
+
+           **(Değişik: 24/10/2011-KHK-661/57 md.)** Üyelerin en az dört
+yıllık öğrenim veren hukuk, iktisat, siyasal bilgiler, işletme, iktisadi
+ve idari bilimler, mimarlık ve mühendislik fakülteleri ile bunlara
+denkliği yetkili makamlarca kabul edilen yurtdışındaki yükseköğretim
 kurumlarından mezun olmaları gerekir. Kurul üyeliğine atanacak
 kişilerin; kamu kurum ve kuruluşlarında en az oniki yıl hizmetinin
 bulunması, kamu ihale mevzuatı ile ilgili yargılama, inceleme,
@@ -2148,39 +2249,41 @@ niteliğe ve deneyime sahip olmaları, geçmişte ve halen bir siyasi parti
 ile aday gösterilme dâhil üyelik ve görev alma ilişkilerinin bulunmaması
 gerekir.
 
-**(Değişik: 12/6/2002-4761/15 md.)(Değişik birinci ve ikinci cümle:
-24/10/2011-KHK-661/57 md.)** Kurul üyelerinin görev süresi dört yıldır.
-Bir üye bir defadan fazla seçilebilir. Kurul üyelerinin görev süresi
-dolmadan görevlerine son verilemez. Ancak üyeler, ciddi bir hastalık
-veya engellilik nedeniyle iş görememeleri veya atamaya ilişkin şartları
-kaybetmeleri halinde atandıkları usule göre süresi dolmadan görevden
-alınır. Üyeler görevi kötüye kullanmaktan veya yüz kızartıcı bir suçtan
-mahkûm olmaları halinde ise Başbakan onayıyla görevden alınır. Görevden
-alma nedeniyle veya süresi dolmadan herhangi bir sebeple boşalan Kurul
-üyeliklerine bir ay içerisinde yukarıda belirtilen esaslara göre yeniden
-atama yapılır.**(Mülga son cümle: 20/11/2008-5812/20 md.) ^(1)^**
+**           (Değişik: 12/6/2002-4761/15 md.)(Değişik birinci ve ikinci
+cümle: 24/10/2011-KHK-661/57 md.)**Kurul üyelerinin görev süresi dört
+yıldır. Bir üye bir defadan fazla seçilebilir. Kurul üyelerinin görev
+süresi dolmadan görevlerine son verilemez. Ancak üyeler, ciddi bir
+hastalık veya engellilik nedeniyle iş görememeleri veya atamaya ilişkin
+şartları kaybetmeleri halinde atandıkları usule göre süresi dolmadan
+görevden alınır. Üyeler görevi kötüye kullanmaktan veya yüz kızartıcı
+bir suçtan mahkûm olmaları halinde ise Başbakan onayıyla görevden
+alınır. Görevden alma nedeniyle veya süresi dolmadan herhangi bir
+sebeple boşalan Kurul üyeliklerine bir ay içerisinde yukarıda belirtilen
+esaslara göre yeniden atama yapılır.**(Mülga son cümle:
+20/11/2008-5812/20 md.)(…)^(1)^**
 
-Kurumun genel yönetim ve temsili ile Kurulca alınan kararların
-yürütülmesi başkana aittir. Başkanın izin, hastalık, yurt içi veya yurt
-dışı görevlendirme ve görevden alınma hallerinde ikinci başkan başkana
-vekalet eder.
+           Kurumun genel yönetim ve temsili ile Kurulca alınan
+kararların yürütülmesi başkana aittir. Başkanın izin, hastalık, yurt içi
+veya yurt dışı görevlendirme ve görevden alınma hallerinde ikinci başkan
+başkana vekalet eder.
 
-**(Ek paragraf: 20/11/2008-5812/20 md.)** Dava açma, icra takibi yapma
-ve mahkemelerce verilen kararlara karşı üst mercilere başvurmaktan
-vazgeçme yetkisi ile üst dereceli mahkemelerce verilen kararlara karşı
-karar düzeltme yoluna gidilmesinden vazgeçme yetkisi Kurula aittir.
+           **(Ek paragraf: 20/11/2008-5812/20 md.)** Dava açma, icra
+takibi yapma ve mahkemelerce verilen kararlara karşı üst mercilere
+başvurmaktan vazgeçme yetkisi ile üst dereceli mahkemelerce verilen
+kararlara karşı karar düzeltme yoluna gidilmesinden vazgeçme yetkisi
+Kurula aittir.
 
-d\) Kurul üyeleri, Yargıtay Birinci Başkanlık Kurulu huzurunda
+           d) Kurul üyeleri, Yargıtay Birinci Başkanlık Kurulu huzurunda
 üyeliklerinin devamı süresince görevlerini tarafsız ve dürüst olarak
 yerine getireceklerine, bu Kanun hükümlerine ve ilgili mevzuata aykırı
 hareket etmeyeceklerine ve ettirmeyeceklerine dair yemin ederler. Yemin
 için yapılan başvuru Yargıtay’ca acele işlerden sayılır. Kurul üyeleri
 yemin etmedikçe göreve başlayamazlar.
 
-*–––––––––––––––––*
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
-fıkrada yer alan “sakatlık” ibaresi “engellilik” şeklinde
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 53 üncü maddesiyle bu
+fıkrada yer alan “sakatlık” ibaresi “engellilik” olarak
 değiştirilmiştir.*
 
 8252-1
@@ -2372,6 +2475,8 @@ da uygulanır.
 
 8254-1
 
+ 
+
 **(Ek paragraf: 20/11/2008-5812/20 md.)** Mükteseplerine uygun bir
 kadroya atamaları gerçekleşinceye kadar süresi dolması sebebiyle görevi
 sona eren Kurul Başkan ve üyelerine almakta oldukları aylık ücret ile
@@ -2385,28 +2490,47 @@ aylık ücret ile sosyal hak ve yardımların Kurum tarafından yapılmasına
 devam olunur. Kurum tarafından bu kapsamda yapılacak ödemeler üç ayı
 geçemez.
 
-**(Ek: 12/6/2002-4761/15 md.)** Kamu ihale uzmanlığı hariç olmak üzere
-Kurumun görev alanı ile ilgili konularda genel bütçeye dahil daireler
-ile katma bütçeli idareler ve kamu iktisadi teşebbüslerinde çalışanlar
-kurumlarının, hâkimler ve savcılar ise kendilerinin muvafakatı ile
-Kurumda görevlendirilebilir. Bu personel, kurumlarından maaşsız izinli
-sayılır ve aylık, ödenek, her türlü zam ve tazminatları ile diğer malî
-ve sosyal hak ve yardımları Kurumla ilgili arasında imzalanacak
-sözleşmede belirlenir. İzinli oldukları sürece memuriyetleri ile ilgili
-özlük hakları devam ettiği gibi, bu süreler terfi ve emekliliklerinde
-hesaba katılır, terfileri başkaca bir işleme gerek duyulmadan süresinde
-yapılır. Üniversite öğretim elemanları uzmanlıklarına uyan işler için,
-4.11.1981 tarihli ve 2547 sayılı Yüksek Öğretim Kanununun 38 inci
-maddesine göre Kurumda görevlendirilebilir. Bu şekilde görevlendirilecek
-personel sayısı toplam kadro sayısının % 10’unu aşamaz. ^(1)^
+**           (Ek: 12/6/2002-4761/15 md.)** Kamu ihale uzmanlığı  hariç 
+olmak  üzere Kurumun görev alanı ile ilgili konularda genel bütçeye
+dahil daireler ile katma bütçeli idareler ve kamu iktisadi
+teşebbüslerinde çalışanlar kurumlarının, hâkimler ve savcılar ise
+kendilerinin muvafakatı ile Kurumda görevlendirilebilir. Bu personel,
+kurumlarından maaşsız izinli sayılır ve aylık, ödenek, her türlü zam ve
+tazminatları ile diğer malî ve sosyal hak ve yardımları Kurumla ilgili
+arasında imzalanacak sözleşmede belirlenir. İzinli oldukları sürece
+memuriyetleri ile ilgili özlük hakları devam ettiği gibi, bu süreler
+terfi ve emekliliklerinde hesaba katılır, terfileri başkaca bir işleme
+gerek duyulmadan süresinde yapılır. Üniversite öğretim elemanları
+uzmanlıklarına uyan işler için, 4.11.1981 tarihli ve 2547 sayılı Yüksek
+Öğretim Kanununun 38 inci maddesine göre Kurumda görevlendirilebilir. Bu
+şekilde görevlendirilecek personel sayısı toplam kadro sayısının %
+10’unu aşamaz. ^(1)^
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 ––––––––––––
 
 *(1) 20/11/2008 tarihli ve 5812 sayılı Kanunun 20 nci maddesiyle; bu
-paragrafın başına “Kamu ihale uzmanlığı hariç olmak üzere” ibaresi
+paragrafın başına “Kamu ihale uzmanlığı  hariç  olmak  üzere” ibaresi
 eklenmiş ve metne işlenmiştir.*
-
-8254-2
 
 8255
 
@@ -2470,58 +2594,63 @@ No.’lu Kamu İhale Tebliğine bakınız.*
 
 8256
 
-İKİNCİ BÖLÜM
+ 
+
+**           **İKİNCİ BÖLÜM
 
 *İhalelere Yönelik Başvurular ve İnceleme ^(1)^*
 
-*İhalelere yönelik başvurular ^(2)^*
+*             İhalelere yönelik başvurular ^(2)^*
 
-**Madde 54-** **(Değişik: 20/11/2008-5812/21 md.) **
+**             Madde 54-(Değişik: 20/11/2008-5812/21 md.) **
 
-İhale sürecindeki hukuka aykırı işlem veya eylemler nedeniyle bir hak
-kaybına veya zarara uğradığını veya zarara uğramasının muhtemel olduğunu
-iddia eden aday veya istekli ile istekli olabilecekler, bu Kanunda
-belirtilen şekil ve usul kurallarına uygun olmak şartıyla şikayet ve
-itirazen şikayet başvurusunda bulunabilirler.
+             İhale sürecindeki hukuka aykırı işlem veya eylemler
+nedeniyle bir hak kaybına veya zarara uğradığını veya zarara uğramasının
+muhtemel olduğunu iddia eden aday veya istekli ile istekli
+olabilecekler, bu Kanunda belirtilen şekil ve usul kurallarına uygun
+olmak şartıyla şikayet ve itirazen şikayet başvurusunda bulunabilirler.
 
-Şikayet ve itirazen şikayet başvuruları, dava açılmadan önce tüketilmesi
-zorunlu idari başvuru yollarıdır.
+             Şikayet ve itirazen şikayet başvuruları, dava açılmadan
+önce tüketilmesi zorunlu idari başvuru yollarıdır.
 
-Şikayet başvuruları idareye, itirazen şikayet başvuruları Kuruma hitaben
-yazılmış imzalı dilekçelerle yapılır.
+             Şikayet başvuruları idareye, itirazen şikayet başvuruları
+Kuruma hitaben yazılmış imzalı dilekçelerle yapılır.
 
-Dilekçelerde aşağıdaki hususlara yer verilir:
+             Dilekçelerde aşağıdaki hususlara yer verilir:
 
-a\) Başvuru sahibinin, varsa vekil ya da temsilcisinin adı, soyadı veya
-unvanı ve adresi.
+             a) Başvuru sahibinin, varsa vekil ya da temsilcisinin adı,
+soyadı veya unvanı ve adresi.
 
-b\) İhaleyi yapan idarenin ve ihalenin adı veya ihale kayıt numarası.
+             b) İhaleyi yapan idarenin ve ihalenin adı veya ihale kayıt
+numarası.
 
-c\) Başvuruya konu olan durumun farkına varıldığı veya bildirildiği
-tarih.
+             c) Başvuruya konu olan durumun farkına varıldığı veya
+bildirildiği tarih.
 
-d\) Başvurunun konusu, sebepleri ve dayandığı deliller.
+             d) Başvurunun konusu, sebepleri ve dayandığı deliller.
 
-e\) İtirazen şikayet başvurularında idareye yapılan şikayetin ve varsa
-şikayete ilişkin idare kararının bildirim tarihi.
+             e) İtirazenşikayet başvurularında idareye yapılan şikayetin
+ve varsa şikayete ilişkin idare kararının bildirim tarihi.
 
-Şikayet dilekçelerine, başvuruda bulunmaya yetkili olunduğuna dair
-belgeler ile imza sirkülerinin aslı veya yetkili mercilerce onaylı
-örneğinin eklenmesi zorunludur. Aday veya isteklinin başvuru belgeleri
-veya teklif zarfı içerisinde bu belgelerinin bulunması durumunda,
-dilekçe ekinde söz konusu belgeler aranmaz.
+             Şikayet dilekçelerine, başvuruda bulunmaya yetkili
+olunduğuna dair belgeler ile imza sirkülerinin aslı veya yetkili
+mercilerce onaylı örneğinin eklenmesi zorunludur. Aday veya isteklinin
+başvuru belgeleri veya teklif zarfı içerisinde bu belgelerinin bulunması
+durumunda, dilekçe ekinde söz konusu belgeler aranmaz.
 
-İtirazen şikayette bulunanlardan 53 üncü maddenin (j) bendinin (2) nolu
-alt bendinde belirtilen bedelin dört katı tutarına kadar başvuru
-teminatı alınmasına Bakanlar Kurulunca karar verilebilir. Başvuru
-teminatları Kurum hesaplarına yatırılır. Bu teminatlar Kurum gelirleri
-ile ilişkilendirilmeksizin ayrı hesaplarda tutulur.
+             İtirazenşikayette bulunanlardan 53 üncü maddenin (j)
+bendinin (2) nolu alt bendinde belirtilen bedelin dört katı tutarına
+kadar başvuru teminatı alınmasına Bakanlar Kurulunca karar verilebilir.
+Başvuru teminatları Kurum hesaplarına yatırılır. Bu teminatlar Kurum
+gelirleri ile ilişkilendirilmeksizin ayrı hesaplarda tutulur.
 
-İtirazen şikayet dilekçelerine, başvuruda bulunmaya yetkili olunduğuna
-dair belgeler ile imza sirkülerinin aslı veya yetkili mercilerce onaylı
-örneklerinin, varsa şikayete idarece verilen cevabın bir örneği ile
-başvuru bedeli ve teminatının Kurum hesaplarına yatırıldığına dair
-belgenin eklenmesi zorunludur.
+             İtirazenşikayet dilekçelerine, başvuruda bulunmaya yetkili
+olunduğuna dair belgeler ile imza sirkülerinin aslı veya yetkili
+mercilerce onaylı örneklerinin, varsa şikayete idarece verilen cevabın
+bir örneği ile başvuru bedeli ve teminatının Kurum hesaplarına
+yatırıldığına dair belgenin eklenmesi zorunludur.
+
+            
 
 –––––––––––––
 
@@ -2533,57 +2662,62 @@ maddesiyle metne işlendiği şekilde değiştirilmiştir.*
 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle metne işlendiği
 şekilde değiştirilmiştir.*
 
+ 
+
 8256-1
+
+ 
 
 Aynı kişi tarafından birden fazla ihaleye, birden fazla kişi tarafından
 ise aynı ihaleye tek dilekçe ile başvuruda bulunulamaz.
 
-Belirtilen hususlara aykırılık içeren ve henüz başvuru süresi dolmamış
-olan başvurulardaki eksiklikler, idare veya Kurumun bildirim yapma
-zorunluluğu bulunmaksızın, başvuru süresinin sonuna kadar başvuru sahibi
-tarafından giderilebilir.
+             Belirtilen hususlara aykırılık içeren ve henüz başvuru
+süresi dolmamış olan başvurulardaki eksiklikler, idare veya Kurumun
+bildirim yapma zorunluluğu bulunmaksızın, başvuru süresinin sonuna kadar
+başvuru sahibi tarafından giderilebilir.
 
-Başvurular üzerine ihaleyi yapan idare veya Kurum tarafından gerekçeli
-olarak;
+             Başvurular üzerine ihaleyi yapan idare veya Kurum
+tarafından gerekçeli olarak;
 
-a\) İhale sürecinin devam etmesine engel oluşturacak ve düzeltici işlemle
-giderilemeyecek hukuka aykırılığın tespit edilmesi halinde ihalenin
-iptaline,
+             a) İhale sürecinin devam etmesine engel oluşturacak ve
+düzeltici işlemle giderilemeyecek hukuka aykırılığın tespit edilmesi
+halinde ihalenin iptaline,
 
-b\) İdare tarafından düzeltme yapılması yoluyla giderilebilecek ve ihale
-sürecinin kesintiye uğratılmasına gerek bulunmayan durumlarda, düzeltici
-işlem belirlenmesine,
+             b) İdare tarafından düzeltme yapılması yoluyla
+giderilebilecek ve ihale sürecinin kesintiye uğratılmasına gerek
+bulunmayan durumlarda, düzeltici işlem belirlenmesine,
 
-c\) Başvurunun süre, usul ve şekil kurallarına uygun olmaması, usulüne
-uygun olarak sözleşme imzalanmış olması veya şikayete konu işlemlerde
-hukuka aykırılığın tespit edilememesi veya itirazen şikayet başvurusuna
-konu hususun Kurumun görev alanında bulunmaması hallerinde başvurunun
-reddine,
+             c) Başvurunun süre, usul ve şekil kurallarına uygun
+olmaması, usulüne uygun olarak sözleşme imzalanmış olması veya şikayete
+konu işlemlerde hukuka aykırılığın tespit edilememesi veya itirazen
+şikayet başvurusuna konu hususun Kurumun görev alanında bulunmaması
+hallerinde başvurunun reddine,
 
-karar verilir. Kurumun görev alanında bulunmaması hali hariç, itirazen
-şikayet başvurusunun reddedilmesi durumunda, başvuru teminatı yatırılan
-hallerde teminatın gelir kaydedilmesine de karar verilir.
+             karar verilir. Kurumun görev alanında bulunmaması hali
+hariç, itirazenşikayet başvurusunun reddedilmesi durumunda, başvuru
+teminatı yatırılan hallerde teminatın gelir kaydedilmesine de karar
+verilir.
 
-Dinamik alım sistemi, elektronik eksiltme ve çerçeve anlaşmalara ilişkin
-başvuru esas ve usulleri Kurum tarafından yürürlüğe konulacak
-yönetmelikle belirlenir.
+             Dinamik alım sistemi, elektronik eksiltme ve çerçeve
+anlaşmalara ilişkin başvuru esas ve usulleri Kurum tarafından yürürlüğe
+konulacak yönetmelikle belirlenir.
 
-*İdareye şikayet başvurusu ^(1)^*
+*            İdareye şikayet başvurusu ^(1)^*
 
-**Madde 55-** **(Değişik: 20/11/2008-5812/22 md.)**
+**            Madde 55-(Değişik: 20/11/2008-5812/22 md.)**
 
-Şikayet başvurusu, ihale sürecindeki işlem veya eylemlerin hukuka
-aykırılığı iddiasıyla bu işlem veya eylemlerin farkına varıldığı veya
-farkına varılmış olması gereken tarihi izleyen günden itibaren 21 inci
-maddenin (b) ve (c) bentlerine göre yapılan ihalelerde beş gün, diğer
-hallerde ise on gün içinde ve sözleşmenin imzalanmasından önce, ihaleyi
-yapan idareye yapılır. İlanda yer alan hususlara yönelik başvuruların
-süresi ilk ilan tarihinden, ön yeterlik veya ihale dokümanının ilana
-yansımayan diğer hükümlerine yönelik başvuruların süresi ise dokümanın
-satın alındığı tarihte başlar.
+             Şikayet başvurusu, ihale sürecindeki işlem veya eylemlerin
+hukuka aykırılığı iddiasıyla  bu  işlem  veya  eylemlerin  farkına 
+varıldığı veya farkına varılmış olması gereken tarihi izleyen günden
+itibaren 21 inci maddenin (b) ve (c) bentlerine göre yapılan ihalelerde
+beş gün, diğer hallerde ise on gün içinde ve sözleşmenin imzalanmasından
+önce, ihaleyi yapan idareye yapılır. İlanda yer alan hususlara yönelik
+başvuruların süresi ilk ilan tarihinden, ön yeterlik veya ihale
+dokümanının ilana yansımayan diğer hükümlerine yönelik başvuruların
+süresi ise dokümanın satın alındığı tarihte başlar.
 
-İlan, ön yeterlik veya ihale dokümanına ilişkin şikayetler birinci
-fıkradaki süreleri aşmamak üzere en geç ihale veya son başvuru
+             İlan, ön yeterlik veya ihale dokümanına ilişkin şikayetler
+birinci fıkradaki süreleri aşmamak üzere en geç ihale veya son başvuru
 tarihinden üç iş günü öncesine kadar yapılabilir. Bu yöndeki
 başvuruların idarelerce ihale veya son başvuru tarihinden önce
 sonuçlandırılması esastır. Şikayet üzerine yapılan incelemede
@@ -2602,64 +2736,70 @@ tesis edilir.
 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle metne işlendiği
 şekilde değiştirilmiştir.*
 
+            
+
 8256-2
 
+ 
+
 İdare, şikayet başvurusu üzerine gerekli incelemeyi yaparak on gün
-içinde gerekçeli bir karar alır. Alınan karar, şikayetçi ile diğer aday
-veya istekliler ile istekli olabileceklere karar tarihini izleyen üç gün
-içinde bildirilir. İlan ile ihale veya ön yeterlik dokümanına yönelik
-başvurular dışında istekli olabileceklere bildirim yapılmaz.
+içinde gerekçeli bir karar alır.  Alınan karar, şikayetçi ile diğer aday
+veya istekliler  ile istekli olabileceklere karar tarihini izleyen üç
+gün içinde bildirilir. İlan ile ihale veya ön yeterlik dokümanına
+yönelik başvurular dışında istekli olabileceklere bildirim yapılmaz.
 
-Belirtilen süre içinde bir karar alınmaması durumunda başvuru sahibi
-tarafından karar verme süresinin bitimini, süresinde alınan kararın
-uygun bulunmaması durumunda ise başvuru sahibi dahil aday, istekli veya
-istekli olabilecekler tarafından idarece alınan kararın bildirimini
-izleyen on gün içinde Kuruma itirazen şikayet başvurusunda
-bulunulabilir.
+             Belirtilen süre içinde bir karar alınmaması durumunda
+başvuru sahibi tarafından karar verme süresinin bitimini, süresinde
+alınan kararın uygun bulunmaması durumunda ise başvuru sahibi dahil
+aday, istekli veya istekli olabilecekler tarafından idarece alınan
+kararın bildirimini izleyen on gün içinde Kuruma itirazen şikayet
+başvurusunda bulunulabilir.
 
-İdareye şikayet başvurusunda bulunulması halinde, başvuru üzerine alınan
-kararın son bildirim tarihini, süresi içerisinde bir karar alınmaması
-halinde ise bu sürenin bitimini izleyen tarihten itibaren on gün
-geçmeden ve itirazen şikayet başvurusunda bulunulmadığı hususuna ilişkin
-sorgulama yapılmadan veya itirazen şikayet başvurusunda bulunulması
-halinde ise Kurum tarafından nihai karar verilmeden sözleşme
+             İdareye şikayet başvurusunda bulunulması halinde, başvuru
+üzerine alınan kararın son bildirim tarihini, süresi içerisinde bir
+karar alınmaması halinde ise bu sürenin bitimini izleyen tarihten
+itibaren on gün geçmeden ve itirazen şikayet başvurusunda bulunulmadığı
+hususuna ilişkin sorgulama yapılmadan veya itirazen şikayet başvurusunda
+bulunulması halinde ise Kurum tarafından nihai karar verilmeden sözleşme
 imzalanamaz.
 
-*Kuruma itirazen şikayet başvurusu ^(1)^*
+            *Kuruma itirazenşikayet başvurusu ^(1)^*
 
-**Madde 56-** **(Değişik: 22/11/2008-5812/23 md.)**
+**            Madde 56-(Değişik: 22/11/2008-5812/23 md.)**
 
-İdareye şikayet başvurusunda bulunan veya idarece alınan kararı uygun
-bulmayan aday, istekli veya istekli olabilecekler tarafından 55 inci
-maddenin dördüncü fıkrasında belirtilen hallerde ve sürede, sözleşme
-imzalanmadan önce itirazen şikayet başvurusunda bulunulabilir. İhalenin
-iptaline ilişkin işlem ve kararlardan, sadece şikayet ve itirazen
-şikayet üzerine alınanlar itirazen şikayete konu edilebilir ve bu
-kararlara karşı beş gün içinde doğrudan Kuruma başvuruda bulunulabilir.
+             İdareye şikayet başvurusunda bulunan veya idarece alınan
+kararı uygun bulmayan aday, istekli veya istekli olabilecekler
+tarafından 55 inci maddenin dördüncü fıkrasında belirtilen hallerde ve
+sürede, sözleşme imzalanmadan önce itirazen şikayet başvurusunda
+bulunulabilir. İhalenin iptaline ilişkin işlem ve kararlardan, sadece
+şikayet ve itirazen şikayet üzerine alınanlar itirazen şikayete konu
+edilebilir ve bu kararlara karşı beş gün içinde doğrudan Kuruma
+başvuruda bulunulabilir.
 
-Kurum itirazen şikayet başvurularını başvuru sahibinin iddiaları ile
-idarenin şikayet üzerine aldığı kararda belirlenen hususlar ve itiraz
-edilen işlemler bakımından eşit muamele ilkesinin ihlal edilip
-edilmediği açılarından inceler. İdare tarafından şikayet veya itirazen
-şikayet üzerine alınan ihalenin iptal edilmesi işlemine karşı yapılacak
-itirazen şikayet başvuruları ise idarenin iptal gerekçeleriyle sınırlı
-incelenir.
+             Kurum itirazenşikayet başvurularını başvuru sahibinin
+iddiaları ile idarenin şikayet üzerine aldığı kararda belirlenen
+hususlar ve itiraz edilen işlemler bakımından eşit muamele ilkesinin
+ihlal edilip edilmediği açılarından inceler. İdare tarafından şikayet
+veya itirazen şikayet üzerine alınan ihalenin iptal edilmesi işlemine
+karşı yapılacak itirazen şikayet başvuruları ise idarenin iptal
+gerekçeleriyle sınırlı incelenir.
 
-Kanunda belirtilen sürelere ve usule uyulmadan sözleşme imzalanmış
-olması veya itirazen şikayet başvurusundan feragat edilmesi itirazen
-şikayet başvurusunun incelenmesine ve 54 üncü maddede sayılan
+             Kanunda belirtilen sürelere ve usule uyulmadan sözleşme
+imzalanmış olması veya itirazenşikayet başvurusundan feragat edilmesi
+itirazen şikayet başvurusunun incelenmesine ve 54 üncü maddede sayılan
 kararlardan birinin alınmasına engel teşkil etmez.
 
-Kurul tarafından gerekli görülen hallerde tarafların ve ilgililerin
-dinlenmesine karar verilir. Bu durumda, Kurul tarafından tespit edilen
-tarihte taraflar ve ilgililer dinlenir.
+             Kurul tarafından gerekli görülen hallerde tarafların ve
+ilgililerin dinlenmesine karar verilir. Bu durumda, Kurul tarafından
+tespit edilen tarihte taraflar ve ilgililer dinlenir.
 
-Kurum, itirazen şikayete ilişkin nihai kararını, incelenen ihaleye
-ilişkin gerekli bilgi ve belgeler ile ihale işlem dosyasının kayıtlara
-alındığı tarihi izleyen yirmi gün içinde vermek zorundadır. Bu süre 21
-inci maddenin (b) ve (c) bentlerine göre yapılan ihaleler ile şikayet ve
-itirazen şikayet üzerine alınan ihalenin iptal edilmesi işlemine karşı
-yapılacak itirazen şikayet başvurularında on iş günü olarak uygulanır.
+             Kurum, itirazenşikayete ilişkin nihai kararını, incelenen
+ihaleye ilişkin gerekli bilgi ve belgeler ile ihale işlem dosyasının
+kayıtlara alındığı tarihi izleyen yirmi gün içinde vermek zorundadır. Bu
+süre 21 inci maddenin (b) ve (c) bentlerine göre yapılan ihaleler ile
+şikayet ve itirazen şikayet üzerine alınan ihalenin iptal edilmesi
+işlemine karşı yapılacak itirazen şikayet başvurularında  on iş günü
+olarak uygulanır.
 
 *––––––––––––*
 
@@ -2668,75 +2808,81 @@ yapılacak itirazen şikayet başvurularında on iş günü olarak uygulanır.
 tarihinden geçerli olmak üzere metne işlendiği şekilde
 değiştirilmiştir.*
 
+* *
+
 8257
 
-Kurum, gerekli gördüğü takdirde özel uzmanlık gerektiren teknik
-hususlarla ilgili olarak ihtisas sahibi kamu veya özel hukuk tüzel
-kişileri ile gerçek kişilerin görüşüne başvurabilir. Görüşüne başvurulan
-özel hukuk tüzel kişileri ile gerçek kişilere (8000) gösterge rakamının
-memur aylıklarına uygulanan aylık katsayısı ile çarpımı sonucu bulunacak
-tutarı geçmemek üzere Kurul tarafından belirlenen miktarda ödeme
-yapılır. Kamu görevlilerinin görüşüne başvurulması halinde ise personele
-diğer mevzuatta yer alan kısıtlamalara bağlı olmaksızın (5000) gösterge
-rakamı esas alınmak suretiyle aynı esaslar çerçevesinde ödeme yapılır.
-Bu fıkra uyarınca yapılacak ödemeler damga vergisi hariç herhangi bir
-vergi ve kesintiye tabi tutulmaz.
+ 
 
-Kurul tarafından verilen bütün kararlar, karar tarihini izleyen beş iş
-günü içinde taraflara tebligata çıkarılır ve tebligata çıkarıldığı
-tarihi izleyen beş gün içinde Kurumun internet sayfasında yayınlanır.
-Kararlara erişim ücrete tabi tutulamaz.
+             Kurum, gerekli gördüğü takdirde özel uzmanlık gerektiren
+teknik hususlarla ilgili olarak ihtisas sahibi kamu veya özel hukuk
+tüzel kişileri ile gerçek kişilerin görüşüne başvurabilir. Görüşüne
+başvurulan özel hukuk tüzel kişileri ile gerçek kişilere (8000) gösterge
+rakamının memur aylıklarına uygulanan aylık katsayısı ile çarpımı sonucu
+bulunacak tutarı geçmemek üzere Kurul tarafından belirlenen miktarda
+ödeme yapılır. Kamu görevlilerinin görüşüne başvurulması  halinde ise
+personele  diğer mevzuatta yer  alan kısıtlamalara bağlı  olmaksızın
+(5000) gösterge rakamı esas alınmak suretiyle aynı esaslar çerçevesinde
+ödeme yapılır. Bu fıkra uyarınca yapılacak ödemeler damga vergisi hariç
+herhangi bir vergi ve kesintiye tabi tutulmaz.
+
+             Kurul tarafından verilen bütün kararlar, karar tarihini
+izleyen beş iş günü içinde taraflara tebligata çıkarılır ve tebligata
+çıkarıldığı tarihi izleyen beş gün içinde Kurumun internet sayfasında
+yayınlanır. Kararlara erişim ücrete tabi tutulamaz.
 
 İdareler hukuki durumda değişiklik yaratan Kurul kararlarının
 gerektirdiği işlemleri ivedilikle yerine getirmek zorundadır.
 
-*Yargısal inceleme*
+**           ** *Yargısal inceleme*
 
-**Madde 57-** Şikâyetler ile ilgili Kurum tarafından verilen nihai
-kararlar Türkiye Cumhuriyeti Mahkemelerinde dava konusu edilebilir ve bu
-davalar öncelikle görülür.
+**            Madde 57-** Şikâyetler ile ilgili Kurum tarafından verilen
+nihai kararlar Türkiye Cumhuriyeti Mahkemelerinde dava konusu edilebilir
+ve bu davalar öncelikle görülür.
 
 DÖRDÜNCÜ KISIM
 
 *Yasaklar ve Ceza Sorumluluğu*
 
-*İhalelere katılmaktan yasaklama*
+*            İhalelere katılmaktan yasaklama*
 
-**Madde 58-** (**Değişik birinci fıkra: 30/7/2003-4964/ 35 md.)** 17 nci
-maddede belirtilen fiil veya davranışlarda bulundukları tespit edilenler
-hakkında fiil veya davranışlarının özelliğine göre, bir yıldan az
-olmamak üzere iki yıla kadar, üzerine ihale yapıldığı halde mücbir sebep
-halleri dışında usulüne göre sözleşme yapmayanlar hakkında ise altı
-aydan az olmamak üzere bir yıla kadar, 2 nci ve 3 üncü maddeler ile
-istisna edilenler dahil bütün kamu kurum ve kuruluşlarının ihalelerine
-katılmaktan yasaklama kararı verilir. Katılma yasakları, ihaleyi yapan
-bakanlık veya ilgili veya bağlı bulunulan bakanlık, herhangi bir
-bakanlığın ilgili veya bağlı kuruluşu sayılmayan idarelerde bu
-idarelerin ihale yetkilileri, il özel idareleri ve belediyeler ile
+**            Madde 58-** (**Değişik birinci fıkra: 30/7/2003-4964/ 35
+md.)** 17 nci maddede belirtilen fiil veya davranışlarda bulundukları
+tespit edilenler hakkında fiil veya davranışlarının özelliğine göre, bir
+yıldan az olmamak üzere iki yıla kadar, üzerine ihale yapıldığı halde
+mücbir sebep halleri dışında usulüne göre sözleşme yapmayanlar hakkında
+ise altı aydan az olmamak üzere bir yıla kadar, 2 nci ve 3 üncü maddeler
+ile istisna edilenler dahil bütün kamu kurum ve kuruluşlarının
+ihalelerine katılmaktan yasaklama kararı verilir. Katılma yasakları,
+ihaleyi yapan bakanlık veya ilgili veya bağlı bulunulan bakanlık,
+herhangi bir bakanlığın ilgili veya bağlı kuruluşu sayılmayan idarelerde
+bu idarelerin ihale yetkilileri, il özel idareleri ve belediyeler ile
 bunlara bağlı birlik, müessese ve işletmelerde ise İçişleri Bakanlığı
 tarafından verilir.
 
-Haklarında yasaklama kararı verilen tüzel kişilerin şahıs şirketi olması
-halinde şirket ortaklarının tamamı hakkında, sermaye şirketi olması
-halinde ise sermayesinin yarısından fazlasına sahip olan gerçek veya
-tüzel kişi ortaklar hakkında birinci fıkra hükmüne göre yasaklama kararı
-verilir. Haklarında yasaklama kararı verilenlerin gerçek veya tüzel kişi
-olması durumuna göre; ayrıca bir şahıs şirketinde ortak olmaları halinde
-bu şahıs şirketi hakkında da, sermaye şirketinde ortak olmaları halinde
-ise sermayesinin yarısından fazlasına sahip olmaları kaydıyla bu sermaye
-şirketi hakkında da aynı şekilde yasaklama kararı verilir.
+            Haklarında yasaklama kararı verilen tüzel kişilerin şahıs
+şirketi olması halinde şirket  ortaklarının tamamı hakkında, sermaye
+şirketi olması halinde ise sermayesinin yarısından fazlasına sahip olan
+gerçek veya tüzel kişi ortaklar hakkında birinci fıkra hükmüne göre
+yasaklama kararı verilir. Haklarında yasaklama kararı verilenlerin
+gerçek veya tüzel kişi olması durumuna göre; ayrıca bir şahıs şirketinde
+ortak olmaları halinde bu şahıs şirketi hakkında da, sermaye şirketinde
+ortak olmaları halinde ise sermayesinin yarısından fazlasına sahip
+olmaları kaydıyla bu sermaye şirketi hakkında da aynı şekilde yasaklama
+kararı verilir.
 
-İhale sırasında veya sonrasında bu fiil veya davranışlarda bulundukları
-tespit edilenler, idarelerce o ihaleye iştirak ettirilmeyecekleri gibi
-yasaklama kararının yürürlüğe girdiği tarihe kadar aynı idare tarafından
-yapılacak sonraki ihalelere de iştirak ettirilmezler.
+            İhale sırasında veya sonrasında bu fiil veya davranışlarda
+bulundukları tespit edilenler, idarelerce o ihaleye iştirak
+ettirilmeyecekleri gibi yasaklama kararının yürürlüğe girdiği tarihe
+kadar aynı idare tarafından yapılacak sonraki ihalelere de iştirak
+ettirilmezler.
 
-Yasaklama kararları, yasaklamayı gerektiren fiil veya davranışın tespit
-edildiği tarihi izleyen en geç kırkbeş gün içinde verilir.Verilen bu
-karar Resmi Gazetede yayımlanmak üzere en geç onbeş gün içinde
-gönderilir ve yayımı tarihinde yürürlüğe girer. Bu kararlar Kamu İhale
-Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı olanlara
-ilişkin siciller tutulur.^(1)^
+            Yasaklama kararları, yasaklamayı gerektiren fiil veya
+davranışın tespit edildiği tarihi izleyen en geç kırkbeş gün içinde
+verilir.Verilen bu karar Resmi Gazetede yayımlanmak üzere en geç onbeş
+gün içinde gönderilir ve yayımı tarihinde yürürlüğe girer. Bu kararlar
+Kamu İhale Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı
+olanlara ilişkin siciller tutulur.^(1)^
 
 *–––––––––––––*
 
@@ -2746,79 +2892,85 @@ değiştirilmiş ve metne işlenmiştir.*
 
 8258
 
-İhaleyi yapan idareler, ihalelere katılmaktan yasaklamayı gerektirir bir
-durumla karşılaştıkları takdirde, gereğinin yapılması için bu durumu
-ilgili veya bağlı bulunulan bakanlığa bildirmekle yükümlüdür.
+ 
 
-*İsteklilerin ceza sorumluluğu*
+            İhaleyi yapan idareler, ihalelere katılmaktan yasaklamayı
+gerektirir bir durumla karşılaştıkları takdirde, gereğinin yapılması
+için bu durumu ilgili veya bağlı bulunulan bakanlığa bildirmekle
+yükümlüdür.
 
-**Madde 59-** Taahhüt tamamlandıktan ve kabul işlemi yapıldıktan sonra
-tespit edilmiş olsa dahi, 17 nci maddede belirtilen fiil veya
-davranışlardan Türk Ceza Kanununa göre suç teşkil eden fiil veya
-davranışlarda bulunan gerçek veya tüzel kişiler ile o işteki ortak veya
-vekilleri hakkında Türk Ceza Kanunu hükümlerine göre ceza kovuşturması
-yapılmak üzere yetkili Cumhuriyet Savcılığına suç duyurusunda bulunulur.
-Hükmolunacak cezanın yanısıra, idarece 58 inci maddeye göre verilen
-yasaklama kararının bitiş tarihini izleyen günden itibaren uygulanmak
-şartıyla bir yıldan az olmamak üzere üç yıla kadar bu Kanun kapsamında
-yer alan bütün kamu kurum ve kuruluşlarının ihalelerine katılmaktan
-mahkeme kararıyla 58 inci maddenin ikinci fıkrasında sayılanlarla
-birlikte yasaklanırlar.
+*            İsteklilerin ceza sorumluluğu*
 
-Bu Kanun kapsamında yapılan ihalelerden dolayı haklarında birinci fıkra
-gereğince ceza kovuşturması yapılarak kamu davası açılmasına karar
-verilenler ve 58 inci maddenin ikinci fıkrasında sayılanlar yargılama
-sonuna kadar Kanun kapsamında yer alan kamu kurum ve kuruluşlarının
-ihalelerine katılamaz. Haklarında kamu davası açılmasına karar
-verilenler, Cumhuriyet Savcılıklarınca sicillerine işlenmek üzere Kamu
-İhale Kurumuna bildirilir.
+**            Madde 59-** Taahhüt tamamlandıktan ve kabul işlemi
+yapıldıktan sonra tespit edilmiş olsa dahi, 17 nci maddede belirtilen
+fiil veya davranışlardan Türk Ceza Kanununa göre suç teşkil eden fiil
+veya davranışlarda bulunan gerçek veya tüzel kişiler ile o işteki ortak
+veya vekilleri hakkında Türk Ceza Kanunu hükümlerine göre ceza
+kovuşturması yapılmak üzere yetkili Cumhuriyet Savcılığına suç
+duyurusunda bulunulur. Hükmolunacak cezanın yanısıra, idarece 58 inci
+maddeye göre verilen yasaklama kararının bitiş tarihini izleyen günden
+itibaren uygulanmak şartıyla bir yıldan az olmamak üzere üç yıla kadar
+bu Kanun kapsamında yer alan bütün kamu kurum ve kuruluşlarının
+ihalelerine katılmaktan mahkeme kararıyla 58 inci maddenin ikinci
+fıkrasında sayılanlarla birlikte yasaklanırlar.
 
-Bu Kanunda belirtilen yasak fiil veya davranışları nedeniyle haklarında
-mükerrer ceza hükmolunanlar ile bu kişilerin sermayesinin yarısından
-fazlasına sahip olduğu sermaye şirketleri veya bu kişilerin ortağı
-olduğu şahıs şirketleri, mahkeme kararı ile sürekli olarak kamu
-ihalelerine katılmaktan yasaklanır.
+            Bu Kanun kapsamında yapılan ihalelerden dolayı haklarında
+birinci fıkra gereğince ceza kovuşturması yapılarak kamu davası
+açılmasına karar verilenler ve 58 inci maddenin ikinci fıkrasında
+sayılanlar yargılama sonuna kadar Kanun kapsamında yer alan kamu kurum
+ve kuruluşlarının ihalelerine katılamaz. Haklarında kamu davası
+açılmasına karar verilenler, Cumhuriyet Savcılıklarınca sicillerine
+işlenmek üzere Kamu İhale Kurumuna bildirilir.
 
-Bu madde hükümlerine göre; mahkeme kararı ile yasaklananlar ve ceza
-hükmolunanlar, Cumhuriyet Savcılıklarınca sicillerine işlenmek üzere
-Kamu İhale Kurumuna, meslek sicillerine işlenmek üzere de ilgili meslek
-odalarına bildirilir.
+           Bu Kanunda belirtilen yasak fiil veya davranışları nedeniyle
+haklarında mükerrer ceza hükmolunanlar  ile  bu  kişilerin 
+sermayesinin  yarısından  fazlasına  sahip   olduğu   sermaye şirketleri
+veya bu kişilerin ortağı olduğu şahıs şirketleri, mahkeme kararı ile
+sürekli olarak kamu ihalelerine katılmaktan yasaklanır.
 
-Sürekli olarak kamu ihalelerine katılmaktan yasaklanmış olanlara ilişkin
-mahkeme kararları, Kamu İhale Kurumunca, bildirimi izleyen onbeş gün
-içinde Resmî Gazetede yayımlanmak suretiyle duyurulur.
+            Bu madde hükümlerine göre; mahkeme kararı ile yasaklananlar
+ve ceza hükmolunanlar, Cumhuriyet Savcılıklarınca sicillerine işlenmek
+üzere Kamu İhale Kurumuna, meslek sicillerine işlenmek üzere de ilgili
+meslek odalarına bildirilir.
 
-*Görevlilerin ceza sorumluluğu*
+            Sürekli olarak kamu ihalelerine katılmaktan yasaklanmış
+olanlara ilişkin mahkeme kararları, Kamu İhale Kurumunca, bildirimi
+izleyen onbeş gün içinde Resmî Gazetede yayımlanmak suretiyle duyurulur.
 
-**Madde 60-** İhale yetkilisi ile ihale komisyonlarının başkan ve
-üyeleri ile ihale işlemlerinden sözleşme yapılmasına kadar ihale
-sürecindeki her aşamada görev alan diğer ilgililerin; 17 nci maddede
-belirtilen fiil veya davranışlarda bulunduklarının, görevlerini kanuni
-gereklere uygun veya tarafsızlıkla yapmadıklarının, taraflardan birinin
-zararına yol açacak ihmalde veya kusurlu hareketlerde bulunduklarının
-tespiti halinde, haklarında ilgili mevzuatları gereğince disiplin cezası
-uygulanır. Ayrıca, fiil veya davranışlarının özelliğine göre haklarında
-ceza kovuşturması da yapılır ve hükmolunacak ceza ile birlikte
-tarafların uğradıkları zarar ve ziyan genel hükümlere göre kendilerine
-tazmin ettirilir. **(Değişik son cümle: 30/7/2003-4964/36 md.)** Bu
-Kanuna aykırı fiil veya davranışlardan dolayı hüküm giyen idare
-görevlileri, bu Kanun kapsamına giren işlerde görevlendirilemezler.
+*            Görevlilerin ceza sorumluluğu*
 
-Bu Kanun kapsamına giren işlerden dolayı yargı organlarınca herhangi bir
-ceza verilmiş olanlar, bu Kanun kapsamına giren bütün kamu kurum ve
-kuruluşlarınca bu Kanunun ve ilgili diğer mevzuatın uygulanması ile
-görevli ve yetkili kadrolara atanamaz ve görev alamazlar.
+**            Madde 60-** İhale yetkilisi ile ihale komisyonlarının
+başkan ve üyeleri ile ihale işlemlerinden sözleşme yapılmasına kadar
+ihale sürecindeki her aşamada görev alan diğer ilgililerin; 17 nci
+maddede belirtilen fiil veya davranışlarda bulunduklarının, görevlerini
+kanuni gereklere uygun veya tarafsızlıkla yapmadıklarının, taraflardan
+birinin zararına yol açacak ihmalde veya kusurlu hareketlerde
+bulunduklarının tespiti halinde, haklarında ilgili mevzuatları gereğince
+disiplin cezası uygulanır. Ayrıca, fiil veya davranışlarının özelliğine
+göre haklarında ceza kovuşturması da yapılır ve hükmolunacak ceza ile
+birlikte tarafların uğradıkları zarar ve ziyan genel hükümlere göre
+kendilerine tazmin ettirilir. **(Değişik son cümle: 30/7/2003-4964/36
+md.)** Bu Kanuna aykırı fiil veya davranışlardan dolayı hüküm giyen
+idare görevlileri, bu Kanun kapsamına giren işlerde
+görevlendirilemezler.
+
+            Bu Kanun kapsamına giren işlerden dolayı yargı organlarınca
+herhangi bir ceza verilmiş olanlar, bu Kanun kapsamına giren bütün kamu
+kurum ve kuruluşlarınca bu Kanunun ve ilgili diğer mevzuatın uygulanması
+ile görevli ve yetkili kadrolara atanamaz ve görev alamazlar.
 
 8258-1
 
-**(Değişik üçüncü fıkra: 30/7/2003-4964/36 md.)**5 inci maddede
-belirtilen ilkelere ve 62 nci maddede belirtilen kurallara aykırı olarak
-ihaleye çıkılmasına izin verenler ve ihale yapanlar hakkında da yukarıda
-belirtilen müeyyideler uygulanır.
+ 
 
-*Bilgi ve belgeleri açıklama yasağı*
+**            (Değişik üçüncü fıkra: 30/7/2003-4964/36 md.)**5 inci
+maddede belirtilen ilkelere ve 62 nci maddede belirtilen kurallara
+aykırı olarak ihaleye çıkılmasına izin verenler ve ihale yapanlar
+hakkında da yukarıda belirtilen müeyyideler uygulanır.  
 
-**Madde 61-** **(Değişik: 30/7/2003-4964/37 md.) **
+*            Bilgi ve belgeleri açıklama yasağı*
+
+**            Madde 61-(Değişik: 30/7/2003-4964/37 md.) **
 
 Bu Kanunun uygulanmasında görevliler ile danışmanlık hizmeti sunanlar;
 ihale süreci ile ilgili bütün işlemlere, isteklilerin iş ve işlemleri
@@ -2832,57 +2984,59 @@ BEŞİNCİ KISIM
 
 *Çeşitli Hükümler*
 
-*İdarelerce uyulması gereken diğer kurallar *
+*            İdarelerce uyulması gereken diğer kurallar             *
 
-**Madde 62-** Bu Kanun kapsamındaki idarelerce mal veya hizmet alımları
-ile yapım işleri için ihaleye çıkılmadan önce aşağıda belirtilen
-hususlara uyulması zorunludur:
+**            Madde 62-** Bu Kanun kapsamındaki idarelerce mal veya
+hizmet alımları ile yapım işleri için ihaleye çıkılmadan önce aşağıda
+belirtilen hususlara uyulması zorunludur:
 
-a\) Yatırım projelerinin plânlanan sürede tamamlanarak ekonomiye
-kazandırılabilmesi amacıyla, birden fazla yılı kapsayan işlerde ihaleye
-çıkılabilmesi için, işin süresine uygun olarak yıllar itibariyle
-ödeneğin bütçelerinde bulunmasını sağlamak üzere programlamanın yapılmış
-olması zorunludur. İlk yıl için öngörülen ödenek proje maliyetinin %
-10’undan az olamaz ve başlangıçta daha sonraki yıllar için programlanmış
-olan ödenek dilimleri sonraki yıllarda azaltılamaz.
+            a) Yatırım projelerinin plânlanan sürede tamamlanarak
+ekonomiye kazandırılabilmesi amacıyla, birden fazla yılı kapsayan
+işlerde ihaleye çıkılabilmesi için, işin süresine uygun olarak yıllar
+itibariyle ödeneğin bütçelerinde bulunmasını sağlamak üzere
+programlamanın yapılmış olması zorunludur. İlk yıl için öngörülen ödenek
+proje maliyetinin % 10’undan az olamaz ve başlangıçta daha sonraki
+yıllar için programlanmış olan ödenek dilimleri sonraki yıllarda
+azaltılamaz.
 
-b\) Öngörülen ödeneklerin kullanılmasına imkan verecek süre dikkate
-alınarak, idarelerce ihalelerin zamanında yapılması, birden fazla yılı
-kapsayan ve yatırım niteliği olan işlerde (doğal afetler nedeniyle
-yapılması gerekenler hariç) ise yılın ilk dokuz ayında ihalenin
-sonuçlandırılması esastır. **(Ek ibare: 30/7/2003-4964/38 md.)** Ancak
-ertesi malî yılda gerçekleştirilecek süreklilik arz eden mal ve hizmet
-alımları için bir önceki malî yıl sona ermeden ihaleye çıkılabilir.
+            b) Öngörülen ödeneklerin kullanılmasına imkan verecek süre
+dikkate alınarak, idarelerce ihalelerin zamanında yapılması, birden
+fazla yılı kapsayan ve yatırım niteliği olan işlerde (doğal afetler
+nedeniyle yapılması gerekenler hariç) ise yılın ilk dokuz ayında
+ihalenin sonuçlandırılması esastır.  **(Ek ibare: 30/7/2003-4964/38
+md.)** Ancak ertesi malî yılda gerçekleştirilecek süreklilik arz eden
+mal ve hizmet alımları için bir önceki malî yıl sona ermeden ihaleye
+çıkılabilir.
 
-c\) **(Değişik: 18/4/2007-5625/5 md.)** Yapım işlerinde arsa temin
-edilmeden, mülkiyet, kamulaştırma ve gerekli hallerde imar işlemleri
-tamamlanmadan ve uygulama projeleri yapılmadan ihaleye çıkılamaz. İhale
-konusu yapım işinin özgün nitelikte ve karmaşık olması nedeniyle teknik
-ve malî özelliklerinin gerekli olan netlikte belirlenemediği durumlarda
-ön veya kesin proje üzerinden ihaleye çıkılabilir. Uygulama projesi
-bulunan yapım işlerinde anahtar teslimi götürü bedel teklif alınmak
-suretiyle ihale yapılması zorunludur. Ancak, doğal afetler nedeniyle
-uygulama projesi yapılması için yeterli süre bulunmayan yapım işlerinde
-ön veya kesin proje üzerinden, her türlü onarım işleri ile işin yapımı
-sırasında belli aşamalarda arazi ve zemin etütleri gerekmesi veya
-uygulamada imar ve güzergâh değişikliklerinin muhtemel olması
-nedenleriyle ihaleden önce uygulama projesi yapılamayan, bina işleri
-hariç, yapım işlerinde ise kesin proje üzerinden ihaleye çıkılabilir. Bu
-işlerin uygulama projesi yapılabilen kısımlar için anahtar teslimi
-götürü bedel, uygulama projesi yapılamayan kısımlarda ise her bir kalem
-iş için birim fiyat teklif almak suretiyle ihale yapılabilir. Arsa
-temini, mülkiyet ve kamulaştırma işlemlerinin tamamlanması şartı, baraj
-ve büyük sulama, içmesuyu isale hattı, enerji nakil hattı, trafo, trafo
-merkezleri, şalt tesisleri, kaptajlar, su depoları, karayolu, liman ve
-havaalanı, demiryolu, petrol ve doğalgaz boru hattı projelerinde
-aranmaz.
+            c) **(Değişik: 18/4/2007-5625/5 md.)** Yapım işlerinde arsa
+temin edilmeden, mülkiyet, kamulaştırma ve gerekli hallerde imar
+işlemleri tamamlanmadan ve uygulama projeleri yapılmadan ihaleye
+çıkılamaz. İhale konusu yapım işinin özgün nitelikte ve karmaşık olması
+nedeniyle teknik ve malî özelliklerinin gerekli olan netlikte
+belirlenemediği durumlarda ön veya kesin proje üzerinden ihaleye
+çıkılabilir. Uygulama projesi bulunan yapım işlerinde anahtar teslimi
+götürü bedel teklif alınmak suretiyle ihale yapılması zorunludur. Ancak,
+doğal afetler nedeniyle uygulama projesi yapılması için yeterli süre
+bulunmayan yapım işlerinde ön veya kesin proje üzerinden, her türlü
+onarım işleri ile işin yapımı sırasında belli aşamalarda arazi ve zemin
+etütleri gerekmesi veya uygulamada imar ve güzergâh değişikliklerinin
+muhtemel olması nedenleriyle ihaleden önce uygulama projesi yapılamayan,
+bina işleri hariç, yapım işlerinde ise kesin proje üzerinden ihaleye
+çıkılabilir. Bu işlerin uygulama projesi yapılabilen kısımlar için
+anahtar teslimi götürü bedel, uygulama projesi yapılamayan kısımlarda
+ise her bir kalem iş için birim fiyat teklif almak suretiyle ihale
+yapılabilir. Arsa temini, mülkiyet ve kamulaştırma işlemlerinin
+tamamlanması şartı, baraj ve büyük sulama, içmesuyu isale hattı, enerji
+nakil hattı, trafo, trafo merkezleri, şalt tesisleri, kaptajlar, su
+depoları, karayolu, liman ve havaalanı, demiryolu, petrol ve doğalgaz
+boru hattı projelerinde aranmaz.
 
-d\) **(Değişik: 30/7/2003-4964/38 md.)** İdarelerce bütçesinin
+           d) **(Değişik: 30/7/2003-4964/38 md.)** İdarelerce bütçesinin
 programlanmasında, ihalede ise isteklilerce verilen tekliflerin
 karşılaştırılmasında kullanılmak üzere tespit edilen yaklaşık maliyet
 isteklilere duyurulmaz.
 
-e\) **(Değişik: 20/11/2008-5812/24 md.)** İdarelerce kanun, tüzük ve
+ e) **(Değişik: 20/11/2008-5812/24 md.)** İdarelerce kanun, tüzük ve
 yönetmeliklere göre istihdam edilen personelin yeterli nitelik veya
 sayıda olmaması halinde, bu Kanunda belirtilen hizmetler için ihaleye
 çıkılabilir. Ancak danışmanlık hizmet alım ihalelerinde, istihdam edilen
@@ -2956,10 +3110,9 @@ kullanılarak yapılabilir:
 
 4\) Faksla.
 
-İadeli taahhütlü mektupla yapılan tebligatlarda mektubun postaya
-verilmesini takip eden yedinci gün, yabancı isteklilerde ise ondokuzuncu
-gün kararın istekliye tebliğ tarihi sayılır. Tebligatın bu tarihten önce
-muhataba ulaşması halinde ise fiili tebliğ tarihi esas alınır.
+(…)^(3)^ yabancı isteklilerde ise ondokuzuncu gün (…)^(3)^. Tebligatın
+bu tarihten önce muhataba ulaşması halinde ise fiili tebliğ tarihi esas
+alınır.^(3)^
 
 b\) İdareler veya Kurum tarafından elektronik ortamda veya faks ile
 yapılan tebligatlar ile çerçeve anlaşmaya dahil olan istekliler
@@ -2976,6 +3129,13 @@ No.’lu Kamu İhale Tebliğine bakınız.*
 
 *(2) Bu madde başlığı“Tebligat” iken, 20/11/2008 tarihli ve 5812 sayılı
 Kanunun 25 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+
+*(3) Anayasa Mahkemesinin 27/9/2012 tarihli ve E:2012/20, K: 2012/132
+sayılı kararıyla bu fıkrada yer alan “İadeli taahhütlü mektupla yapılan
+tebligatlarda mektubun postaya verilmesini takip eden yedinci gün, …
+kararın istekliye tebliğ tarihi sayılır” hükmü iptal edilmiştir.*
+
+ 
 
 8258-3
 
@@ -3084,79 +3244,102 @@ değiştirilmiş ve metne işlenmiştir.*
 *(3) Bu madde başlığı 20/11/2008 tarihli ve 5812 sayılı Kanunun 26 ncı
 maddesinin hükmüdür.*
 
+ 
+
+ 
+
+* *
+
 8258-4
 
-*Çerçeve anlaşmalar ^(1)^*
+ 
 
-**Ek Madde 2 – (Ek: 1/6/2007-5680/2 md.; Değişik: 20/11/2008-5812/27
-md.) **
+             *Çerçeve anlaşmalar ^(1)^*
 
-İdareler ihtiyaç duydukları mal ve hizmet alımları ile yapım işlerine
-ilişkin olarak açık ihale veya belli istekliler arasında ihale usulünü
-uygulamak kaydıyla çerçeve anlaşmalar yapabilir. Çerçeve anlaşmalar
-rekabeti engelleyici, sınırlayıcı veya bozucu şekilde kullanılamaz.
+**             Ek Madde 2 – (Ek: 1/6/2007-5680/2 md.;Değişik:
+20/11/2008-5812/27 md.) **
 
-Çerçeve anlaşma kapsamında temin edilecek mal ve hizmet alımları ile
-yapım işleri Kanunun 13 üncü maddesine göre ilan edilir. Çerçeve anlaşma
-kapsamında karşılanması planlanan tahmini ihtiyaç miktarları ilanda
-gösterilir.
+**            ** İdareler ihtiyaç duydukları mal ve hizmet alımları ile
+yapım işlerine ilişkin olarak açık ihale veya belli istekliler arasında
+ihale usulünü uygulamak kaydıyla çerçeve anlaşmalar yapabilir. Çerçeve
+anlaşmalar rekabeti engelleyici, sınırlayıcı veya bozucu şekilde
+kullanılamaz.
 
-Teminat alınmasına ilişkin hükümler hariç olmak üzere, ihalelerin
-sözleşmeye bağlanması hakkında bu Kanunda yer alan hükümler
+             Çerçeve anlaşma kapsamında temin edilecek mal ve hizmet
+alımları ile yapım işleri Kanunun 13 üncü maddesine göre ilan edilir.
+Çerçeve anlaşma kapsamında karşılanması planlanan tahmini ihtiyaç
+miktarları ilanda gösterilir.
+
+             Teminat alınmasına ilişkin hükümler hariç olmak üzere,
+ihalelerin sözleşmeye bağlanması hakkında bu Kanunda yer alan hükümler
 çerçevesinde, süresi kırksekiz ayı geçmemek üzere çerçeve anlaşma
 imzalanır ve sonuçlar Kamu İhale Bülteninde ilan edilir.
 
-Çerçeve anlaşmalar, koşulların tamamının baştan belirlendiği hallerde,
-bir istekli ile de yapılabilir. Birden fazla istekli ile yapılacak
-çerçeve anlaşmalarda istenilen şartları karşılayan yeterli sayıda teklif
-sunulması kaydıyla çerçeve anlaşmaya taraf olacak istekli sayısı üçten
-az olmamak üzere ihale dokümanında belirtilir. Çerçeve anlaşmaların bir
-istekli ile yapıldığı haller hariç, yapılan değerlendirme sonucunda
-teklifleri geçerli kabul edilen istekliler, ekonomik açıdan en avantajlı
-tekliften başlanmak suretiyle sıralanarak listeye alınır. Çerçeve
-anlaşmaya taraf olan istekli sayısının üçün altına inmesi halinde,
-mevcut çerçeve anlaşmanın sona erdiği taraflara bildirilir.
+             Çerçeve anlaşmalar, koşulların tamamının baştan
+belirlendiği hallerde, bir istekli ile de yapılabilir. Birden fazla
+istekli ile yapılacak çerçeve anlaşmalarda istenilen şartları karşılayan
+yeterli sayıda teklif sunulması kaydıyla çerçeve anlaşmaya taraf olacak
+istekli sayısı üçten az olmamak üzere ihale dokümanında belirtilir.
+Çerçeve anlaşmaların bir istekli ile yapıldığı haller hariç, yapılan
+değerlendirme sonucunda teklifleri geçerli kabul edilen istekliler,
+ekonomik açıdan en avantajlı tekliften başlanmak suretiyle sıralanarak
+listeye alınır. Çerçeve anlaşmaya taraf olan istekli sayısının üçün
+altına inmesi halinde, mevcut çerçeve anlaşmanın sona erdiği taraflara
+bildirilir.
 
-Koşulların tamamının baştan belirlendiği çerçeve anlaşma kapsamında
-yapılacak alımlarda isteklilerden ilk tekliflerini aşmamak kaydıyla
-yeniden teklif alınabilir. Koşulların tamamının baştan belirlenmediği
-hallerde ise çerçeve anlaşma koşullarında esaslı değişiklik yapılmaması
-kaydıyla isteklilerden yeniden teklif alınır.
+             Koşulların tamamının baştan belirlendiği çerçeve anlaşma
+kapsamında yapılacak alımlarda isteklilerden ilk tekliflerini aşmamak
+kaydıyla yeniden teklif alınabilir. Koşulların tamamının baştan
+belirlenmediği hallerde ise çerçeve anlaşma koşullarında esaslı
+değişiklik yapılmaması kaydıyla isteklilerden yeniden teklif alınır.
 
-İsteklilere ihale konusu işin karmaşıklığı ve özgünlüğü gibi hususlar
-dikkate alınarak tekliflerini sunmaları için yeterli süre tanınır.
+             İsteklilere ihale konusu işin karmaşıklığı ve özgünlüğü
+gibi hususlar dikkate alınarak tekliflerini sunmaları için yeterli süre
+tanınır.
 
-İstekliler yeterliklerinin devam ettiğini oniki ayda bir belgelendirir.
-Yeterliği devam etmeyenler ile teklif vermeye davet edildiği halde iki
-kez geçerli teklif vermeyen isteklilerin çerçeve anlaşmaları feshedilir.
+             İstekliler yeterliklerinin devam ettiğini oniki ayda bir
+belgelendirir. Yeterliği devam etmeyenler ile teklif vermeye davet
+edildiği halde iki kez geçerli teklif vermeyen isteklilerin çerçeve
+anlaşmaları feshedilir.
 
-Münferit sözleşmeye davet edildiği halde ihale dokümanında belirtilen
-süre içerisinde sözleşme imzalamayan istekliyle yapılan çerçeve anlaşma
-feshedilir ve istekli hakkında 58 inci madde hükümleri uygulanır.
+             Münferit sözleşmeye davet edildiği halde ihale dokümanında
+belirtilen süre içerisinde sözleşme imzalamayan istekliyle yapılan
+çerçeve anlaşma feshedilir ve istekli hakkında 58 inci madde hükümleri
+uygulanır.
 
-Münferit sözleşme aşamasına ilişkin olarak bu Kanunun 6, 38, 40, 41, 42,
-43, 44, 45, 46, 54, 55 ve 56 ncı maddeleri uygulanmaz. Bu maddelerde
-belirtilen hususlar dahil çerçeve anlaşma kapsamında yapılacak alımların
-usul ve esasları ile nitelik ve kapsamını belirlemeye, ve sınırlar
-koymaya, sözleşme düzenlenmesine gerek görülen durumlarda sözleşmelerin
-şeklini ve kapsamını belirlemeye Kurum yetkilidir.
+             Münferit sözleşme aşamasına ilişkin olarak bu Kanunun 6,
+38, 40, 41, 42, 43, 44, 45, 46, 54, 55 ve 56 ncı maddeleri uygulanmaz.
+Bu maddelerde belirtilen hususlar dahil çerçeve anlaşma kapsamında
+yapılacak alımların usul ve esasları ile nitelik ve kapsamını
+belirlemeye, ve sınırlar koymaya, sözleşme düzenlenmesine gerek görülen
+durumlarda sözleşmelerin şeklini ve kapsamını belirlemeye Kurum
+yetkilidir.
 
-Çerçeve anlaşma yapılmış olması, idareye alım yapma yükümlülüğü
-getirmez. İdare, çerçeve anlaşma kapsamındaki ihtiyaçlarını bu Kanunda
-yer alan diğer usulleri kullanmak suretiyle de temin edebilir.
+             Çerçeve anlaşma yapılmış olması, idareye alım yapma
+yükümlülüğü getirmez. İdare, çerçeve anlaşma kapsamındaki ihtiyaçlarını
+bu Kanunda yer alan diğer usulleri kullanmak suretiyle de temin
+edebilir.
+
+ 
 
 ––––––––––––––––––––––––
 
-*(1) Bu madde başlığı“Çerçeve sözleşme kapsamında mal ve hizmet alımı”
+*(1)   Bu madde başlığı“Çerçeve sözleşme kapsamında mal ve hizmet alımı”
 iken, 20/11/2008 tarihli ve 5812 sayılı Kanunun 27 nci maddesiyle metne
 işlendiği şekilde değiştirilmiştir.*
 
+ 
+
+ 
+
 8258-5
 
-**Ek Madde 3 – (Ek: 15/5/2008-5763/36 md.)**
+ 
 
-4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (c) bendi
-kapsamındaki işler ile aynı kapsamda olup 2886 sayılı Devlet İhale
+*            * **Ek Madde 3 – (Ek: 15/5/2008-5763/36 md.)**
+
+**            ** 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (c)
+bendi kapsamındaki işler ile aynı kapsamda olup 2886 sayılı Devlet İhale
 Kanunu dışında, ihalesi ilgili mevzuat hükümlerine göre bu maddenin
 yürürlüğe girdiği tarihe kadar yapılmış olanlar ile bu tarihten sonra
 yapılacak olan ve bedeli yabancı para cinsinden sabit fiyatlarla
@@ -3165,174 +3348,192 @@ sözleşmeye bağlanan yapım ve yapımla ilgili hizmet işlerine uygulanmak
 tasfiye edilmesine imkân veren kararnameler çıkarmaya Bakanlar Kurulu
 yetkilidir.
 
-*Dinamik alım sistemi*
+             *Dinamik alım sistemi*
 
-**Ek Madde 4 – (Ek: 20/11/2008-5812/28 md.)**
+             **Ek Madde 4 – (Ek: 20/11/2008-5812/28 md.)**
 
-Dinamik alım sistemi, piyasada mamul olarak bulunan malların elektronik
-ortamda alımında kullanılabilir. Sistemin kurulmasında açık ihale usulü
-uygulanır. Dinamik alım sistemi rekabeti engelleyici, sınırlayıcı veya
-bozucu şekilde işletilemez.
+**            ** Dinamik alım sistemi, piyasada mamul olarak bulunan
+malların elektronik ortamda alımında kullanılabilir. Sistemin
+kurulmasında açık ihale usulü uygulanır. Dinamik alım sistemi rekabeti
+engelleyici, sınırlayıcı veya bozucu şekilde işletilemez.
 
-Sistemin tesis edileceği hususu Kamu İhale Bülteninde ilan edilmek
-suretiyle duyurulur. İhale dokümanında; planlanan alımın niteliği, türü
-ve miktarının yanı sıra satın alma sistemine, bu sistemin işletilmesinde
-kullanılacak elektronik ekipmana, sisteme teknik olarak bağlanabilmek
-için gerekli düzenlemelere, sistemin işleyişini düzenleyen kurallara ve
-diğer hususlara ilişkin bilgilere yer verilir.
+             Sistemin tesis edileceği hususu Kamu İhale Bülteninde ilan
+edilmek suretiyle duyurulur. İhale dokümanında; planlanan alımın
+niteliği, türü ve miktarının yanı sıra satın alma sistemine, bu sistemin
+işletilmesinde kullanılacak elektronik ekipmana, sisteme teknik olarak
+bağlanabilmek için gerekli düzenlemelere, sistemin işleyişini düzenleyen
+kurallara ve diğer hususlara ilişkin bilgilere yer verilir.
 
-Yeterlik kriterlerini sağlayan ve ihale dokümanında yer alan şartlara
-uygun ön teklif veren bütün isteklilere sisteme dahil olma imkanı
-verilir. Ön teklifler ihale dokümanında yer alan şartlara uygun olduğu
-sürece sürekli olarak geliştirilebilir.
+             Yeterlik kriterlerini sağlayan ve ihale dokümanında yer
+alan şartlara uygun ön teklif veren bütün isteklilere sisteme dahil olma
+imkanı verilir. Ön teklifler ihale dokümanında yer alan şartlara uygun
+olduğu sürece sürekli olarak geliştirilebilir.
 
-Ön tekliflerin değerlendirilmesi, verildikleri tarihten itibaren onbeş
-gün içinde tamamlanır. Teklif vermeye davetin henüz yapılmamış olması
-halinde değerlendirme süresi onbeş güne kadar bir defa uzatılabilir.
+             Ön tekliflerin değerlendirilmesi, verildikleri tarihten
+itibaren onbeş gün içinde tamamlanır. Teklif vermeye davetin henüz
+yapılmamış olması halinde değerlendirme süresi onbeş güne kadar bir defa
+uzatılabilir.
 
-Dinamik alım sisteminin tesis edildiği veya sistemin kurulmasından
-vazgeçildiği ile ön tekliflerin sisteme kabul veya reddedildikleri
-hususu isteklilere karar alındıktan sonra en geç üç gün içinde
-bildirilir.
+             Dinamik alım sisteminin tesis edildiği veya sistemin
+kurulmasından vazgeçildiği ile ön tekliflerin sisteme kabul veya
+reddedildikleri hususu isteklilere karar alındıktan sonra en geç üç gün
+içinde bildirilir.
 
-Her bir alım için sisteme kabul edilmiş istekliler teklif vermeye davet
-edilir. Yapılacak alımlar bu davetten en az onbeş gün önce
+             Her bir alım için sisteme kabul edilmiş istekliler teklif
+vermeye davet edilir. Yapılacak alımlar bu davetten en az onbeş gün önce
 basitleştirilmiş ilan yoluyla duyurulur. Sisteme kabul edilen bütün
 istekliler, tekliflerini sunmaları için yeterli süre tanınmak suretiyle
 teklif vermeye davet edilir.
 
-Teklifler, ihale dokümanında belirtilen esaslara göre değerlendirilmek
-suretiyle alım sonuçlandırılır ve sözleşmeye bağlanır.
+             Teklifler, ihale dokümanında belirtilen esaslara göre
+değerlendirilmek suretiyle alım sonuçlandırılır ve sözleşmeye bağlanır.
 
-Dinamik alım sisteminin süresi kırk sekiz aydan fazla olamaz.
+             Dinamik alım sisteminin süresi kırk sekiz aydan fazla
+olamaz.
 
-Dinamik alım sisteminde yapılacak ihalelerde Elektronik Kamu Alımları
-Platformu kullanılır. Sisteme kabul edilmeye ve sistemin yürütülmesine
-ilişkin olarak herhangi bir ücret talep edilmez.
+             Dinamik alım sisteminde yapılacak ihalelerde Elektronik
+Kamu Alımları Platformu kullanılır. Sisteme kabul edilmeye ve sistemin
+yürütülmesine ilişkin olarak herhangi bir ücret talep edilmez.
 
-Dinamik alım sistemi dahilinde yapılacak alımlara ilişkin sözleşme
-düzenlenmesi gerekli haller ile bu sözleşmelerin şeklini ve kapsamını
-belirlemeye Kurum yetkilidir.
+             Dinamik alım sistemi dahilinde yapılacak alımlara ilişkin
+sözleşme düzenlenmesi gerekli haller ile bu sözleşmelerin şeklini ve
+kapsamını belirlemeye Kurum yetkilidir.
+
+ 
+
+ 
 
 8258-6
 
-*Elektronik eksiltme*
+ 
 
-**Ek Madde 5 – (Ek: 20/11/2008-5812/28 md.)**
+*             Elektronik eksiltme*
 
-İlan ve ihale dokümanında belirtilmesi kaydıyla, açık ihale, belli
-istekliler arasında ihale ve 21 inci maddenin (a), (d) ve © bentleri
-uyarınca yapılan pazarlık usulü ihalede tekliflerin değerlendirilmesi
-aşamasının tamamlanmasından sonra elektronik eksiltme yapılabilir.
-Dinamik alım sistemi ve çerçeve anlaşma kapsamında yapılan ihalelerde de
-elektronik eksiltme uygulanabilir. 48 inci madde uyarınca yapılan
-danışmanlık hizmet alımı ihalelerinde ise elektronik eksiltme
+             **Ek Madde 5 – (Ek: 20/11/2008-5812/28 md.)**
+
+**            ** İlan ve ihale dokümanında belirtilmesi kaydıyla, açık
+ihale, belli istekliler arasında ihale ve 21 inci maddenin (a), (d) ve ©
+bentleri uyarınca yapılan pazarlık usulü ihalede tekliflerin
+değerlendirilmesi aşamasının tamamlanmasından sonra elektronik eksiltme
+yapılabilir. Dinamik alım sistemi ve çerçeve anlaşma kapsamında yapılan
+ihalelerde de elektronik eksiltme uygulanabilir. 48 inci madde uyarınca
+yapılan danışmanlık hizmet alımı ihalelerinde ise elektronik eksiltme
 uygulanmaz.
 
-Elektronik eksiltme ancak ihale konusu alımın bütün teknik
+             Elektronik eksiltme ancak ihale konusu alımın bütün teknik
 özelliklerinin net olarak belirlendiği hallerde kullanılabilir.
 
-Elektronik eksiltmeye başlamadan önce ihale dokümanında belirlenen
-şartlara göre tekliflerin ilk değerlendirmesi yapılır.
+             Elektronik eksiltmeye başlamadan önce ihale dokümanında
+belirlenen şartlara göre tekliflerin ilk değerlendirmesi yapılır.
 
-Yeterli kabul edilen istekliler elektronik ortamda yeniden teklif
-vermeye aynı anda davet edilir. Davette, eksiltmenin başlama tarihi ve
-saati ile kullanılmakta olan elektronik araca isteklinin bağlantı
-kurabilmesi için gerekli bütün bilgilere yer verilir. Elektronik
-eksiltmenin her aşamasını gösteren bir zaman çizelgesi davet ile
-birlikte iletilir. Birbirini izleyen birden fazla aşamada elektronik
+             Yeterli kabul edilen istekliler elektronik ortamda yeniden
+teklif vermeye aynı anda davet edilir. Davette, eksiltmenin başlama
+tarihi ve saati ile kullanılmakta olan elektronik araca isteklinin
+bağlantı kurabilmesi için gerekli bütün bilgilere yer verilir.
+Elektronik eksiltmenin her aşamasını gösteren bir zaman çizelgesi davet
+ile birlikte iletilir. Birbirini izleyen birden fazla aşamada elektronik
 eksiltme yapılabilir. Davetin gönderildiği tarihten iki iş günü geçmeden
 eksiltmeye başlanamaz.
 
-Ekonomik açıdan en avantajlı teklifin fiyat dışı unsurlar da dikkate
-alınarak belirlendiği hallerde, yapılan ilk değerlendirme sonucu ile
-eksiltmede verilen yeni tekliflere göre sıralamayı düzenleyen
+             Ekonomik açıdan en avantajlı teklifin fiyat dışı unsurlar
+da dikkate alınarak belirlendiği hallerde, yapılan ilk değerlendirme
+sonucu ile eksiltmede verilen yeni tekliflere göre sıralamayı düzenleyen
 matematiksel formül de davette bildirilir. Bu formül, ihale ilanında
 veya ihale dokümanında belirtildiği şekilde ekonomik açıdan en avantajlı
 teklifin tespitinde kullanılan bütün unsurların varsa nispi
 ağırlıklarını da içerir.
 
-Elektronik eksiltmenin her aşamasında, o andaki sıralamalarını
-öğrenebilmeleri için gerekli bilgiler anında isteklilere ulaştırılır.
-İhale dokümanında belirtilmesi kaydıyla, diğer isteklilerin teklifleri
-hakkında bilgiler ve eksiltmenin herhangi bir aşamasındaki istekli
-sayısı da duyurulabilir. Ancak elektronik eksiltme süresince
+             Elektronik eksiltmenin her aşamasında, o andaki
+sıralamalarını öğrenebilmeleri için gerekli bilgiler anında isteklilere
+ulaştırılır. İhale dokümanında belirtilmesi kaydıyla, diğer isteklilerin
+teklifleri hakkında bilgiler ve eksiltmenin herhangi bir aşamasındaki
+istekli sayısı da duyurulabilir. Ancak elektronik eksiltme süresince
 isteklilerin kimlikleri açıklanamaz.
 
-Elektronik eksiltme aşağıdaki durumlardan biri veya birkaçının
-gerçekleşmesi halinde sona erdirilir:
+             Elektronik eksiltme aşağıdaki durumlardan biri veya
+birkaçının gerçekleşmesi halinde sona erdirilir:
 
-a\) Eksiltmeye katılım için yapılan davette eksiltmenin tamamlanacağı
-belirtilen tarih ve saatin dolması.
+             a) Eksiltmeye katılım için yapılan davette eksiltmenin
+tamamlanacağı belirtilen tarih ve saatin dolması.
 
-b\) Yeni tekliflerin verilebilmesine ilişkin olarak davette bildirilen
-bekleme süresi içinde asgari fark aralığını sağlayan tekliflerin
-alınamaması.
+             b) Yeni tekliflerin verilebilmesine ilişkin olarak davette
+bildirilen bekleme süresi içinde asgari fark aralığını sağlayan
+tekliflerin alınamaması.
 
-c\) Davette bildirilen tur sayısının tamamlanması.
+             c) Davette bildirilen tur sayısının tamamlanması.
 
 8258-7
 
-*Finansal kiralama*
+ 
 
-**Ek Madde 6 – (Ek: 20/11/2008-5812/28 md.)**
+*             Finansal kiralama*
 
-Kanun kapsamındaki idarelerin finansal kiralama suretiyle yapacakları
-mal alımlarında uygulanacak esas ve usuller Kurum tarafından belirlenir.
+             **Ek Madde 6 – (Ek: 20/11/2008-5812/28 md.)**
 
-*Standart ihale dokümanları ve yönetmelikler *
+**            ** Kanun kapsamındaki idarelerin finansal kiralama
+suretiyle yapacakları mal alımlarında uygulanacak esas ve usuller Kurum
+tarafından belirlenir.
 
-**Geçici Madde 1-** Bu Kanunun uygulanmasına yönelik olarak çıkarılacak
-standart ihale dokümanları ve yönetmelikler, ilgili kurum ve
+*            Standart ihale dokümanları ve yönetmelikler    *
+
+**            Geçici Madde 1-** Bu Kanunun uygulanmasına yönelik olarak
+çıkarılacak standart ihale dokümanları ve yönetmelikler, ilgili kurum ve
 kuruluşların görüşleri alınarak Kamu İhale Kurumu tarafından Kanunun
 yürürlüğe gireceği tarihe kadar hazırlanır ve Resmî Gazetede yayımlanır.
 
-Bunların yürürlüğe konulmasına kadar idareler, mevcut esaslar ve
-yönetmelik hükümlerini uygulamaya devam eder.
+            Bunların yürürlüğe konulmasına kadar idareler, mevcut
+esaslar ve yönetmelik hükümlerini uygulamaya devam eder.
 
-*Başlanmış olan ihaleler*
+*            Başlanmış olan ihaleler*
 
-**Geçici Madde 2-** Bu Kanunun yürürlüğe girdiği tarihten önce ihale
-edileceği yazılı olarak duyurulmuş veya ilân edilmiş olan işler ilgili
-olduğu kanun ve usullere göre sonuçlandırılır.
+**            Geçici Madde 2-** Bu Kanunun yürürlüğe girdiği tarihten
+önce ihale edileceği yazılı olarak duyurulmuş veya ilân edilmiş olan
+işler ilgili olduğu kanun ve usullere göre sonuçlandırılır.
 
-*Güncelleme *
+*            Güncelleme *
 
-**Geçici Madde 3-** Bu Kanunda yer alan eşik değerler ve parasal
-limitler, Kanunun Resmî Gazetede yayımlandığı tarih ile yürürlüğe
-girdiği tarih arasında geçen süre için Kurum tarafından 67 nci maddede
-belirtilen şekilde güncellenir.
+**            Geçici Madde 3-** Bu Kanunda yer alan eşik değerler ve
+parasal limitler, Kanunun Resmî Gazetede yayımlandığı tarih ile
+yürürlüğe girdiği tarih arasında geçen süre için Kurum tarafından 67 nci
+maddede belirtilen şekilde güncellenir.
 
-*İstisnalara ilişkin esas ve usuller*
+*            İstisnalara ilişkin esas ve usuller*
 
-**Geçici Madde 4-** a) Bu Kanunun 3 üncü maddesinin (b) bendine ilişkin
-esas ve usuller ilgili kurumlar tarafından,
+**            Geçici Madde 4-** a) Bu Kanunun 3 üncü maddesinin (b)
+bendine ilişkin esas ve usuller  ilgili kurumlar tarafından,
 
-b\) Bu Kanunun 3 üncü maddesinin (d) bendine ilişkin esas ve usuller,
-Kamu İhale Kurumunun uygun görüşü üzerine, Dışişleri, Millî Savunma,
-Maliye ve Bayındırlık ve İskân Bakanlıkları tarafından,
+            b) Bu Kanunun 3 üncü maddesinin (d) bendine ilişkin esas ve
+usuller, Kamu İhale Kurumunun uygun görüşü üzerine, Dışişleri, Millî
+Savunma, Maliye ve Bayındırlık ve İskân Bakanlıkları tarafından,
 
-c\) Bu Kanunun 3 üncü maddesinin (f) bendi gereğince yapılacak mal ve
-hizmet alımlarına ilişkin esas ve usuller, Kamu İhale Kurumunun uygun
-görüşü üzerine, ilgili kurumlar tarafından,
+            c) Bu Kanunun 3 üncü maddesinin (f) bendi gereğince
+yapılacak mal ve hizmet alımlarına ilişkin esas ve usuller, Kamu İhale
+Kurumunun uygun görüşü üzerine, ilgili kurumlar tarafından,
 
-İlgili kurum ve kuruluşların görüşleri alınmak suretiyle Kanunun
-yürürlüğe gireceği tarihe kadar hazırlanarak, Bakanlar Kurulu Kararı ile
-yürürlüğe konulur.
+            İlgili kurum ve kuruluşların görüşleri alınmak suretiyle
+Kanunun yürürlüğe gireceği tarihe kadar hazırlanarak, Bakanlar Kurulu
+Kararı ile yürürlüğe konulur.
 
-Bu Kanunun 3 üncü maddesinin (e) bendi gereğince **(Ek ibare:
-12/6/2002-4761/18 md.)** yapılacak alımlarda uygulanacak esas ve usuller
-Kurum tarafından, Devlet Malzeme Ofisinden yapılacak alımlara ilişkin
-esas ve usuller ise gerekli görülmesi halinde Maliye Bakanlığı
-tarafından belirlenebilir. ^(1)^
+            Bu Kanunun 3 üncü maddesinin (e) bendi gereğince **(Ek
+ibare: 12/6/2002-4761/18 md.)** yapılacak alımlarda uygulanacak esas ve
+usuller Kurum tarafından,Devlet Malzeme Ofisinden yapılacak alımlara
+ilişkin esas ve usuller ise gerekli görülmesi halinde
 
-^––––––––––––––––––––––––––––––––––^
+Maliye Bakanlığı tarafından belirlenebilir. ^(1)^
 
-*(1) Bu fıkrada bulunan “yapılacak alımlarda uygulanacak esas ve usuller
-Kurum tarafından,” ibaresi 12/6/2002 tarihli ve 4761 sayılı Kanunla
-eklenmiştir.*
+^ ^
+
+–––––––––––––––
+
+*(1)  Bu fıkrada bulunan “yapılacak alımlarda uygulanacak esas ve
+usuller Kurum tarafından,” ibaresi 12/6/2002 tarihli ve 4761 sayılı
+Kanunla eklenmiştir.*
+
+ 
 
 8258-8
+
+ 
 
 **(Ek: 12/6/2002-4761/18 md.; Değişik son fıkra: 30/7/2003-4964/40
 md.)** Bu Kanunun 3 üncü maddesinin (g) bendi kapsamındaki mal ve
@@ -3401,72 +3602,84 @@ parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf
 Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet
 alımları ile” ibaresi eklenmiştir.*
 
+ 
+
+ 
+
 8258-9
 
-Kurul, Kanunda yer alan görevleri yerine getirmek üzere atandığı tarihi
-izleyen altmış gün içinde Kurum teşkilatını oluşturarak bu tarihe kadar
-Kurumun faaliyete geçmesini sağlar.
+ 
 
-Kurumun bu Kanunun yürürlüğe gireceği tarihe kadar yapacağı ihalelerle
-ilgili esas ve usuller Kurulun önerisi üzerine Bakanlar Kurulu kararıyla
-çıkarılacak yönetmelikle düzenlenir.
+            Kurul, Kanunda yer alan görevleri yerine getirmek üzere
+atandığı tarihi izleyen altmış gün içinde Kurum teşkilatını oluşturarak
+bu tarihe kadar Kurumun faaliyete geçmesini sağlar.
+
+            Kurumun bu Kanunun yürürlüğe gireceği tarihe kadar yapacağı
+ihalelerle ilgili esas ve usuller Kurulun önerisi üzerine Bakanlar
+Kurulu kararıyla çıkarılacak yönetmelikle düzenlenir.
 
 Bu Kanunun 53 üncü maddesinde belirtilen yönetmelikler ile üçüncü
 fıkrada belirtilen yönetmelik Kurumun faaliyete geçeceği tarihe kadar
 çıkarılır.
 
-Kurumun her türlü giderleri, gelirleri ile karşılanacak aşamaya
-gelinceye kadar, genel bütçeden sağlanacak yardımlardan finanse edilir.
+            Kurumun her türlü giderleri, gelirleri ile karşılanacak
+aşamaya gelinceye kadar, genel bütçeden sağlanacak yardımlardan finanse
+edilir.
 
-**Geçici Madde 6 –** **(Ek: 12/6/2002-4761/19 md.)** Bu maddenin
+**            Geçici Madde 6 –(Ek: 12/6/2002-4761/19 md.)** Bu maddenin
 yürürlüğe girdiği tarihten itibaren bir yıl içinde;
 
-a\) Kamu kurum ve kuruluşlarında görevli personelden, 53 üncü maddenin
-(h) fıkrasında sayılan yüksek öğretim kurumlarını bitirerek mesleğe özel
-yarışma sınavı ile girilen ve belirli süreli meslek içi eğitimden sonra
-özel bir yeterlik sınavı sonunda atanmış olanlar ile hâkimler, savcılar
-ve bu meslekten sayılanlar,
+            a) Kamu kurum ve kuruluşlarında görevli personelden, 53 üncü
+maddenin (h) fıkrasında sayılan yüksek öğretim kurumlarını bitirerek
+mesleğe özel yarışma sınavı ile girilen ve belirli süreli meslek içi
+eğitimden sonra özel bir yeterlik sınavı sonunda atanmış olanlar ile
+hâkimler, savcılar ve bu meslekten sayılanlar,
 
-b\) Kurumun görev alanı ile ilgili dallardan olmak kaydıyla en az lisans
-üstü eğitimini tamamlamış üniversite öğretim elemanları,
+            b) Kurumun görev alanı ile ilgili dallardan olmak kaydıyla
+en az lisans üstü eğitimini tamamlamış üniversite öğretim elemanları,
 
-c\) Mühendislik veya mimarlık fakültelerinde lisans eğitimi yapmış
-olanlardan en az beş yıl, lisans eğitimini müteakip yine bu dallardan
-herhangi birinde lisans üstü eğitim yapmış olanlardan ise en az üç yıl
-süre ile kamu kurum ve kuruluşlarında kendi görev alanıyla ilgili
-konularda çalışmış olanlar,
+            c) Mühendislik veya mimarlık fakültelerinde lisans eğitimi
+yapmış olanlardan en az beş yıl, lisans eğitimini müteakip yine bu
+dallardan herhangi birinde lisans üstü eğitim yapmış olanlardan ise en
+az üç yıl süre ile kamu kurum ve kuruluşlarında kendi görev alanıyla
+ilgili konularda çalışmış olanlar,
 
-Kırk yaşından gün almamış olmaları, (a) ve (c) bentlerinde sayılanların
-kamu ihale mevzuatı ile ilgili yargılama, inceleme, denetleme, uygulama
-veya danışma konularında çalışmış olmaları koşuluyla kurumlarının
-muvafakatı alınmak suretiyle, Kurulca kamu ihale uzmanı olarak
-atanabilirler.
+            Kırk yaşından gün almamış olmaları, (a) ve (c) bentlerinde
+sayılanların kamu ihale mevzuatı ile ilgili yargılama, inceleme,
+denetleme, uygulama veya danışma konularında çalışmış olmaları koşuluyla
+kurumlarının muvafakatı alınmak suretiyle, Kurulca kamu ihale uzmanı
+olarak atanabilirler.
 
-31.12.2003 tarihine kadar Kurumun kamu ihale uzman ve uzman yardımcısı
-dışındaki kadrolarına, genel bütçeye dahil daireler, katma bütçeli
-idareler, kamu iktisadi teşebbüsleri ve bunların bağlı ortaklıkları,
-özel kanunlarla kurulmuş ve kendilerine kamu görevi verilmiş tüzel
-kişiliğe sahip kuruluşlar ile bağımsız bütçeli kuruluşlarda çalışan
-personel kendilerinin isteği ve kurumlarının muvafakati ile
-atanabilirler.
+            31.12.2003 tarihine kadar Kurumun kamu ihale uzman ve uzman
+yardımcısı dışındaki kadrolarına, genel bütçeye dahil daireler, katma
+bütçeli idareler, kamu iktisadi teşebbüsleri ve bunların bağlı
+ortaklıkları, özel kanunlarla kurulmuş ve kendilerine kamu görevi
+verilmiş tüzel kişiliğe sahip kuruluşlar ile bağımsız bütçeli
+kuruluşlarda çalışan personel kendilerinin isteği ve kurumlarının
+muvafakati ile atanabilirler.
 
-**Geçici Madde 7- (Ek: 10/11/2004-5255/15 md.)**
+**      Geçici Madde 7- (Ek: 10/11/2004-5255/15 md.)**
 
-2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası Spor
-Oyunları ile ilgili olarak İcra Kurulunca ve bu Kurulun talebi üzerine
-diğer kamu kurum ve kuruluşlarınca yapılacak her türlü mal ve hizmet
-alımları ile yapım işleri, ceza ve ihalelerden yasaklama hükümleri
-hariç, bu Kanun hükümlerinden müstesnadır.
+      2005 yılında İzmir Kentinde yapılacak Dünya Üniversitelerarası
+Spor Oyunları ile ilgili olarak  İcra Kurulunca ve bu Kurulun talebi
+üzerine diğer kamu kurum ve kuruluşlarınca  yapılacak her türlü mal ve
+hizmet alımları ile yapım işleri, ceza ve ihalelerden  yasaklama
+hükümleri hariç, bu Kanun hükümlerinden müstesnadır.
 
-*Başlanmış olan ihaleler*
+*             Başlanmış olan ihaleler*
 
-**Geçici Madde 8- (Ek: 20/11/2008-5812/30 md.)**
+             **Geçici Madde 8- (Ek: 20/11/2008-5812/30 md.)**
 
-Bu Kanunun yürürlüğe girdiği tarihe kadar ilan edilmiş veya yazılı
-olarak duyurulmuş ihaleler hakkında, bu Kanunun yayımlandığı tarihte
-yürürlükte bulunan kanun hükümlerinin uygulanmasına devam edilir.
+**            ** Bu Kanunun yürürlüğe girdiği tarihe kadar ilan edilmiş
+veya yazılı olarak duyurulmuş ihaleler hakkında, bu Kanunun yayımlandığı
+tarihte yürürlükte bulunan kanun hükümlerinin uygulanmasına devam
+edilir.
+
+ 
 
 8258-10
+
+ 
 
 Bu Kanunun 35 inci maddesinin (b) bendinde sayılanların yürürlüğe
 girdiği tarihe kadar yapılmış olan şikayet başvuruları ile bu Kanun ve
@@ -3474,34 +3687,34 @@ ilgili mevzuat hükümlerine aykırılık iddiaları içeren başvurular,
 başvurunun yapıldığı tarihte yürürlükte bulunan mevzuat hükümlerine göre
 sonuçlandırılır.
 
-*Mevcut görevlendirmeler*
+            *Mevcut görevlendirmeler*
 
-**Geçici Madde 9- (Ek: 20/11/2008-5812/30 md.)**
+            **Geçici Madde 9- (Ek: 20/11/2008-5812/30 md.)**
 
-31/5/2008 tarihinden önce 53 üncü maddenin (i) fıkrasının son
-paragrafına göre Kurumda kamu ihale uzmanı olarak görevlendirilenlerden
-fiilen görev yapanların görevlendirmeleri Kurumun ihtiyacına göre devam
-ettirilebilir.
+**           ** 31/5/2008 tarihinden önce 53 üncü maddenin (i)
+fıkrasının son paragrafına göre Kurumda kamu ihale uzmanı olarak
+görevlendirilenlerden fiilen görev yapanların görevlendirmeleri Kurumun
+ihtiyacına göre devam ettirilebilir.
 
-*Kurul başkan ve üyelerinin görev süreleri*
+            *Kurul başkan ve üyelerinin görev süreleri*
 
-**Geçici Madde 10- (Ek: 20/11/2008-5812/30 md.)**
+            **Geçici Madde 10- (Ek: 20/11/2008-5812/30 md.)**
 
-Kurulun mevcut başkan ve üyelerinden bu Kanunun yürürlüğe girdiği
-tarihten önce başka bir üyenin görev süresini tamamlamak üzere atanmış
-olanların görev süreleri atandıkları tarihten itibaren beş yıl olarak
-uygulanır.
+**           ** Kurulun mevcut başkan ve üyelerinden bu Kanunun
+yürürlüğe girdiği tarihten önce başka bir üyenin görev süresini
+tamamlamak üzere atanmış olanların görev süreleri atandıkları tarihten
+itibaren beş yıl olarak uygulanır.
 
-*Üyeliğin devamı*
+            *Üyeliğin devamı*
 
-**Geçici Madde 11- (Ek: 24/10/2011-KHK-661/58 md.)**
+            **Geçici Madde 11- (Ek: 24/10/2011-KHK-661/58 md.)**
 
-Mevcut Kurul üyeleri, görev sürelerini tamamlayıncaya kadar görevlerine
-devam eder.
+**           ** Mevcut Kurul üyeleri, görev sürelerini tamamlayıncaya
+kadargörevlerine devam eder.
 
-*Başkanlık Müşavirliğine atanmış sayılma*
+            *Başkanlık Müşavirliğine atanmış sayılma*
 
-**Geçici Madde 12- (Ek: 24/10/2011-KHK-661/58 md.) ^(1)^**
+            **Geçici Madde 12- (Ek: 24/10/2011-KHK-661/58 md.) *^(1)^***
 
 Kurumda; Başkan Yardımcısı, Baş Hukuk Danışmanı ve Daire Başkanı unvanlı
 görevlerde bulunanların görevleri bu Kanun Hükmünde Kararnamenin
@@ -3511,13 +3724,13 @@ kalmaksızın atanmış sayılırlar. Bu fıkra ile ihdas edilen Başkanlık
 Müşaviri unvanları, herhangi bir sebeple boşalması halinde hiçbir işleme
 gerek kalmaksızın iptal edilmiş sayılır.
 
-Birinci fıkraya göre Başkanlık Müşaviri unvanlarına atanmış sayılanların
-atanmış sayıldıkları tarih itibarıyla eski unvanlarına ilişkin olarak
-ilgili mevzuatı uyarınca en son ayda aldıkları her türlü ödemelerin
-toplam net tutarının (bu tutar sabit bir değer olarak esas alınır),
-atanmış sayıldıkları yeni unvana ilişkin olarak ilgili mevzuatı uyarınca
-aldıkları her türlü ödemelerin toplam net tutarından fazla olması
-hâlinde aradaki fark tutarı, herhangi bir vergi ve kesintiye tabi
+ Birinci fıkraya göre Başkanlık Müşaviri unvanlarına atanmış
+sayılanların atanmış sayıldıkları tarih itibarıyla eski unvanlarına
+ilişkin olarak ilgili mevzuatı uyarınca en son ayda aldıkları her türlü
+ödemelerin toplam net tutarının (bu tutar sabit bir değer olarak esas
+alınır), atanmış sayıldıkları yeni unvana ilişkin olarak ilgili mevzuatı
+uyarınca aldıkları her türlü ödemelerin toplam net tutarından fazla
+olması hâlinde aradaki fark tutarı, herhangi bir vergi ve kesintiye tabi
 tutulmaksızın fark kapanıncaya kadar ayrıca fark tazminatı olarak
 ödenir. Atanmış sayıldıkları unvanlarında isteklerine bağlı olarak
 herhangi bir değişiklik olanlarla, kendi istekleriyle başka kurumlara
@@ -3553,99 +3766,107 @@ düzenlenir.
 
 *Yürürlük*
 
-**Madde 69-** Bu Kanunun 53 üncü maddesi ile geçici 1 ve geçici 5 inci
-maddeleri yayımı tarihinde, diğer maddeleri 1.1.2003 tarihinde yürürlüğe
-girer.
+**           Madde 69-** Bu Kanunun 53 üncü maddesi ile geçici 1 ve
+geçici 5 inci maddeleri yayımı tarihinde, diğer maddeleri 1.1.2003 
+tarihinde yürürlüğe girer.
 
-*Yürütme*
+*           Yürütme*
 
-**Madde 70-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**           Madde 70-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) Bu maddede belirtilen kadrolarla ilgili olarak 2/11/2011 tarihli ve
-28103 (mükerrer) sayılı Resmi Gazete’ye bakınız.*
+28103 (mükerrer) sayılı Resmi Gazeteye bakınız.* 
 
 8258-11
 
+ 
+
+** **
+
 **4/1/2002 TARİHLİ VE 4734 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
-1)  *12/6/2002 tarihli ve 4761 sayılı Kanunun hükmüdür:*
+** **
 
-**Madde 20 –** Özel kanunlarla kamu tüzel kişiliğini ve idarî ve malî
-özerkliği haiz olarak kurulmuş veya 31.12.2006 tarihine kadar kurulacak
-kurul, üst kurul, kurum ve kuruluşların Başkan ve üyelerinin aylık
-ücretleri ile malî ve sosyal hak ve yardımları, bu kurul, üst kurul,
-kurum ve kuruluşların fonksiyonları, ücret adaleti ve 631 sayılı Kanun
-Hükmünde Kararnamenin geçici 1 inci maddesi uygulaması dikkate alınarak
-Bakanlar Kurulu tarafından belirlenir. Bakanlar Kurulu gerektiğinde
-ücret adaletini sağlamak amacıyla kamu görevlilerine ödenmekte olan
-temsil ve görev tazminatı tavan gösterge rakamlarını üç katına kadar
-artırmaya ve artırılan miktar içerisinde kadro ve görev unvanı
-itibarıyla düzenlemeler yapmaya yetkilidir.
+*1)       12/6/2002 tarihli ve 4761 sayılı Kanunun hükmüdür:*
 
-Yukarıdaki fıkradaki düzenleme yapılıncaya kadar, Kamu İhale Kurulu
-Başkanına, Enerji Piyasası Düzenleme Kurulu Başkanına aylık olarak
-ödenen net ücret ve diğer ödemeler toplamı kadar, Kamu İhale Kurulu
-üyelerine ise Kurul Başkanına yapılan toplam ödemelerin yüzde
+**            Madde 20 –** Özel kanunlarla kamu tüzel kişiliğini ve
+idarî ve malî özerkliği haiz olarak kurulmuş veya 31.12.2006 tarihine
+kadar kurulacak kurul, üst kurul, kurum ve kuruluşların Başkan ve
+üyelerinin aylık ücretleri ile malî ve sosyal hak ve yardımları,  bu
+kurul, üst kurul, kurum ve kuruluşların fonksiyonları, ücret adaleti ve
+631 sayılı Kanun Hükmünde Kararnamenin geçici 1 inci maddesi uygulaması
+dikkate alınarak Bakanlar Kurulu tarafından belirlenir. Bakanlar Kurulu
+gerektiğinde ücret adaletini sağlamak amacıyla kamu görevlilerine
+ödenmekte olan temsil ve görev tazminatı tavan gösterge rakamlarını üç
+katına kadar artırmaya ve artırılan miktar içerisinde kadro ve görev
+unvanı itibarıyla düzenlemeler yapmaya yetkilidir.
+
+            Yukarıdaki fıkradaki düzenleme yapılıncaya kadar, Kamu İhale
+Kurulu Başkanına, Enerji Piyasası Düzenleme Kurulu Başkanına aylık
+olarak ödenen net ücret ve diğer ödemeler toplamı kadar, Kamu İhale
+Kurulu üyelerine ise Kurul Başkanına yapılan toplam ödemelerin yüzde
 doksanyedisi oranında aylık net ödeme yapılır.
 
-*2) 30/7/2003 tarihli ve 4964 sayılı Kanunun hükmüdür:*
+*2) 30/7/2003 tarihli ve 4964  sayılı Kanunun hükmüdür:*
 
-**Geçici Madde 1-** 4734 ve 4735 sayılı kanunlarda bu Kanunla yapılan
-değişikliklerden dolayı yeniden düzenlenmesi gereken standart ihale
-dokümanı, Tip Sözleşme ve yönetmelikler, bu Kanunun yayımlandığı
-tarihten itibaren altmış gün içinde Kurum tarafından hazırlanarak
-yürürlüğe konulur. 4734 sayılı Kanundaki parasal limitlerde bu Kanunla
-yapılan değişiklikler ve yeni eklenen parasal limitler, 22.1.2002
-tarihinde geçerli kabul edilerek 1.1.2003 tarihine göre 4734 sayılı
-Kanunun 67 nci maddesindeki esaslar dahilinde Kurum tarafından
+**            Geçici Madde 1-** 4734 ve 4735 sayılı kanunlarda bu
+Kanunla yapılan değişikliklerden dolayı yeniden düzenlenmesi gereken
+standart ihale dokümanı, Tip Sözleşme ve yönetmelikler, bu Kanunun
+yayımlandığı tarihten itibaren altmış gün içinde Kurum tarafından
+hazırlanarak yürürlüğe konulur. 4734 sayılı Kanundaki parasal limitlerde
+bu Kanunla yapılan değişiklikler ve yeni eklenen parasal limitler,
+22.1.2002 tarihinde geçerli kabul edilerek 1.1.2003 tarihine göre 4734
+sayılı Kanunun 67 nci maddesindeki esaslar dahilinde Kurum tarafından
 güncellenir. Bu düzenlemelerin yürürlüğe konulmasına kadar, idareler,
 mevcut usul, esas ve yönetmelik hükümlerini uygulamaya devam ederler.
 
-4734 sayılı Kanunun 3 üncü ve geçici 4 üncü maddelerinde bu Kanunla
-yapılan değişikliklerden dolayı hazırlanması ve yürürlüğe konulması
-gereken esas ve usuller, bu Kanunun yayımlandığı tarihten itibaren otuz
-gün içinde hazırlanır ve yürürlüğe konulur. Bu düzenlemelerin
-yayımlanmasına kadar idareler, 4734 sayılı Kanunun bu Kanunla
-değiştirilmeden önce yürürlükte bulunan 3 üncü ve geçici 4 üncü
+            4734 sayılı Kanunun 3 üncü ve geçici 4 üncü maddelerinde bu
+Kanunla yapılan değişikliklerden dolayı hazırlanması ve yürürlüğe
+konulması gereken esas ve usuller, bu Kanunun   yayımlandığı  tarihten 
+itibaren  otuz   gün   içinde  hazırlanır  ve  yürürlüğe   konulur. Bu
+düzenlemelerin yayımlanmasına kadar idareler, 4734 sayılı Kanunun bu
+Kanunla değiştirilmeden önce yürürlükte bulunan 3 üncü ve geçici 4 üncü
 maddeleri gereği hazırlanan ve yürürlüğe konulan esas ve usulleri
 uygulamaya devam ederler.
 
-4734 sayılı Kanunun 3 üncü maddesinin (g) bendindeki istisna hükmünden
-yararlanan kuruluşların sözleşme altında yüklenici oldukları yapım işi
-alımları da on yıl süreyle aynı bentte öngörülen istisna hükümlerine
-tâbidir.
+            4734 sayılı Kanunun 3 üncü maddesinin (g) bendindeki istisna
+hükmünden yararlanan kuruluşların sözleşme altında yüklenici oldukları
+yapım işi alımları da on yıl süreyle aynı bentte öngörülen istisna
+hükümlerine tâbidir.
 
 8258-12
 
-*3)3/7/2005 tarihli ve 5398 sayılı Kanunun hükmüdür:*
+ 
 
-**Geçici Madde 2 –** İstanbul Menkul Kıymetler Borsası, Radyo ve
-Televizyon Üst Kurulu, Rekabet Kurumu, Sermaye Piyasası Kurulu,
-Bankacılık Düzenleme ve Denetleme Kurumu, Telekomünikasyon Kurumu,
-Enerji Piyasası Düzenleme Kurumu, Kamu İhale Kurumu ile Tütün, Tütün
-Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumunca elde edilen
-her türlü gelirin 30.6.2005 tarihine kadar birikmiş tutarlarından Maliye
-Bakanının teklifi ve Başbakanın onayı ile kurum ve kuruluşlar itibarıyla
-belirlenecek oranlara göre hesaplanacak kısmı; bütçenin (B) işaretli
-cetveline gelir kaydedilmek üzere Maliye Bakanı tarafından belirlenecek
-süre içinde Maliye Bakanlığı Merkez Saymanlık Müdürlüğünün Türkiye
-Cumhuriyet Merkez Bankası nezdindeki hesabına yatırılır. Ayrıca, anılan
-kurum ve kuruluşların 31.12.2005 tarihine kadar kasalarında oluşacak
-nakit fazlaları da bunların görüşü alınmak suretiyle bu fıkrada
+*    3) 3/7/2005 tarihli ve 5398  sayılı Kanunun hükmüdür:*
+
+**              Geçici Madde 2 –** İstanbul Menkul Kıymetler Borsası,
+Radyo ve Televizyon Üst Kurulu, Rekabet Kurumu, Sermaye Piyasası 
+Kurulu, Bankacılık Düzenleme ve Denetleme Kurumu, Telekomünikasyon
+Kurumu, Enerji Piyasası Düzenleme Kurumu, Kamu İhale Kurumu ile Tütün,
+Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumunca elde
+edilen her türlü gelirin 30.6.2005 tarihine kadar birikmiş tutarlarından
+Maliye Bakanının teklifi ve Başbakanın onayı ile kurum ve kuruluşlar
+itibarıyla belirlenecek oranlara göre hesaplanacak kısmı; bütçenin (B)
+işaretli cetveline gelir kaydedilmek üzere Maliye Bakanı tarafından
+belirlenecek süre içinde Maliye Bakanlığı Merkez Saymanlık Müdürlüğünün
+Türkiye Cumhuriyet Merkez Bankası nezdindeki hesabına yatırılır. Ayrıca,
+anılan kurum ve kuruluşların 31.12.2005 tarihine kadar kasalarında
+oluşacak nakit fazlaları da bunların görüşü alınmak suretiyle bu fıkrada
 belirlenen esaslara göre kesilerek ilgili hesaba aktarılır.
 
-Söz konusu kurum ve kuruluşlar 30.6.2005 tarihine kadar birikmiş gelir
-tutarları ile kasa ve banka mevcutlarını 15.7.2005 tarihine kadar; her
-ayın gelir ve giderleriyle kasa ve banka mevcutlarını gösterir malî
-bilgileri ise izleyen ayın yedinci günü sonuna kadar Maliye Bakanlığına
-bildirirler. Bu maddede belirtilen tutarların süresi içinde ödenmemesi
-halinde, ödenmeyen tutarlar 6183 sayılı Amme Alacaklarının Tahsil Usulü
-Hakkında Kanun hükümlerine göre gecikme zammı da uygulanmak suretiyle
-takip ve tahsil edilir.
+              Söz konusu kurum ve kuruluşlar 30.6.2005 tarihine kadar
+birikmiş gelir tutarları ile kasa ve banka mevcutlarını 15.7.2005
+tarihine kadar; her ayın gelir ve giderleriyle kasa ve banka
+mevcutlarını gösterir malî bilgileri ise izleyen ayın yedinci günü
+sonuna kadar Maliye Bakanlığına bildirirler. Bu maddede belirtilen
+tutarların süresi içinde ödenmemesi halinde, ödenmeyen tutarlar 6183
+sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre
+gecikme zammı da uygulanmak suretiyle takip ve tahsil edilir.
 
-8258-13
+ 8258-13
 
 **4734 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
 
@@ -3727,32 +3948,34 @@ Diğer maddeleri 15/8/2003
 
 **YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
-  ---------------------------------- ------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
-  **Değiştiren Kanunun/ KHK’nin/**   **4734 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-                                                                                                   
-  **Tebliğin**                                                                                     
-                                                                                                   
-  **Numarası**                                                                                     
+  -------------------------------------------------------------- ------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
+  **Değiştiren Kanunun/ KHK’nin/**                               **4734 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                               
+  **Tebliğin**                                                                                                                 
+                                                                                                                               
+  **Numarası**                                                                                                                 
 
-  KHK/638                            3                                                             12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
+  KHK/638                                                        3                                                             12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
 
-  KHK/661                            53, Geçici Madde 11, Geçici Madde 12                          2/11/2011
+  KHK/661                                                        53, Geçici Madde 11, Geçici Madde 12                          2/11/2011
 
-  6288                               3, 48                                                         4/4/2012
+  6288                                                           3, 48                                                         4/4/2012
 
-  6287                               Geçici Madde 13                                               11/4/2012
+  6287                                                           Geçici Madde 13                                               11/4/2012
 
-  6353                               3, 28, 53                                                     12/7/2012
+  6353                                                           3, 28, 53                                                     12/7/2012
 
-  6359                               11                                                            10/11/2012
+  6359                                                           11                                                            10/11/2012
 
-  2013/1 Numaralı Tebliğ             3, 8, 13, 21, 22, 53, 62, 67                                  1/2/2013
+  2013/1 Numaralı Tebliğ                                         3, 8, 13, 21, 22, 53, 62, 67                                  1/2/2013
 
-  6461                               3                                                             1/5/2013
+  6461                                                           3                                                             1/5/2013
 
-  6462                               53                                                            3/5/2013
+  6462                                                           53                                                            3/5/2013
 
-  6475                               Geçici Madde 4                                                23/5/2013
-  ---------------------------------- ------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
+  6475                                                           Geçici Madde 4                                                23/5/2013
+
+  Anayasa Mahkemesi 27/9/2012 tarihli ve E:2012/20, K:2012/132   65                                                            26/7/2013
+  -------------------------------------------------------------- ------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
 
 
