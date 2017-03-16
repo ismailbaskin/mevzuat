@@ -1,20 +1,18 @@
-**6353 sayılı Kanun ile değişik hali**
+**6462 sayılı Kanun ile değişik hali**
 
 **TERÖR VE TERÖRLE MÜCADELEDEN DOĞAN**
-======================================
 
 **ZARARLARIN KARŞILANMASI**
 
-HAKKINDA KANUN
---------------
+**HAKKINDA KANUN**
 
- 
+* *
 
-     Kanun Numarası : 5233
+ **    Kanun Numarası : 5233**
 
-Kabul Tarihi : 17/7/2004
+**Kabul Tarihi : 17/7/2004**
 
-Yayımlandığı R.Gazete : Tarih : 27/7/2004 Sayı :25535
+**Yayımlandığı R. Gazete : Tarih : 27/7/2004 Sayı :25535 **
 
 **Yayımlandığı Düstur : Tertip : 5 Cilt : 43 **
 
@@ -128,7 +126,16 @@ d\) Başvuranın, bu Kanun kapsamına giren bir zararının bulunmadığının
 tespit edilmesi hâlinde, buna ilişkin karar tutanağı düzenleyerek bir
 örneğini ilgiliye tebliğ etmek.
 
-*Başvurunun süresi, şekli, incelenmesi ve sonuçlandırılması*
+–––––––––––––––
+
+*(1) 28/12/2005 tarihli ve 5442 sayılı Kanunun 2 nci maddesiyle; bu
+maddenin (c) ve (d) bentlerinde geçen "birer" ibareleri"bir" şeklinde
+değiştirilmiş, "ve Bakanlığa göndermek" ibareleri madde metninden
+çıkarılmıştır.*
+
+8928-1
+
+*Başvurunun süresi, şekli, incelenmesi ve sonuçlandırılması *
 
 **Madde 6-** **(Değişik: 28/12/2005 - 5442/3 md.)**
 
@@ -137,9 +144,10 @@ konusu olayın öğrenilmesinden itibaren altmış gün içinde, her hâlde
 olayın meydana gelmesinden itibaren bir yıl içinde zararın gerçekleştiği
 veya zarar konusu olayın meydana geldiği il valiliğine başvurmaları
 hâlinde gerekli işlemlere başlanır. Bu sürelerden sonra yapılacak
-başvurular kabul edilmez. Bu Kanun kapsamındaki yaralanma ve
-sakatlanmalarda, yaralının hastaneye kabulünden hastaneden çıkışına
-kadar geçen süre, başvuru süresinin hesaplanmasında dikkate alınmaz.
+başvurular kabul edilmez. Bu Kanun kapsamındaki yaralanma ve engelli
+hâle gelme durumlarında, yaralının hastaneye kabulünden hastaneden
+çıkışına kadar geçen süre, başvuru süresinin hesaplanmasında dikkate
+alınmaz. ^(1)^
 
 İlgili valilik dışında diğer valilikler, kaymakamlıklar, Türkiye
 Cumhuriyeti dış temsilcilikleri, diğer bakanlıklar ile kamu kurum ve
@@ -163,15 +171,6 @@ katılamazlar.
 
 Komisyonun sekreterlik hizmetleri il özel idarelerince yürütülür.
 
-–––––––––––––––
-
-*(1) 28/12/2005 tarihli ve 5442 sayılı Kanunun 2 nci maddesiyle; bu
-maddenin (c) ve (d) bentlerinde geçen "birer" ibareleri"bir" şeklinde
-değiştirilmiş, "ve Bakanlığa göndermek" ibareleri madde metninden
-çıkarılmıştır.*
-
-8929
-
 Komisyon tarafından bilirkişi olarak görevlendirilen kamu görevlilerine
 her başvuru dosyası için (500), diğer kişilere her başvuru dosyası için
 (1000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucu
@@ -194,6 +193,14 @@ karşılanır.
 Dava açma süresi içinde yapılan başvuru, nihaî işlem sonucunun ilgiliye
 tebliğine kadar genel hükümlere göre dava açma sürelerini durdurur.
 
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “sakatlanmalarda” ibaresi “engelli hâle gelme
+durumlarında” şeklinde değiştirilmiştir.*
+
+8929
+
 *Karşılanacak zararlar*
 
 **Madde 7-** Bu Kanun hükümlerine göre sulh yoluyla karşılanabilecek
@@ -202,8 +209,8 @@ zararlar şunlardır:
 a\) Hayvanlara, ağaçlara, ürünlere ve diğer taşınır ve taşınmazlara
 verilen her türlü zararlar.
 
-b\) Yaralanma, sakatlanma ve ölüm hâllerinde uğranılan zararlar ile
-tedavi ve cenaze giderleri.
+b\) Yaralanma, engelli hâle gelme ve ölüm hâllerinde uğranılan zararlar
+ile tedavi ve cenaze giderleri. ^(1)^
 
 c\) Terörle mücadele kapsamında yürütülen faaliyetler nedeniyle kişilerin
 mal varlıklarına ulaşamamalarından kaynaklanan maddî zararlar.
@@ -221,10 +228,12 @@ belirlenir.
 Taşınmaza ilişkin zarar tespitinde 2942 sayılı Kamulaştırma Kanununun 11
 inci maddesinde belirtilen kıymet takdiri esasları kıyasen uygulanır.
 
-*Yaralanma, sakatlanma ve ölüm hâllerinde yapılacak ödemeler *
+*Yaralanma, engelli hâle gelme ve ölüm hâllerinde yapılacak
+ödemeler^(2)^*
 
-**Madde 9-** Yaralanma, sakatlanma ve ölüm hâllerinde (7000) gösterge
-rakamının memur aylık katsayısı ile çarpımı sonucunda bulunan miktarın;
+**Madde 9-** Yaralanma, engelli hâle gelme ve ölüm hâllerinde (7000)
+gösterge rakamının memur aylık katsayısı ile çarpımı sonucunda bulunan
+miktarın;
 
 a\) Yaralananlara altı katı tutarını geçmemek üzere yaralanma derecesine
 göre,
@@ -256,14 +265,24 @@ uygulanır.
 Bakanlar Kurulu, nakdî ödemeye esas tutulan gösterge rakamını yüzde
 otuza kadar artırmaya veya kanunî sınıra kadar indirmeye yetkilidir.
 
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “sakatlanma” ibaresi “engelli hâle gelme” şeklinde
+değiştirilmiştir.*
+
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin başlığında ve birinci fıkrasında yer alan “sakatlanma”
+ibareleri “engelli hâle gelme” şeklinde değiştirilmiştir.*
+
 8930
 
 Bu Kanun kapsamındaki zararlardan dolayı, zarar gören kişilere gerçek
 veya özel hukuk tüzel kişileri tarafından yapılan ödemeler sebebiyle
 Devlete rücu edilemez.
 
-Nakdî ödemenin şekli, tutarı, yaralanma ve sakatlık derecelerinin
-tespitine ilişkin esas ve usuller yönetmelikle belirlenir.
+Nakdî ödemenin şekli, tutarı, yaralanma ve engellilik derecelerinin
+tespitine ilişkin esas ve usuller yönetmelikle belirlenir. ^(1)^
 
 *Zararların karşılanma şekli *
 
@@ -283,16 +302,16 @@ hesaplanacak toplam gayrisafi ifa bedelinden düşülür.
 Mahsup edilecek değerlerin hesaplanması ile ilgili esas ve usuller
 yönetmelikle belirlenir.
 
-*Zararın karşılanmasına ilişkin sulhname ^(1)^*
+*Zararın karşılanmasına ilişkin sulhname ^(2(3)^*
 
 **Madde 12-** Komisyon, doğrudan doğruya veya bilirkişi aracılığı ile
 yaptığı tespitten sonra 8 inci maddeye göre belirlenen zararı, 9 uncu
-maddeye göre hesaplanan yaralanma, sakatlanma ve ölüm hâllerindeki nakdî
-ödeme tutarını, 10 uncu maddeye göre ifa tarzını ve 11 inci maddeye göre
-mahsup edilecek miktarları dikkate alarak, uğranılan zararı sulh yoluyla
-karşılayacak safi miktarı belirler. Komisyonca, bu esaslara göre
-hazırlanan sulhname tasarısının örneği davet yazısı ile birlikte hak
-sahibine tebliğ edilir.
+maddeye göre hesaplanan yaralanma, engelli hâle gelme ve ölüm
+hâllerindeki nakdî ödeme tutarını, 10 uncu maddeye göre ifa tarzını ve
+11 inci maddeye göre mahsup edilecek miktarları dikkate alarak,
+uğranılan zararı sulh yoluyla karşılayacak safi miktarı belirler.
+Komisyonca, bu esaslara göre hazırlanan sulhname tasarısının örneği
+davet yazısı ile birlikte hak sahibine tebliğ edilir.
 
 Davet yazısında hak sahibinin sulhname tasarısını imzalamak üzere otuz
 gün içinde gelmesi veya yetkili bir temsilcisini göndermesi gerektiği,
@@ -311,7 +330,7 @@ edilmemiş sayılması hâllerinde bir uyuşmazlık tutanağı düzenlenerek bir
 Sulh yoluyla çözülemeyen uyuşmazlıklarda ilgililerin yargı yoluna
 başvurma hakları saklıdır.
 
-*Zararın karşılanması ^(2)^*
+*Zararın karşılanması ^(4)^*
 
 **Madde 13-** Sulhnamede belirlenen zararlar, sulhnamenin
 imzalanmasından sonra valinin onayı üzerine ifa tarzına göre Bakanlık
@@ -327,13 +346,21 @@ hakkı saklıdır.
 
 ––––––––––––––––––
 
-*(1) 28/12/2005 tarihli ve 5442 sayılı Kanunun 4 üncü maddesiyle; bu
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “sakatlık” ibaresi “engellilik” şeklinde
+değiştirilmiştir.*
+
+*(2) 28/12/2005 tarihli ve 5442 sayılı Kanunun 4 üncü maddesiyle; bu
 maddenin ikinci fıkrasındaki "yirmi gün" ibaresi "otuz gün" olarak,
 dördüncü fıkrasındaki "birer örneği ilgiliye ve Bakanlığa gönderilir."
 ibaresi "bir örneği ilgiliye gönderilir." şeklinde değiştirilmiş ve
 metne işlenmiştir.*
 
-*(2) 28/12/2005 tarihli ve 5442 sayılı Kanunun 5 inci maddesiyle; bu
+*(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin birinci fıkrasında yer alan “sakatlanma” ibaresi “engelli hâle
+gelme” şeklinde değiştirilmiştir.*
+
+*(4) 28/12/2005 tarihli ve 5442 sayılı Kanunun 5 inci maddesiyle; bu
 maddenin birinci fıkrasına "ödenekten" sözcüğünden sonra gelmek üzere
 "üç ay içerisinde" ibaresi eklenmiş; ikinci fıkrasındaki "yirmimilyar
 Türk Lirasının" ibaresi "ellibin Yeni Türk Lirasının" şeklinde
@@ -446,9 +473,9 @@ bir yıl içinde sonuçlandırılır.
 –––––––––––––
 
 *(1) Bu madde gereğince yapılan başvuruların sonuçlandırılma
-süresi,17/4/2012 tarihli ve 28267 sayılı Resmi Gazete’de yayımlanan
-2/4/2012 tarihli ve 2012/2996 sayılı Bakanlar Kurulu Kararı Eki Kararın
-1 inci maddesiyle, 22/8/2011 tarihli ve 2011/2178 sayılı Bakanlar Kurulu
+süresi,20/7/2013 tarihli ve 28713 sayılı Resmi Gazete’de yayımlanan
+24/6/2013 tarihli ve 2013/5034 sayılı Bakanlar Kurulu Kararı Eki Kararın
+1 inci maddesiyle, 2/4/2012 tarihli ve 2012/2996 sayılı Bakanlar Kurulu
 Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
 
 8932-1
@@ -527,9 +554,9 @@ ise iade talep edilmez.
 –––––––––––––
 
 *(1) Bu madde gereğince yapılan başvuruların sonuçlandırılma
-süresi,17/4/2012 tarihli ve 28267 sayılı Resmi Gazete’de yayımlanan
-2/4/2012 tarihli ve 2012/2996 sayılı Bakanlar Kurulu Kararı Eki Kararın
-1 inci maddesiyle, 22/8/2011 tarihli ve 2011/2178 sayılı Bakanlar Kurulu
+süresi,20/7/2013 tarihli ve 28713 sayılı Resmi Gazete’de yayımlanan
+24/6/2013 tarihli ve 2013/5034 sayılı Bakanlar Kurulu Kararı Eki Kararın
+1 inci maddesiyle, 2/4/2012 tarihli ve 2012/2996 sayılı Bakanlar Kurulu
 Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
 
 8932-3
@@ -550,6 +577,8 @@ Kararı ile uzatılan sürenin bitiminden itibaren bir yıl uzatılmıştır.*
   5666                     Geçici Madde 4                                                30/5/2007
 
   6353                     Ek Madde 1, Geçici Madde 5                                    12/7/2012
+
+  6462                     6, 7, 9, 12                                                   3/5/2013
   ------------------------ ------------------------------------------------------------- ----------------------------
 
 
