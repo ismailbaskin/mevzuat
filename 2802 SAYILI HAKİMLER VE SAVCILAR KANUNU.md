@@ -1,4 +1,6 @@
-6462 sayılı Kanun ile değişik hali
+ Anayasa Mahkemesi’nin 18/7/2012 tarihli ve
+
+E.: 2011/113 K.: 2012/108 sayılı Kararı ile değişik hali
 
 []{#K29 .anchor}HAKİMLER VE SAVCILAR KANUNU ^(1)(2)^
 
@@ -161,7 +163,7 @@ maddede yeralan “Anayasa Mahkemesi” ibaresi madde metninden
 maddenin birinci fıkrasının (a) bendinin (1) ve (2) numaralı alt
 bentleri ile (b) bendinin (1) ve (2) numaralı alt bentlerinde bulunan,
 "Adalet Bakanlığı merkez kuruluşunda" ibareleri "Adalet Bakanlığı
-merkez, bağlı ve ilgili kuruluşlarında"şeklinde değiştirilmiş ve metne
+merkez, bağlı ve ilgili kuruluşlarında" şeklinde değiştirilmiş ve metne
 işlenmiştir.*
 
 5616
@@ -1600,87 +1602,76 @@ esaslar dâhilinde yararlandırılırlar.
 
 5628-1
 
- 
-
 49 uncu madde ve bu maddenin uygulanmasına ilişkin usul ve esaslar
 Bakanlıkça çıkarılan yönetmelikle düzenlenir.
 
- 
+ÜÇÜNCÜ BÖLÜM
 
-                                                              ÜÇÜNCÜ
-BÖLÜM
+*Hakimlik ve Savcılık Görevlerinin Sona Ermesi*
 
-                                         Hakimlik ve Savcılık
-Görevlerinin Sona Ermesi
+*Meslekten Çekilme:*
 
-             Meslekten Çekilme:
+**Madde 51 – **Hakim ve savcılar, Adalet Bakanlığına yazılı olarak
+başvurmak suretiyle mesleklerinden çekilme isteğinde bulunabilirler.
 
-             **Madde 51 – **Hakim ve savcılar, Adalet Bakanlığına yazılı
-olarak başvurmak suretiyle mesleklerinden çekilme isteğinde
-bulunabilirler.
+Çekilme isteğinde bulunan, isteğinin kabulüne kadar görevine devam eder;
+ancak, istem tarihinden itibaren bir ay içinde cevap gelmediği takdirde
+görevini bırakabilir.
 
-             Çekilme isteğinde bulunan, isteğinin kabulüne kadar
-görevine devam eder; ancak, istem tarihinden itibaren bir ay içinde
-cevap gelmediği takdirde görevini bırakabilir.
+Olağanüstü mazeretleri ile meslekten çekilenler, Adalet Bakanlığına
+bilgi vermek şartıyla bir ay kaydına tabi değildirler.
 
-             Olağanüstü mazeretleri ile meslekten çekilenler, Adalet
-Bakanlığına bilgi vermek şartıyla bir ay kaydına tabi değildirler.
+İzinsiz veya kabul edilir mazertleri olmaksızın; görevlerini terkederek
+bu terki kesintisiz on gün devam ettirenler veya bir yılda toplam otuz
+gün göreve gelmeyenler meslekten çekilmiş sayılırlar.
 
-             İzinsiz veya kabul edilir mazertleri olmaksızın;
-görevlerini terkederek bu terki kesintisiz on gün devam ettirenler veya
-bir yılda toplam otuz gün göreve gelmeyenler meslekten çekilmiş
-sayılırlar.
+Hakimler ve savcılar siyasi partilere giremezler, girenler meslekten
+çekilmiş sayılırlar. **(Mülga son cümle : 9/3/1995 – 4087/4 md.)**
 
-             Hakimler ve savcılar siyasi partilere giremezler, girenler
-meslekten çekilmiş sayılırlar. **(Mülga son cümle : 9/3/1995 – 4087/4
-md.)**
+*Olağanüstü hallerde çekilmede usul ve genel olarak çekilmenin
+sonuçları :*
 
-             *Olağanüstü hallerde çekilmede usul ve genel olarak
-çekilmenin sonuçları :*
+**Madde 52 – **Olağanüstü hallerde, sıkıyönetim, seferberlik ve savaş
+halinde o bölgelerde görevli hakim ve savcılar çekilme istekleri kabul
+edilmedikçe veya yerlerine atanacaklar gelip işe başlamadıkça
+görevlerini bırakamazlar.
 
-*            * **Madde 52 – **Olağanüstü hallerde, sıkıyönetim,
-seferberlik ve savaş halinde o bölgelerde görevli hakim ve savcılar
-çekilme istekleri kabul edilmedikçe veya yerlerine atanacaklar gelip işe
-başlamadıkça görevlerini bırakamazlar.
+Yukarıdaki fıkraya aykırı hareket edenler bir daha mesleğe alınmazlar ve
+kamu kurum ve kuruluşlarında görev alamazlar.
 
-             Yukarıdaki fıkraya aykırı hareket edenler bir daha mesleğe
-alınmazlar ve kamu kurum ve kuruluşlarında görev alamazlar.
+*Hakimlik ve savcılık görevlerinin sona ermesi :*
 
-             *Hakimlik ve savcılık görevlerinin sona ermesi :*
+**Madde 53 – **Hakim ve savcıların:
 
-             **Madde 53 – **Hakim ve savcıların:
+a)Bu Kanun hükümlerine göre meslekten çıkarılmaları veya meslekte
+kalmalarının uygun olmadığına karar verilmesi,
 
-             a)Bu Kanun hükümlerine göre meslekten çıkarılmaları veya
-meslekte kalmalarının uygun olmadığına karar verilmesi,
+b\) Haklarında soruşturma ve kovuşturma bulunması halleri hariç olmak
+üzere, mesleğe alınma koşullarından herhangi birini taşımadıklarının
+sonradan anlaşılması,
 
-             b) Haklarında soruşturma ve kovuşturma bulunması halleri
-hariç olmak üzere, mesleğe alınma koşullarından herhangi birini
-taşımadıklarının sonradan anlaşılması,
+c\) **(Değişik : 22/12/2005 - 5435/23 md.)** Görevdeyken, 8 inci maddenin
+(a), (d) ve (g) bentlerinde yazılı niteliklerden herhangi birini
+kaybetmeleri,
 
-             c) **(Değişik : 22/12/2005 - 5435/23 md.)** Görevdeyken, 8
-inci maddenin (a), (d) ve (g) bentlerinde yazılı niteliklerden herhangi
-birini kaybetmeleri,
+d\) Meslekten çekilmeleri veya çekilmiş sayılmaları,
 
-             d) Meslekten çekilmeleri veya çekilmiş sayılmaları,
+e\) İstek, yaş haddi veya malullük nedenlerinden biriyle emekliye
+ayrılmaları,
 
-             e) İstek, yaş haddi veya malullük nedenlerinden biriyle
-emekliye ayrılmaları,
+f\) Ölümleri,
 
-             f) Ölümleri,
-
-             Hallerinde görevleri sona erer.
+Hallerinde görevleri sona erer.
 
 5628-2
 
- 
-
 DÖRDÜNCÜ KISIM
 
-Çalışma Saatleri, İzinler
+*Çalışma Saatleri, İzinler*
 
 BİRİNCİ BÖLÜM
 
-Çalışma Saatleri
+*Çalışma Saatleri*
 
 *Çalışma saatleri:*
 
@@ -1703,8 +1694,9 @@ edilir.
 
 *Yıllık ara vermeden yararlanma:^(1)^*
 
-**Madde 55 – (Değişik birinci fıkra: 8/8/2011-KHK-650/21 md.)** Hâkim ve
-savcıların adli ara vermeden yararlandırılması esastır.^(1)^
+**Madde 55 – (Değişik birinci fıkra: 8/8/2011-KHK-650/21 md.; İptal
+fıkra: Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.:
+2012/108 sayılı Kararı ile.) ^(1)^**
 
 Yıllık ara vermeden yaralanan hakim ve savcılara o yıl için ayrıca
 yıllık izin verilmez.
@@ -1712,205 +1704,189 @@ yıllık izin verilmez.
 Yıllık ara vermeden yararlanma koşul ve yöntemleri Hakimler ve Savcılar
 Yüksek Kurulunca saptanır.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
-sayılı Kararı ile bu maddenin birinci fıkrası iptal edilmiş olup iptal
-hükmünün, kararın Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden
-başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
-
- 
-
-5629
-
- 
-
 İKİNCİ BÖLÜM
 
-İzinler
+*İzinler*
 
 *İzinler:*
 
-**             Madde 56 – **Yıllık ara vermeden yararlanmayan hakim ve
-savcılara Adalet Bakanlığınca uygun görülecek zamanlarda normal yol
-süresi hariç otuz gün yıllık izin verilir.
+**Madde 56 – **Yıllık ara vermeden yararlanmayan hakim ve savcılara
+Adalet Bakanlığınca uygun görülecek zamanlarda normal yol süresi hariç
+otuz gün yıllık izin verilir.
 
-             Birbirini izleyen son iki yılın izni bir arada
-verilebileceği gibi yıllık izinler bölümlere ayrılarak da verilebilir. 
-Daha önceki yıllara ait izin hakları düşer.
+Birbirini izleyen son iki yılın izni bir arada verilebileceği gibi
+yıllık izinler bölümlere ayrılarak da verilebilir. Daha önceki yıllara
+ait izin hakları düşer.
 
-             Acil ve zorunlu hallerde, ilgilisine göre ağır ceza
-Cumhuriyet savcıları veya adalet komisyonu başkanları üç güne kadar
-mazeret izni verebilirler. Verilen izinler Adalet Bakanlığına
-bildirilir.
+Acil ve zorunlu hallerde, ilgilisine göre ağır ceza Cumhuriyet savcıları
+veya adalet komisyonu başkanları üç güne kadar mazeret izni
+verebilirler. Verilen izinler Adalet Bakanlığına bildirilir.
 
-             Hakim ve savcıların; mazeret, hastalık ve aylıksız izinleri
-hakkında Devlet Memurları Kanunundaki hükümler uygulanır.
+Hakim ve savcıların; mazeret, hastalık ve aylıksız izinleri hakkında
+Devlet Memurları Kanunundaki hükümler uygulanır.
 
-             *İyileşme halinde göreve dönüş:*
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-             **Madde 57 – **Akıl ve ruh hastalığından iyileştiklerine
-dair rapor alanlar göreve başladıktan sonra, mesleğin ifasındaki tutum
-ve davranışları itibariyle görevlerini gerektiği gibi yapamayacakları
+*(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra
+yürürlüğe girmiştir.*
+
+5629
+
+*İyileşme halinde göreve dönüş:*
+
+**Madde 57 – **Akıl ve ruh hastalığından iyileştiklerine dair rapor
+alanlar göreve başladıktan sonra, mesleğin ifasındaki tutum ve
+davranışları itibariyle görevlerini gerektiği gibi yapamayacakları
 soruşturma sonunda anlaşıldığı takdirde Adalet Bakanlığınca kesin rapor
 alınmak üzere Adli Tıp Kurumuna sevkedilir ve alınacak rapora göre işlem
 yapılır.
 
- 
-
 BEŞİNCİ KISIM
 
-Siciller
+*Siciller*
 
-             *Sicil ve özlük dosyaları:*
+*Sicil ve özlük dosyaları:*
 
-*            * **Madde 58 – (Değişik: 22/12/2005 - 5435/25 md.)**
+**Madde 58 – (Değişik: 22/12/2005 - 5435/25 md.)**
 
-             Hâkimlere ve savcılara sicil numarası verilir, haklarındaki
-belgeler gizli ve açık sicil dosyalarıyla özlük dosyasında saklanır.
-Ayrıca bu bilgiler elektronik ortamda da tutulabilir.
+Hâkimlere ve savcılara sicil numarası verilir, haklarındaki belgeler
+gizli ve açık sicil dosyalarıyla özlük dosyasında saklanır. Ayrıca bu
+bilgiler elektronik ortamda da tutulabilir.
 
-             *Gizli sicil:*
+*Gizli sicil:*
 
-             **Madde 59 – **Hakim ve savcıların her biri için gizli
-sicil dosyası tutulur. Gizli sicil dosyasına yetkililer tarafından
-düzenlenecek sicil raporlarıyla müfettişler tarafından verilen hal
-kağıtları ve mal beyannameleri konulur.
+**Madde 59 – **Hakim ve savcıların her biri için gizli sicil dosyası
+tutulur. Gizli sicil dosyasına yetkililer tarafından düzenlenecek sicil
+raporlarıyla müfettişler tarafından verilen hal kağıtları ve mal
+beyannameleri konulur.
 
-             *Açık sicil ve özlük dosyası:*
+*Açık sicil ve özlük dosyası:*
 
-             **Madde 60 – **Açık sicil dosyasına ilgilinin kimliği,
-öğrenim durumu, bildiği yabancı dil, mesleki eserleri ve yazıları, aile
-durumu, görev yaptığı yerler, terfileri izin, rapor, yetki, mesleğe
-kabul, disiplin ve ceza kovuşturma ve soruşturması ve sonuçları,
-askerlik durumu, emeklilik işlemleri, mecburi hizmeti, başka görevler de
-geçen hizmetleri gibi hususlar kaydolunur.
+**Madde 60 – **Açık sicil dosyasına ilgilinin kimliği, öğrenim durumu,
+bildiği yabancı dil, mesleki eserleri ve yazıları, aile durumu, görev
+yaptığı yerler, terfileri izin, rapor, yetki, mesleğe kabul, disiplin ve
+ceza kovuşturma ve soruşturması ve sonuçları, askerlik durumu, emeklilik
+işlemleri, mecburi hizmeti, başka görevler de geçen hizmetleri gibi
+hususlar kaydolunur.
 
-             Hakimlik ve savcılık mesleğinde bulunanlar hakkında özlük
-dosyası tutulur Bu dosyaya açık sicilde yer alan hususlarla ilgili
-belgeler ve diğer evrak konulur.
+Hakimlik ve savcılık mesleğinde bulunanlar hakkında özlük dosyası
+tutulur Bu dosyaya açık sicilde yer alan hususlarla ilgili belgeler ve
+diğer evrak konulur.
 
 (**Mülga son fıkra: 22/12/2005 - 5435/43 md.)**
 
-             *Sicil vermeye yetkili olanlar ve uygulanacak ilkeler:*
+*Sicil vermeye yetkili olanlar ve uygulanacak ilkeler:*
 
-*            * **Madde 61 – **Hakimlik ve savcılık mesleğinde
-bulunanlara sicil vermeye yetkili olanlar ile bu konuda uygulanacak
-ilkeler ve sicil fişlerinin şekli bu Kanun hükümlerine göre Hakimler ve
-Savcılar Yüksek Kurulunca düzenlenecek yönetmelikte belirlenir.
-
- 
+**Madde 61 – **Hakimlik ve savcılık mesleğinde bulunanlara sicil vermeye
+yetkili olanlar ile bu konuda uygulanacak ilkeler ve sicil fişlerinin
+şekli bu Kanun hükümlerine göre Hakimler ve Savcılar Yüksek Kurulunca
+düzenlenecek yönetmelikte belirlenir.
 
 ALTINCI KISIM
 
-Disiplin Cezaları, Görevden Uzaklaştırma
+*Disiplin Cezaları, Görevden Uzaklaştırma*
 
 BİRİNCİ BÖLÜM
 
-Disiplin Cezaları
+*Disiplin Cezaları*
 
-             *Disiplin cezaları:*
+*Disiplin cezaları:*
 
-*            * **Madde 62 – **Hakim ve savcılara; sıfat ve görevleri
-gereklerine uymayan hal ve hareketlerinin tespit edilmesi üzerine
-durumun niteliğine ve ağırlık derecesine göre, Hakimler ve Savcılar
-Yüksek Kurulunca aşağıda yazılı disiplin cazalarından biri verilir :
+**Madde 62 – **Hakim ve savcılara; sıfat ve görevleri gereklerine
+uymayan hal ve hareketlerinin tespit edilmesi üzerine durumun niteliğine
+ve ağırlık derecesine göre, Hakimler ve Savcılar Yüksek Kurulunca
+aşağıda yazılı disiplin cazalarından biri verilir :
 
-             a)Uyarma,
+a)Uyarma,
 
-             b) Aylıktan kesme,
+b\) Aylıktan kesme,
 
-             c) Kınama,
+c\) Kınama,
 
-             d) Kademe ilerlemesini durdurma,
+d\) Kademe ilerlemesini durdurma,
 
 5630
 
- 
+e\) Derece yükselmesini durdurma,
 
-             e) Derece yükselmesini durdurma,
+f\) Yer değiştirme,
 
-             f) Yer değiştirme,
+g\) Meslekten çıkarma.
 
-             g) Meslekten çıkarma.
+**(Değişik: 12/2/1989 – KHK – 360/4 md.; Aynen Kabul 24/1/1990 – 3611/4
+md.)** Adalet Komisyonu başkanları görev yaptıkları yargı çevresi
+içindeki hakimlerin; ağır ceza Cumhuriyet başsavcıları ise merkezdeki
+Cumhuriyet savcıları ile bağlı ilçe Cumhuriyet başsavcı ve Cumhuriyet
+savcılarının; öğrendikleri disiplin cezasını gerektiren eylemlerini
+Adalet Bakanlığına bildirirler.
 
-             **(Değişik: 12/2/1989 – KHK – 360/4 md.; Aynen Kabul
-24/1/1990 – 3611/4 md.)** Adalet Komisyonu başkanları görev yaptıkları
-yargı çevresi içindeki hakimlerin; ağır ceza Cumhuriyet başsavcıları ise
-merkezdeki Cumhuriyet savcıları ile bağlı ilçe Cumhuriyet başsavcı ve
-Cumhuriyet savcılarının; öğrendikleri disiplin cezasını gerektiren
-eylemlerini Adalet Bakanlığına bildirirler.
+*Uyarma cezası:*
 
-             *Uyarma cezası:*
+**Madde 63 – **Uyarma: Görevde daha dikkatli olması gerektiğinin yazı
+ile bildirilmesidir.
 
-*            * **Madde 63 – **Uyarma: Görevde daha dikkatli olması
-gerektiğinin yazı ile bildirilmesidir.
+Uyarma cezası :
 
-             Uyarma cezası :
+a)Görevde kayıtsızlık ve düzensizlik,
 
-             a)Görevde kayıtsızlık ve düzensizlik,
+b\) Meslektaşlarına, emrindeki personele, görevi nedeniyle muhatap olduğu
+kişilere veya iş sahiplerine karşı kırıcı davranmak,
 
-             b) Meslektaşlarına, emrindeki personele, görevi nedeniyle
-muhatap olduğu kişilere veya iş sahiplerine karşı kırıcı davranmak,
+c\) Mazeretsiz olarak göreve geç gelmek ve görevden erken ayrılmak,
 
-             c) Mazeretsiz olarak göreve gaç gelmek ve görevden erken
-ayrılmak,
+d\) Kanun, tüzük, yönetmelik karar ve talimatlarda açık olarak belirtilen
+konularda, işi uzatacak şekilde davranışlarda bulunmak, yazı ve
+tekitleri zamanında cevaplandırmamak,
 
-             d) Kanun, tüzük, yönetmelik karar ve talimatlarda açık
-olarak belirtilen konularda, işi uzatacak şekilde davranışlarda
-bulunmak, yazı ve tekitleri zamanında cevaplandırmamak,
+e\) Nitelik ve ağırlıkları itibariyle yukarıda belirtilen benzeri
+eylemlerde bulunmak,
 
-             e) Nitelik ve ağırlıkları itibariyle yukarıda belirtilen
-benzeri eylemlerde bulunmak,
+Hallerinde uygulanır.
 
-             Hallerinde uygulanır.
+*Aylıktan kesme cezası :*
 
-             *Aylıktan kesme cezası :*
+**Madde 64 – **Aylıktan kesme : İzinsiz veya Kabul edilir mazereti
+olmaksızın göreve (1 veya 2 gün) gelmeyenlerin aylıklarından her gün
+için bir günlüğünün kesilmesidir.
 
-             **Madde 64 – **Aylıktan kesme : İzinsiz veya Kabul edilir
-mazereti olmaksızın göreve (1 veya 2 gün) gelmeyenlerin aylıklarından
-her gün için bir günlüğünün kesilmesidir.
+*Kınama cezası : *
 
-             *Kınama cezası : *
+**Madde 65 – **Kınama : Belli bir eylem veya davranışın kusurlu
+sayıldığının yazı ile bildirilmesidir.
 
-             **Madde 65 – **Kınama : Belli bir eylem veya davranışın
-kusurlu sayıldığının yazı ile bildirilmesidir.
+Kınama cezası:
 
-             Kınama cezası:
+a)Hizmet içinde ve dışında, resmi sıfatının gerektirdiği saygınlık ve
+güven duygusunu sarsacak nitelikte davranışlarda bulunmak.
 
-             a)Hizmet içinde ve dışında, resmi sıfatının gerektirdiği
-saygınlık ve güven duygusunu sarsacak nitelikte davranışlarda bulunmak.
+b\) Kılık ve kıyafetinde mesleğin gerektirdiği saygınlığı gözetmemek,
 
-             b) Kılık ve kıyafetinde mesleğin gerektirdiği saygınlığı
-gözetmemek,
+c\) Devlete ait araç ve gereçleri özel işlerde kullanmak,
 
-             c) Devlete ait araç ve gereçleri özel işlerde kullanmak,
+d\) Meslektaşlarına, emrindeki personele, görevi nedeniyle muhatap olduğu
+kişilere veya iş sahiplerine kötü muamelede bulunmak,
 
-             d) Meslektaşlarına, emrindeki personele, görevi nedeniyle
-muhatap olduğu kişilere veya iş sahiplerine kötü muamelede bulunmak,
+e\) Eşlerinin, reşit olmayan veya kısıtlanmış çocuklarının kazanç getiren
+sürekli faaliyetlerini onbeş gün içinde Adalet Bakanlığına bildirmemek,
 
-             e) Eşlerinin, reşit olmayan veya kısıtlanmış çocuklarının
-kazanç getiren sürekli faaliyetlerini onbeş gün içinde Adalet
-Bakanlığına bildirmemek,
+f\) Adalet Bakanlığının mevzuat uyarınca verdiği talimatı yerine
+getirmemek, büro ve Kalemlerin denetimini ihmal etmek,
 
-             f) Adalet Bakanlığının mevzuat uyarınca verdiği talimatı
-yerine getirmemek, büro ve Kalemlerin denetimini ihmal etmek,
+g\) Görevin işbirliği ve uyum içerisinde yapılmasını engelleyici tutum ve
+davranışlarda bulunmak,
 
-             g) Görevin işbirliği ve uyum içerisinde yapılmasını
-engelleyici tutum ve davranışlarda bulunmak,
+h\) İzinsiz veya kabul edilir mazereti olmaksızın kesintisiz üç gün
+göreve gelmemek,
 
-             h) İzinsiz veya kabul edilir mazereti olmaksızın kesintisiz
-üç gün göreve gelmemek,
+ı) Nitelik ve ağırlıkları itibariyle yukarıda belirtilen benzeri
+eylemlerde bulunmak,
 
-             ı) Nitelik ve ağırlıkları itibariyle yukarıda belirtilen
-benzeri eylemlerde bulunmak,
+Hallerinde uygulanır.
 
-             Hallerinde uygulanır.
+*Kademe ilerlemesini durdurma cezası:*
 
-             *Kademe ilerlemesini durdurma cezası:*
-
-*            * **Madde 66 – **Kademe ilerlemesini durdurma: İlgilinin
-bulunduğu kademede, ilerlemesinin bir yıl süre ile durdurulmasıdır.
+**Madde 66 – **Kademe ilerlemesini durdurma: İlgilinin bulunduğu
+kademede, ilerlemesinin bir yıl süre ile durdurulmasıdır.
 
 5631
 
@@ -2986,11 +2962,7 @@ teklifi veya hizmetin gereği olarak başka bir adalet komisyonunun yetki
 alanına naklen atama veya geçici olarak görevlendirme yetkisi Adalet
 Bakanlığına aittir.
 
- 
-
 5641
-
- 
 
 *Zorunlu hâllerde görevlendirme ^(1)^*
 
@@ -3030,14 +3002,11 @@ alınan ve Resmi Gazete’de yayımlanan ilke kararları, mesleğin
 yılın Ocak ayında Kurulca yeniden incelenir ve gerekli görülen
 değişiklikler yapılarak Resmi Gazete’de yayımlanır.
 
-*Meslek içi eğitim:^(2)^*
+*Meslek içi eğitim:*
 
-**Madde 119 – (Değişik: 8/8/2011-KHK-650/22 md.)**
-
-Hâkim ve savcıların hak ve ödevi olan meslek içi eğitimleri Hâkimler ve
-Savcılar Yüksek Kurulunca yaptırılır. Bu eğitimin usul ve esasları,
-Türkiye Adalet Akademisinin görüşü alınarak Hâkimler ve Savcılar Yüksek
-Kurulunca hazırlanan yönetmelikte belirlenir.
+**Madde 119 – (Değişik: 8/8/2011-KHK-650/22 md.; İptal: Anayasa
+Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı
+Kararı ile.) ^(2)^**
 
 *Uygulanacak hükümler :*
 
@@ -3065,12 +3034,8 @@ Yürürlükten kaldırılmıştır.
 ve 5435 sayılı Kanunun 37 nci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
-\(2) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
-sayılı Kararı ile bu madde iptal edilmiş olup iptal hükmünün, kararın
-Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay
-sonra yürürlüğe girmesi hüküm altına alınmıştır.
-
-* *
+*(2) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra
+yürürlüğe girmiştir.*
 
 5642
 
@@ -4428,44 +4393,48 @@ Madde 16,17,17,            15/7/2006
 
 5648-1
 
-**2802 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+**2802 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA
+MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+GÖSTERİR LİSTE**
 
-**MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+  ---------------------------------------------------------------------------- ---------------------------------------------------- ---------------------------------------------------
+  **Değiştiren **                                                              **2802 sayılı Kanunun değişen veya iptal **          **Yürürlüğe Giriş Tarihi**
+                                                                                                                                    
+  **Kanunun/ KHK’nin/ İptal Eden Anayasa Mah. Kararının **                     **edilen maddeleri**                                 
+                                                                                                                                    
+  **Numarası**                                                                                                                      
 
-**GÖSTERİR LİSTE**
+  5720                                                                         8, 9, 9/A, 69, İşlenemeyen Hüküm                     4/12/2007
+                                                                                                                                    
+                                                                               (Geçici Madde 1)                                     
 
-  --------------------------------- --------------------------------------------- ---------------------------------------------------
-  **Değiştiren Kanunun/ KHK’nin**   **2802 sayılı Kanunun değişen veya iptal **   **Yürürlüğe Giriş Tarihi**
-                                                                                  
-  **Numarası**                      **edilen maddeleri**                          
+  5793                                                                         106                                                  15/7/2006 tarihinden geçerli olmak üzere 6/8/2008
+                                                                                                                                    
+                                                                               Ek Geçici Madde 2                                    6/8/2008
 
-  5720                              8, 9, 9/A, 69, İşlenemeyen Hüküm              4/12/2007
-                                                                                  
-                                    (Geçici Madde 1)                              
+  5754                                                                         Geçici Madde 16                                      1/10/2008
 
-  5793                              106                                           15/7/2006 tarihinden geçerli olmak üzere 6/8/2008
-                                                                                  
-                                    Ek Geçici Madde 2                             6/8/2008
+  6110                                                                         Ek 93/A                                              4/2/2011
 
-  5754                              Geçici Madde 16                               1/10/2008
+  6216                                                                         1, 2, 103, (I) Sayılı Ek Gösterge Cetveli            3/4/2011
 
-  6110                              Ek 93/A                                       4/2/2011
+  6217                                                                         21, 28, 33                                           14/4/2011
 
-  6216                              1, 2, 103, (I) Sayılı Ek Gösterge Cetveli     3/4/2011
+  KHK/643                                                                      8                                                    8/6/2011
 
-  6217                              21, 28, 33                                    14/4/2011
+  KHK/650                                                                      8, 9/A, 10, 37, 49, 50, 55, 119                      26/8/2011
 
-  KHK/643                           8                                             8/6/2011
+  KHK/661                                                                      8                                                    2/11/2011
 
-  KHK/650                           8, 9/A, 10, 37, 49, 50, 55, 119               26/8/2011
+  6352                                                                         37                                                   5/7/2011
 
-  KHK/661                           8                                             2/11/2011
+  6460                                                                         21, 33, 50                                           30/4/2013
 
-  6352                              37                                            5/7/2011
+  6462                                                                         8                                                    3/5/2013
 
-  6460                              21, 33, 50                                    30/4/2013
-
-  6462                              8                                             3/5/2013
-  --------------------------------- --------------------------------------------- ---------------------------------------------------
+  Anayasa                                                                      55 inci maddenin birinci fıkrası ve 119 uncu madde   1/1/2013 tarihinden başlayarak altı ay sonra
+                                                                                                                                    
+  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                        (1/7/2013)
+  ---------------------------------------------------------------------------- ---------------------------------------------------- ---------------------------------------------------
 
 
