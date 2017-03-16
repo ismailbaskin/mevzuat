@@ -1,4 +1,4 @@
-**6338 sayılı Kanun ile değişik hali**
+**6462 sayılı Kanun ile değişik hali**
 
 **BELEDİYE KANUNU**
 
@@ -8,7 +8,9 @@ Kabul Tarihi : 3/7/2005
 
 Yayımlandığı R.Gazete : Tarih: 13/7/2005 Sayı : 25874
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 44
+Yayımlandığı Düstur : Tertip : 5 Cilt : 44 Sayfa:
+
+** **
 
 ** **
 
@@ -368,11 +370,27 @@ Hizmetlerin yerine getirilmesinde öncelik sırası, belediyenin malî
 durumu ve hizmetin ivediliği dikkate alınarak belirlenir.
 
 Belediye hizmetleri, vatandaşlara en yakın yerlerde ve en uygun
-yöntemlerle sunulur. Hizmet sunumunda özürlü, yaşlı, düşkün ve dar
-gelirlilerin durumuna uygun yöntemler uygulanır.
+yöntemlerle sunulur. Hizmet sunumunda engelli, yaşlı, düşkün ve dar
+gelirlilerin durumuna uygun yöntemler uygulanır. ^(3)^
 
 Belediyenin görev, sorumluluk ve yetki alanı belediye sınırlarını
 kapsar.
+
+–––––––––––––––––––––
+
+*(1) Bu maddenin birinci fıkrasının (b) bendinde yer alan "Okul öncesi
+eğitim kurumları açabilir;..." ifadesi Anayasa Mahkemesi’nin 24/1/2007
+tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile iptal edilmiştir.*
+
+*(2)12/11/2012 tarihli ve 6360 sayılı Kanunun 17 nci maddesiyle bu
+bendin birinci cümlesinde yer alan “sağlıkla ilgili her türlü tesisi
+açabilir ve işletebilir;” ibaresinden sonra gelmek üzere “mabetlerin
+yapımı, bakımı, onarımını yapabilir;” ibaresi eklenmiştir.*
+
+*(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.*
+
+9474
 
 Belediye meclisinin kararı ile mücavir alanlara da belediye hizmetleri
 götürülebilir.
@@ -402,19 +420,6 @@ katılma paylarının tarh, tahakkuk ve tahsilini yapmak; vergi, resim ve
 harç dışındaki özel hukuk hükümlerine göre tahsili gereken doğal gaz,
 su, atık su ve hizmet karşılığı alacakların tahsilini yapmak veya
 yaptırmak.
-
-–––––––––––––––––––––
-
-*(1) Bu maddenin birinci fıkrasının (b) bendinde yer alan "Okul öncesi
-eğitim kurumları açabilir;..." ifadesi Anayasa Mahkemesi’nin 24/1/2007
-tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile iptal edilmiştir.*
-
-*(2)12/11/2012 tarihli ve 6360 sayılı Kanunun 17 nci maddesiyle bu
-bendin birinci cümlesinde yer alan “sağlıkla ilgili her türlü tesisi
-açabilir ve işletebilir;” ibaresinden sonra gelmek üzere “mabetlerin
-yapımı, bakımı, onarımını yapabilir;” ibaresi eklenmiştir.*
-
-9474
 
 e\) Müktesep haklar saklı kalmak üzere; içme, kullanma ve endüstri suyu
 sağlamak; atık su ve yağmur suyunun uzaklaştırılmasını sağlamak; bunlar
@@ -453,6 +458,8 @@ izinsiz satış yapan seyyar satıcıların faaliyetten men edilmesi sonucu,
 cezası ödenmeyerek iki gün içinde geri alınmayan gıda maddelerini gıda
 bankalarına, cezası ödenmeyerek otuz gün içinde geri alınmayan gıda dışı
 malları yoksullara vermek.
+
+9474-1
 
 n\) Reklam panoları ve tanıtıcı tabelalar konusunda standartlar getirmek.
 
@@ -1102,8 +1109,14 @@ m\) Belde halkının huzur, esenlik, sağlık ve mutluluğu için gereken
 önlemleri almak.
 
 n\) Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak,
-özürlülere yönelik hizmetleri yürütmek ve özürlüler merkezini
-oluşturmak.
+engellilere yönelik hizmetleri yürütmek ve engelliler merkezini
+oluşturmak. ^(1)^
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “özürlülere” ve “özürlüler” ibareleri sırasıyla
+“engellilere” ve “engelliler” şeklinde değiştirilmiştir.*
 
 9483
 
@@ -1208,8 +1221,8 @@ etmesi ve bu durumun mahallin mülkî idare amiri tarafından belirlenmesi,
 
 b\) Seçilme yeterliğini kaybetmesi,
 
-c\) Görevini sürdürmesine engel bir hastalık veya sakatlık durumunun
-yetkili sağlık kuruluşu raporuyla belgelenmesi,
+c\) Görevini sürdürmesine engel bir hastalık veya engellilik durumunun
+yetkili sağlık kuruluşu raporuyla belgelenmesi, ^(1)^
 
 d\) Meclisin feshine neden olan eylem ve işlemlere katılması,
 
@@ -1259,6 +1272,12 @@ görevlendirilecek bir kamu görevlisi tarafından yürütülür.
 Belediye başkanı veya başkan vekili seçimi en geç onbeş gün içinde
 tamamlanmadığı takdirde belediye meclisinin feshine ilişkin hükümler
 uygulanır.
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “sakatlık” ibaresi “engellilik” şeklinde
+değiştirilmiştir.*
 
 9485
 
@@ -1704,8 +1723,8 @@ g\) Mezarlıkların tesisi, korunması ve bakımına ilişkin giderler.
 
 h\) Faiz, borçlanmaya ilişkin diğer ödemeler ile sigorta giderleri.
 
-i\) Dar gelirli, yoksul, muhtaç ve kimsesizler ile özürlülere yapılacak
-sosyal hizmet ve yardımlar.
+i\) Dar gelirli, yoksul, muhtaç ve kimsesizler ile engellilere yapılacak
+sosyal hizmet ve yardımlar. ^(1)^
 
 j\) Dava takip ve icra giderleri.
 
@@ -1751,6 +1770,12 @@ Bütçe dışı harcama yapılamaz.
 
 Belediye başkanı ve harcama yetkisi verilen diğer görevliler, bütçe
 ödeneklerinin verimli, tutumlu ve yerinde harcanmasından sorumludur.
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “özürlülere” ibaresi “engellilere” şeklinde
+değiştirilmiştir.*
 
 9492
 
@@ -2167,11 +2192,11 @@ toplantısında gündeme alınarak değerlendirilir. Kent konseyinin çalışma
 usûl ve esasları İçişleri Bakanlığınca hazırlanacak yönetmelikle
 belirlenir.
 
-*Belediye hizmetlerine gönüllü katılım*
+*Belediye hizmetlerine gönüllü katılım ^(1)^*
 
 **Madde 77-** Belediye; sağlık, eğitim, spor, çevre, sosyal hizmet ve
 yardım, kütüphane, park, trafik ve kültür hizmetleriyle yaşlılara, kadın
-ve çocuklara, özürlülere, yoksul ve düşkünlere yönelik hizmetlerin
+ve çocuklara, engellilere, yoksul ve düşkünlere yönelik hizmetlerin
 yapılmasında beldede dayanışma ve katılımı sağlamak, hizmetlerde
 etkinlik, tasarruf ve verimliliği artırmak amacıyla gönüllü kişilerin
 katılımına yönelik programlar uygular.
@@ -2233,6 +2258,12 @@ Vekâlet Hakkında Kanun hükümleri kıyas yolu ile uygulanır.
 **Madde 83-** Bu Kanunun 15, 18 ve 34 üncü maddelerinde belirtilen
 parasal miktarlar, her yıl 213 sayılı Vergi Usul Kanununa göre
 belirlenecek yeniden değerleme oranına göre artırılır.
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin birinci fıkrasında yer alan “özürlülere” ibaresi “engellilere”
+şeklinde değiştirilmiştir.*
 
 9497
 
@@ -2492,7 +2523,7 @@ tarihe kadar yürürlüğünün durdurulması hüküm altına alınmıştır.*
                                                                                                                                                     
                                                                                   **Resmi Gazete Tarihi**                                           
 
-         5538                       12/7/2006                                     12/7/2006                                                         14, 18
+  1.     5538                       12/7/2006                                     12/7/2006                                                         14, 18
 
   1.     5568                       30/12/2006                                    30/12/2006                                                        Geçici Madde 5, Geçici Madde 6
 
@@ -2531,6 +2562,8 @@ tarihe kadar yürürlüğünün durdurulması hüküm altına alınmıştır.*
   1.     6360                       6/12/2012                                     6/12/2012                                                         8, 9, 12, 14, 15, 75
 
   1.     6338                       1/1/2013                                      11/7/2012                                                         49
+
+  1.     6462                       3/5/2013                                      3/5/2013                                                          14, 38, 44, 60, 77
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
 
