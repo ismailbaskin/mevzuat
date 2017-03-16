@@ -1,4 +1,4 @@
-**6353 sayılı Kanun ile değişik hali**
+**6462 sayılı Kanun ile değişik hali**
 
 []{#K23 .anchor}**SEÇİMLERİN TEMEL HÜKÜMLERİ VE SEÇMEN**
 
@@ -1063,10 +1063,10 @@ temsilcilik görevini yaparlar. Bu listedeki isimler ve görev yerleri
 sonradan değiştirilmez.
 
 **(Ek: 30/5/1997 - KHK - 572/26 md.)** Seçmen kütüğü yazımı sırasında,
-seçmenin oyunu kullanmasını engelleyecek bir özürlülüğü varsa, forma
-kaydedilir.
+seçmenin oyunu kullanmasını engelleyecek bir engelliliği varsa, forma
+kaydedilir. ^(1)^
 
-*Yazımda esas bilgi kaynakları:*
+Yazımda esas bilgi kaynakları:
 
 **Madde 37 – (Değişik: 17/5/1979 - 2234/1 md.)**
 
@@ -1079,7 +1079,7 @@ yararlanılır.
 Seçmenin devamlı oturduğu adresin tespitinde muhtarlıkların, varsa
 apartman yöneticilerinin kayıtlarından faydalanılır.
 
-*Muhtarlık krokisi ve binalar cetveli:*
+Muhtarlık krokisi ve binalar cetveli:
 
 **Madde 38 – (Değişik: 17/5/1979 - 2234/1 md.)**
 
@@ -1118,12 +1118,18 @@ tarafından 14 üncü maddenin dördüncü fıkrasına göre ilan edilen siyasi
 partilerin ilçe başkanlıklarına, her iki yılda bir, Yüksek Seçim
 Kurulunun belirleyeceği ayda alındı belgesi karşılığı verilir.
 
-*Muhtarlık bölgesi askı listesi:*
+Muhtarlık bölgesi askı listesi:
 
 **Madde 39 – (Değişik: 17/5/1979 - 2234/1 md.)**
 
 Seçmen kütüğündeki yanlışların düzeltilmesi ve eksiklerin tamamlanması
 amacıyla;
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “özürlülüğü” ibaresi “engelliliği” şeklinde
+değiştirilmiştir.*
 
 3640
 
@@ -2146,13 +2152,13 @@ olanlar arasından, başkanın seçeceği kimselerle doldurulur.
 
 3649
 
-*Sandığın konulacağı yer:*
+Sandığın konulacağı yer:
 
 **Madde 74 – (Değişik: 31/7/1998 - 4381/5 md.)** Sandıkların konulacağı
 yerleri ve oy verme işinin vaktinde sona ermesi için gerekli tedbirleri
 ilçe seçim kurullarının denetiminde sandık kurulu tespit eder.
 Sandıkların konulacağı yerlerin belirlenmesinde seçmenin oyunu
-kolaylıkla, serbestçe ve gizli şekilde verebilmesi gözetilir. Özürlü
+kolaylıkla, serbestçe ve gizli şekilde verebilmesi gözetilir. Engelli
 seçmenlerin oylarını rahatlıkla kullanabilmeleri için gerekli tedbirler
 alınır. Sandıklar okul (özel okullar ve özel dersaneler dahil) avlusu ve
 salonların elverişli kısımları gibi genel yerlere, yetmediği takdirde
@@ -2160,9 +2166,9 @@ kiralanacak kahvehane, lokanta gibi yerlere konur. Kışla, karargah,
 ordugah gibi askeri bina ve tesislerle karakollara ve parti binalarına,
 muhtarlık odalarına sandık konulamaz. Üçten fazla sandık konulan
 binalarda bina sorumlularının görev esasları Yüksek Seçim Kurulunca
-belirlenir.
+belirlenir. ^(1)^
 
-*Kapalı oy verme yeri:*
+Kapalı oy verme yeri:
 
 **Madde 75 – (Değişik: 17/5/1979 - 2234/1 md.)**
 
@@ -2173,7 +2179,7 @@ Seçmen, oy pusulasını kapalı oy verme yerinde, kendi eliyle katlayıp,
 zamklı kenarını yapıştırmak, veya zarf kullanılan seçimlerde zarfa koyup
 kapatmak zorundadır.
 
-*Oy verme yerinin nitelikleri:*
+Oy verme yerinin nitelikleri:
 
 **Madde 76 –** Kapalı oy verme yeri; içerisi dışardan gözetlenemeyecek
 ve oy pusulasını seçmenin inceleyip zarflıyabileceği şekil ve nitelikte
@@ -2185,7 +2191,7 @@ durur.
 
 Kapalı oy verme yerinde masa veya benzeri bir şey bulundurulur.
 
-*Sandığın, birleşik oy pusulalarının ve zarfların kurulca mühürlenmesi:*
+Sandığın, birleşik oy pusulalarının ve zarfların kurulca mühürlenmesi:
 
 **Madde 77 – (Değişik: 17/5/1979 - 2234/1 md.)**
 
@@ -2201,6 +2207,11 @@ edilir.
 
 Şu kadar ki, zarflar için öngörülen çift mühür bulunmasına ilişkin
 hükümler birleşik oy pusulalarına uygulanmaz.
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+maddede yer alan “Özürlü” ibaresi “Engelli”, şeklinde değiştirilmiştir.*
 
 3650
 
@@ -2522,13 +2533,13 @@ ulaşım durumlarına göre, bütün yurtta veya gerekli görülen seçim
 çevrelerinde, seçim gününden en az bir hafta önce ilan edilmek
 koşuluyla, Yüksek Seçim Kurulunca tespit edilebilir.
 
-*Oy vermede sıra:*
+Oy vermede sıra: ^(1)^
 
 **Madde 90 –** Oy verme günü sandık başına gelecek seçmenler, sandık
 kurulu önüne başkan tarafından sıra ile birer birer alınırlar. Gebeler,
-hastalar ve sakatlar bekletilmezler. Yaşlılar önce alınabilirler.
+hastalar ve engelliler bekletilmezler. Yaşlılar önce alınabilirler.
 
-*Oy vermeden önceki işler:*
+Oy vermeden önceki işler:
 
 **Madde 91 – (Değişik: 17/5/1979 - 2234/1 md.)**
 
@@ -2547,7 +2558,7 @@ yerine gider ve oyunu kullanmadan başka yere gidemez.
 Kapalı oy verme yerine girmeyen veya birleşik oy puslasını alıp oy
 vermeyen seçmenden birleşik oy puslası geri alınır.
 
-*Kapalı oy verme yerinde seçmenin uyması gereken kurallar ^(1)^ *
+Kapalı oy verme yerinde seçmenin uyması gereken kurallar ^(2)^
 
 **Madde 92 – (Değişik: 8/4/2010-5980/17 md.)**
 
@@ -2563,7 +2574,7 @@ girmesi yasaktır. Bu tür cihazlar, kapalı oy verme yerine girmeden önce
 kapatılarak sandık kurulu başkanına teslim edilir ve oy kullanma işlemi
 bittikten sonra seçmene iade edilir.
 
-*Birleşik oy pusulasının atılması ve işaretleme :*
+Birleşik oy pusulasının atılması ve işaretleme :
 
 **Madde 93 – (Değişik: 17/5/1979 - 2234/1 md.)**
 
@@ -2571,20 +2582,24 @@ Kapalı oy verme yerinde birleşik oy puslasını katlayıp yapıştırdıktan
 sonra, seçmen burasını terkeder ve birleşik oy puslasını sandığa bizzat
 atar.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+–––––––––––––––
 
-*(1) Bu madde başlığı “Kapalı oy verme yerinde kalma :” iken, 8/4/2010
+\(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+maddede yer alan “sakatlar” ibaresi “engelliler” şeklinde
+değiştirilmiştir.
+
+\(2) Bu madde başlığı “Kapalı oy verme yerinde kalma :” iken, 8/4/2010
 tarihli ve 5980 sayılı Kanunun 17 nci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
+değiştirilmiştir.
 
 3654
 
  
 
-             Körler, felçliler veya bu gibi bedeni sakatlıkları açıkça
+             Körler, felçliler veya bu gibi bedeni engellilikleri açıkça
 belli olanlar, bu seçim çevresi seçmeni olan akrabalarından birinin,
 akrabası yoksa diğer herhangi bir seçmenin yardımı ile oylarını
-kullanabilirler. Bir seçmen birden fazla malule refakat edemez.
+kullanabilirler. Bir seçmen birden fazla malule refakat edemez. ^(1)^
 
              **(Değişik üçüncü fıkra: 13/3/2008-5749/9 md.)** Kurul
 başkanı, oyunu kullanan seçmene kimlik kartını verirken seçmen
@@ -2593,7 +2608,7 @@ elinin  başparmağının izinin alınmasıyla   yetinilir. Bu parmağı olma
 seçmenin hangi parmağını bastığı yazılır.
 
 *Sandık seçmen listesinde kayıtlı olmayan seçmenlerin oy kullanması
-^(1)^*
+^(2)^*
 
 *            * **Madde 94 – (Değişik: 8/4/2010-5980/18 md.)**
 
@@ -2638,7 +2653,7 @@ yazılarak karşısına imzaları alınır.
 
 **(Değişik birinci fıkra: 9/5/2012-6304/5 md.)** Yurt dışı seçmenlerin
 oy kullanmasında; sandık, gümrük kapılarında oy kullanma veya elektronik
-oylama yöntemlerinin birlikte veya ayrı ayrı uygulanmasına, seçim türüne
+oylama yöntemlerinin birlikte veya ayrı ayrıuygulanmasına, seçim türüne
 ve yabancı ülkenin durumuna göre, Dışişleri Bakanlığının görüşü alınarak
 Yüksek Seçim Kurulunca karar verilir. Yurt dışı seçmen kütüğüne kayıtlı
 seçmenlerin oy kullanmalarına yönelik iş ve işlemlerde, Dışişleri
@@ -2649,7 +2664,11 @@ güvenliği için gerekli tedbirleri alır. 
 
 –––––––––––––––
 
-*(1) Bu madde başlığı “Kurul görevlileri, milletvekilleri ile
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “sakatlıkları” ibaresi “engellilikleri” şeklinde
+değiştirilmiştir.*
+
+*(2) Bu madde başlığı “Kurul görevlileri, milletvekilleri ile
 milletvekili adaylarının oy vermesi: ” iken, 8/4/2010 tarihli ve 5980
 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
@@ -4481,7 +4500,7 @@ ile cezalandırılır.
 
 *Haksız oy temini:*
 
-**Madde 152 – (Değişik birinci fıkra: 10/6/1983 - 2839/49 md.)** Her kim
+**Madde 152 – (Değişik birinci fıkra: 10/6/1983 - 2839/50 md.)** Her kim
 kendisine veya başkasına oy veya tercih işareti verilmesi veya
 verilmemesi için bir veya birkaç seçmene menfaat, sair kıymetler teklif
 ve vadeder veya verir, yahut resmi, umumi vazifeler veya hususi hizmet
@@ -5530,6 +5549,8 @@ imali için gerekli ödenek ayrılır.
   6304                       14, 20, 35, 81, 94/A, 94/C, 94/E, Geçici Madde 23                                                                                                                                     18/5/2012
 
   6353                       180                                                                                                                                                                                   12/7/2012
+
+  6462                       36, 74, 90, 92, 93                                                                                                                                                                    3/5/2013
   -------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
 
 
