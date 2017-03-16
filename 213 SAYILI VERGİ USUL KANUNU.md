@@ -1,6 +1,6 @@
-**6322 sayılı Kanun ve Tebliğ ile değişik hali**
+** Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139,**
 
-** **
+**K.: 2012/205 sayılı Kararı ile değişik hali**
 
 **VERGİ USUL KANUNU**
 
@@ -1974,185 +1974,163 @@ komutanlıklariyle Jandarma Genel Komutanlığı vasıtasiyle yapılır.
 
 3497
 
- 
+*Kamu idare ve müesseselerine tebliğ:*
 
-             Kamu idare ve müesseselerine tebliğ:
-
-             **Madde 98 –** Kamu idare ve müesseselerine yapılacak
-tebliğ, bu idare ve müesseselerin en büyük amirlerine veya bunların
-muavinlerine veya en büyük amirin yetkili kılacağı memurlara yapılır.
-
- 
+**Madde 98 –** Kamu idare ve müesseselerine yapılacak tebliğ, bu idare
+ve müesseselerin en büyük amirlerine veya bunların muavinlerine veya en
+büyük amirin yetkili kılacağı memurlara yapılır.
 
 İKİNCİ BÖLÜM
 
-Posta ile Tebliğ Usulü
+*Posta ile Tebliğ Usulü*
 
-             Kapalı zarf esası:
+*Kapalı zarf esası:*
 
-             **Madde 99 –** Posta ile tebliğde tebliğ edilecek vesika
-kapalı bir zarf içinde postaya verilir. Bunun için, şekilleri Maliye
-Bakanlığınca tesbit edilen özel zarflar kullanılır.
+**Madde 99 –** Posta ile tebliğde tebliğ edilecek vesika kapalı bir zarf
+içinde postaya verilir. Bunun için, şekilleri Maliye Bakanlığınca tesbit
+edilen özel zarflar kullanılır.
 
-             Bilinen adreslere tebliğ:
+*Bilinen adreslere tebliğ:*
 
-             **Madde 100 –** Bilinen adrese gönderilen mektuplar posta
-idaresince muhatabına teslim edildiği tarihte tebliğ edilmiş sayılır.
+**Madde 100 –** Bilinen adrese gönderilen mektuplar posta idaresince
+muhatabına teslim edildiği tarihte tebliğ edilmiş sayılır.
 
-             Bilinen adresler:
+*Bilinen adresler:*
 
-             **Madde 101 –** Bu kanuna göre bilinen adresler şunlardır:
+**Madde 101 –** Bu kanuna göre bilinen adresler şunlardır:
 
-             1. Mükellef tarafından işe başlamada bildirilen adresler;
+1\. Mükellef tarafından işe başlamada bildirilen adresler;
 
-             2. Adres değişikliğinde bildirilen adresler;
+2\. Adres değişikliğinde bildirilen adresler;
 
-             3. İşi bırakmada bildirilen adresler;
+3\. İşi bırakmada bildirilen adresler;
 
-             4. Vergi beyannamelerinde bildirilen adresler;
+4\. Vergi beyannamelerinde bildirilen adresler;
 
-             5. Yoklama fişinde tesbit edilen adresler;
+5\. Yoklama fişinde tesbit edilen adresler;
 
-             6. **(Değişik: 23/6/1982 - 2686/18 md.)** Vergi
-mahkemesinde dava açma dilekçelerinde ve cevaplarında gösterilen
-adresler;
+6\. **(Değişik: 23/6/1982 - 2686/18 md.)** Vergi mahkemesinde dava açma
+dilekçelerinde ve cevaplarında gösterilen adresler;
 
-             7. Yetkili memurlar tarafından bir tutanakla tesbit edilen
-adresler (İlgilinin tutanakta imzası bulunmak şartiyle);
+7\. Yetkili memurlar tarafından bir tutanakla tesbit edilen adresler
+(İlgilinin tutanakta imzası bulunmak şartiyle);
 
-             8. Bina ve arazi vergilerinde komisyonlarca tahrir
-varakalarında tesbit edilen adresleri.
+8\. Bina ve arazi vergilerinde komisyonlarca tahrir varakalarında tesbit
+edilen adresleri.
 
-             Mektupların gönderilmesinde bu adreslerden tarih itibariyle
-tebligat yapacak makama en son olarak bildirilmiş veya bu makamca tesbit
-edilmiş olanı nazara alınır.
+Mektupların gönderilmesinde bu adreslerden tarih itibariyle tebligat
+yapacak makama en son olarak bildirilmiş veya bu makamca tesbit edilmiş
+olanı nazara alınır.
 
-             Tebliğ evrakının teslimi:
+Tebliğ evrakının teslimi:
 
-             **Madde 102 –** Tebliğ olunacak evrakı muhtevi zarf posta
-idaresince muhatabına verilir ve keyfiyet muhatap ile posta memuru
-tarafından taahhüt ilmühaberine tarih ve imza konulmak suretiyle tesbit
-olunur.
+**Madde 102 –** Tebliğ olunacak evrakı muhtevi zarf posta idaresince
+muhatabına verilir ve keyfiyet muhatap ile posta memuru tarafından
+taahhüt ilmühaberine tarih ve imza konulmak suretiyle tesbit olunur.
 
-             Muhatabın zarf üzerinde yazılı adresini değiştirmesinden
-dolayı bulunamamış olması halinde posta memuru durumu zarf üzerine yazar
-ve mektup posta idaresince derhal tebliği yaptıran daireye geri
-gönderilir.
+Muhatabın zarf üzerinde yazılı adresini değiştirmesinden dolayı
+bulunamamış olması halinde posta memuru durumu zarf üzerine yazar ve
+mektup posta idaresince derhal tebliği yaptıran daireye geri gönderilir.
 
-             Muhatabın geçici olarak başka bir yere gittiği, bilinen
-adresinde bulunanlar veya komşuları tarafından bildirildiği takdirde
-keyfiyet ve beyanda bulunanın kimliği tebliğ alındısına yazılarak altı
-beyanı yapana imzalatılır. İmzadan imtina ederse, tebliği yapan bu
-ciheti şerh ve imza eder ve tebliğ edilemiyen evrak çıkaran mercie iade
-olunur.
+Muhatabın geçici olarak başka bir yere gittiği, bilinen adresinde
+bulunanlar veya komşuları tarafından bildirildiği takdirde keyfiyet ve
+beyanda bulunanın kimliği tebliğ alındısına yazılarak altı beyanı yapana
+imzalatılır. İmzadan imtina ederse, tebliği yapan bu ciheti şerh ve imza
+eder ve tebliğ edilemiyen evrak çıkaran mercie iade olunur.
 
-             Bunun üzerine tebliği çıkaran merci tarafından tayin
-olunacak münasip bir süre sonra yeniden tebliğ çıkarılır. İkinci defa
-çıkarılan tebliğ evrakı da aynı sebeple tebliğ edilemiyerek iade
-olunursa tebliğ ilan yolu ile yapılır.
+Bunun üzerine tebliği çıkaran merci tarafından tayin olunacak münasip
+bir süre sonra yeniden tebliğ çıkarılır. İkinci defa çıkarılan tebliğ
+evrakı da aynı sebeple tebliğ edilemiyerek iade olunursa tebliğ ilan
+yolu ile yapılır.
 
-             Muhatap imza edecek kadar yazı bilmez veya her hangi bir
-sebeple imza edemiyecek durumda bulunursa sol elinin baş parmağı
-bastırılmak suretiyle tebliğ olunur.
+Muhatap imza edecek kadar yazı bilmez veya her hangi bir sebeple imza
+edemiyecek durumda bulunursa sol elinin baş parmağı bastırılmak
+suretiyle tebliğ olunur.
 
 3498
 
- 
+Muhatap tebelluğdan imtina ederse tebliğ edilecek evrak önüne bırakılmak
+suretiyle tebliğ edilir.
 
-             Muhatap tebelluğdan imtina ederse tebliğ edilecek evrak
-önüne bırakılmak suretiyle tebliğ edilir.
+Yukarıdaki fıkralarda yazılı işlemler komşularından bir kişi veya muhtar
+veya ihtiyar heyeti üyelerinden biri veyahut bir zabıta memuru huzurunda
+icra ve keyfiyet taahhüt ilmühaberine yazılarak tarih ve imza
+vaz'edilmek ve hazır bulunanlara da imzalatılmak suretiyle tesbit
+olunur.
 
-             Yukarıdaki fıkralarda yazılı işlemler komşularından bir
-kişi veya muhtar veya ihtiyar heyeti üyelerinden biri veyahut bir zabıta
-memuru huzurunda icra ve keyfiyet taahhüt ilmühaberine yazılarak tarih
-ve imza vaz'edilmek ve hazır bulunanlara da imzalatılmak suretiyle
-tesbit olunur.
+ÜÇÜNCÜ BÖLÜM
 
-                                                              ÜÇÜNCÜ
-BÖLÜM
+*İlan Yoliyle Tebliğ Usulü*
 
-                                                           İlan Yoliyle
-Tebliğ Usulü
+*Tebliğin ilanla yapılacağı haller:*
 
-             Tebliğin ilanla yapılacağı haller:
+**Madde 103 –** Aşağıda yazılı hallerde tebliğ ilan yoliyle yapılır.
 
-             **Madde 103 –** Aşağıda yazılı hallerde tebliğ ilan yoliyle
-yapılır.
+1\. Muhatabın adresi hiç bilinmezse;
 
-             1. Muhatabın adresi hiç bilinmezse;
+2\. Muhatabın bilinen adresi yanlış veya değişmiş olur ve bu yüzden
+gönderilmiş olan mektup geri gelirse;
 
-             2. Muhatabın bilinen adresi yanlış veya değişmiş olur ve bu
-yüzden gönderilmiş olan mektup geri gelirse;
+3\. Başkaca sebeplerden dolayı posta ile tebliğ yapılmasına imkan
+bulunmazsa;
 
-             3. Başkaca sebeplerden dolayı posta ile tebliğ yapılmasına
-imkan bulunmazsa;
+4\. Yabancı memleketlerde bulunanlara tebliğ yapılmasına imkan
+bulunmazsa.
 
-             4. Yabancı memleketlerde bulunanlara tebliğ yapılmasına
-imkan bulunmazsa.
+*İlanın şekli: ^(1)^*
 
-             *İlanın şekli: ^(1)^*
+**Madde 104-** **(Değişik: 25/12/2003-5035/1 md.) **
 
-             **Madde 104-** **(Değişik: 25/12/2003-5035/1 md.) **
+İlan aşağıdaki şekilde yapılır:
 
-**            ** İlan aşağıdaki şekilde yapılır:
+1.  İlan yazısı tebliğ yapan vergi dairesinin ilan koymaya mahsus
+    mahalline asılır ve (3) numaralı bende göre ilana çıkarılır.
+    Tebliğin konusu, her biri için ayrı ayrı olmak üzere, birmilyar
+    liradan **(1.800 TL)** az vergi veya vergi cezasına taalluk ettiği
+    takdirde ayrıca (3) numaralı bende göre ilan yapılmaz ve ilan
+    yazısının askıya çıkarıldığı tarihi izleyen onbeşinci gün ilan
+    tarihi olarak kabul edilir.
 
-1.                        İlan yazısı tebliğ yapan vergi dairesinin ilan
-koymaya mahsus mahalline asılır ve (3) numaralı bende göre ilana
-çıkarılır. Tebliğin konusu, her biri için ayrı ayrı olmak üzere,
-birmilyar liradan **(1.700 TL)** az vergi veya vergi cezasına taalluk
-ettiği takdirde ayrıca (3) numaralı bende göre ilan yapılmaz ve ilan
-yazısının askıya çıkarıldığı tarihi izleyen onbeşinci gün ilan tarihi
-olarak kabul edilir.
-
-             2. İlan yazısının bir sureti mükellefin bilinen son
-adresinin bağlı olduğu muhtarlığa gönderilir.
+2\. İlan yazısının bir sureti mükellefin bilinen son adresinin bağlı
+olduğu muhtarlığa gönderilir.
 
 3.İlan ile yapılan tebliğin konusu birmilyar ila yüzmilyar lira
-arasındaki (**1.700 – 170.000 TL)** vergi veya vergi cezasına taalluk
+arasındaki (**1.800 – 180.000 TL)** vergi veya vergi cezasına taalluk
 ettiği takdirde ilan, ilgili vergi dairesinin bulunduğu yerin belediye
 sınırları içinde çıkan bir veya daha fazla gazetede yayımlanır. Tutarın
-yüzmilyar lirayı **(170.000 TL)** aşması halinde ilan, Türkiye genelinde
+yüzmilyar lirayı **(180.000 TL)** aşması halinde ilan, Türkiye genelinde
 yayın yapan günlük gazetelerden birinde ayrıca yapılır.
 
-             Tebliğ olunacak evrakın örnekleri yabancı memlekette
-bulunan mükellefin bilinen adresine ayrıca posta ile gönderilir.
+Tebliğ olunacak evrakın örnekleri yabancı memlekette bulunan mükellefin
+bilinen adresine ayrıca posta ile gönderilir.
 
-             İlanın muhteviyatı:
+*İlanın muhteviyatı:*
 
-             **Madde 105 –** İlanlarda, tebliğin ilgili bulunduğu
-vergiler gösterilmek suretiyle adları (Tüzel kişilerde unvanları) yazılı
+**Madde 105 –** İlanlarda, tebliğin ilgili bulunduğu vergiler
+gösterilmek suretiyle adları (Tüzel kişilerde unvanları) yazılı
 muhataplara aşağıdaki hususlar ihtar olunur:
 
-             1. İlan tarihinden başlıyarak bir ay içinde ilanı yapan
-makama bizzat veya bilvekale müracaat etmeleri veyahut taahhütlü mektup
-veya telgrafla açık adreslerini bildirmeleri;
+1\. İlan tarihinden başlıyarak bir ay içinde ilanı yapan makama bizzat
+veya bilvekale müracaat etmeleri veyahut taahhütlü mektup veya telgrafla
+açık adreslerini bildirmeleri;
 
-             2. Kendilerine süre ile kayıtlı resmi tebliğ yapılacağı.
+2\. Kendilerine süre ile kayıtlı resmi tebliğ yapılacağı.
 
-             İlanın neticeleri:
+*İlanın neticeleri:*
 
-             **Madde 106 –** İlan üzerine bizzat veya bilvekale müracaat
-edenlere, yerinde, adres bildirenlere ise posta ile tebliğ yapılır.
+**Madde 106 –** İlan üzerine bizzat veya bilvekale müracaat edenlere,
+yerinde, adres bildirenlere ise posta ile tebliğ yapılır.
 
-             Posta ile yapılan bu tebliğ hakkında da 100 üncü madde
-hükmü cari olur.
-
- 
-
- 
+Posta ile yapılan bu tebliğ hakkında da 100 üncü madde hükmü cari olur.
 
 –––––––––––––––
 
-\(1) 26/12/2011  tarihli ve 28154 sayılı Resmi Gazete'de yayımlanan
-Maliye Bakanlığının 411 Sıra No.’lu Tebliği ile 1/1/2012 tarihinden
-geçerli olmak üzere tespit edilen miktarlar  metne parantez içinde siyah
-punto ile işlenmiştir. Daha önce yapılan değişiklikler için bu Kanunun
-sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ" ne
-bakınız.
-
- 
-
- 
+*(1)* *30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi Gazete'de
+yayımlanan Maliye Bakanlığının 432 Sıra No.’lu Tebliği ile 1/1/2014
+tarihinden geçerli olmak üzere tespit edilen miktarlar metne parantez
+içinde siyah punto ile işlenmiştir. Daha önce yapılan değişiklikler için
+bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"
+ne bakınız.*
 
 3499
 
@@ -2315,9 +2293,7 @@ numaralı fıkra olarak teselsül ettirilmiştir.*
 
 3500-1
 
- 
-
-            
+             
 
             3. Vergi mahkemesinde dava açma dolayısıyla 2577 sayılı
 İdari Yargılama Usulü Kanununun 27 nci maddesinin 3 numaralı fıkrası
@@ -2407,78 +2383,72 @@ numaralı fıkra olarak teselsül ettirilmiştir.*
 
 3500-2
 
- 
+*Zamanaşımı süreleri: *
 
-             Zamanaşımı süreleri:
+**Madde 114 –** Vergi alacağının doğduğu takvim yılını takip eden yılın
+başından başlıyarak beş yıl içinde tarh ve mükellefe tebliğ edilmiyen
+vergiler zamanaşımına uğrar.
 
-             **Madde 114 –** Vergi alacağının doğduğu takvim yılını
-takip eden yılın başından başlıyarak beş yıl içinde tarh ve mükellefe
-tebliğ edilmiyen vergiler zamanaşımına uğrar.
+**(İptal ikinci fıkra: Anayasa Mahkemesi’nin 15/10/2009 tarihli ve E.:
+2006/124, K.: 2009/146 sayılı Kararı ile.; Yeniden düzenleme:
+23/7/2010-6009/8 md.)** Şu kadar ki, vergi dairesince matrah takdiri
+için takdir komisyonuna başvurulması, zamanaşımını durdurur. Duran
+zamanaşımı mezkûr komisyon kararının vergi dairesine tevdiini takip eden
+günden itibaren kaldığı yerden işlemeye devam eder. Ancak işlemeyen süre
+her hâl ve takdirde bir yıldan fazla olamaz.
 
-             **(İptal ikinci fıkra: Anayasa Mahkemesi’nin 15/10/2009
-tarihli ve E.: 2006/124, K.: 2009/146 sayılı Kararı ile.; Yeniden
-düzenleme: 23/7/2010-6009/8 md.)** Şu kadar ki, vergi dairesince matrah
-takdiri için takdir komisyonuna başvurulması, zamanaşımını durdurur.
-Duran zamanaşımı mezkûr komisyon kararının vergi dairesine tevdiini
-takip eden günden itibaren kaldığı yerden işlemeye devam eder. Ancak
-işlemeyen süre her hâl ve takdirde bir yıldan fazla olamaz.
+**(Ek : 4/12/1985 - 3239/9 md.;Değişik üçüncü fıkra: 16/7/2004-5228/5
+md.)** Şarta bağlı istisna veya muafiyet uygulamaları sonucu kısmen veya
+tamamen alınmayan vergilere ilişkin zamanaşımı süresi, istisna veya
+muafiyet şartlarının ihlâl edildiği tarihi takip eden takvim yılı
+başından itibaren başlar.
 
-            **(Ek : 4/12/1985 - 3239/9 md.;Değişik üçüncü fıkra:
-16/7/2004-5228/5 md.)** Şarta bağlı istisna veya muafiyet uygulamaları
-sonucu kısmen veya tamamen alınmayan vergilere ilişkin zamanaşımı
-süresi, istisna veya muafiyet şartlarının ihlâl edildiği tarihi takip
-eden takvim yılı başından itibaren başlar.
+**(Değişik : 4/12/1985 - 3239/9 md.)** Damga vergisine tabi olup vergi
+ve cezası zamanaşımına uğrayan evrakın hükmünden tarh zamanaşımı süresi
+dolduktan sonra faydalanıldığı takdirde mezkür evraka ait vergi alacağı
+yeniden doğar.
 
-             **(Değişik : 4/12/1985 - 3239/9 md.)** Damga vergisine tabi
-olup vergi ve cezası zamanaşımına uğrayan evrakın hükmünden tarh
-zamanaşımı süresi dolduktan sonra faydalanıldığı takdirde mezkür evraka
-ait vergi alacağı yeniden doğar.
+*Verginin terkini:*
 
-             Verginin terkini:
+**Madde 115 –** Yangın, yer sarsıntısı, yer kayması, su basması,
+kuraklık, don, muzir hayvan ve haşarat istilası ve bunlara benzer
+afetler yüzünden:
 
-             **Madde 115 –** Yangın, yer sarsıntısı, yer kayması, su
-basması, kuraklık, don, muzir hayvan ve haşarat istilası ve bunlara
-benzer afetler yüzünden:
+1\. Varlıklarının en az üçte birini kaybeden mükelleflerin bu afetlerin
+zarar verdiği gelir kaynakları ile ilgili bulunan vergi borçları ve
+vergi cezaları;
 
-             1. Varlıklarının en az üçte birini kaybeden mükelleflerin
-bu afetlerin zarar verdiği gelir kaynakları ile ilgili bulunan vergi
-borçları ve vergi cezaları;
+2\. Mahsullerinin en az üçte birini kaybeden mükelleflerin, afete maruz
+arazi için zararın tahakkuk ettiği hasat ve devşirme zamanına tesadüf
+eden yıla ait olarak tahakkuk ettirilen Arazi Vergisi borçları ve vergi
+cezaları;
 
-             2. Mahsullerinin en az üçte birini kaybeden mükelleflerin,
-afete maruz arazi için zararın tahakkuk ettiği hasat ve devşirme
-zamanına tesadüf eden yıla ait olarak tahakkuk ettirilen Arazi Vergisi
-borçları ve vergi cezaları;
+Maliye Bakanlığınca zararla mütenasip olmak üzere, kısmen veya tamamen
+terkin olunur. **(Ek cümle: 28/12/2001-4731/4 md.)** Maliye Bakanlığı
+terkin yetkisini mahalline devredebilir.
 
-             Maliye Bakanlığınca zararla mütenasip olmak üzere, kısmen
-veya tamamen terkin olunur. **(Ek cümle: 28/12/2001-4731/4 md.)** Maliye
-Bakanlığı terkin yetkisini mahalline devredebilir Zarar derecesini ve
-ilgili bulunduğu gelir kaynağını mahalli idare heyetleri yaptıracağı
-tahkikat üzerine tesbit eder.
+Zarar derecesini ve ilgili bulunduğu gelir kaynağını mahalli idare
+heyetleri yaptıracağı tahkikat üzerine tesbit eder.
 
-             Tahakkuktan vazgeçme:
+*Tahakkuktan vazgeçme:*
 
-             **Mükerrer Madde 115 – (Ek : 4/12/1985 - 3239/10 md.)**
+**Mükerrer Madde 115 – (Ek : 4/12/1985 - 3239/10 md.)**
 
-             İkmalen, re'sen veya idarece tarh edilen vergi ve bunlara
-ilişkin cezaların toplam miktarı 1.000.000 lirayı (1.000.000 lira dahil)
-**(20 TL)** aşmaması ve tahakkukları için yapılacak giderlerin bu
-miktardan fazla olacağının tespiti halinde, Maliye Bakanlığınca
-belirlenecek usul ve esaslar dahilinde tahakkuklarından
-vazgeçilebilir.^(1)\ ^
-
- 
+İkmalen, re'sen veya idarece tarh edilen vergi ve bunlara ilişkin
+cezaların toplam miktarı 1.000.000 lirayı (1.000.000 lira dahil) **(21
+TL)** aşmaması ve tahakkukları için yapılacak giderlerin bu miktardan
+fazla olacağının tespiti halinde, Maliye Bakanlığınca belirlenecek usul
+ve esaslar dahilinde tahakkuklarından vazgeçilebilir.^(1)\ ^
 
 ——————————
 
-\(1) Bu maddedeki miktarlar 11/8/1999 tarihli ve 4444 sayılı Kanun ile
-1.000.000 TL.'ye yükseltilmiş, daha sonra; 26/12/2011  tarihli ve 28154
-sayılı Resmi Gazete'de yayımlanan Maliye Bakanlığının 411 Sıra No.’lu
-Tebliği ile 1/1/2012 tarihinden geçerli olmak üzere tespit edilen
-miktarlar ise, metne parantez içinde siyah punto ile işlenmiştir. Daha
-önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT
-İLE YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
-
- 
+*(1) Bu maddedeki miktarlar 11/8/1999 tarihli ve 4444 sayılı Kanun ile
+1.000.000 TL.'ye yükseltilmiş, daha sonra; 30/12/2013 tarihli ve 28867
+(Mükerrer) sayılı Resmi Gazete'de yayımlanan Maliye Bakanlığının 432
+Sıra No.’lu Tebliği ile 1/1/2014 tarihinden geçerli olmak üzere tespit
+edilen miktarlar ise, metne parantez içinde siyah punto ile işlenmiştir.
+Daha önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ
+MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.*
 
 3501
 
@@ -3184,251 +3154,433 @@ delili teşkil etmemesi şarttır.
 
 3509
 
- 
+*Kayıtların yeniden işlenmesi:*
 
-*             Kayıtların yeniden işlenmesi:*
+**Madde 146 –** Arama neticesinde bulunan defter ve vesikaların muhafaza
+altına alınması sebebiyle 219 uncu madde gereğince yapılamıyan kayıtlar
+defterlerin geri verilmesinden sonra idare ile mükellef arasında
+kararlaştırılan münasip bir süre içinde ikmal edilir. Bu süre bir aydan
+az olamaz.
 
-             **Madde 146 –** Arama neticesinde bulunan defter ve
-vesikaların muhafaza altına alınması sebebiyle 219 uncu madde gereğince
-yapılamıyan kayıtlar defterlerin geri verilmesinden sonra idare ile
-mükellef arasında kararlaştırılan münasip bir süre içinde ikmal edilir.
-Bu süre bir aydan az olamaz.
+Mükellef dilerse defterlerinin muhafaza altına alındığında işlemlerini
+yeniden tasdik ettireceği defterlere kayıt ve iadesi halinde iade edilen
+defterlere intikal ettirebilir.
 
-             Mükellef dilerse defterlerinin muhafaza altına alındığında
-işlemlerini yeniden tasdik ettireceği defterlere kayıt ve iadesi halinde
-iade edilen defterlere intikal ettirebilir.
+*Genel hükümlerin uygulanması:*
 
-*             Genel hükümlerin uygulanması:*
-
-             **Madde 147 –** Bu bölümde açıkça yazılı olmıyan hallerde
-Ceza Muhakemeleri Usulü Kanununun arama ile ilgili bulunan hükümleri
+**Madde 147 –** Bu bölümde açıkça yazılı olmıyan hallerde Ceza
+Muhakemeleri Usulü Kanununun arama ile ilgili bulunan hükümleri
 uygulanır.
-
- 
 
 DÖRDÜNCÜ BÖLÜM
 
 *Bilgi Toplama*
 
-*             Bilgi verme:*
+*Bilgi verme:*
 
-             **Madde 148 –** Kamu idare ve müesseseleri, mükellefler
-veya mükelleflerle muamelede bulunan diğer gerçek ve tüzel kişiler,
-Maliye Bakanlığının veya vergi incelemesi yapmaya yetkili olanların
+**Madde 148 –** Kamu idare ve müesseseleri, mükellefler veya
+mükelleflerle muamelede bulunan diğer gerçek ve tüzel kişiler, Maliye
+Bakanlığının veya vergi incelemesi yapmaya yetkili olanların
 istiyecekleri bilgileri vermeye mecburdurlar.
 
-             Bilgiler yazı veya sözle istenilir. Sözle istenen bilgileri
-vermeyenlere keyfiyet yazı ile tekit ve cevap vermeleri için kendilerine
-münasip bir mühlet tayin olunur. Bilgi istenmek üzere ilgililer vergi
-dairesine zorla getirilemez.
+Bilgiler yazı veya sözle istenilir. Sözle istenen bilgileri vermeyenlere
+keyfiyet yazı ile tekit ve cevap vermeleri için kendilerine münasip bir
+mühlet tayin olunur. Bilgi istenmek üzere ilgililer vergi dairesine
+zorla getirilemez.
 
-             Memleket dışı imtiyazlarından faydalanan yabancı Devlet
-memurları bilgi verme mecburiyetine tabi olamazlar.
+Memleket dışı imtiyazlarından faydalanan yabancı Devlet memurları bilgi
+verme mecburiyetine tabi olamazlar.
 
-*             Devamlı bilgi verme:*
+*Devamlı bilgi verme:*
 
-             **Madde 149 – (Değişik : 4/12/1985 - 3239/14 md.)**
+**Madde 149 – (Değişik : 4/12/1985 - 3239/14 md.)**
 
-             Kamu idare ve müsseseleri (Kamu hizmeti ifa eden kurum ve
-kuruluşlar dahil) ile gerçek ve tüzelkişiler vergilendirmeye ilişkin
-olaylarla ilgili olarak Maliye ve Gümrük Bakanlığı ve vergi dairesince
+Kamu idare ve müsseseleri (Kamu hizmeti ifa eden kurum ve kuruluşlar
+dahil) ile gerçek ve tüzelkişiler vergilendirmeye ilişkin olaylarla
+ilgili olarak Maliye ve Gümrük Bakanlığı ve vergi dairesince
 kendilerinden yazı ile istenecek bilgileri belli fasılalarla ve devamlı
 olarak yazı ile vermeye mecburdurlar.
 
-*             Ölüm vakalarını ve intikalleri bildirme:*
+*Ölüm vakalarını ve intikalleri bildirme:*
 
-             **Madde 150 –** Aşağıda yazılı resmi makamlarla gerçek ve
-tüzel kişiler, her ay muttali oldukları ölüm vakaları ile intikalleri
-ertesi ayın 15 inci günü akşamına kadar vergi dairesine yazı ile
-bildirmeye mecburdurlar.
+**Madde 150 –** Aşağıda yazılı resmi makamlarla gerçek ve tüzel kişiler,
+her ay muttali oldukları ölüm vakaları ile intikalleri ertesi ayın 15
+inci günü akşamına kadar vergi dairesine yazı ile bildirmeye
+mecburdurlar.
 
-             1. Sulh yargıçları, icra, nüfus ve tapu memurları;
+1\. Sulh yargıçları, icra, nüfus ve tapu memurları;
 
-             2. Yabancı memleketlerdeki Türk konsolosları veya
-konsolosluk görevini yapanlar (Memur oldukları yerde ölen Türk
-tebaasının soyadı, adı ve sıfatları ile Türkiye'deki ikametgahlarını
-Maliye Bakanlığına bildirirler);
+2\. Yabancı memleketlerdeki Türk konsolosları veya konsolosluk görevini
+yapanlar (Memur oldukları yerde ölen Türk tebaasının soyadı, adı ve
+sıfatları ile Türkiye'deki ikametgahlarını Maliye Bakanlığına
+bildirirler);
 
-             3. Mahalle ve köy muhtarları (Kendi mahalle veya köylerinde
-ölenleri bildirirler);
+3\. Mahalle ve köy muhtarları (Kendi mahalle veya köylerinde ölenleri
+bildirirler);
 
-             4. Banka, bankerler ve şirketler ile emanet kabul eden
-gerçek ve tüzel kişiler (Mevduat, şirket hissesi, emanet para ve eşya
-veya sair suretle alacak sahiplerinden birinin ölümü halinde, ölenin
-soyadını, adını, alacağının nev'ini ve miktarını bildirirler).
+4\. Banka, bankerler ve şirketler ile emanet kabul eden gerçek ve tüzel
+kişiler (Mevduat, şirket hissesi, emanet para ve eşya veya sair suretle
+alacak sahiplerinden birinin ölümü halinde, ölenin soyadını, adını,
+alacağının nev'ini ve miktarını bildirirler).
 
 3510
 
- 
+*Bilgi vermekten imtina edememek:*
 
-*             Bilgi vermekten imtina edememek:*
+**Madde 151 –** Kendilerinden bilgi istenilen gerçek ve tüzel kişiler,
+özel kanunlarda yazılı mahremiyet hükümlerini ileri sürerek, bilgi
+vermekten imtina edemezler. Ancak:
 
-             **Madde 151 –** Kendilerinden bilgi istenilen gerçek ve
-tüzel kişiler, özel kanunlarda yazılı mahremiyet hükümlerini ileri
-sürerek, bilgi vermekten imtina edemezler. Ancak:
+1\. Posta, Telgraf ve Telefon İdaresinin muhabereler hakkında tutmaya
+mecbur olduğu mahremiyet saklıdır;
 
-             1. Posta, Telgraf ve Telefon İdaresinin muhabereler
-hakkında tutmaya mecbur olduğu mahremiyet saklıdır;
+2\. Hekimlerden, diş hekimlerinden, dişçilerden, ebelerden ve sağlık
+memurlarından hastaların hastalıklarının nevi'ine mütaallik bilgiler
+istenemez.
 
-             2. Hekimlerden, diş hekimlerinden, dişçilerden, ebelerden
-ve sağlık memurlarından hastaların hastalıklarının nevi'ine mütaallik
-bilgiler istenemez.
+3\. Avukatlardan ve dava vekillerinden kendilerine tevdi olunan işler
+veya görevleri dolayısiyle muttali oldukları ahval ve hususların
+bildirilmesi istenemez; şu kadar ki, bu yasak müvekkil adlariyle vekalet
+ücretlerine ve giderlerine ayrıca avukatlık veya dava vekilliği sıfatı
+dışındaki sıfatları dolayısıyla muttali oldukları ahval ve hususlara
+şamil değildir.^(1)^
 
-             3. Avukatlardan ve dava vekillerinden kendilerine tevdi
-olunan işler veya görevleri dolayısiyle muttali oldukları ahval ve
-hususların bildirilmesi istenemez; şu kadar ki, bu yasak müvekkil
-adlariyle vekalet ücretlerine ve giderlerine şamil değildir;
-
-             4. Ceza Muhakemeleri Usulü Kanununun 88 inci maddesi
-gereğince gösterilmesi veya teslimi caiz olmıyan evrakın muhteviyatı
-hakkında bilgi istenemez. Şu kadar ki, doğrudan doğruya vergi ile ilgili
-olmak üzere, bu gibi evraka müsteniden doğan borçların miktarlarına ve
+4\. Ceza Muhakemeleri Usulü Kanununun 88 inci maddesi gereğince
+gösterilmesi veya teslimi caiz olmıyan evrakın muhteviyatı hakkında
+bilgi istenemez. Şu kadar ki, doğrudan doğruya vergi ile ilgili olmak
+üzere, bu gibi evraka müsteniden doğan borçların miktarlarına ve
 alacaklıların adlarına bilgiler istenebilir.
 
-*             İstihbarat arşivi:*
+İstihbarat arşivi:
 
-**             Madde 152 –** 150 nci maddedekiler hariç olmak üzere bu
-bölümde yazılı kaynaklardan toplanacak bilgiler istihbarat arşivlerinde
-gizli olarak saklanır.
+**Madde 152 –** 150 nci maddedekiler hariç olmak üzere bu bölümde yazılı
+kaynaklardan toplanacak bilgiler istihbarat arşivlerinde gizli olarak
+saklanır.
 
-             Bu arşivlerden kimlerin ve ne suretle faydalanabileceği
-Maliye Bakanlığınca tesbit olunur.
+Bu arşivlerden kimlerin ve ne suretle faydalanabileceği Maliye
+Bakanlığınca tesbit olunur.
+
+Uluslararası anlaşmalar gereğince bilgi değişimi:
+
+**Madde 152/A – (Ek: 24/5/2013 - 6487/9 md.)**
+
+Maliye Bakanlığı Gelir İdaresi Başkanlığı veya vergi incelemesi yapmaya
+yetkili olanlar, usulüne uygun olarak yürürlüğe girmiş uluslararası
+anlaşmalarda yer alan bilgi değişimi hükümleri çerçevesinde, Maliye
+Bakanlığınca tespit edilecek usullere göre bu Kanunun 1 inci maddesinde
+belirlenen şümulle sınırlı olmaksızın bilgi toplayabilir.
 
 İKİNCİ KİTAP
 
-*Mükellefin Ödevleri*
+Mükellefin Ödevleri
 
 BİRİNCİ KISIM
 
-*Bildirmeler*
+Bildirmeler
 
 BİRİNCİ BÖLÜM
 
-*İşe Başlama*
+İşe Başlama
 
-*             İşe başlamayı bildirme:*
+İşe başlamayı bildirme:
 
-             **Madde 153 –** Aşağıda yazılı mükelleflerden işe
-başlıyanlar keyfiyeti vergi dairesine bildirmeye mecburdurlar:
+**Madde 153 –** Aşağıda yazılı mükelleflerden işe başlıyanlar keyfiyeti
+vergi dairesine bildirmeye mecburdurlar:
 
-             1. Vergiye tabi ticaret ve sanat erbabı;
+1\. Vergiye tabi ticaret ve sanat erbabı;
 
-             2. Serbest meslek erbabı;
+2\. Serbest meslek erbabı;
 
-             3. Kurumlar Vergisi mükellefleri;
+3\. Kurumlar Vergisi mükellefleri;
 
-             4. Kolektif ve adi şirket ortaklariyle komandit şirketlerin
-komandite ortakları.
+4\. Kolektif ve adi şirket ortaklariyle komandit şirketlerin komandite
+ortakları.
 
-**             (Ek fıkra: 11/6/2003 - 4884/12 md.)** Ticaret sicili
-memurlukları, kurumlar vergisi mükellefi olup da Türk Ticaret Kanununun
-30 uncu maddesi uyarınca tescil için başvuran mükelleflerin başvuru
-evraklarının bir suretini ilgili vergi dairesine intikal ettirir. Bu
-mükelleflerin işe başlamayı bildirme yükümlülükleri yerine getirilmiş
-sayılır. Bildirim yükümlülüğünü süresi içinde yerine getirmeyen ticaret
-sicili memurları hakkında işe başlamanın zamanında bildirilmemesine
-ilişkin usulsüzlük cezası hükümleri uygulanır.
+**(Ek fıkra: 11/6/2003 - 4884/12 md.)** Ticaret sicili memurlukları,
+kurumlar vergisi mükellefi olup da Türk Ticaret Kanununun 30 uncu
+maddesi uyarınca tescil için başvuran mükelleflerin başvuru evraklarının
+bir suretini ilgili vergi dairesine intikal ettirir. Bu mükelleflerin
+işe başlamayı bildirme yükümlülükleri yerine getirilmiş sayılır.
+Bildirim yükümlülüğünü süresi içinde yerine getirmeyen ticaret sicili
+memurları hakkında işe başlamanın zamanında bildirilmemesine ilişkin
+usulsüzlük cezası hükümleri uygulanır.
 
-             **(İkinci fıkra mülga: 22/7/2003 - 4369/82 md.)**
+**(İkinci fıkra mülga: 22/7/2003 - 4369/82 md.)**
 
-** **            *Tüccarlarda işe başlamanın belirtileri:*
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**             Madde 154 –** Tüccarlar için aşağıdaki hallerden her
-hangi biri "İşe başlama" yı gösterir:
+*(1) 24/5/2013 tarihli ve 6487 sayılı Kanunun 8 inci maddesiyle bu
+bentte yer alan “giderlerine” ibaresinden sonra gelmek üzere “ayrıca
+avukatlık veya dava vekilliği sıfatı dışındaki sıfatları dolayısıyla
+muttali oldukları ahval ve hususlara” ibaresi eklenmiştir.*
 
-             1. Bir iş yeri açmak (İş yeri açmaktan maksat, belli bir
-yerde bilfiil ticari veya sınai faaliyete geçmek demektir. Bir yerin ne
-maksatla olursa olsun sadece tutulmuş olması veya içinde tertibat ve
-tesisat yapılmakta bulunması iş yerinin açıldığını göstermez);
+3510-1
 
-             2. İş yeri açılmamış olsa bile ticaret siciline veya
-mesleki bir teşekkülle kaydolunmak;
+*Teminat uygulaması:*
 
-3511
+**Madde 153/A-** **(Ek: 28/3/2013-6455/1 md.)**
 
- 
+Başkaca bir ticari, zirai ve mesleki faaliyeti olmadığı halde münhasıran
+sahte belge düzenlemek amacıyla mükellefiyet tesis ettirdiğinin vergi
+incelemesine yetkili olanlarca düzenlenen rapor ile tespit edilmesi ve
+mükellefiyet kaydının devamına gerek görülmediğinin raporda belirtilmesi
+üzerine işi bırakmış addolunan ve mükellefiyet kayıtları vergi
+dairesince terkin edilenlerden, serbest meslek erbabının, şahıs
+işletmelerinde işletme sahibinin, adi ortaklıklarda ortaklardan her
+birinin, ticaret şirketlerinde; şirketin, kanuni temsilcilerinin,
+yönetim kurulu üyelerinin, şirket sermayesinin asgari % 10’una sahip
+olan gerçek veya tüzel kişilerin ya da bunların asgari % 10 ortağı
+olduğu veya yönetiminde bulundukları teşebbüslerin, tüzel kişiliği
+olmayan teşekküllerde bunları idare edenlerin veya düzenlenen raporda
+fiillerin işlenmesinde bilfiil bulundukları tespit edilenlerin işe
+başlama bildiriminin alınması halinde, bunlar adına mükellefiyet tesis
+edilebilmesi için işe başlama bildiriminde bulunanların ve mükellefiyeti
+terkin edilenlerin tüm vergi borçlarının ödenmiş ve 6183 sayılı Kanunun
+10 uncu maddesinin birinci fıkrasının (1), (2) ve (3) numaralı
+bentlerinde sayılan nev’iden 75.000 **(77.000)** Türk Lirasından ve
+düzenlenmiş olan sahte belgelerde yer alan toplam tutarın % 10’undan az
+olmamak üzere teminat verilmiş olması şarttır. ^(1)^
 
-             3. Kazançları basit usulde  ^(1)^ tesbit edilen tüccarlar
-için işle bilfiil uğraşmaya başlamak.
+Birinci fıkrada sayılanların ortağı oldukları adi ortaklıkların, kanuni
+temsilcisi, yönetim kurulu üyesi, şirket sermayesinin asgari % 10’una
+sahip oldukları ticaret şirketlerinin veya idare ettikleri tüzel
+kişiliği olmayan teşekküllerin işe başlama bildiriminde bulunması
+halinde de birinci fıkra hükmü uygulanır.
 
-*             Serbest meslek erbabında işe başlamanın belirtileri:*
+Birinci fıkrada sayılanların, mükellefiyeti bulunan adi ortaklık,
+ticaret şirketleri ve tüzel kişiliği olmayan teşekküllerin kanuni
+temsilcisi, yönetim kurulu üyesi, idarecisi, asgari % 10 ortağı olması,
+bunları devralması, kısmen veya tamamen bunlara devrolunması halinde,
+keyfiyetin vergi dairesinin ıttılaına girdiği tarihten itibaren bir ay
+içinde birinci fıkrada yer alan şartların yerine getirilmesi bu
+mükelleflerden yazılı olarak istenir. Otuz günlük süre içinde şartların
+yerine getirilmemesi ve sayılan kişilerin statülerinin devam ettirilmesi
+halinde, istenilen teminat tutarı verilen sürenin son günü vade tarihi
+olarak kabul edilmek suretiyle mükellef adına teminat alacağı olarak
+tahakkuk ettirilir. Tahakkuk ettirilen teminat alacağı, gecikme zammı
+tatbik edilerek mükelleften, birinci fıkrada sayılan kişilerin teminat
+isteme tarihi itibarıyla tahakkuk etmiş tüm vergi borçları ise mükellef
+müşterek ve müteselsil sorumlu olmak üzere, bu kişilerden 6183 sayılı
+Kanun uyarınca takip ve tahsil edilir.
 
-             **Madde 155 –** Serbest meslek erbabı için aşağıdaki
-hallerden her hangi biri "işe başlama" yı gösterir:
+Birinci fıkrada sayılanlar hariç olmak üzere, 359 uncu maddede yer alan
+sahte belge düzenleme fiilini işledikleri vergi incelemesine yetkili
+olanlarca mükellef hakkında yapılan inceleme neticesinde düzenlenen
+raporla tespit edilenlerden bu durumları kesinleşenlerin, keyfiyetin
+vergi dairesinin ıttılaına girdiği tarihten itibaren bir ay içinde 6183
+sayılı Kanunun 10 uncu maddesinin birinci fıkrasının (1), (2) ve (3)
+numaralı bentlerinde sayılan nev’iden 75.000 Türk Lirasından ve
+düzenlenmiş olan sahte belgelerde yer alan toplam tutarın % 10’undan az
+olmamak üzere yazıyla otuz gün içinde teminat göstermesi istenir. Fiil
+tüzel kişilik veya tüzel kişiliği olmayan teşekkül bünyesinde işlenmişse
+teminat bunlardan istenir. Verilen sürede şartların yerine getirilmemesi
+halinde, istenilen teminat tutarı verilen sürenin son günü vade tarihi
+olarak kabul edilmek suretiyle mükellef adına teminat alacağı olarak
+tahakkuk ettirilir. Tahakkuk ettirilen teminat alacağı, mükelleften 6183
+sayılı Kanun uyarınca gecikme zammı tatbik edilerek takip ve tahsil
+edilir.
 
-             1. Muayenehane, yazıhane, atelye gibi özel iş yerleri
-açmak;
+——————————
 
-             2. Çalışılan yere tabela, levha gibi mesleki faaliyette
-bulunulduğunu ifade eden alametleri asmak;
+*(1) Bu fıkrada yeralan miktar 28/3/2013 tarihli ve 6455 sayılı Kanunun
+1 inci maddesiyle düzenlenen miktar aynen bırakılmış olup, 30/12/2013
+tarihli ve 28867 (Mükerrer) sayılı Resmi Gazete'de yayımlanan Maliye
+Bakanlığının 432 Sıra No.’lu Tebliği ile 1/1/2014 tarihinden geçerli
+olmak üzere tespit edilen miktar ise metne parantez içinde siyah punto
+ile işlenmiştir.*
 
-             3. Her ne şekilde olursa olsun devamlı olarak mesleki
-faaliyette bulunduğunu gösteren ilanlar yapmak;
+3510-2
 
-             4. Serbest olarak mesleki faaliyette bulunmak üzere mesleki
-teşekküllere kaydolunmak.
+3568 sayılı Kanun kapsamında faaliyette bulunan meslek mensuplarından bu
+maddenin birinci fıkrasında sayılan haller dolayısıyla mükellefiyeti
+terkin edilenlerin bu fiillerine iştirak ettiği inceleme raporuyla
+tespit edilenler ve bu durumu kesinleşenler hakkında üç yıl süreyle
+geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır. Bu cezanın
+uygulanmasında 3568 sayılı Kanunda yer alan usuller tatbik edilir.
+Sürenin sonunda, meslek mensubunun tekrar faaliyete başlamak istemesi
+halinde kendisinden bir ay içinde 6183 sayılı Kanunun 10 uncu maddesinin
+birinci fıkrasının (1), (2) ve (3) numaralı bentlerinde sayılan nev’iden
+75.000 Türk Lirasından ve düzenlenmiş olan sahte belgelerde yer alan
+toplam tutarın % 10’undan az olmamak üzere yazıyla teminat istenir.
+Verilen sürede teminatın gösterilmemesi halinde dördüncü fıkranın ilgili
+hükmüne göre işlem yapılır.
 
-             Mesleki teşekküllere kaydolunanlardan görevleri veya
-durumları icabı bilfiil mesleki faaliyette bulunmıyacak olanlar
-bildirmelerinde bu ciheti de açıklarlar.
+3568 sayılı Kanun kapsamında faaliyette bulunan meslek mensuplarından
+dördüncü fıkrada sayılan fiile iştirak ettiği inceleme raporu ile tespit
+edilen ve bu durumu kesinleşenlerden beşinci fıkrada yer verilen esaslar
+dahilinde teminat istenir. Verilen sürede teminatın gösterilmemesi
+halinde dördüncü fıkranın ilgili hükmüne göre işlem yapılır.
 
-*             İş yeri:*
+Birinci, ikinci ve üçüncü fıkralarda sayılan hallerde teminat alınmasını
+takip eden takvim yılının başından itibaren üç yıl içinde, sahte veya
+muhteviyatı itibarıyla yanıltıcı belge kullanılması hariç 359 uncu
+maddede sayılan fiillerden herhangi birinin işlenmediğinin tespit
+edilmesi halinde; dördüncü fıkrada sayılan hallerde ise teminat
+alınmasını takip eden takvim yılının başından itibaren beş yıl içinde
+sahte veya muhteviyatı itibarıyla yanıltıcı belge kullanılması hariç 359
+uncu maddede sayılan fiillerden herhangi birinin işlendiğinin tespit
+edilmemesi halinde alınmış olan teminat başkaca vergi borcu bulunmaması
+kaydıyla mükellefe iade edilir. Söz konusu fiillerin işlenmiş olduğunun
+tespit edilmesi halinde; fiil birinci fıkra kapsamında ise mükellefiyet
+160 ıncı maddenin üçüncü fıkrasına göre terkin edilir, terkin tarihi
+itibarıyla ödenmemiş vergi borçları ile işlenmiş olan fiillerden doğan
+vergi borcu alınan teminattan mahsup edilir, artan tutar mükellefe iade
+edilir. Fiil dördüncü fıkra kapsamında ise vergi borçları ile işlenen
+fiilden doğan vergi borçları teminattan mahsup edilir, ayrıca
+mükelleften mezkûr fıkra hükmünce yeniden teminat istenir. Verilen
+sürede teminatın gösterilmemesi halinde dördüncü fıkranın ilgili hükmüne
+göre işlem yapılır.
 
-             **Madde 156 –** Ticari, sınai, zirai ve mesleki faaliyette
-iş yeri; mağaza, yazıhane, idarehane, muayenehane, imalathane, şube,
-depo, otel, kahvehane, eğlence ve spor yerleri, tarla, bağ, bahçe,
-çiftlik, hayvancılık tesisleri, dalyan ve voli mahalleri, madenler, taş
-ocakları, inşaat şantiyeleri, vapur büfeleri gibi ticari, sınai zirai
-veya mesleki bir faaliyetin icrasına tahsis edilen veya bu 
-faaliyetlerde kullanılan yerdir.^(2)^
+Beşinci ve altıncı fıkralarda belirtilen hallerde, teminat alınmasını
+takip eden takvim yılının başından itibaren beş yıl içinde mezkûr
+fıkralarda yer alan fiillerin işlendiğinin veya bu fiillere iştirak
+edildiğinin tespit edilmemiş olması halinde alınmış olan teminat başkaca
+vergi borcu bulunmaması durumunda meslek mensubuna iade edilir. Söz
+konusu fiillerin işlendiğinin veya bunlara iştirak edildiğinin tespit
+edilmesi halinde, fiil beşinci fıkra kapsamında ise meslek mensubu
+hakkında meslekten çıkarma cezası uygulanır. Bu cezanın uygulanmasında
+3568 sayılı Kanunda yer alan usuller tatbik edilir. Fiil altıncı fıkra
+kapsamında ise mezkûr fıkra uyarınca işlem tesis edilir.
 
- 
+Bu madde uyarınca teminat alınan mükelleflerin, teminatın alındığı
+tarihten sonra tahakkuk eden ve süresinde ödenmeyen vergi borçlarının
+tutarı alınan teminat tutarının %10’unu aşması halinde, teminat paraya
+çevrilerek 6183 sayılı Kanunun 47 nci maddesi uyarınca mükellefin
+borçlarına mahsup edilir ve mükelleften teminat tutarının tamamlanması
+istenir. Teminatın tamamlanmaması halinde dördüncü fıkranın ilgili
+hükmüne göre işlem yapılır.
+
+3510-3
+
+359 uncu maddede sayılan fiilleri işledikleri veya bu fiillere iştirak
+ettikleri vergi incelemesine yetkili olanlarca düzenlenen raporla tespit
+edilenlerden bu durumları kesinleşenler ile birinci, ikinci ve üçüncü
+fıkraların kapsamına girenler veya bu fiillere iştirak edenler, fiilin
+işlendiği tarihten itibaren altı yıl süreyle hiçbir surette vergi teşvik
+ve desteklerinden yararlanamazlar.
+
+Bu madde hükümlerine göre istenecek teminat tutarı; düzenlenmiş olan
+sahte belgelerde yer alan tutarların toplamı, faaliyet alanı, mükellefin
+hukuki statüsü, faaliyette bulunulan il veya bölge, vergi borcu toplamı,
+fiilin tekrar edip etmediği gibi kıstaslar esas alınarak Maliye
+Bakanlığınca belirlenecek usul ve esaslara göre, vergi dairesi müdürünün
+yazılı talebine istinaden defterdar ve/veya vergi dairesi başkanı
+tarafından tayin edilir.
+
+Birinci fıkrada sayılanlar ile sahte veya muhteviyatı itibarıyla
+yanıltıcı belge kullanılması hariç 359 uncu maddede sayılan fiilleri
+işleyenler Maliye Bakanlığınca belirlenen usul ve esaslara göre
+duyurulur. Bu kapsamda yapılan duyurular vergi mahremiyetinin ihlâli
+sayılmaz. Fiil tüzel kişilik veya tüzel kişiliği olmayan teşekkül
+bünyesinde işlenmişse, bunlar da duyurulur.
+
+Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye
+Bakanlığı yetkilidir.
+
+*Tüccarlarda işe başlamanın belirtileri:*
+
+**Madde 154 –** Tüccarlar için aşağıdaki hallerden her hangi biri "İşe
+başlama" yı gösterir:
+
+1\. Bir iş yeri açmak (İş yeri açmaktan maksat, belli bir yerde bilfiil
+ticari veya sınai faaliyete geçmek demektir. Bir yerin ne maksatla
+olursa olsun sadece tutulmuş olması veya içinde tertibat ve tesisat
+yapılmakta bulunması iş yerinin açıldığını göstermez);
+
+2\. İş yeri açılmamış olsa bile ticaret siciline veya mesleki bir
+teşekkülle kaydolunmak;
+
+3\. Kazançları basit usulde tesbit edilen tüccarlar için işle bilfiil
+uğraşmaya başlamak. ^(1)^
+
+*Serbest meslek erbabında işe başlamanın belirtileri:*
+
+**Madde 155 –** Serbest meslek erbabı için aşağıdaki hallerden her hangi
+biri "işe başlama" yı gösterir:
+
+1\. Muayenehane, yazıhane, atelye gibi özel iş yerleri açmak;
+
+2\. Çalışılan yere tabela, levha gibi mesleki faaliyette bulunulduğunu
+ifade eden alametleri asmak;
+
+3\. Her ne şekilde olursa olsun devamlı olarak mesleki faaliyette
+bulunduğunu gösteren ilanlar yapmak;
+
+4\. Serbest olarak mesleki faaliyette bulunmak üzere mesleki teşekküllere
+kaydolunmak.
+
+Mesleki teşekküllere kaydolunanlardan görevleri veya durumları icabı
+bilfiil mesleki faaliyette bulunmıyacak olanlar bildirmelerinde bu
+ciheti de açıklarlar.
+
+—————————
+
+*(1) Bu bendde yeralan "götürü usulde" ibaresi, 22/7/1998 tarih ve 4369
+sayılı Kanunun 81 inci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+3510-4
+
+*İş yeri:*
+
+**Madde 156 –** Ticari, sınai, zirai ve mesleki faaliyette iş yeri;
+mağaza, yazıhane, idarehane, muayenehane, imalathane, şube, depo, otel,
+kahvehane, eğlence ve spor yerleri, tarla, bağ, bahçe, çiftlik,
+hayvancılık tesisleri, dalyan ve voli mahalleri, madenler, taş ocakları,
+inşaat şantiyeleri, vapur büfeleri gibi ticari, sınai zirai veya mesleki
+bir faaliyetin icrasına tahsis edilen veya bu faaliyetlerde kullanılan
+yerdir.^(1)^
 
 İKİNCİ BÖLÜM
 
 *Değişiklikler*
 
-*             Adres değişikliklerinin bildirilmesi :*
+*Adres değişikliklerinin bildirilmesi :*
 
-             **Madde 157 –** 101 inci maddede yazılı bilinen iş veya
-ikamet yeri adreslerini değiştiren mükellefler, yeni adreslerini vergi
-dairesine bildirmeye mecburdurlar.
+**Madde 157 –** 101 inci maddede yazılı bilinen iş veya ikamet yeri
+adreslerini değiştiren mükellefler, yeni adreslerini vergi dairesine
+bildirmeye mecburdurlar.
 
-             **(İkinci fıkra Mülga : 22/7/1998 - 4369/82 md.)**
+**(İkinci fıkra Mülga : 22/7/1998 - 4369/82 md.)**
 
-*             İş değişikliklerinin bildirilmesi:*
+*İş değişikliklerinin bildirilmesi:*
 
-             **Madde 158 –** İşe başladıklarını bildiren mükelleflerden:
+**Madde 158 –** İşe başladıklarını bildiren mükelleflerden:
 
-             a) Yeni bir vergiye tabi olmayı;
+a\) Yeni bir vergiye tabi olmayı;
 
-             b) Mükellefiyet şeklinde değişikliği;
+b\) Mükellefiyet şeklinde değişikliği;
 
-             c) Mükellefiyetten muaflığa geçmeyi;
+c\) Mükellefiyetten muaflığa geçmeyi;
 
-             gerektirecek surette işlerinde değişiklik olanlar, bu
-değişiklikleri vergi dairesine bildirmeye mecburdurlar.
-
-*             İşletmede değişikliğin bildirilmesi :*
-
-             **Madde 159 –** Aynı teşebbüs veya işletmeye dahil bulunan
-iş yerlerinin sayısında vukua gelen artış veya azalışları mükellefler
+gerektirecek surette işlerinde değişiklik olanlar, bu değişiklikleri
 vergi dairesine bildirmeye mecburdurlar.
 
- 
+*İşletmede değişikliğin bildirilmesi :*
+
+**Madde 159 –** Aynı teşebbüs veya işletmeye dahil bulunan iş yerlerinin
+sayısında vukua gelen artış veya azalışları mükellefler vergi dairesine
+bildirmeye mecburdurlar.
+
+—————————
+
+*(1) Bu madde ile ilgili olarak 22/7/1998 tarih ve 4369 sayılı Kanunun
+Geçici 5 inci maddesine bakınız.*
+
+3511
 
 ÜÇÜNCÜ BÖLÜM
 
 *İşi Bırakma*
 
-*             İşi bırakmanın bildirilmesi:*
+*İşi bırakmanın bildirilmesi:*
 
-             **Madde 160 –** 153 üncü maddede yazılı mükelleflerden işi
+**Madde 160 –** 153 üncü maddede yazılı mükelleflerden işi
 bırakanlar,keyfiyeti vergi dairesine bildirmeye mecburdurlar.
 
-             **(Mülga ikinci fıkra : 22/7/1998 - 4369/82 md.)**
+**(Mülga ikinci fıkra : 22/7/1998 - 4369/82 md.)**
 
-            **(Ek : 22/7/1998 - 4369/3 md.;Değişik üçüncü fıkra:
+**(Ek fıkra: 22/7/1998 - 4369/3 md.; Değişik üçüncü fıkra:
 16/7/2004-5228/6 md.)** İşi bırakma bildiriminde bulunmayan bir
 mükellefin işi bıraktığının tespit edilmesi veya yapılan araştırma ve
 yoklamalar sonucunda bilinen adreslerinde bulunamaması ve başka bir
@@ -3442,151 +3594,127 @@ bırakmış addolunur ve mükellefiyet kaydı vergi dairesince terkin edilir.
 Bu durum, ilgili kamu kurum ve kuruluşu ile kamu kurumu niteliğindeki
 meslek üst kuruluşuna da bildirilir.
 
-**            (Ek fıkra: 16/7/2004-5228/6 md.)** Mükellefiyet kaydının
-terkin edilmesi, mükellefin işi bırakmasından önceki döneme ilişkin
+**(Ek fıkra: 16/7/2004-5228/6 md.)** Mükellefiyet kaydının terkin
+edilmesi, mükellefin işi bırakmasından önceki döneme ilişkin
 yükümlülüklerini ortadan kaldırmayacağı gibi bu tarihten sonra
 faaliyette bulunduğunun tespiti halinde bu dönemlere ilişkin
 vergilendirmeye ve sahte belge düzenleme fiilini işleyenler hakkında
 kovuşturma yapılmasına ve ceza uygulanmasına da engel teşkil etmez.
 
-**            (Ek fıkra: 16/7/2004-5228/6 md.)** Bu madde kapsamında
-mükellefiyet kayıtları terkin edilenlerin kimlik bilgileri ile bunların
-bastırmış veya tasdik ettirmiş oldukları belgeler ve kullanmış oldukları
-ödeme kaydedici cihazlara ilişkin bilgiler Maliye Bakanlığınca
-belirlenecek araçlarla duyurulur.
+**(Ek fıkra: 16/7/2004-5228/6 md.)** Bu madde kapsamında mükellefiyet
+kayıtları terkin edilenlerin kimlik bilgileri ile bunların bastırmış
+veya tasdik ettirmiş oldukları belgeler ve kullanmış oldukları ödeme
+kaydedici cihazlara ilişkin bilgiler Maliye Bakanlığınca belirlenecek
+araçlarla duyurulur.
 
-**            (Ek fıkra: 16/7/2004-5228/6 md.)** Bu maddenin
-uygulanmasına ilişkin usulleri belirlemeye Maliye Bakanlığı yetkilidir.
+**(Ek fıkra: 16/7/2004-5228/6 md.)** Bu maddenin uygulanmasına ilişkin
+usulleri belirlemeye Maliye Bakanlığı yetkilidir.
 
-—————————
+*İşi bırakmanın tarifi:*
 
-*(1)    Bu bendde yeralan "götürü usulde" ibaresi, 22/7/1998 tarih ve
-4369 sayılı Kanunun 81 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
+**Madde 161 –** Vergiye tabi olmayı gerektiren muamelelerin tamamen
+durdurulması ve sona ermesi işi bırakmayı ifade eder.
 
-*(2)    Bu madde ile ilgili olarak 22/7/1998 tarih ve 4369 sayılı
-Kanunun Geçici 5 inci maddesine bakınız.*
+İşlerin her hangi bir sebep yüzünden geçici bir süre için durdurulması
+işi bırakma sayılmaz.
+
+*Tasfiye ve İflas:*
+
+**Madde 162 –** Tasfiye ve iflas hallerinde, mükellefiyet vergi ile
+ilgili muamelelerin tamamen sona ermesine kadar devam eder.
+
+Bu hallerde tasfiye memurları veya iflas dairesi:
+
+1\. Tasfiye veya iflas kararlarını;
+
+2\. Tasfiyenin veya iflasın kapandığını;
+
+vergi dairesine ayrı ayrı bildirmeye mecburdurlar.
 
 3512
 
- 
+*Nakil:*
 
- 
+**Madde 163 – (Değişik : 25/5/1995 - 4108/3 md.)**
 
-*             İşi bırakmanın tarifi:*
+İş ve teşebbüsün bir yerden diğer bir yere nakledilmesi adres
+değişikliği sayılır.
 
-             **Madde 161 –** Vergiye tabi olmayı gerektiren muamelelerin
-tamamen durdurulması ve sona ermesi işi bırakmayı ifade eder.
+*Ölüm:*
 
-             İşlerin her hangi bir sebep yüzünden geçici bir süre için
-durdurulması işi bırakma sayılmaz.
+**Madde 164 –** Ölüm işi bırakma hükmündedir. Ölüm mükellefin mirası
+reddetmemiş mirasçıları tarafından vergi dairesine bildirilir.
 
-*             Tasfiye ve İflas:*
-
-             **Madde 162 –** Tasfiye ve iflas hallerinde, mükellefiyet
-vergi ile ilgili muamelelerin tamamen sona ermesine kadar devam eder.
-
-             Bu hallerde tasfiye memurları veya iflas dairesi:
-
-             1. Tasfiye veya iflas kararlarını;
-
-             2. Tasfiyenin veya iflasın kapandığını;
-
-             vergi dairesine ayrı ayrı bildirmeye mecburdurlar.
-
-*             Nakil:*
-
-             **Madde 163 – (Değişik : 25/5/1995 - 4108/3 md.)**
-
-             İş ve teşebbüsün bir yerden diğer bir yere nakledilmesi
-adres değişikliği sayılır.
-
-*             Ölüm:*
-
-             **Madde 164 –** Ölüm işi bırakma hükmündedir. Ölüm
-mükellefin mirası reddetmemiş mirasçıları tarafından vergi dairesine
-bildirilir.
-
-             Mirasçılardan her hangi birinin ölümü bildirmesi diğer
-mirasçıları bu ödevden kurtarır.
-
- 
+Mirasçılardan her hangi birinin ölümü bildirmesi diğer mirasçıları bu
+ödevden kurtarır.
 
 DÖRDÜNCÜ BÖLÜM
 
 *Bina ve Arazi Değişiklikleri*
 
-*             Tahrirde unutulan bina ve arazi:*
+*Tahrirde unutulan bina ve arazi:*
 
-             **Madde 165 –** Mükellefler, genel tahrirde unutularak
-yazılmamış olan bina ve araziyi tahrir neticelerine göre verginin
-alınmaya başlandığı mali yılın sonuna kadar vergi dairesine bildirmeye
-mecburdurlar.
+**Madde 165 –** Mükellefler, genel tahrirde unutularak yazılmamış olan
+bina ve araziyi tahrir neticelerine göre verginin alınmaya başlandığı
+mali yılın sonuna kadar vergi dairesine bildirmeye mecburdurlar.
 
-*             Yeni İnşaat:*
+*Yeni İnşaat:*
 
-             **Madde 166 –** Mükellefler, şehir ve kasabalarda yeni inşa
-ettirdikleri binaları ve inşaat bitmeden kullanılmaya başlanan
-kısımlarını vergi dairesine bildirmeye mecburdurlar.
+**Madde 166 –** Mükellefler, şehir ve kasabalarda yeni inşa ettirdikleri
+binaları ve inşaat bitmeden kullanılmaya başlanan kısımlarını vergi
+dairesine bildirmeye mecburdurlar.
 
-             Mevcut binalara yapılan ilaveler ve konulan sabit istihsal,
-asansör ve kalorifer tesisleri yeni inşaat hükmündedir.
+Mevcut binalara yapılan ilaveler ve konulan sabit istihsal, asansör ve
+kalorifer tesisleri yeni inşaat hükmündedir.
 
-*             Bina ve arazideki değişikliklerin bildirilmesi:*
+*Bina ve arazideki değişikliklerin bildirilmesi:*
 
-             **Madde 167 –** Mükellefler, bina ve arazide vukubulan 63
-üncü maddenin 4 - 10 uncu bentlerinde yazılı değişiklikleri ve iratsız
-arsanın iratlı arsa veya iratlı arsanın iratsız arsa haline geldiğini
-vergi dairesine bildirmeye mecburdurlar.
-
- 
+**Madde 167 –** Mükellefler, bina ve arazide vukubulan 63 üncü maddenin
+4 - 10 uncu bentlerinde yazılı değişiklikleri ve iratsız arsanın iratlı
+arsa veya iratlı arsanın iratsız arsa haline geldiğini vergi dairesine
+bildirmeye mecburdurlar.
 
 BEŞİNCİ BÖLÜM
 
 *Bildirmelerde Süre ve Şekil*
 
-*             Süre:*
+*Süre:*
 
-             **Madde 168 –** Bildirmeler aşağıda yazılı süre içinde
-yapılır:
+**Madde 168 –** Bildirmeler aşağıda yazılı süre içinde yapılır:
 
-             1. **(Değişik:11/6/2003-4884/6 md.)** Gerçek kişilerde işe
-başlama bildirimleri, işe başlama tarihinden itibaren on gün içinde
-kendilerince veya 1136 sayılı Avukatlık Kanununa göre ruhsat almış
-avukatlar veya 3568 sayılı Kanuna göre yetki almış meslek mensuplarınca,
-şirketlerin kuruluş aşamasında işe başlama bildirimleri ise işe başlama
-tarihinden itibaren on gün içinde ticaret sicili memurluğunca ilgili
-vergi dairesine yapılır. Şirketlerin işe başlama bildirimleri dışında
+1\. **(Değişik:11/6/2003-4884/6 md.)** Gerçek kişilerde işe başlama
+bildirimleri, işe başlama tarihinden itibaren on gün içinde kendilerince
+veya 1136 sayılı Avukatlık Kanununa göre ruhsat almış avukatlar veya
+3568 sayılı Kanuna göre yetki almış meslek mensuplarınca, şirketlerin
+kuruluş aşamasında işe başlama bildirimleri ise işe başlama tarihinden
+itibaren on gün içinde ticaret sicili memurluğunca ilgili vergi
+dairesine yapılır. Şirketlerin işe başlama bildirimleri dışında
 yapılacak bildirimler ile işi bırakma ve değişiklik bildirimleri,
 bildirilecek olayın vukuu tarihinden itibaren bir ay içerisinde mükellef
 tarafından vergi dairesine yapılır.
 
 3513
 
- 
+2\. Bina ve arazi değişikliklerinde bildirme;
 
-             2. Bina ve arazi değişikliklerinde bildirme;
+Yeni inşaatta inşatın bittiği ve kısmen kullanılmaya başlanılmışsa her
+kısmın kullanılmaya başlandığı ve diğer değişikliklerde (Müstesnalığın
+sukutu dahil) tadili gerektiren halin vukuu tarihinden başlıyarak iki
+ay.
 
-             Yeni inşaatta inşatın bittiği ve kısmen kullanılmaya
-başlanılmışsa her kısmın kullanılmaya başlandığı ve diğer
-değişikliklerde (Müstesnalığın sukutu dahil) tadili gerektiren halin
-vukuu tarihinden başlıyarak iki ay.
+*Yazılı bildirme esası:*
 
-*             Yazılı bildirme esası:*
+**Madde 169 –** Bildirmeler yazılı olur; yalnız defter tutmaya mecbur
+olmıyan mükelleflerden okuma ve yazması olmıyanlar, bildirmeleri sözle
+yapabilirler. Sözlü bildirmeler tutanakla tesbit olunur.
 
-             **Madde 169 –** Bildirmeler yazılı olur; yalnız defter
-tutmaya mecbur olmıyan mükelleflerden okuma ve yazması olmıyanlar,
-bildirmeleri sözle yapabilirler. Sözlü bildirmeler tutanakla tesbit
-olunur.
+*Posta ile gönderme:*
 
-*             Posta ile gönderme:*
+**Madde 170 –** Yazılı bildirmelerin posta ile taahhütlü olarak
+gönderilmesi caizdir. Bu takdirde bildirmenin postaya verildiği tarih
+vergi dairesine verilme tarihi yerine geçer.
 
-             **Madde 170 –** Yazılı bildirmelerin posta ile taahhütlü
-olarak gönderilmesi caizdir. Bu takdirde bildirmenin postaya verildiği
-tarih vergi dairesine verilme tarihi yerine geçer.
-
-             Bu maddenin hükümleri vergi beyannameleri hakkında da cari
-olur.
+Bu maddenin hükümleri vergi beyannameleri hakkında da cari olur.
 
 İKİNCİ KISIM
 
@@ -3596,179 +3724,163 @@ BİRİNCİ BÖLÜM
 
 *Genel Esaslar*
 
-*             Maksat:*
+*Maksat:*
 
-             **Madde 171 –** Mükellefler bu kanuna göre tutacakları
-defterleri vergi uygulaması bakımından aşağıdaki maksatları sağlıyacak
-şekilde tutarlar:
+**Madde 171 –** Mükellefler bu kanuna göre tutacakları defterleri vergi
+uygulaması bakımından aşağıdaki maksatları sağlıyacak şekilde tutarlar:
 
-             1. Mükellefin vergi ile ilgili servet, sermaye ve hesap
-durumunu tesbit etmek;
-
-             2. Vergi ile ilgili faaliyet ve hesap neticelerini tesbit
+1\. Mükellefin vergi ile ilgili servet, sermaye ve hesap durumunu tesbit
 etmek;
 
-             3. Vergi ile ilgili muameleleri belli etmek;
+2\. Vergi ile ilgili faaliyet ve hesap neticelerini tesbit etmek;
 
-             4. Mükellefin vergi karsışındaki durumunu hesap üzerinden
-kontrol etmek ve incelemek;
+3\. Vergi ile ilgili muameleleri belli etmek;
 
-             5. **(Değişik : 30/12/1980 - 2365/23 md.)** Mükellefin
-hesap ve kayıtlarının yardımıyla üçüncü şahısların vergi karşısındaki
-durumlarını (emanet mahiyetindeki değerler dahil) kontrol etmek ve
-incelemek.
+4\. Mükellefin vergi karsışındaki durumunu hesap üzerinden kontrol etmek
+ve incelemek;
 
-*             Defter tutacaklar:*
+5\. **(Değişik : 30/12/1980 - 2365/23 md.)** Mükellefin hesap ve
+kayıtlarının yardımıyla üçüncü şahısların vergi karşısındaki durumlarını
+(emanet mahiyetindeki değerler dahil) kontrol etmek ve incelemek.
 
-             **Madde 172 –** Aşağıda yazılı gerçek ve tüzelkişiler bu
-kanunun esaslarına göre defter tutmaya mecburdurlar:
+*Defter tutacaklar:*
 
-             1. Ticaret ve sanat erbabı;
+**Madde 172 –** Aşağıda yazılı gerçek ve tüzelkişiler bu kanunun
+esaslarına göre defter tutmaya mecburdurlar:
 
-             2. Ticaret şirketleri;
+1\. Ticaret ve sanat erbabı;
 
-             3. İktisadi kamu müesseseleri;
+2\. Ticaret şirketleri;
 
-             4. **(Değişik : 30/12/1980 - 2365/24 md.)** Dernek ve
-vakıflara ait iktisadi işletmeler.
+3\. İktisadi kamu müesseseleri;
 
-             5. Serbest meslek erbabı;
+4\. **(Değişik : 30/12/1980 - 2365/24 md.)** Dernek ve vakıflara ait
+iktisadi işletmeler.
 
-             6. Çiftçiler.
+5\. Serbest meslek erbabı;
 
-             **(Değişik : 30/12/1980 - 2365/24 md.)** iktisadi kamu
-müesseseleriyle dernek ve vakıflara ait iktisadi işletmeler defter tutma
-bakımından tüccarların tabi oldukları hükümlere tabidirler.
+6\. Çiftçiler.
 
-*             İstisnalar:*
+**(Değişik : 30/12/1980 - 2365/24 md.)** iktisadi kamu müesseseleriyle
+dernek ve vakıflara ait iktisadi işletmeler defter tutma bakımından
+tüccarların tabi oldukları hükümlere tabidirler.
 
-             **Madde 173 –** Defter tutma mecburiyeti aşağıda yazılı
-gerçek ve tüzel kişiler hakkında uygulanmaz:
+*İstisnalar:*
 
-             1. Gelir vergisinden muaf olan esnaf ve gerçek usulde
-vergiye tabi olmayan çiftçiler^(1)^
+**Madde 173 –** Defter tutma mecburiyeti aşağıda yazılı gerçek ve tüzel
+kişiler hakkında uygulanmaz:
 
-             2. Gelir Vergisi Kanununa göre kazançları basit usulde
-tesbit edilenler  ^(1)^
+1\. Gelir vergisinden muaf olan esnaf ve gerçek usulde vergiye tabi
+olmayan çiftçiler^(1)^
+
+2\. Gelir Vergisi Kanununa göre kazançları basit usulde tesbit edilenler
+^(1)^
 
 ——————————
 
-*(1)  Bu bentlerde yeralan "muaf olan esnaf ve çiftçiler" ve "Gelir
+*(1) Bu bentlerde yeralan "muaf olan esnaf ve çiftçiler" ve "Gelir
 Vergisi Kanununa göre kazançları götürü olarak tespit edilenler ile
-götürü gider usulüne tabi olan çiftçiler"  ibareleri  22/7/1998 tarih 
-ve 4369 sayılı Kanunun 81 inci maddesiyle metne işlendiği şekilde
+götürü gider usulüne tabi olan çiftçiler" ibareleri 22/7/1998 tarih ve
+4369 sayılı Kanunun 81 inci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
 3514
 
- 
+3\. Kurumlar vergisinden muaf olan:
 
-             3. Kurumlar vergisinden muaf olan:
+a\) İktisadi kamu müesseseleri;
 
-             a) İktisadi kamu müesseseleri;
+b\) **(Değişik : 30/12/1980 - 2365/25 md.)** Dernek ve vakıflara ait
+iktisadi işletmeler.
 
-             b) **(Değişik : 30/12/1980 - 2365/25 md.)** Dernek ve
-vakıflara ait iktisadi işletmeler.
+Yukardaki istisna hükümlerinin gelir veya kurumlar vergilerinden muaf
+olmakla beraber diğer vergilerden birine tabi olan ve bu vergileri
+götürü usulde tesbit edilmiyen mükelleflerin muaf olmadıkları vergiler
+için tutacakları defterlere şümulü yoktur.
 
-             Yukardaki istisna hükümlerinin gelir veya kurumlar
-vergilerinden muaf olmakla beraber diğer vergilerden birine tabi olan ve
-bu vergileri götürü usulde tesbit edilmiyen mükelleflerin muaf
-olmadıkları vergiler için tutacakları defterlere şümulü yoktur.
+*Hesap dönemi:*
 
-             Hesap dönemi:
+**Madde 174 –** Defterler hesap dönemi itibariyle tutulur. Kayıtlar her
+hesap dönemi sonunda kapatılır ve ertesi dönem başında yeniden açılır.
 
-             **Madde 174 –** Defterler hesap dönemi itibariyle tutulur.
-Kayıtlar her hesap dönemi sonunda kapatılır ve ertesi dönem başında
-yeniden açılır.
+Hesap dönemi normal olarak takvim yılıdır.
 
-             Hesap dönemi normal olarak takvim yılıdır.
+Şu kadar ki, takvim yılı dönemi faaliyet ve muamelelerinin mahiyetine
+uygun bulunmıyanlar için, bunların müracaatı üzerine Maliye Bakanlığı 12
+şer aylık özel hesap dönemleri belli edebilir.
 
-             Şu kadar ki, takvim yılı dönemi faaliyet ve muamelelerinin
-mahiyetine uygun bulunmıyanlar için, bunların müracaatı üzerine Maliye
-Bakanlığı 12 şer aylık özel hesap dönemleri belli edebilir.
+Yeniden işe başlama veya işi bırakma hallerinde, hesap dönemi içinde bir
+yıldan eksik olan faaliyet süresi, hesap dönemi sayılır.
 
-             Yeniden işe başlama veya işi bırakma hallerinde, hesap
-dönemi içinde bir yıldan eksik olan faaliyet süresi, hesap dönemi
-sayılır.
+Bu maddeye göre özel hesap dönemi tayin edilenlerin ticari ve zirai
+kazançları, hesap dönemlerinin kapandığı takvim yılının kazancı sayılır.
 
-             Bu maddeye göre özel hesap dönemi tayin edilenlerin ticari
-ve zirai kazançları, hesap dönemlerinin kapandığı takvim yılının kazancı
-sayılır.
+*Muhasebe usulünü seçmekte serbestlik:*
 
-             Muhasebe usulünü seçmekte serbestlik:
+**Madde 175 –** Mükellefler bu kısmında yazılı maksat ve esaslara uymak
+şartiyle, defterlerini ve muhasebelerini işlerinin bünyesine uygun
+olarak diledikleri usulu ve tarzda tanzim etmekte serbesttirler. **(Ek:
+28/8/1991-3762/1 md.)** Ancak, Maliye ve Gümrük Bakanlığı; muhasebe
+standartları, tek düzen hesap planı ve mali tabloların çıkarılmasına
+ilişkin usul ve esasları tespit etmeye, bunları mükellef, şirket ve
+işletme türleri itibariyle uygulatmaya ve buna ilişkin diğer usul ve
+esasları belirlemeye yetkilidir.
 
-             **Madde 175 –** Mükellefler bu kısmında yazılı maksat ve
-esaslara uymak şartiyle, defterlerini ve muhasebelerini işlerinin
-bünyesine uygun olarak diledikleri usulu ve tarzda tanzim etmekte
-serbesttirler. **(Ek: 28/8/1991-3762/1 md.)** Ancak, Maliye ve Gümrük
-Bakanlığı; muhasebe standartları, tek düzen hesap planı ve mali
-tabloların çıkarılmasına ilişkin usul ve esasları tespit etmeye, bunları
-mükellef, şirket ve işletme türleri itibariyle uygulatmaya ve buna
-ilişkin diğer usul ve esasları belirlemeye yetkilidir.
+Ticaret Kanununun ticari defterler hakkındaki hükümleri mahfuzdur.
 
-             Ticaret Kanununun ticari defterler hakkındaki hükümleri
-mahfuzdur.
+**(Ek : 25/5/1995 - 4108/4 md.)** Maliye Bakanlığı, muhasebe kayıtlarını
+bilgisayar programları aracılığıyla izleyen mükellefler ile bu
+bilgisayar programlarını üreten gerçek ve tüzel kişilerce uyulması
+gereken kuralları ve bilgisayar programlarının içermesi gereken asgari
+hususlar ile standartları ve uygulamaya ilişkin usul ve esasları
+belirlemeye yetkilidir.
 
-             **(Ek : 25/5/1995 - 4108/4 md.)** Maliye Bakanlığı,
-muhasebe kayıtlarını bilgisayar programları aracılığıyla izleyen
-mükellefler ile bu bilgisayar programlarını üreten gerçek ve tüzel
-kişilerce uyulması gereken kuralları ve bilgisayar programlarının
-içermesi gereken asgari hususlar ile standartları ve uygulamaya ilişkin
-usul ve esasları belirlemeye yetkilidir.
+İKİNCİ BÖLÜM
 
-                                                                İKİNCİ
-BÖLÜM
+*Defter Tutma Bakımından Tüccarlar*
 
-                                                 Defter Tutma Bakımından
-Tüccarlar
+*Tüccar sınıfları:*
 
-             Tüccar sınıfları:
+**Madde 176 –** Tüccarlar, defter tutma bakımından iki sınıfa ayrılır:
 
-             **Madde 176 –** Tüccarlar, defter tutma  bakımından iki
-sınıfa ayrılır:
+I inci sınıf tüccarlar, bilanço esasına göre;
 
-             I inci sınıf tüccarlar, bilanço esasına göre;
+II nci sınıf tüccarlar, işletme hesabı esasına göre;
 
-             II nci sınıf tüccarlar, işletme hesabı esasına göre;
+defter tutarlar.
 
-             defter tutarlar.
+*Birinci sınıf tüccarlar:*
 
-             Birinci sınıf tüccarlar:
+**Madde 177 – (Değişik 30/12/1980 - 2365/26 md.)**
 
-             **Madde 177 – (Değişik 30/12/1980 - 2365/26 md.)**
+Aşağıda yazılı tüccarlar, I inci sınıfa dahildirler:^(1)^
 
-             Aşağıda yazılı tüccarlar, I inci sınıfa dahildirler:^(1)^
+1\. Satın aldıkları malları olduğu gibi veya işledikten sonra satan ve
+yıllık alımlarının tutarı 7.200.000.000 **(150.000 TL)** lirayı veya
+satışlarının tutarı 8.640.000.000 **(200.000 TL)** lirayı aşanlar;
 
-             1. Satın aldıkları malları olduğu gibi veya işledikten
-sonra satan ve yıllık alımlarının tutarı 7.200.000.000 **(140.000 TL)**
-lirayı veya satışlarının tutarı 8.640.000.000 **(190.000 TL)** lirayı
-aşanlar;
+2\. Birinci bentte yazılı olanların dışındaki işlerle uğraşıp da bir yıl
+içinde elde ettikleri gayri safi iş hasılatı 3.600.000.000 **(80.000
+TL)** lirayı aşanlar;
 
-             2. Birinci bentte yazılı olanların dışındaki işlerle
-uğraşıp da bir yıl içinde elde ettikleri gayri safi iş hasılatı
-3.600.000.000 **(77.000 TL)** lirayı aşanlar;
-
-             3. 1 ve 2 numaralı bentlerde yazılı, işlerin birlikte
-yapılması halinde 2 numaralı bentte  yazılı iş hasılatının beş katı ile
-yıllık satış tutarının toplamı 7.200.000.000 **(140.000 TL)** lirayı
-aşanlar;
+3\. 1 ve 2 numaralı bentlerde yazılı, işlerin birlikte yapılması halinde
+2 numaralı bentte yazılı iş hasılatının beş katı ile yıllık satış
+tutarının toplamı 7.200.000.000 **(150.000 TL)** lirayı aşanlar;
 
 ——————————
 
-(1)  Bu maddede yeralan miktarlar 22/7/1998 tarihli ve 4369 sayılı
+*(1) Bu maddede yeralan miktarlar 22/7/1998 tarihli ve 4369 sayılı
 Kanunun 19 uncu maddesiyle değiştirilen Mükerrer 414 üncü madde hükmüne
 istinaden 1/1/1998 tarihi itibariyle uygulanmakta olan miktarlara
 (9/12/1997 tarihli ve 97/10346 sayılı Kararname ile getirilen miktar)
-yükseltilmiş, 26/12/2011  tarihli ve 28154 sayılı Resmi Gazete'de
-yayımlanan Maliye Bakanlığının 411 Sıra No.’lu Tebliği ile 1/1/2012
-tarihinden geçerli olmak üzere tespit edilen miktarlar ise metne
-parantez içinde siyah punto ile işlenmiştir. Daha önce yapılan
+yükseltilmiş, 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi
+Gazete'de yayımlanan Maliye Bakanlığının 432 Sıra No.’lu Tebliği ile
+1/1/2014 tarihinden geçerli olmak üzere tespit edilen miktarlar ise
+metne parantez içinde siyah punto ile işlenmiştir. Daha önce yapılan
 değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN
-DEĞİŞİKLİKLER CETVELİ" ne bakınız.
+DEĞİŞİKLİKLER CETVELİ" ne bakınız.*
 
- 
-
-3515
+*3515*
 
  
 
@@ -4862,194 +4974,180 @@ metne işlenmiştir.*
 
 3527
 
- 
+*Fatura kullanma mecburiyeti:*
 
-*             Fatura kullanma mecburiyeti:*
+**Madde 232 –** Birinci ve ikinci sınıf tüccarlar kazancı basit usulde
+tespit edilenlerle ^(1)^ defter tutmak mecburiyetinde olan çiftçiler:
 
-             **Madde 232 –** Birinci ve ikinci sınıf tüccarlar kazancı
-basit usulde tespit edilenlerle  ^(1)^ defter tutmak mecburiyetinde olan
-çiftçiler:
+1\. Birinci ve ikinci sınıf tüccarlara;
 
-             1. Birinci ve ikinci sınıf tüccarlara;
+2\. Serbest meslek erbabına;
 
-             2. Serbest meslek erbabına;
+3\. Kazançları basit usulde tesbit olunan tüccarlara ^(1)^
 
-             3. Kazançları basit usulde tesbit olunan tüccarlara ^(1)^
+4\. Defter tutmak mecburiyetinde olan çiftçilere;
 
-             4. Defter tutmak mecburiyetinde olan çiftçilere;
+5\. Vergiden muaf esnafa.
 
-             5. Vergiden muaf esnafa.
+Sattıkları emtia veya yaptıkları işler için fatura vermek ve bunlara da
+fatura istemek ve almak mecburiyetindedirler.
 
-             Sattıkları emtia veya yaptıkları işler için fatura vermek
-ve bunlara da fatura istemek ve almak mecburiyetindedirler.
+**(Değişik : 23/6/1982 - 2686/28 md.)** Yukarıdakiler dışında
+kalanların, birinci ve ikinci sınıf tüccarlar ile kazancı basit usulde
+tespit edilenlerden ve defter tutmak mecburiyetinde olan çiftçilerden
+satın aldıkları emtia veya onlara yaptırdıkları iş bedelinin 50.000.000
+**(800 TL)** lirayı geçmesi veya bedeli 50.000.000 **(800 TL)** liradan
+az olsa dahi istemleri halinde emtiayı satanın veya işi yapanın fatura
+vermesi mecburidir.^(2)^
 
-             **(Değişik : 23/6/1982 - 2686/28 md.)** Yukarıdakiler
-dışında kalanların, birinci ve ikinci sınıf tüccarlar ile kazancı basit
-usulde tespit edilenlerden ve defter tutmak mecburiyetinde olan
-çiftçilerden satın aldıkları emtia veya onlara yaptırdıkları iş
-bedelinin 50.000.000 **(770 TL)** lirayı geçmesi veya bedeli  50.000.000
-**(770 TL)** liradan az olsa dahi istemleri halinde emtiayı satanın veya
-işi yapanın fatura vermesi mecburidir.^(2)^
+**(Dördüncü fıkra mülga: 4/12/1985 - 3239/136 md.)**
 
-             **(Dördüncü fıkra mülga: 4/12/1985 - 3239/136 md.)**
+*Perakende satış vesikaları:*
 
-             Perakende satış vesikaları:
+**Madde 233 – (Değişik: 23/6/1982 - 2686/29 md.)**
 
-             **Madde 233 – (Değişik: 23/6/1982 - 2686/29 md.)**
-
-             Birinci ve ikinci sınıf tüccarlar, kazancı basit usulde
-tespit edilenlerle  ^(1)^ defter tutmak mecburiyetinde olan çiftçilerin
-fatura vermek mecburiyetinde olmadıkları satışları ve yaptıkları işlerin
+Birinci ve ikinci sınıf tüccarlar, kazancı basit usulde tespit
+edilenlerle ^(1)^ defter tutmak mecburiyetinde olan çiftçilerin fatura
+vermek mecburiyetinde olmadıkları satışları ve yaptıkları işlerin
 bedelleri aşağıdaki vesikalardan herhangi biri ile tevsik olunur.
 
-             1. Perakende satış fişleri;
+1\. Perakende satış fişleri;
 
-             2. Makineli kasaların kayıt ruloları;
+2\. Makineli kasaların kayıt ruloları;
 
-             3. Giriş ve yolcu taşıma biletleri.
+3\. Giriş ve yolcu taşıma biletleri.
 
-             Perakende satış fişi, makineli kasaların kayıt ruloları ve
-biletlerde, işletme veya mükellefin adı, düzenlenme tarihi ve alınan
-paranın miktarı gösterilir.
+Perakende satış fişi, makineli kasaların kayıt ruloları ve biletlerde,
+işletme veya mükellefin adı, düzenlenme tarihi ve alınan paranın miktarı
+gösterilir.
 
-             Perakende satış fişi ile giriş ve yolcu taşıma biletleri
-seri ve sıra numarası dahilinde teselsül ettirilir. Bu fiş ve biletler
-kopyalı iki nüsha olarak tanzim edilir ve bir nüshası müşteriye verilir.
-Makineli kasa kullanılıp da müşteriye fiş (makineli kasanın önceki
-fıkrada belirtilen malumatı ihtiva eden fişi) verilmemesi halinde,
-perakende satış fişi tanzimi ve müşteriye verilmesi mecburidir.
+Perakende satış fişi ile giriş ve yolcu taşıma biletleri seri ve sıra
+numarası dahilinde teselsül ettirilir. Bu fiş ve biletler kopyalı iki
+nüsha olarak tanzim edilir ve bir nüshası müşteriye verilir. Makineli
+kasa kullanılıp da müşteriye fiş (makineli kasanın önceki fıkrada
+belirtilen malumatı ihtiva eden fişi) verilmemesi halinde, perakende
+satış fişi tanzimi ve müşteriye verilmesi mecburidir.
 
-             **(Dördüncü fıkra mülga : 4/12/1985 - 3239/136 md.)**
+**(Dördüncü fıkra mülga : 4/12/1985 - 3239/136 md.)**
 
-             Gider pusulası:
+*Gider pusulası:*
 
-             **Madde 234 –** Birinci ve ikinci sınıf tüccarlar, kazancı
-basit usulde tespit edilenlerle  ^(1)^ defter tutmak mecburiyetinde olan
-serbest meslek erbabının ve çiftçilerin:
+**Madde 234 –** Birinci ve ikinci sınıf tüccarlar, kazancı basit usulde
+tespit edilenlerle ^(1)^ defter tutmak mecburiyetinde olan serbest
+meslek erbabının ve çiftçilerin:
 
-             1. **(Mülga : 22/7/1998 - 4369/82 md.)**
+1\. **(Mülga : 22/7/1998 - 4369/82 md.)**
 
-             2. **(Mülga : 22/7/1998 - 4369/82 md.)**
+2\. **(Mülga : 22/7/1998 - 4369/82 md.)**
 
-             3. Vergiden muaf esnafa; yaptırdıkları işler veya onlardan
-satın aldıkları emtia içinde tanzim edip işi yapana veya emtiayı satana
-imza ettirecekleri gider pusulası vergiden muaf esnaf ^(1)^ tarafından
+3\. Vergiden muaf esnafa; yaptırdıkları işler veya onlardan satın
+aldıkları emtia içinde tanzim edip işi yapana veya emtiayı satana imza
+ettirecekleri gider pusulası vergiden muaf esnaf ^(1)^ tarafından
 verilmiş fatura hükmündedir. Bu belge birinci ve ikinci sınıf
 tüccarların, zati eşyalarını satan kimselerden satın aldıkları altın,
 mücevher gibi kıymetli eşya için de tanzim edilir.
 
- 
-
 ——————————
 
-(1)  Bu maddelerde yeralan, "ikinci sınıf tüccarlarla", "kazançları
+*(1) Bu maddelerde yeralan, "ikinci sınıf tüccarlarla", "kazançları
 götürü usulde tespit olunan tüccarlara", "götürü usulde vergiye tabi
 tüccar ve serbest meslek erbabı ile vergiden muaf esnaf" ibareleri,
 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
+işlendiği şekilde değiştirilmiştir.*
 
-(2)  Bu fıkrada yeralan “Yukarıdakiler dışında kalanların, birinci ve
+*(2) Bu fıkrada yeralan “Yukarıdakiler dışında kalanların, birinci ve
 ikinci sınıf tüccarlardan ve defter tutmak mecburiyetinde olan
 çiftçilerden” ve “15.000.000 lirayı geçmesi veya bedeli 15.000.000
 liradan” ibareleri, 11/8/1999 tarihli ve 4444 sayılı Kanunun 13 üncü
-maddesiyle metne işlendiği şekilde değiştirilmiştir. 26/12/2011  tarihli
-ve 28154 sayılı Resmi Gazete'de yayımlanan Maliye Bakanlığının 411 Sıra
-No.’lu Tebliği ile 1/1/2012 tarihinden geçerli olmak üzere tespit edilen
-miktarlar ise metne parantez içinde siyah punto ile işlenmiştir. Daha
-önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT
-İLE YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
-
- 
+maddesiyle metne işlendiği şekilde değiştirilmiştir. 30/12/2013 tarihli
+ve 28867 (Mükerrer) sayılı Resmi Gazete'de yayımlanan Maliye
+Bakanlığının 432 Sıra No.’lu Tebliği ile 1/1/2014 tarihinden geçerli
+olmak üzere tespit edilen miktarlar ise metne parantez içinde siyah
+punto ile işlenmiştir. Daha önce yapılan değişiklikler için bu Kanunun
+sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ" ne
+bakınız.*
 
 3528
 
- 
+Gider pusulası, işin mahiyeti, emtianın cins ve nev'i ile miktar ve
+bedelini ve iş ücretini ve işi yaptıran ile yapanın veya emtiayı satın
+alan ile satanın adlariyle soyadlarını (Tüzel kişilerde unvanlarını) ve
+adreslerini ve tarihi ihtiva eder ve iki nüsha olarak tanzim ve bir
+nüshası işi yapana veya malı satana tevdi olunur.
 
-             Gider pusulası, işin mahiyeti, emtianın cins ve nev'i ile
-miktar ve bedelini ve iş ücretini ve işi yaptıran ile yapanın veya
-emtiayı satın alan ile satanın adlariyle soyadlarını (Tüzel kişilerde
-unvanlarını) ve adreslerini ve tarihi ihtiva eder ve iki nüsha olarak
-tanzim ve bir nüshası işi yapana veya malı satana tevdi olunur.
+**(Ek : 30/12/1980 - 2365/37 md.)** Gider pusulaları, seri ve sıra
+numarası dahilinde teselsül ettirilir.
 
-**             (Ek : 30/12/1980 - 2365/37 md.)** Gider pusulaları, seri
-ve sıra numarası dahilinde teselsül ettirilir.
+*Müstahsil makbuzu:*
 
-*             Müstahsil makbuzu:*
+**Madde 235 –** Birinci ve ikinci sınıf tüccarlar ile kazancı basit
+usulde tespit edilenler ve defter tutmak mecburiyetinde olan çiftçiler
+gerçek usulde vergiye tabi olmayan çiftçilerden satın aldıkları malların
+bedelini ödedikleri sırada iki nüsha makbuz tanzim etmeye ve bunlardan
+birini imzalıyarak satıcı çiftçiye vermeye ve diğerini ona imzalatarak
+almaya mecburdurlar. Mal tüccar veya çiftçi adına bir adamı veya
+mutavassıt tarafından alındığı takdirde makbuz bunlar tarafından tanzim
+ve imza olunur.^(1)^
 
-             **Madde 235 –** Birinci ve ikinci sınıf tüccarlar ile
-kazancı basit usulde tespit edilenler ve defter tutmak mecburiyetinde
-olan çiftçiler gerçek usulde vergiye tabi olmayan çiftçilerden satın
-aldıkları malların bedelini ödedikleri sırada iki nüsha makbuz tanzim
-etmeye ve bunlardan birini imzalıyarak satıcı çiftçiye vermeye ve
-diğerini ona imzalatarak almaya mecburdurlar. Mal tüccar veya çiftçi
-adına bir adamı veya mutavassıt tarafından alındığı takdirde makbuz
-bunlar tarafından tanzim ve imza olunur.^(1)^
+Çiftçiden avans üzerine yapılan mubayaalarda, makbuz, malın teslimi
+sırasında verilir.
 
-             Çiftçiden avans üzerine yapılan mubayaalarda, makbuz, malın
-teslimi sırasında verilir.
+Müstahsil makbuzunun tüccar vaya alıcı çiftçi nezdinde kalan nüshası
+fatura yerine geçer.
 
-             Müstahsil makbuzunun tüccar vaya alıcı çiftçi nezdinde
-kalan nüshası fatura yerine geçer.
+Müstahsil makbuzunda en az aşağıda yazılı bilgiler bulunur:
 
-             Müstahsil makbuzunda en az aşağıda yazılı bilgiler bulunur:
+1\. Makbuzun tarihi;
 
-             1. Makbuzun tarihi;
+2\. **(Değişik : 30/12/1980 - 2365/38 md.)** Malı satın alan tüccar veya
+çiftçinin soyadı, adı, unvanı ve adresi;
 
-             2. **(Değişik : 30/12/1980 - 2365/38 md.)** Malı satın alan
-tüccar veya çiftçinin soyadı, adı, unvanı ve adresi;
+3\. Malı satan çiftçinin soyadı, adı ve ikametgahı adresi;
 
-             3. Malı satan çiftçinin soyadı, adı ve ikametgahı adresi;
+4\. Satın alınan malın cinsi, miktarı ve bedeli.
 
-             4. Satın alınan malın cinsi, miktarı ve bedeli.
+Bu maddede yazılı makbuzlar hiçbir resim ve harca tabi değildir.
 
-             Bu maddede yazılı makbuzlar hiçbir resim ve harca tabi
-değildir.
-
-             **(Ek : 30/12/1980 - 2365/38 md.)** Müstahsil makbuzları
-seri ve sıra numarası dahilinde teselsül ettirilir.
-
- 
+**(Ek : 30/12/1980 - 2365/38 md.)** Müstahsil makbuzları seri ve sıra
+numarası dahilinde teselsül ettirilir.
 
 ÜÇÜNCÜ BÖLÜM
 
 *Serbest Meslek Makbuzları*
 
-*             Makbuz mecburiyeti:*
+*Makbuz mecburiyeti:*
 
-             **Madde 236 – (Değişik : 30/12/1980 - 2365/39 md.)**
+**Madde 236 – (Değişik : 30/12/1980 - 2365/39 md.)**
 
-             Serbest meslek erbabı, mesleki faaliyetlerine ilişkin her
-türlü tahsilatı için iki nüsha serbest meslek makbuzu tanzim etmek ve
-bir nüshasını müşteriye vermek, müşteri de bu makbuzu istemek ve almak
+Serbest meslek erbabı, mesleki faaliyetlerine ilişkin her türlü
+tahsilatı için iki nüsha serbest meslek makbuzu tanzim etmek ve bir
+nüshasını müşteriye vermek, müşteri de bu makbuzu istemek ve almak
 mecburiyetindedir.
 
-*             Makbuz muhteviyatı:*
+*Makbuz muhteviyatı:*
 
-             **Madde 237 – (Değişik : 30/12/1980 - 2365/40 md.)**
+**Madde 237 – (Değişik : 30/12/1980 - 2365/40 md.)**
 
-             Serbest meslek makbuzlarına:
+Serbest meslek makbuzlarına:
 
-             1. Makbuzu verenin soyadı adı veya unvanı, adresi, vergi
-dairesi ve hesap numarası;
+1\. Makbuzu verenin soyadı adı veya unvanı, adresi, vergi dairesi ve
+hesap numarası;
 
-             2. Müşterinin soyadı, adı veya unvanı ve adresi;
+2\. Müşterinin soyadı, adı veya unvanı ve adresi;
 
-             3. Alınan paranın miktarı;
+3\. Alınan paranın miktarı;
 
-             4. Paranın alındığı tarih;
+4\. Paranın alındığı tarih;
 
-             Yazılır ve bu makbuzlar serbest meslek erbabı tarafından
-imzalanır.
+Yazılır ve bu makbuzlar serbest meslek erbabı tarafından imzalanır.
 
-             Serbest meslek makbuzları seri ve sıra numarası dahilinde
-teselsül ettirilir.
-
- 
+Serbest meslek makbuzları seri ve sıra numarası dahilinde teselsül
+ettirilir.
 
 ——————————
 
-*(1)    Bu fıkrada yeralan "götürü usule tabi veya vergiden muaf
-çiftçilerden“  ibaresi, 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci
+*(1) Bu fıkrada yeralan "götürü usule tabi veya vergiden muaf
+çiftçilerden“ ibaresi, 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci
 maddesiyle, "Birinci ve ikinci sınıf tüccarlar ile" olarak daha sonra,
 11/8/1999 tarih ve 4444 sayılı Kanunun 13 üncü maddesiyle de metne
 işlendiği şekilde değiştirilmiştir.*
@@ -5517,80 +5615,76 @@ metne işlendiği şekilde değiştirilmiştir.*
 
 3533
 
- 
-
 adına kesilerek ondan tahsili olunur. Bu fıkra hükmüne göre tarh edilen
 vergi ve kesilen ceza, iş verene birer ihbarname ile tebliğ edilir.
 Kullanılacak ihbarnamelerin şeklini ve muhteviyatını Maliye Bakanlığı
 tayin eder.
 
-             Karnesiz tesbit edilen şahsa karnesi verilir ve vergisinin
-ödendiği karneye yazılır.
+Karnesiz tesbit edilen şahsa karnesi verilir ve vergisinin ödendiği
+karneye yazılır.
 
-             b) Karnesini zamanında almış ve vergisini tarh  ettirmiş
-olan hizmet erbabının zamanında ödenmemiş olan vergisi ve gecikme zammı,
-yanında çalıştığı tesbit edilen iş verenden tahsil olunur.
+b\) Karnesini zamanında almış ve vergisini tarh ettirmiş olan hizmet
+erbabının zamanında ödenmemiş olan vergisi ve gecikme zammı, yanında
+çalıştığı tesbit edilen iş verenden tahsil olunur.
 
-             İş verenler, yukarıki hükümlere göre ödedikleri vergiler
-için asıl mükelleflere rücu edebilirler.
+İş verenler, yukarıki hükümlere göre ödedikleri vergiler için asıl
+mükelleflere rücu edebilirler.
 
-             Karnelerin şekli, resim ve harçlardan muaf olduğu:
+*Karnelerin şekli, resim ve harçlardan muaf olduğu:*
 
-             **Madde 252 –** Vergi karnesinin şekli ve ihtiva edeceği
-bilgiler Maliye Bakanlığınca tesbit olunur.
+**Madde 252 –** Vergi karnesinin şekli ve ihtiva edeceği bilgiler Maliye
+Bakanlığınca tesbit olunur.
 
-             Gerek karneler, gerek bunların ihtiva ettiği kayıtlar
-hiçbir resme ve harca tabi değildir.Tasdik dolayısiyle muhtarların
-yüzbin **(2 TL)** lirayı geçmemek şartiyle harç almaları caizdir. ^(1)^
+Gerek karneler, gerek bunların ihtiva ettiği kayıtlar hiçbir resme ve
+harca tabi değildir.Tasdik dolayısiyle muhtarların yüzbin **(2,10 TL)**
+lirayı geçmemek şartiyle harç almaları caizdir. ^(1)^
 
 ALTINCI KISIM
 
-Muhafaza ve İbraz Ödevleri
+*Muhafaza ve İbraz Ödevleri*
 
-             Defter ve vesikaları muhafaza:
+*Defter ve vesikaları muhafaza:*
 
-             **Madde 253 –** Bu Kanuna göre defter tutmak mecburiyetinde
-olanlar, tuttukları defterlerle üçüncü kısımda yazılı vesikaları, ilgili
+**Madde 253 –** Bu Kanuna göre defter tutmak mecburiyetinde olanlar,
+tuttukları defterlerle üçüncü kısımda yazılı vesikaları, ilgili
 bulundukları yılı takibeden takvim yılından başlıyarak beş yıl süre ile
 muhafaza etmeye mecburdurlar.
 
-             Defter tutma mecburiyetinde olmıyanların muhafaza ödevi:
+*Defter tutma mecburiyetinde olmıyanların muhafaza ödevi:*
 
-             **Madde 254 –** Bu kanuna göre defter tutmak mecburiyetinde
-olmıyanlar, 232, 234 ve 235 inci maddeler mucibince almaya mecbur
-oldukları fatura ve gider pusulası ve müstahsil makbuzlarını tarih
-sırası ile tanzim tarihlerini takip eden takvim yılından başlıyarak beş
-yıl süre ile muhafaza etmeye mecburdurlar.
+**Madde 254 –** Bu kanuna göre defter tutmak mecburiyetinde olmıyanlar,
+232, 234 ve 235 inci maddeler mucibince almaya mecbur oldukları fatura
+ve gider pusulası ve müstahsil makbuzlarını tarih sırası ile tanzim
+tarihlerini takip eden takvim yılından başlıyarak beş yıl süre ile
+muhafaza etmeye mecburdurlar.
 
-             Karnelerin muhafazası:
+*Karnelerin muhafazası:*
 
-             **Madde 255 – (Değişik : 23/6/1982 - 2686/32 md.)**
+**Madde 255 – (Değişik : 23/6/1982 - 2686/32 md.)**
 
-             Mükellefler bu Kanuna göre aldıkları vergi karnelerini,
-işin devam ettiği, Gelir Vergisi Kanununa göre indirimlerle ilgili
-olanlar bu indirimlerden faydalandıkları sürece muhafaza ederler.
+Mükellefler bu Kanuna göre aldıkları vergi karnelerini, işin devam
+ettiği, Gelir Vergisi Kanununa göre indirimlerle ilgili olanlar bu
+indirimlerden faydalandıkları sürece muhafaza ederler.
 
-             Defter ve belgelerle diğer kayıtların ibraz mecburiyeti
-^(2)^
+*Defter ve belgelerle diğer kayıtların ibraz mecburiyeti ^(2)^*
 
-             **Madde 256 – (Değişik : 22/7/1998 - 4369/4 md.)**
+**Madde 256 – (Değişik : 22/7/1998 - 4369/4 md.)**
 
-             Geçen maddelerde yazılı gerçek ve tüzel kişiler ile
-mükerrer 257 nci madde ile getirilen zorunluluklara tabi olanlar,
-muhafaza etmek zorunda oldukları her türlü defter, belge ve karneler ile
-vermek zorunda bulundukları bilgilere ilişkin mikro fiş, mikro film,
-manyetik teyp, disket ve benzeri ortamlardaki kayıtlarını ve bu
-kayıtlara erişim veya kayıtları okunabilir hale getirmek için gerekli
-tüm bilgi ve şifreleri muhafaza süresi içerisinde yetkili makam ve
-memurların talebi üzerine ibraz ve inceleme için arz etmek
-zorundadırlar. Bu zorunluluk Maliye Bakanlığınca belirlenecek usule
-uygun olarak, tasdike konu hesap ve işlemlerin doğrulanması için gerekli
-kayıt ve belgelerle sınırlı olmak üzere, bu hesap ve işlemlere doğrudan
-ya da silsile yoluyla taraf olanlara, defter ve belglerinin tetkiki
-amacıyla yeminli mali müşavirler tarafından yapılan talepler için de
-geçerlidir.
+Geçen maddelerde yazılı gerçek ve tüzel kişiler ile mükerrer 257 nci
+madde ile getirilen zorunluluklara tabi olanlar, muhafaza etmek zorunda
+oldukları her türlü defter, belge ve karneler ile vermek zorunda
+bulundukları bilgilere ilişkin mikro fiş, mikro film, manyetik teyp,
+disket ve benzeri ortamlardaki kayıtlarını ve bu kayıtlara erişim veya
+kayıtları okunabilir hale getirmek için gerekli tüm bilgi ve şifreleri
+muhafaza süresi içerisinde yetkili makam ve memurların talebi üzerine
+ibraz ve inceleme için arz etmek zorundadırlar. Bu zorunluluk Maliye
+Bakanlığınca belirlenecek usule uygun olarak, tasdike konu hesap ve
+işlemlerin doğrulanması için gerekli kayıt ve belgelerle sınırlı olmak
+üzere, bu hesap ve işlemlere doğrudan ya da silsile yoluyla taraf
+olanlara, defter ve belglerinin tetkiki amacıyla yeminli mali müşavirler
+tarafından yapılan talepler için de geçerlidir.
 
-             Diğer ödevler:
+*Diğer ödevler:*
 
 **Madde 257 – (Değişik birinci fıkra : 30/12/1980 - 2365/44 md.)** Vergi
 inceleme ve kontrolları ile gayrimenkullerin rayiç bedelinin tespiti
@@ -5601,96 +5695,89 @@ mecburdurlar.
 göstermek ve resmi çalışma saatlerinde memurun müessesede çalışmasını
 sağlamak;
 
-             2. İnceleme ile ilgili her türlü izahatı vermek (Bu
-mecburiyet hem iş sahibine, hem de işletmede çalışan memurlara
-şamildir):
+2\. İnceleme ile ilgili her türlü izahatı vermek (Bu mecburiyet hem iş
+sahibine, hem de işletmede çalışan memurlara şamildir):
 
-             3. İncelemeye yetkili memurun, lüzumunda iş yerinin her
-tarafını gezip görmesini sağlamak;
-
- 
+3\. İncelemeye yetkili memurun, lüzumunda iş yerinin her tarafını gezip
+görmesini sağlamak;
 
 ——————————
 
-(1)  Bu fıkrada yer alan miktar, 22/7/1998 tarihli ve 4369 sayılı
+*(1) Bu fıkrada yer alan miktar, 22/7/1998 tarihli ve 4369 sayılı
 Kanunun 19 uncu maddesiyle değiştirilen Mükerrer 414 üncü maddesiyle
-“yüzbin”e yükseltilmiş, 26/12/2011 tarihli ve 28154   sayılı Resmi
-Gazete’de yayımlanan  Maliye Bakanlığının 411 Sıra No.’lu Tebliği ile
-1/1/2012 tarihinden geçerli olmak üzere tespit edilen miktar ise, metne
-parantez içinde siyah punto ile işlenmiştir.
+“yüzbin”e yükseltilmiş, 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı
+Resmi Gazete'de yayımlanan Maliye Bakanlığının 432 Sıra No.’lu Tebliği
+ile 1/1/2014 tarihinden geçerli olmak üzere tespit edilen miktar ise,
+metne parantez içinde siyah punto ile işlenmiştir.*
 
-(2)  Madde başlığı, 22/7/1998 tarih ve 4369 sayılı Kanun ile metne
-işlendiği şekilde değiştirilmiştir.
+*(2) Madde başlığı, 22/7/1998 tarih ve 4369 sayılı Kanun ile metne
+işlendiği şekilde değiştirilmiştir.*
 
 3534
 
- 
-
-             4. **(Değişik : 23/6/1982 - 2686/33 md.)** Bina ve arazinin
-rayiç bedelinin tespitinde değeri tespit edilecek bina ve araziyi Emlak
+4\. **(Değişik : 23/6/1982 - 2686/33 md.)** Bina ve arazinin rayiç
+bedelinin tespitinde değeri tespit edilecek bina ve araziyi Emlak
 Vergisi Kanununun 31 nci maddesine göre Maliye Bakanlığınca yetkili
 kılınan memurlara gösterip gezdirmek, bu gibi gayrimenkullerin genel
 ahvaline, kullanılış tarzına ve kirada ise kiranın miktarına müteallik
 her türlü bilgileri vermek (Bu fıkrada yazılı mecburiyetler kiracılara
 da şamildir);
 
-             5. **(Ek : 30/12/1980 - 2365/44 md.)** İşletmede 134 ncü
-madde gereğince envanter yapılması halinde araç, gereç ve personeliyle
-bu işlemlerin intacına gerekli yardım ve kolaylığı göstermek.
+5\. **(Ek : 30/12/1980 - 2365/44 md.)** İşletmede 134 ncü madde gereğince
+envanter yapılması halinde araç, gereç ve personeliyle bu işlemlerin
+intacına gerekli yardım ve kolaylığı göstermek.
 
-*             Yetki:*
+*Yetki:*
 
-             **Mükerrer Madde 257 – (Ek : 30/12/1980 - 2365/45 md.)**
+**Mükerrer Madde 257 – (Ek : 30/12/1980 - 2365/45 md.)**
 
-             **(Değişik birinci fıkra : 22/7/1998 - 4369/5 md.)** Maliye
-Bakanlığı;
+**(Değişik birinci fıkra : 22/7/1998 - 4369/5 md.)** Maliye Bakanlığı;
 
-             1. Mükellef ve meslek grupları itibariyle muhasebe usul ve
-esaslarını tespit etmeye,bu Kanuna göre tutulmakta olan defter ve
-belgeler ile bunlara ilaveten tutulmasını veya düzenlenmesini uygun
-gördüğü defter ve belgelerin mahiyet, şekil ve ihtiva etmesi zorunlu
-bilgileri belirlemeye, bunlarda değişiklik yapmaya; bedeli karşılığında
-basıp dağıtmaya veya üçüncü kişilere bastırıp dağıtmaya veya
-dağıttırmaya, bunların kayıtlarını tutturmaya, bu defter ve belgelere
-tasdik, muhafaza ve ibraz zorunluluğu getirmeye veya kaldırmaya,bu
-Kanuna göre tutulacak defter ve düzenlenecek belgelerin tutulması ve
-düzenlenmesi zorunluluğunu kaldırmaya,
+1\. Mükellef ve meslek grupları itibariyle muhasebe usul ve esaslarını
+tespit etmeye,bu Kanuna göre tutulmakta olan defter ve belgeler ile
+bunlara ilaveten tutulmasını veya düzenlenmesini uygun gördüğü defter ve
+belgelerin mahiyet, şekil ve ihtiva etmesi zorunlu bilgileri
+belirlemeye, bunlarda değişiklik yapmaya; bedeli karşılığında basıp
+dağıtmaya veya üçüncü kişilere bastırıp dağıtmaya veya dağıttırmaya,
+bunların kayıtlarını tutturmaya, bu defter ve belgelere tasdik, muhafaza
+ve ibraz zorunluluğu getirmeye veya kaldırmaya,bu Kanuna göre tutulacak
+defter ve düzenlenecek belgelerin tutulması ve düzenlenmesi
+zorunluluğunu kaldırmaya,
 
-             2. Mükelleflere muameleleri ile ilgili tahsilat ve
-ödemelerini banka, benzeri finans kurumları veya posta idarelerince
-düzenlenen belgelerle tevsik etmeleri zorunluluğunu getirmeye ve bu
-zorunluluğun kapsamını ve uygulamaya ilişkin usul ve esaslarını
-belirlemeye,^(1)^
+2\. Mükelleflere muameleleri ile ilgili tahsilat ve ödemelerini banka,
+benzeri finans kurumları veya posta idarelerince düzenlenen belgelerle
+tevsik etmeleri zorunluluğunu getirmeye ve bu zorunluluğun kapsamını ve
+uygulamaya ilişkin usul ve esaslarını belirlemeye,^(1)^
 
-             3. Tutulması ve düzenlenmesi zorunlu defter, kayıt ve
-belgelerin mikro film, mikro fiş veya elektronik bilgi ve kayıt
-araçlarıyla yapılması veya bu kayıt ortamlarında saklanması hususunda
-izin vermeye veya zorunluluk getirmeye, bu şekilde tutulacak defter ve
-kayıtların kopyalarının Maliye Bakanlığında veya Muhafaza etmekle
-görevlendireceği kurumlarda saklanması zorunluluğu getirmeye, bu konuda
-uygulama usul ve esaslarını belirlemeye,
+3\. Tutulması ve düzenlenmesi zorunlu defter, kayıt ve belgelerin mikro
+film, mikro fiş veya elektronik bilgi ve kayıt araçlarıyla yapılması
+veya bu kayıt ortamlarında saklanması hususunda izin vermeye veya
+zorunluluk getirmeye, bu şekilde tutulacak defter ve kayıtların
+kopyalarının Maliye Bakanlığında veya Muhafaza etmekle görevlendireceği
+kurumlarda saklanması zorunluluğu getirmeye, bu konuda uygulama usul ve
+esaslarını belirlemeye,
 
-           4. **(Değişik: 16/7/2004-5228/8 md.)** Bu Kanunun 149 uncu
-maddesine göre devamlı bilgi vermek zorunda olanlardan istenilen
-bilgiler ile vergi beyannameleri ve bildirimlerin, şifre, elektronik
-imza veya diğer güvenlik araçları konulmak suretiyle internet de dahil
-olmak üzere her türlü elektronik bilgi iletişim araç ve ortamında
-verilmesi, beyanname ve bildirimlerin yetki verilmiş gerçek veya tüzel
-kişiler aracı kılınarak gönderilmesi hususlarında izin vermeye veya
-zorunluluk getirmeye, beyanname, bildirim ve bilgilerin aktarımında
-uyulacak format ve standartlar ile uygulamaya ilişkin usul ve esasları
-tespit etmeye, bu zorunluluğu beyanname, bildirim veya bilgi çeşitleri,
-mükellef grupları ve faaliyet konuları itibarıyla ayrı ayrı uygulatmaya,
-**(Ek ibare: 3/7/2005 –** **5398/23 md.)** kanuni süresinden sonra
-kendiliğinden veya pişmanlık talepli olarak verilen beyannameler üzerine
-düzenlenen tahakkuk fişi ve/veya ihbarnameleri mükellefe, vergi
-sorumlusuna veya bunların elektronik ortamda beyanname gönderme yetkisi
-verdiği gerçek veya tüzel kişiye elektronik ortamda tebliğ etmeye ve
-buna ilişkin usûl ve esasları belirlemeye,^(2)^
+4\. **(Değişik: 16/7/2004-5228/8 md.)** Bu Kanunun 149 uncu maddesine
+göre devamlı bilgi vermek zorunda olanlardan istenilen bilgiler ile
+vergi beyannameleri ve bildirimlerin, şifre, elektronik imza veya diğer
+güvenlik araçları konulmak suretiyle internet de dahil olmak üzere her
+türlü elektronik bilgi iletişim araç ve ortamında verilmesi, beyanname
+ve bildirimlerin yetki verilmiş gerçek veya tüzel kişiler aracı
+kılınarak gönderilmesi hususlarında izin vermeye veya zorunluluk
+getirmeye, beyanname, bildirim ve bilgilerin aktarımında uyulacak format
+ve standartlar ile uygulamaya ilişkin usul ve esasları tespit etmeye, bu
+zorunluluğu beyanname, bildirim veya bilgi çeşitleri, mükellef grupları
+ve faaliyet konuları itibarıyla ayrı ayrı uygulatmaya, **(Ek ibare:
+3/7/2005 - 5398/23 md.)** kanuni süresinden sonra kendiliğinden veya
+pişmanlık talepli olarak verilen beyannameler üzerine düzenlenen
+tahakkuk fişi ve/veya ihbarnameleri mükellefe, vergi sorumlusuna veya
+bunların elektronik ortamda beyanname gönderme yetkisi verdiği gerçek
+veya tüzel kişiye elektronik ortamda tebliğ etmeye ve buna ilişkin usûl
+ve esasları belirlemeye,^(2)^
 
 ——————————
 
-*(1)   30/7/2003 tarihli ve 4962 sayılı Kanunun 17 nci maddesiyle, bu
+*(1) 30/7/2003 tarihli ve 4962 sayılı Kanunun 17 nci maddesiyle, bu
 fıkrada yer alan "banka veya benzeri finans kurumlarınca" ibaresi,
 "banka, benzeri finans kurumları veya posta idarelerince" olarak
 değiştirilmiş ve metne işlenmiştir.*
@@ -5702,8 +5789,6 @@ ihbarnameleri mükellefe, vergi sorumlusuna veya bunların elektronik
 ortamda beyanname gönderme yetkisi verdiği gerçek veya tüzel kişiye
 elektronik ortamda tebliğ etmeye ve buna ilişkin usûl ve esasları
 belirlemeye,” ibaresi eklenmiş ve metne işlemiştir.*
-
- 
 
 3534-1
 
@@ -5765,7 +5850,7 @@ tahakkuk fişi ve/veya ihbarnamenin muhatabına tebliği yerine geçer.
 
  
 
-3535
+*3535*
 
  
 
@@ -6057,86 +6142,78 @@ maddesi ile değiştirilmiş ve metne işlenmiştir.*
 
 3538
 
- 
+5\. Ambalajlı olarak piyasaya arz edilmesi zaruri olan mamullerde ambalaj
+malzemesinin bedeli.
 
-             5. Ambalajlı olarak piyasaya arz edilmesi zaruri olan
-mamullerde ambalaj malzemesinin bedeli.
+Mükellefler, imal ettikleri emtianın maliyet bedellerini yukarıki
+unsurları ihtiva etmek şartiyle diledikleri usulde tayin edebilirler.
 
-             Mükellefler, imal ettikleri emtianın maliyet bedellerini
-yukarıki unsurları ihtiva etmek şartiyle diledikleri usulde tayin
-edebilirler.
+**(Üçüncü fıkra mülga: 30/12/1980 - 2365/51 md.)**
 
-             **(Üçüncü fıkra mülga: 30/12/1980 - 2365/51 md.)**
+*Zirai mahsuller:*
 
-*             Zirai mahsuller:*
+**Madde 276 –** Zirai mahsuller maliyet bedeli ile değerlenir. Maliyet
+bedeli, zirai mahsullerin hususiyetlerine göre 275 inci maddede yazılı
+unsurlara mütenazır olarak Maliye Bakanlığınca tesbit edilecek esaslar
+dairesinde hesaplanır.
 
-             **Madde 276 –** Zirai mahsuller maliyet bedeli ile
-değerlenir. Maliyet bedeli, zirai mahsullerin hususiyetlerine göre 275
-inci maddede yazılı unsurlara mütenazır olarak Maliye Bakanlığınca
-tesbit edilecek esaslar dairesinde hesaplanır.
+*Hayvanlar:*
 
-*             Hayvanlar:*
+**Madde 277 – (Değişik : 19/2/1963 - 205/18 md.)**
 
-             **Madde 277 – (Değişik : 19/2/1963 - 205/18 md.)**
+Zirai işletmelere dahil hayvanlar maliyet bedeli ile değerlenir. Maliyet
+bedelinin tesbiti mümkün olmıyan ahvalde maliyet bedeli yerine emsal
+bedeli alınır. Bu hükmün tatbikında emsal bedeli, işletmenin bulunduğu
+mahal (Gezici hayvancılıkta kışlak) için zirai kazanç komisyonlarınca
+tesbit edilmiş olan ortalama maliyet bedelidir.
 
-             Zirai işletmelere dahil hayvanlar maliyet bedeli ile
-değerlenir. Maliyet bedelinin tesbiti mümkün olmıyan ahvalde maliyet
-bedeli yerine emsal bedeli alınır. Bu hükmün tatbikında emsal bedeli,
-işletmenin bulunduğu mahal (Gezici hayvancılıkta kışlak) için zirai
-kazanç komisyonlarınca tesbit edilmiş olan ortalama maliyet bedelidir.
+*Kıymeti düşen mallar:*
 
-*             Kıymeti düşen mallar:*
+**Madde 278 –** Yangın, deprem ve su basması gibi afetler yüzünden
+veyahut bozulmak, çürümek, kırılmak, çatlamak, paslanmak gibi haller
+neticesinde iktisadi kıymetlerinde önemli bir azalış vakı olan emtia ile
+maliyetlerinin hesaplanması mütat olmıyan hurdalar ve döküntüler,
+üstüpü, deşe ve ıskartalar emsal bedeli ile değerlenir.
 
-             **Madde 278 –** Yangın, deprem ve su basması gibi afetler
-yüzünden veyahut bozulmak, çürümek, kırılmak, çatlamak, paslanmak gibi
-haller neticesinde iktisadi kıymetlerinde önemli bir azalış vakı olan
-emtia ile maliyetlerinin hesaplanması mütat olmıyan hurdalar ve
-döküntüler, üstüpü, deşe ve ıskartalar emsal bedeli ile değerlenir.
+*Menkul kıymetler:*
 
-*             Menkul kıymetler:*
+**Madde 279 – (Değişik : 22/7/1998 - 4369/6 md.)**
 
-             **Madde 279 – (Değişik : 22/7/1998 - 4369/6 md.)**
+Hisse senetleri ile fon portföyünün en az % 51'i Türkiye'de kurulmuş
+bulunan şirketlerin hisse senetlerinden oluşan yatırım fonu katılma
+belgeleri alış bedeliyle, bunlar dışında kalan her türlü menkul kıymet
+borsa rayici ile değerlenir. Borsa rayici yoksa veya borsa rayicinin
+muvazaalı bir şekilde oluştuğu anlaşılırsa değerlemeye esas bedel,
+menkul kıymetin alış bedeline vadesinde elde edilecek gelirin (kur
+farkları dahil) iktisap tarihinden değerleme gününe kadar geçen süreye
+isabet eden kısmının eklenmesi suretiyle hesaplanır. Ancak, borsa rayici
+bulunmayan, getirisi ihraç edenin kar ve zararına bağlı olarak doğan ve
+değerleme günü itibariyle hesaplanması mümkün olmayan menkul kıymetler,
+alış bedeli ile değerlenir.
 
-             Hisse senetleri ile fon portföyünün en az % 51'i Türkiye'de
-kurulmuş bulunan şirketlerin hisse senetlerinden oluşan yatırım fonu
-katılma belgeleri alış bedeliyle, bunlar dışında kalan her türlü menkul
-kıymet borsa rayici ile değerlenir. Borsa rayici yoksa veya borsa
-rayicinin muvazaalı bir şekilde oluştuğu anlaşılırsa değerlemeye esas
-bedel, menkul kıymetin alış bedeline vadesinde elde edilecek gelirin
-(kur farkları dahil) iktisap tarihinden değerleme gününe kadar geçen
-süreye isabet eden kısmının eklenmesi suretiyle hesaplanır. Ancak, borsa
-rayici bulunmayan, getirisi ihraç edenin kar ve zararına bağlı olarak
-doğan ve değerleme günü itibariyle hesaplanması mümkün olmayan menkul
-kıymetler, alış bedeli ile değerlenir.
+*Yabancı paralar: ^(1)^*
 
-            Yabancı paralar: ^(1)^
+**Madde 280 – (Değişik birinci fıkra : 26/6/1964 - 485/7 md.)** Yabancı
+paralar borsa rayici ile değerlenir. Borsa rayicinin takarrüründe
+muvazaa olduğu anlaşılırsa bu rayiç yerine alış bedeli esas alınır.
 
-             **Madde 280 – (Değişik birinci fıkra : 26/6/1964 - 485/7
-md.)** Yabancı paralar borsa rayici ile değerlenir. Borsa rayicinin
-takarrüründe muvazaa olduğu anlaşılırsa bu rayiç yerine alış bedeli esas
-alınır.
+Yabancı paranın borsada rayici yoksa, değerlemeye uygulanacak kur Maliye
+Bakanlığınca tesbit olunur.
 
-             Yabancı paranın borsada rayici yoksa, değerlemeye
-uygulanacak kur Maliye Bakanlığınca tesbit olunur.
+**(Değişik : 22/7/1998 - 4369/7 md.)** Bu madde hükmü yabancı para ile
+olan senetli veya senetsiz alacaklar ve borçlar hakkında da caridir.
+Bunlardan vadesi gelmemiş senede bağlı alacak ve borçlar, bu Kanunun 281
+ve 285 inci maddeleri uyarınca değerleme günü kıymetine irca edilebilir.
+Ancak senette faiz oranının yazılı olmadığı durumlarda değerleme gününde
+geçerli olan Londra Bankalar Arası Faiz Oranı (LİBOR) esas alınır.
 
-             **(Değişik : 22/7/1998 - 4369/7 md.)** Bu madde hükmü
-yabancı para ile olan senetli veya senetsiz alacaklar ve borçlar
-hakkında da caridir. Bunlardan vadesi gelmemiş senede bağlı alacak ve
-borçlar, bu Kanunun 281 ve 285 inci maddeleri uyarınca değerleme günü
-kıymetine irca edilebilir. Ancak senette faiz oranının yazılı olmadığı
-durumlarda değerleme gününde geçerli olan Londra Bankalar Arası Faiz
-Oranı (LİBOR) esas alınır.
-
-             **(Ek fıkra: 22/7/1998 - 4369/7 md. ; Mülga :
-17/12/2003-5024/9 md.) **
+**(Ek fıkra: 22/7/1998 - 4369/7 md. ; Mülga : 17/12/2003-5024/9 md.) **
 
 **–––––––––––**
 
-*(1) Bu maddede yer alan kur tespiti ile ilgili olarak, 20/1/2011
-tarihli ve 27821 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının
-(Sıra No: 404) numaralı Tebliğine bakınız.*
-
- 
+*(1) Bu maddede yer alan kur tespiti ile ilgili olarak, 23/1/2014
+tarihli ve 28891 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının
+(Sıra No: 434) numaralı Tebliğine bakınız.*
 
 3538-1
 
@@ -6824,9 +6901,9 @@ genel endeksi" ve "TEFE" ibaresi "ÜFE" olarak uygulanır.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 10/11/2012 tarihli ve 28463 sayılı Resmi Gazete’de yayımlanan
-Maliye Bakanlığı’nın 419 Sıra Nolu Tebliği ile 2012 yılı için yeniden
-değerleme oranı % 7,80 ( yedi virgül seksen) olarak tespit edilmiştir.*
+*(1) 19/11/2013 tarihli ve 28826 sayılı Resmi Gazete’de yayımlanan
+Maliye Bakanlığı’nın 430 Sıra Nolu Tebliği ile 2013 yılı için yeniden
+değerleme oranı % 3,93 (üç virgül doksan üç) olarak tespit edilmiştir.*
 
  
 
@@ -6983,189 +7060,174 @@ alım-satım kıymetidir.
 
 3545
 
- 
+Arazi kıymetinin tahmininde aşağıdaki esaslar nazara alınır:
 
-             Arazi kıymetinin tahmininde aşağıdaki esaslar nazara
-alınır:
+1\. Normal şartlar dahilinde ve genel surette arazinin bulunduğu birlikte
+arazi satış kıymetlerinin seviyesi;
 
-             1. Normal şartlar dahilinde ve genel surette arazinin
-bulunduğu birlikte arazi satış kıymetlerinin seviyesi;
+2\. Aynı neviden arazinin satış kıymetleri;
 
-             2. Aynı neviden arazinin satış kıymetleri;
+3\. Arazinin mevkii;
 
-             3. Arazinin mevkii;
+4\. Tarımda kullanılan arazinin yetiştirme kuvveti, sulaklık derecesi,
+tarımın nev'i;
 
-             4. Tarımda kullanılan arazinin yetiştirme kuvveti, sulaklık
-derecesi, tarımın nev'i;
+5\. Arazinin büyüklüğü ve küçüklüğü;
 
-             5. Arazinin büyüklüğü ve küçüklüğü;
+6\. Meskün yerlere, iskele ve istasyonlara yakınlığı.
 
-             6. Meskün yerlere, iskele ve istasyonlara yakınlığı.
+*Kıymet rayiçleri:*
 
-             Kıymet rayiçleri:
+**Madde 310 –** Arazi kıymetinin tahmininde genel tahririn veya mevzii
+tadilatın başladığı, ferdi tadilat halinde tadilatın yapıldığı yılda
+cari satış kıymetleri esas tutulur.
 
-             **Madde 310 –** Arazi kıymetinin tahmininde genel tahririn
-veya mevzii tadilatın başladığı, ferdi tadilat halinde tadilatın
-yapıldığı yılda cari satış kıymetleri esas tutulur.
+*Kıymet - kira münasebeti:*
 
-             Kıymet - kira münasebeti:
-
-             **Madde 311 –** Tahrir (Genel tahrir ve tadilat) esnasında
-arazinin alım, satım kıymetlerinin tayini mümkün olmazsa, o yerin kiraya
+**Madde 311 –** Tahrir (Genel tahrir ve tadilat) esnasında arazinin
+alım, satım kıymetlerinin tayini mümkün olmazsa, o yerin kiraya
 verilmesi halinde getireceği kira tahmin ve bunun 10 misli arazinin
 kıymeti olarak kabul edilir.
 
-             Arazide kira:
+*Arazide kira:*
 
-             **Madde 312 –** Bir arazinin getireceği kiranın bilinmesi
-icabeden hallerde arazi kıymetinin onda biri emsal kirası sayılır.
-
- 
+**Madde 312 –** Bir arazinin getireceği kiranın bilinmesi icabeden
+hallerde arazi kıymetinin onda biri emsal kirası sayılır.
 
 ÜÇÜNCÜ KISIM
 
-Amortismanlar
+*Amortismanlar*
 
 BİRİNCİ BÖLÜM
 
-Mevcutlarda Amortisman
+*Mevcutlarda Amortisman*
 
-             Amortisman mevzuu:
+*Amortisman mevzuu:*
 
-             **Madde 313 – (Değişik birinci fıkra : 21/1/1983 - 2791/6
-md.)** İşletmede bir yıldan fazla kullanılan ve yıpranmaya, aşınmaya
-veya kıymetten düşmeye maruz bulunan gayrimenkullerle 269 uncu madde
+**Madde 313 – (Değişik birinci fıkra : 21/1/1983 - 2791/6 md.)**
+İşletmede bir yıldan fazla kullanılan ve yıpranmaya, aşınmaya veya
+kıymetten düşmeye maruz bulunan gayrimenkullerle 269 uncu madde
 gereğince gayrimenkul gibi değerlenen iktisadi kıymetlerin, alet,
 edevat, mefruşat, demirbaş ve sinema filmlerinin birinci kısımdaki
 esaslara göre tespit edilen değerinin, bu Kanun hükümlerine göre yok
 edilmesi amortisman mevzuunu teşkil eder.
 
-             **(Ek : 22/7/1998 - 4369/8 md.)** İlgili mevzuat gereğince
-sözleşme süresinden sonra bedelsiz olarak Devlete veya Devletçe tensip
-olunan bir teşekküle veya belediyeye intikali öngörülen amortismana tabi
-iktisadi kıymetlerden (sözleşme süresinde yenilenmesi gerekenler hariç),
-sermayenin veya özel maliyet bedellerinin  itfası hükümlerine göre
+**(Ek : 22/7/1998 - 4369/8 md.)** İlgili mevzuat gereğince sözleşme
+süresinden sonra bedelsiz olarak Devlete veya Devletçe tensip olunan bir
+teşekküle veya belediyeye intikali öngörülen amortismana tabi iktisadi
+kıymetlerden (sözleşme süresinde yenilenmesi gerekenler hariç),
+sermayenin veya özel maliyet bedellerinin itfası hükümlerine göre
 amortismana tabi tutulanlar, genel hükümler uyarınca ayrıca amortismana
 tabi tutulamazlar.
 
-             **(Ek : 30/12/1980 - 2365/54 md.)** Değeri 50.000.000
-**(770 TL)** lirayı aşmayan peştemallıklar ile işletmede kullanılan ve
-değeri 50.000.000 **(770 TL)** lirayı aşmayan alet,edavat,mefruşat ve
+**(Ek : 30/12/1980 - 2365/54 md.)** Değeri 50.000.000 **(800 TL)**
+lirayı aşmayan peştemallıklar ile işletmede kullanılan ve değeri
+50.000.000 **(800 TL)** lirayı aşmayan alet,edavat,mefruşat ve
 demirbaşlar amortismana tabi tutulmayarak doğrudan doğruya gider
 yazılabilir. İktisadi ve teknik bakımdan bütünlük arz edenlerde bu had
 topluca dikkate alınır. ^(1)^
 
-             Arazide amortisman:
+*Arazide amortisman:*
 
-             **Madde 314 –** Boş arazi ve boş arsalar amortismana tabi
-değildir.
+**Madde 314 –** Boş arazi ve boş arsalar amortismana tabi değildir.
 
-             Ancak:
+*Ancak:*
 
-             1. Tarım işletmelerinde vücuda getirilen meyvalık, dutluk,
-fındıklık, zeytinlik ve güllüklerle incir bahçeleri ve bağlar gibi tarım
-tesisleri;
+1\. Tarım işletmelerinde vücuda getirilen meyvalık, dutluk, fındıklık,
+zeytinlik ve güllüklerle incir bahçeleri ve bağlar gibi tarım tesisleri;
 
-             2. İşletmede inşa edilmiş olan her nevi yollar ve harklar;
+2\. İşletmede inşa edilmiş olan her nevi yollar ve harklar;
 
-             Amortismana tabi tutulur.
+Amortismana tabi tutulur.
 
 ——————————
 
-\(1) Bu fıkrada yer alan miktarlar 22/7/1998 tarihli ve 4369 sayılı
+*(1) Bu fıkrada yer alan miktarlar 22/7/1998 tarihli ve 4369 sayılı
 Kanunun 19 uncu maddesiyle değiştirilen Mükerrer 414 üncü madde hükmüne
-istinaden "50.000.000 "a  yükseltilmiş, 26/12/2011 tarihli ve 28154
-sayılı Resmi Gazete’de yayımlanan  Maliye Bakanlığının 411 Sıra No.’lu
-Tebliği ile 1/1/2012 tarihinden geçerli olmak üzere tespit edilen miktar
-ise, metne parantez içinde siyah punto ile işlenmiştir. Daha önce
-Kararname ile yapılan değişiklikler için bu Kanunun sonundaki
-"KARARNAMELER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne bakınız.
-
- 
+istinaden "50.000.000 "a yükseltilmiş, 30/12/2013 tarihli ve 28867
+(Mükerrer) sayılı Resmi Gazete'de yayımlanan Maliye Bakanlığının 432
+Sıra No.’lu Tebliği ile 1/1/2014 tarihinden geçerli olmak üzere tespit
+edilen miktar ise, metne parantez içinde siyah punto ile işlenmiştir.
+Daha önce Kararname ile yapılan değişiklikler için bu Kanunun sonundaki
+"KARARNAMELER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne bakınız.*
 
 3546
 
- 
+*Normal amortisman:*
 
-*             Normal amortisman:*
+**Madde 315 – (Değişik : 17/12/2003-5024/3 md.)**
 
-             **Madde 315 – (Değişik : 17/12/2003-5024/3 md.)**
+Mükellefler amortismana tâbi iktisadî kıymetlerini Maliye Bakanlığının
+tespit ve ilân edeceği oranlar üzerinden itfa ederler. İlân edilecek
+oranların tespitinde iktisadî kıymetlerin faydalı ömürleri dikkate
+alınır.
 
-**            ** Mükellefler amortismana tâbi iktisadî kıymetlerini
-Maliye Bakanlığının tespit ve ilân edeceği oranlar üzerinden itfa
-ederler. İlân edilecek oranların tespitinde iktisadî kıymetlerin faydalı
-ömürleri dikkate alınır.
+*Azalan bakiyeler usulüyle amortisman:*
 
-*             Azalan bakiyeler usulüyle amortisman:*
+**Mükerrer Madde 315 – (Ek : 19/2/1963 - 205/19 md.)**
 
-             **Mükerrer Madde 315 – (Ek : 19/2/1963 - 205/19 md.)**
+Bilanço esasına göre defter tutan mükelleflerden dileyenler, amortismana
+tabi iktisadi değerlerini, azalan bakıyeler üzerinden amortisman usulü
+ile yok edebilirler.
 
-             Bilanço esasına göre defter tutan mükelleflerden
-dileyenler, amortismana tabi iktisadi değerlerini, azalan bakıyeler
-üzerinden amortisman usulü ile yok edebilirler.
+Bu usulün tatbikinde;
 
-             Bu usulün tatbikinde;
+1\. Her yıl, üzerinden amortisman hesaplanacak değer, evvelce ayrılmış
+olan amortismanlar toplamının tenzili suretiyle tesbit olunur. **(Ek
+hüküm: 17/12/2003-5024/4 md.)** Enflasyon düzeltmesi yapılan dönemlerde,
+üzerinden amortisman ayrılacak değer, amortismana tâbi iktisadî kıymetin
+düzeltilmiş değerinden daha evvel ayrılmış olan amortismanların
+toplamının taşınmış değerleri indirilmek suretiyle tespit edilir.
 
-             1. Her yıl, üzerinden amortisman hesaplanacak değer,
-evvelce ayrılmış olan amortismanlar toplamının tenzili suretiyle tesbit
-olunur. **(Ek hüküm: 17/12/2003-5024/4 md.)** Enflasyon düzeltmesi
-yapılan dönemlerde, üzerinden amortisman ayrılacak değer, amortismana
-tâbi iktisadî kıymetin düzeltilmiş değerinden daha evvel ayrılmış olan
-amortismanların toplamının taşınmış değerleri indirilmek suretiyle
-tespit edilir.
+2\. **(Değişik: 17/12/2003-5024/4 md.)** Bu usulde uygulanacak amortisman
+oranı % 50'yi geçmemek üzere normal amortisman oranının iki katıdır.
+^(1)^
 
-             2. **(Değişik: 17/12/2003-5024/4 md.)** Bu usulde
-uygulanacak amortisman oranı % 50'yi geçmemek üzere normal amortisman
-oranının iki katıdır. ^(1)^
+3\. Bu usulde amortisman süresi normal amortisman nispetlerine göre
+hesaplanır.
 
-             3. Bu usulde amortisman süresi normal amortisman
-nispetlerine göre hesaplanır.
+Bu sürenin son yılına devreden bakıye değer, o yıl tamamen yok edilir.
 
-             Bu sürenin son yılına devreden bakiye değer, o yıl tamamen
-yok edilir.
+*Madenlerde amortisman:*
 
-*             Madenlerde amortisman:*
+**Madde 316 –** İşletme sebebiyle içindeki cevherin azalmasından dolayı
+maddi değerini kaybeden madenlerin ve taş ocaklarının imtiyaz veya
+maliyet bedelleri, ilgililerin, müracaatları üzerine bunların büyüklük
+ve mahiyetleri göz önünde tutulmak ve her maden veya taş ocağı için ayrı
+ayrı olmak üzere Maliye ve Sanayi Bakanlıklarınca belli edilecek
+nispetler üzerinden yok edilir.
 
-             **Madde 316 –** İşletme sebebiyle içindeki cevherin
-azalmasından dolayı maddi değerini kaybeden madenlerin ve taş
-ocaklarının imtiyaz veya maliyet bedelleri, ilgililerin, müracaatları
-üzerine bunların büyüklük ve mahiyetleri göz önünde tutulmak ve her
-maden veya taş ocağı için ayrı ayrı olmak üzere Maliye ve Sanayi
-Bakanlıklarınca belli edilecek nispetler üzerinden yok edilir.
+*Fevkalade amortisman:*
 
-*             Fevkalade amortisman:*
+**Madde 317 –** Amortismana tabi olup:
 
-             **Madde 317 –** Amortismana tabi olup:
+1\. Yangın, deprem, su basması gibi afetler neticesinde değerini tamamen
+veya kısmen kaybeden;
 
-             1. Yangın, deprem, su basması gibi afetler neticesinde
-değerini tamamen veya kısmen kaybeden;
+2\. Yeni icatlar dolayısiyle teknik verim ve kıymetleri düşerek tamamen
+veya kısmen kullanılmaz bir hale gelen;
 
-             2. Yeni icatlar dolayısiyle teknik verim ve kıymetleri
-düşerek tamamen veya kısmen kullanılmaz bir hale gelen;
+3\. Cebri çalışmaya tabi tutuldukları için normalden fazla aşınma ve
+yıpranmaya maruz kalan;
 
-             3. Cebri çalışmaya tabi tutuldukları için normalden fazla
-aşınma ve yıpranmaya maruz kalan;
+Menkul ve gayrimenkullerle haklara, mükelleflerin müracaatları üzerine
+ve ilgili Bakanlıkların mütalaası alınmak suretiyle, Maliye Bakanlığınca
+her işletme için işin mahiyetine göre ayrı ayrı belli edilen "Fevkalade
+ekonomik ve teknik amortisman nispetleri" uygulanır.
 
-             Menkul ve gayrimenkullerle haklara, mükelleflerin
-müracaatları üzerine ve ilgili Bakanlıkların mütalaası alınmak
-suretiyle, Maliye Bakanlığınca her işletme için işin mahiyetine göre
-ayrı ayrı belli edilen "Fevkalade ekonomik ve teknik amortisman
-nispetleri" uygulanır.
+*Amortisman nispetlerinin itibar tarihi:*
 
-*             Amortisman nispetlerinin itibar tarihi:*
+**Madde 318 –** Maliye Bakanlığınca tesbit ve ilan olunan amortisman
+nispetleri ilanların yapıldığı, ayrı ayrı tesbit edilen nispetlerin
+ilgililerin müracaatta bulunduğu hesap döneminden muteberdir.
 
-             **Madde 318 –** Maliye Bakanlığınca tesbit ve ilan olunan
-amortisman nispetleri ilanların yapıldığı, ayrı ayrı tesbit edilen
-nispetlerin ilgililerin müracaatta bulunduğu hesap döneminden
-muteberdir.
-
-             **(Değişik : 21/1/1983 - 2791/9 md.)** Maliye Bakanlığı
-tespit ve ilan ettiği amortisman nispetlerini gerektiğinde değiştirmeye
-ve amortismanlarla ilgili diğer hususları tesbite yetkilidir.
+**(Değişik : 21/1/1983 - 2791/9 md.)** Maliye Bakanlığı tespit ve ilan
+ettiği amortisman nispetlerini gerektiğinde değiştirmeye ve
+amortismanlarla ilgili diğer hususları tesbite yetkilidir.
 
 ––––––––––––––––
 
-*(1) Bu bentte yer alan*  *"amortisman oranı normal amortisman oranının
+*(1) Bu bentte yer alan* *"amortisman oranı normal amortisman oranının
 iki katıdır." ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu
 maddesiyle"amortisman oranı % 50'yi geçmemek üzere normal amortisman
 oranının iki katıdır."olarak değiştirilmiş ve metne işlenmiştir.*
@@ -7492,7 +7554,7 @@ ikmalina mani değildir.
 
 **Madde 337 – (Değişik birinci fıkra : 30/12/1980 - 2365/63 md.)** Ayrı
 ayrı yapılmış olan vergi ziyaı veya usulsüzlükten dolayı ayrı ayrı ceza
-kesilir. Şu kadarki, 352 nci maddede yazılı usulsüzlüklerden, ayrı
+kesilir. Şu kadarki, 352 nci maddede yazılı usulsüzlüklerden, aynı
 takvim yılı içinde aynı neviden birden fazla yapıldığı takdirde birden
 fazlasının herbiri için, birincisine ait cezanın dörtte biri kesilir.
 ^(3)^
@@ -7534,363 +7596,295 @@ ziyaı…” şeklinde değiştirilmiştir.*
 
 3551
 
- 
+*Suçlarda birleşme:*
 
-            Suçlarda birleşme:
+**Madde 340 – (Değişik : 22/7/1998 - 4369/10 md.)** Bu kanunda yazılı
+vergi ziyaı cezası ve usulsüzlük cezaları ile 359 uncu maddede ve diğer
+kanunlarda yazılı cezalar; içtima ve tekerrür hükümleri bakımından
+birleştirilemez.
 
-             **Madde 340 – (Değişik : 22/7/1998 - 4369/10 md.)** Bu
-kanunda yazılı vergi ziyaı cezası ve usulsüzlük cezaları ile 359 uncu
-maddede ve diğer kanunlarda yazılı cezalar; içtima ve tekerrür hükümleri
-bakımından birleştirilemez.
+Bu Kanunla vergi cezasiyle cezalandırılan fiiller, aynı zamanda 359 uncu
+maddeye göre suç teşkil ettiği takdirde vergi cezası kesilmesi söz
+konusu madde hükmüne göre takibat yapılmasına engel olmaz.
 
-             Bu Kanunla vergi cezasiyle cezalandırılan fiiller, aynı
-zamanda 359 uncu maddeye göre suç teşkil ettiği takdirde vergi cezası
-kesilmesi söz konusu madde hükmüne göre takibat yapılmasına engel olmaz.
+*Vergi ziayı:*
 
-             Vergi ziayı:
+**Madde 341 –** Vergi ziyaı, mükellefin veya sorumlunun vergilendirme
+ile ilgili ödevlerini zamanında yerine getirmemesi veya eksik yerine
+getirmesi yüzünden, verginin zamanında tahakkuk ettirilmemesini veya
+eksik tahakkuk ettirilmesini ifade eder.
 
-             **Madde 341 –** Vergi ziyaı, mükellefin veya sorumlunun
-vergilendirme ile ilgili ödevlerini zamanında yerine getirmemesi veya
-eksik yerine getirmesi yüzünden, verginin zamanında tahakkuk
-ettirilmemesini veya eksik tahakkuk ettirilmesini ifade eder.
+Şahsi, medeni haller veya aile durumu hakkında gerçeğe aykırı beyanlar
+ile veya sair suretlerle verginin noksan tahakkuk ettirilmesine veya
+haksız yere geri verilmesine sebebiyet vermek de vergi ziyaı
+hükmündedir.
 
-             Şahsi, medeni haller veya aile durumu hakkında gerçeğe
-aykırı beyanlar ile veya sair suretlerle verginin noksan tahakkuk
-ettirilmesine veya haksız yere geri verilmesine sebebiyet vermek de
-vergi ziyaı hükmündedir.
+Yukarıki fıkralarda yazılı hallerde verginin sonradan tahakkuk
+ettirilmesi veya tamamlanması veyahut haksız iadenin geri alınması ceza
+uygulanmasına mani teşkil etmez.
 
-             Yukarıki fıkralarda yazılı hallerde verginin sonradan
-tahakkuk ettirilmesi veya tamamlanması veyahut  haksız iadenin geri
-alınması ceza uygulanmasına mani teşkil etmez.
+*Veraset ve intikal vergisinde ek süre:*
 
-             Veraset ve intikal vergisinde ek süre:
+**Madde 342 – (Değişik : 10/4/1985 - 3181/1 md.)**
 
-             **Madde 342 – (Değişik : 10/4/1985 - 3181/1 md.)**
+Veraset ve intikal vergisine ilişkin mükellefiyetlerde tahakkuk
+muamelesi yapılmak için beyanname verme süresinin sonundan başlayarak 15
+gün beklenir. Beyanname bu süre içinde verilirse vergi ziyaı olmamış
+sayılır.
 
-             Veraset ve intikal vergisine ilişkin mükellefiyetlerde
-tahakkuk muamelesi yapılmak için beyanname verme süresinin sonundan
-başlayarak 15 gün beklenir. Beyanname bu süre içinde verilirse vergi
-ziyaı olmamış sayılır.
+Ayrıca mükellefe tebliğ edilmek şartı ile yeniden 15 günlük bir mühlet
+verilir. Bu hususta da yukarıdaki hüküm cari olur.
 
-             Ayrıca mükellefe tebliğ edilmek şartı ile yeniden 15 günlük
-bir mühlet verilir. Bu hususta da yukarıdaki hüküm cari olur.
+*En az ceza haddi:*
 
-             En az ceza haddi:
+**Madde 343 – (Değişik : 30/12/1980 - 2365/67 md.)**
 
-             **Madde 343 – (Değişik : 30/12/1980 - 2365/67 md.)**
-
-             Damga vergisi ve damga resmi dolayısiyle kesilecek vergi
-cezaları, vergi ve resme tabi her varaka, senet ve ilan için 500.000
-**(8,80 TL)** liradan az olmaz. Diğer vergilerde her vergi için
-1.000.000 **(18 TL)** liraya baliğ olmayan cezalar kesilmez.^(1)^
-
- 
-
-                                                                  İKİNCİ
-KISIM
-
-                                                                   Vergi
-Cezaları
-
-                                                               BİRİNCİ
-BÖLÜM
-
-                                                              Vergi
-Ziyaı Cezası ^(2)^
-
-              Vergi ziyaı cezası ^(2)^
-
-             **Madde 344 – (Değişik : 22/7/1998 - 4369/11 md.)**
-
-             **(Değişik, birleştirilen birinci ve ikinci fıkra:
-23/1/2008-5728/275 md.)** 341 inci maddede yazılı hallerde vergi ziyaına
-sebebiyet verildiği takdirde, mükellef veya sorumlu hakkında ziyaa
-uğratılan verginin bir katı tutarında vergi ziyaı cezası kesilir.
+Damga vergisi ve damga resmi dolayısiyle kesilecek vergi cezaları, vergi
+ve resme tabi her varaka, senet ve ilan için 500.000 **(9,70 TL)**
+liradan az olmaz. Diğer vergilerde her vergi için 1.000.000 **(19 TL)**
+liraya baliğ olmayan cezalar kesilmez.^(1)^
 
 ——————————
 
-(1)  Bu maddedeki miktarlar 22/7/1998 tarihli ve 4369 sayılı Kanunun 19
+*(1) Bu maddedeki miktarlar 22/7/1998 tarihli ve 4369 sayılı Kanunun 19
 uncu maddesiyle değiştirilen Mükerrer 414 üncü maddesiyle "500.000" ve
-"1.000.000" a  yükseltilmiş, daha sonra; 26/12/2011      tarihli ve
-28154 sayılı Resmi Gazete’de yayımlanan  Maliye Bakanlığının 411 Sıra
-No.’lu Tebliği ile 1/1/2012 tarihinden geçerli olmak üzere tespit edilen
-miktar ise, metne parantez içinde siyah punto ile işlenmiştir. Daha önce
-yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE
-YAPILAN DEĞİŞİKLİKLER CETVELİ"ne bakınız.
+"1.000.000" a yükseltilmiş, daha sonra; 30/12/2013 tarihli ve 28867
+(Mükerrer) sayılı Resmi Gazete'de yayımlanan Maliye Bakanlığının 432
+Sıra No.’lu Tebliği ile 1/1/2014 tarihinden geçerli olmak üzere tespit
+edilen miktar ise, metne parantez içinde siyah punto ile işlenmiştir.
+Daha önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ
+MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne bakınız.*
 
-(2)  "Kaçakçılık" olan birinci bölüm başlığı, "Kaçakçılığın tarifi :"
+3552
+
+*İKİNCİ KISIM*
+
+*Vergi Cezaları*
+
+BİRİNCİ BÖLÜM
+
+*Vergi Ziyaı Cezası* ^(1)^
+
+*Vergi ziyaı cezası ^(1)^*
+
+**Madde 344 – (Değişik : 22/7/1998 - 4369/11 md.)**
+
+**(Değişik, birleştirilen birinci ve ikinci fıkra: 23/1/2008-5728/275
+md.)** 341 inci maddede yazılı hallerde vergi ziyaına sebebiyet
+verildiği takdirde, mükellef veya sorumlu hakkında ziyaa uğratılan
+verginin bir katı tutarında vergi ziyaı cezası kesilir.
+
+Vergi ziyaına 359 uncu maddede yazılı fiillerle sebebiyet verilmesi
+halinde bu ceza üç kat, bu fiillere iştirak edenlere ise bir kat olarak
+uygulanır.
+
+Vergi incelemesine başlanılmasından veya takdir komisyonuna sevk
+edilmesinden sonra verilenler hariç olmak üzere, kanuni süresi geçtikten
+sonra verilen vergi beyannameleri için bu madde uyarınca kesilecek ceza
+yüzde elli oranında uygulanır.
+
+**(Son fıkra Mülga : 11/8/1999 - 4444/14 md.)**
+
+——————————
+
+*(1)"Kaçakçılık" olan birinci bölüm başlığı, "Kaçakçılığın tarifi :"
 olan madde kenar başlığı ve "Kaçakçılık Suçunun Tarifi :" olan madde
 başlıkları 22/7/1998 tarih ve 4369 sayılı Kanunun 11 inci maddesiyle
 metne işlendikleri şekilde değiştirilmiştir. Daha sonra 23/1/2008
 tarihli ve 5728 sayılı Kanunun 275 inci maddesiyle “Vergi ziyaı suçu ve
-cezası” iken, metne işlendiği şekilde değiştirilmiştir.
-
- 
-
-3552
-
- 
-
-             Vergi ziyaına 359 uncu maddede yazılı fiillerle sebebiyet
-verilmesi halinde bu ceza üç kat, bu fiillere iştirak edenlere ise bir
-kat olarak uygulanır.
-
-             Vergi incelemesine başlanılmasından veya takdir komisyonuna
-sevk edilmesinden sonra verilenler hariç olmak üzere, kanuni süresi
-geçtikten sonra verilen vergi beyannameleri için bu madde uyarınca
-kesilecek ceza yüzde elli oranında uygulanır.
-
-             **(Son fıkra Mülga : 11/8/1999 - 4444/14 md.)**
-
- 
-
- 
-
- 
-
- 
-
-             **(Dikkat:** *Devamı 3553 üncü sayfadadır.)*
-
- 
+cezası” iken, metne işlendiği şekilde değiştirilmiştir.*
 
 3553
 
-* *
+*Kaçakçılıkta ceza:*
 
-*            Kaçakçılıkta ceza:*
+**Madde 345 – (Mülga : 22/7/1998 - 4369/82 md.)**
 
-**            Madde 345 – (Mülga : 22/7/1998 - 4369/82 md.)**
+*Teşvik:*
 
-             Teşvik:
+**Madde 346 – (Mülga : 22/7/1998 - 4369/82 md.)**
 
-             **Madde 346 – (Mülga : 22/7/1998 - 4369/82 md.)**
+*Yardım:*
 
-             Yardım:
+**Madde 347 – (Mülga : 22/7/1998 - 4369/82 md.)**
 
-             **Madde 347 – (Mülga : 22/7/1998 - 4369/82 md.)**
+**Mükerrer Madde 347 – (Ek:30/12/1980 - 2365/72 md.;** **Mülga:
+22/7/1998-4369/82 md.)**
 
-             **Mükerrer Madde 347 – (Ek:30/12/1980 - 2365/72 md.;**
-**Mülga: 22/7/1998-4369/82/md.)**
+*Kusurun tarifi:*
 
-             Kusurun tarifi:
+**Madde 348 – (Mülga : 22/7/1998 - 4369/82 md.)**
 
-             **Madde 348 – (Mülga : 22/7/1998 - 4369/82 md.)**
+*Ağır Kusurda Ceza:*
 
-             Ağır Kusurda Ceza:
+**Madde 349 – (Mülga : 22/7/1998 - 4369/82 md.)**
 
-             **Madde 349 – (Mülga : 22/7/1998 - 4369/82 md.)**
+*Kusurda ceza:*
 
-             Kusurda ceza:
+**Mükerrer madde 349 – (Ek : 30/12/1980-2365/75 md.; Mülga :
+22/7/1998-4369/82 md.)**
 
-             **Mükerrer madde 349 – (Ek : 30/12/1980-2365/75 md.; Mülga
-: 22/7/1998-4369/82 md.)**
+Tahrire dayanan vergiler ile kanuni süresi geçtikten sonra kendiliğinden
+verilen beyannameler için kusur cezası ^(1)^
 
-             Tahrire dayanan vergiler ile kanuni süresi geçtikten sonra
-kendiliğinden verilen beyannameler için kusur cezası ^(1)^
+**Madde 350 – (Mülga : 22/7/1998 - 4369/82 md.)**
 
-             **Madde 350 – (Mülga : 22/7/1998 - 4369/82 md.)**
+İKİNCİ BÖLÜM ^(2)^
 
- 
+*Usulsüzlük*
 
-                                                               İKİNCİ
-BÖLÜM ^(2)^
+*Usulsüzlüğün tarifi:*
 
-                                                                     
-Usulsüzlük
+**Madde 351 –** Usulsüzlük vergi kanunlarının şekle ve usule mütaallik
+hükümlerine riayet edilmemesidir.
 
-             Usulsüzlüğün tarifi:
+*Usulsüzlük dereceleri ve cezaları: ^(3)^*
 
-             **Madde 351 –** Usulsüzlük vergi kanunlarının şekle ve
-usule mütaallik hükümlerine riayet edilmemesidir.
+**Madde 352 – (Değişik : 30/12/1980 - 2365/76 md.)**
 
-             Usulsüzlük dereceleri ve cezaları: ^(3)^
+Usulsüzlükler, aşağıda yazılı derecelere ve bu kanuna bağlı cetvele göre
+cezalandırılır. Usulsüzlük fiili re'sen takdiri gerektirirse, bağlı
+cetvelde yazılı cezalar iki kat olarak kesilir.
 
-             **Madde 352 – (Değişik : 30/12/1980 - 2365/76 md.)**
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
-             Usulsüzlükler, aşağıda yazılı derecelere ve bu kanuna bağlı
-cetvele göre cezalandırılır. Usulsüzlük fiili re'sen takdiri
-gerektirirse, bağlı cetvelde yazılı cezalar iki kat olarak kesilir.
+*(1) Madde başlığı 24/6/1994 tarih ve 4008 sayılı Kanunun 16 ncı maddesi
+ile metne işlendiği şekilde değiştirilmiştir.*
 
- 
-
- 
-
- 
-
-            
-
- 
-
- 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(1)  Madde başlığı 24/6/1994 tarih ve 4008 sayılı Kanunun 16 ncı maddesi
-ile metne işlendiği şekilde değiştirilmiştir.
-
-(2)  Bu bölüm başlığı "üçüncü Bölüm" iken, 22/7/1998 tarih ve 4369
+*(2) Bu bölüm başlığı "üçüncü Bölüm" iken, 22/7/1998 tarih ve 4369
 sayılı Kanunun 81 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.
+değiştirilmiştir.*
 
-*(3) Bu maddade yer alan miktarların 1/1/2012 tarihinden itibaren
+*(3) Bu maddade yer alan miktarların 1/1/2014 tarihinden itibaren
 uygulanması ile ilgili olarak; Kanunun sonundaki cetvele bakınız.*
-
- 
 
 3554
 
- 
+I inci derece usulsüzlükler:
 
-             I inci derece usulsüzlükler:
-
-             1. **(Değişik : 4/12/1985 - 3239/25 md.)** Vergi ve harç
+1\. **(Değişik : 4/12/1985 - 3239/25 md.)** Vergi ve harç
 beyannamelerinin süresinde verilmemiş olması;
 
-             2. Bu kanuna göre tutulması mecburi olan defterlerden
-herhangi birinin tutulmamış olması;
+2\. Bu kanuna göre tutulması mecburi olan defterlerden herhangi birinin
+tutulmamış olması;
 
-             3. Defter kayıtlarının ve bunlarla ilgili vesikaların doğru
-bir vergi incelemesi yapılmasına imkan vermeyecek derecede noksan,
-usulsüz veya karışık olması;
+3\. Defter kayıtlarının ve bunlarla ilgili vesikaların doğru bir vergi
+incelemesi yapılmasına imkan vermeyecek derecede noksan, usulsüz veya
+karışık olması;
 
-             4. **(Mülga : 22/7/1998 - 4369/82 md.)**
+4\. **(Mülga : 22/7/1998 - 4369/82 md.)**
 
-             5. Çiftçiler tarafından 245 inci madde hükmüne göre muhtar
-ve ihtiyar heyetlerince yapılan davete müddetinde icabet edilmemesi;
+5\. Çiftçiler tarafından 245 inci madde hükmüne göre muhtar ve ihtiyar
+heyetlerince yapılan davete müddetinde icabet edilmemesi;
 
-             6. Bu Kanunun kayıt nizamına ait hükümlerine (Madde 215 -
-219) uyulmamış olması (Her incelemede inceleme tarihine kadar aynı
-takvim yılı için tespit edilen usulsüzlükler tek fiil sayılır);
+6\. Bu Kanunun kayıt nizamına ait hükümlerine (Madde 215 - 219) uyulmamış
+olması (Her incelemede inceleme tarihine kadar aynı takvim yılı için
+tespit edilen usulsüzlükler tek fiil sayılır);
 
-             7. İşe başlamanın zamanında bildirilmemesi;
+7\. İşe başlamanın zamanında bildirilmemesi;
 
-             8. Tasdiki mecburi olan defterlerden hernangi birinin
-tasdik muamelesinin yaptırılmamış olması (Kanuni sürenin sonundan
-başlıyarak 1 ay geçtikten sonra tasdik ettirilenler, tasdik ettirilmemiş
-sayılır.);
+8\. Tasdiki mecburi olan defterlerden hernangi birinin tasdik
+muamelesinin yaptırılmamış olması (Kanuni sürenin sonundan başlıyarak 1
+ay geçtikten sonra tasdik ettirilenler, tasdik ettirilmemiş sayılır.);
 
-             9.Diğer ücretler  üzerinden alınan Gelir Vergisinde, tarh
-zamanı geçtiği halde verginin tarh ettirilmemiş olması; ^(1)^
+9.Diğer ücretler üzerinden alınan Gelir Vergisinde, tarh zamanı geçtiği
+halde verginin tarh ettirilmemiş olması; ^(1)^
 
-             10. **(Mülga : 18/4/1984 - 2995/4 md.)**
+10\. **(Mülga : 18/4/1984 - 2995/4 md.)**
 
-             11. **(Ek : 4/12/1985 - 3239/25 md.)** Veraset ve intikal
-vergisi beyannamesinin 342 nci maddenin ikinci fıkrasında belirtilen
-süre içerisinde verilmiş olması.
+11\. **(Ek : 4/12/1985 - 3239/25 md.)** Veraset ve intikal vergisi
+beyannamesinin 342 nci maddenin ikinci fıkrasında belirtilen süre
+içerisinde verilmiş olması.
 
-             II nci derece usulsüzlükler:
+II nci derece usulsüzlükler:
 
-             1. **(Değişik : 4/12/1985 - 3239/25 md.)** Veraset ve
-intikal Vergisi Beyannamelerinin süresinin sonundan başlayarak 342 nci
-maddenin 1 inci fıkrasında belirtilen süre içinde verilmiş olması;
-**(Mülga: 3/4/2002-4751/7 md.)**
+1\. **(Değişik : 4/12/1985 - 3239/25 md.)** Veraset ve intikal Vergisi
+Beyannamelerinin süresinin sonundan başlayarak 342 nci maddenin 1 inci
+fıkrasında belirtilen süre içinde verilmiş olması; **(Mülga:
+3/4/2002-4751/7 md.)**
 
-             2. Ekim ve sayım beyanlarının süresi içinde veya kanunda
-istenilen bilgileri ihtiva edecek doğru bir şekilde yapılmaması;
+2\. Ekim ve sayım beyanlarının süresi içinde veya kanunda istenilen
+bilgileri ihtiva edecek doğru bir şekilde yapılmaması;
 
-             3. **(Mülga : 18/4/1984 - 2995/4 md.)**
+3\. **(Mülga : 18/4/1984 - 2995/4 md.)**
 
-             4. **(Değişik : 3/12/1988 - 3505/4 md.)** Vergi
-kanunlarında yazılı bildirmelerin zamanında yapılmamış olması (işe
-başlamayı bildirmek hariç);
+4\. **(Değişik : 3/12/1988 - 3505/4 md.)** Vergi kanunlarında yazılı
+bildirmelerin zamanında yapılmamış olması (işe başlamayı bildirmek
+hariç);
 
-             5. Vergi karnesinin süresinin sonundan başlayarak 15 gün
-geçtiği halde alınmamış olması;
+5\. Vergi karnesinin süresinin sonundan başlayarak 15 gün geçtiği halde
+alınmamış olması;
 
-             6. Tasdiki mecburi olan defterlerden herhangi birinin
-tasdik muamelesinin, süresinin sonundan başlayarak bir ay içinde
-yaptırılmış olması;
-
- 
-
- 
+6\. Tasdiki mecburi olan defterlerden herhangi birinin tasdik
+muamelesinin, süresinin sonundan başlayarak bir ay içinde yaptırılmış
+olması;
 
 ——————————
 
-(1)    Bu bendde yeralan "Götürü matrahlar" ibaresi, 22/7/1998 tarih ve
+*(1) Bu bendde yeralan "Götürü matrahlar" ibaresi, 22/7/1998 tarih ve
 4369 sayılı Kanunun 81 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.
+değiştirilmiştir.*
 
 3555
 
- 
+7\. **(Değişik : 4/12/1985 - 3239/25 md.)** Vergi beyannameleri,
+bildirimler, evrak ve vesikaların kanunen belli şekil ve muhteviyatı ve
+ekleri ile bunlarla ilgili olarak yapılan diğer düzenlemelere ilişkin
+hükümlere uyulmamış olması;
 
-             7. **(Değişik : 4/12/1985 - 3239/25 md.)** Vergi
-beyannameleri, bildirimler, evrak ve vesikaların kanunen belli şekil ve
-muhteviyatı ve ekleri ile bunlarla ilgili olarak yapılan diğer
-düzenlemelere ilişkin hükümlere uyulmamış olması;
+8\. Hesap veya muamelelerin doğruluk veya açıklığını bozmamak şartıyla
+bazı evrak ve vesikaların bulunmaması veya ibraz edilmemesi.
 
-             8. Hesap veya muamelelerin doğruluk veya açıklığını
-bozmamak şartıyla bazı evrak ve vesikaların bulunmaması veya ibraz
-edilmemesi.
+*Özel usulsüzlükler ve cezaları:*
 
-             Özel usulsüzlükler ve cezaları:
+*a) Fatura ve benzeri evrak verilmemesi ve alınmaması ile diğer şekil ve
+usul hükümlerine uyulmaması*
 
-             a) Fatura ve benzeri evrak verilmemesi ve alınmaması ile
-diğer şekil ve usul hükümlerine uyulmaması
+**Madde 353 – (Değişik : 24/6/1994 - 4008/17 md.) ^(1)^**
 
-             **Madde 353 – (Değişik : 24/6/1994 - 4008/17 md.) ^(1)^**
-
-             1.**(Değişik : 25/5/1995 - 4108/8 md.)** Verilmesi ve
-alınması icabeden fatura, gider pusulası, müstahsil makbuzu ile serbest
-meslek makbuzlarının verilmemesi, alınmaması veya düzenlenen bu
-belgelerde gerçek meblağdan farklı meblağlara yer verilmesi halinde; bu
-belgeleri düzenlemek ve almak zorunda olanların herbirine, her bir belge
-için 10.000.000 **(180 TL)** liradan aşağı olmamak üzere bu belgelere
+1.**(Değişik : 25/5/1995 - 4108/8 md.)** Verilmesi ve alınması icabeden
+fatura, gider pusulası, müstahsil makbuzu ile serbest meslek
+makbuzlarının verilmemesi, alınmaması veya düzenlenen bu belgelerde
+gerçek meblağdan farklı meblağlara yer verilmesi halinde; bu belgeleri
+düzenlemek ve almak zorunda olanların herbirine, her bir belge için
+10.000.000 **(190 TL)** liradan aşağı olmamak üzere bu belgelere
 yazılması gereken meblağın veya meblağ farkının % 10'u nispetinde özel
 usulsüzlük cezası kesilir.
 
-             Bir takvim yılı içinde her bir belge nevine ilişkin olarak
-tespit olunan yukarıda yazılı özel usulsüzlükler için kesilecek cezanın
-toplamı 5.000.000.000 **(88.000 TL)** lirayı geçemez.
+Bir takvim yılı içinde her bir belge nevine ilişkin olarak tespit olunan
+yukarıda yazılı özel usulsüzlükler için kesilecek cezanın toplamı
+5.000.000.000 **(97.000 TL)** lirayı geçemez.
 
-             2. **(Değişik : 25/5/1995 - 4108/8 md.)** Perakende satış
-fişi, ödeme kaydedici cihazla verilen fiş, giriş ve yolcu taşıma bileti,
-sevk irsaliyesi, taşıma irsaliyesi, yolcu listesi, günlük müşteri
-listesi ile Maliye Bakanlığınca düzenlenme zorunluluğu getirilen
-belgelerin; düzenlenmediğinin, kullanılmadığının, bulundurulmadığının,
-düzenlenen belgelerin aslı ile örneğinde farklı meblağlara yer
-verildiğinin veya gerçeğe aykırı olarak düzenlendiğinin tespiti halinde,
-her bir belge için 10.000 000 **(180 TL)** lira özel usulsüzlük cezası
-kesilir.
+2\. **(Değişik : 25/5/1995 - 4108/8 md.)** Perakende satış fişi, ödeme
+kaydedici cihazla verilen fiş, giriş ve yolcu taşıma bileti, sevk
+irsaliyesi, taşıma irsaliyesi, yolcu listesi, günlük müşteri listesi ile
+Maliye Bakanlığınca düzenlenme zorunluluğu getirilen belgelerin;
+düzenlenmediğinin, kullanılmadığının, bulundurulmadığının, düzenlenen
+belgelerin aslı ile örneğinde farklı meblağlara yer verildiğinin veya
+gerçeğe aykırı olarak düzenlendiğinin tespiti halinde, her bir belge
+için 10.000 000 **(190 TL)** lira özel usulsüzlük cezası kesilir.
 
-             Ancak, her bir belge nevine ilişkin olarak kesilecek özel
-usulsüzlük cezasının toplamı her bir tespit için 500.000.000 **(8.800
-TL)** lirayı, bir takvim yılı içinde ise 5.000.000.000 **(88.000 TL)**
-lirayı aşamaz.
-
- 
-
- 
-
- 
-
- 
-
- 
+Ancak, her bir belge nevine ilişkin olarak kesilecek özel usulsüzlük
+cezasının toplamı her bir tespit için 500.000.000 **(9.700 TL)** lirayı,
+bir takvim yılı içinde ise 5.000.000.000 **(97.000 TL)** lirayı aşamaz.
 
 ——————————
 
-(1)  Bu maddenin 1,2,3,4,5,6 ve 7 nci bentlerindeki miktarlar 22/7/1998
-tarihli ve  4369 sayılı Kanununun 19 uncu maddesiyle değiştirilen
+*(1) Bu maddenin 1,2,3,4,5,6 ve 7 nci bentlerindeki miktarlar 22/7/1998
+tarihli ve 4369 sayılı Kanununun 19 uncu maddesiyle değiştirilen
 Mükerrer Madde 414 hükmüne istinaden 1/1/1998 tarihi itibariyle geçerli
 olan had ve tutarlarına (9/12/1997 tarihli ve 97/10345 sayılı Kararname
-ile getirilen miktarlar) yükseltilmiş, 26/12/2011 tarihli ve 28154
-sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 411 Sıra No.lu
-Tebliği ile 1/1/2012 tarihinden geçerli olmak üzere tespit edilen
-miktarlar metne parantez içinde siyah punto ile işlenmiştir. Daha önce
-yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE
-YAPILAN DEĞİŞİKLİKLER CETVELİ"ne bakınız.
+ile getirilen miktarlar) yükseltilmiş, 30/12/2013 tarihli ve 28867
+(Mükerrer) sayılı Resmi Gazete'de yayımlanan Maliye Bakanlığının 432
+Sıra No.’lu Tebliği ile 1/1/2014 tarihinden geçerli olmak üzere tespit
+edilen miktarlar metne parantez içinde siyah punto ile işlenmiştir. Daha
+önce yapılan değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT
+İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne bakınız.*
 
 3556
 
- 
-
- 
-
-             3. **(Değişik : 25/5/1995 - 4108/8 md.)** 232 nci maddenin
-birinci fıkrasının 1 ila 5 numaralı bentlerinde sayılanlar dışında kalan
+3\. **(Değişik : 25/5/1995 - 4108/8 md.)** 232 nci maddenin birinci
+fıkrasının 1 ila 5 numaralı bentlerinde sayılanlar dışında kalan
 kişilerin fatura, gider pusulası, müstahsil makbuzu, serbest meslek
 makbuzu, perakende satış fişi, ödeme kaydedici cihaz fişi ve giriş ve
 yolcu taşıma biletlerini almadıklarının tespit edilmesi halinde bunlara
@@ -7899,133 +7893,123 @@ usulsüzlük cezası kesilir. Şu kadar ki, bu cezanın kesilebilmesi için,
 belge alınmadığına ilişkin tespitin vergi incelemesine yetkili olanlar
 tarafından yapılması şarttır. **(Ek cümle: 28/3/2007-5615/20 md.)**
 Maliye Bakanlığı Gelir İdaresi Başkanlığı, söz konusu tespiti vergi
-incelemesine yetkili olmayanlara da yaptırmaya yetkilidir.  Bu hükmün
+incelemesine yetkili olmayanlara da yaptırmaya yetkilidir. Bu hükmün
 uygulanmasında belge alınmadığına ilişkin tespit tutanağının belge
 almayana verilen örneği, ceza ihbarnamesi yerine geçer.
 
-             4. **(Değişik : 25/5/1995 - 4108/8 md.)** Günlük kasa
-defteri, günlük perakende satış ve hasılat defteri ile Maliye
-Bakanlığınca tutulma ve günü gününe kayıt edilme mecburiyeti getirilen
-defterlerin; işyerinde bulundurulmaması, bu defterlere yazılması gereken
-işlemlerin günü gününe deftere kayıt edilmemesi veya yoklama ve
-incelemeye yetkili olanlara istendiğinde ibraz edilmemesi halleri ile
-vergi kanunlarının uygulanması bakımından levha bulundurma veya asma
-zorunluluğu bulunan mükelleflerin bu zorunluluğa uymamaları halinde her
-tespit için 10.000. 000 **(180 TL)** lira özel usulsüzlük cezası
+4\. **(Değişik : 25/5/1995 - 4108/8 md.)** Günlük kasa defteri, günlük
+perakende satış ve hasılat defteri ile Maliye Bakanlığınca tutulma ve
+günü gününe kayıt edilme mecburiyeti getirilen defterlerin; işyerinde
+bulundurulmaması, bu defterlere yazılması gereken işlemlerin günü gününe
+deftere kayıt edilmemesi veya yoklama ve incelemeye yetkili olanlara
+istendiğinde ibraz edilmemesi halleri ile vergi kanunlarının uygulanması
+bakımından levha bulundurma veya asma zorunluluğu bulunan mükelleflerin
+bu zorunluluğa uymamaları halinde her tespit için 10.000. 000 **(190
+TL)** lira özel usulsüzlük cezası kesilir.
+
+5.**(Mülga:16/7/2004 - 5228/60 md.)**
+
+6\. **(Değişik : 25/5/1995 - 4108/8 md.)** Bu Kanuna göre belirlenen
+muhasebe standartlarına, tek düzen hesap planına ve mali tablolara
+ilişkin usul ve esaslar ile muhasebeye yönelik bilgisayar programlarının
+üretilmesine ve kullanılmasına ilişkin kural ve standartlara uymayanlara
+250.000.000 **(4.400 TL)** lira özel usulsüzlük cezası kesilir.
+
+7\. **(Ek : 25/5/1995 - 4108/8 md.)** Bu Kanunun 8 inci maddesinin son
+fıkrası uyarınca getirilen mecburiyete uymaksızın işlem yapanlara her
+bir işlem için 10.000.000 **(230 TL)** lira özel usulsüzlük cezası
 kesilir.
 
-             5.**(Mülga:16/7/2004 - 5228/60 md.)**
+8\. **(Ek : 22/7/1998 - 4369/12 md.)** Belge basımı ile ilgili bildirim
+görevini tamamen veya kısmen yerine getirmeyen matbaa işletmecilerine
+75.000.000 **(700 TL)** lira özel usulsüzlük cezası kesilir. **(Ek
+cümle: 23/7/2010-6009/11 md.)** Ancak, bu bent uyarınca kesilecek özel
+usulsüzlük cezasının toplamı bir takvim yılı içinde 114.000 TL
+**(140.000)**’yi aşamaz.
 
-             6. **(Değişik : 25/5/1995 - 4108/8 md.)** Bu Kanuna göre
-belirlenen muhasebe standartlarına, tek düzen hesap planına ve mali
-tablolara ilişkin usul ve esaslar ile muhasebeye yönelik bilgisayar
-programlarının üretilmesine ve kullanılmasına ilişkin kural ve
-standartlara uymayanlara 250.000.000 **(4000 TL)** lira özel usulsüzlük
-cezası kesilir.
+9\. **(Ek : 22/7/1998 - 4369/12 md.)** 4358 sayılı Kanun uyarınca
+işlemlerinde vergi kimlik numarası kullanma zorunluluğu getirilen kurum
+ve kuruluşlardan yaptıkları işlemlere ilişkin bildirimleri Maliye
+Bakanlığının belirleyeceği standartlarda, araçlarla (yazı, manyetik
+ortam, disket, mikrofilm, mikro fiş gibi) ve zamanlarda yerine
+getirmeyenler hakkında 75.000.000 **(970 TL)** lira özel usulsüzlük
+cezası kesilir. Ceza kesilenler, ödedikleri ceza için fiilleri ile ceza
+kesilmesine neden olan kişilere rücu edebilirler.
 
-             7. **(Ek : 25/5/1995 - 4108/8 md.)** Bu Kanunun 8 inci
-maddesinin son fıkrası uyarınca getirilen mecburiyete uymaksızın işlem
-yapanlara her bir işlem için 10.000.000 **(220 TL)** lira özel
-usulsüzlük cezası kesilir.
-
-             8. **(Ek : 22/7/1998 - 4369/12 md.)** Belge basımı ile
-ilgili bildirim görevini tamamen veya kısmen yerine getirmeyen matbaa
-işletmecilerine 75.000.000 **(660 TL)** lira özel usulsüzlük cezası
-kesilir. **(Ek cümle: 23/7/2010-6009/11 md.)** Ancak, bu bent uyarınca
-kesilecek özel usulsüzlük cezasının toplamı bir takvim yılı içinde
-114.000 TL **(130.000)**’yi aşamaz.
-
-             9. **(Ek : 22/7/1998 - 4369/12 md.)** 4358 sayılı Kanun
-uyarınca işlemlerinde vergi kimlik numarası kullanma zorunluluğu
-getirilen kurum ve kuruluşlardan yaptıkları işlemlere ilişkin
-bildirimleri Maliye Bakanlığının belirleyeceği standartlarda, araçlarla
-(yazı, manyetik ortam, disket, mikrofilm, mikro fiş gibi) ve zamanlarda
-yerine getirmeyenler hakkında 75.000.000  **(880 TL)** lira özel
-usulsüzlük cezası kesilir. Ceza kesilenler, ödedikleri ceza için
-fiilleri ile ceza kesilmesine neden olan kişilere rücu edebilirler.
-
-             10. **(Ek: 22/7/1998 - 4369/12 md.)** Bu Kanununun 127 nci
-maddesinin (d) bendi uyarınca Maliye Bakanlığının özel işaretli
-görevlisinin ikazına rağmen durmayan aracın sahibi adına 75.000.000
-**(660 TL)** lira özel usulsüzlük cezası kesilir.
+10\. **(Ek: 22/7/1998 - 4369/12 md.)** Bu Kanununun 127 nci maddesinin
+(d) bendi uyarınca Maliye Bakanlığının özel işaretli görevlisinin
+ikazına rağmen durmayan aracın sahibi adına 75.000.000 **(700 TL)** lira
+özel usulsüzlük cezası kesilir.
 
 3557
 
- 
+Bu maddede yazılı usulsüzlükler sonucunda vergi ziyaı da meydana geldiği
+takdirde bu ziyaın gerektirdiği vergi cezaları ayrıca kesilir ve bu
+cezalar hakkında 336 ncı madde hükmü uygulanmaz.
 
-             Bu maddede yazılı usulsüzlükler sonucunda vergi ziyaı da
-meydana geldiği takdirde bu ziyaın gerektirdiği vergi cezaları ayrıca
-kesilir ve bu cezalar hakkında 336 ncı madde hükmü uygulanmaz.
+Bu maddenin uygulanmasına ilişkin diğer usul ve esasları belirlemeye
+Maliye Bakanlığı yetkilidir.
 
-             Bu maddenin uygulanmasına ilişkin diğer usul ve esasları
-belirlemeye Maliye Bakanlığı yetkilidir.
+*b) Veraset ve intikal vergisine;*
 
-             b) Veraset ve intikal vergisine;
+**Madde 354 – (Mülga: 30/12/1980 - 2365/78 md.)**
 
-             **Madde 354 – (Mülga: 30/12/1980 - 2365/78 md.)**
+*İşyeri kapatma cezası:*
 
-             İşyeri kapatma cezası:
+**Mükerrer Madde 354 – (Ek : 4/12/1985 - 3239/27 md.;Mülga:16/7/2004 –
+5228/60 md.)**
 
-             **Mükerrer Madde 354 – (Ek : 4/12/1985 - 3239/27
-md.;Mülga:16/7/2004 – 5228/60 md.)**
+*c) Damga vergisinde: ^(2)^*
 
-             c) Damga vergisinde:
+**Madde 355 – (Değişik : 30/12/2004-5281/15 md.)**
 
-             **Madde 355 – (Değişik : 30/12/2004-5281/15 md.)**
+Damga Vergisi ödenmemiş veya noksan ödenmiş kâğıtları, vergi ve cezası
+tahsil edilmeden tasdik eden veya örneklerini çıkarıp veren noterler
+adına her kâğıt için tahsil edilmeyen Damga Vergisi üzerinden maktu
+vergilerde % 50, nispî vergilerde % 10 oranında özel usulsüzlük cezası
+kesilir. Ancak, bu madde kapsamında kesilecek özel usulsüzlük cezaları
+her bir kâğıt için 1 **(1,60 TL.)** Yeni Türk Lirasından az olamaz.
 
-             Damga Vergisi ödenmemiş veya noksan ödenmiş kâğıtları,
-vergi ve cezası tahsil edilmeden tasdik eden veya örneklerini çıkarıp
-veren noterler adına her kâğıt için tahsil edilmeyen Damga Vergisi
-üzerinden maktu vergilerde % 50, nispî vergilerde % 10 oranında özel
-usulsüzlük cezası kesilir. Ancak, bu madde kapsamında kesilecek özel
-usulsüzlük cezaları her bir kâğıt için  1 Yeni Türk Lirasından  az
-olamaz.
+*Bilgi vermekten çekinenler ile 256,257 ve mükerrer 257 nci madde
+hükmüne uymayanlar için ceza ^(1)(2)^*
 
-*             Bilgi vermekten çekinenler ile 256,257 ve mükerrer 257 nci
-madde hükmüne uymayanlar için ceza ^(1)(2)^*
+**Mükerrer Madde 355 – (Ek: 30/12/1980 - 2365/80.; Değişik : 22/7/1998 -
+4369/13 md.)**
 
-**             Mükerrer Madde 355 – (Ek: 30/12/1980 - 2365/80.; Değişik
-: 22/7/1998 - 4369/13 md.)**
-
-             Bu Kanunun 86,148,149,150,256 ve 257 nci maddelerinde yer
-alan zorunluluklar ile mükerrer 257 nci madde uyarınca getirilen
+Bu Kanunun 86,148,149,150,256 ve 257 nci maddelerinde yer alan
+zorunluluklar ile mükerrer 257 nci madde uyarınca getirilen
 zorunluluklara uymayan (Kamu idare ve müesseselerinde bilgi verme
 görevini yerine getirmeyen yöneticiler dahil);
 
-             1. Birinci sınıf tüccarlar ile serbest meslek erbabı
-hakkında 1.000 **(1.170 TL)**Türk Lirası,
+1\. Birinci sınıf tüccarlar ile serbest meslek erbabı hakkında 1.000
+**(1.200 TL)**Türk Lirası,
 
-             2. İkinci sınıf tüccarlar, defter tutan çiftçiler ile
-kazancı basıt usulde tespit edilenler hakkında 500 **(580 TL)** Türk 
-Lirası,
+2\. İkinci sınıf tüccarlar, defter tutan çiftçiler ile kazancı basıt
+usulde tespit edilenler hakkında 500 **(600 TL)** Türk Lirası,
 
-             3. Yukarıdaki bentlerde yazılı bulunanlar dışında kalanlar
-hakkında 250 **(280 TL)** Türk Lirası,
+3\. Yukarıdaki bentlerde yazılı bulunanlar dışında kalanlar hakkında 250
+**(300 TL)** Türk Lirası,
 
-             Özel usulsüzlük cezası kesilir.^                        \ ^
+Özel usulsüzlük cezası kesilir.
 
 ——————————
 
-(1)  Bu madde başlığı“d) Bilgi vermekten çekinenler ile 257 nci madde
+*(1) Bu madde başlığı“d) Bilgi vermekten çekinenler ile 257 nci madde
 hükmüne uymayanlar için:“ iken 22/7/1998 tarih ve 4369 Sayılı Kanun ile
-metne işlendiği şekilde değiştirilmiştir.
+metne işlendiği şekilde değiştirilmiştir.*
 
-(2)  Bu maddede yer alan miktarlar, 16/6/2009 tarihli ve 5904 sayılı
+*(2) Bu maddede yer alan miktarlar, 16/6/2009 tarihli ve 5904 sayılı
 Kanun ile 1/8/2009 tarihi itibariyle metne işlendiği şekilde
-değiştirilmiş olup, 26/12/2011 tarihli ve 28154 sayılı Resmi Gazete’de
-yayımlanan Maliye Bakanlığının 411 Sıra No.lu Tebliği ile 1/1/2012
-tarihinden geçerli olmak üzere tespit edilen miktarlar metne parantez
-içinde siyah punto ile işlenmiştir. Daha önce yapılan değişiklikler için
-bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"
-ne bakınız.
-
- 
+değiştirilmiş olup, 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi
+Gazete'de yayımlanan Maliye Bakanlığının 432 Sıra No.’lu Tebliği ile
+1/1/2014 tarihinden geçerli olmak üzere tespit edilen miktarlar metne
+parantez içinde siyah punto ile işlenmiştir. Daha önce yapılan
+değişiklikler için bu Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN
+DEĞİŞİKLİKLER CETVELİ" ne bakınız.*
 
 3558
 
- 
-
-             Bu hükmün uygulanması için, bilgi ve ibraz ödevinin yerine
+Bu hükmün uygulanması için, bilgi ve ibraz ödevinin yerine
 getirilmesiyle ilgili olarak yapılacak tebliğlerde bilginin verilmesi
 için tayin olunan sürede cevap verilmemesi, eksik veya yanıltıcı bilgi
 verilmesi veya defter ve belge ibrazı için tayin olunan süre ile defter
@@ -8036,64 +8020,61 @@ bu ödevlerin yerine getirilmesine ilişkin usul ve esasların Maliye
 Bakanlığınca yapılan düzenleyici idari işlemlerle duyurulması halinde,
 ilgililere ayrıca yazılı olarak bildirilme şartı aranmaz. ^(1)^
 
-             Özel usulsüzlük cezası kesilmesine rağmen mecburiyetleri
-yerine getirmeyenlere yeniden süre verilerek bu mecburiyetleri yerine
+Özel usulsüzlük cezası kesilmesine rağmen mecburiyetleri yerine
+getirmeyenlere yeniden süre verilerek bu mecburiyetleri yerine
 getirmeleri tebliğ olunur. Verilen sürede bu mecburiyetlerin yerine
 getirilmemesi halinde yukarıda yazılı özel usulsüzlük cezaları bir kat
 artırılarak uygulanır.
 
-**            (Ek fıkra: 16/7/2004-5228/10 md.)** Tahsilat ve
-ödemelerini banka, benzeri finans kurumları veya posta idarelerince
-düzenlenen belgelerle tevsik etme zorunluluğuna uymayan mükelleflerden
-her birine, her bir işlem için bu maddeye göre uygulanan cezalardan az
-olmamak üzere işleme konu tutarın % 5'i nispetinde özel usulsüzlük
-cezası kesilir. Bu şekilde ceza kesilen mükellefler hakkında üçüncü
-fıkra hükmü uygulanmaz. **(Ek cümle: 23/7/2010-6009/12 md.)** Ancak, bu
-fıkra uyarınca bir takvim yılı içinde kesilecek özel usulsüzlük
-cezasının toplamı 770.000 TL **(880.000)**’yi geçemez.
+**(Ek fıkra: 16/7/2004-5228/10 md.)** Tahsilat ve ödemelerini banka,
+benzeri finans kurumları veya posta idarelerince düzenlenen belgelerle
+tevsik etme zorunluluğuna uymayan mükelleflerden her birine, her bir
+işlem için bu maddeye göre uygulanan cezalardan az olmamak üzere işleme
+konu tutarın % 5'i nispetinde özel usulsüzlük cezası kesilir. Bu şekilde
+ceza kesilen mükellefler hakkında üçüncü fıkra hükmü uygulanmaz. **(Ek
+cümle: 23/7/2010-6009/12 md.)** Ancak, bu fıkra uyarınca bir takvim yılı
+içinde kesilecek özel usulsüzlük cezasının toplamı 770.000 TL
+**(970.000)**’yi geçemez.
 
-            **(Ek fıkra: 3/7/2005 – 5398/23 md.)** Elektronik ortamda
-beyanname verilmesi mecburiyetine uyulmaması halinde kesilmesi gereken
-özel usûlsüzlük cezası, beyannamenin kanuni süresinin sonundan
-başlayarak elektronik ortamda 30 gün içinde verilmesi halinde 1/10
-oranında, bu sürenin dolmasını takip eden 30 gün içinde verilmesi
-halinde ise 1/5 oranında uygulanır. ^(2)^
+**(Ek fıkra: 3/7/2005 – 5398/23 md.)** Elektronik ortamda beyanname
+verilmesi mecburiyetine uyulmaması halinde kesilmesi gereken özel
+usûlsüzlük cezası, beyannamenin kanuni süresinin sonundan başlayarak
+elektronik ortamda 30 gün içinde verilmesi halinde 1/10 oranında, bu
+sürenin dolmasını takip eden 30 gün içinde verilmesi halinde ise 1/5
+oranında uygulanır. ^(2)^
 
-             **(Ek fıkra: 16/6/2009-5904/22 md.)** Elektronik ortamda
-verilme zorunluluğu getirilen bildirim veya formlara ilişkin olarak
-süresinden sonra düzeltme amacıyla verilen bildirim ve formların,
-belirlenen sürelerin sonundan itibaren 10 gün içinde verilmesi halinde
-özel usulsüzlük cezası kesilmez, takip eden 15 gün içinde verilmesi
-halinde ise kesilmesi gereken özel usulsüzlük cezası 1/5 oranında
-uygulanır. ^(1)(2)^
+**(Ek fıkra: 16/6/2009-5904/22 md.)** Elektronik ortamda verilme
+zorunluluğu getirilen bildirim veya formlara ilişkin olarak süresinden
+sonra düzeltme amacıyla verilen bildirim ve formların, belirlenen
+sürelerin sonundan itibaren 10 gün içinde verilmesi halinde özel
+usulsüzlük cezası kesilmez, takip eden 15 gün içinde verilmesi halinde
+ise kesilmesi gereken özel usulsüzlük cezası 1/5 oranında uygulanır.
+^(1)(2)^
 
-             **(Ek fıkra: 16/6/2009-5904/22 md.)** Elektronik ortamda
-beyanname ile bildirim ve form verme mecburiyetine uymayanlara bu
-maddeye göre ceza kesilmesi halinde, 352 nci maddenin birinci derece
-usulsüzlüklerle ilgili  (1) numaralı bendi ile ikinci derece
-usulsüzlüklerle ilgili (7) numaralı bendi uyarınca ayrıca ceza kesilmez.
-^(1)^
+**(Ek fıkra: 16/6/2009-5904/22 md.)** Elektronik ortamda beyanname ile
+bildirim ve form verme mecburiyetine uymayanlara bu maddeye göre ceza
+kesilmesi halinde, 352 nci maddenin birinci derece usulsüzlüklerle
+ilgili (1) numaralı bendi ile ikinci derece usulsüzlüklerle ilgili (7)
+numaralı bendi uyarınca ayrıca ceza kesilmez. ^(1)^
 
-             **Madde 356 – (Mülga: 30/12/2004-5281/44 md.)**
+**Madde 356 – (Mülga: 30/12/2004-5281/44 md.)**
 
-             **Madde 357 – (Mülga : 30/12/1980 - 2365/81 md.)**
+**Madde 357 – (Mülga : 30/12/1980 - 2365/81 md.)**
 
-             Kaçakçılığa Teşebbüs Suçunun Tarifi :
+*Kaçakçılığa Teşebbüs Suçunun Tarifi :*
 
-             **Madde 358 – (Mülga : 22/7/1998 - 4369/82 md.)**
+**Madde 358 – (Mülga : 22/7/1998 - 4369/82 md.)**
 
 ——————————
 
-(1)  16/6/2009 tarihli ve 5904 sayılı Kanunun 22 nci maddesiyle, bu
-maddenin ikinci fıkrasına eklenen cümle ve maddenin sonuna  eklenen
- fıkralar 1/8/2009 tarihinde yürürlüğe girecektir.
+*(1) 16/6/2009 tarihli ve 5904 sayılı Kanunun 22 nci maddesiyle, bu
+maddenin ikinci fıkrasına eklenen cümle ve maddenin sonuna eklenen
+fıkralar 1/8/2009 tarihinde yürürlüğe girecektir.*
 
-(2)  23/7/2010 tarihli ve 6009 sayılı Kanunun 12 nci maddesiyle, bu
+*(2) 23/7/2010 tarihli ve 6009 sayılı Kanunun 12 nci maddesiyle, bu
 maddenin beşinci fıkrasında yer alan “15 gün” ibareleri “30 gün”, “1/4”
 ibaresi “1/10”, “1/2” ibaresi “1/5”, altıncı fıkrasında yer alan “1/2”
-ibaresi “1/5” şeklinde değiştirilmiş ve metne işlenmiştir.
-
- 
+ibaresi “1/5” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 3558-1
 
@@ -8692,90 +8673,85 @@ isteme hakkı mahfuzdur.
 
 3566
 
- 
+*Tarhiyet öncesi uzlaşma:*
 
-             Tarhiyet öncesi uzlaşma:
+**Ek Madde 11 – (Ek : 4/12/1985 - 3239/33 md.)**
 
-             **Ek Madde 11 – (Ek : 4/12/1985 - 3239/33 md.)**
-
-             **(Değişik birinci fıkra : 11/8/1999 - 4444/7 md.)** Maliye
-Bakanlığı, vergi incelemesine dayanılarak tarh edilecek vergilerle
-kesilecek cezalarda (359 uncu maddede yazılı fiillerle vergi ziyaına
-sebebiyet verilmesi halinde tarh edilecek vergi ve kesilecek ceza ile bu
-fiillere iştirak edenlere kesilecek ceza hariç) tarhiyat öncesi uzlaşma
+**(Değişik birinci fıkra : 11/8/1999 - 4444/7 md.)** Maliye Bakanlığı,
+vergi incelemesine dayanılarak tarh edilecek vergilerle kesilecek
+cezalarda (359 uncu maddede yazılı fiillerle vergi ziyaına sebebiyet
+verilmesi halinde tarh edilecek vergi ve kesilecek ceza ile bu fiillere
+iştirak edenlere kesilecek ceza hariç) tarhiyat öncesi uzlaşma
 yapılmasına izin verebilir. ^(1)^
 
-             Tarhiyattan önce uzlaşmaya varılması halinde tutanakla
-tespit edilen bu husus hakkında dava açılamaz ve hiçbir mercie şikayette
-bulunulamaz. **(Ek : 3/12/1988 - 3505/10 md.)** Uzlaşılan vergi miktarı
-üzerinden, bu Kanunun 112 nci maddesine göre gecikme faizi hesaplanır.
+Tarhiyattan önce uzlaşmaya varılması halinde tutanakla tespit edilen bu
+husus hakkında dava açılamaz ve hiçbir mercie şikayette bulunulamaz.
+**(Ek : 3/12/1988 - 3505/10 md.)** Uzlaşılan vergi miktarı üzerinden, bu
+Kanunun 112 nci maddesine göre gecikme faizi hesaplanır.
 
-             Tarhiyat öncesi uzlaşmanın temini edilememiş veya uzlaşma
-müzakeresinde uzlaşmaya varılamamış olması halinde mükellefler veya ceza
-muhatabı olanlar verginin tarhından ve cezanın kesilmesinden sonra
-uzlaşma talep edemezler.
+Tarhiyat öncesi uzlaşmanın temini edilememiş veya uzlaşma müzakeresinde
+uzlaşmaya varılamamış olması halinde mükellefler veya ceza muhatabı
+olanlar verginin tarhından ve cezanın kesilmesinden sonra uzlaşma talep
+edemezler.
 
 Tarhiyat öncesi uzlaşmaya ilişkin esas ve usuller Yönetmelikte
 belirtilir.
 
-             Ücretlilere vergi iadesinde uzlaşma:
+*Ücretlilere vergi iadesinde uzlaşma:*
 
-             **Ek Madde 12 – (Ek: 4/12/1985 - 3239/33 md.)**
+**Ek Madde 12 – (Ek: 4/12/1985 - 3239/33 md.)**
 
-             2978 sayılı Ücretlilere Vergi İadesi Hakkında Kanunun 6 ncı
-maddesi uyarınca kesilen cezalar uzlaşma mevzuuna dahildir.
+2978 sayılı Ücretlilere Vergi İadesi Hakkında Kanunun 6 ncı maddesi
+uyarınca kesilen cezalar uzlaşma mevzuuna dahildir.
 
-**             Ek Madde 13 – (Ek : 24/3/1988 - 3418/32 md.)**
+**Ek Madde 13 – (Ek : 24/3/1988 - 3418/32 md.)^(3)^**
 
-             **(Fıkra 1,2,3 Mülga: 20/6/2001-4684/15 md)**
+**(Fıkra 1,2,3 Mülga: 20/6/2001-4684/15 md)**
 
-             4. (…)^(2)^
+4\. (…)^(2)^
 
-             a) **(Mülga : 11/10/2011-KHK-666/1 md.)**
+a\) **(Mülga : 11/10/2011-KHK-666/1 md.)**
 
-             b) **(Mülga: 11/10/2011-KHK-666/1 md.)**
+b\) **(Mülga: 11/10/2011-KHK-666/1 md.)**
 
-             c) **(Mülga: 11/10/2011-KHK-666/1 md.)**
+c\) **(Mülga: 11/10/2011-KHK-666/1 md.)**
 
-             d) **(Ek: 28/12/2001-4731/4 md.; Mülga:
-11/10/2011-KHK-666/1 md.)**
+d\) **(Ek: 28/12/2001-4731/4 md.; Mülga: 11/10/2011-KHK-666/1 md.)**
 
-             (…) ^(2)^
+(…) ^(2)^
 
-             **(Mülga paragraf: 11/10/2011-KHK-666/1 md.)**
+**(Mülga paragraf: 11/10/2011-KHK-666/1 md.)**
 
-             **(Ek : 26/12/1993 - 3946/2 md. ; Mülga paragraf:
-11/10/2011-KHK-666/1 md.)**
+**(Ek : 26/12/1993 - 3946/2 md. ; Mülga paragraf: 11/10/2011-KHK-666/1
+md.)**
 
-**             (Ek : 26/12/1993 - 3946/2 md. ; Mülga paragraf:
-11/10/2011-KHK-666/1 md.)**
+**(Ek : 26/12/1993 - 3946/2 md. ; Mülga paragraf: 11/10/2011-KHK-666/1
+md.)**
 
-             **(Ek : 26/12/1993 - 3946/2 md. ; Mülga paragraf:
-11/10/2011-KHK-666/1 md.)**
+**(Ek : 26/12/1993 - 3946/2 md. ; Mülga paragraf: 11/10/2011-KHK-666/1
+md.)**
 
-             **(Mülga beşinci fıkra: 20/6/2001-4684/15 md.)**
+**(Mülga beşinci fıkra: 20/6/2001-4684/15 md.)**
 
-             6. **(Ek: 7/7/2011-KHK-646/4 md.; Mülga:
-11/10/2011-KHK-666/1 md.)**
-
- 
-
- 
+6\. **(Ek: 7/7/2011-KHK-646/4 md.; Mülga: 11/10/2011-KHK-666/1 md.)**
 
 ––––––––––––
 
-\(1) 20/2/2008 tarihli ve 5736 sayılı Kanunun 6 ncı maddesiyle; bu
-fıkrada bulunan  "(344 üncü maddenin üçüncü fıkrası uyarınca vergi ziyaı
+*(1) 20/2/2008 tarihli ve 5736 sayılı Kanunun 6 ncı maddesiyle; bu
+fıkrada bulunan "(344 üncü maddenin üçüncü fıkrası uyarınca vergi ziyaı
 cezası kesilecek tarhiyata ilişkin vergi ve ceza hariç)" ibaresi "(359
 uncu maddede yazılı fiillerle vergi ziyaına sebebiyet verilmesi halinde
 tarh edilecek vergi ve kesilecek ceza ile bu fiillere iştirak edenlere
-kesilecek ceza hariç)"şeklinde değiştirilmiş ve metne işlenmiştir.
+kesilecek ceza hariç)"şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 *(2) Bu fıkrada yer alan “Maliye Bakanı:” ve “Yetkilidir.” ibareleri
 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle yürürlükten
 kaldırılmıştır.*
 
-            
+*(3) 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan
+düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de
+yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.:
+2012/205 sayılı Kararı ile iptal edilmiştir.*
 
 3566-1
 
@@ -9596,92 +9572,52 @@ yürütür.
 
 3571
 
- 
+**Usulsüzlük Cezalarına Ait Cetvel** ^(1)^
 
- 
+**(Değişik : 30/12/1980 - 2365/98 md.)**
 
-                                               **Usulsüzlük Cezalarına
-Ait Cetvel** ^(1)^
+Birinci derece İkinci derece
 
-                                                **(Değişik : 30/12/1980
-- 2365/98 md.)**
+usulsüzlükler usulsüzlükler
 
- 
+*Mükellef Grupları için (Lira) için (Lira) *
 
- 
-
-                                                                               
-        Birinci derece                 İkinci derece
-
-                                                                               
-         usulsüzlükler                usulsüzlükler
-
-*                    Mükellef Grupları                             
-         için (Lira)                         için (Lira)         *
-
-1\. Sermaye şirketleri                                                  
-6.000.000 **(105 TL)**           3.500.000 **(58 TL)**
+1\. Sermaye şirketleri 6.000.000 **(110 TL)** 3.500.000 **(60 TL)**
 
 2\. Sermaye şirketleri dışında kalan 1 inci sınıf
 
-    tüccar ve serbest meslek erbabı                               
-4.000.000 **(66 TL)**           2.000.000 **(33 TL)**
+tüccar ve serbest meslek erbabı 4.000.000 **(70 TL)** 2.000.000 **(36
+TL)**
 
-3\. II nci sınıf
-tüccarlar                                                   2.000.000
-**(33 TL)**           1.000.000 **(16 TL)**
+3\. II nci sınıf tüccarlar 2.000.000 **(36 TL)** 1.000.000 **(17 TL)**
 
 4\. Yukardakiler dışında kalıp beyanname usu-
 
-    lüyle gelir vergisine tabi olanlar                               
-1.000.000 **(16 TL)**           500.000 **(8,80 TL)**
+lüyle gelir vergisine tabi olanlar 1.000.000 **(17 TL)** 500.000 **(9,70
+TL)**
 
-5\. Kazancı basit usulde  tespit edilenler  ^(2)^                 
-500.000 **(8,80 TL)**                250.000 **(4 TL)**
+5\. Kazancı basit usulde tespit edilenler ^(2)^ 500.000 **(9,70 TL)**
+250.000 **(4,40 TL)**
 
-6\. Gelir Vergisinden muaf esnaf                                        
-250.000 **(4 TL)**          125.000 **(2,30TL)**
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+6\. Gelir Vergisinden muaf esnaf 250.000 **(4,40 TL)** 125.000
+**(2,40TL)**
 
 ——————————
 
-(1)  Bu cetveldeki miktarlar 22/7/1998 tarihli ve 4369 sayılı Kanunun 19
+*(1) Bu cetveldeki miktarlar 22/7/1998 tarihli ve 4369 sayılı Kanunun 19
 uncu maddesiyle değiştirilen Mükerrer 414 üncü maddeye istinaden
 1/1/1998 tarihi itibariyle geçerli olan hadde (15/12/1995 tarihli ve
-95/7595 sayılı Kararname ile getirilen miktarlar) yükseltilmiş, daha
-sonra 26/12/2011 tarihli ve 28154 sayılı Resmi Gazete’de yayımlanan
-Maliye Bakanlığının 411 Sıra No.lu Tebliği ile 1/1/2012  tarihinden
+95/7595 sayılı Kararname ile getirilen miktarlar) yükseltilmiş,
+30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi Gazete'de yayımlanan
+Maliye Bakanlığının 432 Sıra No.’lu Tebliği ile 1/1/2014 tarihinden
 geçerli olmak üzere tespit edilen miktarlar ise metne parantez içinde
 siyah punto ile işlenmiştir. Daha önce yapılan değişiklikler için bu
 Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne
-bakınız.
+bakınız.*
 
-\(2) Bu satırda yeralan "Götürü usulde gelir vergisine tabi olanlar"
+*(2) Bu satırda yeralan "Götürü usulde gelir vergisine tabi olanlar"
 ibaresi, 22/7/1998 tarih ve 4369 sayılı Kanununun 81 inci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
+metne işlendiği şekilde değiştirilmiştir.*
 
  
 
@@ -10264,89 +10200,35 @@ vel), 353, Mükerrer 355.
 
 3574-3
 
- 
+  ----------------------------------- ---------------------- ------------------------------ -------------------- -------------------------------------------------------------------------------------------------------
+  **Değişiklik Yapan Kararnamenin**   **Yayımlandığı **      ***Değişiklik Gören Madde***
+                                                             
+                                      **Resmi Gazete'nin**   
 
- 
+  ***Tarihi***                        ***Numarası***         ***Tarihi***
 
-          Değişiklik Yapan                             
-Yayımlandığı                        
+  Tebliğ                              377                    17/11/2007
 
-            Kararnamenin                                Resmi Gazete'nin
+  Tebliğ                              378                    26/12/2007
 
-*     Tarihi               Numarası               Tarihi             
-     Numarası          Değişiklik Gören Madde *
+  Tebliğ                              388                    20/12/2008
 
-Tebliğ          377                      17/11/2007        
-26703                       Mükerrer 298
+  Tebliğ                              393                    29/12/2009
 
-      Tebliğ          378                      26/12/2007        
-26738                       104, Mükerrer 115,
+  Tebliğ                              402                    29/12/2010
 
-                                                                                                                 
-177,232, 252,313, 343,  
+  Tebliğ                              410                    17/11/2011
 
-                                                                                                                  
-352 (Kanuna bağlı cet-
+  Tebliğ                              411                    26/12/2011
 
-                                                                                                                 
-vel), 353, Mükerrer 355.
+  Tebliğ                              419                    10/11/2012
 
-      Tebliğ          388                       20/12/2008         
-27086                  104, Mükerrer 115, 177,
+  Tebliğ                              422                    31/12/2012
 
-                                                                                                                
-232, 252, 313, 343, 352
+  Tebliğ                              430                    19/11/2013
 
-                                                                                                                
-Kanuna bağlı cetvel),
-
-                                                                       
-                                  353, Mükerrer 355
-
-      Tebliğ          393                       29/12/2009         
-27447                  104, Mükerrer 115, 177,
-
-                                                                                                                
-232, 252, 313, 343, 352
-
-                                                                                                                
-Kanuna bağlı cetvel),
-
-                                                                       
-                                  353, Mükerrer 355
-
-       Tebliğ          402                      29/12/2010         
-27800 (6. mük.)   104, Mükerrer 115, 177,
-
-                                                                                                                
-232, 252, 313, 343, 352
-
-                                                                                 
-                               Kanuna bağlı cetvel),
-
-                                                                       
-                                  353, Mükerrer 355
-
- Tebliğ          410                      17/11/2011        
-28115                         Mükerrer 298
-
-Tebliğ         411                   26/12/2011       
-   28154                   104, Mükerrer 115,
-
-                  
-                                                        
-                                177, 232, 252,313, 343,  
-
-                                                                                       
-                    352 (Kanuna bağlı cet-
-
-                                                                                                        
-vel), 353, Mükerrer 355.
-
- Tebliğ          419                      10/11/2012        
-28463                         Mükerrer 298
-
- 
+  Tebliğ                              432                    30/12/2013
+  ----------------------------------- ---------------------- ------------------------------ -------------------- -------------------------------------------------------------------------------------------------------
 
 3575
 
@@ -10903,248 +10785,97 @@ olan  25/12/1997
 
 3576-3
 
- 
+**213 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-**                213 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+**MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
-**                               YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR
-LİSTE**
+**GÖSTERİR LİSTE**
 
- 
+  ------------------------------ ----------------------------------------------------------------------------------- -------------------------------------------------------------------------------
+  **Değiştiren **                **213 sayılı Kanunun değişen veya iptal edilen maddeleri**                          **Yürürlüğe Giriş Tarihi**
+                                                                                                                     
+  **Kanunun/KHK’nin Numarası**                                                                                       
 
- 
-**Kanun                                                                                                                       
-Yürürlüğe**
+  4369                           1, 3, 4, 5, 6, 7, 8, 12, 13, 19 ve 20, 81/A-(6), (9), (12), (25), (28). maddeleri   29/7/1998
 
-***     No.                               Farklı tarihte yürürlüğe giren
-maddeler                  giriş tarihi***
+  4444                           —                                                                                   14/8/1999
 
-     4369           1, 3, 4, 5, 6, 7, 8, 12, 13, 19 ve 20, 81/A-(6),
-(9), (12), (25), (28).
+  4503                           10                                                                                  31/12/1999 tarihinden geçerli olmak üzere yayımı tarihi olan 29/1/2000
 
-                       
-maddeleri                                                                                              
-29/7/1998
+  4684                           15 inci madde                                                                       1/1/2002
 
-     4444                                                         
-—                                                             14/8/1999
+  4731                           —                                                                                   30/12/2001
 
-     4503           10
-                                                                                                        
-31/12/1999
+  4751                           1 inci maddesinin Mükerrer Madde 49 ile ilgili hükmü                                9/4/2002
+                                                                                                                     
+                                 1 inci maddesinin 268 inci madde ile ilgili hükmü                                   1/1/2002 tarihinden geçerli olmak üzere yayımı tarihi olan 9/4/2002 tarihinde
+                                                                                                                     
+                                 6 ncı maddesi                                                                       9/4/2002
 
-                                                                                                                                   
-tarihinden geçerli olmak
+  4783                           —                                                                                   1/1/2003
 
-                                                                                                                                   
-üzere yayımı tarihi olan
+  4842                           25 inci maddesi                                                                     1/7/2003 tarihinden geçerli olmak üzere 24/4/2003
+                                                                                                                     
+                                 36/g maddesi                                                                        1/4/2003 tarihinden geçerli olmak üzere 24/4/2003
 
-                                                                                                                                   
- 29/1/2000
+  4884                           —                                                                                   17/6/2003
 
-     4684                  15 inci
-madde                                                                     
-      1/1/2002
+  4962                           —                                                                                   7/8/2003
 
-     4731                                 
--                             
-                                                  30/12/2001
+  5024                           Mükerrer 298 inci maddenın (A) fıkrasının (8) numaralı bendi                        30/12/2003
+                                                                                                                     
+                                 Diğer maddeleri                                                                     1/1/2004
 
-     4751           1 inci maddesinin Mükerrer Madde 49 ile ilgili
-hükmü                    9/4/2002
-
-                        1 inci maddesinin 268 inci madde ile ilgili
-hükmü                             1/1/2002
-
-                                                                                                                                   
-tarihinden geçerli olmak
-
-                                                                                                                                   
-üzere yayımı tarihi olan
-
-                                                                                                                                   
- 9/4/2002 tarihinde
-
-                               6 ıncı
-maddesi                                                                    
-           9/4/2002
-
-    
-4783                                                                                                
-                        1/1/2003
-
-     4842                  25 inci
-maddesi                                                             
-1/7/2003 tarihinden
-
-           geçerli olmak üzere
-
-           24/4/2003
-
-                               36/g maddesi
-                                                     
-             1/4/2003tarihinden
-
-     geçerli olmak   
-
-  üzere 24/4/2003
-
-     4884                                                         
-—                                                    17/6/2003
-
-     4962                                                         
-—                                                      7/8/2003
-
-5024                            Mükerrer 298 inci maddenın (A)
-fıkrasının
-
-\(8) numaralı
-bendi                                                                  
- 30/12/2003
-
-Diğer maddeleri          
-                                                      
-          1/1/2004
-
-     5035                  104, 120, 231,
-270                                                                     
-2/1/2004
-
-5228                      281, Mükerrer Madde 298 ,Geçici Madde
-25                  1/1/2004 tarihinden
-
-                                                                 
-                                                    geçerli olmak üzere
-
-                                                                                                                              
-31/7/2004
-
-                    15,17,28,111,114,160,204,215,Mük. Madde 257,     
-
-                    285, Mük. Madde 315,353 , Mükerrer Madde 354,
-
-                    5024 sayılı Kanunun İşlenemeyen hükmü Geçici  Md.
-1             31/7/2004
-
-                                                                              
-
-                    Mükerrer Madde 355                                  
-                                31/7/2004 tarihini
-
-                                                                                                                        
-izleyen üçüncü günde
-
-5234                                   
-13                                       
-                                          21/9/2004
-
-5281                                    355, 356   
-                                                                 
-31/12/2004
-
-5345                                    128 ve Ek Madde
-13                                                                 
-   16/5/2005
-
-5398                                   Mükerrer Madde 257, 272, 327,
-
-                                           Mükerrer Madde
-355                                                                    
-21/7/2005
-
-      5479           Mükerrer Madde 298,344. Geçici Madde
-27                     1/1/2006 tarihinden ge-
-
-                                                                                                                         
-çerli olmak üzere 8/4/2006
-
-                                                                                                          
-               tarihinde
-
- 
-
- 
+  5035                           104, 120, 231, 270                                                                  2/1/2004
+  ------------------------------ ----------------------------------------------------------------------------------- -------------------------------------------------------------------------------
 
 3576-4
 
- 
+  ------------------------------ ------------------------------------------------------------ ------------------------------------------------------------
+  **Değiştiren **                **213 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                              
+  **Kanunun/KHK’nin Numarası**                                                                
 
-**Değiştiren                                                                                                                    
-Yürürlüğe**
+  5228                           281, Mükerrer Madde 298 ,Geçici Madde 25                     1/1/2004 tarihinden geçerli olmak üzere 31/7/2004
+                                                                                              
+                                 15,17,28,111,114,160,204,215,Mük. Madde 257,                 31/7/2004
+                                                                                              
+                                 285, Mük. Madde 315,353 , Mükerrer Madde 354,                31/7/2004 tarihini izleyen üçüncü günde
+                                                                                              
+                                 5024 sayılı Kanunun İşlenemeyen hükmü Geçici Md. 1           
+                                                                                              
+                                 Mükerrer Madde 355                                           
 
-***  Kanun                            213 sayılı Kanunun değiştirilen
-maddeleri                      giriş tarihi***
+  5234                           13                                                           21/9/2004
 
-   5615                                    Mükerrer Madde 28,
-120,353,367, 377                           4/4/2007
+  5281                           355, 356                                                     31/12/2004
 
-  5728                                  
-2,5,87,246,344,359,360,362,363,367,371                         8/2/2008
+  5345                           128 ve Ek Madde 13                                           16/5/2005
 
-  5736                                    Ek Madde 1 ve
-11                            8/2/2008 tarihinden geçerli  olmak üzere
-27/2/2008
+  5398                           Mükerrer Madde 257, 272, 327, Mükerrer Madde 355             21/7/2005
 
-  5766                                    Mükerrer
-242                                                                   
-6/6/2008
+  5479                           Mükerrer Madde 298, 344, Geçici Madde 27                     1/1/2006 tarihinden geçerli olmak üzere 8/4/2006 tarihinde
 
-  5904                                    72,
-359                                                                  
-          3/7/2009
+  5615                           Mükerrer Madde 28, 120, 353, 367, 377                        4/4/2007
 
-                                Mükerrer  Madde
-355                                               3/7/2009 tarihini
-izleyen 
+  5728                           2, 5, 87, 246, 344, 359, 360, 362, 363, 367, 371             8/2/2008
 
-                                                                                                               
-aybaşında
+  5736                           Ek Madde 1 ve 11                                             8/2/2008 tarihinden geçerli olmak üzere 27/2/2008
 
-  5917                                     Ek Madde
-13                                                                  
-10/7/2009
+  5766                           Mükerrer 242                                                 6/6/2008
 
-6009            107/A, Mükerrer 227, 353, Mükerer 355, 369,
-413                                  1/8/2010
+  5904                           72, 359                                                      3/7/2009
+                                                                                              
+                                 Mükerrer Madde 355                                           3/7/2009 tarihini izleyen aybaşında
 
-                                           114, Geçici Madde
-28                          1/7/2010 tarihinden geçerli  olmak üzere
-1/8/2010 ^(1)^
+  5917                           Ek Madde 13                                                  10/7/2009
 
-6009                                              140,
-367                                                                
-1/1/2011
-
-6111                                             
-5                                                  
-                        25/2/2011
-
-KHK/646                                135, 140, 367 ve Ek Madde
-13                                     10/7/2011
-
-KHK/666                                Ek Madde
-13                                     31/12/2011 tarihinden geçerli
-olmak üzere 2/11/2011
-
-KHK/666                                Ek Madde
-13                                     14/1/2012 tarihinden geçerli
-olmak üzere 2/11/2011
-
- 
-
- 6322 112, 325/A, Geçici Madde 29 15/6/2012
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+  6009                           107/A, Mükerrer 227, 353, Mükerer 355, 369, 413              1/8/2010
+                                                                                              
+                                 114, Geçici Madde 28                                         1/7/2010 tarihinden geçerli olmak üzere 1/8/2010 ^(1)^
+                                                                                              
+                                 140, 367                                                     1/1/2011
+  ------------------------------ ------------------------------------------------------------ ------------------------------------------------------------
 
 –––––––––––––––––––
 
@@ -11156,155 +10887,26 @@ iptal edilmiştir.*
 
 3576-5
 
- 
+  -------------------------------------------------------------------------------------- ------------------------------------------------------------ -----------------------------------------------------
+  **Değiştiren **                                                                        **213 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                      
+  **Kanunun/KHK’nin Numarası**                                                                                                                        
 
-**            213 SAYILI KANUNDA EK VE DEĞİŞİKLİK YAPAN MEVZUATIN**
+  6111                                                                                   5                                                            25/2/2011
 
-**                   YÜRÜRLÜKTEN KALDlRDIĞI KANUN VE HÜKÜMLERİ**
+  KHK/646                                                                                135, 140, 367 ve Ek Madde 13                                 10/7/2011
 
-**                                                       GÖSTERİR
- LİSTE**
+  KHK/666                                                                                Ek Madde 13                                                  31/12/2011 tarihinden geçerli olmak üzere 2/11/2011
+                                                                                                                                                      
+                                                                                         Ek Madde 13                                                  14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
 
- 
+  6322                                                                                   112, 325/A, Geçici Madde 29                                  15/6/2012
 
-                                                                                               
-***Yürürlükten Kaldıran Mevzuatın** *
+  6455                                                                                   153/A                                                        11/4/2013
 
-**                       Yürürlükten Kaldırılan**
+  6487                                                                                   151, 152/A                                                   11/6/2013
 
-**                *Kanun veya Kanun Hükümleri                       
-Tarihi                   Sayısı    Maddesi***
+  Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı   Ek Madde 13                                                  10/10/2013
+  -------------------------------------------------------------------------------------- ------------------------------------------------------------ -----------------------------------------------------
 
-4/1/1961 Tarih ve 213 sayılı Kanundaki;
 
-Madde 46. Fıkra yedi ve
-sekiz,                                               1/5/1981        
-2455                 2
-
-Madde 50, 51, 53 ila 62, 77 ve
-78,                                         29/7/1970        
-1319               41
-
-Mükerrer Madde
-86.                                                             
-23/6/1982         2686                53
-
-Madde 87, Fıkra bir, bent
-7,                                                30/12/1980        
-2365                14
-
-Madde 90, Fıkra
-dört,                                                          
-30/12/1980         2365               16
-
-Madde 177 ye 2791 sayılı  Kanunun 4 üncü  maddesiyle
-
-eklenen
-fıkra,                                                                          
-4/12/1985         3239             136
-
-Madde 183, Fıkra
-üç,                                                             
-4/12/1985         3239               16
-
-Madde 201,
-202                                                                      
-4/12/1985         3239             136
-
-Madde 203, Fıkra üç ve
-beş,                                                   
-4/12/1985         3239             136
-
-Madde 205 in yolcu bilet ücretleri ve sigorta primleri üze-
-
-rinden alınacak Damga Resmi Kayıtlarıyle
-
-ilgili
-hükümleri,                                                                         
-1/7/1964           488              31
-
-Madde
-206,                                                                             
-4/12/1985         3239             136
-
-Madde 220, bent
-5,                                                                  
-1/7/1964           488               31
-
-Madde 232, Fıkra
-üç,                                                             
-4/12/1985         3239             136
-
-Madde 233, Fıkra
-dört,                                                          
-4/12/1985         3239             136
-
-Madde 275, Fıkra
-üç,                                                           
-30/12/1980         2365               51
-
-Madde 297, Fıkra iki ve
-üç,                                                 30/12/1980        
-2365               52
-
-Madde 344 ün 8  numaralı  bendine 2791  sayılı  Kanun-
-
-un 10 uncu maddesiyle eklenen hüküm,                               
-4/12/1985         3239             136
-
-Mükerrer Madde 347 nin 1 numaralı bendine 2791 sayılı
-
-kanunun 11 inci maddesiyle eklenen hüküm,                        
-4/12/1985         3239            136
-
-Madde 352;
-
-I  inci  derece  usulsüzlüklere  ait  10  numaralı  bent  ve
-
-II nci derece usulsüzlüklere ait 3 numaralı bent,                  
-18/4/1984         2995                 4
-
-Madde
-354,                                                                           
-30/12/1980         2365               78
-
-Madde 356, bent 2 ve
-4,                                                         
-1/7/1964           488                 31
-
-Madde
-357,                                                                           
-30/12/1980         2365               81
-
-Madde
-370,                                                                           
-30/12/1980         2365               89
-
-Madde 379 ila 412 nci madde hükümleri (vergi uyuşmaz-
-
-lıklarına
-ilişkin)                                                                        
-6/1/1982         2577               63
-
-29/7/1970 tarih ve 1318 sayılı Kanuna 29/11/1984 gün ve
-
-3089 sayılı Kanunun 5 nci maddesiyle eklenen
-
-"Ek
-Madde"                                                                           
-24/3/1988         3418                41
-
-4/1/1961 tarih ve 213 sayılı Kanuna 3239 sayılı Kanun-
-
-la eklenen "Mükerrer Madde 415"                                        
-24/3/1988         3418                42
-
-193 sayılı Gelir Vergisi Kanununun 94 üncü maddesinin
-
-\(B) fıkrası ile mükerrer 116 ncı maddesinin
-
- yedinci
-fıkrası,                                                                       
-3/12/1988         3505               34
-
- 
