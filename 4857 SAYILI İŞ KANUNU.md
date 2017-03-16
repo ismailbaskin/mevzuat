@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 5838 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 6009 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -46,6 +46,26 @@ araçlar da işyerinden sayılır.
 
 İşyeri, işyerine bağlı yerler, eklentiler ve araçlar ile oluşturulan iş
 organizasyonu kapsamında bir bütündür.
+
+**(Ek fıkra:23/7/2010-6009/48 md.)** Bu Kanunun uygulanması bakımından;
+
+a\) İşyerinde iş sağlığı ve güvenliği hizmetlerinde görev yapmak üzere
+Bakanlıkça belgelendirilmiş hekimler, işyeri hekimini; mühendis, mimar
+ve teknik elemanlar ise iş güvenliği uzmanını,
+
+b\) İş sağlığı ve güvenliği hizmetlerini vermek üzere, gerekli donanım ve
+personele sahip olan Bakanlıkça yetkilendirilen kamu kurum ve
+kuruluşları ile Türk Ticaret Kanunu hükümlerine göre faaliyet gösteren
+şirketlerce kurulan ve işletilen müesseseler ortak sağlık ve güvenlik
+birimini,
+
+c\) İş sağlığı ve güvenliği hizmetlerinde görev yapacak işyeri hekimi ve
+iş güvenliği uzmanlarının eğitimlerini vermek üzere Bakanlıkça
+yetkilendirilen kamu kurum ve kuruluşları, üniversiteler ve Türk Ticaret
+Kanunu hükümlerine göre faaliyet gösteren şirketlerce kurulan ve
+işletilen müesseseler eğitim kurumunu,
+
+ifade eder.
 
 İşveren adına hareket eden ve işin, işyerinin ve işletmenin yönetiminde
 görev alan kimselere işveren vekili denir. İşveren vekilinin bu sıfatla
@@ -1956,18 +1976,27 @@ işletme dışında kurulu ortak sağlık ve güvenlik birimlerinden hizmet
 alarak da yerine getirebilir. Bu şekilde hizmet alınması işverenin
 sorumluklarını ortadan kaldırmaz.
 
-İşyeri sağlık ve güvenlik biriminde görevlendirilecek işyeri hekimleri,
-iş güvenliği uzmanları ve işverence görevlendirilecek diğer personelin
-nitelikleri, sayısı, işe alınmaları, görev, yetki ve sorumlulukları,
-çalışma şartları, eğitimleri ve belgelendirilmeleri, görevlerini nasıl
-yürütecekleri, işyerinde kurulacak sağlık ve güvenlik birimleri ile
-ortak sağlık ve güvenlik birimlerinin nitelikleri, ortak sağlık ve
-güvenlik birimlerinden hizmet alınmasına ilişkin hususlar ile bu
-birimlerde bulunması gereken personel, araç, gereç ve teçhizat,
-görevlendirilecek personelin eğitim ve nitelikleri Sağlık Bakanlığı,
-Türk Tabipleri Birliği ve Türk Mimar Mühendis Odaları Birliğinin
-görüşleri alınarak Çalışma ve Sosyal Güvenlik Bakanlığı tarafından
-çıkarılacak yönetmelikle düzenlenir.
+**(Ek fıkra:23/7/2010-6009/49 md.)** İşyeri sağlık ve güvenlik birimleri
+ile ortak sağlık ve güvenlik birimlerinin nitelikleri, ortak sağlık ve
+güvenlik birimlerinden hizmet alınmasına ilişkin hususlar, bu birimlerde
+bulunması gereken araç, gereç ve teçhizat ile görevlendirilecek işyeri
+hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin nitelikleri,
+sayısı, işe alınmaları, görev, yetki ve sorumlulukları, çalışma
+şartları, görevlerini nasıl yürütecekleri, eğitimleri ve
+belgelendirilmeleri ile eğitim kurumlarının yetkilendirilmeleri, işyeri
+hekimi ve iş güvenliği uzmanı eğitim programlarının ve bu programlarda
+görev alacak eğiticilerin niteliklerinin belirlenmesi ve
+belgelendirilmeleri ile eğitimlerin sonunda yapılacak sınavlar ilgili
+tarafların görüşü alınarak Çalışma ve Sosyal Güvenlik Bakanlığı
+tarafından çıkarılacak yönetmelikle düzenlenir.
+
+**(Ek fıkra:23/7/2010-6009/49 md.)** İşyeri hekimlerinin, işyeri sağlık
+ve güvenlik birimleri ile ortak sağlık ve güvenlik birimlerinde
+görevlendirilmeleri ve hizmet verilen işyerlerinde çalışan işçilerle
+sınırlı olmak üzere görevlerini yerine getirmeleri hususunda diğer
+kanunların kısıtlayıcı hükümleri uygulanmaz.
+
+**(Mülga fıkra:23/7/2010-6009/49 md.)**
 
 Kanuna veya kanunun verdiği yetkiye dayanılarak kurulan kamu kurum ve
 kuruluşlarında ilgili mevzuatına göre çalıştırılmakta olan hekimlere,
@@ -2670,6 +2699,8 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     5838              28/2/2009                 28/2/2009                                                  -                                        18
                                                                                                                                                          
                            (Mükerrer)                                                                                                                    
+
+  1.     6009              1/8/2010                  1/8/2010                                                   -                                        2, 81
   ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- --------------------------------------------------
 
 [^1]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
