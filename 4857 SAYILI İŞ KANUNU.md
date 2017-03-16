@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 5754 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 5763 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -124,14 +124,30 @@ ve soyadını yahut unvanını, adresini, varsa işveren vekili veya
 vekillerinin adı, soyadı ve adreslerini bir ay içinde bölge müdürlüğüne
 bildirmek zorundadır.
 
-Alt işveren, bu sıfatla mal veya hizmet üretimi için meydana getirdiği
-kendi işyeri için birinci fıkra hükmüne göre bildirim yapmakla
-yükümlüdür.
+**(Değişik ikinci fıkra:15/5/2008-5763/1 md.)** Bu Kanunun 2 nci
+maddesinin altıncı fıkrasına göre iş alan alt işveren; kendi işyerinin
+tescili için asıl işverenden aldığı yazılı alt işverenlik sözleşmesi ve
+gerekli belgelerle birlikte, birinci fıkra hükmüne göre bildirim
+yapmakla yükümlüdür. Bölge müdürlüğünce tescili yapılan bu işyerine ait
+belgeler gerektiğinde iş müfettişlerince incelenir. İnceleme sonucunda
+muvazaalı işlemin tespiti halinde, bu tespite ilişkin gerekçeli müfettiş
+raporu işverenlere tebliğ edilir. Bu rapora karşı tebliğ tarihinden
+itibaren altı işgünü içinde işverenlerce yetkili iş mahkemesine itiraz
+edilebilir. İtiraz üzerine verilen kararlar kesindir. Rapora altı iş
+günü içinde itiraz edilmemiş veya mahkeme muvazaalı işlemin tespitini
+onamış ise tescil işlemi iptal edilir ve alt işverenin işçileri
+başlangıçtan itibaren asıl işverenin işçileri sayılır.
 
 **(Ek fıkra:11/6/2003-4884/10 md.)** Ancak, şirketlerin tescil kayıtları
 ise ticaret sicili memurluklarının gönderdiği belgeler üzerinden yapılır
 ve bu belgeler ilgili ticaret sicili memurluğunca bir ay içinde Çalışma
 ve Sosyal Güvenlik Bakanlığı ilgili bölge müdürlüklerine gönderilir.
+
+**(Ek fıkra:15/5/2008-5763/1 md.)** Asıl işveren-alt işveren ilişkisinin
+kurulması, bildirimi ve işyerinin tescili ile yapılacak sözleşmede
+bulunması gerekli diğer hususlara ilişkin usul ve esaslar, Çalışma ve
+Sosyal Güvenlik Bakanlığı tarafından çıkarılacak yönetmelikle
+belirlenir.
 
 **İstisnalar**
 
@@ -832,39 +848,31 @@ toplu işçi çıkarmaya ilişkin hükümler uygulanmaz.
 madde hükümlerinin uygulanmasını engellemek amacıyla kullanamaz; aksi
 halde işçi bu maddelere göre dava açabilir.
 
-**Özürlü, eski hükümlü ve terör mağduru çalıştırma zorunluluğu**
+**Özürlü ve eski hükümlü çalıştırma zorunluluğu **
 
-**MADDE 30. -** İşverenler elli veya daha fazla işçi çalıştırdıkları
-işyerlerinde her yılın Ocak ayı başından itibaren yürürlüğe girecek
-şekilde Bakanlar Kurulunca belirlenecek oranlarda özürlü ve eski hükümlü
-ile 3713 sayılı Terörle Mücadele Kanununun ek 1 inci maddesinin (B)
-fıkrası uyarınca istihdamı zorunlu olan terör mağduru işçiyi meslek,
-beden ve ruhi durumlarına uygun işlerde çalıştırmakla yükümlüdürler. Bu
-kapsamda çalıştırılacak işçilerin toplam oranı yüzde altıdır. Ancak
-özürlüler için belirlenecek oran, toplam oranın yarısından az olamaz.
-Aynı il sınırları içinde birden fazla işyeri bulunan işverenin bu
-kapsamda çalıştırmakla yükümlü olduğu işçi sayısı, toplam işçi sayısına
-göre hesaplanır.
+**MADDE 30 – (Başlığıyla birlikte değişik madde:15/5/2008-5763/2 md.)**
+[^1]
 
-Bu kapsamda çalıştırılacak işçi sayısının tespitinde belirsiz süreli iş
-sözleşmesine ve belirli süreli iş sözleşmesine göre çalıştırılan işçiler
-esas alınır. Kısmi süreli iş sözleşmesine göre çalışanlar, çalışma
-süreleri dikkate alınarak tam süreli çalışmaya dönüştürülür.
+İşverenler, elli veya daha fazla işçi çalıştırdıkları özel sektör
+işyerlerinde yüzde üç özürlü, kamu işyerlerinde ise yüzde dört özürlü ve
+yüzde iki eski hükümlü işçiyi meslek, beden ve ruhi durumlarına uygun
+işlerde çalıştırmakla yükümlüdürler. Aynı il sınırları içinde birden
+fazla işyeri bulunan işverenin bu kapsamda çalıştırmakla yükümlü olduğu
+işçi sayısı, toplam işçi sayısına göre hesaplanır.
 
-Oranların hesaplanmasında yarıma kadar kesirler dikkate alınmaz, yarım
-ve daha fazla olanlar tama dönüştürülür.
-
-İşyerinin işçisi iken sakatlanan, eski hükümlü ya da terör mağduru
-olanlara öncelik tanınır.
+Bu kapsamda çalıştırılacak işçi sayısının tespitinde belirli ve belirsiz
+süreli iş sözleşmesine göre çalıştırılan işçiler esas alınır. Kısmi
+süreli iş sözleşmesine göre çalışanlar, çalışma süreleri dikkate
+alınarak tam süreli çalışmaya dönüştürülür. Oranın hesaplanmasında
+yarıma kadar kesirler dikkate alınmaz, yarım ve daha fazla olanlar tama
+dönüştürülür. İşyerinin işçisi iken sakatlananlara öncelik tanınır.
 
 İşverenler çalıştırmakla yükümlü oldukları işçileri Türkiye İş Kurumu
-aracılığı ile sağlarlar.
-
-Bu kapsamda çalıştırılacak işçilerin nitelikleri, hangi işlerde
-çalıştırılabilecekleri, bunların işyerlerinde genel hükümler dışında
-bağlı olacakları özel çalışma ile mesleğe yöneltilmeleri, mesleki yönden
-işverence nasıl işe alınacakları, Adalet Bakanlığı ile Çalışma ve Sosyal
-Güvenlik Bakanlığınca birlikte çıkarılacak yönetmelikle düzenlenir.
+aracılığı ile sağlarlar. Bu kapsamda çalıştırılacak işçilerin
+nitelikleri, hangi işlerde çalıştırılabilecekleri, bunların işyerlerinde
+genel hükümler dışında bağlı olacakları özel çalışma ile mesleğe
+yöneltilmeleri, mesleki yönden işverence nasıl işe alınacakları, Çalışma
+ve Sosyal Güvenlik Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
 
 Yer altı ve su altı işlerinde özürlü işçi çalıştırılamaz ve yukarıdaki
 hükümler uyarınca işyerlerindeki işçi sayısının tespitinde yer altı ve
@@ -879,32 +887,47 @@ bulunduğu halde işveren iş sözleşmesi yapma yükümlülüğünü yerine
 getirmezse, işe alınma isteğinde bulunan eski işçiye altı aylık ücret
 tutarında tazminat öder.
 
-Eski hükümlü çalıştırılmasında kanunlardaki kamu güvenliği ile ilgili
-hizmetlere ilişkin özel hükümler saklıdır.
-
-Bakanlar Kurulunca belirlenecek oranların üstünde özürlü ve eski hükümlü
-ve terör mağduru çalıştıran işverenlerin kontenjan fazlası işçiler için
-özürlü ve eski hükümlü çalıştırmakla yükümlü olmadıkları halde özürlü
-çalıştıran veya çalışma gücünü yüzde seksenden fazla kaybetmiş özürlüyü
-çalıştıran işverenlerin bu şekilde çalıştırdıkları her bir özürlü için
-506 sayılı Sosyal Sigortalar Kanununa göre ödemeleri gereken işveren
-sigorta prim hisselerinin yüzde ellisini kendisi, yüzde ellisini Hazine
-öder.
+Özel sektör işverenlerince bu madde kapsamında çalıştırılan 17/7/1964
+tarihli ve 506 sayılı Sosyal Sigortalar Kanununa tabi özürlü
+sigortalılar ile 1/7/2005 tarihli ve 5378 sayılı Kanunun 14 üncü
+maddesinde belirtilen korumalı işyerlerinde çalıştırılan özürlü
+sigortalıların, aynı Kanunun 72 nci ve 73 üncü maddelerinde sayılan ve
+78 inci maddesiyle belirlenen prime esas kazanç alt sınırı üzerinden
+hesaplanan sigorta primine ait işveren hisselerinin tamamı, kontenjan
+fazlası özürlü çalıştıran, yükümlü olmadıkları halde özürlü çalıştıran
+işverenlerin bu şekilde çalıştırdıkları her bir özürlü için prime esas
+kazanç alt sınırı üzerinden hesaplanan sigorta primine ait işveren
+hisselerinin yüzde ellisi Hazinece karşılanır. İşveren hissesine ait
+primlerin Hazinece karşılanabilmesi için işverenlerin çalıştırdıkları
+sigortalılarla ilgili olarak 506 sayılı Kanun uyarınca aylık prim ve
+hizmet belgelerinin yasal süresi içerisinde Sosyal Güvenlik Kurumuna
+verilmesi ve sigortalıların tamamına ait sigorta primlerinin sigortalı
+hissesine isabet eden tutarı ile Hazinece karşılanmayan işveren
+hissesine ait tutarın ödenmiş olması şarttır. Bu fıkraya göre işveren
+tarafından ödenmesi gereken primlerin geç ödenmesi halinde, Hazinece
+Sosyal Güvenlik Kurumuna yapılacak ödemenin gecikmesinden kaynaklanan
+gecikme zammı, işverenden tahsil edilir. Hazinece karşılanan prim
+tutarları gelir ve kurumlar vergisi uygulamalarında gider veya maliyet
+unsuru olarak dikkate alınmaz. Bu fıkranın uygulanmasına ilişkin usul ve
+esaslar Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığı ve
+Hazine Müsteşarlığı tarafından müştereken belirlenir. [^2]
 
 Bu maddeye aykırılık hallerinde 101 inci madde uyarınca tahsil edilecek
-para cezaları Türkiye İş Kurumu bütçesinin Maliye Bakanlığınca açılacak
-özel tertibine gelir kaydedilir. Bu hesapta toplanan paralar özürlü ve
-eski hükümlülerin mesleki eğitim ve mesleki rehabilitasyonu, kendi işini
-kurma ve bu gibi projelerde kullanılmak üzere Türkiye İş Kurumuna
-aktarılır. Toplanan paraların nerelere ve ne kadar verileceği Türkiye İş
-Kurumu Genel Müdürlüğünün koordinatörlüğünde, Çalışma ve Sosyal Güvenlik
-Bakanlığı Çalışma Genel Müdürlüğü, İş Sağlığı ve Güvenliği Genel
-Müdürlüğü, Özürlüler İdaresi Başkanlığı, Adalet Bakanlığı Ceza ve Tevkif
-Evleri Genel Müdürlüğü, Türkiye Sakatlar Konfederasyonu ve en çok işçi
-ve işvereni temsil eden üst kuruluşların birer temsilcilerinden oluşan
-komisyon tarafından karara bağlanır. Komisyonun çalışma usul ve esasları
-Çalışma ve Sosyal Güvenlik Bakanlığınca çıkarılacak yönetmelikle
-düzenlenir.
+cezalar, özürlülerin ve eski hükümlülerin mesleki eğitim ve mesleki
+rehabilitasyonu, kendi işini kurmaları, özürlünün iş bulmasını
+sağlayacak destek teknolojileri ve bu gibi projelerde kullanılır. Tahsil
+edilen cezaların kullanımına ilişkin hususlar, Türkiye İş Kurumu Genel
+Müdürlüğünün koordinatörlüğünde, Çalışma ve Sosyal Güvenlik Bakanlığı
+Çalışma Genel Müdürlüğü, Çalışma ve Sosyal Güvenlik Bakanlığı İş Sağlığı
+ve Güvenliği Genel Müdürlüğü, Özürlüler İdaresi Başkanlığı, Adalet
+Bakanlığı Ceza ve Tevkif Evleri Genel Müdürlüğü ve Türkiye Sakatlar
+Konfederasyonu ile en çok işçi ve işvereni temsil eden üst kuruluşların
+birer temsilcilerinden oluşan komisyon tarafından karara bağlanır.
+Komisyonun çalışma usul ve esasları Çalışma ve Sosyal Güvenlik
+Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+
+Eski hükümlü çalıştırılmasında, kanunlardaki kamu güvenliği ile ilgili
+hizmetlere ilişkin özel hükümler saklıdır.
 
 **Askerlik ve kanundan doğan çalışma**
 
@@ -990,17 +1013,7 @@ mağazalarda, buralarda çalışanlar hariç, ücret ödemesi yapılamaz.
 
 **İşverenin ödeme aczine düşmesi**
 
-**MADDE 33. -** İşverenin konkordato ilan etmesi, işveren için aciz
-vesikası alınması veya iflası nedenleri ile işverenin ödeme güçlüğüne
-düştüğü hallerde geçerli olmak üzere, işçilerin iş ilişkisinden
-kaynaklanan son üç aylık ücret alacaklarını karşılamak amacı ile
-İşsizlik Sigortası Fonu kapsamında ayrı bir Ücret Garanti Fonu
-oluşturulur.
-
-Ücret Garanti Fonu, işverenlerce işsizlik sigortası primi olarak yapılan
-ödemelerin yıllık toplamının yüzde biridir. Ücret Garanti Fonunun
-oluşumu ve uygulanması ile ilgili usul ve esaslar Çalışma ve Sosyal
-Güvenlik Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+**MADDE 33. -** **(Mülga madde:15/5/2008-5763/37 md.) **
 
 **Ücretin gününde ödenmemesi**
 
@@ -1574,45 +1587,7 @@ yaptırılamaz.
 
 **Kısa çalışma ve kısa çalışma ödeneği**
 
-**MADDE 65. -** Genel ekonomik kriz veya zorlayıcı sebeplerle
-işyerindeki haftalık çalışma sürelerini geçici olarak önemli ölçüde
-azaltan veya işyerinde faaliyeti tamamen veya kısmen geçici olarak
-durduran işveren, durumu derhal gerekçeleri ile birlikte Türkiye İş
-Kurumuna, varsa toplu iş sözleşmesi tarafı sendikaya bir yazı ile
-bildirir. Talebin uygunluğunun tespiti Çalışma ve Sosyal Güvenlik
-Bakanlığınca yapılır. Bunun usul ve esasları bir yönetmelikle
-belirlenir.
-
-Yukarıda belirtilen nedenlerle işyerinde geçici olarak en az dört hafta
-işin durması veya kısa çalışma hallerinde işçilere çalıştırılmadıkları
-süre için işsizlik sigortasından kısa çalışma ödeneği ödenir. Kısa
-çalışma süresi, zorlayıcı sebebin devamı süresini ve herhalde üç ayı
-aşamaz. İşçinin kısa çalışma ödeneğine hak kazanabilmesi için, çalışma
-süreleri ve işsizlik sigortası primi ödeme gün sayısı bakımından
-işsizlik ödeneğine hak kazanma şartlarını yerine getirmesi gerekir.
-
-Günlük kısa çalışma ödeneğinin miktarı, işsizlik ödeneğinin miktarı
-kadardır.
-
-Zorlayıcı sebeplerle işyerinde faaliyetin tamamen veya kısmen geçici
-olarak durması halinde, işsizlik ödeneği ödemeleri 24 üncü maddenin
-(III) numaralı bendinde ve 40 ıncı maddede öngörülen bir haftalık
-süreden sonra başlar.
-
-Kısa çalışma ödeneği aldığı süre içinde işçinin hastalık ve analık
-sigortasına ait primler İşsizlik Sigortası Fonu tarafından 2/3 oranında
-Sosyal Sigortalar Kurumuna aktarılır. Bu primler, sigorta primlerinin
-hesabında esas alınan en alt kazanç sınırı üzerinden hesaplanır. İşçi,
-işsizlik ödeneğinden yararlanma süresini doldurmadan tekrar işe başlar
-ve işsizlik sigortasından yararlanmak için 4447 sayılı Kanunun öngördüğü
-koşullar gerçekleşmeden işsiz kalırsa, kısa çalışma ödeneği aldığı süre
-çıkarıldıktan sonra, daha önce hak ettiği işsizlik ödeneği süresini
-dolduruncaya kadar işsizlik ödeneğinden yararlanır.
-
-Kısa çalışma ödeneğinin ödeme süresi içinde ödenmesi gereken geçici iş
-göremezlik ödeneğinin miktarı kısa çalışma ödeneğinin miktarından fazla
-olamaz. Geçici iş göremezlik ödeneğinin ödendiği dönemde, bu maddede
-öngörülen hastalık ve analık sigortası primi ödenmez.
+**MADDE 65. -** **(Mülga madde:15/5/2008-5763/37 md.) **
 
 **Çalışma süresinden sayılan haller**
 
@@ -1862,24 +1837,26 @@ müdürlüğüne bildirmek zorundadırlar.
 Bu bölümde ve iş sağlığı ve güvenliğine ilişkin tüzük ve yönetmeliklerde
 yer alan hükümler işyerindeki çıraklara ve stajyerlere de uygulanır.
 
-**Sağlık ve güvenlik tüzük ve yönetmelikleri**
+**İş sağlığı ve güvenliği yönetmelikleri**
 
-**MADDE 78. -** Sağlık Bakanlığının görüşünü alarak Çalışma ve Sosyal
-Güvenlik Bakanlığı işyerlerinde iş sağlığı ve güvenliği önlemlerinin
-alınması, makineler, tesisat, araç ve gereçler ile kullanılan maddeler
-sebebiyle ortaya çıkabilecek iş kazaları ve meslek hastalıklarının
-önlenmesi, yaş, cinsiyet ve özel durumları sebebiyle korunması gereken
-kişilerin çalışma şartlarının düzenlenmesi amacıyla tüzük ve
-yönetmelikler çıkarır.
+**MADDE 78. -** **(Başlığıyla birlikte değişik madde:15/5/2008-5763/3
+md.) **
 
-Ayrıca bu Kanuna tabi işyerlerinde, işçi sayısı, genişlik, yapılan iş,
-işin özellikleri, ağırlık ve tehlikesi bakımından hangi işyerleri için
-kurulmaya başlamadan önce planların Çalışma ve Sosyal Güvenlik
-Bakanlığının yetkili teşkilatına gösterilerek kurma izni alınacağı bu
-işyerleri kurulduktan sonra yine aynı makama başvurularak işletme
-belgesi alınması gerekeceği, Sağlık Bakanlığının görüşü alınarak Çalışma
-ve Sosyal Güvenlik Bakanlığı tarafından hazırlanacak bir yönetmelikle
-belirlenir.
+Bu Kanuna tabi işyerlerinde iş sağlığı ve güvenliği şartlarının
+belirlenmesi ve gerekli önlemlerin alınması, işyerlerinde kullanılan
+araç, gereç, makine ve hammaddeler yüzünden çıkabilecek iş kazaları ve
+meslek hastalıklarının önlenmesi ve özel durumları sebebiyle korunması
+gereken kişilerin çalışma şartlarının düzenlenmesi, ayrıca iş sağlığı ve
+güvenliği mevzuatına uygunluğu yönünden; işçi sayısı, işin ve işyerinin
+özellikleri ile tehlikesi dikkate alınarak işletme belgesi alması
+gereken işyerleri ile belgelendirilmesi gereken işler veya ürünler ve bu
+belge veya belgelerin alınmasına ilişkin usul ve esaslar, iş sağlığı ve
+güvenliği ile ilgili konularda yapılacak risk değerlendirmesi, kontrol,
+ölçüm, inceleme ve araştırmaların usul ve esasları ile bunları yapacak
+kişi ve kuruluşların niteliklerinin belirlenmesi, gerekli iznin
+verilmesi ve verilen iznin iptal edilmesi Sağlık Bakanlığının görüşü
+alınarak Çalışma ve Sosyal Güvenlik Bakanlığınca çıkarılacak
+yönetmeliklerle belirlenir.
 
 **İşin durdurulması veya işyerinin kapatılması**
 
@@ -1947,45 +1924,58 @@ hazırlanacak bir yönetmelikte gösterilir.
 
 **İşyeri hekimleri**
 
-**MADDE 81. -** Devamlı olarak en az elli işçi çalıştıran işverenler,
-Sosyal Sigortalar Kurumunca sağlanan tedavi hizmetleri dışında kalan,
-işçilerin sağlık durumunun ve alınması gereken iş sağlığı ve güvenliği
-önlemlerinin sağlanması, ilk yardım ve acil tedavi ile koruyucu sağlık
-hizmetlerini yürütmek üzere işyerindeki işçi sayısına ve işin tehlike
-derecesine göre bir veya daha fazla işyeri hekimi çalıştırmak ve bir
-işyeri sağlık birimi oluşturmakla yükümlüdür.
+**MADDE 81. –** **(Başlığıyla birlikte değişik madde:15/5/2008-5763/4
+md.)**
 
-İşyeri hekimlerinin nitelikleri, sayısı, işe alınmaları, görev, yetki ve
-sorumlulukları, eğitimleri, çalışma şartları, görevlerini nasıl
-yürütecekleri ile işyeri sağlık birimleri, Sağlık Bakanlığı ve Türk
-Tabipleri Birliğinin görüşü alınarak Çalışma ve Sosyal Güvenlik
-Bakanlığı tarafından çıkarılacak bir yönetmelikte düzenlenir.
+İşverenler, devamlı olarak en az elli işçi çalıştırdıkları işyerlerinde
+alınması gereken iş sağlığı ve güvenliği önlemlerinin belirlenmesi ve
+uygulanmasının izlenmesi, iş kazası ve meslek hastalıklarının önlenmesi,
+işçilerin ilk yardım ve acil tedavi ile koruyucu sağlık ve güvenlik
+hizmetlerinin yürütülmesi amacıyla, işyerindeki işçi sayısı, işyerinin
+niteliği ve işin tehlike sınıf ve derecesine göre;
 
-**(Ek fıkra:1/7/2006-5538/18 md.)** Kanuna veya kanunun verdiği yetkiye
-dayanılarak kurulan kamu kurum ve kuruluşlarında ilgili mevzuatına göre
-çalıştırılmakta olan hekimlere, ikinci fıkrada öngörülen eğitimler
-aldırılmak suretiyle ve aslî görevleri kapsamında, çalışmakta oldukları
-kurum ve kuruluşların asıl işveren olarak çalıştırdıkları işçilerin iş
-yeri hekimliği hizmetleri gördürülür. Bu kurum ve kuruluşların diğer
-personel için oluşturulmuş olan sağlık birimleri iş yeri sağlık birimi
-olarak da kullanılabilir.
+a\) İşyeri sağlık ve güvenlik birimi oluşturmakla,
+
+b\) Bir veya birden fazla işyeri hekimi ile gereğinde diğer sağlık
+personelini görevlendirmekle,
+
+c\) Sanayiden sayılan işlerde iş güvenliği uzmanı olan bir veya birden
+fazla mühendis veya teknik elemanı görevlendirmekle,
+
+yükümlüdürler.
+
+İşverenler, bu yükümlülüklerinin tamamını veya bir kısmını, bünyesinde
+çalıştırdığı ve bu maddeye dayanılarak çıkarılacak yönetmelikte
+belirtilen vasıflara sahip personel ile yerine getirebileceği gibi,
+işletme dışında kurulu ortak sağlık ve güvenlik birimlerinden hizmet
+alarak da yerine getirebilir. Bu şekilde hizmet alınması işverenin
+sorumluklarını ortadan kaldırmaz.
+
+İşyeri sağlık ve güvenlik biriminde görevlendirilecek işyeri hekimleri,
+iş güvenliği uzmanları ve işverence görevlendirilecek diğer personelin
+nitelikleri, sayısı, işe alınmaları, görev, yetki ve sorumlulukları,
+çalışma şartları, eğitimleri ve belgelendirilmeleri, görevlerini nasıl
+yürütecekleri, işyerinde kurulacak sağlık ve güvenlik birimleri ile
+ortak sağlık ve güvenlik birimlerinin nitelikleri, ortak sağlık ve
+güvenlik birimlerinden hizmet alınmasına ilişkin hususlar ile bu
+birimlerde bulunması gereken personel, araç, gereç ve teçhizat,
+görevlendirilecek personelin eğitim ve nitelikleri Sağlık Bakanlığı,
+Türk Tabipleri Birliği ve Türk Mimar Mühendis Odaları Birliğinin
+görüşleri alınarak Çalışma ve Sosyal Güvenlik Bakanlığı tarafından
+çıkarılacak yönetmelikle düzenlenir.
+
+Kanuna veya kanunun verdiği yetkiye dayanılarak kurulan kamu kurum ve
+kuruluşlarında ilgili mevzuatına göre çalıştırılmakta olan hekimlere,
+üçüncü fıkrada öngörülen eğitimler aldırılmak suretiyle ve aslî
+görevleri kapsamında, çalışmakta oldukları kurum ve kuruluşların asıl
+işveren olarak çalıştırdıkları işçilerin işyeri hekimliği hizmetleri
+gördürülür. Bu kurum ve kuruluşların diğer personel için oluşturulmuş
+olan sağlık birimleri, işyeri sağlık ve güvenlik birimi olarak da
+kullanılabilir.
 
 **İş güvenliği ile görevli mühendis veya teknik elemanlar**
 
-**MADDE 82. -** Bu Kanuna göre sanayiden sayılan, devamlı olarak en az
-elli işçi çalıştıran ve altı aydan fazla sürekli işlerin yapıldığı
-işyerlerinde işverenler, işyerinin iş güvenliği önlemlerinin sağlanması,
-iş kazalarının ve meslek hastalıklarının önlenmesi için alınacak
-önlemlerin belirlenmesi ve uygulanmasının izlenmesi hizmetlerini
-yürütmek üzere işyerindeki işçi sayısına, işyerinin niteliğine ve
-tehlikelilik derecesine göre bir veya daha fazla mühendis veya teknik
-elemanı görevlendirmekle yükümlüdürler.
-
-İş güvenliği ile görevli mühendis veya teknik elemanların nitelikleri,
-sayısı, görev, yetki ve sorumlulukları, eğitimleri, çalışma şartları,
-görevlerini nasıl yürütecekleri, Türk Mühendis ve Mimar Odaları
-Birliğinin görüşü alınarak Çalışma ve Sosyal Güvenlik Bakanlığınca
-çıkarılacak bir yönetmelikle düzenlenir.
+**MADDE 82. -** **(Mülga madde:15/5/2008-5763/37 md.) **
 
 **İşçilerin hakları**
 
@@ -2041,8 +2031,10 @@ zorunda olan,
 
 **Ağır ve tehlikeli işler**
 
-**MADDE 85. -** Onaltı yaşını doldurmamış genç işçiler ve çocuklar ağır
-ve tehlikeli işlerde çalıştırılamaz.
+**MADDE 85. -** Onaltı yaşını doldurmamış genç işçiler ve çocuklar **(Ek
+altı çizili ibare:15/5/2008-5763/5 md.)**[^3] *ile çalıştığı işle ilgili
+mesleki eğitim almamış işçiler* ağır ve tehlikeli işlerde
+çalıştırılamaz.
 
 Hangi işlerin ağır ve tehlikeli işlerden sayılacağı, kadınlarla onaltı
 yaşını doldurmuş fakat onsekiz yaşını bitirmemiş genç işçilerin hangi
@@ -2096,9 +2088,11 @@ Bu raporlar damga vergisi ve her çeşit resim ve harçtan muaftır.
 **MADDE 88. -** Gebe veya çocuk emziren kadınların hangi dönemlerde ne
 gibi işlerde çalıştırılmalarının yasak olduğu ve bunların çalışmalarında
 sakınca olmayan işlerde hangi şartlar ve usullere uyacakları, ne suretle
-emzirme odaları veya çocuk bakım yurdu (kreş) kurulması gerektiği Sağlık
-Bakanlığının görüşü alınarak Çalışma ve Sosyal Güvenlik Bakanlığı
-tarafından hazırlanacak bir yönetmelikte gösterilir.
+emzirme odaları veya çocuk bakım yurdu (kreş) kurulması gerektiği **(Ek
+altı çizili ibare:15/5/2008-5763/6 md.)** *veya hangi hallerde dışarıdan
+hizmet alabilecekleri* Sağlık Bakanlığının görüşü alınarak Çalışma ve
+Sosyal Güvenlik Bakanlığı tarafından hazırlanacak bir yönetmelikte
+gösterilir.
 
 **Çeşitli yönetmelikler**
 
@@ -2197,13 +2191,13 @@ vergisi ve her çeşit resim ve harçtan muaftır.
 
 **Diğer merciler tarafından yapılan teftişler**
 
-**MADDE 95. -** İşyerinin kurulup açılmasına izin vermeye yetkili
-belediyelerle diğer ilgili makamlar işyerinin kurulmasına ve
-işletilmesine izin vermeden önce, Çalışma ve Sosyal Güvenlik
-Bakanlığınca iş mevzuatına göre verilmesi gerekli kurma izni ve işletme
-belgesinin varlığını araştırır. Çalışma ve Sosyal Güvenlik Bakanlığınca
-kurma izni ve işletme belgesi verilmemiş işyerlerine belediyeler veya
-diğer ilgili makamlarca da kurma veya açılma izni verilemez.
+**MADDE 95. -** **(Değişik birinci fıkra:15/5/2008-5763/7 md.)**
+İşyerinin açılmasına izin vermeye yetkili belediyeler ile diğer ilgili
+makamlar bu izni vermeden önce, Çalışma ve Sosyal Güvenlik Bakanlığınca
+iş mevzuatına göre verilmesi gerekli işletme belgesinin varlığını
+araştırır. Çalışma ve Sosyal Güvenlik Bakanlığınca işletme belgesi
+verilmemiş işyerlerine belediyeler veya diğer ilgili makamlarca açılma
+izni verilemez.
 
 Kamu kurum ve kuruluşları, işyerlerinde yapacakları iş sağlığı ve
 güvenliği ile ilgili teftiş ve denetlemelerin sonuçlarını ve yapacakları
@@ -2248,9 +2242,14 @@ SEKİZİNCİ BÖLÜM
 
 **İşyerini bildirme yükümlülüğüne aykırılık**
 
-**MADDE 98. -** Bu Kanunun 3 üncü maddesindeki işyeri bildirme
-yükümlülüğüne aykırı davranan işveren veya işveren vekiline çalıştırılan
-her işçi için elli milyon lira para cezası verilir.
+**MADDE 98. -** **(Değişik birinci fıkra:15/5/2008-5763/8 md.)** Bu
+Kanunun 3 üncü maddesinin birinci ve ikinci fıkralarındaki işyeri
+bildirme yükümlülüğüne aykırı davranan işveren veya işveren vekiline,
+çalıştırılan her işçi için yüz Yeni Türk Lirası, 85 inci madde
+kapsamındaki işyerlerinde ise çalıştırılan her işçi için bin Yeni Türk
+Lirası, 3 üncü maddesinin ikinci fıkrasındaki işyerini muvazaalı olarak
+bildiren asıl işveren ile alt işveren veya vekillerine ayrı ayrı on bin
+Yeni Türk Lirası idari para cezası verilir.
 
 Bu para cezasının kesinleşmesinden sonra bildirim yükümlülüğüne
 aykırılığın sürmesi halinde takip eden her ay için aynı miktar ceza
@@ -2351,39 +2350,40 @@ cezası verilir.
 
 **İş sağlığı ve güvenliği ile ilgili hükümlere aykırılık**
 
-**MADDE 105. -** Bu Kanunun 78 inci maddesinin birinci fıkrasında
-belirtilen tüzük ve yönetmeliklerdeki hükümlere uymayan işveren veya
-işveren vekiline alınmayan her iş sağlığı ve güvenliği önlemi için elli
-milyon lira para cezası verilir. Alınmayan önlemler oranında izleyen her
-ay için aynı miktar para cezası uygulanır.
+**MADDE 105. -** **(Değişik madde:15/5/2008-5763/9 md.) **
 
-Bu Kanunun 77 nci maddesi hükmüne aykırı hareket eden, 78 inci maddenin
-ikinci fıkrasına aykırı olarak kurma izni ve işletme belgesi almadan bir
-işyeri açan, 79 uncu maddesi hükmüne aykırı olarak faaliyeti durdurulan
-işi izin almadan devam ettiren, kapatılan işyerlerini izinsiz açan, 80
-inci maddesinde öngörülen iş sağlığı ve güvenliği kurullarının kurulması
-ve çalıştırılması ile ilgili hükümlere aykırı davranan; iş sağlığı ve
-güvenliği kurullarınca alınan kararları uygulamayan, 81 inci maddesine
-aykırı olarak işyeri hekimi çalıştırma ve işyeri sağlık birimi oluşturma
-yükümlülüğünü yerine getirmeyen, 82 nci maddesine aykırı olarak iş
-güvenliği ile görevli mühendis veya teknik eleman görevlendirme
-yükümlülüğünü yerine getirmeyen işveren veya işveren vekiline beşyüzer
-milyon lira para cezası verilir.
+Bu Kanunun;
 
-Bu Kanunun 85 inci maddesine aykırı olarak ağır ve tehlikeli işlerde
+a\) 78 inci maddesinde öngörülen yönetmeliklerdeki hükümlere uymayan
+işveren veya işveren vekiline, alınmayan her iş sağlığı ve güvenliği
+önlemi için iki yüz Yeni Türk Lirası, alınmayan önlemler için izleyen
+her ay aynı miktar,
+
+b\) 86 ncı maddesi uyarınca işçilere doktor raporu almayan işveren veya
+işveren vekiline bu durumda olan her işçi için, 87 nci maddesi gereğince
+çocuklara doktor raporu almayan işveren veya işveren vekiline bu
+durumdaki her çocuk için iki yüz Yeni Türk Lirası,
+
+c\) 77 nci maddesine aykırı hareket eden, 78 inci maddesi gereği işletme
+belgesi almadan işyeri açan veya belgelendirilmesi gereken işler veya
+ürünler için belge almayan, 79 uncu maddesi gereğince faaliyeti
+durdurulan işi izin almadan devam ettiren veya kapatılan işyerlerini
+izinsiz açan, 80 inci maddesinde öngörülen iş sağlığı ve güvenliği
+kurullarının kurulması ve çalıştırılması ile ilgili hükümlere aykırı
+davranan, iş sağlığı ve güvenliği kurullarınca alınan kararları
+uygulamayan, 81 inci maddesinde belirtilen yükümlülükleri yerine
+getirmeyen, 88 ve 89 uncu maddelerinde öngörülen yönetmeliklerde
+gösterilen şartlara ve usullere uymayan işveren veya işveren vekiline
+biner Yeni Türk Lirası,
+
+d\) Bu Kanunun 85 inci maddesine aykırı olarak ağır ve tehlikeli işlerde
 onaltı yaşından küçükleri çalıştıran veya aynı maddede belirtilen
 yönetmelikte gösterilen yaş kayıtlarına aykırı işçi çalıştıran işveren
-veya işveren vekiline beşyüz milyon lira para cezası verilir.
+veya işveren vekiline her işçi için bin Yeni Türk Lirası, aynı maddenin
+birinci fıkrasında belirtilen mesleki eğitim almamış işçi çalıştıran
+işveren veya işveren vekiline her işçi için beşyüz Yeni Türk Lirası,
 
-Bu Kanunun 86 ncı maddesi uyarınca işçilere doktor raporu almayan
-işveren veya işveren vekiline bu durumda olan her işçi için yüz milyon
-lira ve 87 nci madde gereğince çocuklara doktor raporu almayan işveren
-veya işveren vekiline bu durumdaki her bir çocuk için yüz milyon lira
-para cezası verilir.
-
-Bu Kanunun 88 inci ve 89 uncu maddelerinde öngörülen yönetmeliklerde
-gösterilen şartlara ve usullere uymayan işveren veya işveren vekiline
-beşyüz milyon lira para cezası verilir.
+idari para cezası verilir.
 
 **İş ve işçi bulma hükümlerine aykırılık**
 
@@ -2412,14 +2412,15 @@ para cezası verilir.
 
 **İdari para cezalarının uygulanmasına ilişkin hususlar **
 
-**MADDE 108. –** **(Değişik birinci fıkra:1/7/2005-5378/39 md.)** Bu
-Kanunda öngörülen idari para cezaları, 101 inci maddedeki idari para
-cezaları hariç, gerekçesi belirtilmek suretiyle Çalışma ve Sosyal
-Güvenlik Bakanlığı Bölge Müdürünce verilir. 101 inci madde kapsamındaki
-idari para cezaları ise, doğrudan Türkiye İş Kurumu İl Müdürü tarafından
-verilir.
+**MADDE 108. –** **(Değişik madde:15/5/2008-5763/10 md.) **
 
-**(Mülga ikinci fıkra:23/1/2008-5728/578 md.) **
+Bu Kanunda öngörülen idari para cezaları, 101 ve 106 ncı maddelerdeki
+idari para cezaları hariç, gerekçesi belirtilmek suretiyle Çalışma ve
+Sosyal Güvenlik Bakanlığı Bölge Müdürünce verilir. 101 ve 106 ncı
+maddeler kapsamındaki idari para cezaları ise doğrudan Türkiye İş Kurumu
+İl Müdürü tarafından verilir ve genel esaslara göre tahsil edilir. 106
+ncı maddeye göre verilecek idari para cezası için, 4904 sayılı Kanunun
+20 nci maddesinin (h) bendindeki tutar esas alınır.
 
 DOKUZUNCU BÖLÜM
 
@@ -2444,14 +2445,86 @@ düzenlenir.
 
 **Sanayi, ticaret, tarım ve orman işleri**
 
-**MADDE 111. -** Bir işin bu Kanunun uygulanması bakımından sanayi,
-ticaret, tarım ve orman işlerinden sayılıp sayılamayacağını Çalışma ve
-Sosyal Güvenlik Bakanlığı bir yönetmelikle belirler.
+**MADDE 111. -** **(Değişik madde:15/5/2008-5763/11 md.) **
 
-Tarım ve ormandan sayılan işlerde çalışanların, çalışma koşullarına
-ilişkin hükümleri, hizmet akdi, ücret, işin düzenlenmesi ile ilgili
-hususlar Çalışma ve Sosyal Güvenlik Bakanlığınca çıkarılacak
-yönetmelikle düzenlenir.
+Bu Kanunun uygulanması bakımından; sanayiden, ticaretten, tarım ve orman
+işlerinden sayılacak işlerin esasları aşağıda belirtilmiştir.
+
+Sanayiden sayılacak işlerin esasları şunlardır:
+
+a\) Her türlü madenleri arama ve topraktan çıkarma, taş, kum ve kireç
+ocakları.
+
+b\) Ham, yarı ve tam yapılmış maddelerin işlenmesi, temizlenmesi,
+şeklinin değiştirilmesi, süslenmesi, satış için hazırlanması.
+
+c\) Her türlü kurma, onarma, sökme, dağıtma ve yıkma.
+
+d\) Bina yapılması ve onarımı, değiştirilmesi, bozulması, yıkılması ve
+bunlara yardımcı her türlü sınai yapım.
+
+e\) Yol, demiryolu, tramvay yolu, liman, kanal, baraj, havaalanı,
+dalgakıran, tünel, köprü, lağım ve kuyuların yapılması ve onarımı,
+batıkların çıkarılması ve bataklık kurutma.
+
+f\) Elektrik ve her çeşit muharrik kuvvetlerin elde edilmesi,
+değiştirilmesi, taşınması, kurma ve dağıtma.
+
+g\) Su ve gaz tesisatı kurma ve işletmesi.
+
+h\) Telefon, telgraf, telsiz, radyo ve televizyon kurma.
+
+i\) Gemi ve vapur yapımı, onarımı, değiştirilmesi ve bozup dağıtma.
+
+j\) Eşyanın istasyon, antrepo, iskele, limanlar ve havaalanlarında
+yükletilmesi, boşaltılması.
+
+k\) Basımevleri.
+
+Ticaretten sayılacak işlerin esasları şunlardır:
+
+a\) Ham, yarı ve tam yapılmış her çeşit bitkisel, hayvani veya sınai ürün
+ve malların alımı ve satımı.
+
+b\) Bankacılık ve finans sektörü ile ilgili işlerle, sigortacılık,
+komisyonculuk, depoculuk, ambarcılık, antrepoculuk.
+
+c\) Su ürünleri alımı ve satımı.
+
+d\) Karada, göl ve akarsularda insan veya eşya ve hayvan taşıma.
+
+Tarım ve orman işlerinden sayılacak işlerin esasları şunlardır:
+
+a\) Her çeşit meyveli ve meyvesiz bitkiler; çay, pamuk, tütün, elyaflı
+bitkiler; turunçgiller; pirinç, baklagiller; ağaç, ağaççık, omca, tohum,
+fide, fidan; sebze ve tarla ürünleri; yem ve süt bitkilerinin
+yetiştirilmesi, üretimi, ıslahı, araştırılması, bunlarla ilgili her
+türlü toprak işleri, ekim, dikim, aşı, budama, sulama, gübreleme, hasat,
+harman, devşirme, temizleme, hazırlama ve ayırma işleri, hastalık ve
+zararlılarla mücadele, toprak ıslahı, çayır, mera, toprak ve su
+korunması.
+
+b\) Ormanların korunması, planlanması (amenajman), yetiştirilmesi,
+işletilmesi, sınırlandırılması çalışmaları, bunlara ait alt yapı
+çalışmaları ile tohum toplama, fidanlık, ağaçlandırma, erozyon kontrolü,
+etüt proje ve rehabilitasyonu, ormancılık araştırma ile milli park,
+orman içi dinlenme yerleri ve kent ormanlarının kurulması, bakım ve
+geliştirilmesi.
+
+c\) Her türlü iş ve gelir hayvanlarının (arı, ipek böceği ve benzerleri
+dahil) yetiştirilmesi, üretimi, ıslahı ve bunlarla ilgili bakım, güdüm,
+terbiye, kırkım, sağım ve ürünlerinin elde edilmesi, toplanması,
+saklanması ile bu hayvanların hastalık ve asalaklarıyla mücadele.
+
+d\) 854 sayılı Deniz İş Kanununun hükümleri saklı kalmak kaydıyla, kara
+ve su avcılığı ve üreticiliği ile bu yoldan elde edilen ürünlerin
+saklanması ve taşınması.
+
+Yukarıda sayılan esaslar doğrultusunda bir işin bu Kanunun uygulanması
+bakımından sanayi, ticaret, tarım ve orman işlerinden hangisinin
+kapsamında sayılacağı; Sanayi ve Ticaret, Çevre ve Orman ile Tarım ve
+Köyişleri bakanlıklarının görüşleri alınarak, Çalışma ve Sosyal Güvenlik
+Bakanlığınca altı ay içinde çıkarılacak bir yönetmelikle düzenlenir.
 
 **Bazı kamu kurum ve kuruluşlarında çalışanların kıdem tazminatı**
 
@@ -2564,7 +2637,7 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
 
 **YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
-  ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------
+  ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- --------------------------------------------------
          **Kanun / KHK**   **Kanun /**               **Kanun / KHK Yürürlüğe giriş tarihi**   **Anayasa Mahkemesi Kararı Tarih/No.**   **4857 sayılı Kanunun değiştirilen maddeleri**
                                                                                                                                        
          **No.**           **KHK**                                                                                                     
@@ -2580,6 +2653,21 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     5728              8/2/2008                  8/2/2008                                 -                                        107, 108
 
   1.     5754              8/5/2008                  8/5/2008                                 -                                        32, 102
-  ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------
 
+  1.     5763              26/5/2008                 26/5/2008                                -                                        3, 33, 65, 78, 81, 82, 88, 95, 98, 105, 108, 111
 
+  1.     5763              26/5/2008                 1/7/2008                                 -                                        30
+
+  1.     5763              26/5/2008                 1/1/2009                                 -                                        85
+  ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- --------------------------------------------------
+
+[^1]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
+    değiştirilen 30 uncu maddesinin altıncı fıkrası 1/7/2008 tarihinde
+    yürürlüğe girer.
+
+[^2]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
+    değiştirilen 30 uncu maddesinin altıncı fıkrası 1/7/2008 tarihinde
+    yürürlüğe girer.
+
+[^3]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu değişiklik
+    1/1/2009 tarihinde yürürlüğe girer.
