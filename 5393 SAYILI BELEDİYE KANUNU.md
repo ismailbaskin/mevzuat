@@ -1,4 +1,4 @@
-5393 sayılı Kanunun 5793 sayılı Kanun ile Değişik Hali
+5393 sayılı Kanunun 5951 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -2181,24 +2181,8 @@ Devlet Plânlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı, Sayı�
 Başkanlığı, Sosyal Sigortalar Kurumu Başkanlığı ve İller Bankası Genel
 Müdürlüğünden birer temsilciden oluşur.
 
-**GEÇİCİ MADDE 6** –**(Ek: 26/12/2006-5568/9 md.)**
-
-Belediyeler ve bunlara bağlı kuruluşların, 31/12/2006 tarihi itibariyle
-tahakkuk etmiş olan 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının
-Tahsil Usulü Hakkında Kanun hükümlerine göre takip edilen Devlete olan
-borçları, 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç
-Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında tanımlanan Hazine
-alacağı niteliğindeki borçları ve sosyal güvenlik kuruluşlarına olan
-borçları ile 5393 sayılı Kanunun geçici 5 inci maddesi kapsamında
-taksitlendirilmiş bulunan veya taksitlendirilecek borçlarına karşılık,
-bu idareler adına her ay genel bütçe vergi gelirleri tahsilat toplamı
-üzerinden ayrılacak payların % 40’ını geçmemek üzere, alacaklı
-idarelerin talebi üzerine, ilgisine göre Maliye Bakanlığı veya İller
-Bankası tarafından kesinti yapılarak alacaklı idarelere ödenir. Hazine
-Müsteşarlığının bağlı olduğu Bakan ile Maliye Bakanının müşterek önerisi
-üzerine bu maddede geçen % 40 oranını sıfıra kadar indirmeye veya kanunî
-orana yükseltmeye ve kesintilerin alacaklı kuruluşlara dağılımına
-ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
+**GEÇİCİ MADDE 6** –**(Ek: 26/12/2006-5568/9 md; Mülga:
+28/1/2010-5951/13 md.)**
 
 **Yürürlük**
 
@@ -2233,7 +2217,7 @@ ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
 
   1.     5793                       6/8/2008                                      6/8/2008                                                          49, 72
 
-  1.                                                                                                                                                
+  1.     5951                       5/2/2010                                      5/2/2010                                                          Geçici madde 6
 
   1.                                                                                                                                                
 
