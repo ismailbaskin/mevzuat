@@ -1,7 +1,4 @@
-**5754 sayılı Kanunla ve**
-
-**(5754 sayılı Kanunla değiştirilen) 5510 sayılı Kanunla değişik iki
-hali**
+**5766 sayılı Kanun ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -3889,7 +3886,9 @@ Danıştayda görülür. Fon Kurulu kararlarına karşı yapılan başvurular
 acele işlerden sayılır.
 
 **(İptal ikinci fıkra: Anayasa Mahkemesi’nin 9/3/2006 tarihli ve E.:
-2006/33, K.: 2006/36 sayılı Kararı ile.) Fonun bütçesi**
+2006/33, K.: 2006/36 sayılı Kararı ile.)**
+
+**Fonun bütçesi**
 
 **MADDE 129 —** **(Değişik: 8/3/2006-5472/1 md.)**
 
@@ -5619,6 +5618,66 @@ bendi uyarınca istisna uygulanacak kısmın hesaplanmasında, 5411 sayılı
 Kanunun bu maddenin yürürlüğe girdiği tarihten önceki hükümlerine göre
 Fona intikal etmesi gereken tutar esas alınır.
 
+**GEÇİCİ MADDE 26 –** **(Ek: 4/6/2008-5766/23 md.)**
+
+6183 sayılı Kanunun 35 inci maddesi; Fon tarafından devralınan
+şirketlerde Fon aleyhine, 6183 sayılı Kanunun mükerrer 35 inci maddesi;
+Fonun veya Fon personelinin kayyım sıfatı ile atandığı şirketlerde Fon
+ve Fon personeli aleyhine, bu Kanun ve mülga Bankalar kanunları
+kapsamında banka ve şirketlerde Bakan, Kurul veya Fon Kurulu tarafından
+görevlendirilen kişiler aleyhine uygulanmaz.
+
+Temettü hariç ortaklık hakları ile yönetim ve denetimi Fona intikal eden
+ve/veya bankacılık işlemleri yapma ve mevduat kabul etme izin ve
+yetkileri ilişkili Bakan, Bakanlar Kurulu veya Kurul tarafından
+kaldırılarak tasfiyeleri Fon eliyle yürütülen veya Fon tarafından
+tasfiye işlemleri başlatılan bankalar hakkında başlatılan işlemler
+sonuçlanıncaya ve her türlü Fon alacakları tahsil edilinceye kadar,
+yönetim ve denetimi Fon tarafından devralınan banka ve şirketlerin eski
+yöneticileri hakkında 6183 sayılı Kanunun 35 inci maddesi ile mükerrer
+35 inci maddesinin uygulanmasında, ilgili kanun ve mevzuat veya ana
+sözleşmeleri uyarınca temsile yetkilendirilmiş veya tüzel kişilerin
+yetkili organlarınca temsil yetkisi verilmiş kişi veya kişiler ile tüzel
+kişiliği olmayan teşekkülü idare edenlerden,
+
+a\) Fon bankalarının; yönetim ve denetimine sahip olduğu iştiraklerinden,
+hâkim ortağı olan tüzel kişilerden, gerçek ve tüzel kişi hâkim
+ortaklarının hâkim ortak olduğu şirketlerden, bu kişiler adına hareket
+eden veya onlar hesabına kendi adına para, mal veya hak edinen
+şirketlerden olan Fon alacaklarında, banka kaynağının
+kullanıldığı/kullandırıldığı tarihten itibaren borcun devam ettiği dönem
+boyunca,
+
+b\) Fon bankalarının kurumsal kredilerinden kaynaklanan Fon
+alacaklarında, kredinin kat edildiği tarihten itibaren borcun devam
+ettiği dönem boyunca,
+
+c\) Fon gelirlerinden kaynaklanan alacaklarda, Fon alacağının ilgili
+kuruluşa tebliğ edildiği tarihten itibaren borcun devam ettiği dönem
+boyunca,
+
+kanuni temsilci sıfatını haiz kişiler kanuni temsilci olarak addedilir.
+
+**GEÇİCİ MADDE 27 –** **(Ek: 4/6/2008-5766/23 md.)**
+
+Bu Kanun ve mülga Bankalar kanunları hükümlerine göre, Fonun mülkiyetine
+geçen veya Fon tarafından satışı yapılarak alıcı adına tescili yapılan
+taşınmazlarda borçlu veya üçüncü şahıslar bulunmakta ise, bu kişilere,
+onbeş (15) gün içinde taşınmazın tahliye edilmesini ihtar eden tahliye
+emri tebliğ edilir. Taşınmazın bu müddet içinde tahliye edilmemesi
+halinde, gerektiğinde kolluk kuvveti yardımı da alınarak borçlu veya
+üçüncü şahıs taşınmazdan çıkarılarak taşınmazın tahliyesi Fon tarafından
+gerçekleştirilir. Tahliyeye ilişkin masraflar taşınmazın yeni maliki
+tarafından karşılanır.
+
+Fon tarafından bu Kanun ve mülga Bankalar Kanunları hükümlerine göre
+yapılan veya yapılmış olan satışlarda, satış şartnamesi veya eklerinde
+belirtilen süre içinde tahliye taahhütlerinin yerine getirilmemesi
+halinde de bu maddenin birinci fıkrası hükümleri uygulanır. Bu takdirde
+15 günlük süre taşınmazın tahliyesine ilişkin olarak satış şartnamesi ve
+eklerinde belirtilen sürenin bitiminde başlar. Fonun, taahhüt ihlali
+sebebiyle alıcıdan tazminat isteme hakkı saklıdır.
+
 **Yürürlük**
 
 **MADDE 170 —** Bu Kanunun; 90 ve 91 inci maddeleri bu Kanunun yayımı
@@ -5980,6 +6039,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   Anayasa Mah.’nin E.: 2005/139, K.: 2007/33 sayılı Kararı                     92, 121, Geçici Madde 23                                      15/12/2008
   5754                                                                         73                                                            8/5/2008
   5510 (5754 sayılı Kanun ile değişik)                                         Geçici Madde 23                                               1/10/2008
+  5766                                                                         Geçici Madde 26 ve 27                                         6/6/2008
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
