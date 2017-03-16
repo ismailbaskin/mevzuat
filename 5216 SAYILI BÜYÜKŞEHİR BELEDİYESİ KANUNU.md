@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5779 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun 5951 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU*^(1)^***
 
@@ -807,9 +807,8 @@ l\) Temsil, tören, ağırlama ve tanıtım giderleri.
 
 m\) Avukatlık, danışmanlık ve denetim ödemeleri.
 
-n\) Kamu yararı görülen konularda yurt içi ve yurt dışı kamu sektörü,
-özel sektör ve sivil toplum örgütleriyle birlikte yapılan ortak
-hizmetler ve diğer proje giderleri.
+n\) **(İptal: Anayasa Mahkemesi’nin 25/1/2007 tarihli ve E.: 2004/79, K.:
+2007/6 sayılı Kararı ile.)**
 
 o\) Spor, sosyal, kültürel ve bilimsel etkinlikler için yapılan giderler.
 
@@ -1134,24 +1133,8 @@ kulüplerinin başkanlığını yapan veya yönetiminde bulunan belediye
 başkanları, en geç 1.1.2005 tarihine kadar bu kulüplerin başkanlığından
 ve yönetimindeki görevlerinden ayrılırlar.
 
-**GEÇİCİ MADDE 5 –(Ek: 26/12/2006-5568/ 7 md.)**
-
-Büyükşehir belediyeleri ve bunlara bağlı kuruluşların, 31/12/2006 tarihi
-itibariyle tahakkuk etmiş olan 6183 sayılı Amme Alacaklarının Tahsil
-Usulü Hakkında Kanun hükümlerine göre takip edilen Devlete olan
-borçları, 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç
-Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında tanımlanan Hazine
-alacağı niteliğindeki borçları ve sosyal güvenlik kuruluşlarına olan
-borçları ile 5216 sayılı Kanunun geçici 3 üncü maddesi kapsamında
-taksitlendirilmiş bulunan veya taksitlendirilecek borçlarına karşılık,
-bu idareler adına her ay genel bütçe vergi gelirleri tahsilat toplamı
-üzerinden ayrılacak payların % 40’ını geçmemek üzere, alacaklı
-idarelerin talebi üzerine, ilgisine göre Maliye Bakanlığı veya İller
-Bankası tarafından kesinti yapılarak alacaklı idarelere ödenir. Hazine
-Müsteşarlığının bağlı olduğu Bakan ile Maliye Bakanının müşterek önerisi
-üzerine bu maddede geçen % 40 oranını sıfıra kadar indirmeye veya kanunî
-orana yükseltmeye ve kesintilerin alacaklı kuruluşlara dağılımına
-ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
+**GEÇİCİ MADDE 5 –(Ek: 26/12/2006-5568/ 7 md.; Mülga:28/1/2010-5951/ 13
+md.)**
 
 **Yürürlük**
 
@@ -1237,9 +1220,11 @@ aktarılır.
 
   5779                       1/7/2008 tarihinden itibaren geçerli olmak üzere 15/7/2008 tarihinde     15/7/2008                                                         23
 
+                             17/7/2008                                                                17/1/2008                 25/1/2007 tarihli ve                    24
                                                                                                                                                                         
+                                                                                                                                E.:2004/79 K.:2007/6 sayılı Karar       
 
-                                                                                                                                                                        
+  5951                       5/2/2010                                                                 5/2/2010                                                          Geçici Madde 5
   -------------------------- ------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
 
 
