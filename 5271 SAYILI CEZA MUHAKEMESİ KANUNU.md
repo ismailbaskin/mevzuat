@@ -1,4 +1,4 @@
-25/5/2005 tarihli ve 5353 sayılı Kanun ile Değişik Hali
+6/12/2006 tarihli ve 5560 sayılı Kanunla değişik hali
 
 **CEZA MUHAKEMESİ KANUNU**
 
@@ -109,9 +109,10 @@ kararlarına karşı itiraz yoluna gidilebilir.
 
 **Görevsizlik kararı verilemeyecek hâl**
 
-**MADDE 6.**- (1) İddianamenin kabulünden sonra, yargılamanın alt
-dereceli bir mahkemeye ait olduğu gerekçesiyle görevsizlik kararı
-verilemez.
+**MADDE 6.**- **(Değişik: 6/12/2006-5560/16 md.) **
+
+\(1) Duruşmada suçun hukukî niteliğinin değiştiğinden bahisle görevsizlik
+kararı verilerek dosya alt dereceli mahkemeye gönderilemez.
 
 **Görevli olmayan hâkim veya mahkemenin işlemleri **
 
@@ -1561,26 +1562,36 @@ Hususlarında kuvvetli şüphe oluşturuyorsa.
 varlığı halinde, tutuklama nedeni var sayılabilir:
 
 a\) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununda yer alan;
+*^(1)^*
 
 1\. Soykırım ve insanlığa karşı suçlar (madde 76, 77, 78),
 
 2\. Kasten öldürme (madde 81, 82, 83),
 
-3\. İşkence (madde 94, 95)
+3.**(Ek: 6/12/2006 – 5560/17 md.)** Silahla işlenmiş kasten yaralama
+(madde 86, fıkra 3, bent e) ve neticesi sebebiyle ağırlaşmış kasten
+yaralama (madde 87),
 
-4\. Cinsel saldırı (birinci fıkra hariç, madde 102),
+4\. İşkence (madde 94, 95)
 
-5\. Çocukların cinsel istismarı (madde 103),
+5\. Cinsel saldırı (birinci fıkra hariç, madde 102),
 
-6\. Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188),
+6\. Çocukların cinsel istismarı (madde 103),
 
-7\. Suç işlemek amacıyla örgüt kurma (iki, yedi ve sekizinci fıkralar
+7.**(Ek: 6/12/2006 – 5560/17 md.)** Hırsızlık (madde 141, 142) ve yağma
+(madde 148, 149),
+
+8\. Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188),
+
+9\. Suç işlemek amacıyla örgüt kurma (iki, yedi ve sekizinci fıkralar
 hariç, madde 220),
 
-8\. Devletin Güvenliğine Karşı Suçlar (madde 302, 303, 304, 307, 308),
+10\. Devletin Güvenliğine Karşı Suçlar (madde 302, 303, 304, 307, 308),
 
-9\. Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309,
-310, 311, 312, 313, 314, 315),
+11\. Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309,
+310, 311, 312, 313, 314, 315), b) 10.7.1953 tarihli ve 6136 sayılı
+Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda
+tanımlanan silah kaçakçılığı (madde 12) suçları.
 
 b\) 10.7.1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile
 Diğer Aletler Hakkında Kanunda tanımlanan silah kaçakçılığı (madde 12)
@@ -1588,6 +1599,13 @@ suçları.
 
 c\) 18.6.1999 tarihli ve 4389 sayılı Bankalar Kanununun 22 nci maddesinin
 (3) ve (4) numaralı fıkralarında tanımlanan zimmet suçu.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 17 nci maddesiyle, bu
+bentte yer alan (2) ve (5) numaralı alt bentlerden sonra gelmek üzere,
+sırasıyla (3) ve (7) numaralı alt bentler eklenmiş ve diğer alt bent
+numaraları buna göre teselsül ettirilmiştir.*
 
 d\) 10.7.2003 tarihli ve 4926 sayılı Kaçakçılıkla Mücadele Kanununda
 tanımlanan ve hapis cezasını gerektiren suçlar.
@@ -1629,9 +1647,10 @@ edilebilir.
 
 **Tutuklulukta geçecek süre**
 
-**MADDE 102.**- (1) Ağır ceza mahkemesinin görevine girmeyen işlerde
-tutukluluk süresi en çok altı aydır. Ancak, bu süre, zorunlu hallerde
-gerekçesi gösterilerek dört ay daha uzatılabilir.
+**MADDE 102.**- (1) **(Değişik: 6/12/2006-5560/18 md.)** Ağır ceza
+mahkemesinin görevine girmeyen işlerde tutukluluk süresi en çok bir
+yıldır. Ancak bu süre, zorunlu hallerde gerekçeleri gösterilerek altı ay
+daha uzatılabilir.
 
 \(2) Ağır ceza mahkemesinin görevine giren işlerde, tutukluluk süresi en
 çok iki yıldır. Bu süre, zorunlu hallerde, gerekçesi gösterilerek
@@ -1779,6 +1798,10 @@ veya geçici olarak izin verebilir.
 \(6) Adlî kontrol altında geçen süre, şahsî hürriyeti sınırlama sebebi
 sayılarak cezadan mahsup edilemez. Bu hüküm, maddenin üçüncü fıkrasının
 (e) bendinde belirtilen hallerde uygulanmaz.
+
+\(7) **(Ek: 6/12/2006-5560/19 md.)** Kanunlarda öngörülen tutukluluk
+sürelerinin dolması nedeniyle salıverilenler hakkında birinci fıkradaki
+süre koşulu aranmaksızın adlî kontrole ilişkin hükümler uygulanabilir.
 
 **Adlî kontrol kararı ve hükmedecek merciler **
 
@@ -2756,11 +2779,12 @@ BİRİNCİ BÖLÜM
 davetiye ile çağrılır; çağrılma nedeni açıkça belirtilir; gelmezse zorla
 getirileceği yazılır.
 
-**Şüpheli veya sanığın zorla getirilmesi **
+**Zorla getirme*^(1)^***
 
-**MADDE 146.**- (1) Hakkında tutuklama kararı verilmesi veya yakalama
-emri düzenlenmesi için yeterli nedenler bulunan şüpheli veya sanığın
-zorla getirilmesine karar verilebilir.
+**MADDE 146.**- (1) **(Değişik:6/12/2006-5560/ 20 md.)** Hakkında
+tutuklama kararı verilmesi veya yakalama emri düzenlenmesi için yeterli
+nedenler bulunan veya 145 inci maddeye göre çağrıldığı halde gelmeyen
+şüpheli veya sanığın zorla getirilmesine karar verilebilir.
 
 \(2) Zorla getirme kararı, şüpheli veya sanığın açıkça kim olduğunu,
 kendisiyle ilgili suçu, gerektiğinde eşkâlini ve zorla getirilmesi
@@ -2768,19 +2792,24 @@ nedenlerini içerir.
 
 \(3) Zorla getirme kararının bir örneği şüpheli veya sanığa verilir.
 
-\(4) Zorla getirme kararı ile çağrılan şüpheli veya sanık derhâl, olanak
-bulunmadığında yol süresi hariç en geç yirmidört saat içinde çağıran
-hâkimin, mahkemenin veya zorla getirmeyi isteyen Cumhuriyet savcısının
-önüne götürülür ve sorguya çekilir veya ifadesi alınır.
+\(4) **(Değişik:6/12/2006-5560/ 20 md.)** Zorla getirme kararı ile
+çağrılan şüpheli veya sanık derhal, olanak bulunmadığında yol süresi
+hariç en geç yirmidört saat içinde çağıran hâkimin, mahkemenin veya
+Cumhuriyet savcısının önüne götürülür ve sorguya çekilir veya ifadesi
+alınır.
 
-\(5) Zorla getirme, bunun için haklı görülecek bir zamanda başlar ve
-hâkim, mahkeme veya zorla getirmeyi isteyen Cumhuriyet savcısı
+\(5) **(Değişik:6/12/2006-5560/ 20 md.)** Zorla getirme, bunun için haklı
+görülecek bir zamanda başlar ve hâkim, mahkeme veya Cumhuriyet savcısı
 tarafından, sorguya çekilmenin veya ifade almanın sonuna kadar devam
 eder.
 
 \(6) Zorla getirme kararının yerine getirilememesinin nedenleri, köy veya
 mahalle muhtarı ile kolluk görevlisinin birlikte imzalayacakları bir
 tutanakla saptanır.
+
+\(7) **(Ek:6/12/2006-5560/ 20 md.)** Çağrıya rağmen gelmeyen tanık,
+bilirkişi, mağdur ve şikâyetçi ile ilgili olarak da zorla getirme kararı
+verilebilir.
 
 İKİNCİ BÖLÜM
 
@@ -2846,6 +2875,12 @@ kullanma gibi bedensel veya ruhsal müdahaleler yapılamaz.
 \(3) Yasak usullerle elde edilen ifadeler rıza ile verilmiş olsa da delil
 olarak değerlendirilemez.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 20 nci maddesiyle bu
+maddenin başlığı “Şüpheli veya sanığın zorla getirilmesi” iken metne
+işlendiği şekilde değiştirilmiştir.*
+
 \(4) Müdafi hazır bulunmaksızın kollukça alınan ifade, hâkim veya mahkeme
 huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas
 alınamaz.
@@ -2877,15 +2912,21 @@ olma ve hukukî yardımda bulunma hakkı engellenemez, kısıtlanamaz.
 
 **Müdafiin görevlendirilmesi**
 
-**MADDE 150.**- (1) Şüpheli veya sanık, müdafi seçebilecek durumda
-olmadığını beyan ederse, istemi hâlinde bir müdafi görevlendirilir.
+**MADDE 150** – **(Değişik: 6/12/2006-5560/ 21 md.)**
 
-\(2) Şüpheli veya sanık onsekiz yaşını doldurmamış ya da sağır veya
-dilsiz veya kendisini savunamayacak derecede malûl olur ve bir müdafii
-de bulunmazsa istemi aranmaksızın bir müdafi görevlendirilir.
+\(1) Şüpheli veya sanıktan kendisine bir müdafi seçmesi istenir. Şüpheli
+veya sanık, müdafi seçebilecek durumda olmadığını beyan ederse, istemi
+halinde bir müdafi görevlendirilir.
 
-\(3) Üst sınırı en az beş yıl hapis cezasını gerektiren suçlardan dolayı
-yapılan soruşturma ve kovuşturmada ikinci fıkra hükmü uygulanır.
+\(2) Müdafii bulunmayan şüpheli veya sanık; çocuk, kendisini
+savunamayacak derecede malul veya sağır ve dilsiz ise, istemi
+aranmaksızın bir müdafi görevlendirilir.
+
+\(3) Alt sınırı beş yıldan fazla hapis cezasını gerektiren suçlardan
+dolayı yapılan soruşturma ve kovuşturmada ikinci fıkra hükmü uygulanır.
+
+\(4) Zorunlu müdafilikle ilgili diğer hususlar, Türkiye Barolar
+Birliğinin görüşü alınarak çıkarılacak yönetmelikle düzenlenir.
 
 **Müdafi görevini yerine getirmediğinde yapılacak işlem ve müdafilik
 görevinden yasaklanma*^(1)^***
@@ -2987,7 +3028,7 @@ yapıldığı yer barosunca görevlendirilir.
 \(3) Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde,
 baro tarafından görevlendirilen avukatın görevi sona erer.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 *(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 22 inci maddesiyle bu
 maddenin başlığı “Müdafi görevini yerine getirmediğinde yapılacak işlem”
@@ -3265,10 +3306,48 @@ belirtilir.
 
 **Kamu davasını açmada takdir yetkisi**
 
-**MADDE 171.**- (1) Cezanın ortadan kaldırılmasını gerektiren şahsî
-sebep olarak etkin pişmanlık hükümlerinin uygulanmasını gerektiren
-koşulların ya da şahsî cezasızlık sebebinin varlığı halinde Cumhuriyet
-savcısı kamu davasını açmayabilir.
+**MADDE 171** –**(Değişik: 6/12/2006-5560/ 22 md.)**
+
+\(1) Cezayı kaldıran şahsî sebep olarak etkin pişmanlık hükümlerinin
+uygulanmasını gerektiren koşulların ya da şahsî cezasızlık sebebinin
+varlığı halinde, Cumhuriyet savcısı kovuşturmaya yer olmadığı kararı
+verebilir.
+
+\(2) 253 üncü maddenin ondokuzuncu fıkrası hükümleri saklı kalmak üzere,
+Cumhuriyet savcısı, soruşturulması ve kovuşturulması şikâyete bağlı
+olup, üst sınırı bir yıl veya daha az süreli hapis cezasını gerektiren
+suçlardan dolayı, yeterli şüphenin varlığına rağmen, kamu davasının
+açılmasının beş yıl süreyle ertelenmesine karar verebilir. Suçtan zarar
+gören, bu karara 173 üncü madde hükümlerine göre itiraz edebilir.
+
+\(3) Kamu davasının açılmasının ertelenmesine karar verilebilmesi için,
+uzlaşmaya ilişkin hükümler saklı kalmak üzere;
+
+a\) Şüphelinin daha önce kasıtlı bir suçtan dolayı hapis cezası ile
+mahkûm olmamış bulunması,
+
+b\) Yapılan soruşturmanın, kamu davası açılmasının ertelenmesi halinde
+şüphelinin suç işlemekten çekineceği kanaatini vermesi,
+
+c\) Kamu davası açılmasının ertelenmesinin, şüpheli ve toplum açısından
+kamu davası açılmasından daha yararlı olması,
+
+d\) Suçun işlenmesiyle mağdurun veya kamunun uğradığı zararın, aynen
+iade, suçtan önceki hale getirme veya tazmin suretiyle tamamen
+giderilmesi,
+
+koşullarının birlikte gerçekleşmesi gerekir.
+
+\(4) Erteleme süresi içinde kasıtlı bir suç işlenmediği takdirde,
+kovuşturmaya yer olmadığına karar verilir. Erteleme süresi içinde
+kasıtlı bir suç işlenmesi halinde kamu davası açılır. Erteleme süresince
+zamanaşımı işlemez.
+
+\(5) Kamu davasının açılmasının ertelenmesine ilişkin kararlar, bunlara
+mahsus bir sisteme kaydedilir. Bu kayıtlar, ancak bir soruşturma veya
+kovuşturmayla bağlantılı olarak Cumhuriyet savcısı, hâkim veya mahkeme
+tarafından istenmesi halinde, bu maddede belirtilen amaç için
+kullanılabilir.
 
 İKİNCİ BÖLÜM
 
@@ -4134,6 +4213,92 @@ bildirilir.
 
 \(4) Hüküm fıkrası herkes tarafından ayakta dinlenir.
 
+\(5) **(Ek: 6/12/2006-5560/23 md.)** Sanığa yüklenen suçtan dolayı
+yapılan yargılama sonunda hükmolunan ceza, bir yıl veya daha az süreli
+hapis veya adlî para cezası ise; mahkemece, hükmün açıklanmasının geri
+bırakılmasına karar verilebilir. Uzlaşmaya ilişkin hükümler saklıdır.
+Hükmün açıklanmasının geri bırakılması, kurulan hükmün sanık hakkında
+bir hukukî sonuç doğurmamasını ifade eder.
+
+\(6) **(Ek: 6/12/2006-5560/23 md.)**
+
+Hükmün açıklanmasının geri bırakılmasına karar verilebilmesi için;
+
+a\) Sanığın daha önce kasıtlı bir suçtan mahkûm olmamış bulunması,
+
+b\) Mahkemece, sanığın kişilik özellikleri ile duruşmadaki tutum ve
+davranışları göz önünde bulundurularak yeniden suç işlemeyeceği
+hususunda kanaate varılması,
+
+c\) Suçun işlenmesiyle mağdurun veya kamunun uğradığı zararın, aynen
+iade, suçtan önceki hale getirme veya tazmin suretiyle tamamen
+giderilmesi,
+
+gerekir.
+
+\(7) **(Ek: 6/12/2006-5560/23 md.)** Açıklanmasının geri bırakılmasına
+karar verilen hükümde, mahkûm olunan hapis cezası ertelenemez ve kısa
+süreli olması halinde seçenek yaptırımlara çevrilemez.
+
+\(8) **(Ek: 6/12/2006-5560/23 md.)**
+
+Hükmün açıklanmasının geri bırakılması kararının verilmesi halinde
+sanık, beş yıl süreyle denetim süresine tâbi tutulur. Bu süre içinde bir
+yıldan fazla olmamak üzere mahkemenin belirleyeceği süreyle, sanığın
+denetimli serbestlik tedbiri olarak;
+
+a\) Bir meslek veya sanat sahibi olmaması halinde, meslek veya sanat
+sahibi olmasını sağlamak amacıyla bir eğitim programına devam etmesine,
+
+b\) Bir meslek veya sanat sahibi olması halinde, bir kamu kurumunda veya
+özel olarak aynı meslek veya sanatı icra eden bir başkasının gözetimi
+altında ücret karşılığında çalıştırılmasına,
+
+c\) Belli yerlere gitmekten yasaklanmasına, belli yerlere devam etmek
+hususunda yükümlü kılınmasına ya da takdir edilecek başka yükümlülüğü
+yerine getirmesine,
+
+karar verilebilir. Denetim süresi içinde dava zamanaşımı durur.
+
+\(9) **(Ek: 6/12/2006-5560/23 md.)** Altıncı fıkranın (c) bendinde
+belirtilen koşulu derhal yerine getiremediği takdirde; sanık hakkında
+mağdura veya kamuya verdiği zararı denetim süresince aylık taksitler
+halinde ödemek suretiyle tamamen gidermesi koşuluyla da hükmün
+açıklanmasının geri bırakılması kararı verilebilir.
+
+\(10) **(Ek: 6/12/2006-5560/23 md.)** Denetim süresi içinde kasten yeni
+bir suç işlenmediği ve denetimli serbestlik tedbirine ilişkin
+yükümlülüklere uygun davranıldığı takdirde, açıklanması geri bırakılan
+hüküm ortadan kaldırılarak, davanın düşmesi kararı verilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 23 üncü maddesiyle bu
+bölümün başlığı “Hükmün açıklanması” iken metne işlendiği şekilde
+değiştirilmiştir.*
+
+\(11) **(Ek: 6/12/2006-5560/23 md.)** Denetim süresi içinde kasten yeni
+bir suç işlemesi veya denetimli serbestlik tedbirine ilişkin
+yükümlülüklere aykırı davranması halinde, mahkeme hükmü açıklar. Ancak
+mahkeme, kendisine yüklenen yükümlülükleri yerine getiremeyen sanığın
+durumunu değerlendirerek; cezanın yarısına kadar belirleyeceği bir
+kısmının infaz edilmemesine ya da koşullarının varlığı halinde hükümdeki
+hapis cezasının ertelenmesine veya seçenek yaptırımlara çevrilmesine
+karar vererek yeni bir mahkûmiyet hükmü kurabilir.
+
+\(12) **(Ek: 6/12/2006-5560/23 md.)** Hükmün açıklanmasının geri
+bırakılması kararına itiraz edilebilir.
+
+\(13) **(Ek: 6/12/2006-5560/23 md.)** Hükmün açıklanmasının geri
+bırakılması kararı, bunlara mahsus bir sisteme kaydedilir. Bu kayıtlar,
+ancak bir soruşturma veya kovuşturmayla bağlantılı olarak Cumhuriyet
+savcısı, hâkim veya mahkeme tarafından istenmesi halinde, bu maddede
+belirtilen amaç için kullanılabilir.
+
+\(14) **(Ek: 6/12/2006-5560/33 md.)** Bu maddenin hükmün açıklanmasının
+geri bırakılmasına ilişkin hükümleri, soruşturulması ve kovuşturulması
+şikâyete bağlı suçlarla ilgili olarak uygulanabilir.
+
 **Hükmün gerekçesi ve hüküm fıkrasının içereceği hususlar**
 
 **MADDE 232.**- (1) Hükmün başına, "Türk Milleti adına" verildiği
@@ -4682,51 +4847,163 @@ Uzlaşma
 
 **Uzlaşma **
 
-**MADDE 253.**- (1) Cumhuriyet savcısı, yapılan soruşturmanın durumuna
-göre, kanunun uzlaşma yapılabilmesi olanağını verdiği hâllerde, faili bu
-Kanunun öngördüğü usullere göre davet ederek suçtan dolayı sorumluluğunu
-kabul edip etmediğini sorar.
+**MADDE 253** – **(Değişik:6/12/2006-5560/24 md.)**
 
-\(2) Fail, suçu ve fiilinden doğmuş olan maddî ve manevî zararın tümünü
-veya bunun büyük bir kısmını ödemeyi veya zararları gidermeyi
-kabullendiğinde durum, mağdura veya varsa vekiline veya kanunî
-temsilcisine bildirilir.
+\(1) Aşağıdaki suçlarda, şüpheli ile mağdur veya suçtan zarar gören
+gerçek veya özel hukuk tüzel kişisinin uzlaştırılması girişiminde
+bulunulur:
 
-\(3) Mağdur, verilmiş olan zararın tümüyle veya büyük bir kısmı
-itibarıyla giderildiğinde özgür iradesi ile uzlaşacağını bildirirse,
-soruşturma sürdürülmez.
+a\) Soruşturulması ve kovuşturulması şikâyete bağlı suçlar.
 
-\(4) Cumhuriyet Savcısı, fail ile mağdur arasında uzlaşma işlemlerini
-idare etmek, tarafları bir araya getirerek bir sonuca ulaşmalarını
-sağlamak üzere, fail ve mağdurun bir avukat üzerinde anlaşamadıkları
-takdirde, bir veya birden fazla avukatın uzlaştırıcı olarak
-görevlendirilmesini barodan ister.
+b\) Şikâyete bağlı olup olmadığına bakılmaksızın, Türk Ceza Kanununda yer
+alan;
 
-\(5) Uzlaştırıcı, başvurunun yapıldığı tarihten itibaren en geç otuz gün
-içinde uzlaşmayı sonuçlandırır. Cumhuriyet savcısı bir defaya mahsus
-olmak üzere bu süreyi otuz gün daha uzatabilir. Uzlaştırma süresince
-zamanaşımı durur.
+1\. Kasten yaralama (üçüncü fıkra hariç, madde 86; madde 88),
 
-\(6) Uzlaşma müzakereleri gizli olarak yürütülür. Uzlaştırma sırasında
-ileri sürülen bilgi, belge ve açıklamalar taraflarca izin verilmedikçe
-daha sonra açıklanamaz. Uzlaştırmanın başarısız olması nedeniyle daha
-sonra dava açılması halinde uzlaştırma sırasında failin bazı olayları
-veya suçu ikrar etmiş olması davada aleyhine delil olarak kullanılmaz.
+2\. Taksirle yaralama (madde 89),
 
-\(7) Uzlaştırıcı, yaptığı işlemleri ve uzlaşmayı sağlayıcı müdahalelerini
-belirten bir raporu on gün içinde ilgili Cumhuriyet savcısına sunar.
+3\. Konut dokunulmazlığının ihlali (madde 116),
 
-\(8) Zarar, uzlaşmaya uygun olarak giderildiğinde ve uzlaştırma işleminin
-giderleri, fail tarafından ödendiğinde, kovuşturmaya yer olmadığına
-karar verilir.
+4\. Çocuğun kaçırılması ve alıkonulması (madde 234),
 
-**Mahkeme tarafından uzlaştırma **
+5\. Ticari sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi
+veya belgelerin açıklanması (dördüncü fıkra hariç, madde 239),
 
-**MADDE 254.**- (1) Kamu davasının açılması halinde, uzlaşmaya tâbi bir
-suç söz konusu ise, uzlaştırma işlemleri 253 üncü maddede belirtilen
-usule göre, mahkeme tarafından da yapılır.
+suçları.
 
-\(2) Uzlaşmanın gerçekleşmesi halinde davanın düşmesine karar verilir.
+\(2) Soruşturulması ve kovuşturulması şikâyete bağlı olanlar hariç olmak
+üzere; diğer kanunlarda yer alan suçlarla ilgili olarak uzlaştırma
+yoluna gidilebilmesi için, kanunda açık hüküm bulunması gerekir.
+
+\(3) Soruşturulması ve kovuşturulması şikâyete bağlı olsa bile, etkin
+pişmanlık hükümlerine yer verilen suçlar ile cinsel dokunulmazlığa karşı
+suçlarda, uzlaştırma yoluna gidilemez.
+
+\(4) Soruşturma konusu suçun uzlaşmaya tâbi olması halinde, Cumhuriyet
+savcısı veya talimatı üzerine adlî kolluk görevlisi, şüpheli ile mağdur
+veya suçtan zarar görene uzlaşma teklifinde bulunur. Şüphelinin,
+mağdurun veya suçtan zarar görenin reşit olmaması halinde, uzlaşma
+teklifi kanunî temsilcilerine yapılır. Cumhuriyet savcısı uzlaşma
+teklifini açıklamalı tebligat veya istinabe yoluyla da yapabilir.
+Şüpheli, mağdur veya suçtan zarar gören, kendisine uzlaşma teklifinde
+bulunulduktan itibaren üç gün içinde kararını bildirmediği takdirde,
+teklifi reddetmiş sayılır.
+
+\(5) Uzlaşma teklifinde bulunulması halinde, kişiye uzlaşmanın mahiyeti
+ve uzlaşmayı kabul veya reddetmesinin hukukî sonuçları anlatılır.
+
+\(6) Resmî mercilere beyan edilmiş olup da soruşturma dosyasında yer alan
+adreste bulunmama veya yurt dışında olma ya da başka bir nedenle
+mağdura, suçtan zarar görene, şüpheliye veya bunların kanunî
+temsilcisine ulaşılamaması halinde, uzlaştırma yoluna gidilmeksizin
+soruşturma sonuçlandırılır.
+
+\(7) Birden fazla kişinin mağduriyetine veya zarar görmesine sebebiyet
+veren bir suçtan dolayı uzlaştırma yoluna gidilebilmesi için, mağdur
+veya suçtan zarar görenlerin hepsinin uzlaşmayı kabul etmesi gerekir.
+
+\(8) Uzlaşma teklifinde bulunulması veya teklifin kabul edilmesi,
+soruşturma konusu suça ilişkin delillerin toplanmasına ve koruma
+tedbirlerinin uygulanmasına engel değildir.
+
+\(9) Şüpheli ile mağdur veya suçtan zarar görenin uzlaşma teklifini kabul
+etmesi halinde, Cumhuriyet savcısı uzlaştırmayı kendisi
+gerçekleştirebileceği gibi, uzlaştırmacı olarak avukat
+görevlendirilmesini barodan isteyebilir veya hukuk öğrenimi görmüş
+kişiler arasından uzlaştırmacı görevlendirebilir.
+
+\(10) Bu Kanunda belirlenen hâkimin davaya bakamayacağı haller ile reddi
+sebepleri, uzlaştırmacı görevlendirilmesi ile ilgili olarak göz önünde
+bulundurulur.
+
+\(11) Görevlendirilen uzlaştırmacıya soruşturma dosyasında yer alan ve
+Cumhuriyet savcısınca uygun görülen belgelerin birer örneği verilir.
+Cumhuriyet savcısı uzlaştırmacıya, soruşturmanın gizliliği ilkesine
+uygun davranmakla yükümlü olduğunu hatırlatır.
+
+\(12) Uzlaştırmacı, dosya içindeki belgelerin birer örneği kendisine
+verildikten itibaren en geç otuz gün içinde uzlaştırma işlemlerini
+sonuçlandırır. Cumhuriyet savcısı bu süreyi en çok yirmi gün daha
+uzatabilir.
+
+\(13) Uzlaştırma müzakereleri gizli olarak yürütülür. Uzlaştırma
+müzakerelerine şüpheli, mağdur, suçtan zarar gören, kanunî temsilci,
+müdafi ve vekil katılabilir. Şüpheli, mağdur veya suçtan zarar görenin
+kendisi veya kanunî temsilcisi ya da vekilinin müzakerelere katılmaktan
+imtina etmesi halinde, uzlaşmayı kabul etmemiş sayılır.
+
+\(14) Uzlaştırmacı, müzakereler sırasında izlenmesi gereken yöntemle
+ilgili olarak Cumhuriyet savcısıyla görüşebilir; Cumhuriyet savcısı,
+uzlaştırmacıya talimat verebilir.
+
+\(15) Uzlaşma müzakereleri sonunda uzlaştırmacı, bir rapor hazırlayarak
+kendisine verilen belge örnekleriyle birlikte Cumhuriyet savcısına
+verir. Uzlaşmanın gerçekleşmesi halinde, tarafların imzalarını da içeren
+raporda, ne suretle uzlaşıldığı ayrıntılı olarak açıklanır.
+
+\(16) Uzlaşma teklifinin reddedilmesine rağmen, şüpheli ile mağdur veya
+suçtan zarar gören uzlaştıklarını gösteren belge ile en geç iddianamenin
+düzenlendiği tarihe kadar Cumhuriyet savcısına başvurarak uzlaştıklarını
+beyan edebilirler.
+
+\(17) Cumhuriyet savcısı, uzlaşmanın, tarafların özgür iradelerine
+dayandığını ve edimin hukuka uygun olduğunu belirlerse raporu veya
+belgeyi mühür ve imza altına alarak soruşturma dosyasında muhafaza eder.
+
+\(18) Uzlaştırmanın sonuçsuz kalması halinde tekrar uzlaştırma yoluna
+gidilemez.
+
+\(19) Uzlaşma sonucunda şüphelinin edimini def’aten yerine getirmesi
+halinde, hakkında kovuşturmaya yer olmadığı kararı verilir. Edimin
+yerine getirilmesinin ileri tarihe bırakılması, takside bağlanması veya
+süreklilik arzetmesi halinde, 171 inci maddedeki şartlar aranmaksızın,
+şüpheli hakkında kamu davasının açılmasının ertelenmesi kararı verilir.
+Erteleme süresince zamanaşımı işlemez. Kamu davasının açılmasının
+ertelenmesi kararından sonra, uzlaşmanın gereklerinin yerine
+getirilmemesi halinde, 171 inci maddenin dördüncü fıkrasındaki şart
+aranmaksızın, kamu davası açılır. Uzlaşmanın sağlanması halinde,
+soruşturma konusu suç nedeniyle tazminat davası açılamaz; açılmış olan
+davadan feragat edilmiş sayılır. Şüphelinin, edimini yerine getirmemesi
+halinde uzlaşma raporu veya belgesi, 9/6/1932 tarihli ve 2004 sayılı
+İcra ve İflas Kanununun 38 inci maddesinde yazılı ilam mahiyetini haiz
+belgelerden sayılır.
+
+\(20) Uzlaştırma müzakereleri sırasında yapılan açıklamalar, herhangi bir
+soruşturma ve kovuşturmada ya da davada delil olarak kullanılamaz.
+
+\(21) Şüpheli, mağdur veya suçtan zarar görenden birine ilk uzlaşma
+teklifinde bulunulduğu tarihten itibaren, uzlaştırma girişiminin
+sonuçsuz kaldığı ve en geç, uzlaştırmacının raporunu düzenleyerek
+Cumhuriyet savcısına verdiği tarihe kadar dava zamanaşımı ile kovuşturma
+koşulu olan dava süresi işlemez.
+
+\(22) Uzlaştırmacıya Cumhuriyet savcısı tarafından çalışma ve
+masraflarıyla orantılı bir ücret takdir edilerek ödenir. Uzlaştırmacı
+ücreti ve diğer uzlaştırma giderleri, yargılama giderlerinden sayılır.
+Uzlaşmanın gerçekleşmesi halinde bu giderler Devlet Hazinesi tarafından
+karşılanır.
+
+\(23) Uzlaşma sonucunda verilecek kararlarla ilgili olarak bu Kanunda
+öngörülen kanun yollarına başvurulabilir.
+
+\(24) Uzlaştırmanın uygulanmasına ilişkin hususlar, yönetmelikle
+düzenlenir.
+
+**MADDE 254** – **(Değişik:6/12/2006-5560/25 md.)**
+
+\(1) Kamu davası açıldıktan sonra kovuşturma konusu suçun uzlaşma
+kapsamında olduğunun anlaşılması halinde, uzlaştırma işlemleri 253 üncü
+maddede belirtilen esas ve usûle göre, mahkeme tarafından yapılır.
+
+\(2) Uzlaşma gerçekleştiği takdirde, mahkeme, uzlaşma sonucunda sanığın
+edimini def’aten yerine getirmesi halinde, davanın düşmesine karar
+verir. Edimin yerine getirilmesinin ileri tarihe bırakılması, takside
+bağlanması veya süreklilik arzetmesi halinde; sanık hakkında, 231 inci
+maddedeki şartlar aranmaksızın, hükmün açıklanmasının geri bırakılmasına
+karar verilir. Geri bırakma süresince zamanaşımı işlemez. Hükmün
+açıklanmasının geri bırakılmasına karar verildikten sonra, uzlaşmanın
+gereklerinin yerine getirilmemesi halinde, mahkeme tarafından, 231 inci
+maddenin onbirinci fıkrasındaki şartlar aranmaksızın, hüküm açıklanır.
 
 **Birden çok fail bulunması hâlinde uzlaşma**
 
@@ -5505,9 +5782,9 @@ Kanun Yararına Bozma
 
 **MADDE 309. -**(1) Hâkim veya mahkeme tarafından verilen ve istinaf
 veya temyiz incelemesinden geçmeksizin kesinleşen karar veya hükümde
-hukuka aykırılık bulunduğunu öğrenen Adalet Bakanı, o karar veya hükmün
-Yargıtayca bozulması istemini, yasal nedenlerini belirterek Yargıtay
-Cumhuriyet Başsavcılığına yazılı olarak bildirir.
+hukuka aykırılık bulunduğunu öğrenen Adalet Bakanlığı, o karar veya
+hükmün Yargıtayca bozulması istemini, yasal nedenlerini belirterek
+Yargıtay Cumhuriyet Başsavcılığına yazılı olarak bildirir. *^(1)^*
 
 \(2) Yargıtay Cumhuriyet Başsavcısı, bu nedenleri aynen yazarak karar
 veya hükmün bozulması istemini içeren yazısını Yargıtayın ilgili ceza
@@ -5544,8 +5821,9 @@ dördüncü fıkrasının (d) bendindeki hâllere özgü olmak üzere ve kanun
 yararına olarak re'sen Yargıtay Cumhuriyet Başsavcısı tarafından da
 kullanılabilir.
 
-\(2) 309 uncu madde gereğince Adalet Bakanı tarafından başvurulduğunda bu
-yetki, artık Yargıtay Cumhuriyet Başsavcısı tarafından kullanılamaz.
+\(2) 309 uncu madde gereğince Adalet Bakanlığı tarafından başvurulduğunda
+bu yetki, artık Yargıtay Cumhuriyet Başsavcısı tarafından
+kullanılamaz.*^(1)^*
 
 ÜÇÜNCÜ BÖLÜM
 
@@ -5593,6 +5871,13 @@ tarihinden sonra Avrupa İnsan Hakları Mahkemesine yapılan başvurular
 **MADDE 312. -**(1) Yargılamanın yenilenmesi istemi hükmün infazını
 ertelemez. Ancak mahkeme, infazın geri bırakılmasına veya durdurulmasına
 karar verebilir.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 26 ncı maddesi ile bu
+Kanunun 309 uncu maddesinin birinci fıkrası ile 310 uncu maddesinin
+ikinci fıkrasında yer alan "Adalet Bakanı" ibareleri, "Adalet Bakanlığı"
+olarak değiştirilmiştir.*
 
 **Yargılamanın yenilenmesine engel olmayan hâller**
 
@@ -5771,7 +6056,9 @@ bu giderler Devlet Hazinesince karşılanır.
 **MADDE 325. -**(1) Cezaya veya güvenlik tedbirine mahkûm edilmesi
 hâlinde, bütün yargılama giderleri sanığa yüklenir.
 
-\(2) Cezanın ertelenmesi hâlinde de birinci fıkra hükmü uygulanır.
+\(2) **(Değişik: 6/12/2006-5560/27 md.)** Hükmün açıklanmasının geri
+bırakılması ve cezanın ertelenmesi hallerinde de birinci fıkra hükmü
+uygulanır.
 
 \(3) Yargılamanın değişik evrelerinde yapılan araştırma veya işlemler
 nedeniyle giderler meydana gelmiş olup da, sonuç sanık lehine ortaya
@@ -5881,6 +6168,14 @@ girer.*^(1)^*
 
 **MADDE 335. -**(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
+**5271 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
+
+*(1) 5560 sayılı Kanunun Geçici 1 inci Maddesi: *
+
+**GEÇİCİ MADDE 1 –** Bu Kanunun yürürlüğe girdiği tarih itibarıyla hükme
+bağlanmış olmakla beraber henüz kesinleşmemiş olan dosyalarda, uzlaşma
+kapsamının genişlediğinden bahisle bozma kararı verilemez.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle
@@ -5896,7 +6191,7 @@ değiştirilmiş ve metne işlenmiştir.*
 
   1.     5353                       1/6/2005                                      1/6/2005                                                          35, 75, 76, 80, 81, 85, 90, 91, 94, 98, 100, 103, 105, 109, 119, 127, 135, 137, 140, 142, 143, 151, 153, 161, 164, 173, 174, 193, 206, 223, 247
 
-  1.                                                                                                                                                
+  1.     5560                       19/12/2006                                    19/12/2006                                                        6, 100, 102, 109, 146, 150, 171, 231, 253, 254, 309, 310, 325 ve İşlenemeyen Hüküm
 
   1.                                                                                                                                                
 
