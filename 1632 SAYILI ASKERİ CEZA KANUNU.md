@@ -1,4 +1,6 @@
-**6413 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 18/7/2012 tarihli ve **
+
+**E.: 2011/113 K.: 2012/108 sayılı Kararı ile değişik hali**
 
 []{#K36 .anchor}**ASKERİ CEZA KANUNU ^(1)(2)^**
 
@@ -2756,7 +2758,9 @@ olup, ek madde haline getirilmiştir.)**
 
 Askeri doktorların bizzat hususi hastane açmaları memnudur. Hilafında
 hareket, birinci madde mucibince cezayı müstelzimdir. **(Mülga üçüncü
-cümle: 8/8/2011-KHK-650/37 md.)** ^(1)(2)^
+cümle: 8/8/2011-KHK-650/37 md.; İptal:** **Anayasa Mahkemesi’nin
+18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile. )**
+^(1)(2)^
 
 **Ek Madde 4 – (3/8/1942-4277 sayılı ek kanunun 1. maddesi hükmü olup,
 ek madde olarak numarası teselsül ettirilmiştir.)**
@@ -2809,11 +2813,11 @@ cezalandırılırlar.
 *(1) Bu maddede sözü edilen birinci madde ile bu kanunun ek birinci
 maddesi kastedilmektedir*.
 
-*(2) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
+\(2) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
 sayılı Kararı ile bu fıkranın üçüncü cümlesini mülga eden hüküm iptal
 edilmiş olup iptal hükmünün, kararın Resmî Gazete’de yayımlandığı
 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm
-altına alınmıştır.*
+altına alınmıştır.
 
 1145
 
@@ -3099,7 +3103,7 @@ ları tarihte
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- --------------------------------------------
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **1632 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
 
   3970                                                                         -                                                             19/5/1994 tarihinden itibaren üç ay sonra.
@@ -3122,9 +3126,13 @@ ları tarihte
 
   6318                                                                         63                                                            3/6/2012
 
-  6413                                                                         18, 19, 82, 84, 93, 96, 117, 137, 150, 151,                   16/2/2013
+  6413                                                                         18,19, 82, 84, 93, 96, 117, 137, 150, 151,                    16/2/2013
                                                                                                                                              
                                                                                162 ila 191.                                                  
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- --------------------------------------------
+
+  Anayasa                                                                      Ek 3 üncü Madde                                               1/1/2013 tarihinden başlayarak altı ay sonra
+                                                                                                                                             
+  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                 (1/7/2013)
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------
 
 
