@@ -1,4 +1,4 @@
-6495 sayılı Kanun ile değişik hali
+1409
 
 []{#K11 .anchor}POLİS VAZİFE VE SALȂHİYET KANUNU^(1)(2)(3)^
 
@@ -162,149 +162,154 @@ keyfilik oluşturacak şekilde durdurma işlemi yapılamaz.
 
 1411
 
- 
+Polis, durdurduğu kişiye durdurma sebebini bildirir ve durdurma sebebine
+ilişkin sorular sorabilir; kimliğini veya bulundurulması gerekli diğer
+belgelerin ibraz edilmesini isteyebilir.
 
-             Polis, durdurduğu kişiye durdurma sebebini bildirir ve
-durdurma sebebine ilişkin sorular sorabilir; kimliğini veya
-bulundurulması gerekli diğer belgelerin ibraz edilmesini isteyebilir.
-
-             Durdurma süresi, durdurma sebebine esas teşkil eden işlemin
+Durdurma süresi, durdurma sebebine esas teşkil eden işlemin
 gerçekleştirilmesi için zorunlu olan süreden fazla olamaz.
 
-             Durdurma sebebinin ortadan kalkması halinde kişilerin ve
-araçların ayrılmalarına izin verilir.
+Durdurma sebebinin ortadan kalkması halinde kişilerin ve araçların
+ayrılmalarına izin verilir.
 
-             Polis, durdurduğu kişi üzerinde veya aracında silah veya
-tehlike oluşturan diğer bir eşyanın bulunduğu hususunda yeterli şüphenin
-varlığı halinde, kendisine veya başkalarına zarar verilmesini önlemek
-amacına yönelik gerekli tedbirleri alabilir. Ancak bu amaçla kişinin
-üzerindeki elbisenin çıkarılması veya aracın, dışarıdan bakıldığında
-içerisi görünmeyen bölümlerinin açılması istenemez.
+Polis, durdurduğu kişi üzerinde veya aracında silah veya tehlike
+oluşturan diğer bir eşyanın bulunduğu hususunda yeterli şüphenin varlığı
+halinde, kendisine veya başkalarına zarar verilmesini önlemek amacına
+yönelik gerekli tedbirleri alabilir. Bu amaçla kişinin üzerindeki
+elbisenin çıkarılması veya aracın, dışarıdan bakıldığında içerisi
+görünmeyen bölümlerinin açılması istenemez. **(Ek cümleler:
+27/3/2015-6638/1 md.)** Ancak, el ile dıştan kontrol hariç, kişinin üstü
+ve eşyası ile aracının dışarıdan bakıldığında içerisi görünmeyen
+bölümlerinin aranması; İçişleri Bakanlığı tarafından belirlenecek
+esaslar dâhilinde mülki amirin görevlendireceği kolluk amirinin yazılı,
+acele hâllerde sonradan yazıyla teyit edilmek üzere sözlü emriyle
+yapılabilir. Kolluk amirinin kararı yirmi dört saat içinde görevli
+hâkimin onayına sunulur. Bu fıkra kapsamında yapılan araç aramalarına
+ilişkin olarak kişiye, arama gerekçesini de içeren bir belge verilir.
+^(1)^
 
-             Bu Kanun ve diğer kanunların verdiği görevlerin yerine
-getirilmesi sırasında, polis tarafından gerekli işlemler için durdurulan
-kişiler ve araçlarla ilgili hükümler saklıdır.
+Bu Kanun ve diğer kanunların verdiği görevlerin yerine getirilmesi
+sırasında, polis tarafından gerekli işlemler için durdurulan kişiler ve
+araçlarla ilgili hükümler saklıdır.
 
-             Polis, görevini yerine getirirken, kendisinin polis
-olduğunu belirleyen belgeyi gösterdikten sonra, kişilere kimliğini
-sorabilir. Bu kişilere kimliğini ispatlamaları hususunda gerekli
-kolaylık gösterilir.
+Polis, görevini yerine getirirken, kendisinin polis olduğunu belirleyen
+belgeyi gösterdikten sonra, kişilere kimliğini sorabilir. Bu kişilere
+kimliğini ispatlamaları hususunda gerekli kolaylık gösterilir.
 
-             Belgesinin bulunmaması, açıklamada bulunmaktan kaçınması
-veya gerçeğe aykırı beyanda bulunması dolayısıyla ya da sair surette
-kimliği belirlenemeyen kişi tutularak durumdan derhal Cumhuriyet savcısı
+Belgesinin bulunmaması, açıklamada bulunmaktan kaçınması veya gerçeğe
+aykırı beyanda bulunması dolayısıyla ya da sair surette kimliği
+belirlenemeyen kişi tutularak durumdan derhal Cumhuriyet savcısı
 haberdar edilir. Bu kişi, kimliği açık bir şekilde anlaşılıncaya kadar
 gözaltına alınır ve gerekirse tutuklanır. Gözaltına ve tutuklamaya karar
 verme yetkisi ve usûlü bakımından 5271 sayılı Ceza Muhakemesi Kanunu
 hükümleri uygulanır.
 
-             Kimliğinin tespiti amacıyla tutulan kişiye, kimliği tespit
-edildikten sonra ve talepte bulunması halinde, bu amaçla tutulduğuna ve
-tutulma süresine dair bir belge verilir. Kişinin kimliğinin belirlenmesi
+Kimliğinin tespiti amacıyla tutulan kişiye, kimliği tespit edildikten
+sonra ve talepte bulunması halinde, bu amaçla tutulduğuna ve tutulma
+süresine dair bir belge verilir. Kişinin kimliğinin belirlenmesi
 durumunda, bu nedenle gözaltına alınma veya tutuklanma haline derhal son
 verilir.
 
-             Nüfusa kayıtlı olmadığı için kimliği tespit edilemeyen
-kişilerin nüfusa kayıtlarının temini için gerekli işlemler yapıldıktan
-sonra, 5 inci maddeye göre fotoğraf ve parmak izi tespit edilerek kayda
-alınır.
+Nüfusa kayıtlı olmadığı için kimliği tespit edilemeyen kişilerin nüfusa
+kayıtlarının temini için gerekli işlemler yapıldıktan sonra, 5 inci
+maddeye göre fotoğraf ve parmak izi tespit edilerek kayda alınır.
 
-             Kimliği tespit edilemeyen kişinin yabancı olduğunun
-anlaşılması halinde, 5682 sayılı Pasaport Kanunu ve 5683 sayılı
-Yabancıların Türkiye’de İkamet ve Seyahatleri Hakkında Kanun hükümlerine
-göre işlem yapılır.
+Kimliği tespit edilemeyen kişinin yabancı olduğunun anlaşılması halinde,
+5682 sayılı Pasaport Kanunu ve 5683 sayılı Yabancıların Türkiye’de
+İkamet ve Seyahatleri Hakkında Kanun hükümlerine göre işlem yapılır.
 
-*             Parmak izi ve fotoğrafların kayda alınması*
+*Parmak izi ve fotoğrafların kayda alınması*
 
-             **Madde 5-** **(Değişik: 2/6/2007-5681/2 md.) **
+**Madde 5-** **(Değişik: 2/6/2007-5681/2 md.) **
 
-**            ** Polis;
+Polis;
 
-             a) Gönüllü,
+a\) Gönüllü,
 
-             b) Her çeşit silah ruhsatı, sürücü belgesi, pasaport veya
-pasaport yerine geçen belge almak için başvuruda bulunan,
+b\) Her çeşit silah ruhsatı, sürücü belgesi, pasaport veya pasaport
+yerine geçen belge almak için başvuruda bulunan,
 
-             c) Başta polis olmak üzere, genel veya özel kolluk
-görevlisi ya da özel güvenlik görevlisi olarak istihdam edilen,
+c\) Başta polis olmak üzere, genel veya özel kolluk görevlisi ya da özel
+güvenlik görevlisi olarak istihdam edilen,
 
-             ç) Türk vatandaşlığına başvuruda bulunan,
+ç) Türk vatandaşlığına başvuruda bulunan,
 
-             d) Sığınma talebinde bulunan veya gerekli görülmesi
-halinde, ülkeye giriş yapan sair yabancı,
+d\) Sığınma talebinde bulunan veya gerekli görülmesi halinde, ülkeye
+giriş yapan sair yabancı,
 
-             e) Gözaltına alınan,
+e\) Gözaltına alınan,
 
-             kişilerin parmak izini alır.
+kişilerin parmak izini alır.
 
-             Birinci fıkraya göre alınan parmak izi, ait olduğu kişinin
-kimlik bilgileri ile birlikte, ne zaman ve kim tarafından alındığı
-belirtilmek suretiyle, bu amaca özgü sisteme kaydedilerek saklanır.
-Ancak, parmak izinin hangi sebeple alındığı sisteme kaydedilmez.
+Birinci fıkraya göre alınan parmak izi, ait olduğu kişinin kimlik
+bilgileri ile birlikte, ne zaman ve kim tarafından alındığı belirtilmek
+suretiyle, bu amaca özgü sisteme kaydedilerek saklanır. Ancak, parmak
+izinin hangi sebeple alındığı sisteme kaydedilmez.
+
+––––––––––––––––––
+
+*(1) 27/3/2015 tarihli ve 6638 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “Ancak bu” ibaresi “Bu” şeklinde değiştirilmiştir.*
 
 1412
 
- 
+Olay yerinden elde edilen ve kime ait olduğu henüz tespit edilemeyen
+parmak izleri, kime ait olduğu tespit edilinceye kadar, ilgili
+soruşturma dosya numarası ile birlikte sisteme kaydedilir.
 
-            Olay yerinden elde edilen ve kime ait olduğu henüz tespit
-edilemeyen parmak izleri, kime ait olduğu tespit edilinceye kadar,
-ilgili soruşturma dosya numarası ile birlikte sisteme kaydedilir.
+5271 sayılı Ceza Muhakemesi Kanununun 81 inci maddesi ile 5275 sayılı
+Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 21 inci maddesi
+hükümlerine göre alınan parmak izleri de bu sisteme kaydedilir.
 
-             5271 sayılı Ceza Muhakemesi Kanununun 81 inci maddesi ile
-5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 21
-inci maddesi hükümlerine göre alınan parmak izleri de bu sisteme
-kaydedilir.
-
-             (a) bendi hariç birinci fıkra ile dördüncü fıkra kapsamına
-giren kişilerin ayrıca fotoğrafları alınarak, ikinci fıkrada belirlenen
+\(a) bendi hariç birinci fıkra ile dördüncü fıkra kapsamına giren
+kişilerin ayrıca fotoğrafları alınarak, ikinci fıkrada belirlenen
 esaslara uygun olarak parmak izi ile birlikte sisteme kaydedilir.
 
-             Bu sistemde yer alan bilgiler, kimlik tespiti, suçun
-önlenmesi veya yürütülmekte olan soruşturma ve kovuşturma kapsamında
-maddî gerçeğin ortaya çıkarılması amacıyla mahkeme, hâkim, Cumhuriyet
-savcısı ve kolluk tarafından kullanılabilir.
+Bu sistemde yer alan bilgiler, kimlik tespiti, suçun önlenmesi veya
+yürütülmekte olan soruşturma ve kovuşturma kapsamında maddî gerçeğin
+ortaya çıkarılması amacıyla mahkeme, hâkim, Cumhuriyet savcısı ve kolluk
+tarafından kullanılabilir.
 
-             Kolluk birimleri, kimlik tespiti yapmak ya da olay yerinden
-alınan parmak izini karşılaştırmak amacıyla doğrudan bu sistemle
-bağlantı kurabilir.
+Kolluk birimleri, kimlik tespiti yapmak ya da olay yerinden alınan
+parmak izini karşılaştırmak amacıyla doğrudan bu sistemle bağlantı
+kurabilir.
 
-             Sistemde kayıtlı bilgilerin hangi kamu görevlisi tarafından
-ve ne amaçla kullanıldığının denetlenebilmesine imkân tanıyan bir
-güvenlik sistemi kurulur.
+Sistemde kayıtlı bilgilerin hangi kamu görevlisi tarafından ve ne amaçla
+kullanıldığının denetlenebilmesine imkân tanıyan bir güvenlik sistemi
+kurulur.
 
-             Sistemde yer alan kayıtlar gizlidir; altıncı ve yedinci
-fıkralarda belirlenen amaçlar dışında kullanılamaz.
+Sistemde yer alan kayıtlar gizlidir; altıncı ve yedinci fıkralarda
+belirlenen amaçlar dışında kullanılamaz.
 
-             Sisteme kayıtlı olan parmak izi ve fotoğraflar, kişinin
-ölümünden itibaren on yıl ve her halde kayıt tarihinden itibaren seksen
-yıl geçtikten sonra sistemden silinir.
+Sisteme kayıtlı olan parmak izi ve fotoğraflar, kişinin ölümünden
+itibaren on yıl ve her halde kayıt tarihinden itibaren seksen yıl
+geçtikten sonra sistemden silinir.
 
-             Parmak izi ile fotoğrafların sistemde kaydedilmesi ve
-saklanması ile bu kayıtlardan yararlanmaya ilişkin diğer esas ve
-usûller, İçişleri Bakanlığı tarafından Adalet Bakanlığının görüşü
-alınarak çıkarılacak yönetmelikle düzenlenir.
+Parmak izi ile fotoğrafların sistemde kaydedilmesi ve saklanması ile bu
+kayıtlardan yararlanmaya ilişkin diğer esas ve usûller, İçişleri
+Bakanlığı tarafından Adalet Bakanlığının görüşü alınarak çıkarılacak
+yönetmelikle düzenlenir.
 
-             **Madde 6 – (Mülga: 13/1/1986 - 3257/13 md.; Yeniden
-düzenleme: 24/11/2004-5259/1 md.)**
+**Madde 6 – (Mülga: 13/1/1986 - 3257/13 md.; Yeniden düzenleme:
+24/11/2004-5259/1 md.)**
 
-             Umuma açık istirahat ve eğlence yerlerinden;
+Umuma açık istirahat ve eğlence yerlerinden;
 
-             a) Faaliyetten geçici olarak men edildiği halde süresinden
-önce açılan,
+a\) Faaliyetten geçici olarak men edildiği halde süresinden önce açılan,
 
-             b) Açık ve kapalı bulunacağı saatlere uymayan,
+b\) Açık ve kapalı bulunacağı saatlere uymayan,
 
-             c) Bu Kanunun 12 nci maddesinde belirtilen yasaklara
-uymadığı tespit edilen,
+c\) Bu Kanunun 12 nci maddesinde belirtilen yasaklara uymadığı tespit
+edilen,
 
-             d) Mevzuat hükümlerine aykırı olarak işletilen,
+d\) Mevzuat hükümlerine aykırı olarak işletilen,
 
-             İş yerlerinin işletmecilerine beşyüzmilyon Türk Lirası ile
-birmilyar Türk Lirası arasında idarî para cezası verilir.
+İş yerlerinin işletmecilerine beşyüzmilyon Türk Lirası ile birmilyar
+Türk Lirası arasında idarî para cezası verilir.
 
-             Bu maddede öngörülen idarî para cezaları, belediye
-sınırları içinde belediye encümeni, belediye sınırları dışında il daimi
-encümeni tarafından verilir. Verilen idarî para cezalarına dair kararlar
+Bu maddede öngörülen idarî para cezaları, belediye sınırları içinde
+belediye encümeni, belediye sınırları dışında il daimi encümeni
+tarafından verilir. Verilen idarî para cezalarına dair kararlar
 ilgililere 7201 sayılı Tebligat Kanunu hükümlerine göre tebliğ edilir.
 Bu cezalara karşı tebliğ tarihinden itibaren en geç yedi gün içinde
 yetkili idare mahkemesine itiraz edilebilir. İtiraz, idarece verilen
@@ -314,10 +319,8 @@ yapılarak en kısa sürede sonuçlandırılır. İdarî para cezaları 6183
 sayılı Âmme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre
 tahsil olunur.
 
-             Bu maddede belirtilen aynı fiillerin bir yıl içinde tekrarı
-halinde, en son uygulanan para cezası bir kat artırılarak uygulanır.
-
- 
+Bu maddede belirtilen aynı fiillerin bir yıl içinde tekrarı halinde, en
+son uygulanan para cezası bir kat artırılarak uygulanır.
 
 1413
 
@@ -478,83 +481,71 @@ merci veya makama bir tutanakla bildirilir.
 
 1415
 
- 
+**Madde 10 –** Taşınması memnu olan kama, hançer ve saldırmanın
+yapılması ve satılması da yasaktır.
 
-             **Madde 10 –** Taşınması memnu olan kama, hançer ve
-saldırmanın yapılması ve satılması da yasaktır.
+Eski eserlerden olupta kıymetli olanların satışı bu hükümden
+müstesnadır.
 
-             Eski eserlerden olupta kıymetli olanların satışı bu
-hükümden müstesnadır.
+**Madde 11 – (Değişik: 16/6/1985 - 3233/3 md.)**
 
-             **Madde 11 – (Değişik: 16/6/1985 - 3233/3 md.)**
+Polis;
 
-             Polis;
+A\) Genel ahlak ve edep kurallarına aykırı olarak; utanç verici ve toplum
+düzeni bakımından tasvip edilmeyen tavır ve davranışta bulunanlar ile bu
+nitelikte söz, şarkı, müzik veya benzeri gösteri yapanları,
 
-             A) Genel ahlak ve edep kurallarına aykırı olarak; utanç
-verici ve toplum düzeni bakımından tasvip edilmeyen tavır ve davranışta
-bulunanlar ile bu nitelikte söz, şarkı, müzik veya benzeri gösteri
-yapanları,
+B\) Çocuklar, kız ve kadınlar ile genç erkeklere sözle veya herhangi bir
+şekilde sarkıntılık edenleri, kötü alışkanlıklara ve hertürlü
+ahlaksızlığa yönelten ve teşvik edenleri,
 
-             B) Çocuklar, kız ve kadınlar ile genç erkeklere sözle veya
-herhangi bir şekilde sarkıntılık edenleri, kötü alışkanlıklara ve
-hertürlü ahlaksızlığa yönelten ve teşvik edenleri,
+C\) **(Değişik: 3/8/2002-4771/10 md.)** Genel ahlâk ve edebe aykırı
+mahiyette her türlü sesli ve görüntülü eserleri, kaydedildiği materyale
+bakılmaksızın üreten ve satanları,
 
-             C) **(Değişik: 3/8/2002-4771/10 md.)** Genel ahlâk ve edebe
-aykırı mahiyette her türlü sesli ve görüntülü eserleri, kaydedildiği
-materyale bakılmaksızın üreten ve satanları,
+Herhangi bir müracaat veya şikayet olmasa bile engeller, davranışlarının
+devamını durdurarak yasaklar, sanıklar hakkında tanzim olunacak evrakı
+derhal şikayete bağlı suçlar hakkındaki evrakı da şikayet ve müracaat
+vukubulduğu takdirde adliyeye tevdi eder.
 
-             Herhangi bir müracaat veya şikayet olmasa bile engeller,
-davranışlarının devamını durdurarak yasaklar, sanıklar hakkında tanzim
-olunacak evrakı derhal şikayete bağlı suçlar hakkındaki evrakı da
-şikayet ve müracaat vukubulduğu takdirde adliyeye tevdi eder.
+**(Mülga: 3/8/2002-4771/12 md.)**
 
-             **(Mülga: 3/8/2002-4771/12 md.)**
+**Madde 12-** **(Değişik: 3/8/2002-4771/10 md.) **
 
-             **Madde 12-** **(Değişik: 3/8/2002-4771/10 md.) **
+Kanunî istisnalar saklı kalmak üzere, eğlence, oyun, içki ve benzeri
+amaçlı umuma açık ve açılması izne bağlı yerlerde onsekiz yaşından
+küçükler çalıştırılamaz.
 
-**            ** Kanunî istisnalar saklı kalmak üzere, eğlence, oyun,
-içki ve benzeri amaçlı umuma açık ve açılması izne bağlı yerlerde
-onsekiz yaşından küçükler çalıştırılamaz.
+Polis bar, pavyon, gazino, meyhane gibi içkili yerler ile kıraathane ve
+oyun oynatılan benzeri yerlere yanlarında veli ve vasileri olsa bile
+onsekiz yaşını doldurmamış küçüklerin girmesini meneder.
 
-             Polis bar, pavyon, gazino, meyhane gibi içkili yerler ile
-kıraathane ve oyun oynatılan benzeri yerlere yanlarında veli ve vasileri
-olsa bile onsekiz yaşını doldurmamış küçüklerin girmesini meneder.
+Bu madde hükümlerine aykırı hareket edenler hakkında 17 nci, işyerleri
+hakkında da 6 ncı madde hükümlerine göre işlem yapılır.^(1)^
 
-             Bu  madde  hükümlerine  aykırı  hareket  edenler  hakkında
-17 nci,  işyerleri hakkında da 6 ncı madde hükümlerine göre işlem
-yapılır.^(1)^
+**Madde 13-** **(Değişik: 3/8/2002-4771/10 md.) **
 
-**             Madde 13-** **(Değişik: 3/8/2002-4771/10 md.) **
+Polis,
 
-**            ** Polis,
+A\) Suçüstü hâlinde veya gecikmesinde sakınca bulunan diğer hâllerde suç
+işlendiğine veya suça teşebbüs edildiğine dair haklarında kuvvetli iz,
+eser, emare veya delil bulunan şüphelileri,
 
-             A) Suçüstü hâlinde veya gecikmesinde sakınca bulunan diğer
-hâllerde suç işlendiğine veya suça teşebbüs edildiğine dair haklarında
-kuvvetli iz, eser, emare veya delil bulunan şüphelileri,
+B\) Haklarında yetkili mercilerce verilen yakalama veya tutuklama kararı
+bulunanları,
 
-             B) Haklarında yetkili mercilerce verilen yakalama veya
-tutuklama kararı bulunanları,
-
-             C) Halkın rahatını bozacak veya rezalet çıkaracak derecede
-sarhoş olanları veya sarhoşluk hâlinde başkalarına saldıranları, yapılan
+C\) Halkın rahatını bozacak veya rezalet çıkaracak derecede sarhoş
+olanları veya sarhoşluk hâlinde başkalarına saldıranları, yapılan
 uyarılara rağmen bu hareketlerine devam edenler ile başkalarına
 saldırmaya yeltenenleri ve kavga edenleri,
 
-             D) Usulüne aykırı şekilde ülkeye giren ya da haklarında
-sınır dışı etme veya geri verme kararı alınanları,
+D\) Usulüne aykırı şekilde ülkeye giren ya da haklarında sınır dışı etme
+veya geri verme kararı alınanları,
 
-             E) Polisin kanunlara uygun olarak aldığı tedbirlere karşı
-gelenleri, direnenleri ve görev yapmasını engelleyenleri,    
+E\) Polisin kanunlara uygun olarak aldığı tedbirlere karşı gelenleri,
+direnenleri ve görev yapmasını engelleyenleri,
 
-             F) Bir kurumda tedavi, eğitim ve ıslahı için kanunlarla ve
-bu Kanunun uygulanmasını gösteren tüzükte belirtilen esaslara uygun
-olarak alınan tedbirlerin yerine getirilmesi amacıyla, toplum için
-tehlike teşkil eden akıl hastası, uyuşturucu madde veya alkol bağımlısı
-serseri veya hastalık bulaştırabilecek kişileri,
-
- 
-
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 *(1) Bu fıkrada geçen “8 inci” ibaresi, 24/11/2004 tarihli ve 5259
 sayılı Kanunun 4 üncü maddesi ile “6 ncı” olarak değiştirilmiş ve metne
@@ -562,261 +553,290 @@ işlenmiştir.*
 
 1416
 
-              
+F\) Bir kurumda tedavi, eğitim ve ıslahı için kanunlarla ve bu Kanunun
+uygulanmasını gösteren tüzükte belirtilen esaslara uygun olarak alınan
+tedbirlerin yerine getirilmesi amacıyla, toplum için tehlike teşkil eden
+akıl hastası, uyuşturucu madde veya alkol bağımlısı serseri veya
+hastalık bulaştırabilecek kişileri,
 
-             G) Haklarında gözetim altında ıslahına veya yetkili merci
-önüne çıkarılmasına karar verilen küçükleri,
+G\) Haklarında gözetim altında ıslahına veya yetkili merci önüne
+çıkarılmasına karar verilen küçükleri,
 
-             Yakalar ve gerekli kanunî işlemleri yapar.
+H\) **(Ek: 27/3/2015-6638/2 md.)** Başkalarının can güvenliğini tehlikeye
+düşürenleri,
 
-             Yakalanması belirli bir usule bağlanmış kişilerle ilgili
-kanun hükümleri saklıdır.
+eylemin veya durumun niteliğine göre; koruma altına alır, uzaklaştırır
+ya da yakalar ve gerekli kanuni işlemleri yapar. Yakalanması belirli bir
+usule bağlanmış kişilerle ilgili kanun hükümleri saklıdır. ^(1)^
 
-             Yakalanan kişilerin kaçması veya saldırıda bulunmasının
-önlenmesi bakımından kişinin sağlığına zarar vermeyecek şekilde her
-türlü tedbir alınabilir.
+Yakalanan kişilerin kaçması veya saldırıda bulunmasının önlenmesi
+bakımından kişinin sağlığına zarar vermeyecek şekilde her türlü tedbir
+alınabilir.
 
-             Yakalanan kişilere, yakalama sebebi herhalde yazılı ve
-bunun mümkün olmaması hâlinde sözlü olarak derhal; toplu suçlarda ise en
-geç bu kişiler hâkim huzuruna çıkarılıncaya kadar bildirilir.
+Yakalanan kişilere, yakalama sebebi herhalde yazılı ve bunun mümkün
+olmaması hâlinde sözlü olarak derhal; toplu suçlarda ise en geç bu
+kişiler hâkim huzuruna çıkarılıncaya kadar bildirilir.
 
-             Kişinin yakalandığı, istediği kanunî yakınlarına derhal
-bildirilir.
+Kişinin yakalandığı, istediği kanunî yakınlarına derhal bildirilir.
 
-             Yakalananlardan,
+Yakalananlardan,
 
-             A) Uyuşturucu madde kullanmış olanlar ile sarhoş olanların,
+A\) Uyuşturucu madde kullanmış olanlar ile sarhoş olanların,
 
-             B) Zor kullanılarak yakalananların,
+B\) Zor kullanılarak yakalananların,
 
-             C) Haklarında suç soruşturması yapılacak olan şüpheli ve
-sanıkların,
+C\) Haklarında suç soruşturması yapılacak olan şüpheli ve sanıkların,
 
-             Yakalanma anındaki sağlık durumları tabip raporuyla tespit
-edilir.
+Yakalanma anındaki sağlık durumları tabip raporuyla tespit edilir.
 
-             Yakalanan kişilerden suç işlediği şüphesi altında olanlar
-adlî mercilere sevk edilir. Haklarında ıslah veya tedavi tedbiri
-alınması gerekenler, ilgili kurum yetkilileri tarafından teslim alınır.
-Yakalama sebebi ortadan kalkanlar derhal serbest bırakılır.
+Yakalanan kişilerden suç işlediği şüphesi altında olanlar adlî mercilere
+sevk edilir. Haklarında ıslah veya tedavi tedbiri alınması gerekenler,
+ilgili kurum yetkilileri tarafından teslim alınır. Yakalama sebebi
+ortadan kalkanlar derhal serbest bırakılır.
 
-**             Madde 14 –** Şehir ve kasabalarda gerek mesken içinde ve
-gerek dışında saat 24 ten sonra her ne suretle olursa olsun civar
-halkının rahat ve huzurunu bozacak surette gürültü yapanlar polisçe
-menolunur. Bu yasağı dinlemiyenler hakkında Ceza Kanununun 546 ncı
-maddesine göre takibat yapılır.
+*Kayıp çocukların araştırılması*
 
-             Zabıtadan izin alınarak yapılacak düğün ve müsamere ve
-balolar bu kayıttan müstesnadır.
+**Madde 13/A-** **(Ek: 2/1/2017-KHK-680/26 md.)**
 
-             **Madde 15 –** Polis; yaptığı tahkikat esnasında
-ifadelerine müracaat lazımgelen kimseleri çağırır ve kendilerine lüzumu
-olan şeyleri sorar.
+Kaybolan çocukların bulunması amacıyla, polis, sulh ceza hâkiminin veya
+gecikmesinde sakınca bulunan hallerde mülki idare amirinin yazılı veya
+sonradan yazılı hale getirilmek üzere sözlü emri ile kayıp çocuğa ait
+veya başkasına ait olmakla birlikte kayıp çocuk tarafından kullanılan
+her türlü banka hesap hareketlerini talep edebilir, telekomünikasyon
+yoluyla iletişimini denetleyebilir ve sinyal bilgilerini
+değerlendirebilir. Tedbir kararı, en çok bir ay için verilebilir; ancak
+bu süre, bir defaya mahsus olmak üzere bir ay daha uzatılabilir.
 
-             **(Ek: 16/6/1985 - 3233/5 md.; İptal: An. Mah.nin
-26/11/1986 tarih ve 1985/8 E., 1986/27 K. sayılı Kararı ile.)**
+Mülki idare amirinin kararı, derhal mahkemenin onayına sunulur. Mahkeme
+kararını en geç yirmidört saat içinde verir.
 
-             *Zor ve silah kullanma *
+––––––––––––––––
 
-             **Madde 16-**  **(Değişik: 2/6/2007-5681/4 md.) **
+*(1) 27/3/2015 tarihli ve 6638 sayılı Kanunun 2 nci maddesiyle, bu
+fıkrada yer alan “Yakalar ve gerekli kanuni işlemleri yapar.” ibaresi
+“eylemin veya durumun niteliğine göre; koruma altına alır, uzaklaştırır
+ya da yakalar ve gerekli kanuni işlemleri yapar.” şeklinde
+değiştirilmiştir.*
 
-**            ** Polis, görevini yaparken direnişle karşılaşması
-halinde, bu direnişi kırmak amacıyla ve kıracak ölçüde zor kullanmaya
-yetkilidir.
+1416-1
 
-             Zor kullanma yetkisi kapsamında, direnmenin mahiyetine ve
-derecesine göre ve direnenleri etkisiz hale getirecek şekilde kademeli
-olarak artan nispette bedenî kuvvet, maddî güç ve kanunî şartları
-gerçekleştiğinde silah kullanılabilir.
+**Madde 14 –** Şehir ve kasabalarda gerek mesken içinde ve gerek dışında
+saat 24 ten sonra her ne suretle olursa olsun civar halkının rahat ve
+huzurunu bozacak surette gürültü yapanlar polisçe menolunur. Bu yasağı
+dinlemiyenler hakkında Ceza Kanununun 546 ncı maddesine göre takibat
+yapılır.
 
-             İkinci fıkrada yer alan;
+Zabıtadan izin alınarak yapılacak düğün ve müsamere ve balolar bu
+kayıttan müstesnadır.
 
-             a) Bedenî kuvvet; polisin direnen kişilere karşı veya eşya
-üzerinde doğrudan doğruya kullandığı bedenî gücü,
+**Madde 15 –** Polis; yaptığı tahkikat esnasında ifadelerine müracaat
+lazımgelen kimseleri çağırır ve kendilerine lüzumu olan şeyleri sorar.
 
-             b) Maddî güç; polisin direnen kişilere karşı veya eşya
-üzerinde bedenî kuvvetin dışında kullandığı kelepçe, cop, basınçlı su,
+**(Ek: 16/6/1985 - 3233/5 md.; İptal: An. Mah.nin 26/11/1986 tarih ve
+1985/8 E., 1986/27 K. sayılı Kararı ile.)**
+
+**(Ek fıkra: 27/3/2015-6638/3 md.)** Polis; müşteki, mağdur veya tanık
+ifadelerini, talepleri hâlinde ikamet ettikleri yerlerde veya
+işyerlerinde de alabilir. Bu fıkranın kapsamı ile uygulanmasına ilişkin
+usul ve esaslar İçişleri Bakanlığınca belirlenir.
+
+*Zor ve silah kullanma *
+
+**Madde 16-** **(Değişik: 2/6/2007-5681/4 md.) **
+
+Polis, görevini yaparken direnişle karşılaşması halinde, bu direnişi
+kırmak amacıyla ve kıracak ölçüde zor kullanmaya yetkilidir.
+
+Zor kullanma yetkisi kapsamında, direnmenin mahiyetine ve derecesine
+göre ve direnenleri etkisiz hale getirecek şekilde kademeli olarak artan
+nispette bedenî kuvvet, maddî güç ve kanunî şartları gerçekleştiğinde
+silah kullanılabilir.
+
+İkinci fıkrada yer alan;
+
+a\) Bedenî kuvvet; polisin direnen kişilere karşı veya eşya üzerinde
+doğrudan doğruya kullandığı bedenî gücü,
+
+b\) Maddî güç; polisin direnen kişilere karşı veya eşya üzerinde bedenî
+kuvvetin dışında kullandığı kelepçe, cop, basınçlı ve/veya boyalı su,
 göz yaşartıcı gazlar veya tozlar, fizikî engeller, polis köpekleri ve
-atları ile sair hizmet araçlarını,
+atları ile sair hizmet araçlarını, ^(1)^
 
-             ifade eder.
+ifade eder.
 
-             Zor kullanmadan önce, ilgililere direnmeye devam etmeleri
-halinde doğrudan doğruya zor kullanılacağı ihtarı yapılır. Ancak,
-direnmenin mahiyeti ve derecesi göz önünde bulundurularak, ihtar
-yapılmadan da zor kullanılabilir.
+Zor kullanmadan önce, ilgililere direnmeye devam etmeleri halinde
+doğrudan doğruya zor kullanılacağı ihtarı yapılır. Ancak, direnmenin
+mahiyeti ve derecesi göz önünde bulundurularak, ihtar yapılmadan da zor
+kullanılabilir.
 
-             Polis, zor kullanma yetkisi kapsamında direnmeyi etkisiz
-kılmak amacıyla kullanacağı araç ve gereç ile kullanacağı zorun
-derecesini kendisi takdir ve tayin eder. Ancak, toplu kuvvet olarak
-müdahale edilen durumlarda, zor kullanmanın derecesi ile kullanılacak
-araç ve gereçler müdahale eden kuvvetin amiri tarafından tayin ve tespit
-edilir.
+Polis, zor kullanma yetkisi kapsamında direnmeyi etkisiz kılmak amacıyla
+kullanacağı araç ve gereç ile kullanacağı zorun derecesini kendisi
+takdir ve tayin eder. Ancak, toplu kuvvet olarak müdahale edilen
+durumlarda, zor kullanmanın derecesi ile kullanılacak araç ve gereçler
+müdahale eden kuvvetin amiri tarafından tayin ve tespit edilir.
+
+Polis, kendisine veya başkasına yönelik bir saldırı karşısında, zor
+kullanmaya ilişkin koşullara bağlı kalmaksızın, 5237 sayılı Türk Ceza
+Kanununun meşru savunmaya ilişkin hükümleri çerçevesinde savunmada
+bulunur.
+
+Polis;
+
+a\) Meşru savunma hakkının kullanılması kapsamında,
+
+––––––––––––––––
+
+*(1) 27/3/2015 tarihli ve 6638 sayılı Kanunun 4 üncü maddesiyle, bu
+bentte yer alan “basınçlı” ibaresinden sonra gelmek üzere “ve/veya
+boyalı” ibaresi eklenmiştir.*
+
+1416-2
+
+b\) Bedenî kuvvet ve maddî güç kullanarak etkisiz hale getiremediği
+direniş karşısında, bu direnişi kırmak amacıyla ve kıracak ölçüde,
+
+c\) Hakkında tutuklama, gözaltına alma, zorla getirme kararı veya
+yakalama emri verilmiş olan kişilerin ya da suçüstü halinde şüphelinin
+yakalanmasını sağlamak amacıyla ve sağlayacak ölçüde,
+
+d\) **(Ek: 27/3/2015-6638/4 md.)** Kendisine veya başkalarına,
+işyerlerine, konutlara, kamu binalarına, okullara, yurtlara,
+ibadethanelere, araçlara ve kişilerin tek tek veya toplu halde bulunduğu
+açık veya kapalı alanlara molotof, patlayıcı, yanıcı, yakıcı, boğucu,
+yaralayıcı ve benzeri silahlarla saldıran veya saldırıya teşebbüs
+edenlere karşı, saldırıyı etkisiz kılmak amacıyla ve etkisiz kılacak
+ölçüde,
+
+silah kullanmaya yetkilidir.
 
 1417
 
- 
+Polis, yedinci fıkranın (c) bendi kapsamında silah kullanmadan önce
+kişiye duyabileceği şekilde "dur" çağrısında bulunur. Kişinin bu çağrıya
+uymayarak kaçmaya devam etmesi halinde, önce uyarı amacıyla silahla ateş
+edilebilir. Buna rağmen kaçmakta ısrar etmesi dolayısıyla ele
+geçirilmesinin mümkün olmaması halinde ise kişinin yakalanmasını
+sağlamak amacıyla ve sağlayacak ölçüde silahla ateş edilebilir.
 
-             Polis, kendisine veya başkasına yönelik bir saldırı
-karşısında, zor kullanmaya ilişkin koşullara bağlı kalmaksızın, 5237
-sayılı Türk Ceza Kanununun meşru savunmaya ilişkin hükümleri
-çerçevesinde savunmada bulunur.
+Polis, direnişi kırmak ya da yakalamak amacıyla zor veya silah kullanma
+yetkisini kullanırken, kendisine karşı silahla saldırıya teşebbüs
+edilmesi halinde, silahla saldırıya teşebbüs eden kişiye karşı saldırı
+tehlikesini etkisiz kılacak ölçüde duraksamadan silahla ateş edebilir
 
-             Polis;
+**Madde 17 –** Polisin:
 
-             a) Meşru savunma hakkının kullanılması kapsamında,
+A\) Kanun ve usul dairesinde verdiği emre itaatsizlik ve ittihaz eylediği
+tedbirlere riayetsizlik edenler; ^(1)^
 
-             b) Bedenî kuvvet ve maddî güç kullanarak etkisiz hale
-getiremediği direniş karşısında, bu direnişi kırmak amacıyla ve kıracak
-ölçüde,
+B\) Vazife yaparken polise mukavemette bulunan veya vazifesinden
+alıkoymak maksadiyle polise zorla karşı koyan ve yakalanmadıkları
+takdirde hareketlerinde devam etmeleri melhuz bulunan şahıslar; ^(2)^
 
-             c) Hakkında tutuklama, gözaltına alma, zorla getirme kararı
-veya yakalama emri verilmiş olan kişilerin ya da suçüstü halinde
-şüphelinin yakalanmasını sağlamak amacıyla ve sağlayacak ölçüde,
+**(Değişik: 16/6/1985 - 3233/6 md.)** Karakola götürülüp haklarında
+tanzim olunacak evrakla beraber adliyeye verilirler.
 
-             silah kullanmaya yetkilidir.
+**(Fıkra iki ve üç: Ek: 19/2/1980 - 2261/1 md.; Mülga: 2/6/2007-5681/6
+md.)**
 
-             Polis, yedinci fıkranın (c) bendi kapsamında silah
-kullanmadan önce kişiye duyabileceği şekilde "dur" çağrısında bulunur.
-Kişinin bu çağrıya uymayarak kaçmaya devam etmesi halinde, önce uyarı
-amacıyla silahla ateş edilebilir. Buna rağmen kaçmakta ısrar etmesi
-dolayısıyla ele geçirilmesinin mümkün olmaması halinde ise kişinin
-yakalanmasını sağlamak amacıyla ve sağlayacak ölçüde silahla ateş
-edilebilir.
+**(Fıkra dört ve beş-Ek : 16/6/1985 - 3233/6 md.; Mülga: 2/6/2007-5681/6
+md.)**
 
-             Polis, direnişi kırmak ya da yakalamak amacıyla zor veya
-silah kullanma yetkisini kullanırken, kendisine karşı silahla saldırıya
-teşebbüs edilmesi halinde, silahla saldırıya teşebbüs eden kişiye karşı
-saldırı tehlikesini etkisiz kılacak ölçüde duraksamadan silahla ateş
-edebilir
+**Madde 18 – (Mülga: 20/2/1948 - 5188/1 md.)**
 
-             **Madde 17 –** Polisin:
-
-             A) Kanun ve usul dairesinde verdiği emre itaatsizlik ve
-ittihaz eylediği tedbirlere riayetsizlik edenler; ^(1)^
-
-             B) Vazife yaparken polise mukavemette bulunan veya
-vazifesinden alıkoymak maksadiyle polise zorla karşı koyan ve
-yakalanmadıkları takdirde hareketlerinde devam etmeleri melhuz bulunan
-şahıslar; ^(2)^
-
-             **(Değişik: 16/6/1985 - 3233/6 md.)** Karakola götürülüp
-haklarında tanzim olunacak evrakla beraber adliyeye verilirler.
-
-             **(Fıkra iki ve üç: Ek: 19/2/1980 - 2261/1 md.; Mülga:
-2/6/2007-5681/6 md.)**
-
-**             (Fıkra dört ve beş-Ek : 16/6/1985 - 3233/6 md.; Mülga:
-2/6/2007-5681/6 md.)**
-
-             **Madde 18 – (Mülga: 20/2/1948 - 5188/1 md.)**
-
-**             Madde 19 –** Polis; sokak, meydan ve umuma mahsus
-yerlerde intizamı temin ve Seyrüsefer Talimatnamesindeki vasıflara uygun
-olmıyan nakil vasıtalarını işletmekten ve bu vasıtaları sarhoş olarak
-veya seyrüseferin intizam ve selametini bozacak surette idare edenleri
+**Madde 19 –** Polis; sokak, meydan ve umuma mahsus yerlerde intizamı
+temin ve Seyrüsefer Talimatnamesindeki vasıflara uygun olmıyan nakil
+vasıtalarını işletmekten ve bu vasıtaları sarhoş olarak veya
+seyrüseferin intizam ve selametini bozacak surette idare edenleri
 çalışmaktan meneder.
 
-             **Madde 20 – (Değişik: 26/6/1973 - 1775/4 md.)**
+**Madde 20 – (Değişik: 26/6/1973 - 1775/4 md.)**
 
-             Zabıta, imdat istenmesi veya yangın, su baskını ve boğulma
-gibi büyük tehlikelerin haber verilmesi veya görülmesi halleri ile ağır
-cezalı bir suçun işlenmesine veya yapılmakta devam olunmasına mani olmak
-için konutlara, iş yerlerine ve eklentilerine girebilir.
+Zabıta, imdat istenmesi veya yangın, su baskını ve boğulma gibi büyük
+tehlikelerin haber verilmesi veya görülmesi halleri ile ağır cezalı bir
+suçun işlenmesine veya yapılmakta devam olunmasına mani olmak için
+konutlara, iş yerlerine ve eklentilerine girebilir.
 
-             Zabıta aşağıda yazılı hallerde üniversite, bağımsız fakülte
-veya üniversiteye bağlı kurumların binalarına veya bunların eklerine
+Zabıta aşağıda yazılı hallerde üniversite, bağımsız fakülte veya
+üniversiteye bağlı kurumların binalarına veya bunların eklerine
 girebilir.
 
-             A) Üniversite binaları veya ekleri içinde, kurumun
-imkanlarıyla önlenmesi mümkün görülmeyen olayların çıkması ihtimali
-karşısında rektör, acele hallerde de dekan veya bağlı kuruluş
-yetkililerinin zabıtadan yardım talep etmeleri halinde,
+A\) Üniversite binaları veya ekleri içinde, kurumun imkanlarıyla
+önlenmesi mümkün görülmeyen olayların çıkması ihtimali karşısında
+rektör, acele hallerde de dekan veya bağlı kuruluş yetkililerinin
+zabıtadan yardım talep etmeleri halinde,
 
 ——————————
 
-* (1)   Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.*
+*(1) Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.*
 
-*(2)    Bu hükmün uygulanmasında ek 4 üncü maddeye bakınız.*
+*(2) Bu hükmün uygulanmasında ek 4 üncü maddeye bakınız.*
 
 1418
 
- 
+B\) Herhangi bir davet veya izne bağlı olmaksızın suç ve suçluların
+kovuşturulması için her zaman,
 
-             B) Herhangi bir davet veya izne bağlı olmaksızın suç ve
-suçluların kovuşturulması için her zaman,
+Fıkranın (A) bendinde gösterilen hallerde talep derhal yerine getirilir,
+(...)^(1)^
 
-             Fıkranın (A) bendinde gösterilen hallerde talep derhal
-yerine getirilir, (...)^(1)^
+İlgili kurumlar kovuşturma dolayısiyle zabıta kuvvetlerine gereken her
+türlü yardım ve kolaylığı göstermekle yükümlüdürler.
 
-             İlgili kurumlar kovuşturma dolayısiyle zabıta kuvvetlerine
-gereken her türlü yardım ve kolaylığı göstermekle yükümlüdürler.
+**Madde 21 –** Bir neşir vasıtası için abone yazmak veya bunlar için
+yazı, resim, ilan gibi bir madde kabul etmek maksadiyle Matbuat Kanununa
+göre alınmış vesikası olmaksızın idare evlerinin dışında dolaşanlar veya
+dolaştırılanlar şantajdan veya böyle bir harekette dolandırıcılıktan
+maznun olarak takibat altında bulunanlar; polisçe bu yolda çalışmaktan
+menedilir.
 
-             **Madde 21 –** Bir neşir vasıtası için abone yazmak veya
-bunlar için yazı, resim, ilan gibi bir madde kabul etmek maksadiyle
-Matbuat Kanununa göre alınmış vesikası olmaksızın idare evlerinin
-dışında dolaşanlar veya dolaştırılanlar şantajdan veya böyle bir
-harekette dolandırıcılıktan maznun olarak takibat altında bulunanlar;
-polisçe bu yolda çalışmaktan menedilir.
+**Madde 22 –** Bu kanunda yazılı vazife ve salahiyetlerin yapılması ve
+kullanılması için en büyük mülkiye amirlerinin vereceği emirleri,
+Dahiliye Vekili re'sen verebilir.
 
-             **Madde 22 –** Bu kanunda yazılı vazife ve salahiyetlerin
-yapılması ve kullanılması için en büyük mülkiye amirlerinin vereceği
-emirleri, Dahiliye Vekili re'sen verebilir.
+**Madde 23 –** Umumi ve hususi kanunlarla polise verilen ve bu kanunda
+yazılı bulunmıyan vazife ve salahiyetlerin hükümleri bakidir.
 
-             **Madde 23 –** Umumi ve hususi kanunlarla polise verilen ve
-bu kanunda yazılı bulunmıyan vazife ve salahiyetlerin hükümleri bakidir.
+**Madde 24 –** Mahsus zabıta teşkilatı olan işlerde bu teşkilata mensup
+memur bulunmadığı yerlerde polis, bunlara ait inzıbati muameleleri
+yapmağa salahiyetlidir.
 
-             **Madde 24 –** Mahsus zabıta teşkilatı olan işlerde bu
-teşkilata mensup memur bulunmadığı yerlerde polis, bunlara ait inzıbati
-muameleleri yapmağa salahiyetlidir.
+**Madde 25 – (Değişik: 25/6/1973 - 1758/1 md.)**
 
- 
-
-**             Madde 25 – (Değişik: 25/6/1973 - 1758/1 md.)**
-
-             Polis teşkilatı bulunmıyan yerlerde il, ilçe ve bucak
-jandarma komutanları ile jandarma karakol komutanları bu kanunda yazılı
+Polis teşkilatı bulunmıyan yerlerde il, ilçe ve bucak jandarma
+komutanları ile jandarma karakol komutanları bu kanunda yazılı
 vazifeleri yapar ve yetkileri kullanırlar.
 
-             **Madde 26 –** Bu kanunun tatbik suretini gösterir bir
-nizamname yapılacaktır.
+**Madde 26 –** Bu kanunun tatbik suretini gösterir bir nizamname
+yapılacaktır.
 
-             **Ek Madde 1-** **(Ek: 3/8/2002-4771/10 md.)**
+**Ek Madde 1-** **(Ek: 3/8/2002-4771/10 md.)**
 
-**            ** Umumî veya umuma açık yerler ile umuma açık yer
-niteliğindeki ulaşım araçlarında, gerçek kişi veya topluluklar, mahallin
-en büyük mülkî amirine, en az kırk sekiz saat önceden yazılı bildirimde
-bulunmak suretiyle, oyun ve temsil verebilir veya çeşitli şekillerde
-gösteri düzenleyebilir.
+Umumî veya umuma açık yerler ile umuma açık yer niteliğindeki ulaşım
+araçlarında, gerçek kişi veya topluluklar, mahallin en büyük mülkî
+amirine, en az kırk sekiz saat önceden yazılı bildirimde bulunmak
+suretiyle, oyun ve temsil verebilir veya çeşitli şekillerde gösteri
+düzenleyebilir.
 
-             Bunlardan, Devletin ülkesi ve milleti ile bölünmez
-bütünlüğüne, Anayasal düzene veya genel ahlâka aykırı olduğu tespit
-edilenler hakkında mahallin en büyük mülkî amiri tarafından derhal
-Cumhuriyet savcılığına suç duyurusunda bulunulur.
+Bunlardan, Devletin ülkesi ve milleti ile bölünmez bütünlüğüne, Anayasal
+düzene veya genel ahlâka aykırı olduğu tespit edilenler hakkında
+mahallin en büyük mülkî amiri tarafından derhal Cumhuriyet savcılığına
+suç duyurusunda bulunulur.
 
-             Birinci fıkra uyarınca yapılacak bildirimde oyun veya
-temsile katılan yönetici ve diğer kişilerin kimlik, ikametgâh ve
-tâbiiyetleri belirtilir.
+Birinci fıkra uyarınca yapılacak bildirimde oyun veya temsile katılan
+yönetici ve diğer kişilerin kimlik, ikametgâh ve tâbiiyetleri
+belirtilir.
 
-**             Ek Madde 2 – (Ek: 16/6/1985 - 3233/7 md.)**
+**Ek Madde 2 – (Ek: 16/6/1985 - 3233/7 md.)**
 
-**             (Birinci fıkra mülga : 18/11/1992 - 3842/31 md.)**
+**(Birinci fıkra mülga : 18/11/1992 - 3842/31 md.)**
 
-             Gözaltına alınanların yeme, içme ihtiyaçlarına ve
-nakillerine ait masraflar Emniyet Genel Müdürlüğü bütçesine konulacak
-ödenekle karşılanır.
-
- 
-
- 
-
- 
-
- 
+Gözaltına alınanların yeme, içme ihtiyaçlarına ve nakillerine ait
+masraflar Emniyet Genel Müdürlüğü bütçesine konulacak ödenekle
+karşılanır.
 
 ——————————
 
-*(1)    Bu aradaki “(B) bendinde gösterilen hallerde de giriş sebebinin
+*(1) Bu aradaki “(B) bendinde gösterilen hallerde de giriş sebebinin
 niteliğine göre, kurumun yetkililileri teşebbüsten haberdar edilir.”
 şeklindeki cümle Anayasa Mahkemesinin 25/4/1974 tarih ve E. 1973/41, K.
 1974/13 sayılı kararı ile iptal edilmiştir.*
@@ -963,114 +983,132 @@ teşhis yaptırılamaz. Değişik kişilerin fotoğraflarının aynı büyüklü
 
              Teşhis işlemi tutanağa bağlanır.
 
+**(Ek fıkra: 2/1/2017-KHK-680/27 md.)** Polis, sanal ortamda işlenen
+suçlarda, yetkili Cumhuriyet başsavcılığının tespiti amacıyla, internet
+abonelerine ait kimlik bilgilerine ulaşmaya, sanal ortamda araştırma
+yapmaya yetkilidir. Erişim sağlayıcıları, yer sağlayıcıları ve içerik
+sağlayıcıları talep edilen bu bilgileri kolluğun bu suçlarla mücadele
+için oluşturduğu birimine bildirir.
+
              **Ek Madde 7 – (Ek: 16/6/1985 - 3233/7 md.)**
 
              Polis, Devletin ülkesi ve milletiyle bölünmez bütünlüğüne,
 Anayasa düzenine ve genel güvenliğine dair önleyici ve koruyucu
-tedbirleri almak, emniyet ve asayişi sağlamak üzere, ülke seviyesinde
-istihbarat faaliyetlerinde bulunur, bu amaçla bilgi toplar,
-değerlendirir, yetkili mercilere veya kullanma alanına ulaştırır.
-Devletin diğer istihbarat kuruluşlarıyla işbirliği yapar.
+tedbirleri almak, emniyet ve asayişi sağlamak üzere, ülke seviyesinde ve
+sanal ortamda istihbarat faaliyetlerinde bulunur, bu amaçla bilgi
+toplar, değerlendirir, yetkili mercilere veya kullanma alanına
+ulaştırır. Devletin diğer istihbarat kuruluşlarıyla işbirliği yapar.
+^(1)^
+
+–––––––––––––––
+
+*(1) 2/1/2017 tarihli ve 680 sayılı KHK’nin 28 inci maddesiyle, bu
+fıkrada yer alan “ülke seviyesinde” ibaresinden sonra gelmek üzere “ve
+sanal ortamda” ibaresi eklenmiştir.*
 
 1421
 
- 
-
-            **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Birinci fıkrada
-belirtilen görevlerin yerine getirilmesine yönelik olarak, 4.12.2004  
-tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun, casusluk suçları
-hariç, 250 nci maddesinin birinci fıkrasının (a), (b) ve (c) bentlerinde
-yazılı suçların işlenmesinin önlenmesi amacıyla, hâkim kararı veya
-gecikmesinde sakınca bulunan hallerde Emniyet Genel Müdürü    veya
-İstihbarat Dairesi Başkanının yazılı emriyle, telekomünikasyon yoluyla
-yapılan iletişim tespit edilebilir, dinlenebilir, sinyal bilgileri
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Birinci fıkrada belirtilen
+görevlerin yerine getirilmesine yönelik olarak, 4.12.2004 tarihli ve
+5271 sayılı Ceza Muhakemesi Kanununun, casusluk suçları hariç, 250 nci
+maddesinin birinci fıkrasının (a), (b) ve (c) bentlerinde yazılı suçlar
+ile bilişim suçlarının işlenmesinin önlenmesi amacıyla hâkim kararı veya
+gecikmesinde sakınca bulunan hallerde Emniyet Genel Müdürünün, Emniyet
+Genel Müdürlüğü İstihbarat Dairesi Başkanının veya bilişim suçlarıyla
+sınırlı olmak üzere bilişim suçları ile ilgili daire başkanının yazılı
+emriyle, telekomünikasyon yoluyla yapılan iletişim veya internet
+bağlantı adresleriyle internet kaynakları arasındaki veri trafiği ile
+iletilen veriler tespit edilebilir, dinlenebilir, sinyal bilgileri
 değerlendirilebilir, kayda alınabilir. Gecikmesinde sakınca bulunan
 hallerde verilen yazılı emir, yirmidört saat içinde yetkili ve görevli
-hâkimin onayına sunulur. Hâkim, kararını en geç yirmidört saat içinde
-verir. Sürenin dolması    veya hâkim tarafından aksine karar verilmesi
+hâkimin onayına sunulur. Hâkim, kararını en geç kırk sekiz saat içinde
+verir. Sürenin dolması veya hâkim tarafından aksine karar verilmesi
 halinde tedbir derhal kaldırılır. Bu halde dinlemenin içeriğine ilişkin
 kayıtlar en geç on gün içinde yok edilir; durum bir tutanakla tespit
 olunur ve bu tutanak denetimde ibraz edilmek üzere muhafaza edilir.
+^(1)(2)^
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Yetkili ve görevli
-hâkim, talepte bulunan kolluk biriminin bulunduğu yer itibariyle yetkili
-olan ve 5271 sayılı Kanunun 250 nci maddesinin birinci fıkrasına göre
-kurulan ağır ceza mahkemesinin üyesidir.
+**(Ek fıkra: 3/7/2005 – 5397/1 md.; Değişik fıkra: 27/3/2015-6638/5
+md.)** Yetkili ve görevli hâkim, Ankara ağır ceza mahkemesi üyesidir.
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Kararda ve yazılı
-emirde, hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının
-türü, kullandığı telefon numaraları veya iletişim bağlantısını tesbite
-imkân veren kodundan belirlenebilenler ile tedbirin türü, kapsamı ve
-süresi ile tedbire başvurulmasını gerektiren nedenler belirtilir.
-Kararlar, en fazla üç ay için verilebilir; bu süre aynı usûlle üçer ayı
-geçmeyecek şekilde en fazla üç defa uzatılabilir. Ancak, terör örgütünün
-faaliyeti çerçevesinde devam eden tehlikelere ilişkin olarak gerekli
-görülmesi halinde, hâkim üç aydan fazla olmamak üzere sürenin müteaddit
-defalar uzatılmasına karar verebilir.
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Kararda ve yazılı emirde, hakkında
+tedbir uygulanacak kişinin kimliği, iletişim aracının türü, kullandığı
+telefon numaraları, ilgili internet bağlantı adresi veya bağlantıyı
+tesbite imkân veren kodundan belirlenebilenler ile tedbirin türü,
+kapsamı ve süresi ile tedbire başvurulmasını gerektiren nedenler
+belirtilir. Kararlar, en fazla üç ay için verilebilir; bu süre aynı
+usûlle üçer ayı geçmeyecek şekilde en fazla üç defa uzatılabilir. Ancak,
+terör örgütünün faaliyeti çerçevesinde devam eden tehlikelere ilişkin
+olarak gerekli görülmesi halinde, hâkim üç aydan fazla olmamak üzere
+sürenin müteaddit defalar uzatılmasına karar verebilir. ^(3)^
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Uygulanan tedbirin
-sona ermesi halinde, dinlemenin içeriğine ilişkin kayıtlar en geç on gün
-içinde yok edilir. Durum bir tutanakla tesbit olunur ve bu tutanak
-denetimde ibraz edilmek üzere muhafaza edilir.
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Uygulanan tedbirin sona ermesi
+halinde, dinlemenin içeriğine ilişkin kayıtlar en geç on gün içinde yok
+edilir. Durum bir tutanakla tesbit olunur ve bu tutanak denetimde ibraz
+edilmek üzere muhafaza edilir.
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** İstihbarat
-faaliyetlerinde, bu maddede belirtilen suçların önlenmesi amacıyla ve
-hâkim kararı alınmak koşuluyla, teknik araçlarla izleme yapılabilir.
-Ayrıca, kamu kurum ve kuruluşları ile kamu hizmeti veren kuruluşların
-ihtiyaç duyulan bilgi ve belgelerinden yararlanabilmek için gerekçesini
-de göstermek suretiyle yazılı talepte bulunulabilir. Bu kurum ve
-kuruluşların kanuni sebeplerle veya ticari sır gerekçesiyle bu bilgi ve
-belgeleri vermemeleri halinde ancak hâkim kararı ile bu bilgi ve
-belgelerden yararlanılabilir.
+––––––––––––––––––
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu madde hükümlerine
-göre yürütülen faaliyetler çerçevesinde elde edilen kayıtlar, birinci
-fıkrada belirtilen amaçlar dışında kullanılamaz. Elde edilen bilgi ve
-kayıtların saklanmasında ve korunmasında gizlilik ilkesi geçerlidir. Bu
-fıkra hükümlerine aykırı hareket edenler hakkında, görev sırasında veya
-görevden dolayı işlenmiş olsa bile Cumhuriyet savcılarınca doğrudan
-soruşturma yapılır.
+*(1) 27/3/2015 tarihli ve 6638 sayılı Kanunun 5 inci maddesiyle, bu
+fıkranın üçüncü cümlesinde yer alan “yirmidört saat” ibaresi “kırk sekiz
+saat” şeklinde değiştirilmiştir.*
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Hâkim kararları ve
-yazılı emirler, Emniyet Genel Müdürlüğü İstihbarat Dairesi Başkanlığı
-görevlilerince yerine getirilir. İşlemin başladığı ve bitirildiği tarih
-ve saat ile işlemi yapanın kimliği bir tutanakla saptanır.
+*(2) 2/1/2017 tarihli ve 680 sayılı KHK’nin 28 inci maddesiyle, bu
+fıkrada yer alan “yazılı suçların işlenmesinin önlenmesi amacıyla, hâkim
+kararı veya gecikmesinde sakınca bulunan hallerde Emniyet Genel
+Müdürünün veya İstihbarat Dairesi Başkanının” ibaresi “yazılı suçlar ile
+bilişim suçlarının işlenmesinin önlenmesi amacıyla hâkim kararı veya
+gecikmesinde sakınca bulunan hallerde Emniyet Genel Müdürünün, Emniyet
+Genel Müdürlüğü İstihbarat Dairesi Başkanının veya bilişim suçlarıyla
+sınırlı olmak üzere bilişim suçları ile ilgili daire başkanının”
+şeklinde değiştirilmiş, aynı fıkraya “telekomünikasyon yoluyla yapılan
+iletişim” ibaresinden sonra gelmek üzere “veya internet bağlantı
+adresleriyle internet kaynakları arasındaki veri trafiği ile iletilen
+veriler” ibaresi eklenmiştir.*
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddede yer alan
-faaliyetlerin denetimi, sıralı kurum amirleri, Emniyet Genel Müdürlüğü
-ve ilgili bakanlığın teftiş elemanları  (…) ^(1)^ tarafından yapılır.
-^(1)^
-
-–––––––––––––––––
-
-*(1)   Anayasa Mahkemesi’nin 29/1/2009 tarihli ve E.: 2005/85, K.:
-2009/15 sayılı Kararı ile; bu fıkrada yer alan  *“… *ve Başbakanın özel
-olarak yetkilendireceği kişi veya komisyon…” ibaresi iptal edilmiştir.*
-
- 
+*(3) 2/1/2017 tarihli ve 680 sayılı KHK’nin 28 inci maddesiyle, bu
+fıkrada yer alan “veya iletişim bağlantısını” ibaresi “, ilgili internet
+bağlantı adresi veya bağlantıyı” şeklinde değiştirilmiştir.*
 
 1422
 
-**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddede belirtilen
-te­le­ko­mü­ni­kas­yon yo­luy­la ya­pı­lan ile­ti­şi­me iliş­kin
-işlemler ile 5271 sayılı Kanunun 135 inci maddesi kapsamında yapılacak
-dinlemeler, Telekomünikasyon Kurumu bünyesinde, Kurum başkanına doğrudan
-bağlı "Telekomünikasyon İletişim Başkanlığı" adıyla kurulan tek bir
-merkezden yürütülür. **(Değişik ikinci cümle: 4/5/2007-5651/12 md.)**
-Oluş­tu­ru­lan bu Baş­kan­lık bir baş­kan ile da­ire
-baş­kan­lık­la­rın­dan olu­şur. Bu Başkanlıkta Millî İstihbarat
-Teşkilatı, Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığının
-ilgili birimlerinden birer temsilci bulundurulur. Verilen görevleri
-yerine getirmek üzere yeteri kadar da personel istihdam edilir. **(İptal
-beşinci cümle: Anayasa Mahkemesi’nin 29/1/2009 tarihli ve E.: 2005/85,
-K.: 2009/15 sayılı Kararı ile .)** Telekomünikasyon İletişim Başkanı,
-Kurul üyelerinin sahip olduğu özlük haklarına sahiptir. Ulaştırma
-Bakanlığı bu merkezle ilgili alt yapıyı hazırlamakla yükümlüdür. Bu
-merkezin kuruluş giderleri Telekomünikasyon Kurumu gelirlerinden
-karşılanır. Bu merkezin kuruluşu ile ilgili her türlü mal ve hizmet
-alımları ile yapım işleri, ceza ve ihalelerden yasaklama işleri hariç
-4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri
-Kanunu hükümlerinden muaftır.^(1)(2)^
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** İstihbarat faaliyetlerinde, bu
+maddede belirtilen suçların önlenmesi amacıyla ve hâkim kararı alınmak
+koşuluyla, teknik araçlarla izleme yapılabilir. Ayrıca, kamu kurum ve
+kuruluşları ile kamu hizmeti veren kuruluşların ihtiyaç duyulan bilgi ve
+belgelerinden yararlanabilmek için gerekçesini de göstermek suretiyle
+yazılı talepte bulunulabilir. Bu kurum ve kuruluşların kanuni sebeplerle
+veya ticari sır gerekçesiyle bu bilgi ve belgeleri vermemeleri halinde
+ancak hâkim kararı ile bu bilgi ve belgelerden yararlanılabilir.
+
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu madde hükümlerine göre
+yürütülen faaliyetler çerçevesinde elde edilen kayıtlar, birinci fıkrada
+belirtilen amaçlar dışında kullanılamaz. Elde edilen bilgi ve kayıtların
+saklanmasında ve korunmasında gizlilik ilkesi geçerlidir. Bu fıkra
+hükümlerine aykırı hareket edenler hakkında, görev sırasında veya
+görevden dolayı işlenmiş olsa bile Cumhuriyet savcılarınca doğrudan
+soruşturma yapılır.
+
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Hâkim kararları ve yazılı emirler,
+Emniyet Genel Müdürlüğü İstihbarat Dairesi Başkanlığı görevlileri ile
+bilişim suçlarıyla sınırlı olmak üzere bilişim suçlarıyla ilgili daire
+başkanlığı görevlilerince yerine getirilir. İşlemin başladığı ve
+bitirildiği tarih ve saat ile işlemi yapanın kimliği bir tutanakla
+saptanır. ^(1)^
+
+**(Ek fıkra: 3/7/2005 – 5397/1 md.; Değişik fıkra: 27/3/2015-6638/5
+md.)** Bu maddede yer alan faaliyetlerin denetimi; sıralı kurum
+amirleri, mülki idare amirleri, Emniyet Genel Müdürlüğü ve ilgili
+bakanlığın teftiş elemanları  tarafından yılda en az bir defa yapılır.
+Bu faaliyetler Başbakanlık Teftiş Kurulu tarafından da denetlenebilir.
+Bu kapsamda yapılan denetimlerin sonuçları bir rapor hâlinde Türkiye
+Büyük Millet Meclisi Güvenlik ve İstihbarat Komisyonuna sunulur.
+
+**(Ek fıkra: 3/7/2005 – 5397/1 md.; Değişik: 15/8/2016-KHK-671/24 md.;
+Aynen kabul: 9/11/2016-6757/21 md.)** Bu maddede belirtilen
+telekomünikasyon yoluyla yapılan iletişime ilişkin işlemler ile 5271
+sayılı Kanunun 135 inci maddesi kapsamında yapılacak dinlemeler, Bilgi
+Teknolojileri ve İletişim Kurumu bünyesinde tek bir merkezden yürütülür.
 
 **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddede belirlenen usûl ve
 esaslara aykırı dinlemeler hukuken geçerli sayılmaz ve bu şekilde
@@ -1084,6 +1122,15 @@ düzenlenir.
 
 **Ek Madde 8 – (Ek:16/6/1985 - 3233/7 md.; Mülga: 24/11/2004-5259/8
 md.)**
+
+––––––––––––––––––
+
+*(1) 2/1/2017 tarihli ve 680 sayılı KHK’nin 28 inci maddesiyle, bu
+fıkrada yer alan “görevlilerince” ibaresi “görevlileri ile bilişim
+suçlarıyla sınırlı olmak üzere bilişim suçlarıyla ilgili daire
+başkanlığı görevlilerince” şeklinde değiştirilmiştir.*
+
+1422-1
 
 **Ek Madde 9 – (Ek: 16/6/1985 - 3233/7 md.)**
 
@@ -1108,44 +1155,27 @@ gösterilir.
 
 **(Mülga üçüncü fıkra: 12/7/2013-6495/102 md.)**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 4/5/2007 tarihli ve 5651 sayılı Kanunun 12 nci maddesiyle bu
-fıkranın birinci cümlesinde yer alan “be­lir­ti­len” iba­re­sin­den
-son­ra gel­mek üze­re “te­le­ko­mü­ni­kas­yon yo­luy­la ya­pı­lan
-ile­ti­şi­me iliş­kin” iba­re­si ek­len­miş ve metne işlenmiştir.*
-
-*(2) Anayasa Mahkemesi’nin 29/1/2009 tarihli ve E.: 2005/85, K.: 2009/15
-sayılı Kararı ile; bu fıkrada yer alan “Telekomünikasyon İletişim
-Başkanı, Telekomünikasyon Kurumu Başkanının teklifi üzerine Başbakan
-tarafından atanır.” biçimindeki beşinci cümlesi iptal edilmiştir.*
-
-1422-1
-
- 
-
-             1481 sayılı Asayişe Müessir Bazı Fiillerin Önlenmesi
-Hakkında Kanuna göre, sanık ve hükümlülerden ilan edilmek suretiyle
-arananların bulundukları yerleri bildiren ve yakalanmalarına yardımcı
-olanlara para ödülü verilebilir. Verilecek ödülün miktarı ile bu
-fıkranın uygulanmasına dair diğer hususlar İçişleri Bakanlığınca
-çıkarılacak yönetmelikte gösterilir. Para ödülüne ait giderler Emniyet
-Genel Müdürlüğü bütçesine konulacak ödenekten karşılanır. Ödül verilen
+1481 sayılı Asayişe Müessir Bazı Fiillerin Önlenmesi Hakkında Kanuna
+göre, sanık ve hükümlülerden ilan edilmek suretiyle arananların
+bulundukları yerleri bildiren ve yakalanmalarına yardımcı olanlara para
+ödülü verilebilir. Verilecek ödülün miktarı ile bu fıkranın
+uygulanmasına dair diğer hususlar İçişleri Bakanlığınca çıkarılacak
+yönetmelikte gösterilir. Para ödülüne ait giderler Emniyet Genel
+Müdürlüğü bütçesine konulacak ödenekten karşılanır. Ödül verilen
 kişilerin kimlikleri, rızaları olmadıkça hiçbir şekilde açıklanamaz.
 
-             **Ek Madde 10 – (23/7/1999 - 4419/2 md.)**
+**Ek Madde 10 – (23/7/1999 - 4419/2 md.)**
 
-             Görevli personelden görevin icrası sırasında veya görevin
-icrasından dolayı bir uzvunu veya duyusunu tamamen veya kısmen
-kaybedenlerin, rehabilitasyonu ile bu kayıplardan doğan ihtiyaçlarını
-karşılayacak her türlü cihaz ve sistemleri, Emniyet Genel Müdürlüğü
-tarafından aynen temin edilir veya bedelleri, Emniyet Genel Müdürlüğü
-bütçesinden ödenir.
+Görevli personelden görevin icrası sırasında veya görevin icrasından
+dolayı bir uzvunu veya duyusunu tamamen veya kısmen kaybedenlerin,
+rehabilitasyonu ile bu kayıplardan doğan ihtiyaçlarını karşılayacak her
+türlü cihaz ve sistemleri, Emniyet Genel Müdürlüğü tarafından aynen
+temin edilir veya bedelleri, Emniyet Genel Müdürlüğü bütçesinden ödenir.
 
-             **Madde 27 –** Bu kanun neşri tarihinden muteberdir.
+**Madde 27 –** Bu kanun neşri tarihinden muteberdir.
 
-             **Madde 28 –** Bu kanunun hükümlerini yürütmeğe İcra
-Vekilleri Heyeti memurdur.
+**Madde 28 –** Bu kanunun hükümlerini yürütmeğe İcra Vekilleri Heyeti
+memurdur.
 
 1422-2
 
@@ -1225,44 +1255,60 @@ değişiklik metne işlenmiştir.*
 MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE**
 
-  --------------------------------------------------------------------------------- ------------------------------------------------------------- -------------------------------------------------------
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------
   **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **2559 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş **
                                                                                                                                                   
                                                                                                                                                   **Tarihi**
 
-  **2770**                                                                          **–**                                                         **15/6/1935**
+  2770                                                                              –                                                             15/6/1935
 
-  **694**                                                                           **–**                                                         **26/7/1965**
+  694                                                                               –                                                             26/7/1965
 
-  **1758**                                                                          **–**                                                         **11/7/1973**
+  1758                                                                              –                                                             11/7/1973
 
-  **1775**                                                                          **–**                                                         **26/6/1973**
+  1775                                                                              –                                                             26/6/1973
 
-  **2261**                                                                          **–**                                                         **23/2/1980**
+  2261                                                                              –                                                             23/2/1980
 
-  **3233**                                                                          **–**                                                         **25/6/1985**
+  3233                                                                              –                                                             25/6/1985
 
-  **3257**                                                                          **–**                                                         **7/2/1986**
+  3257                                                                              –                                                             7/2/1986
 
-  **3842**                                                                          **–**                                                         **1/12/1992**
+  3842                                                                              –                                                             1/12/1992
 
-  **4419**                                                                          **–**                                                         **29/7/1999**
+  4419                                                                              –                                                             29/7/1999
 
-  **4771**                                                                          **–**                                                         **9/8/2002**
+  4771                                                                              –                                                             9/8/2002
 
-  **5259**                                                                          **6, 7, 8, 12, Ek Madde 8 ve İşlenemeyen Hüküm**              **1/12/2004**
+  5259                                                                              6, 7, 8, 12, Ek Madde 8 ve İşlenemeyen Hüküm                  1/12/2004
 
-  **5397**                                                                          **Ek Madde 7, İşlenemeyen Hüküm**                             **23/7/2005**
+  5397                                                                              Ek Madde 7, İşlenemeyen Hüküm                                 23/7/2005
 
-  **5453**                                                                          **İşlenemeyen Hüküm**                                         **23/1/2006 tarihinden geçerli olmak üzere 7/2/2006**
+  5453                                                                              İşlenemeyen Hüküm                                             23/1/2006 tarihinden geçerli olmak üzere 7/2/2006
 
-  **5571**                                                                          **8**                                                         **13/1/2007**
+  5571                                                                              8                                                             13/1/2007
 
-  **5651**                                                                          **Ek Madde 7**                                                **23/5/2007**
+  5651                                                                              Ek Madde 7                                                    23/5/2007
 
-  **5681**                                                                          **3, 4/A, 5, 9, 16, 17 ve Ek Madde 6**                        **14/6/2007**
+  5681                                                                              3, 4/A, 5, 9, 16, 17 ve Ek Madde 6                            14/6/2007
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------
 
-  **6495**                                                                          **Ek Madde 9**                                                **2/8/2013**
-  --------------------------------------------------------------------------------- ------------------------------------------------------------- -------------------------------------------------------
+1422-4
+
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **2559 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş **
+                                                                                                                                                  
+                                                                                                                                                  **Tarihi**
+
+  6495                                                                              Ek Madde 9                                                    2/8/2013
+
+  6638                                                                              4/A, 13, 15, 16, Ek Madde 7                                   4/4/2015
+
+  KHK/671                                                                           Ek Madde 7                                                    17/8/2016
+
+  6757                                                                              Ek Madde 7                                                    24/11/2016
+
+  KHK/680                                                                           13/A, Ek Madde 6, Ek Madde 7                                  6/1/2017
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------
 
 
