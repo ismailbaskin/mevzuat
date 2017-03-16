@@ -1,4 +1,4 @@
-**6526 sayılı Kanun ile değişik hali**
+**6545 sayılı Kanun ile değişik hali**
 
 []{#K10 .anchor}**İDARİ YARGILAMA USULÜ KANUNU ^(1)(2)^**
 
@@ -349,9 +349,9 @@ de davanın her safhasında 15 nci madde hükmü uygulanır.
 
 *İlk inceleme üzerine verilecek karar:*
 
-**Madde 15 – 1. (Değişik: 5/4/1990 - 3622/6 md.)** Danıştay veya idare
-ve vergi mahkemelerince yukarıdaki maddenin 3 üncü fıkrasında yazılı
-hususlarda kanuna aykırılık görülürse, 14 üncü maddenin;
+**Madde 15 –** 1. **(Değişik: 5/4/1990 - 3622/6 md.)** Danıştay veya
+idare ve vergi mahkemelerince yukarıdaki maddenin 3 üncü fıkrasında
+yazılı hususlarda kanuna aykırılık görülürse, 14 üncü maddenin;
 
 a\) 3/a bendine göre adli ve askeri yargının görevli olduğu konularda
 açılan davaların reddine; idari yargının görevli olduğu konularda ise
@@ -386,13 +386,21 @@ yeni dilekçeler için ayrıca harç alınmaz.
 veya mahkemelerce verilen; bu maddenin 1/a bendinde belirtilen idari
 yargının görevli olduğu konularda davanın görev ve yetki yönünden
 reddine ilişkin kararlarla, 1/c bendinde yazılı gerçek hasma tebliğ ve
-1/d bendindeki dilekçe red kararları dışında, kararın düzeltilmesi veya
-temyiz yoluna; tek hakim kararına karşı ise itiraz yoluna
-başvurulabilir.
+1/d bendindeki dilekçe red kararları dışında, ilgisine göre istinaf ya
+da temyiz yoluna başvurulabilir. ^(1)^
 
 5\. **(Ek: 5/4/1990 - 3622/6 md.)** 1 inci fıkranın (d) bendine göre
 dilekçenin reddedilmesi üzerine, yeniden verilen dilekçelerde aynı
 yanlışlıklar yapıldığı takdirde dava reddedilir.
+
+–––––––––––––––
+
+*(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 15 inci maddesiyle, bu
+fıkrada yer alan “kararın düzeltilmesi veya temyiz yoluna; tek hâkim
+kararına karşı ise itiraz yoluna” ibaresi “ilgisine göre istinaf ya da
+temyiz yoluna” şeklinde değiştirilmiştir.*
+
+5472
 
 *Tebligat ve cevap verme:*
 
@@ -404,8 +412,6 @@ savunma da davacıya tebliğ edilir. Buna karşı davacı cevap veremez.
 Ancak, davalının ikinci savunmasında, davacının cevaplandırmasını
 gerektiren hususlar bulunduğu, davanın görülmesi sırasında anlaşılırsa,
 davacıya cevap vermesi için bir süre verilir.
-
-5472
 
 3\. Taraflar, yapılacak tebliğlere karşı, tebliğ tarihinden itibaren otuz
 gün içinde cevap verebilirler. Bu süre, ancak haklı sebeplerin bulunması
@@ -439,8 +445,8 @@ benzeri mali yükümler ve bunların zam ve cezaları toplamı yirmibeşbin
 Türk Lirasını aşan vergi davalarında, taraflardan birinin isteği üzerine
 duruşma yapılır.^(1)\ (2)^
 
-2\. Temyiz ve itirazlarda duruşma yapılması tarafların istemine ve
-Danıştay veya ilgili bölge idare mahkemesi kararına bağlıdır.
+2\. Temyiz ve istinaflarda duruşma yapılması tarafların istemine ve
+Danıştay veya ilgili bölge idare mahkemesi kararına bağlıdır. ^(3)^
 
 3\. Duruşma talebi, dava dilekçesi ile cevap ve savunmalarda yapılabilir.
 
@@ -450,6 +456,22 @@ duruşma yapılmasına karar verebilir.
 
 5\. Duruşma davetiyeleri duruşma gününden en az otuz gün önce taraflara
 gönderilir.
+
+––—————————
+
+*(1) Bu fıkrada yer alan parasal sınır, 8/6/2000 tarihli ve 4577 sayılı
+Kanunun 6 ncı maddesiyle “bir milyar” liraya yükseltilmiş ve metne
+işlenmiştir.*
+
+*(2) 2/7/2012 tarihli ve 6352 sayılı Kanunun 55 inci maddesi ile bu
+fıkrada yer alan “birmilyar lirayı” ibareleri “yirmibeşbin Türk
+Lirasını” şeklinde değiştirilmiştir.*
+
+*(3) 18/6/2014 tarihli ve 6545 sayılı Kanunun 16 ncı maddesiyle, bu
+fıkrada yer alan “itirazlarda” ibaresi “istinaflarda” şeklinde
+değiştirilmiştir.*
+
+5472-1
 
 *Duruşmalara ilişkin esaslar:*
 
@@ -483,25 +505,14 @@ verilen hallerde, bu kararın yerine getirilmesi üzerine, dosyalar
 
 *Dosyaların incelenmesi:*
 
-**Madde 20 –** 1. Danıştay ile idare ve vergi mahkemeleri, bakmakta
-oldukları davalara ait her çeşit incelemeleri kendiliklerinden yaparlar.
-Mahkemeler belirlenen süre içinde lüzum gördükleri evrakın
+**Madde 20 –** 1. **(Değişik birinci cümle: 18/6/2014-6545/17 md.)**
+Danıştay, bölge idare mahkemeleri ile idare ve vergi mahkemeleri,
+bakmakta oldukları davalara ait her türlü incelemeyi kendiliğinden
+yapar. Mahkemeler belirlenen süre içinde lüzum gördükleri evrakın
 gönderilmesini ve her türlü bilgilerin verilmesini taraflardan ve ilgili
 diğer yerlerden isteyebilirler. Bu husustaki kararların, ilgililerce,
 süresi içinde yerine getirilmesi mecburidir. Haklı sebeplerin bulunması
 halinde bu süre, bir defaya mahsus olmak üzere uzatılabilir.
-
-––—————————
-
-*(1)Bu fıkrada yer alan parasal sınır, 8/6/2000 tarihli ve 4577 sayılı
-Kanunun 6 ncı maddesiyle “bir milyar” liraya yükseltilmiş ve metne
-işlenmiştir.*
-
-*(2) 2/7/2012 tarihli ve 6352 sayılı Kanunun 55 inci maddesi ile bu
-fıkrada yer alan “birmilyar lirayı” ibareleri “yirmibeşbin Türk
-Lirasını” şeklinde değiştirilmiştir.*
-
-5473
 
 2\. Taraflardan biri ara kararının icaplarını yerine getirmediği
 takdirde, bu durumun verilecek karar üzerindeki etkisi mahkemece önceden
@@ -531,6 +542,80 @@ halinde görülen davalarda, birinci fıkrada belirtilen bilgi ve
 belgelerin istenmesine ve ek süre verilmesine ilişkin ara kararları,
 mahkeme başkanı veya dosyanın havale edildiği üye tarafından da
 verilebilir.
+
+——————————
+
+*(1) Bu fıkrada yer alan "...Başkanlık Kurulunca" ibaresi, 10/6/1994
+tarih ve 4001 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde
+değiştirilmiştir. *
+
+5472-2
+
+*İvedi yargılama usulü:*
+
+**Madde 20/A- (Ek: 18/6/2014-6545/18 md.)**
+
+1\. İvedi yargılama usulü aşağıda sayılan işlemlerden doğan uyuşmazlıklar
+hakkında uygulanır:
+
+a\) İhaleden yasaklama kararları hariç ihale işlemleri.
+
+b\) Acele kamulaştırma işlemleri.
+
+c\) Özelleştirme Yüksek Kurulu kararları.
+
+d\) 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanunu uyarınca
+yapılan satış, tahsis ve kiralama işlemleri.
+
+e\) 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu uyarınca, idari yaptırım
+kararları hariç çevresel etki değerlendirmesi sonucu alınan kararlar.
+
+f\) 16/5/2012 tarihli ve 6306 sayılı Afet Riski Altındaki Alanların
+Dönüştürülmesi Hakkında Kanun uyarınca alınan Bakanlar Kurulu kararları.
+
+2\. İvedi yargılama usulünde:
+
+a\) Dava açma süresi otuz gündür.
+
+b\) Bu Kanunun 11 inci maddesi hükümleri uygulanmaz.
+
+c\) Yedi gün içinde ilk inceleme yapılır ve dava dilekçesi ile ekleri
+tebliğe çıkarılır.
+
+d\) Savunma süresi dava dilekçesinin tebliğinden itibaren on beş gün
+olup, bu süre bir defaya mahsus olmak üzere en fazla on beş gün
+uzatılabilir. Savunmanın verilmesi veya savunma verme süresinin
+geçmesiyle dosya tekemmül etmiş sayılır.
+
+e\) Yürütmenin durdurulması talebine ilişkin olarak verilecek kararlara
+itiraz edilemez.
+
+f\) Bu davalar dosyanın tekemmülünden itibaren en geç bir ay içinde
+karara bağlanır. Ara kararı verilmesi, keşif, bilirkişi incelemesi ya da
+duruşma yapılması gibi işlemler ivedilikle sonuçlandırılır.
+
+g\) Verilen nihai kararlara karşı tebliğ tarihinden itibaren on beş gün
+içinde temyiz yoluna başvurulabilir.
+
+h\) Temyiz dilekçeleri üç gün içinde incelenir ve tebliğe çıkarılır. Bu
+Kanunun 48 inci maddesinin bu maddeye aykırı olmayan hükümleri kıyasen
+uygulanır.
+
+ı) Temyiz dilekçelerine cevap verme süresi on beş gündür.
+
+i\) Danıştay evrak üzerinde yaptığı inceleme sonunda, maddi vakıalar
+hakkında edinilen bilgiyi yeterli görürse veya temyiz sadece hukuki
+noktalara ilişkin ise yahut temyiz olunan karardaki maddi yanlışlıkların
+düzeltilmesi mümkün ise işin esası hakkında karar verir. Aksi hâlde
+gerekli inceleme ve tahkikatı kendisi yaparak esas hakkında yeniden
+karar verir. Ancak, ilk inceleme üzerine verilen kararlara karşı yapılan
+temyizi haklı bulduğu hâllerde kararı bozmakla birlikte dosyayı geri
+gönderir. Temyiz üzerine verilen kararlar kesindir.
+
+j\) Temyiz istemi en geç iki ay içinde karara bağlanır. Karar en geç bir
+ay içinde tebliğe çıkarılır.
+
+5473
 
 *Sonradan ibraz olunan belgeler:*
 
@@ -566,14 +651,6 @@ saklanır.
 a\) Tarafların ve varsa vekillerinin veya temsilcilerinin ad ve soyadları
 yahut unvanları ve adresleri,
 
-——————————
-
-*(1) Bu fıkrada yer alan "...Başkanlık Kurulunca" ibaresi, 10/6/1994
-tarih ve 4001 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
-
-5474
-
 b\) Davacının ileri sürdüğü olayların ve dayandığı hukuki sebeplerin
 özeti istem sonucu ile davalının savunmasının özeti,
 
@@ -606,6 +683,8 @@ konur; mahkeme mührü ve başkan yahut hakim, Danıştayda daire veya kurul
 başkanı veya görevlendireceği bir üye imzasıyla tasdikli birer örneği de
 taraflara tebliğ edilir.
 
+5474
+
 *Tarafların kişilik veya niteliğinde değişiklik:*
 
 **Madde 26 –** 1. Dava esnasında ölüm veya herhangi bir sebeple
@@ -636,15 +715,6 @@ tarafa tebliğ edilir.
 idari mahkemelerde dava açılması dava edilen idari işlemin yürütülmesini
 durdurmaz.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 2/7/2012 tarihli ve 6352 sayılı Kanunun 57 nci maddesi ile bu
-maddenin (2) numaralı fıkrası değiştirilmiş, maddeye (2) numaralı
-fıkradan sonra gelmek üzere (3) numaralı fıkra eklenmiş ve diğer
-fıkralar buna göre teselsül ettirilmiştir.*
-
-5474-1
-
 2\. **(Değişik: 2/7/2012 - 6352/57 md.)** Danıştay veya idari mahkemeler,
 idari işlemin uygulanması halinde telafisi güç veya imkânsız zararların
 doğması ve idari işlemin açıkça hukuka aykırı olması şartlarının
@@ -666,6 +736,15 @@ yürütmenin durdurulması kararı verilemez.
 3\. **(Ek: 2/7/2012 - 6352/57 md.)** Dava dilekçesi ve eklerinden
 yürütmenin durdurulması isteminin yerinde olmadığı anlaşılırsa, davalı
 idarenin savunması alınmaksızın istem reddedilebilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 2/7/2012 tarihli ve 6352 sayılı Kanunun 57 nci maddesi ile bu
+maddenin (2) numaralı fıkrası değiştirilmiş, maddeye (2) numaralı
+fıkradan sonra gelmek üzere (3) numaralı fıkra eklenmiş ve diğer
+fıkralar buna göre teselsül ettirilmiştir.*
+
+5474-1
 
 4\. Vergi mahkemelerinde, vergi uyuşmazlıklarından doğan davaların
 açılması, tarh edilen vergi, resim ve harçlar ile benzeri mali
@@ -1071,102 +1150,130 @@ kararlaştırır.
 3\. Danıştay ve bölge idare mahkemesinin bu konuda vereceği kararlar
 kesindir.
 
+5480
+
 ÜÇÜNCÜ BÖLÜM
 
 *Kararlara Karşı Başvuru Yolları *
 
-*İtiraz:*
+*İstinaf: ^(1)^*
 
-**Madde 45 –** 1. **(Değişik : 2/7/2012 - 6352/61 md.)** İdare ve vergi
-mahkemelerinin;
+**Madde 45 – (Değişik: 18/6/2014-6545/19 md.)**
 
-a\) İlk ve orta öğretim öğrencilerinin sınıf geçme, not tespiti, kayıt,
-nakil, ilişik kesme ve disiplin cezalarına ilişkin işlemler ile
-yükseköğretim öğrencilerinin sınıf geçme ve notlarının tespitine ilişkin
-işlemlerden,
+1\. İdare ve vergi mahkemelerinin kararlarına karşı, başka kanunlarda
+aksine hüküm bulunsa dahi, mahkemenin bulunduğu yargı çevresindeki bölge
+idare mahkemesine, kararın tebliğinden itibaren otuz gün içinde istinaf
+yoluna başvurulabilir. Ancak, konusu beş bin Türk lirasını geçmeyen
+vergi davaları, tam yargı davaları ve idari işlemlere karşı açılan iptal
+davaları hakkında idare ve vergi mahkemelerince verilen kararlar kesin
+olup, bunlara karşı istinaf yoluna başvurulamaz.
 
-5480
+2\. İstinaf, temyizin şekil ve usullerine tabidir. İstinaf başvurusuna
+konu olacak kararlara karşı yapılan kanun yolu başvurularında
+dilekçelerdeki hitap ve istekle bağlı kalınmaksızın dosyalar bölge idare
+mahkemesine gönderilir.
 
-b\) Valilik, kaymakamlık ve yerel yönetimler ile bakanlıkların ve diğer
-kamu kurum ve kuruluşlarının taşra teşkilâtındaki yetkili organları
-tarafından kamu görevlileri hakkında tesis edilen geçici görevlendirme,
-ikinci görev, vekaleten atama, görev ve unvan değişikliği içermeyen il
-içi naklen atama, görevden uzaklaştırma, yolluk, lojman ve izinlerine
-ilişkin idari işlemlerden,
+3\. Bölge idare mahkemesi, yaptığı inceleme sonunda ilk derece mahkemesi
+kararını hukuka uygun bulursa istinaf başvurusunun reddine karar verir.
+Karardaki maddi yanlışlıkların düzeltilmesi mümkün ise gerekli
+düzeltmeyi yaparak aynı kararı verir.
 
-c\) Kamu görevlilerine uyarma ve kınama cezası verilmesine ilişkin
-işlemlerden,
+4\. Bölge idare mahkemesi, ilk derece mahkemesi kararını hukuka uygun
+bulmadığı takdirde istinaf başvurusunun kabulü ile ilk derece mahkemesi
+kararının kaldırılmasına karar verir. Bu hâlde bölge idare mahkemesi
+işin esası hakkında yeniden bir karar verir. İnceleme sırasında ihtiyaç
+duyulması hâlinde kararı veren mahkeme veya başka bir yer idare ya da
+vergi mahkemesi istinabe olunabilir. İstinabe olunan mahkeme gerekli
+işlemleri öncelikle ve ivedilikle yerine getirir.
 
-d\) Kamu kurumu niteliğindeki meslek kuruluşlarının üyeleri hakkında
-verdiği mesleki faaliyeti sona erdirmeyen her türlü disiplin ve sınav
-işlemlerinden,
+5\. Bölge idare mahkemesi, ilk inceleme üzerine verilen kararlara karşı
+yapılan istinaf başvurusunu haklı bulduğu, davaya görevsiz veya yetkisiz
+mahkeme yahut reddedilmiş veya yasaklanmış hâkim tarafından bakılmış
+olması hâllerinde, istinaf başvurusunun kabulü ile ilk derece mahkemesi
+kararının kaldırılmasına karar vererek dosyayı ilgili mahkemeye
+gönderir. Bölge idare mahkemesinin bu fıkra uyarınca verilen kararları
+kesindir.
 
-e\) Asker ailelerine yardım ile ilgili işlemlerden,
-
-f\) 2/7/1941 tarihli ve 4081 sayılı Çiftçi Mallarının Korunması Hakkında
-Kanunun uygulanmasından,
-
-g\) 1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve
-Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanun ile
-29/5/1986 tarihli ve 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı
-Teşvik Kanunu gereğince kamu kurum ve kuruluşları tarafından sosyal
-yardım amacıyla bağlanan aylık ve yapılan sosyal yardımlarla ilgili
-uygulamalardan,
-
-h\) 4/12/1984 tarihli ve 3091 sayılı Taşınmaz Mal Zilyedliğine Yapılan
-Tecavüzlerin Önlenmesi Hakkında Kanunun uygulanmasından,
-
-ı) 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanununun
-uygulanmasından,
-
-kaynaklanan uyuşmazlıklarla ilgili olarak verdikleri nihaî kararlar ile
-tek hâkimle verilen nihaî kararlara, başka kanunlarda aksine hüküm
-bulunsa dahi mahkemelerin bulunduğu yargı çevresindeki bölge idare
-mahkemesine itiraz edilebilir.
-
-2\. **(Değişik : 8/6/2000 - 4577/7 md.)** İdare ve vergi mahkemelerinin
-yukarıdaki fıkra uyarınca verdikleri nihaî kararlara karşı itiraz
-süresi, tebliğ tarihini izleyen günden itibaren otuz gündür.
-
-3\. İtiraz, temyizin şekil ve usullerine tabidir.
-
-4\. Bölge idare mahkemesi evrak üzerinde yaptığı inceleme sonunda, maddi
-vakıalar hakkında edinilen bilgiyi yeter görürse veya itiraz sadece
-hukuki noktalara ilişkin ise veya itiraz olunan karardaki maddi
-yanlışlıkların düzeltilmesi mümkün ise işin esası hakkında karar verir.
-Aksi halde gerekli inceleme ve tahkikatı kendisi yaparak esas hakkında
-yeniden karar verir. **(Ek cümle: 5/4/1990 - 3622/15 md.)** Ancak, ilk
-inceleme üzerine verilen kararlara karşı yapılan itirazı haklı bulduğu
-veya davaya görevsiz hakim tarafından bakılmış olması hallerinde kararı
-bozmakla birlikte dosyayı geri gönderir, bölge idare mahkemesinin bu
+6\. Bölge idare mahkemelerinin 46 ncımaddeye göre temyize açık olmayan
 kararları kesindir.
 
-5\. Bölge idare mahkemesinin kararları kesindir; temyiz yoluna
-başvurulamaz.
+7\. İstinaf başvurusuna konu edilen kararı veren ya da karara katılan
+hâkim, aynı davanın istinaf yoluyla bölge idare mahkemesince
+incelenmesinde bulunamaz.
 
-6\. **(Değişik : 8/6/2000 - 4577/7 md.)** İtiraza konu edilen kararı
-veren ya da karara katılan hâkim, aynı davanın itiraz yoluyla bölge
-idare mahkemesince incelenmesinde bulunamaz.
+8\. İvedi yargılama usulüne tabi olan davalarda istinaf yoluna
+başvurulamaz.
 
 *Temyiz:*
 
-**Madde 46 – (Değişik: 5/4/1990 - 3622/16 md.)**
+**Madde 46 – (Değişik: 18/6/2014-6545/20 md.)**
 
-1\. Danıştay dava daireleri ile idare ve vergi mahkemelerinin nihai
-kararları, başka kanunlarda aksine hüküm bulunsa dahi Danıştayda temyiz
-edilebilir.
+Danıştay dava dairelerinin nihai kararları ile bölge idare
+mahkemelerinin aşağıda sayılan davalar hakkında verdikleri kararlar,
+başka kanunlarda aksine hüküm bulunsa dahi Danıştayda, kararın
+tebliğinden itibaren otuz gün içinde temyiz edilebilir:
 
-2\. **(Değişik:10/6/1994-4001/20 md.)** Özel kanunlarında ayrı süre
-gösterilmeyen hallerde,Danıştay dava daireleri ile idare ve vergi
-mahkemelerinin nihai kararlarına karşı tebliğ tarihini izleyen otuz gün
-içinde Danıştayda temyiz yoluna başvurulabilir.
+a\) Düzenleyici işlemlere karşı açılan iptal davaları.
+
+––––––––––––––––––––
+
+*(1) Bu madde başlığı “İtiraz:” iken, 18/4/2014 tarihli ve 6545 sayılı
+Kanunun 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+
+5480-1
+
+b\) Konusu yüz bin Türk lirasını aşan vergi davaları, tam yargı davaları
+ve idari işlemler hakkında açılan davalar.
+
+c\) Belli bir meslekten, kamu görevinden veya öğrencilik statüsünden
+çıkarılma sonucunu doğuran işlemlere karşı açılan iptal davaları.
+
+d\) Belli bir ticari faaliyetin icrasını süresiz veya otuz gün yahut daha
+uzun süreyle engelleyen işlemlere karşı açılan iptal davaları.
+
+e\) Müşterek kararnameyle yapılan atama, naklen atama ve görevden alma
+işlemleri ile daire başkanı ve daha üst düzey kamu görevlilerinin atama,
+naklen atama ve görevden alma işlemleri hakkında açılan iptal davaları.
+
+f\) İmar planları, parselasyon işlemlerinden kaynaklanan davalar.
+
+g\) Tabiat Varlıklarını Koruma Merkez Komisyonu ve Kültür Varlıklarını
+Koruma Yüksek Kurulunca itiraz üzerine verilen kararlar ile 18/11/1983
+tarihli ve 2960 sayılı Boğaziçi Kanununun uygulanmasından doğan davalar.
+
+h\) Maden, taşocakları, orman, jeotermal kaynaklar ve doğal mineralli
+sular ile ilgili mevzuatın uygulanmasına ilişkin işlemlere karşı açılan
+davalar.
+
+ı) Ülke çapında uygulanan öğrenim ya da bir meslek veya sanatın icrası
+veyahut kamu hizmetine giriş amacıyla yapılan sınavlar hakkında açılan
+davalar.
+
+i\) Liman, kruvaziyer limanı, yat limanı, marina, iskele, rıhtım,
+akaryakıt ve sıvılaştırılmış petrol gazı boru hattı gibi kıyı
+tesislerine işletme izni verilmesine ilişkin mevzuatın uygulanmasından
+doğan davalar.
+
+j\) 8/6/1994 tarihli ve 3996 sayılı Bazı Yatırım ve Hizmetlerin
+Yap-İşlet-Devret Modeli Çerçevesinde Yaptırılması Hakkında Kanunun
+uygulanmasından ve 16/7/1997 tarihli ve 4283 sayılı Yap-İşlet Modeli ile
+Elektrik Enerjisi Üretim Tesislerinin Kurulması ve İşletilmesi ile
+Enerji Satışının Düzenlenmesi Hakkında Kanunun uygulanmasından doğan
+davalar.
+
+k\) 6/6/1985 tarihli ve 3218 sayılı Serbest Bölgeler Kanununun
+uygulanmasından doğan davalar.
+
+l\) 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı
+Kanununun uygulanmasından doğan davalar.
+
+m\) Düzenleyici ve denetleyici kurullar tarafından görevli oldukları
+piyasa veya sektörle ilgili olarak alınan kararlara karşı açılan
+davalar.
 
 *Temyiz edilemeyecek kararlar:*
 
-**Madde 47 – (Değişik : 8/6/2000 - 4577/8 md.)**
-
-İdare ve vergi mahkemelerinin itiraz yolu açık olan kararları temyiz
-edilemez.
+**Madde 47 – (Mülga: 18/6/2014-6545/103 md.)**
 
 *Temyiz dilekçesi:*
 
@@ -1175,130 +1282,187 @@ edilemez.
 1\. Temyiz istemleri Danıştay Başkanlığına hitaben yazılmış dilekçeler
 ile yapılır.
 
+5480-2
+
 2\. Temyiz dilekçelerinin 3 üncü madde esaslarına göre düzenlenmesi
 gereklidir, düzenlenmemiş ise eksikliklerin onbeş gün içinde
-tamamlatılması hususu, kararı veren Danıştay veya mahkemece ilgiliye
-tebliğ olunur. Bu sürede eksiklikler tamamlanmazsa temyiz isteminde
-bulunulmamış sayılmasına Danıştay veya mahkemece karar verilir.
+tamamlatılması hususu, kararı veren Danıştay veya bölge idare
+mahkemesince ilgiliye tebliğ olunur. Bu sürede eksiklikler tamamlanmazsa
+temyiz isteminde bulunulmamış sayılmasına Danıştay veya bölge idare
+mahkemesince karar verilir. ^(1)^
 
-3\. Temyiz dilekçeleri, ilgisine göre kararı veren mahkemeye, Danıştaya
-veya 4 üncü maddede belirtilen mercilere verilir ve kararı veren mahkeme
-veya Danıştayca karşı tarafa tebliğ edilir. Karşı taraf tebliğ tarihini
-izleyen otuz gün içinde cevap verebilir. Cevap veren, kararı süresinde
-temyiz etmemiş olsa bile düzenleyeceği dilekçesinde, temyiz isteminde
-bulunabilir. Bu takdirde bu dilekçeler temyiz dilekçesi yerine geçer.
+3\. Temyiz dilekçeleri, ilgisine göre kararı veren bölge idare
+mahkemesine, Danıştaya veya 4 üncü maddede belirtilen mercilere verilir
+ve kararı veren bölge idare mahkemesi veya Danıştayca karşı tarafa
+tebliğ edilir. Karşı taraf tebliğ tarihini izleyen otuz gün içinde cevap
+verebilir. Cevap veren, kararı süresinde temyiz etmemiş olsa bile
+düzenleyeceği dilekçesinde, temyiz isteminde bulunabilir. Bu takdirde bu
+dilekçeler temyiz dilekçesi yerine geçer. ^(2)^
 
-4\. **(Değişik:10/6/1994-4001/21 md.)** Kararı veren Danıştay veya
-mahkeme, cevap dilekçesi verildikten veya cevap süresi geçtikten sonra
-dosyayı dizi listesine bağlı olarak, Danıştaya veya Kurula gönderir.
-
-5481
+4\. **(Değişik:10/6/1994-4001/21 md.)** Kararı veren Danıştay veya bölge
+idare mahkemesi, cevap dilekçesi verildikten veya cevap süresi geçtikten
+sonra dosyayı dizi listesine bağlı olarak, Danıştaya veya Kurula
+gönderir. ^(3)^
 
 5\. Yürütmenin durdurulması isteği bulunan temyiz dilekçeleri, karşı
 tarafa tebliğ edilmeden dosya ile birlikte, yürütmenin durdurulması
-istemi hakkında karar verilmek üzere kararı veren mahkemece Danıştay
-Başkanlığına, Danıştayın ilk derece mahkemesi olarak baktığı davalarda,
-görevli dairece konusuna göre İdari veya Vergi Dava Daireleri Kuruluna
-gönderilir. Danıştayda görevli daire veya kurul tarafından yürütmenin
-durdurulması istemi hakkında karar verildikten sonra tebligat bu daire
-veya kurulca yapılarak dosya tekemmül ettirilir.
+istemi hakkında karar verilmek üzere kararı veren bölge idare
+mahkemesince Danıştay Başkanlığına, Danıştayın ilk derece mahkemesi
+olarak baktığı davalarda, görevli dairece konusuna göre İdari veya Vergi
+Dava Daireleri Kuruluna gönderilir. Danıştayda görevli daire veya kurul
+tarafından yürütmenin durdurulması istemi hakkında karar verildikten
+sonra tebligat bu daire veya kurulca yapılarak dosya tekemmül ettirilir.
+^(4)^
 
 6\. Temyiz dilekçesi verilirken gerekli harç ve giderlerin tamamının
-ödenmemiş olması halinde kararı veren; mahkeme veya Danıştay daire
-başkanı tarafından verilecek onbeş günlük süre içerisinde tamamlanması,
-aksi halde temyizden vazgeçilmiş sayılacağı hususu temyiz edene yazılı
-olarak bildirilir. Verilen süre içinde harç ve giderler tamamlanmadığı
-takdirde, mahkeme, ilk derece mahkemesi olarak davaya bakan Danıştay
-dairesi, kararın temyiz edilmemiş sayılmasına karar verir. Temyizin
-kanuni süre geçtikten sonra yapılması halinde de kararı veren mahkeme,
-ilk derece mahkemesi olarak davaya bakan Danıştay dairesi, temyiz
-isteminin reddine karar verir. Mahkemenin veya Danıştay dairesinin bu
+ödenmemiş olması halinde kararı veren; merci tarafından verilecek yedi
+günlük süre içerisinde tamamlanması, aksi halde temyizden vazgeçilmiş
+sayılacağı hususu temyiz edene yazılı olarak bildirilir. Verilen süre
+içinde harç ve giderler tamamlanmadığı takdirde, ilgili merci, kararın
+temyiz edilmemiş sayılmasına karar verir. Temyizin kanuni süre geçtikten
+sonra yapılması veya kesin bir karar hakkında olması halinde de kararı
+veren merci, temyiz isteminin reddine karar verir. İlgili merciin bu
 kararları ile bu maddenin 2 nci fıkrasında belirtilen temyiz isteminde
 bulunulmamış sayılmasına ilişkin kararlarına karşı, tebliğ tarihini
 izleyen günden itibaren yedi gün içinde temyiz yoluna başvurulabilir.
+^(5)^
 
-7\. **(Ek: 10/6/1994 - 4001/21md.)** Temyiz dilekçesi verilirken gerekli
-harç ve giderlerin ödenmemiş olduğu,dilekçenin 3 üncü madde esaslarına
-göre düzenlenmediği ve temyizin kanuni süre geçtikten sonra yapıldığı
-hususlarının dosyanın gönderildiği Danıştayın ilgili dairesi ve
-kurulunca saptanması hallerinde de 2 ve 6 ncı fıkralarda sözü edilen
-kararlar daire ve kurulca verilir.
+–––––––––––––
 
-*Kararın bozulması:*
+*(1)* *18/6/2014 tarihli ve 6545 sayılı Kanunun 21 inci maddesiyle, bu
+fıkrada yer alan “mahkemece” ibareleri “bölge idare mahkemesince”
+şeklinde değiştirilmiştir.*
 
-**Madde 49 –** 1. Temyiz incelemesi sonunda Danıştay:
+*(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 21 inci maddesiyle, bu
+fıkrada yer alan “mahkemeye” ibaresi “bölge idare mahkemesine”,
+“mahkeme” ibaresi “bölge idare mahkemesi” şeklinde değiştirilmiştir.*
+
+*(3) 18/6/2014 tarihli ve 6545 sayılı Kanunun 21 inci maddesiyle, bu
+fıkrada yer alan “mahkeme” ibaresi “bölge idare mahkemesi” şeklinde
+değiştirilmiştir.*
+
+*(4) 18/6/2014 tarihli ve 6545 sayılı Kanunun 21 inci maddesiyle, bu
+fıkrada yer alan “mahkemece” ibaresi “bölge idare mahkemesince” şeklinde
+değiştirilmiştir.*
+
+*(5) 18/6/2014 tarihli ve 6545 sayılı Kanunun 21 inci maddesiyle, bu
+fıkranın birinci cümlesinde yer alan “mahkeme veya Danıştay daire
+başkanı” ibaresi “merci” ve “onbeş” ibaresi “yedi” şeklinde; ikinci
+cümlesinde yer alan “mahkeme, ilk derece mahkemesi olarak davaya bakan
+Danıştay dairesi” ibaresi “ilgili merci” şeklinde; üçüncü cümlesinde yer
+alan “mahkeme, ilk derece mahkemesi olarak davaya bakan Danıştay
+dairesi” ibaresi “merci” şeklinde; dördüncü cümlesinde yer alan
+“Mahkemenin veya Danıştay dairesinin” ibaresi “İlgili merciin” şeklinde
+değiştirilmiş aynı fıkranın üçüncü cümlesinde yer alan “yapılması”
+ibaresinden sonra gelmek üzere “veya kesin bir karar hakkında olması”
+ibaresi eklenmiştir.*
+
+5481
+
+7\. **(Ek: 10/6/1994 - 4001/21md.; Değişik: 18/6/2014-6545/21 md.)**
+Temyiz dilekçesi verilirken gerekli harç ve giderlerin ödenmemiş olduğu,
+dilekçenin 3 üncü madde esaslarına göre düzenlenmediği, temyizin kanuni
+süre içinde yapılmadığı veya kesin bir karar hakkında olduğunun
+anlaşıldığı hâllerde, 2 ve 6 ncı fıkralarda sözü edilen kararlar,
+dosyanın gönderildiği Danıştayın ilgili dairesi ve kurulunca, kesin
+olarak verilir.
+
+*Temyiz incelemesi üzerine verilecek kararlar: ^(1)^*
+
+**Madde 49 – (Değişik: 18/6/2014-6545/22 md.)**
+
+1\. Temyiz incelemesi sonunda Danıştay;
+
+a\) Kararı hukuka uygun bulursa onar. Kararın sonucu hukuka uygun olmakla
+birlikte gösterilen gerekçeyi doğru bulmaz veya eksik bulursa, kararı,
+gerekçesini değiştirerek onar.
+
+b\) Kararda yeniden yargılama yapılmasına ihtiyaç duyulmayan maddi
+hatalar ile düzeltilmesi mümkün eksiklik veya yanlışlıklar varsa kararı
+düzelterek onar.
+
+2\. Temyiz incelemesi sonunda Danıştay;
 
 a\) Görev ve yetki dışında bir işe bakılmış olması,
 
 b\) Hukuka aykırı karar verilmesi,
 
-c\) Usul hükümlerine uyulmamış olunması,
+c\) Usul hükümlerinin uygulanmasında kararı etkileyebilecek nitelikte
+hata veya eksikliklerin bulunması,
 
-Sebeplerinden dolayı incelenen kararı bozar.
+sebeplerinden dolayı incelenen kararı bozar.
 
-2\. **(Değişik: 5/4/1990 - 3622/18 md.)** Temyiz incelenmesi sonunda
-karardaki maddi yanlışlıkların düzeltilmesi mümkün ise kararın
-düzeltilerek onanmasına karar verilir.
+3\. Kararların kısmen onanması ve kısmen bozulması hâllerinde kesinleşen
+kısım Danıştay kararında belirtilir.
 
-3\. **(Değişik: 5/4/1990 - 3622/18 md.)** Kararın bozulması halinde
-dosya, Danıştayca kararı veren mahkemeye gönderilir. Mahkeme, dosyayı
-diğer öncelikli işlere nazaran daha öncelikle inceler ve varsa gerekli
-tahkik işlemlerini tamamlayarak yeniden karar verir.
+4\. Danıştayın ilk derece mahkemesi olarak baktığı davaların temyizen
+incelenmesinde bu madde ile ısrar hariç 50 nci madde hükümleri kıyasen
+uygulanır.
 
-4\. Mahkeme bozmaya uymayarak eski kararında ısrar edebilir. Israr
-kararının ilgili tarafından temyizi halinde, dava, konusuna göre
-Danıştay İdari veya Vergi Dava Daireleri Kurulunca incelenir. Danıştayın
-ilgili dava dairesinin kararı uygun görülürse mahkemenin kararı bozulur;
-aksi halde onanır. Danıştay İdari ve Vergi Dava Daireleri Kurulları
-kararlarına uyulması zorunludur.
-
-5\. Kararların kısmen onaylanması ve kısmen bozulması hallerinde
-kesinleşen kısım Danıştay kararında belirtilir.
-
-6\. **(Ek: 5/4/1990 - 3622/18 md.)** Danıştayın ilk derece mahkemesi
-olarak baktığı davaların temyizen incelenmesinde de bu maddenin 4 üncü
-fıkrası hariç diğer fıkraları kıyasen uygulanır.
+5\. Temyize konu edilen kararı veren ya da karara katılan hâkim aynı
+davanın temyiz incelemesinde görev alamaz.
 
 *Temyizen verilen karar üzerine yapılacak işlem:*
 
-**Madde 50 – (Değişik: 5/4/1990 - 3622/19 md.)**
+**Madde 50 – (Değişik: 18/6/2014-6545/23 md.)**
 
-Temyiz incelemesi sonucunda verilen karar, dosyayla birlikte kararı
-veren mahkeme veya Danıştay dairesine gönderilir. Bu karar, dosyanın
-mahkeme veya Danıştay dairesine geldiği tarihten itibaren yedi gün
-içinde taraflara tebliğ edilir.
+1\. Temyiz incelemesi sonucunda verilen karar, dosyayla birlikte kararı
+veren mercie gönderilir. Bu karar, dosyanın geldiği tarihten itibaren
+yedi gün içinde taraflara tebliğe çıkarılır.
+
+2\. Temyiz incelemesi sonucunda verilen bozma kararı üzerine ilgili
+merci, dosyayı öncelikle inceler ve varsa gerekli tahkik işlemlerini
+tamamlayarak yeniden karar verir.
+
+3\. Bölge idare mahkemesi, Danıştayca verilen bozma kararına uyabileceği
+gibi kararında ısrar da edebilir.
+
+4\. Danıştayın bozma kararına uyulduğu takdirde, bu kararın temyiz
+incelemesi, bozma kararına uygunlukla sınırlı olarak yapılır.
+
+5\. Bölge idare mahkemesi, bozmaya uymayarak kararında ısrar ederse,
+ısrar kararının temyizi hâlinde, talep, konusuna göre Danıştay İdari
+veya Vergi Dava Daireleri Kurulunca incelenir ve karara bağlanır.
+Danıştay İdari ve Vergi Dava Daireleri Kurulları kararlarına uyulması
+zorunludur.
+
+–––––––––––––––
+
+*(1) Bu madde başlığı “Kararın bozulması:” iken, 18/6/2014 tarihli ve
+6545 sayılı Kanunun 22 nci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
 5482
 
-*Kanun yararına bozma:*
+*Kanun yararına temyiz: ^(1)(2)^*
 
-**Madde 51 –** 1. **(Değişik: 5/4/1990 - 3622/20 md.)** Bölge idare
-mahkemesi kararları ile idare ve vergi mahkemelerince ve Danıştayca ilk
-derece mahkemesi olarak verilip temyiz incelemesinden geçmeden
-kesinleşmiş bulunan kararlardan niteliği bakımından yürürlükteki hukuka
-aykırı bir sonucu ifade edenler, ilgili bakanlıkların göstereceği lüzum
-üzerine veya kendiliğinden Başsavcı tarafından kanun yararına temyiz
-olunabilir.
+**Madde 51 –** 1. **(Değişik: 5/4/1990 - 3622/20 md.)** İdare ve vergi
+mahkemeleri ile bölge idare mahkemelerinin kesin olarak verdiği kararlar
+ile istinaf veya temyiz incelemesinden geçmeden kesinleşmiş bulunan
+kararlardan niteliği bakımından yürürlükteki hukuka aykırı bir sonucu
+ifade edenler, ilgili bakanlıkların göstereceği lüzum üzerine veya
+kendiliğinden Başsavcı tarafından kanun yararına temyiz olunabilir.
+^(2)^
 
 2\. **(Değişik: 5/4/1990 - 3622/20 md.)** Temyiz isteği yerinde görüldüğü
 takdirde karar, kanun yararına bozulur. Bu bozma kararı, daha önce
-kesinleşmiş olan mahkeme veya Danıştay kararının hukuki sonuçlarını
-kaldırmaz.
+kesinleşmiş olan merci kararının hukuki sonuçlarını kaldırmaz. ^(2)^
 
 3\. Bozma kararının bir örneği ilgili bakanlığa gönderilir ve Resmi
 Gazete'de yayımlanır.
 
-*Temyiz veya itiraz istemlerinde yürütmenin durdurulması:*
+*Temyiz veya istinaf istemlerinde yürütmenin durdurulması: ^(3)^*
 
 **Madde 52 –** 1. **(Değişik: 5/4/1990 - 3622/21 md.)** Temyiz veya
-itiraz yoluna başvurulmuş olması, hakim, mahkeme veya Danıştay
+istinaf yoluna başvurulmuş olması, hakim, mahkeme veya Danıştay
 kararlarının yürütülmesini durdurmaz. Ancak, bu kararların teminat
 karşılığında yürütülmesinin durdurulmasına temyiz istemini incelemeye
-yetkili Danıştay dava dairesi, kurulu veya itirazı incelemeye yetkili
-bölge idare mahkemesince karar verilebilir. **(Ek Cümle: 10/6/1994 -
-4001/22 md.)** Davanın reddine ilişkin kararların temyizi halinde, dava
-konusu işlem hakkında yürütmenin durdurulması kararı verilebilmesi 27
-nci maddede öngörülen koşulun varlığına bağlıdır.
+yetkili Danıştay dava dairesi, kurulu veya istinaf başvurusunu
+incelemeye yetkili bölge idare mahkemesince karar verilebilir. **(Ek
+Cümle: 10/6/1994 - 4001/22 md.)** Davanın reddine ilişkin kararlara
+karşı temyiz ya da istinaf yoluna başvurulması halinde, dava konusu
+işlem hakkında yürütmenin durdurulması kararı verilebilmesi 27 nci
+maddede öngörülen koşulun varlığına bağlıdır. ^(3)^
 
 2\. İptal davalarında teminat istenmeyebilir.
 
@@ -1316,6 +1480,29 @@ yenilenmesi istenebilir.
 a\) Zorlayıcı sebepler dolayısıyla veya lehine karar verilen tarafın
 eyleminden doğan bir sebeple elde edilemeyen bir belgenin kararın
 verilmesinden sonra ele geçirilmiş olması,
+
+–––––––––––––––
+
+*(1) Bu madde başlığı “Kanun yararına bozma:” iken, 18/6/2014 tarihli ve
+6545 sayılı Kanunun 24 üncü maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+*(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 24 üncü maddesiyle, bu
+maddenin birinci fıkrasında yer alan “Bölge idare mahkemesi kararları
+ile idare ve vergi mahkemelerince ve Danıştayca ilk derece mahkemesi
+olarak verilip” ibaresi “İdare ve vergi mahkemeleri ile bölge idare
+mahkemelerinin kesin olarak verdiği kararlar ile istinaf veya” şeklinde
+ve ikinci fıkrasında yer alan “mahkeme veya Danıştay” ibaresi “merci”
+şeklinde değiştirilmiştir.*
+
+*(3) 18/6/2014 tarihli ve 6545 sayılı Kanunun 25 inci maddesiyle, bu
+maddenin başlığında yer alan “itiraz” ibaresi “istinaf” şeklinde;
+birinci fıkrasında yer alan “itiraz yoluna” ibaresi “istinaf yoluna”
+şeklinde; “itirazı” ibaresi “istinaf başvurusunu” şeklinde ve son
+cümlesinde yer alan “kararların temyizi” ibaresi “kararlara karşı temyiz
+ya da istinaf yoluna başvurulması” şeklinde değiştirilmiştir.*
+
+5482-1
 
 b\) Karara esas olarak alınan belgenin, sahteliğine hükmedilmiş veya
 sahte olduğu mahkeme veya resmi bir makam huzurunda ikrar olunmuş veya
@@ -1360,6 +1547,10 @@ ve diğer sebepler için altmış gündür. Bu süreler,dayanılan sebebin
 istemde bulunan yönünden gerçekleştiği tarihi izleyen günden
 başlatılarak hesaplanır.^(1)^
 
+*Kararın düzeltilmesi: *
+
+**Madde 54 – (Mülga: 18/6/2014-6545/103 md.)**
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) 3 numaralı fıkra, 10/6/1994 tarihli ve 4001 sayılı Kanunun 23 üncü
@@ -1367,39 +1558,7 @@ maddesi hükmüdür.*
 
 5483
 
-*Kararın düzeltilmesi: *
-
-**Madde 54 –** 1. **(Değişik birinci cümle: 5/4/1990 - 3622/23 md.)**
-Danıştay dava daireleri ve İdari veya Vergi Dava Daireleri Kurullarının
-temyiz üzerine verdikleri kararlar ile bölge idare mahkemelerinin itiraz
-üzerine verdikleri kararlar hakkında, bir defaya mahsus olmak üzere
-kararın tebliğ tarihini izleyen onbeş gün içinde taraflarca;
-
-a\) Kararın esasına etkisi olan iddia ve itirazların, kararda
-karşılanmamış olması,
-
-b\) Bir kararda birbirine aykırı hükümler bulunması,
-
-c\) Kararın usul ve kanuna aykırı bulunması,
-
-d\) **(Değişik: 5/4/1990 - 3622/23 md.)** Hükmün esasını etkileyen
-belgelerde hile ve sahtekarlığın ortaya çıkmış olması,
-
-Hallerinde kararın düzeltilmesi istenebilir.
-
-2\. **(Değişik: 5/4/1990 - 3622/23 md.)** Danıştay dava daireleri ve
-İdari veya Vergi Dava Daireleri Kurulları ile bölge idare mahkemeleri,
-kararın düzeltilmesi isteminde ileri sürülen sebeplerle bağlıdırlar.
-
-3\. **(Değişik: 10/6/1994 - 4001/24 md.)**
-
-Kararın düzeltilmesi istekleri esas kararı vermiş olan daire, kurul ve
-bölge idare mahkemesince incelenir. Dosyanın incelenmesinde tetkik
-hakimliği yapanlar, aynı konunun düzeltme yoluyla incelenmesinde bu
-görevi yapamazlar.^(1)^
-
-*Yargılamanın yenilenmesine ve kararın düzeltilmesine ilişkin özel
-hükümler:*
+*Yargılamanın yenilenmesi usulü: ^(1)^*
 
 **Madde 55 –** 1. İsteğin ilişkin olduğu konu, diğer bir daire veya
 mahkemenin görevine girmiş ise karar bu daire veya mahkemece verilir.
@@ -1407,16 +1566,16 @@ mahkemenin görevine girmiş ise karar bu daire veya mahkemece verilir.
 2\. Karşı tarafın savunması alındıktan sonra istekler incelenir ve
 kanunda yazılı sebepler varsa davaya yeniden bakılarak karar verilir.
 
-3\. **(Değişik: 10/6/1994-4001/25 md.)** Yargılamanın yenilenmesi ve
-kararın düzeltilmesi istemleri,kanunda yazılı sebeplere dayanmıyor ise,
-istemin reddine karar verilir.
+3\. **(Değişik: 10/6/1994-4001/25 md.)** Yargılamanın yenilenmesi
+(…)^(1)^ istemleri,kanunda yazılı sebeplere dayanmıyor ise, istemin
+reddine karar verilir. ^(1)^
 
-4\. Yargılamanın yenilenmesi ve kararın düzeltilmesi istemlerinde duruşma
-yapılması, görevli daire veya mahkemenin kararına bağlıdır.
+4\. Yargılamanın yenilenmesi (…)^(1)^ istemlerinde duruşma yapılması,
+görevli daire veya mahkemenin kararına bağlıdır. ^(1)^
 
-5\. 53, 54 ve bu madde hükümleri saklı kalmak kaydıyla, yargılamanın
-yenilenmesinde ve kararın düzeltilmesinde bu Kanunun diğer hükümleri
-uygulanır.
+5\. Bu madde ile 53 üncü madde hükümleri saklı kalmak kaydıyla,
+yargılamanın yenilenmesinde (…) ^(1)^ bu Kanunun diğer hükümleri
+uygulanır. ^(1)^
 
 DÖRDÜNCÜ BÖLÜM
 
@@ -1441,14 +1600,6 @@ hakkında da bu kurullarca karar verilir.
 üyelerinden bir kısmının davaya bakmaktan çekinmesi veya reddi halinde
 noksan üyelikler diğer dava dairelerinden tamamlanır.
 
-——————————
-
-*(1) Bu bendin numarası (4) iken mevcut (3) numaralı bendin yürürlükten
-kaldırılmasıyla 5/4/1990 tarih ve 3622 sayılı Kanunun 23 üncü maddesi
-ile (3) olarak değiştirilmiştir.*
-
-5484
-
 4\. İdari ve Vergi Dava Daireleri Kurullarının toplanmasına engel olacak
 sayıda ret istemlerinde bulunulamaz ve çekinilemez.
 
@@ -1456,6 +1607,18 @@ sayıda ret istemlerinde bulunulamaz ve çekinilemez.
 çekinebilecekleri gibi taraflarca da reddedilebilirler. Bunlar
 hakkındaki çekinme veya ret istemleri davaya bakmakla görevli daire
 tarafından incelenerek karara bağlanır.
+
+——————————
+
+*(1) Bu madde başlığı “Yargılamanın yenilenmesine ve kararın
+düzeltilmesine ilişkin özel hükümler:” iken, 18/6/2014 tarihli ve 6545
+sayılı Kanunun 26 ncı maddesiyle metne işlendiği şekilde, aynı maddenin
+beşinci fıkrasında yer alan “53, 54 ve bu” ibaresi “Bu madde ile 53
+üncü” şeklinde değiştirilmiş; üçüncü ve dördüncü fıkralarında yer alan
+“ve kararın düzeltilmesi” ibareleri ile beşinci fıkrasında yer alan “ve
+kararın düzeltilmesinde” ibaresi madde metninden çıkarılmıştır.*
+
+5484
 
 *Mahkemelerde çekinme ve ret:*
 
@@ -1517,6 +1680,12 @@ tebliğ işleri, Tebligat Kanunu hükümlerine göre yapılır. Bu suretle
 yapılacak tebliğlere ait ücretler ilgililer tarafından peşin olarak
 ödenir.
 
+——————————
+
+*(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 26 ncı maddesiyle,*
+
+5484-1
+
 *Çalışmaya ara verme:*
 
 **Madde 61 – 1. (Değişik: 5/4/1990 - 3622/25 md.) (Değişik birinci
@@ -1529,8 +1698,6 @@ temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler. Ancak, yargı
 dışında kalan idare ve vergi mahkemeleri çalışmaya ara vermeden
 yararlanamazlar. Bu mahkemeler, 62 nci maddedeki sınırlamaya tabi
 olmaksızın görevlerine devam ederler.
-
-5484-1
 
 2\. Ara verme süresi içinde; bölge idare mahkemesi başkanının önerisi
 üzerine, Hakimler ve Savcılar Yüksek Kurulunca, her bölge idare
@@ -1560,12 +1727,12 @@ göreve başladıkları tarihte yürürlükten kalkar.
 **Ek Madde 1 – (Ek: 5/4/1990 - 3622/26 md.; Değişik : 8/6/2000 - 4577/9
 md.)**
 
-Bu Kanunun 17 nci maddesindeki parasal sınırlar; her takvim yılı
-başından geçerli olmak üzere, önceki yılda uygulanan parasal sınırların,
-o yıl için 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi
-hükümleri uyarınca Maliye Bakanlığınca her yıl tespit ve ilan edilen
-yeniden değerleme oranında artırılması suretiyle uygulanır. Bu şekilde
-belirlenen sınırların onmilyon lirayı aşmayan kısımları dikkate alınmaz.
+Bu Kanunda öngörülen parasal sınırlar; her takvim yılı başından geçerli
+olmak üzere, önceki yılda uygulanan parasal sınırların, o yıl için 213
+sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca
+Maliye Bakanlığınca her yıl tespit ve ilan edilen yeniden değerleme
+oranında artırılması suretiyle uygulanır. Bu şekilde belirlenen
+sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz. ^(1)^
 
 **Ek Madde 2 – (Ek: 5/4/1990 - 3622/26 md.)**
 
@@ -1578,6 +1745,15 @@ savunması onbeş gün içinde alındıktan sonra veya bu süre içerisinde
 savunma verilmediği takdirde sürenin bittiği tarihte tekemmül etmiş
 sayılır ve kanunlarda gösterilen karar süreleri bu tarihten itibaren
 işlemeye başlar. Karar dosya üzerinden verilir.
+
+–––––––––––––––
+
+*(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 28 inci maddesiyle, bu
+fıkrada yer alan “Kanunun 17 nci maddesindeki” ibaresi “Kanunda
+öngörülen” şeklinde ve “onmilyon lirayı” ibaresi “bin Türk lirasını”
+şeklinde değiştirilmiştir.*
+
+5484-2
 
 Bu kararlara karşı tebliğini izleyen günden itibaren onbeş gün
 içerisinde İdari Dava Daireleri Kuruluna itiraz edilebilir. İtiraz bir
@@ -1605,8 +1781,6 @@ yürürlüğe girdiği tarihten önce verilen kararlar ile Danıştayın bozma
 kararı üzerine kararı bozulan mahkemece verilen kararlar, Danıştayda
 temyiz edilebilir.
 
-5484-2
-
 **Geçici Madde 5- (Ek: 15/7/2003-4928/7 md.)**
 
 **(İptal birinci cümle: Anayasa Mahkemesi’nin 20/5/2010 tarihli ve E.:
@@ -1632,6 +1806,21 @@ mahkemece verilen kararlar, Danıştayda temyiz edilebilir.
 1\. Bu maddeyi ihdas eden Kanunla, bu Kanunun 16 ncı maddesinin dördüncü
 fıkrasına eklenen hüküm, kanun yolu aşaması dâhil, yürürlük tarihinde
 derdest olan davalarda da uygulanır.
+
+**Geçici Madde 8** – **(Ek: 18/6/2014-6545/27 md.)**
+
+1\. Bu Kanunla idari yargıda kanun yollarına ilişkin getirilen hükümler,
+2576 sayılı Kanunun, bu Kanunla değişik 3 üncü maddesine göre kurulan
+bölge idare mahkemelerinin tüm yurtta göreve başlayacakları tarihten
+sonra verilen kararlar hakkında uygulanır. Bu tarihten önce verilmiş
+kararlar hakkında, kararın verildiği tarihte yürürlükte bulunan kanun
+yollarına ilişkin hükümler uygulanır.
+
+2\. Bölge idare mahkemelerinin faaliyete geçme tarihine kadar idare ve
+vergi mahkemeleri tarafından verilen kararlara yapılan itirazlarda bu
+Kanunla düzenlenen istinaf kanun yolu için öngörülen harçlar alınır.
+
+5484-3
 
 *Yürürlük:*
 
@@ -1676,7 +1865,7 @@ hakkında uygulanır.
 **Geçici Madde 2 – (İptal: Ana.Mah.nin 21/9/1995 gün ve E.1995/46,
 K.1995/49 sayılı Kararı ile.)**
 
-5484-3
+5484-4
 
 **2577 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -1720,11 +1909,12 @@ K.1995/49 sayılı Kararı ile.)**
   Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107 K.: 2013/90 sayılı Kararı                                                                          
   ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------------------------
 
-5484-4
+5484-5
 
-  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2577 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  6526                                                                                 27, 28                                                        6/3/2014
-  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
+  ------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2577 sayılı Kanunun değişen veya iptal edilen maddeleri**                            **Yürürlüğe Giriş Tarihi**
+  6526                                                                                 27, 28                                                                                 6/3/2014
+  6545                                                                                 15, 17, 20, 20/A, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, Ek Madde 1, Geçici Madde 8   28/6/2014
+  ------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------- ----------------------------
 
 
