@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5281 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun 5335 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -88,13 +88,10 @@ kişiliği kalkar. Tüzel kişiliği kalkan belediyelerin katılacağı ve
 köylerin mahalle olarak bağlanacağı belediyeler, Bakanlar Kurulu
 kararında belirtilir.
 
-İlçe ve ilk kademe belediyesi olarak büyükşehir belediye sınırları içine
-katılan belediyeler, büyükşehir belediye meclisinde seçiliş sıralarına
-göre tespit edilecek ilçeler beşte bir, ilk kademeler onda bir oranında
-meclis üyesi ile temsil edilirler. Tama ulaşmayan kesirler dikkate
-alınmaz. Bu durum ilk mahallî idareler genel seçimine kadar geçerlidir.
-Bu belediyelerin başkanları hakkında 12 nci maddenin ikinci fıkrası
-hükümleri uygulanır.
+**(Değişik: 21/4/2005-5335/ 28 md.)** ilçe ve ilk kademe belediyesi
+olarak büyükşehir belediye sınırları içine katılan belediyeler, mevcut
+belediyelerin temsil edildiği şekilde büyükşehir belediye meclisinde
+temsil edilirler.
 
 ÜÇÜNCÜ BÖLÜM
 
@@ -132,7 +129,8 @@ d\) Büyükşehir belediyesi tarafından yapılan veya işletilen alanlardaki
 işyerlerine büyükşehir belediyesinin sorumluluğunda bulunan alanlarda
 işletilecek yerlere ruhsat vermek ve denetlemek.
 
-e\) Belediye Kanununun 68 ve 72 nci maddelerindeki yetkileri kullanmak.
+e\) Belediye Kanununun 69 ve 73 üncü maddelerindeki yetkileri
+kullanmak.*^(1)^*
 
 f\) Büyükşehir ulaşım ana plânını yapmak veya yaptırmak ve uygulamak;
 ulaşım ve toplu taşıma hizmetlerini plânlamak ve koordinasyonu sağlamak;
@@ -186,6 +184,12 @@ işlettirmek; gerektiğinde amatör spor kulüplerine malzeme vermek ve
 gerekli desteği sağlamak, amatör takımlar arasında spor müsabakaları
 düzenlemek, yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren
 veya derece alan sporculara belediye meclis kararıyla ödül vermek.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesi ile bu
+bentte yer alan "68 ve 72 nci" ibaresi "69 ve 73 üncü" şeklinde
+değiştirilmiştir.*
 
 n\) Gerektiğinde sağlık, eğitim ve kültür hizmetleri için bina ve
 tesisler yapmak, kamu kurum ve kuruluşlarına ait bu hizmetlerle ilgili
@@ -721,12 +725,13 @@ birbirlerine ödemeleri gereken paylar ile su, atık su ve doğalgaz
 bedellerini zamanında yatırmadıkları takdirde, ilgili belediye veya
 bağlı kuruluşun talebi üzerine söz konusu tutar, İller Bankası
 tarafından, yükümlü belediyenin genel bütçe vergi gelirleri payından
-kesilerek alacaklı belediyenin hesabına aktarılır. Gecikmeden
-kaynaklanacak faiz ve benzeri her türlü zararın tazmini ile ilgili
-olarak büyükşehir belediye başkanı ve sayman şahsen sorumludur. Bu fıkra
-hükmü, ilçe ve ilk kademe belediyeleri hesabına yapılacak her türlü
-aktarmaları zamanında yapmayan büyükşehir belediye başkanı, bağlı
-kuruluş genel müdürleri ve saymanları hakkında da uygulanır.
+kesilerek alacaklı belediyenin hesabına aktarılır. **(Değişik ikinci
+cümle: 21/4/2005-5335/ 28 md.)** Gecikmeden kaynaklanacak faiz ve
+benzeri her türlü zararın tazmininden, ilgili ilçe veya ilk kademe
+belediye başkanı ve sayman şahsen sorumludur. Bu fıkra hükmü, ilçe ve
+ilk kademe belediyeleri hesabına yapılacak her türlü aktarmaları
+zamanında yapmayan büyükşehir belediye başkanı, bağlı kuruluş genel
+müdürleri ve saymanları hakkında da uygulanır.
 
 **Büyükşehir belediyesinin giderleri**
 
@@ -860,11 +865,11 @@ belediyesi tarafından yapılabilir.
 
 Büyükşehir belediyesi, ilçe ve ilk kademe belediyeleri ile ortak
 projeler geliştirebilir ve yatırım yapabilir. Büyükşehir belediyesi,
-kesinleşmiş en son yıl bütçe gelirinin % 3’ünü aşmamak ve bütçede
+kesinleşmiş en son yıl bütçe gelirinin % 10’unu aşmamak ve bütçede
 ödeneği ayrılmış olmak şartıyla, ilgili belediyenin yatırım programında
 yer alan projelerin finansmanı için büyükşehir belediye başkanının
 teklifi ve meclisin kararıyla ilçe ve ilk kademe belediyelerine malî ve
-aynî yardım yapabilir.
+aynî yardım yapabilir.*^(1)^*
 
 Büyükşehir belediyesi ile bağlı kuruluşları, belediye başkanının onayı
 ile birbirlerinin nakit ihtiyacını karşılayabilir. Bu şekildeki ödünç
@@ -934,6 +939,12 @@ hakkında bu Kanun ile Belediye Kanununun belediyelerin tüzel
 kişiliklerinin kaldırılmasına veya başka bir belediyeye katılmasına
 ilişkin hükümleri uygulanmaz.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesi ile bu
+fıkranın ikinci cümlesinde yer alan "% 3’ünü" oranı "% 10’unu" olarak
+değiştirilmiştir.*
+
 Bu sınırlar içinde kalan köylerin tüzel kişiliği sona ererek mahalleye
 dönüşür. Bu şekilde oluşan mahallelerin katılacağı ilçe veya ilk kademe
 belediyesi, büyükşehir belediye meclisince belirlenir. Orman köylerinin
@@ -974,19 +985,19 @@ sınır değişiklikleri katılma durumuna uygun olarak 5442 sayılı İl
 
 **GEÇİCİ MADDE 3.-** Büyükşehir belediyeleri ve bunlara bağlı kuruluşlar
 ile sermayesinin % 50'sinden fazlası büyükşehir belediyelerine ait
-şirketlerin; 30.6.2004 tarihi itibariyle kamu kurum ve kuruluşlarına
+şirketlerin; 31.12.2004 tarihi itibariyle kamu kurum ve kuruluşlarına
 olan kamu ve özel hukuka tabi alacakları, bunların diğer kamu kurum ve
-kuruluşlarına olan borçlarına karşılık olmak üzere bu Kanunun yayımını
-izleyen altı ay içinde mahsup edilir. Bu madde kapsamındaki alacak ve
-borç ifadesi bu alacak ve borçlara ilişkin fer’ileri ve cezaları da
-kapsar.
+kuruluşlarına olan borçlarına karşılık olmak üzere 30.6.2005 tarihine
+kadar takas ve mahsup edilir. Bakanlar Kurulu bu süreyi altı aya kadar
+uzatmaya yetkilidir. Bu madde kapsamındaki alacak ve borç ifadesi bu
+alacak ve borçlara ilişkin fer’ileri ve cezaları da kapsar.*^(1)^*
 
-Yukarıdaki fıkra kapsamında yer alan kuruluşların mahsup işlemine konu
-olan veya olmayan borçları, genel bütçe vergi gelirlerinden her ay
-ayrılacak paylarının % 40'ını geçmemek üzere kesinti yapılarak tahsil
-edilir.
+Yukarıdaki fıkra kapsamında yer alan kuruluşların takas ve mahsup
+işlemine konu olan veya olmayan borçları, genel bütçe vergi
+gelirlerinden her ay ayrılacak paylarının % 40'ını geçmemek üzere
+kesinti yapılarak tahsil edilir. *^(1)^*
 
-Bu maddeye göre yapılacak mahsup ve kesinti işlemleri yılı bütçe
+Bu maddeye göre yapılacak takas, mahsup ve kesinti işlemleri yılı bütçe
 kanunları ile ilişkilendirilmeksizin ilgili kuruluş ile uzlaşma
 komisyonu tarafından belirlenir; Hazine Müsteşarlığının bağlı olduğu
 Bakanın önerisi üzerine Bakanlar Kurulu tarafından karara bağlanır.
@@ -994,14 +1005,20 @@ Bakanlar Kurulu, ilgili kuruluşların borç ödeme kapasitelerini de
 dikkate alarak ödenecek tutarları taksitlendirmeye, taksitlendirilen
 kısma Kanunun yayımını izleyen günden itibaren zam ve faiz
 uygulatmamaya, bu borçların fer’i ve cezalarını geçmemek üzere indirim
-yapmaya yetkilidir.
+yapmaya yetkilidir. *^(1)^*
+
+**(Ek: 21/4/2005-5335/ 28 md.)** İlgili kuruluşun uzlaşma ve hacizlerin
+kaldırılmasına dair başvurusunun uzlaşma komisyonunca kabul edilmesini
+müteakip 31.12.2004 tarihinden önceki borçlar için tatbik edilen
+hacizler kaldırılır.
 
 Uzlaşma komisyonu Hazine Müsteşarlığının bağlı olduğu Bakan tarafından
 görevlendirilecek bir başkan ile İçişleri Bakanlığı, Maliye Bakanlığı,
 Devlet Planlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı, Sayıştay
-Başkanlığı ve İller Bankasından birer temsilciden oluşur. Büyükşehir
-belediyeleri için ayrıca uzlaşma komisyonu kurulmaz. Belediyeler için
-kurulan komisyon büyükşehir belediyeleri için de görev yapar.
+Başkanlığı Sosyal Sigortalar Kurumu Başkanlığı ve İller Bankasından
+birer temsilciden oluşur. Büyükşehir belediyeleri için ayrıca uzlaşma
+komisyonu kurulmaz. Belediyeler için kurulan komisyon büyükşehir
+belediyeleri için de görev yapar.*^(1)^*
 
 **GEÇİCİ MADDE 4.-** Bu Kanunun yayımı tarihinde profesyonel spor
 kulüplerinin başkanlığını yapan veya yönetiminde bulunan belediye
@@ -1018,6 +1035,19 @@ ay başında, diğer maddeleri ise yayımı tarihinde yürürlüğe girer.
 
 **MADDE 33.-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesi ile Geçici
+3 üncü maddesinin birinci fıkrasında geçen "30.6.2004" ibaresi
+"31.12.2004" şeklinde, "bu Kanunun yayımını izleyen altı ay içinde
+mahsup edilir." ibaresi, "30.6.2005 tarihine kadar takas ve mahsup
+edilir. Bakanlar Kurulu bu süreyi altı aya kadar uzatmaya yetkilidir."
+şeklinde, ikinci fıkrasında geçen "mahsup" ibaresi "takas ve mahsup"
+şeklinde, üçüncü fıkrasında geçen "mahsup ve kesinti işlemleri" ibaresi
+"takas, mahsup ve kesinti işlemleri" şeklinde değiştirilmiş ve beşinci
+fıkrasına "Sayıştay Başkanlığı" ibaresinden sonra gelmek üzere "Sosyal
+Sigortalar Kurumu Başkanlığı" ibaresi eklenmiştir.*
+
   -------------------------- ------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
   **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**                              **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5271 sayılı Kanunun değiştirilen maddeleri**
                                                                                                                                                                         
@@ -1025,7 +1055,7 @@ ay başında, diğer maddeleri ise yayımı tarihinde yürürlüğe girer.
 
   5281                       23/7/2004 tarihinden itibaren geçerli olmak üzere 31/12/2004 tarihinde   31/12/2004                                                        31
 
-                                                                                                                                                                        
+  5335                       27/4/2005                                                                27/4/2005                                                         6, 7, 23, 27, Geçici Madde 3
 
                                                                                                                                                                         
 
