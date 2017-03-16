@@ -1,6 +1,6 @@
- **Anayasa Mahkemesinin 18/6/2013 tarihli ve **
+5969
 
-**E.: 2013/71, K.: 2013/77 sayılı Kararı ile değişik hali**
+ 
 
  
 
@@ -124,7 +124,7 @@ ilgili maddelerinde gösterilmiş işlemleri,
              Taşıma: Yükleme, taşıma, boşaltma, depolama ve bunlara
 ilişkin ambalaj işlerini,
 
-             Tahmin edilan bedel: İhale konusu olan işlerin tahmin
+             Tahmin edilen bedel: İhale konusu olan işlerin tahmin
 edilen bedelini ve yapım işlerinde keşif bedelini,
 
              Uygun bedel: Artırmalarda, tahmin edilen bedelden aşağı
@@ -267,12 +267,11 @@ BİRİNCİ BÖLÜM
 
              **Madde 9 –** Tahmin edilen bedel, idarelerce tespit edilir
 veya ettirilir. İşin özelliğine göre gerektiğinde bu bedel veya bu
-bedelin hesabında kullanılacak fiyatlar bedeliye, ticaret odası, sanayi
+bedelin hesabında kullanılacak fiyatlar belediye, ticaret odası, sanayi
 odası, borsa gibi kuruluşlardan veya bilirkişilerden soruşturulur.
 Tahmin edilen bedel, bunun dayanaklarının da eklendiği bir hesap
-tutanağında gösterilir ve asıl evrak arasında saklanır. Bu be-
-
-del gerektiğinde ihale komisyonlarınca tahkik ettirilir.
+tutanağında gösterilir ve asıl evrak arasında saklanır. Bu bedel
+gerektiğinde ihale komisyonlarınca tahkik ettirilir.
 
              Ancak, yapım işlerinde bu işler için kanunların verdiği
 yetkiye dayanılarak ilgili dairelerce tespit edilmiş birim fiyatları
@@ -1701,6 +1700,16 @@ veya ilgili bakanlık tarafından, bir yıla kadar ihalelere katılmaktan
 yasaklama kararı verilir ve bu kararlar Resmi Gazete'da ilan ettirildiği
 gibi ilgililerin müteahhitlik sicillerine işlenir.
 
+**(Ek: 26/2/2014-6527/8 md.)** 83 üncü maddede belirtilen fiil veya
+davranışlarda bulunanlar hariç olmak üzere, Türkiye genelinde faaliyet
+gösteren tüzel kişilerden; şube personeli, vekil, mümessil gibi yetkili
+temsilcilerin şahsi kusurlarından kaynaklanan ve bu maddenin üçüncü
+fıkrasında belirtilen fiil veya davranışları sebebiyle haklarında
+ihalelere katılmaktan yasaklama kararı verilmesi gerektiği idarece
+tespit edilenlerden, verilecek bir aylık süre içinde ihale bedelinin üç
+katı tutarında tazminatı peşin olarak ödeyenler hakkında ihaleden
+yasaklama kararı verilmez.
+
 5989
 
 İhaleyi yapan idareler, ihalelere katılmaktan yasaklamayı gerektirir bir
@@ -1845,6 +1854,17 @@ düzeltilir veya terkin edilir, tahsil edilmiş olanlar iade edilmez.
 
 5991
 
+**Geçici Madde 4-(Ek: 26/2/2014-6527/9 md.)**
+
+Bu maddenin yürürlüğe girdiği tarihten önce, 83 üncü maddede belirtilen
+fiil veya davranışlarda bulunanlar hariç olmak üzere, Türkiye genelinde
+faaliyet gösteren tüzel kişilerden; şube personeli, vekil, mümessil gibi
+yetkili temsilcilerin şahsi kusurlarından kaynaklanan ve 84 üncü
+maddenin üçüncü fıkrasında belirtilen fiil veya davranışları sebebiyle
+haklarında ihalelere katılmaktan yasaklama kararı verilmesi gerektiği
+idarece tespit edilenlerden henüz yasaklama kararı verilememiş olanlar
+hakkında da 84 üncü maddenin dördüncü fıkrası hükmü uygulanır.
+
 Kaldırılan hükümler:
 
 **Madde 94 –** a) 2/6/1934 tarih ve 2490 sayılı Kanun ile bu Kanunda ek
@@ -1897,6 +1917,8 @@ MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN **
   6009                                                                               72, 75, Geçici Madde 3                        1/8/2010
 
   Anayasa Mahkemesinin 18/6/2013 tarihli ve E.: 2013/71, K.: 2013/77 sayılı kararı   32                                            26/7/2013
+
+  6527                                                                               84, Geçici Madde 4                            1/3/2014
   ---------------------------------------------------------------------------------- --------------------------------------------- ----------------------------
 
 
