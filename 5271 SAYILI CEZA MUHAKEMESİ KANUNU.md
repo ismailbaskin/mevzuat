@@ -1,4 +1,4 @@
-5271 sayılı Kanunun 6352 sayılı Kanun ile Değişik Hali
+**6411 sayılı Kanun ile değişik hali**
 
 **CEZA MUHAKEMESİ KANUNU**
 
@@ -10,7 +10,7 @@
 
 **Yayımlandığı R.Gazete : Tarih : 17/12/2004 Sayı :25673 **
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 44 Sayfa:**
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 44 **
 
   
 
@@ -4023,9 +4023,29 @@ duruşmadaki iddia ve savunmaya ilişkin esaslı noktalar tercüme edilir.
 \(2) Engelli olan sanığa veya mağdura, duruşmadaki iddia ve savunmaya
 ilişkin esaslı noktalar, anlayabilecekleri biçimde anlatılır.
 
-\(3) Bu madde hükümleri, soruşturma evresinde dinlenen şüpheli, mağdur
-veya tanıklar hakkında da uygulanır. Bu evrede tercüman, hâkim veya
-Cumhuriyet savcısı tarafından atanır.
+\(3) Birinci ve ikinci fıkra hükümleri, soruşturma evresinde dinlenen
+şüpheli, mağdur veya tanıklar hakkında da uygulanır. Bu evrede tercüman,
+hâkim veya Cumhuriyet savcısı tarafından atanır.*^(1)^*
+
+\(4) **(Ek: 24/1/2013-6411/ 1 md.)** Ayrıca sanık;
+
+a\) İddianamenin okunması,
+
+b\) Esas hakkındaki mütalaanın verilmesi,
+
+üzerine sözlü savunmasını, kendisini daha iyi ifade edebileceğini beyan
+ettiği başka bir dilde yapabilir. Bu durumda tercüme hizmetleri, beşinci
+fıkra uyarınca oluşturulan listeden, sanığın seçeceği tercüman
+tarafından yerine getirilir. Bu tercümanın giderleri Devlet Hazinesince
+karşılanmaz. Bu imkân, yargılamanın sürüncemede bırakılması amacına
+yönelik olarak kötüye kullanılamaz.
+
+\(5) **(Ek: 24/1/2013-6411/ 1 md.)** Tercümanlar, il adlî yargı adalet
+komisyonlarınca her yıl düzenlenen listede yer alan kişiler arasından
+seçilirler. Cumhuriyet savcıları ve hâkimler yalnız bulundukları il
+bakımından oluşturulmuş listelerden değil, diğer illerde oluşturulmuş
+listelerden de tercüman seçebilirler. Bu listelerin düzenlenmesine
+ilişkin usul ve esaslar yönetmelikle belirlenir.
 
 ÜÇÜNCÜ BÖLÜM
 
@@ -4039,6 +4059,12 @@ tarafından sağlanır.
 \(2) Mahkeme başkanı veya hâkim, duruşmanın düzenini bozan kişinin,
 savunma hakkının kullanılmasını engellememek koşuluyla salondan
 çıkarılmasını emreder.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 24/1/2013 tarihli ve 6411 sayılı Kanunun 1 inci maddesiyle bu
+fıkrada yer alan “Bu madde hükümleri,” ibaresi “Birinci ve ikinci fıkra
+hükümleri,” şeklinde değiştirilmiştir.*
 
 9155
 
@@ -4591,8 +4617,6 @@ a\) Hükmü veren mahkemenin adı,
 b\) Hükmü veren mahkeme başkanının ve üyelerinin veya hâkimin, Cumhuriyet
 savcısının ve zabıt kâtibinin, katılanın, mağdurun, vekilinin, kanunî
 temsilcisinin ve müdafiin adı ve soyadı ile sanığın açık kimliği,
-
-9160-2
 
 9161
 
@@ -6395,10 +6419,10 @@ hangi tarihte cevap verilebileceği aynı süre içinde bildirilir. 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
+\(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
 sayılı Kararı ile bu maddenin birinci fıkrası iptal edilmiş olup iptal
 hükmünün, kararın Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden
-başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.*
+başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
 
 9185
 
@@ -6413,6 +6437,15 @@ kalmak üzere, doğrudan soruşturma yapılır.
 **Madde 333 –** (1) Bu Kanunda öngörülen yönetmelikler, aksine hüküm
 bulunmadıkça, ilgili bakanlıkların görüşü alınarak Adalet Bakanlığı
 tarafından çıkarılır.
+
+**Geçici Madde 1** – **(24/1/2013-6411/2 md.)**
+
+\(1) Bu Kanunun 202 nci maddesinin beşinci fıkrasında öngörülen
+yönetmelik, Adalet Bakanlığınca bu maddeyi ihdas eden Kanunun yürürlüğe
+girdiği tarihten itibaren bir ay içinde çıkarılır. Bu yönetmelik
+uyarınca tercüman listeleri oluşturuluncaya kadar bu Kanunun 202 nci
+maddesinin dördüncü fıkrasında düzenlenen tercüme hizmetleri sanığın
+kendisi tarafından getirilen tercüman tarafından yerine getirilir.
 
 *Yürürlük*
 
@@ -6456,6 +6489,14 @@ yargılama bakımından dava zamanaşımı hükümleri uygulanmaz.
 beraber hükme bağlanmış olan dosyalarda uzlaşma kapsamının
 genişlediğinden bahisle bozma kararı verilemez.
 
+–––––––––––––––––
+
+*(1) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
+5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+9186
+
 **GEÇİCİ MADDE 2-** Bu Kanunun yürürlüğe girdiği tarihte kovuşturma
 evresinde bulunan dava dosyaları hakkında:
 
@@ -6487,14 +6528,6 @@ dosyası hükmü veren mahkemeye gönderilir.
 maddesinde yapılan değişiklik hükümleri, yürürlüğe girdiği tarihte devam
 etmekte olan soruşturma ve kovuşturmalarda da uygulanır.
 
-–––––––––––––––––
-
-*(1) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
-5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde
-değiştirilmiş ve metne işlenmiştir.*
-
-9186-9216
-
 *(4) 6008 sayılı Kanunun Geçici 2 nci Maddesi:*
 
 **GEÇİCİ MADDE 2 –** Bu Kanunun yürürlüğe girdiği tarihe kadar hakkında
@@ -6505,40 +6538,28 @@ kararı geri alınır ve Ceza Muhakemesi Kanununun 231 inci maddesinin
 yedinci fıkrasındaki kayıtla bağlı olmaksızın, başvuruda bulunan sanık
 hakkında yeniden hüküm kurulur.
 
-**5271 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+9187
 
-**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+**5271 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-**Kanun Yürürlüğe**
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
-***No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi***
+**GÖSTERİR LİSTE**
 
-5328 334 31/3/2005
+  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------ ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5271 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                        **Yürürlüğe Giriş Tarihi**
+  5328                                                                         334                                                                                                                31/3/2005
+  5353                                                                         35,75,76,80,81,85,90,91,94,98,100,103,105, 109,119,127,135,137,142,143,151,153,161, 164,173,174,193,206, 223,247   1/6/2005
+  5560                                                                         6,100,102,109,146,150,171,231,253,254,309, 310,325 ve İşlenemeyen Hüküm                                            19/12/2006
+  5728                                                                         231 , İşlenemeyen Hükümler                                                                                         8/2/2008
+  5793                                                                         234 ve 239                                                                                                         6/8/2008
+  5918                                                                         3, 250, 253 ve İşlenemeyen Hüküm                                                                                   9/7/2009
+  6008                                                                         231, 250 ve İşlenemeyen Hüküm                                                                                      25/7/2010
+  6217                                                                         161, 173, 272                                                                                                      14/4/2011
+  KHK/650                                                                      331                                                                                                                1/1/2012
+  6352                                                                         38/A, 100, 101, 109, 250, 251, 252, 308, 324                                                                       5/7/2012
+  6411                                                                         202 ve Geçici Madde 1                                                                                              31/1/2013
+  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------ ----------------------------
 
-5353 35,75,76,80,81,85,90,91,94,98,100,103,105,
 
-109,119,127,135,137,142,143,151,153,161,
-
-164,173,174,193,206,223,247 1/6/2005
-
-**Değiştiren Kanun Yürürlüğe**
-
-***No. 5271 sayılı Kanunun değiştirilen maddeleri giriş tarihi***
-
-5560 6,100,102,109,146,150,171,231,253,254,309,
-
-310,325 ve İşlenemeyen Hüküm 19/12/2006
-
-5728 231 , İşlenemeyen Hükümler 8/2/2008
-
-5793 234 ve 239 6/8/2008
-
-5918 3, 250, 253 ve İşlenemeyen Hüküm 9/7/2009
-
-6008 231, 250 ve İşlenemeyen Hüküm 25/7/2010
-
-6217 161, 173, 272 14/4/2011
-
-KHK/650 331 1/1/2012
-
-6352 38/A, 100, 101, 109, 250, 251, 252, 308, 324 5/7/2012
