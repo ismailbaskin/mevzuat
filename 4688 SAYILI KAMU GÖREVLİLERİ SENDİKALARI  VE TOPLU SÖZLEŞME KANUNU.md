@@ -1,4 +1,4 @@
-**5538 sayılı Kanun ile değişik hali**
+**5620 sayılı Kanun ile değişik hali**
 
 **KAMU GÖREVLİLERİ SENDİKALARI KANUNU**
 
@@ -40,8 +40,8 @@ işçi statüsü dışında çalışan kamu görevlileri hakkında uygulanır.
 **MADDE 3** - Bu Kanunun uygulanmasında;
 
 a\) Kamu Görevlisi : Kamu kurum ve kuruluşlarının işçi statüsü dışındaki
-bir kadro veya pozisyonunda daimî suretle çalışan, adaylık veya deneme
-süresini tamamlamış kamu görevlilerini,
+bir kadro veya sözleşmeli personel pozisyonunda çalışan, adaylık veya
+deneme süresini tamamlamış kamu görevlilerini, ^(1)^
 
 b\) Kamu İşvereni : Kamu görevlilerinin çalıştığı tüzel kişiliği olan ya
 da olmayan kamu kurum ve kuruluşlarını,
@@ -88,6 +88,12 @@ Kamu işveren vekilleri bu Kanun bakımından kamu işvereni, hizmetin
 niteliği ve yürütülmesi bakımından bağlı tüm birimler ise asıl
 işyerinden sayılır. Kamu işvereninin birden fazla işyeri varsa, bu Kanun
 bakımından bu işyerlerinin tamamı işyerinden sayılır.
+
+––––––––––––––––––
+
+*(1) 4/4/2007 tarihli ve 5620 sayılı Kanunun 4 üncü maddesiyle, bu
+bentte yer alan "pozisyonunda daimi suretle" ibaresi "sözleşmeli
+personel pozisyonunda" şeklinde değiştirilmiştir.*
 
 **İKİNCİ KISIM**
 
@@ -1325,6 +1331,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4688 sayılı Kanunun değişen veya iptal edilen maddeleri**    **Yürürlüğe Giriş Tarihi**
   5198                                                                         14, 16, 18, 25, 30, 35, GEÇİCİ MADDE 9, İŞLENEMEYEN HÜKÜMLER   6/7/2007
   5538                                                                         25, GEÇİCİ MADDE 10                                            12/7/2006
+  5620                                                                         25                                                             21/4/2007
   ---------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------
 
 
