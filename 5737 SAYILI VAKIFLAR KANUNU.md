@@ -1,4 +1,5 @@
-5737 sayılı Kanunun 6111 sayılı Kanun İle Değişik Hali
+5737 sayılı Kanunun Anayasa Mahkemesinin 17/6/2010 tarihli ve E.:
+2008/22, K.: 2010/82 sayılı Kararı ile Değişik Hali
 
 **VAKIFLAR KANUNU**
 
@@ -1299,13 +1300,12 @@ sayılı Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararnamenin
 Değiştirilerek Kabulü Hakkında Kanunun 31 inci maddesinde yer alan fazla
 çalışma ücreti aynı usûl ve esaslara göre ödenir.
 
-**Atamalar **
+**Atamalar** *^(1)^*
 
 **MADDE 68 –** Genel Müdür, Genel Müdür Yardımcısı, I. Hukuk Müşaviri
-ile Bölge Müdürü ortak kararnameyle, Rehberlik ve Teftiş Başkanı ile
-Daire Başkanı, Genel Müdürün teklifi Başbakanın veya görevlendirdiği
-Devlet Bakanının onayıyla, diğer personel ise Genel Müdür tarafından
-atanır.
+ile Bölge Müdürü ortak kararnameyle, (…) *^(1)^* Daire Başkanı, Genel
+Müdürün teklifi Başbakanın veya görevlendirdiği Devlet Bakanının
+onayıyla, diğer personel ise Genel Müdür tarafından atanır.
 
 **Vakıf Uzmanı ve Vakıf Uzman Yardımcısı **
 
@@ -1377,6 +1377,12 @@ mazereti olmaksızın sınava girmeyenler, yapılan iki sınavda da başarılı
 olamayanlar veya Müfettiş Yardımcılığı süresi içerisinde olumsuz sicil
 alanlar bu unvanlarını kaybederler ve durumlarına uygun memur
 kadrolarına atanırlar.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Anayasa Mahkemesi’nin 17/6/2010 tarihli E.:2008/22 K.: 2010/82
+sayılı Kararı ile Bu maddede yer alan “… Rehberlik ve Teftiş Başkanı ile
+…” ibaresi iptal edilmiştir.*
 
 **Kadro iptal ve ihdasları**
 
@@ -1825,38 +1831,38 @@ gelirlerinin tespitine ilişkin davalarda da uygulanır.
   
   --------------------------------------------------------------------------------------------------------------------------------------------
 
-  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
-  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5737 sayılı Kanunun değiştirilen maddeleri**
-                                                                                                                                             
-                                                                           **Resmi Gazete Tarihi**                                           
+  -------------------------- --------------------------------------------- ------------------------- ------------------------------------------------------------ ------------------------------------------------
+  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**                        **5737 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                                                  
+                                                                           **Resmi Gazete Tarihi**                                                                
 
-  5917                       1/7/2009                                      10/7/2009                                                         \(III) Sayılı Cetvel
+  5917                       1/7/2009                                      10/7/2009                                                                              \(III) Sayılı Cetvel
 
-  6111                       25/2/2011                                     25/2/2011                                                         7, Geçici Madde 10
+  6111                       25/2/2011                                     25/2/2011                                                                              7, Geçici Madde 10
 
-                                                                                                                                             
+                             11/7/2011                                     11/1/2011                 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Karar   68
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
+                                                                                                                                                                  
 
-                                                                                                                                             
-  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+                                                                                                                                                                  
+  -------------------------- --------------------------------------------- ------------------------- ------------------------------------------------------------ ------------------------------------------------
 
 
