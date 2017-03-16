@@ -1,4 +1,4 @@
-**4857 sayılı kanunun 4884 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 5378 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -2336,12 +2336,14 @@ para cezası verilir.
 
 **İdari para cezalarının uygulanmasına ilişkin hususlar **
 
-**MADDE 108. -** Bu Kanunda öngörülen idari nitelikteki para cezaları
-gerekçesi belirtilmek suretiyle Çalışma ve Sosyal Güvenlik Bakanlığı
-Bölge Müdürünce verilir.
+**MADDE 108. –** **(Değişik birinci fıkra: 1/7/2005-5378/39 md.)** Bu
+Kanunda öngörülen idari para cezaları, 101 inci maddedeki idari para
+cezaları hariç, gerekçesi belirtilmek suretiyle Çalışma ve Sosyal
+Güvenlik Bakanlığı Bölge Müdürünce verilir. 101 inci madde kapsamındaki
+idari para cezaları ise, doğrudan Türkiye İş Kurumu İl Müdürü tarafından
+verilir.
 
-Bu Kanunda yazılı olan idari para cezaları o yerin Çalışma ve Sosyal
-Güvenlik Bakanlığı Bölge Müdürü tarafından verilir. Verilen idari para
+**(Mülga birinci cümle: 1/7/2005-5378/39 md.) (…)** Verilen idari para
 cezalarına dair kararlar ilgililere 11.2.1959 tarihli ve 7201 sayılı
 Tebligat Kanunu hükümlerine göre tebliğ edilir. Bu cezalara karşı tebliğ
 tarihinden itibaren en geç yedi gün içinde yetkili idare mahkemesine
@@ -2503,6 +2505,8 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
                            **Resmi Gazete Tarihi**                                                                                     
 
   1.     4884              17/6/2003                 17/6/2003                                -                                        3
+
+  1.     5378              7/7/2005                  7/7/2005                                 -                                        108
   ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------
 
 
