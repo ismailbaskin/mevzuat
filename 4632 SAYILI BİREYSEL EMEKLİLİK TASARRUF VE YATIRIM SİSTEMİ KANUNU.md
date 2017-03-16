@@ -1,4 +1,5 @@
-5728 sayılı Kanun ile değişik hali
+[]{#1 .anchor}**Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17,
+K.: 2010/44 sayılı Kararı ile değişik hali**
 
 BİREYSEL EMEKLİLİK TASARRUF VE
 
@@ -379,6 +380,15 @@ kararlarına göre fon portföyünü yönetmesini sağlamakla,
 
 d\) Katılımcılarının bireysel emeklilik hesaplarına ait günlük bilgilere
 erişimine olanak sağlamakla,
+
+*––––––––––––––*
+
+*(1) 1/12/2010 tarihli ve 27772 sayılı Resmi Gazete’de yayımlanan
+Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44
+sayılı Kararı ile, bu alt bentte yer alan “ … milli savunmaya karşı
+suçlar, devlet sırlarına karşı suçlar ve casusluk, …” ibaresi iptal
+edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 1/12/2010 tarihinden
+başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.*
 
 e\) Fon portföyünde yer alan varlıklar, fonun performansı, malî tabloları
 gibi konularda katılımcılara düzenli bilgi verilmesini sağlamakla,
@@ -1045,6 +1055,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4632 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5684                                                                         2, 5, 6, 17, 18, 20/A, Geçici Madde 1                         14/6/2007
   5728                                                                         8, 22, 23, 24                                                 8/2/2008
+  Anayasa Mah.’nin E.: 2008/17, K.: 2010/44 sayılı Kararı                      8                                                             1/12/2011
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
