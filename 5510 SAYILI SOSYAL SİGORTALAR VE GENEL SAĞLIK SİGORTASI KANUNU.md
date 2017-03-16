@@ -1,4 +1,4 @@
-**5917 sayılı Kanun ile değişik hali**
+**5921 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -6367,6 +6367,30 @@ bildirimlerini en geç on gün içinde Kuruma yaparlar.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça çıkarılacak
 yönetmelikle belirlenir.
 
+**EK MADDE 2 –** **(Ek: 11/8/2009-5921/3 md.)**
+
+Yatırımlarda Devlet yardımları hakkında kararlar çerçevesinde teşvik
+edilen yatırımlara bağlı olarak gerçekleştirilecek istihdam için, 5510
+sayılı Kanunun 81 inci maddesinde sayılan ve 82 nci maddesi uyarınca
+belirlenen prime esas kazanç alt sınırı üzerinden hesaplanan sigorta
+primlerinin işveren hisselerinin tamamına kadar olan kısmı Hazinece
+karşılanır. Hazinece karşılanacak tutarın uygulama süresini, karşılama
+oranını ve kapsamını; yatırımın sektörü, büyüklüğü ve bulunduğu illere
+göre farklılaştırmaya Bakanlar Kurulu yetkilidir.
+
+İşveren hissesine ait primlerin karşılanabilmesi için işverenlerin,
+çalıştırdıkları sigortalılarla ilgili olarak 5510 sayılı Kanun uyarınca
+aylık prim ve hizmet belgelerini yasal süresi içerisinde Sosyal Güvenlik
+Kurumuna vermesi ve sigortalıların tamamına ait sigorta primlerinin
+sigortalı hissesine isabet eden tutarın Hazinece karşılanmayan işveren
+hissesine ait tutarını ödemiş olması şarttır. Bu maddeye göre işveren
+tarafından ödenmesi gereken primlerin geç ödenmesi halinde, Hazineden
+Sosyal Güvenlik Kurumuna yapılacak ödemenin gecikmesinden kaynaklanan
+gecikme zammı, işverenden tahsil edilir.
+
+Bu maddenin uygulanmasına ilişkin usul ve esaslar Hazine Müsteşarlığı
+tarafından belirlenir.
+
 **Malûllük, yaşlılık ve ölüm sigortasına ilişkin bazı geçiş hükümleri**
 
 **GEÇİCİ MADDE 1-** **(Değişik: 17/4/2008-5754/68 md.)**
@@ -6540,6 +6564,13 @@ olarak yeniden çalışmaya başlayanlar ile bunların dul ve yetimleri
 hakkında bu Kanunla yürürlükten kaldırılan hükümleri de dahil 5434
 sayılı Kanun hükümlerine göre işlem yapılır.
 
+––––––––––––––––
+
+*(1) Bu madde başlığı “Önceki mevzuat hükümlerinin uygulanması, Devlet
+katkısı ve geçici iş göremezlik ödeneği” iken, 17/4/2008 tarihli ve 5754
+sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
 Bu madde kapsamına girenlerin aylıklarının bağlanması, artırılması,
 azaltılması, kesilmesi, yeniden bağlanması, toptan ödemeleri, ilgi
 devamı, ihya ve borçlanmaları, diğer ödemeler ve yardımlar ile emeklilik
@@ -6567,13 +6598,6 @@ b\) % 40 ilâ % 49 arasında olduğu anlaşılan sigortalılar, en az 6480,
 
 gün uzun vadeli sigorta kolları primi bildirilmiş olması kaydıyla,
 haklarında bu fıkra hükümleri uygulanır.
-
-––––––––––––––––
-
-*(1) Bu madde başlığı “Önceki mevzuat hükümlerinin uygulanması, Devlet
-katkısı ve geçici iş göremezlik ödeneği” iken, 17/4/2008 tarihli ve 5754
-sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
 
 Bu Kanunun yürürlüğe girdiği tarihte kamu idarelerinde hizmet akdi ile
 veya sözleşmeli olarak çalışanlardan; ilgili kanunları gereği 5434
@@ -6640,30 +6664,31 @@ oldukları tarihten itibaren 5434 sayılı Kanunun bu Kanunla yürürlükten
 kaldırılan ek 68 inci maddesinde belirtilen şartlar da dikkate alınarak,
 emsali belediye başkanının almakta olduğu makam tazminatı ve buna bağlı
 olarak temsil veya görev tazminatı tutarı, almakta oldukları emeklilik
-veya yaşlılık aylıklarına ilâve edilmek suretiyle ödenir. Bu Kanunun
+veya yaşlılık aylıklarına ilâve edilmek suretiyle ödenir.
+
+Bu Kanunun yürürlük tarihinden önce seçimler neticesinde belediye
+başkanı olarak görev yapmış olup, bu Kanuna göre sigortalı iken yaşlılık
+aylığı bağlananlardan; 5434 sayılı Kanunun bu Kanunla yürürlükten
+kaldırılan 39 uncu maddesine göre aylık bağlanması şartlarını haiz
+olanlara bu Kanunun geçici 2 nci ve geçici 4 üncü maddeleri hükümleri de
+dikkate alınarak bu fıkrada belirtilen şartlar dahilinde söz konusu
+tazminatlar aylıklarına ilâve edilmek suretiyle ödenir. Bu Kanunun
 yürürlük tarihinden önce seçimler neticesinde belediye başkanı olarak
-görev yapmış olup, bu Kanuna göre sigortalı iken yaşlılık aylığı
-bağlananlardan; 5434 sayılı Kanunun bu Kanunla yürürlükten kaldırılan 39
-uncu maddesine göre aylık bağlanması şartlarını haiz olanlara bu Kanunun
-geçici 2 nci ve geçici 4 üncü maddeleri hükümleri de dikkate alınarak bu
-fıkrada belirtilen şartlar dahilinde söz konusu tazminatlar aylıklarına
-ilâve edilmek suretiyle ödenir. Bu Kanunun yürürlük tarihinden önce
-seçimler neticesinde belediye başkanı olarak görev yapmış  olanlardan
-ölenlerin  bu  Kanunun 32 nci maddesinde belirtilen şartlara sahip
-olmaları halinde, 5434 sayılı Kanunun bu Kanunla yürürlükten kaldırılan
-ek 68 inci maddesinde belirtilen şartlar da dikkate alınarak, hak
-sahiplerine bu Kanunun 34 üncü, geçici 1 inci, geçici 2 nci ve geçici 4
-üncü maddeleri hükümlerine göre söz konusu tazminatlar bu Kanunun
-yürürlük tarihinden önce ölenler için bu Kanunun yürürlük tarihinden
-itibaren, bu Kanunun yürürlük tarihinden sonra ölenler için ise ölüm
-tarihinden itibaren ölüm aylıklarına eklenmek suretiyle ödenir. Bu
-Kanunun yürürlüğe girdiği tarihten önce seçimler neticesinde belediye
-başkanı olarak görev yapmış olanlardan; malûllük aylığı almakta olanlar
-ile malûllük aylığına hak kazanacaklar 5434 sayılı Kanunun bu Kanunla
-yürürlükten kaldırılan 39 uncu maddesinde belirtilen aylık bağlamaya
-ilişkin şartlar dikkate alınmaksızın yukarıda belirtilen tazminat
-haklarından yararlandırılır. Bu fıkraya göre tazminat tutarları
-ödendikçe Hazineden tahsil edilir.
+görev yapmış  olanlardan ölenlerin  bu  Kanunun 32 nci maddesinde
+belirtilen şartlara sahip olmaları halinde, 5434 sayılı Kanunun bu
+Kanunla yürürlükten kaldırılan ek 68 inci maddesinde belirtilen şartlar
+da dikkate alınarak, hak sahiplerine bu Kanunun 34 üncü, geçici 1 inci,
+geçici 2 nci ve geçici 4 üncü maddeleri hükümlerine göre söz konusu
+tazminatlar bu Kanunun yürürlük tarihinden önce ölenler için bu Kanunun
+yürürlük tarihinden itibaren, bu Kanunun yürürlük tarihinden sonra
+ölenler için ise ölüm tarihinden itibaren ölüm aylıklarına eklenmek
+suretiyle ödenir. Bu Kanunun yürürlüğe girdiği tarihten önce seçimler
+neticesinde belediye başkanı olarak görev yapmış olanlardan; malûllük
+aylığı almakta olanlar ile malûllük aylığına hak kazanacaklar 5434
+sayılı Kanunun bu Kanunla yürürlükten kaldırılan 39 uncu maddesinde
+belirtilen aylık bağlamaya ilişkin şartlar dikkate alınmaksızın yukarıda
+belirtilen tazminat haklarından yararlandırılır. Bu fıkraya göre
+tazminat tutarları ödendikçe Hazineden tahsil edilir.
 
 Bu Kanunun yürürlüğe girdiği tarihten önceki dönemlere ait 5434 sayılı
 Kanundan kaynaklanan alacakların takip ve tahsil işlemleri 5434 sayılı
@@ -7049,12 +7074,6 @@ hükümler geçerlidir.
 Birinci ve ikinci fıkraya göre bağlanan aylıkların aylık bağlama oranı,
 5400 gün üzerinden hesaplanan orandan az olamaz.
 
-**(Ek fıkra: 17/4/2008-5754/71 md.)** Bu Kanunun yürürlüğe girdiği
-tarihten önce, malûllük durumlarının tespiti için talepte bulunan ve bu
-Kanunun yürürlük tarihinden sonra malûl olduklarına karar verilenler
-hakkında 506 ve 2925 sayılı kanunlardaki diğer şartları da taşımaları
-halinde anılan kanunlara göre malûllük aylığı bağlanır.
-
 –––––––––––––––––––
 
 *(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 70 inci maddesiyle, bu
@@ -7065,6 +7084,12 @@ değiştirilmiş ve metne işlenmiştir.*
 ile sosyal güvenlik destek primi ödemesi geçiş hükümleri” iken,
 17/4/2008 tarihli ve 5754 sayılı Kanunun 71 inci maddesiyle metne
 işlendiği şekilde değiştirilmiştir.*
+
+**(Ek fıkra: 17/4/2008-5754/71 md.)** Bu Kanunun yürürlüğe girdiği
+tarihten önce, malûllük durumlarının tespiti için talepte bulunan ve bu
+Kanunun yürürlük tarihinden sonra malûl olduklarına karar verilenler
+hakkında 506 ve 2925 sayılı kanunlardaki diğer şartları da taşımaları
+halinde anılan kanunlara göre malûllük aylığı bağlanır.
 
 55 inci maddenin dördüncü fıkrasındaki malûllük aylığı alt sınırı ile 33
 üncü maddesinin ikinci fıkrasındaki ölüm aylığı alt sınırı 17/10/1983
@@ -7937,6 +7962,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                      102 ve Ek Madde 1                                                          1/8/2009
 
   5917                                                                               68, 100, 102                                                               10/7/2009
+
+  5921                                                                               Ek Madde 2                                                                 18/8/2009
   ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- ----------------------------------------------------
 
 
