@@ -1,4 +1,6 @@
-9971
+**Anayasa Mahkemesi’nin 27/12/2012 tarihli ve **
+
+**E.: 2011/139, K.: 2012/205 sayılı Kararı ile değişik hali**
 
  
 
@@ -142,81 +144,65 @@ yönetmelikle belirlenir.
 
  
 
-**            Bilgi ve belge verme **
+**             Bilgi ve belge verme **
 
-**MADDE 7 –** (1) Kamu kurum ve kuruluşları, gerçek ve tüzel kişiler ile
-tüzel kişiliği olmayan kuruluşlar, Başkanlık ve denetim elemanları
-tarafından istenilecek her türlü bilgi, belge ve bunlara ilişkin her
-türlü ortamdaki kayıtları, bu kayıtlara erişimi sağlamak veya okunabilir
-hale getirmek için gerekli tüm bilgi ve şifreleri tam ve doğru olarak
-vermek ve gerekli kolaylığı sağlamakla yükümlüdür.
+**             MADDE 7 –** (1) Kamu kurum ve kuruluşları, gerçek ve
+tüzel kişiler ile tüzel kişiliği olmayan kuruluşlar, Başkanlık ve
+denetim elemanları tarafından istenilecek her türlü bilgi, belge ve
+bunlara ilişkin her türlü ortamdaki kayıtları, bu kayıtlara erişimi
+sağlamak veya okunabilir hale getirmek için gerekli tüm bilgi ve
+şifreleri tam ve doğru olarak vermek ve gerekli kolaylığı sağlamakla
+yükümlüdür.
 
-\(2) Yukarıdaki fıkraya göre talepte bulunulanlar savunma hakkına ilişkin
-hükümler saklı kalmak kaydıyla, özel kanunlarda yazılı hükümleri ileri
-sürerek bilgi ve belge vermekten kaçınamazlar.
+             (2) Yukarıdaki fıkraya göre talepte bulunulanlar savunma
+hakkına ilişkin hükümler saklı kalmak kaydıyla, özel kanunlarda yazılı
+hükümleri ileri sürerek bilgi ve belge vermekten kaçınamazlar.
 
-**Muhafaza ve ibraz**
+**             Muhafaza ve ibraz**
 
-**MADDE 8 –** (1) Yükümlüler, bu Kanunla getirilen yükümlülüklere ve
-işlemlerine ilişkin her türlü ortamdaki; belgeleri düzenleme tarihinden,
-defter ve kayıtları son kayıt tarihinden, kimlik tespitine ilişkin
-belgeleri ise son işlem tarihinden itibaren sekiz yıl süreyle muhafaza
-ve istenmesi halinde yetkililere ibraz etmekle yükümlüdür.
+**             MADDE 8 –** (1) Yükümlüler, bu Kanunla getirilen
+yükümlülüklere ve işlemlerine ilişkin her türlü ortamdaki; belgeleri
+düzenleme tarihinden, defter ve kayıtları son kayıt tarihinden, kimlik
+tespitine ilişkin belgeleri ise son işlem tarihinden itibaren sekiz yıl
+süreyle muhafaza ve istenmesi halinde yetkililere ibraz etmekle
+yükümlüdür.
 
-**Erişim sistemi**
+**             Erişim sistemi**
 
-**MADDE 9 –** (1) Kanunları veya faaliyet konuları gereğince, ekonomik
-olaylara, servet unsurlarına, vergi mükellefiyetlerine, nüfus
-bilgilerine ve yasa dışı faaliyetlere ilişkin kayıt tutan kamu kurum ve
-kuruluşları ile kamu kurumu niteliğindeki kurum ve kuruluşların bilgi
-işlem sistemlerine Bakanlık ve ilgili Bakanlığın veya kamu kurumu
-niteliğindeki kurum ve kuruluşların yetkili organlarının birlikte
-belirleyeceği usûl ve esaslar dahilinde Başkanlıkça erişim sistemi
-kurulabilir.
+**             MADDE 9 –** (1) Kanunları veya faaliyet konuları
+gereğince, ekonomik olaylara, servet unsurlarına, vergi
+mükellefiyetlerine, nüfus bilgilerine ve yasa dışı faaliyetlere ilişkin
+kayıt tutan kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki
+kurum ve kuruluşların bilgi işlem sistemlerine Bakanlık ve ilgili
+Bakanlığın veya kamu kurumu niteliğindeki kurum ve kuruluşların yetkili
+organlarının birlikte belirleyeceği usûl ve esaslar dahilinde
+Başkanlıkça erişim sistemi kurulabilir.
 
-\(2) Türkiye Cumhuriyet Merkez Bankası hariç kamu sermayeli bankalar ile
-kamu iktisadî teşebbüsleri birinci fıkra kapsamı dışındadır.
+             (2) Türkiye Cumhuriyet Merkez Bankası hariç kamu sermayeli
+bankalar ile kamu iktisadî teşebbüsleri birinci fıkra kapsamı
+dışındadır.
 
-**Elektronik tebligat**
+**             Yükümlülerin korunması**
 
-**MADDE 9/A- (Ek: 18/6/2014-6545/87 md.)**
+**             MADDE 10 –** (1) Bu Kanun gereğince yükümlülüklerini
+yerine getiren gerçek ve tüzel kişiler hiçbir şekilde hukukî ve cezaî
+bakımdan sorumlu tutulamaz.
 
-\(1) Bu Kanun ve 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının
-Önlenmesi Hakkında Kanunun uygulanması kapsamında yapılacak tebligatlar,
-11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 7/A maddesinde
-düzenlenen elektronik tebligata ilişkin usullere bağlı olmaksızın,
-elektronik ortamda tebliğ edilebilir ve tebligata elektronik ortamda
-cevap verilmesi istenebilir. Bu şekilde yapılan tebligatlar karşı tarafa
-ulaştığında tebliğ edilmiş sayılır.
+             (2) Özel kanunlarda hüküm bulunsa dahi şüpheli işlem
+bildiriminde bulunanlara dair, mahkeme dışında, üçüncü kişi, kurum ve
+kuruluşlara bilgi verilemez. Bu kişilerin kimliklerinin saklı tutulması
+ve güvenliklerinin sağlanması için mahkemece gerekli önlemler alınır.
 
-\(2) Başkanlık, elektronik ortamda yapılacak tebligatla ilgili her türlü
-teknik altyapıyı kurmaya veya kurulmuş olanları kullanmaya, tebliğe
-elverişli elektronik adres kullanma ve cevapların elektronik ortamda
-verilmesi zorunluluğu getirmeye, elektronik ortamda tebliğ yapılacaklar
-ile elektronik ortamdaki tebligata ilişkin diğer usul ve esasları
-belirlemeye yetkilidir.
+**             Yükümlülük denetimi **
 
-**Yükümlülerin korunması**
+**             MADDE  11 –** (1) **(Değişik: 7/7/2011 - KHK - 646/10
+md.)** Bu Kanun ve ilgili mevzuatla getirilen yükümlülüklerin denetimi,
+2 nci maddede sayılan denetim elemanları vasıtasıyla yerine getirilir.
 
-**MADDE 10 –** (1) Bu Kanun gereğince yükümlülüklerini yerine getiren
-gerçek ve tüzel kişiler hiçbir şekilde hukukî ve cezaî bakımdan sorumlu
-tutulamaz.
-
-\(2) Özel kanunlarda hüküm bulunsa dahi şüpheli işlem bildiriminde
-bulunanlara dair, mahkeme dışında, üçüncü kişi, kurum ve kuruluşlara
-bilgi verilemez. Bu kişilerin kimliklerinin saklı tutulması ve
-güvenliklerinin sağlanması için mahkemece gerekli önlemler alınır.
-
-**Yükümlülük denetimi **
-
-**MADDE 11 –** (1) **(Değişik: 7/7/2011 - KHK - 646/10 md.)** Bu Kanun
-ve ilgili mevzuatla getirilen yükümlülüklerin denetimi, 2 nci maddede
-sayılan denetim elemanları vasıtasıyla yerine getirilir.
-
-\(2) Başkanlık, yükümlüler nezdinde yapılacak denetimin münferiden veya
-bir denetim programı kapsamında yapılmasını isteyebilir. Kendisinden
-talepte bulunulan birim bu talebin gereğini yerine getirmek zorundadır.
-**(Değişik üçüncü cümle: 7/7/2011 - KHK - 646/10 md.)**
+             (2) Başkanlık, yükümlüler nezdinde yapılacak denetimin
+münferiden veya bir denetim programı kapsamında yapılmasını isteyebilir.
+Kendisinden talepte bulunulan birim bu talebin gereğini yerine getirmek
+zorundadır. **(Değişik üçüncü cümle: 7/7/2011 - KHK - 646/10 md.)**
 Görevlendirilecek denetim elemanları Başkanlığın talebi üzerine ilgili
 birim amirinin teklifi ve bağlı veya ilgili bulundukları Bakanın onayı
 ile belirlenir.
@@ -225,7 +211,7 @@ ile belirlenir.
 
  
 
-            (3) Yükümlülük denetimiyle görevlendirilen denetim
+             (3) Yükümlülük denetimiyle görevlendirilen denetim
 elemanları, bu Kanun kapsamında kamu kurum ve kuruluşları da dahil
 gerçek ve tüzel kişilerden ve tüzel kişiliği olmayan kuruluşlardan her
 türlü bilgi, belge ve kanunî defterleri istemeye ve bunlar nezdinde her
@@ -233,75 +219,58 @@ türlü evrak ve kayıtları incelemeye, ilgililerden yazılı ve sözlü bilgi
 almaya yetkili olup ayrıca diğer kanunların kendilerine verdiği
 yetkileri de kullanır.
 
-\(4) Denetim elemanları, kendi görev alanlarına ilişkin olarak
-kurumlarınca verilen görevleri yaparken tespit ettikleri yükümlülük
-ihlâllerini Başkanlığa bildirir.
+             (4) Denetim elemanları, kendi görev alanlarına ilişkin
+olarak kurumlarınca verilen görevleri yaparken tespit ettikleri
+yükümlülük ihlâllerini Başkanlığa bildirir.
 
-**Uluslararası bilgi değişimi**
+**             Uluslararası bilgi değişimi**
 
-**MADDE 12 –** (1) Başkanlığın görev alanına giren konularda
-uluslararası bilgi değişimini teminen, yabancı ülkelerdeki muadil
-kurumlarla uluslararası antlaşma niteliğinde olmayan mutabakat
+**             MADDE 12 –** (1) Başkanlığın görev alanına giren
+konularda uluslararası bilgi değişimini teminen, yabancı ülkelerdeki
+muadil kurumlarla uluslararası antlaşma niteliğinde olmayan mutabakat
 muhtıraları imzalamaya ve imzalanan mutabakat muhtıralarını değiştirmeye
 Malî Suçları Araştırma Kurulu Başkanı yetkilidir. İmzalanacak mutabakat
 muhtıraları ve değişiklikleri Bakanlar Kurulu kararıyla yürürlüğe girer.
+
+ 
 
 **ÜÇÜNCÜ BÖLÜM**
 
 **Cezalar, Elkoyma ve Kararların Bildirimi**
 
-**Yükümlülük ihlâlinde idarî ceza **
+**             Yükümlülük ihlâlinde idarî ceza **
 
-**MADDE 13 –** (1) Bu Kanunun 3 ve 6 ncı maddeleri ile 4 üncü maddesinin
-birinci fıkrasında yer alan yükümlülüklerden herhangi birini ihlâl eden
-yükümlülere Başkanlıkça beşbin Yeni Türk Lirası idarî para cezası
-verilir. Yükümlünün banka, finansman şirketi, faktoring şirketi,
-ikrazatçı, finansal kiralama şirketi, sigorta ve reasürans şirketi,
-emeklilik şirketi, sermaye piyasası kurumu veya yetkili müessese olması
-halinde, idarî para cezası iki kat olarak uygulanır.
+**             MADDE 13 –** (1) Bu Kanunun 3 ve 6 ncı maddeleri ile 4
+üncü maddesinin birinci fıkrasında yer alan yükümlülüklerden herhangi
+birini ihlâl eden yükümlülere Başkanlıkça beşbin Yeni Türk Lirası idarî
+para cezası verilir. Yükümlünün banka, finansman şirketi, faktoring
+şirketi, ikrazatçı, finansal kiralama şirketi, sigorta ve reasürans
+şirketi, emeklilik şirketi, sermaye piyasası kurumu veya yetkili
+müessese olması halinde, idarî para cezası iki kat olarak uygulanır.
 
-\(2) **(Mülga: 18/6/2014-6545/88 md.)**
+             (2) Bu Kanunun 3 üncü maddesi ile 4 üncü maddesinin birinci
+fıkrasında yer alan yükümlülüklere uyulmaması durumunda yükümlülüğü
+yerine getirmeyen görevliye de ayrıca ikibin Yeni Türk Lirası idarî para
+cezası verilir.
 
-\(3) Bu Kanunun 5 inci maddesinde yer alan yükümlülüklere uymayan
-yükümlülere, eksikliklerin giderilmesi ve gerekli tedbirlerin alınması
-için 30 günden az olmamak üzere süre verilir. Verilen süre içinde
-eksiklikleri gidermeyen ve gerekli tedbirleri almayan yükümlülere
+             (3) Bu Kanunun 5 inci maddesinde yer alan yükümlülüklere
+uymayan yükümlülere, eksikliklerin giderilmesi ve gerekli tedbirlerin
+alınması için 30 günden az olmamak üzere süre verilir. Verilen süre
+içinde eksiklikleri gidermeyen ve gerekli tedbirleri almayan yükümlülere
 birinci fıkra hükümleri uygulanır.
 
-\(4) **(Değişik: 18/6/2014-6545/88 md.)** Bu Kanunun 9/A maddesi
-gereğince getirilen elektronik tebligata ilişkin yükümlülüklerini yerine
-getirmediği tespit edilen kişi, kurum veya kuruluşlara Başkanlık
-tarafından her bir tespit için on bin Türk lirası idari para cezası
-uygulanır. Bu şekilde bir yıl içinde uygulanacak idari para cezasının
-toplam tutarı iki yüz elli bin Türk lirasını geçemez.
+             (4) Yükümlülüğün ihlâl edildiği tarihten itibaren beş yıl
+geçtikten sonra idarî para cezası verilemez.
 
-\(5) **(Ek: 18/6/2014-6545/88 md.)** Maddenin ilk üç fıkrası kapsamında
-uygulanacak idari para cezasının toplam tutarı; her bir yükümlülük için,
-ihlalin yapıldığı yıl itibarıyla, birinci fıkra kapsamında iki kat
-olarak uygulanacak yükümlüler için on milyon Türk lirasını, bunlar
-dışında kalan yükümlüler için bir milyon Türk lirasını aşamaz. Üst
-tutardan ceza uygulanan yükümlüler nezdinde takip eden yılda aynı
-neviden bir yükümlülük ihlali olması durumunda bu hadler iki kat olarak
-uygulanır.
+             (5) Bu madde ile ilgili diğer usûl ve esaslar Bakanlık
+tarafından çıkarılacak yönetmelikle belirlenir.
 
-\(6) **(Ek: 18/6/2014-6545/88 md.)**Yükümlülüğün ihlal edildiği tarihten
-itibaren beş yıl geçtikten sonra idari para cezası verilemez.
+**             Yükümlülük ihlâlinde adlî ceza**
 
-\(7) Bu madde ile ilgili diğer usûl ve esaslar Bakanlık tarafından
-çıkarılacak yönetmelikle belirlenir.^(1)^
-
-**Yükümlülük ihlâlinde adlî ceza**
-
-**MADDE 14 –** (1) Bu Kanunun 4 üncü maddesinin ikinci fıkrası ile 7 ve
-8 inci maddelerindeki yükümlülükleri ihlâl eden kimse bir yıldan üç yıla
-kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır.
-
-\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 88 inci maddesiyle bu
-maddeye dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkralar
-eklenmiş ve mevcut beşinci fıkrası yedinci fıkra olarak teselsül
-ettirilmiştir.*
+**             MADDE 14 –** (1) Bu Kanunun 4 üncü maddesinin ikinci
+fıkrası ile 7 ve 8 inci maddelerindeki yükümlülükleri ihlâl eden kimse
+bir yıldan üç yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
+cezalandırılır.
 
 9975
 
@@ -437,73 +406,54 @@ olmayan mutabakat muhtırası imzalamak.
 
  
 
-   (2) Başkanlıkça birinci fıkranın (f) bendine göre kendisinden talepte
-bulunulan birim, bu talebin gereğini ivedi olarak yerine getirmek
-zorundadır.
+             (2) Başkanlıkça birinci fıkranın (f) bendine göre
+kendisinden talepte bulunulan birim, bu talebin gereğini ivedi olarak
+yerine getirmek zorundadır.
 
-\(3) Başkanlık, aklama suçunun araştırılması ve incelenmesi görevlerini
-denetim elemanları vasıtasıyla yerine getirir. Görevlendirilecek denetim
-elemanları Başkanın talebi üzerine ilgili birim amirinin teklifi ve
-bağlı veya ilgili bulundukları Bakanın onayı ile belirlenir.
+             (3) Başkanlık, aklama suçunun araştırılması ve incelenmesi
+görevlerini denetim elemanları vasıtasıyla yerine getirir.
+Görevlendirilecek denetim elemanları Başkanın talebi üzerine ilgili
+birim amirinin teklifi ve bağlı veya ilgili bulundukları Bakanın onayı
+ile belirlenir.
 
-\(4) Başkanlığın talebi üzerine görevlendirilecek denetim elemanları
-görevlendirme konusuna giren hususlarda bilgi ve belge istemeye,
-araştırma ve inceleme yapmaya, uygulamayı takip ve denetlemeye, bu
-maksatla her türlü evrakın tetkikine yetkilidir.
+              (4) Başkanlığın talebi üzerine görevlendirilecek denetim
+elemanları görevlendirme konusuna giren hususlarda bilgi ve belge
+istemeye, araştırma ve inceleme yapmaya, uygulamayı takip ve
+denetlemeye, bu maksatla her türlü evrakın tetkikine yetkilidir.
 
-**İşlemlerin ertelenmesi**
+**             Koordinasyon Kurulu ^(1)^**
 
-**MADDE 19/A-** **(Ek: 14/4/2016 - 6704/20 md.)**
+**             MADDE 20 –** (1) Suç gelirlerinin aklanmasının
+önlenmesine ilişkin kanun taslakları ile Bakanlar Kurulu kararıyla
+yürürlüğe girecek yönetmelik taslaklarını değerlendirmek ve uygulamayla
+ilgili kurum ve kuruluşlar arasında koordinasyon sağlamak üzere Malî
+Suçlarla Mücadele Koordinasyon Kurulu oluşturulmuştur.
 
-\(1) Yükümlüler nezdinde veya bunlar aracılığıyla yapılmaya teşebbüs
-edilen ya da hâlihazırda devam eden işlemleri, işleme konu malvarlığının
-aklama veya terörün finansmanı suçu ile ilişkili olduğuna dair şüphe
-bulunması üzerine; Başkanlıkça şüpheyi teyit etmek, işlemi analiz etmek
-ya da gerekli görüldüğünde analiz sonuçlarını yetkili makamlara intikal
-ettirmek amacıyla yedi iş günü süreyle askıya almaya veya bu işlemlerin
-aynı süreyle gerçekleşmesine izin vermemeye Bakan yetkilidir.
+             (2) Koordinasyon Kurulu; Maliye Bakanlığı Müsteşarının
+başkanlığında, Gelir İdaresi Başkanı, Vergi Denetim Kurulu Başkanı, Malî
+Suçları Araştırma Kurulu Başkanı İçişleri Bakanlığı Müsteşar Yardımcısı,
+Adalet Bakanlığı Kanunlar Genel Müdürü, Dışişleri Bakanlığı Ekonomik
+İşler Genel Müdürü, Hazine Kontrolörleri Kurulu Başkanı, Sigorta
+Denetleme Kurulu Başkanı, Hazine Müsteşarlığı Malî Sektörle İlişkiler ve
+Kambiyo Genel Müdürü, Hazine Müsteşarlığı Sigortacılık Genel Müdürü,
+Gümrük Müsteşarlığı Teftiş Kurulu Başkanı, Gümrük Müsteşarlığı Gümrükler
+Genel Müdürü, Bankacılık Düzenleme ve Denetleme Kurumu Başkan
+Yardımcısı, Sermaye Piyasası Kurulu Başkan Yardımcısı ve Türkiye
+Cumhuriyet Merkez Bankası Başkan Yardımcısından oluşur. ^(1)\ (3)^
 
-\(2) Bu yetki, yabancı bir muadil kuruluşun işlemin askıya alınması veya
-gerçekleşmesine izin verilmemesi yönündeki gerekçeli talebinde yer alan
-işlemler hakkında da Başkanlıkça aklama veya terörün finansmanı suçu ile
-ilişkili olduğuna dair şüphe görülmesi şartıyla mütekabiliyet ilkesi
-gözetilerek kullanılabilir.
+             (3) Görüş ve bilgilerine gerek duyulan kurum ve
+kuruluşların temsilcileri oy hakkı olmaksızın Koordinasyon Kuruluna
+çağrılabilir.
 
-\(3) Bu maddenin uygulanmasına ilişkin diğer usul ve esaslar Bakanlık
-tarafından çıkarılan yönetmelikle belirlenir.”
+             (4) Koordinasyon Kurulu yılda en az iki defa toplanır.
 
-**Koordinasyon Kurulu ^(1)^**
+**             Bildirim ve bilgilerin değerlendirilmesi**^(2)^ ** **
 
-**MADDE 20 –** (1) Suç gelirlerinin aklanmasının önlenmesine ilişkin
-kanun taslakları ile Bakanlar Kurulu kararıyla yürürlüğe girecek
-yönetmelik taslaklarını değerlendirmek ve uygulamayla ilgili kurum ve
-kuruluşlar arasında koordinasyon sağlamak üzere Malî Suçlarla Mücadele
-Koordinasyon Kurulu oluşturulmuştur.
+**             MADDE 21 –** **(Değişik: 26/9/2011-KHK-659/17)**
 
-\(2) Koordinasyon Kurulu; Maliye Bakanlığı Müsteşarının başkanlığında,
-Gelir İdaresi Başkanı, Vergi Denetim Kurulu Başkanı, Malî Suçları
-Araştırma Kurulu Başkanı İçişleri Bakanlığı Müsteşar Yardımcısı, Adalet
-Bakanlığı Kanunlar Genel Müdürü, Dışişleri Bakanlığı Ekonomik İşler
-Genel Müdürü, Hazine Kontrolörleri Kurulu Başkanı, Sigorta Denetleme
-Kurulu Başkanı, Hazine Müsteşarlığı Malî Sektörle İlişkiler ve Kambiyo
-Genel Müdürü, Hazine Müsteşarlığı Sigortacılık Genel Müdürü, Gümrük
-Müsteşarlığı Teftiş Kurulu Başkanı, Gümrük Müsteşarlığı Gümrükler Genel
-Müdürü, Bankacılık Düzenleme ve Denetleme Kurumu Başkan Yardımcısı,
-Sermaye Piyasası Kurulu Başkan Yardımcısı ve Türkiye Cumhuriyet Merkez
-Bankası Başkan Yardımcısından oluşur. ^(1)\ (3)^
-
-\(3) Görüş ve bilgilerine gerek duyulan kurum ve kuruluşların
-temsilcileri oy hakkı olmaksızın Koordinasyon Kuruluna çağrılabilir.
-
-\(4) Koordinasyon Kurulu yılda en az iki defa toplanır.
-
-**Bildirim ve bilgilerin değerlendirilmesi**^(2)^
-
-**MADDE 21 –** **(Değişik: 26/9/2011-KHK-659/17)**
-
-\(1) Bu Kanun kapsamında alınan bildirim ve bilgiler Başkanlıkta istihdam
-edilen Maliye Uzmanı ve Maliye Uzman Yardımcıları tarafından
-değerlendirilir.
+             (1) Bu Kanun kapsamında alınan bildirim ve bilgiler
+Başkanlıkta istihdam edilen Maliye Uzmanı ve Maliye Uzman Yardımcıları
+tarafından değerlendirilir.
 
 –––––––––––––––––––––
 
@@ -690,8 +640,6 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   KHK/662                                                                                2, 20                                                         2/11/2011
   KHK/666                                                                                25                                                            14/1/2012 tarihinde geçerli olmak üzere 2/11/2011 tarihnde
   Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı   25                                                            10/10/2013
-  6545                                                                                   9/A, 13                                                       28/6/2014
-  6704                                                                                   Madde 19/A                                                    26/4/2016
   -------------------------------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
 
 
