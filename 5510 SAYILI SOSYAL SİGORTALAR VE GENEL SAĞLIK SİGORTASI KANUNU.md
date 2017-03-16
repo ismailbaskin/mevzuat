@@ -1,4 +1,4 @@
-**6462 sayılı Kanun ile değişik hali**
+**6486 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK**
 
@@ -3944,7 +3944,10 @@ c\) Yukarıdaki (a) ve (b) bentlerine göre sigortalı sayılmayanlardan;
 1\) Harcamaları, taşınır ve taşınmazları ile bunlardan doğan hakları da
 dikkate alınarak, Kurumca belirlenecek test yöntemleri ve veriler
 kullanılarak tespit edilecek aile içindeki geliri kişi başına düşen
-aylık tutarı asgari ücretin üçte birinden az olan vatandaşlar,
+aylık tutarı asgari ücretin üçte birinden az olan vatandaşlar ile gelir
+tespiti yapılmaksızın genel sağlık sigortalılığı ya da bakmakla yükümlü
+olduğu kişi bulunmayan Türk vatandaşlarından 18 yaşını doldurmamış
+çocuklar,^(1)^
 
 2\) **(Değişik: 4/4/2013-6458/123 md.)** Uluslararası koruma başvurusu
 veya statüsü sahibi ve vatansız olarak tanınan kişiler,
@@ -3965,7 +3968,8 @@ Hakkında Kanun hükümlerine göre aylık alan kişiler,
 
 7\) 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme
 Kurumu Kanunu hükümlerine göre korunma, bakım ve rehabilitasyon
-hizmetlerinden ücretsiz faydalanan kişiler,
+hizmetlerinden ücretsiz faydalanan kişiler ile ana ve babası olmayan
+Türk vatandaşlarından 18 yaşını doldurmamış çocuklar,^(2)^
 
 8\) Harp malûllüğü aylığı alanlar ile Terörle Mücadele Kanunu kapsamında
 aylık alanlar,
@@ -3993,6 +3997,19 @@ g\) Yukarıdaki bentlerin dışında kalan ve başka bir ülkede sağlık
 sigortasından yararlanma hakkı bulunmayan vatandaşlar,
 
 genel sağlık sigortalısı sayılır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 21/5/2013 tarihli ve 6486 sayılı Kanunun 1 inci maddesiyle bu alt
+bentte yer alan “üçte birinden az olan vatandaşlar” ibaresinden sonra
+gelmek üzere “ile gelir tespiti yapılmaksızın genel sağlık sigortalılığı
+ya da bakmakla yükümlü olduğu kişi bulunmayan Türk vatandaşlarından 18
+yaşını doldurmamış çocuklar” ibaresi eklenmiştir.*
+
+*(2) 21/5/2013 tarihli ve 6486 sayılı Kanunun 1 inci maddesiyle bu alt
+bentte yer alan “ücretsiz faydalanan kişiler” ibaresinden sonra gelmek
+üzere “ile ana ve babası olmayan Türk vatandaşlarından 18 yaşını
+doldurmamış çocuklar” ibaresi eklenmiştir.*
 
 9828
 
@@ -4031,21 +4048,15 @@ Bu maddenin birinci fıkrasının (c) bendinin (1) numaralı alt bendi ile
 80 inci maddede belirtilen aile; aynı hane içerisinde yaşayan eş, evli
 olmayan çocuk, büyük ana ve büyük babadan oluşur.
 
-**(Ek fıkra: 13/2/2011-6111/34 md.)** 4/11/1981 tarihli ve 2547 sayılı
-Yükseköğretim Kanununa göre üniversitelerde yükseköğrenim gören yabancı
-uyruklu öğrenciler, yükseköğrenimlerinin devam ettiği sürelerle sınırlı
-olarak birinci fıkranın (d) bendindeki ve 52 nci maddenin ikinci
-fıkrasının ikinci cümlesindeki şartlar aranmaksızın, 82 nci maddeye göre
-belirlenen prime esas günlük kazanç alt sınırının üçte birinin 30 günlük
-tutarı üzerinden kendilerince genel sağlık sigortası primi ödenmek
-suretiyle genel sağlık sigortalısı olurlar. Ancak bunlardan kamu
-idareleri, kanunla kurulan kurum ve kuruluşlar, kamu yararına faaliyet
-gösteren dernekler ile vergi muafiyeti tanınan vakıflar tarafından tam
-burs sağlanan ve Yükseköğretim Kurulu tarafından ayrılan kontenjanlar
-dâhilinde yükseköğrenim gören yabancı uyruklu öğrenciler genel sağlık
-sigortalısı sayılmaz ve bunların sağlık giderleri 2547 sayılı Kanunun 46
-ncı ve 47 nci maddeleri çerçevesinde üniversitelerin bütçelerine
-konulacak ödenekten karşılanır. ^(1)^
+**(Ek fıkra: 13/2/2011-6111/34 md.; Değişik: 21/5/2013-6486/1 md.)**
+Ülkemizde öğrenim gören yabancı uyruklu öğrenciler birinci fıkranın (d)
+bendindeki ve 52 nci maddenin ikinci fıkrasının ikinci cümlesindeki
+şartlar aranmaksızın ilk kayıt tarihinden itibaren üç ay içinde talepte
+bulunmaları hâlinde genel sağlık sigortalısı olurlar. Bu sürede talepte
+bulunmayanlar hakkında öğrenimleri süresince genel sağlık sigortası
+hükümleri uygulanmaz. Kendilerince 82 nci maddeye göre belirlenen prime
+esas günlük kazanç alt sınırının üçte birinin 30 günlük tutarı üzerinden
+genel sağlık sigortası primi ödenir.
 
 **(Ek fıkra: 13/2/2011-6111/34 md.)** 19/3/1969 tarihli ve 1136 sayılı
 Avukatlık Kanunu uyarınca avukatlık stajı yapmakta olanlardan bu Kanuna
@@ -4056,11 +4067,15 @@ genel sağlık sigortası primleri Kanunun 82 nci maddesine göre belirlenen
 prime esas günlük kazanç alt sınırının otuz günlük tutarının % 6'sıdır.
 Bu primler Türkiye Barolar Birliği tarafından ödenir.
 
-–––––––––––
-
-*(1) 17/1/2012 tarihli ve 6270 sayılı Kanunun 6 ncı maddesiyle, bu
-fıkrada yer alan “30 günlük” ibaresinden önce gelmek üzere “üçte
-birinin” ibaresi eklenmiş ve metne işlenmiştir.*
+**(Ek fıkra: 21/5/2013-6486/1 md.)** 8/3/2012 tarihli ve 6284 sayılı
+Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun
+hükümlerine göre hakkında koruyucu tedbir kararı verilen kişilerden
+genel sağlık sigortalısı olmayan ve genel sağlık sigortalısının bakmakla
+yükümlü olduğu kişi kapsamına da girmeyen veya genel sağlık sigortası
+kapsamında olup sağlık yardımlarından yararlanamayanlar, bu hâllerin
+devamı süresince gelir tespiti yapılmaksızın birinci fıkranın (c)
+bendinin (1) numaralı alt bendi kapsamında genel sağlık sigortalısı
+sayılır.
 
 9828-1
 
@@ -4091,10 +4106,11 @@ anlaşılanların talep tarihi; daha sonra müstahak olanların ise müstahak
 oldukları tarih, Kurumca tescil edildikleri tarih olarak kabul
 edilir.^(1)^
 
-c\) (d) bendinde sayılanlar; Türkiye'deki yerleşim süresinin bir yılı
-geçtiği tarihten itibaren genel sağlık sigortalısı sayılır ve bu
-tarihten itibaren bir ay içinde verecekleri genel sağlık sigortası giriş
-bildirgesi ile tescil edilirler.
+c\) **(Değişik: 21/5/2013-6486/2 md.)** (d) bendinde sayılanlar
+Türkiye’deki yerleşim süresinin bir yılı geçtiği tarihten sonra talepte
+bulunmaları hâlinde talep tarihini takip eden günden itibaren genel
+sağlık sigortalısı sayılır. Bu kişilerin genel sağlık sigortalılığı bu
+Kanunda belirtilen nedenlerle sona erer.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4106,7 +4122,7 @@ vatansız kişi sayıldıkları” şeklinde değiştirilmiştir.*
 
 9829
 
-d\) **(Değişik: 17/4/2008-5754/39 md.)** (e) bendinde sayılanlar,
+d\) **(Değişik: 17/4/2008-5754/39 md.)** (c) bendinde sayılanlar,
 işsizlik veya kısa çalışma ödeneğinden yararlanmaya başladıkları
 tarihten itibaren genel sağlık sigortalısı sayılır ve Türkiye İş Kurumu
 tarafından işsizlik ödeneğinin bağlandığı tarihten itibaren bir ay
@@ -4127,11 +4143,8 @@ genel sağlık sigortalısı sayılanların çocukları, ana ya da babanın
 tescil edilmiş olmasına bakılmaksızın ve ayrıca bir işleme gerek
 olmaksızın 18 yaşını dolduruncaya kadar genel sağlık sigortalısı veya
 genel sağlık sigortalısının bakmakla yükümlü olduğu kişi olarak sağlık
-hizmetlerinden ve diğer haklardan yararlandırılır. 18 yaşından küçük
-çocuğun ana ve babası da yok ise 18 yaşını dolduruncaya kadar 60 ıncı
-maddenin birinci fıkrasının (c) bendinin (7) numaralı alt bendi
-kapsamında primi Devlet tarafından ödenmek üzere genel sağlık
-sigortalısı sayılır.
+hizmetlerinden ve diğer haklardan yararlandırılır. **(Mülga ikinci
+cümle: 21/5/2013-6486/2 md.)**
 
 **(Değişik üçüncü fıkra: 17/4/2008-5754/39 md.)** 60 ıncı madde gereği
 genel sağlık sigortalısı iken durumunda değişiklik olan kişilerden, aynı
@@ -4151,13 +4164,12 @@ Bu maddede belirtilen genel sağlık sigortası giriş bildirgesini süresi
 içinde vermeyenler hakkında 102 nci maddenin birinci fıkrasının (a)
 bendine göre idarî para cezası uygulanır.
 
-**(Ek fıkra: 13/2/2011-6111/35 md.)** 60 ıncı maddenin yedinci fıkrası
-kapsamında sayılanlar yükseköğrenimlerinin başladığı tarihten itibaren
-genel sağlık sigortalısı sayılırlar ve yükseköğrenimlerinin devam ettiği
-sürece genel sağlık sigortalılıkları devam eder. Bu kapsamdaki
-öğrenciler yüksek öğrenimlerinin başladığı tarihten itibaren bir ay
-içerisinde ilgili üniversitelerce genel sağlık sigortası giriş
-bildirgesiyle Kuruma bildirilir.
+**(Ek fıkra: 13/2/2011-6111/35 md.; Değişik: 21/5/2013-6486/2 md.)** 60
+ıncı maddenin yedinci fıkrası kapsamında sayılanlardan dilekçeyle Kuruma
+müracaat edenlerin, talep tarihini takip eden günden itibaren genel
+sağlık sigortalılığı başlatılır ve öğrenimleri süresince genel sağlık
+sigortalılıkları devam eder. Bunların genel sağlık sigortalılıkları bu
+Kanunda belirtilen nedenlerle sona erer.
 
 **(Ek fıkra: 13/2/2011-6111/35 md.)** 60 ıncı maddenin sekizinci fıkrası
 kapsamında sayılanlar avukatlık stajına başladıkları tarihten itibaren
@@ -4331,8 +4343,6 @@ tedavileri sırasında, hekimin veya diş hekiminin tıbben göreceği lüzum
 üzerine yanında kalan refakatçinin yatak ve yemek giderleri bir kişi ile
 sınırlı olmak üzere Kurumca karşılanır.
 
-–––––––––––
-
 *(1) Bu madde başlığı “Kurumca sağlanmayacak sağlık hizmetleri “ iken,
 17/4/2008 tarihli ve 5754 sayılı Kanunun 41 inci maddesiyle metne
 işlendiği şekilde değiştirilmiş ve birinci fıkrasına “Kurumca”
@@ -4345,9 +4355,10 @@ gündelik, yol, yatak ve yemek giderlerinin tutarı 72 nci maddede
 belirtilen Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından
 belirlenir.
 
-Sürekli iş göremezlik veya malûllük durumlarının tespiti, kontrolü veya
-periyodik sağlık muayenesi amacıyla yapılan sağlık hizmeti giderleri ile
-yol ve gündelik giderleri de bu madde hükümlerine göre ödenir.
+Sürekli iş göremezlik veya 62malullük durumlarının tespiti, kontrolü
+veya periyodik sağlık muayenesi amacıyla yapılan sağlık hizmeti
+giderleri ile yol ve gündelik giderleri de bu madde hükümlerine göre
+ödenir.
 
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurum tarafından
 çıkarılacak yönetmelikle düzenlenir.
@@ -4359,16 +4370,16 @@ sağlık hizmet sunucularından sağlanması esastır. Ancak;
 
 a\) 60 ıncı maddenin birinci fıkrasının (a) bendinin (1) numaralı alt
 bendinde sayılan genel sağlık sigortalılarından; işverenleri tarafından
-Kurumca belirlenen usûle uygun olarak veya kamu idareleri için özel
-mevzuatlarında belirtilen usûle uygun olarak geçici görevle yurt dışına
-gönderilenlere, acil hallerde,
+Kurumca belirlenen 62usule uygun olarak veya kamu idareleri için özel
+mevzuatlarında belirtilen 62usule uygun olarak geçici görevle yurt
+dışına gönderilenlere, acil hallerde,
 
 b\) 60 ıncı maddenin birinci fıkrasının (a) bendinin (1) numaralı alt
 bendinde sayılan genel sağlık sigortalılarından; işverenleri tarafından
-Kurumca belirlenen usûle uygun olarak veya kamu idareleri için özel
-mevzuatlarında belirtilen usûle uygun olarak sürekli görevle yurt dışına
-gönderilenler ile bunların yurt dışında birlikte yaşadıkları bakmakla
-yükümlü olduğu kişilere,
+Kurumca belirlenen 62usule uygun olarak veya kamu idareleri için özel
+mevzuatlarında belirtilen 62usule uygun olarak sürekli görevle yurt
+dışına gönderilenler ile bunların yurt dışında birlikte yaşadıkları
+bakmakla yükümlü olduğu kişilere,
 
 c\) Sağlık Bakanlığının uygun görüşü üzerine yurt içinde tedavisinin
 yapılamadığı tespit edilen kişilerin, ^(1)^
@@ -4403,7 +4414,7 @@ dışında sevke konu tedaviye ilişkin sözleşmeli olduğu sağlık hizmet
 sunucularına ödenen tutarı geçemez. Bu kişilerin 65 inci madde
 hükümlerine göre yapılacak giderleri ayrıca karşılanır.
 
-–––––––––––––––
+*––––––––––––––––––––––––*
 
 *(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle; bu
 bentte “tedavisi mümkün olmadığı” ibaresi “tedavisinin yapılamadığı” yer
@@ -4422,7 +4433,7 @@ sayılır.
 
 Kamu idarelerinde çalışan sigortalılar dışında 4 üncü maddenin birinci
 fıkrasının (a) bendi kapsamındaki sigortalıların geçici veya sürekli
-görevlendirilmesine ilişkin usûller ve süreler ile bu maddenin
+görevlendirilmesine ilişkin 63usuller ve süreler ile bu maddenin
 uygulanmasına ilişkin diğer usûl ve esaslar, ilgili Bakanlıkların görüşü
 alınarak Kurum tarafından çıkarılacak yönetmelikle düzenlenir.
 
@@ -4469,8 +4480,6 @@ primlerinin tamamını öğrenim gördükleri üniversitenin öğrenim dönemi
 başından itibaren bir ay içinde ödemeleri,
 
 şarttır.
-
-**––––––––––––––––––**
 
 *(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 36 ncı maddesiyle, bu
 fıkrada yer alan “acil haller” ibaresinden önce gelmek üzere “trafik
@@ -4551,8 +4560,6 @@ c\) Ayakta tedavide sağlanan ilaçlar.
 
 d\) **(Ek: 25/6/2009-5917/40 md.)** Kurumca belirlenecek hastalık
 gruplarına göre yatarak tedavide finansmanı sağlanan sağlık hizmetleri.
-
-**––––––––––––––––––**
 
 *(1) 1/3/2012 tarihli ve 6283 sayılı Kanunun 1 inci maddesiyle, bu
 fıkrada yer alan “nüfus cüzdanı” ibaresinden önce gelmek üzere
@@ -4636,8 +4643,8 @@ tutar ödenir.
 hesaplanmasında 72 nci maddeye göre tespit edilen sağlık hizmeti
 tutarları esas alınır.
 
-Katılım paylarının ödenme usûlleri ile bu maddenin uygulanmasına ilişkin
-diğer usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelikle
+Katılım paylarının ödenme 65usulleri ile bu maddenin uygulanmasına
+ilişkin diğer usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelikle
 düzenlenir.
 
 9835
@@ -4668,7 +4675,7 @@ fıkrasının (c) bendinin (4) numaralı alt bendinde belirtilen kişiler ile
 bunların eşleri, (6) ve (8) numaralı alt bentlerinde sayılanlar ile
 bunların bakmakla yükümlü olduğu kişiler, (5) ve (7) numaralı alt
 bentlerinde sayılanlar, vazife malulleri ile 4 üncü maddenin dördüncü
-fıkrasının (d) ve (e) bentlerinde sayılanlar.
+fıkrasının (d) ve (c) bentlerinde sayılanlar.
 
 g\) **(Ek: 4/7/2012-6353/83 md.)** 3713 sayılı Kanunun 21 inci maddesinde
 sayılan olaylara maruz kalmaları nedeniyle yaralananların tedavileri
@@ -4707,7 +4714,7 @@ fıkrasında sayılan belgeleri ve bu belgelerin başvuran kişiye ait olup
 olmadığını kontrol etmek zorundadır. **(Mülga son cümle:
 17/4/2008-5754/67 md.)**
 
-–––––––––––––––––––
+*–––––––––––––––––––––––*
 
 *(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle; 69
 uncu maddenin birinci fıkrasının (f) bendinde geçen “4 üncü maddenin
@@ -4720,8 +4727,8 @@ hücre;”, (f) bendine “(c) bendinin (4)” ibaresinden sonra gelmek üzere
 “numaralı alt bendinde belirtilen kişiler ile bunların eşleri” ibareleri
 eklenmiş ve metne işlenmiştir.*
 
-*(2) Bu bentte yer alan "sağlık kurulu raporu" ibaresi, 9/5/2007 tarihli
-ve 5655 sayılı Kanunun 1 inci maddesiyle "sağlık raporu" olarak
+*(2) Bu bentte yer alan “sağlık kurulu raporu” ibaresi, 9/5/2007 tarihli
+ve 5655 sayılı Kanunun 1 inci maddesiyle “sağlık raporu” olarak
 değiştirilmiş ve metne işlenmiştir.*
 
 9836
@@ -4759,14 +4766,15 @@ uygulamaları, maliyet-etkililik ölçütleri ve genel sağlık sigortası
 bütçesi dikkate alınmak suretiyle, her sınıf için tek tek veya
 gruplandırarak belirlemeye yetkilidir.
 
-**(Değişik ikinci fıkra: 17/4/2008-5754/44 md.)** Komisyon; Çalışma ve
-Sosyal Güvenlik Bakanlığını, Maliye Bakanlığını, Sağlık Bakanlığını,
-Devlet Planlama Teşkilâtı Müsteşarlığını, Hazine Müsteşarlığını temsilen
-birer üye ve Kurumu temsilen iki üye olmak üzere toplam yedi üyeden
-oluşur. Komisyon kararlarını salt çoğunluk ile alır, kararlar Resmî
-Gazetede yayımlanır. Komisyonca gerekli görülen hallerde sağlık
-hizmetlerinin türlerine göre birden fazla alt komisyon kurulabilir.
-Komisyonun sekreterya işlemleri Kurumca yerine getirilir.
+**(Değişik ikinci fıkra: 21/5/2013-6486/3 md.)** Komisyon; Bakanlık,
+Maliye, Sağlık ve Kalkınma bakanlıkları, Hazine Müsteşarlığı, üniversite
+sağlık hizmeti sunucuları ile özel sağlık hizmeti sunucularını temsilen
+Bakanlıkça belirlenecek birer üye ve Kurumu temsilen iki üye olmak üzere
+toplam dokuz üyeden oluşur. Komisyon kararlarını salt çoğunluk ile alır.
+Komisyon kararları Resmî Gazete’de yayımlanır. Komisyonca gerekli
+görülen hâllerde sağlık hizmetlerinin türlerine göre birden fazla alt
+komisyon kurulabilir. Komisyonun sekretarya işlemleri Kurumca yerine
+getirilir.
 
 Sağlık Hizmetleri Fiyatlandırma Komisyonuna iştirak edenlere, ayda iki
 defadan fazla olmamak üzere katıldıkları her toplantı günü için (3000)
@@ -4803,21 +4811,31 @@ Fiyatlandırma Komisyonunca belirlenen sağlık hizmetleri bedeline ek
 olarak, genel sağlık sigortalısı ve bakmakla yükümlü oldukları
 kişilerden sağlık hizmeti sunucularının giderleri ve ürettikleri sağlık
 hizmetlerinin maliyetleri, yapılan sübvansiyonlar gibi kriterler dikkate
-alınarak bu bedellerin bir katına kadar alınabilecek ilave ücretin
-tavanını belirlemeye Bakanlar Kurulu yetkilidir. Bu tavan dahilinde
-alınabilecek ilave ücret oranları Kurumca belirlenir. Ancak (…) ^(1)^ 60
+alınarak bu bedellerin iki katına kadar alınabilecek ilave ücretin
+tavanını belirlemeye Bakanlar Kurulu yetkilidir.^(1)^ Bu tavan dahilinde
+alınabilecek ilave ücret oranları Kurumca belirlenir. Ancak (…) ^(2)^ 60
 ıncı maddenin birinci fıkrasının (c) bendinin (4), (6) ve (8) numaralı
 alt bentleri kapsamında sayılanlar ile bakmakla yükümlü oldukları
 kişilerden ilave ücret alınamaz. Sağlık Hizmetleri Fiyatlandırma
 Komisyonunca belirlenen eşdeğer ilaçların, azami fiyatı ile kişinin
 talep ettiği eşdeğer ilacın fiyatı arasında oluşacak fark ve optik için
-tavan uygulanmaz ve bu fıkra kapsamında değerlendirilmez. ^(1)^
+tavan uygulanmaz ve bu fıkra kapsamında değerlendirilmez. ^(2)^
 
 Kamu idaresi sağlık hizmeti sunucuları ise otelcilik hizmeti ile
 dördüncü fıkrada belirtilen istisnai sağlık hizmetleri dışında,
 sağladıkları sağlık hizmetleri için genel sağlık sigortalısı ve bakmakla
 yükümlü olduğu kişilerden ilave ücret talep edemez. **(Mülga ikinci
-cümle: 21/1/2010-5947/19 md.)**
+cümle: 21/1/2010-5947/19 md.)(Ek cümleler: 21/5/2013-6486/4)** Ancak
+yükseköğretim kurumlarına ait sağlık hizmeti sunucularında öğretim
+üyeleri tarafından mesai saatleri dışında bizzat verilen sağlık
+hizmetleri için Kurumca belirlenmiş sağlık hizmetleri bedelinin,
+poliklinik muayenelerinde bir katını, diğer hizmetlerde yüzde ellisini
+geçmemek üzere, üniversite yönetim kurulu kararıyla öğretim üyelerinin
+unvanları itibarıyla belirlenen miktarda ilave ücret alınabilir. Ancak
+alınacak ilave ücret bir defada asgari ücretin iki katını geçemez. Bu
+oranları bir katına kadar artırmaya Bakanlar Kurulu yetkilidir. Kurum bu
+fıkra kapsamında ilave ücret alınamayacak sağlık hizmetlerini
+belirlemeye yetkilidir.
 
 Sözleşmeli sağlık hizmeti sunucuları, Kurumca belirlenmiş standartların
 üstündeki talepleri karşılayan otelcilik hizmetleri ile hayati öneme
@@ -4842,9 +4860,10 @@ mekân tahsis etmek zorundadır.
 Acil haller dışında sözleşmesiz sağlık hizmeti sunucularından kişilerce
 satın alınan sağlık hizmeti bedelleri Kurumca ödenmez.
 
-––––––––––––––––
+*(1) 21/5/2013 tarihli ve 6486 sayılı Kanunun 4 üncü maddesiyle, bu
+cümlede yer alan “bir” ibaresi “iki” şeklinde değiştirilmiştir.*
 
-*(1) 10/1/2013 tarihli ve 6385 sayılı Kanunun 8 inci maddesiyle, bu
+*(2) 10/1/2013 tarihli ve 6385 sayılı Kanunun 8 inci maddesiyle, bu
 fıkranın üçüncü cümlesinde yer alan “kamu idaresi sağlık hizmeti
 sunucuları tarafından sevk edilmesi halinde” ibaresi madde metninden
 çıkarılmıştır.*
@@ -4881,7 +4900,7 @@ yöntemlere uygun olarak kontrol etmek ve belgelemek zorundadır.
 
 **(Ek fıkra: 4/7/2012-6353/84 md.)** 3713 sayılı Kanuna göre aylık
 bağlanmış maluller, 5434 sayılı Kanunun 56 ncımaddesi veya 2330 sayılı
-Kanunun 2 nci maddesinin birinci fıkrasının (e) ve (f) bentlerinde
+Kanunun 2 nci maddesinin birinci fıkrasının (c) ve (f) bentlerinde
 sayılanlardan 3713 sayılı Kanun kapsamına giren olaylar sebebiyle aylık
 bağlananlar ile 3713 sayılı Kanun kapsamına girmese dahi başkasının
 yardımı ve desteği olmaksızın yaşamak için gereken hareketleri
@@ -4915,7 +4934,7 @@ genel sağlık sigortasından sağlanan sağlık hizmetleri ve diğer haklar
 dışında başka bir amaçla kullanılamaz.
 
 Uzun ve kısa vadeli sigorta kolları bakımından sürekli iş göremezlik,
-malûllük, çalışma gücü kaybı hallerinin tespiti veya bu amaçla yapılan
+70malullük, çalışma gücü kaybı hallerinin tespiti veya bu amaçla yapılan
 kontroller nedeniyle oluşan sağlık hizmeti giderleri ile 72 nci maddeye
 göre, usûl ve esasları Kurumca belirlenecek gündelik ve yol giderleri,
 refakatçı giderleri, kısa ve uzun vadeli sigorta kolları prim
@@ -4944,7 +4963,7 @@ hükümlerine göre yapılacak masraflar Kurum tarafından karşılanır.
 
 Birinci fıkrada belirtilen yükümlülüklerin yerine getirilmesindeki
 ihmalinden veya gecikmesinden dolayı, genel sağlık sigortalısının tedavi
-süresinin uzamasına veya malûl kalmasına veya malûllük derecesinin
+süresinin uzamasına veya malûl kalmasına veya 70malullük derecesinin
 artmasına sebep olan işveren, Kurumun bu nedenle yaptığı her türlü
 sağlık hizmeti giderini ödemekle yükümlüdür.
 
@@ -5012,7 +5031,7 @@ Bakanlıkça tespit edilir. **(Ek cümle: 17/4/2008-5754/66 md.)** Bu kişi
 ve grupların sağlık bilgilerinin nasıl tutulacağı ilgili kuruluşların
 görüşleri alınarak hazırlanacak yönetmelik ile düzenlenir.
 
-––––––––––––
+*–––––––––––––––––––––––*
 
 *(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 46 ncı maddesiyle; bu
 fıkrada yer alan “sigortalının” ibaresi “genel sağlık sigortalısının”
@@ -5079,7 +5098,7 @@ veya kıdem tazminatı mahiyetindeki toplu ödeme, keşif ücreti, ihbar ve
 kasa tazminatları ile Kurumca tutarları yıllar itibarıyla belirlenecek
 yemek, çocuk ve aile zamları, işverenler tarafından sigortalılar için
 özel sağlık sigortalarına ve bireysel emeklilik sistemine ödenen ve
-aylık toplamı asgari ücretin % 30'unu geçmeyen özel sağlık sigortası
+aylık toplamı asgari ücretin % 30’unu geçmeyen özel sağlık sigortası
 primi ve bireysel emeklilik katkı payları tutarları, prime esas kazanca
 tabi tutulmaz.
 
@@ -5114,7 +5133,7 @@ hesabında esas tutulacak günlük kazançları, 82 nci madde hükmüne göre
 belirlenen alt sınırdır.
 
 f\) Bir işverene tabi olarak çalışan sigortalının belirli ücretinin
-dışında ayrıca (e) bendi kapsamında ücret alması halinde, prime esas
+dışında ayrıca (c) bendi kapsamında ücret alması halinde, prime esas
 günlük kazancı bunların toplamından oluşur.
 
 g\) Primlerin hesabına esas tutulacak günlük kazanç, sigortalının, bir ay
@@ -5134,7 +5153,7 @@ süresinin 4857 sayılı İş Kanununa göre belirlenen haftalık çalışma
 süresine göre hesaplanan günlük çalışma saatine bölünmesi suretiyle
 bulunur. Bu şekildeki hesaplamada gün kesirleri bir gün kabul edilir.
 
-ı) İşveren ve sigortalı arasında çağrı üzerine çalışmaya dayalı yazılı
+I\) İşveren ve sigortalı arasında çağrı üzerine çalışmaya dayalı yazılı
 iş sözleşmesinde taraflar arasında çalışma süresi gün, hafta ve ay
 olarak belirlenmemiş ise, sigortalının ay içindeki prim ödeme gün sayısı
 haftalık çalışma süresi en az yirmi saat kararlaştırılmış sayılarak (h)
@@ -5166,7 +5185,7 @@ ilgili kanunlarında öngörüldüğü şekilde belirlenir.
 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki
 sigortalıların prime esas kazançları aşağıdaki şekilde belirlenir.
 
-–––––––––––––
+*–––––––––––––––––––––––*
 
 *(1) 31/7/2008 tarihli ve 5797 sayılı Kanunun 12 nci maddesiyle bu
 bendin 15/10/2008 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.*
@@ -5222,8 +5241,6 @@ hizmet tazminatları), 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim
 Personel Kanununun 12 nci maddesi uyarınca ödenen üniversite ödeneği,
 2802 sayılı Hakimler ve Savcılar Kanununun 106 ncı maddesinin üçüncü
 fıkrası uyarınca ödenen ek ödeme, ^(1)^
-
-–––––––––––––––––––––––
 
 *(1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu alt
 bentte yer alan “657 sayılı Devlet Memurları Kanununun 152 nci maddesi
@@ -5298,10 +5315,8 @@ aylık kazancın tespitinde; 60 ıncı maddenin birinci fıkrasının (d)
 bendinde sayılan kişiler için 82 nci maddeye göre belirlenen prime esas
 günlük kazanç alt sınırının iki katının otuz günlük tutarı, 60 ıncı
 maddenin birinci fıkrasının (c) bendinde belirtilen kişiler için asgari
-ücret, 60 ıncı maddenin birinci fıkrasının (e) bendinde belirtilen
+ücret, 60 ıncı maddenin birinci fıkrasının (c) bendinde belirtilen
 kişiler için ise prime esas asgari kazanç tutarı esas alınır.
-
-–––––––––––––––––––––––
 
 *(1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu
 bentte yer alan “sigortalılar” ibaresi “sigortalılar ile 375 sayılı
@@ -5341,21 +5356,22 @@ Bu maddenin uygulamasına ilişkin usûl ve esaslar, Kurum tarafından
 aşağıdaki şekildedir:
 
 a\) Malûllük, yaşlılık ve ölüm sigortaları prim oranı, sigortalının prime
-esas kazancının % 20'sidir. Bunun % 9'u sigortalı hissesi, % 11'i
+esas kazancının % 20’sidir. Bunun % 9’u sigortalı hissesi, % 11’i
 işveren hissesidir.
 
 b\) **(Değişik: 17/4/2008-5754/48 md.)** Bu Kanunda belirtilen fiilî
 hizmet süresi zammı uygulanan işlerde 4 üncü maddenin birinci
 fıkrasının;
 
-1\) (a) bendi kapsamında çalışan sigortalılar için uygulanacak malûllük,
-yaşlılık ve ölüm sigortaları prim oranı, bu maddenin (a) bendinde
-belirtilen % 20 oranına; 40 ıncı maddeye göre 60 fiilî hizmet gün sayısı
-eklenecek işlerde 1 puan, 90 fiilî hizmet gün sayısı eklenecek işlerde
-1,5 puan, 180 fiilî hizmet gün sayısı eklenecek işlerde 3 puan,
+1\) (a) bendi kapsamında çalışan sigortalılar için uygulanacak
+76malullük, yaşlılık ve ölüm sigortaları prim oranı, bu maddenin (a)
+bendinde belirtilen % 20 oranına; 40 ıncı maddeye göre 60 fiilî hizmet
+gün sayısı eklenecek işlerde 1 puan, 90 fiilî hizmet gün sayısı
+eklenecek işlerde 1,5 puan, 180 fiilî hizmet gün sayısı eklenecek
+işlerde 3 puan,
 
 2\) (c) bendi kapsamında çalışan sigortalılar için ise uygulanacak
-malûllük, yaşlılık ve ölüm sigortaları prim oranı, bu maddenin (a)
+76malullük, yaşlılık ve ölüm sigortaları prim oranı, bu maddenin (a)
 bendinde belirtilen % 20 oranına; 40 ıncı maddeye göre 60 fiilî hizmet
 gün sayısı eklenecek işlerde 3,33 puan, 90 fiilî hizmet gün sayısı
 eklenecek işlerde 5 puan, 180 fiilî hizmet gün sayısı eklenecek işlerde
@@ -5365,7 +5381,7 @@ eklenmesi suretiyle belirlenir ve bu şekilde bulunan oran ile bu
 maddenin (a) bendinde belirtilen % 20 oranı arasındaki farka ait primin
 tamamı işveren tarafından ödenir.
 
-**–––––––––––**
+**––––––––––––––––––––––**
 
 *(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 37 nci maddesiyle, bu
 fıkrada yer alan “(d) ve (g) bentlerinde” ibaresi “(d) bendinde”
@@ -5387,11 +5403,11 @@ d\) **(Değişik: 13/2/2011-6111/38 md.)** 5 inci maddenin birinci
 fıkrasının (b) bendinde belirtilenler için prim oranı, prime esas
 kazançlarının % 6’sıdır. Bu prim oranının % 1’i kısa vadeli sigorta
 kolları, % 5’i genel sağlık sigortası primidir. Aynı maddenin birinci
-fıkrasının (e) bendinde belirtilen kursiyerler için prim oranı, prime
+fıkrasının (c) bendinde belirtilen kursiyerler için prim oranı, prime
 esas kazançlarının % 13,5’idir. Bu prim oranının % 1’i kısa vadeli
 sigorta kolları, % 12,5’i genel sağlık sigortası primidir.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+–––––––––––––––––––
 
 *(1) Bu bent Ana.Mah.nin 15.12.2006 tarihli, E. 2006/111, K. 2006/112
 sayılı Kararı ile Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi
@@ -5407,11 +5423,11 @@ e\) **(Mülga: 17/4/2008-5754/48 md.)**
 
 f\) **(Değişik: 17/4/2008-5754/48 md.)** Genel sağlık sigortası primi,
 kısa ve uzun vadeli sigorta kollarına tâbi olanlar için 82 nci maddenin
-birinci fıkrasına göre hesaplanan prime esas kazancın % 12,5'idir. Bu
-primin % 5'i sigortalı, % 7,5'i ise işveren hissesidir. Yalnızca genel
+birinci fıkrasına göre hesaplanan prime esas kazancın % 12,5’idir. Bu
+primin % 5’i sigortalı, % 7,5’i ise işveren hissesidir. Yalnızca genel
 sağlık sigortasına tâbi olanlar ile 60 ıncı maddenin birinci fıkrasının
-(e) bendi ve bu Kanunun geçici 13 üncü maddesinde belirtilenlerin genel
-sağlık sigortası primi, prime esas kazancın % 12'sidir.
+(c) bendi ve bu Kanunun geçici 13 üncü maddesinde belirtilenlerin genel
+sağlık sigortası primi, prime esas kazancın % 12’sidir.
 
 g\) **(Değişik: 17/4/2008-5754/48 md.)** 4 üncü maddenin birinci
 fıkrasının (b) bendi kapsamındaki sigortalılar (a), (c) ve (f)
@@ -5419,7 +5435,7 @@ bentlerindeki prim oranlarının toplamı üzerinden primlerini öderler.
 
 h\) **(Ek: 17/4/2008-5754/48 md.)** 4 üncü maddenin birinci fıkrasının
 (c) bendi kapsamındaki sigortalılara bağlanan veya bağlanacak vazife
-malûllüğü aylıkları ile bunların hak sahiplerine bağlanacak ölüm
+78malullük78 aylıkları ile bunların hak sahiplerine bağlanacak ölüm
 aylıklarının karşılığı olmak üzere, bu kapsamdaki sigortalılar için kamu
 idarelerinin bütçelerinden ayrılan sosyal güvenlik kurumlarına devlet
 primi ödeneklerinin % 20’si oranında ek karşılık primi alınır. Ayrılan
@@ -5466,43 +5482,61 @@ prim tutarları gelir ve
 kurumlar vergisi uygulamalarında gider veya maliyet unsuru olarak
 dikkate alınmaz. Bu fıkra ve diğer ilgili mevzuatla sağlanan sigorta
 prim desteklerinin aynı dönem için birlikte uygulanması halinde, bu
-destek öncelikle uygulanır. Bu Kanun gereğince yapılan kontrol ve
-denetimlerde çalıştırdığı kişileri sigortalı olarak bildirmediği tespit
-edilen işverenler bir yıl süreyle bu fıkrayla sağlanan destek
-unsurlarından yararlanamaz.**(Ek cümle: 31/7/2008-5797/2 md.)** Bu
-fıkrada düzenlenen teşvik, kamu idareleri hariç bu Kanunun 4 üncü
-maddesinin birinci fıkrasının (a) bendi kapsamındaki sigortalılara
-ilişkin matrah, oran ve esaslar üzerinden 506 sayılı Kanunun geçici 20
-nci maddesi kapsamındaki sandıkların statülerine tabi personel için de
-uygulanır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Maliye
-Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığı ve Hazine
-Müsteşarlığı tarafından müştereken belirlenir. ^(1)(2)^
+destek öncelikle uygulanır. **(Mülga yedinci cümle:21/5/2013-6486/5
+md.)** **(Ek cümle: 31/7/2008-5797/2 md.)** Bu fıkrada düzenlenen
+teşvik, kamu idareleri hariç bu Kanunun 4 üncü maddesinin birinci
+fıkrasının (a) bendi kapsamındaki sigortalılara ilişkin matrah, oran ve
+esaslar üzerinden 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki
+sandıkların statülerine tabi personel için de uygulanır. **(Mülga son
+cümle:21/5/2013-6486/5 md.)** ^(1)(2)^
 
-**(Değişik ikinci fıkra: 17/4/2008-5754/48 md.)** Devlet, Kurumun ay
-itibarıyla tahsil ettiği malûllük, yaşlılık ve ölüm sigortaları ile
-genel sağlık sigortası priminin dörtte biri oranında Kuruma katkı yapar.
-Devlet katkısı olarak hesaplanacak tutar talep edilen tarihi takip eden
-15 gün içinde Hazinece Kuruma ödenir.
+i\) **(Ek: 21/5/2013-6486/5 md.)** Özel sektör işverenlerinin yurt
+dışındaki işyerlerinde çalıştırılmak üzere 4 üncü maddenin birinci
+fıkrasının (a) bendi kapsamında sigortalı olarak yurt içinden götürülen
+sigortalılar için, bu maddenin (f) bendine göre prime esas kazanç
+üzerinden ödenecek primin işveren hissesinin beş puanlık kısmına isabet
+eden tutar Hazinece karşılanır. Bu bent hükümlerinden faydalanabilmek
+için; çalıştırdıkları sigortalılarla ilgili olarak işverenler tarafından
+bu Kanun uyarınca verilmesi gereken aylık prim ve hizmet belgelerinin
+yasal süresi içinde Kuruma verilmesi, bu sigortalılara ilişkin olarak
+yatırılması gereken sigorta primi tutarlarının Hazinece karşılanmayan
+kısmının yasal süresi içinde işverenlerce ödenmiş olması ve bu
+işverenlerin Kuruma prim, idari para cezası ve bunlara ilişkin gecikme
+cezası ve gecikme zammı borcunun bulunmaması şarttır. Ancak Kuruma olan
+prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme
+zammı borçlarını 6183 sayılı Kanunun 48 inci maddesine göre tecil
+ettiren ve taksitlendiren işverenler ile taksitlendirme ve yapılandırma
+kanunlarına göre taksitlendiren ve yapılandıran işverenler bu tecil,
+taksitlendirme ve yapılandırmaları devam ettiği sürece bu bent hükmünden
+yararlandırılır. 5335 sayılı Kanunun 30 uncu maddesinin ikinci fıkrası
+kapsamına giren kurum ve kuruluşlara ait işyerleri; 2886 sayılı Kanun ve
+4734 sayılı Kanun hükümlerine istinaden yapılan alım ve yapım işleri,
+4734 sayılı Kanundan istisna olan alım ve yapım işlerine ilişkin
+işyerleri; ek 2 nci madde kapsamında uygulanan teşvikten yararlanan
+işyerleri ile sosyal güvenlik destek primine tabi tutulmak suretiyle
+çalışanlar hakkında bu bent hükümleri uygulanmaz. Hazineden karşılanan
+prim tutarları, işverenler bakımından gelir ve kurumlar vergisi
+matrahının tespitinde gider veya maliyet unsuru olarak dikkate alınmaz.
 
-**––––––––––––**
+**–––––––––––––––––––––**
 
 *(1)31/7/2008 tarihli ve 5797 sayılı Kanunun 2 nci maddesiyle; bu bentte
-yer alan "29/7/2003 tarihli ve 4958 sayılı Sosyal Güvenlik Prim
+yer alan “29/7/2003 tarihli ve 4958 sayılı Sosyal Güvenlik Prim
 Alacaklarının Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik
 Yapılması Hakkında Kanuna göre yapılandırılan işverenler bu tecil ve
-taksitlendirme ile yapılandırmaları devam ettiği sürece" ibaresi
-"29/7/2003 tarihli ve 4958 sayılı Sosyal Sigortalar Kurumu Kanununa ve
+taksitlendirme ile yapılandırmaları devam ettiği sürece” ibaresi
+“29/7/2003 tarihli ve 4958 sayılı Sosyal Sigortalar Kurumu Kanununa ve
 22/2/2006 tarihli ve 5458 sayılı Sosyal Güvenlik Prim Alacaklarının
 Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik Yapılması
 Hakkında Kanun ile diğer taksitlendirme ve yapılandırma Kanunlarına göre
 taksitlendiren ve yapılandıran işverenler bu tecil, taksitlendirme ve
-yapılandırmaları devam ettiği sürece" şeklinde değiştirilmiş ve metne
+yapılandırmaları devam ettiği sürece” şeklinde değiştirilmiş ve metne
 işlenmiştir.*
 
 *(2) 13/2/2011 tarihli ve 6111 sayılı Kanunun 38 inci maddesiyle, bu
 bentte yer alan “Bu fıkra hükümleri Kamu idareleri işyerleri ile bu
 Kanuna göre sosyal güvenlik destek primine tabi çalışanlar ve yurt
-dışında çalışan sigortalılar hakkında uygulanmaz.” cümlesi “Bu bent
+dışında çalışan sigortalılar hakkında uygulanmaz.” Cümlesi “Bu bent
 hükümleri; 21/4/2005 tarihli ve 5335 sayılı Kanunun 30 uncu maddesinin
 ikinci fıkrası kapsamına giren kurum ve kuruluşlara ait işyerleri ile
 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununa, 4/1/2002 tarihli
@@ -5510,17 +5544,42 @@ ve 4734 sayılı Kamu İhale Kanununa ve uluslararası anlaşma hükümlerine
 istinaden yapılan alım ve yapım işleri ile 4734 sayılı Kanundan istisna
 olan alım ve yapım işlerine ilişkin işyerleri, sosyal güvenlik destek
 primine tabi çalışanlar ve yurt dışında çalışan sigortalılar hakkında
-uygulanmaz.” şeklinde, aynı bentte yer alan “Bu fıkrayla düzenlenen
+uygulanmaz.” Şeklinde, aynı bentte yer alan “Bu fıkrayla düzenlenen
 destek unsurundan diğer ilgili mevzuat uyarınca ayrıca yararlanmakta
 olan işverenler aynı dönem için ve mükerrer olarak bu destek unsurundan
 yararlanamaz. Bu durumda, işverenlerin tercihleri dikkate alınmak
 suretiyle uygulama, destek unsurlarından sadece biriyle sınırlı olarak
-yapılır.” cümleleri “Bu fıkra ve diğer ilgili mevzuatla sağlanan sigorta
+yapılır.” Cümleleri “Bu fıkra ve diğer ilgili mevzuatla sağlanan sigorta
 prim desteklerinin aynı dönem için birlikte uygulanması halinde, bu
-destek öncelikle uygulanır.” şeklinde değiştirilmiş ve metne
+destek öncelikle uygulanır.” Şeklinde değiştirilmiş ve metne
 işlenmiştir.*
 
 9844-1
+
+**(Ek fıkra: 21/5/2013-6486/5 md.)** On ve üzerinde sigortalı çalıştıran
+işyerlerine uygulanmak üzere, birinci fıkranın (ı) bendinde belirtilen
+ve Hazinece karşılanan puana, prime esas kazanç alt sınırı üzerinden
+altı puana kadar ilave puan eklemeye, sosyo-ekonomik gelişmişlik
+endeksini dikkate almak suretiyle ilave puan uygulanacak illeri ve
+uygulama süresini belirlemeye Bakanlar Kurulu yetkilidir.
+
+**(Değişik fıkra: 17/4/2008-5754/48 md.)** Devlet, Kurumun ay itibarıyla
+tahsil ettiği malullük, yaşlılık ve ölüm sigortaları ile genel sağlık
+sigortası priminin dörtte biri oranında Kuruma katkı yapar. Devlet
+katkısı olarak hesaplanacak tutar talep edilen tarihi takip eden 15 gün
+içinde Hazinece Kuruma ödenir.
+
+**(Ek fıkra: 21/5/2013-6486/5 md.)** Yapılan kontrol ve denetimlerde,
+çalıştırdığı kişileri sigortalı olarak bildirmediği veya bildirilen
+sigortalının fiilen çalışmadığının tespit edilmesi hâlinde, işverenler
+bir yıl süreyle bu maddeyle sağlanan destek unsurlarından yararlanamaz.
+Bu madde kapsamındaki teşvikten yersiz olarak faydalanıldığının tespiti
+hâlinde, yararlanılan teşvik tutarı işverenden gecikme cezası ve gecikme
+zammı ile birlikte tahsil edilir.
+
+**(Ek fıkra: 21/5/2013-6486/5 md.)** Bu maddenin uygulanmasına ilişkin
+usul ve esaslar Bakanlık, Maliye Bakanlığı ve Hazine Müsteşarlığı
+tarafından müştereken belirlenir.
 
 **Günlük kazanç sınırları**
 
@@ -5560,7 +5619,9 @@ sınıfına girdiği, tehlike sınıf ve derecesine ait prim oranlarının ve
 tehlike derecelerinin belirlenmesinde uygulanacak esaslar, ilgili
 bakanlıkların görüşleri de alınarak Bakanlığın teklifi üzerine Bakanlar
 Kurulu kararıyla yürürlüğe konulacak bir tarife ile tespit edilir. Prim
-tarifesi gerekli görülürse aynı usûlle değiştirilebilir.
+tarifesi gerekli görülürse aynı usulle değiştirilebilir.
+
+9844-2
 
 Yapılan işin birinci fıkrada belirtilen tarifeye göre hangi tehlike
 sınıf ve derecesine girdiği ve ödenecek kısa vadeli sigorta kolları
@@ -5577,8 +5638,6 @@ isteği üzerine değiştirebilir. Kurumca yapılacak değişikliklere ilişkin
 kararın takvim yılından en az bir ay önce işverene, işveren tarafından
 değişiklik isteğinin de takvim yılından en az iki ay önce Kuruma
 bildirilmesi şarttır.
-
-9844-2
 
 Böylece karara bağlanacak değişiklikler, karar veya istekten sonraki
 takvim yılı başında yürürlüğe girer.
@@ -5616,8 +5675,6 @@ halinde ise, kısa vadeli sigorta kolları sigortası prim farkı, işverenin
 varsa borçlarına mahsup edilir, yoksa iade edilir. Bir ay içinde iade
 edilmesi halinde faiz ödenmez.
 
-9845
-
 **Tehlike sınıf ve derecelerini etkileyebilecek değişiklikler**
 
 **MADDE 84-** İşverenler ile 4 üncü maddenin birinci fıkrasının (b)
@@ -5628,6 +5685,8 @@ tehlike sınıf ve derecesini değiştirebilir. Tehlike sınıf ve derecesini
 etkileyebilecek değişiklik bir ay içinde bildirilirse bu konuda Kurumca
 verilecek karar, değişikliğin meydana geldiği tarihten sonraki ay
 başından başlanarak uygulanır.
+
+9845
 
 Tehlike sınıf ve derecesini etkileyebilecek değişiklik bir ay içinde
 bildirilmezse;
@@ -5668,7 +5727,7 @@ cezası ve gecikme zammının ödenmemesi, taahhütname verilmemesi veya
 Kurumca işyerinin denetlenmesine gerek görülmesi durumunda Kurumca
 inceleme yapılır.
 
-Bu maddenin birinci ve ikinci fıkrasında belirtilen usûllerle Kuruma
+Bu maddenin birinci ve ikinci fıkrasında belirtilen 82usullerle82 Kuruma
 bildirilmediği tespit edilen asgarî işçilik tutarı üzerinden Kurumca
 re’sen tahakkuk ettirilen sigorta primleri, 88 inci ve 89 uncu maddeler
 dikkate alınarak işverene tebliğ edilir. İşveren, tebliğ edilen prim
@@ -5678,7 +5737,7 @@ işveren, kararın tebliğ tarihinden itibaren bir ay içinde yetkili iş
 mahkemesine başvurabilir. Mahkemeye başvurulması, prim borcunun takip ve
 tahsilini durdurmaz.
 
-––––––––––––––––––––
+*––––––––––––––––––––––*
 
 *(1)Bu madde başlığı “Asgarî işçilik uygulaması” iken, 17/4/2008 tarihli
 ve 5754 sayılı Kanunun 49 uncu maddesiyle metne işlendiği şekilde
@@ -5693,7 +5752,7 @@ eklenmiş ve metne işlenmiştir.*
 
 Kurumun denetim ve kontrolle görevlendirilmiş memurlarınca, Kuruma
 asgarî işçilik tutarının bildirilmediği tespit edilen işyerleri hakkında
-ayrıca 102 nci maddenin birinci fıkrasının (d) bendi ile (e) bendinin
+ayrıca 102 nci maddenin birinci fıkrasının (d) bendi ile (c) bendinin
 (4) numaralı alt bendi uyarınca idarî para cezası uygulanır.
 
 Kamu idareleri, döner sermayeli kuruluşlar kanunla kurulan kurum ve
@@ -5778,7 +5837,7 @@ c\) Prim ödeme gün sayıları ile prim tutarlarını,
 
 gösteren ve örneği Kurum tarafından çıkarılacak yönetmelikle belirlenen
 asıl veya ek aylık prim ve hizmet belgesini, 4 üncü maddenin birinci
-fıkrasının © bendi kapsamındakiler için en geç Kurumca belirlenecek
+fıkrasının (c) bendi kapsamındakiler için en geç Kurumca belirlenecek
 günün sonuna kadar, diğer sigortalılar için ise ait olduğu ayı takip
 eden ayda Kurumca belirlenecek günün sonuna kadar Kuruma vermekle veya
 sigortalı çalıştırmadığı takdirde, bu hususu sigortalı çalıştırmaya son
@@ -5805,7 +5864,7 @@ belgelerin işverence ilgili aya ait aylık prim ve hizmet belgesine
 eklenmesi şarttır. **(Değişik ikinci cümle: 13/2/2011-6111/40 md.)**
 Kurumca belirlenen işyerlerinde bu şart aranmaz.
 
-–––––––––––
+–––––––––––––––––
 
 *(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 50 nci maddesiyle; bu
 maddenin birinci fıkrasında yer alan “ait olduğu ayı takip eden ayın
@@ -5898,7 +5957,7 @@ primi yılı merkezî yönetim bütçesinden karşılanmak üzere ilgili kamu
 idareleri,
 
 d\) **(Değişik: 17/4/2008-5754/51 md.)** 60 ıncı maddenin birinci
-fıkrasının (e) bendinde sayılan kişiler ile 5 inci maddenin (e) bendinde
+fıkrasının (c) bendinde sayılan kişiler ile 5 inci maddenin (c) bendinde
 belirtilenler için Türkiye İş Kurumu,
 
 e\) 5 inci maddenin (b) bendinde belirtilen aday çırak, çırak ve
@@ -5935,7 +5994,7 @@ sigortalısı olanların aynı ay içinde zorunlu sigorta kapsamında prim
 ödeme gün sayısı bulunması halinde, ayın kalan günleri için isteğe bağlı
 sigorta gün sayısı kadar genel sağlık sigortası primi ödenir.
 
-–––––––––––––
+*–––––––––––––––––––––––––*
 
 *(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 41 inci maddesiyle, bu
 bentte yer alan “zorunlu” ibareleri madde metninden çıkarılmıştır.*
@@ -6135,7 +6194,7 @@ Kanunu kapsamındaki kuruluşlar, kanunla kurulan kurum ve kuruluşlar,
 ihale yolu ile yaptırdıkları her türlü işleri üstlenenleri ve bunların
 adreslerini onbeş gün içinde Kuruma bildirmekle yükümlüdür.
 
-*–––––––––––––*
+*––––––––––––––––––––*
 
 *(1) Bu maddenin ikinci fıkrasında yer alan gecikme cezası oranı,
 1/3/2010 tarihli ve 2010/260 sayılı Bakanlar Kurulu Kararı Eki Kararın 1
@@ -6150,15 +6209,15 @@ tarihli ve 5754 sayılı Kanunun 54 üncü maddesiyle metne işlendiği
 9852
 
 **(Değişik ikinci fıkra: 17/4/2008-5754/54 md.)** İşverenlerin
-hakedişleri, Kuruma idari para cezası, prim ve prime ilişkin borçlarının
-olmaması kaydıyla ödenir. Kesin teminatları ise ihale konusu işle ilgili
-olarak Kuruma borçlarının bulunmadığının tespit edilmesinden sonra iade
-edilir. İşverenlerin, kamu idareleri ile döner sermayeli kuruluşlar,
-bankalar ve kanunla kurulan kurum ve kuruluşlar nezdindeki her çeşit
-alacak, teminat ve hakedişleri üzerinde işçi ücreti alacakları hariç
-olmak üzere yapılacak her türlü devir, temlik ve el değiştirme, Kurum
-alacaklarını karşılayacak kısım ayrıldıktan sonra, kalan kısım üzerinde
-hüküm ifade eder.
+90hakedişleri, Kuruma idari para cezası, prim ve prime ilişkin
+borçlarının olmaması kaydıyla ödenir. Kesin teminatları ise ihale konusu
+işle ilgili olarak Kuruma borçlarının bulunmadığının tespit edilmesinden
+sonra iade edilir. İşverenlerin, kamu idareleri ile döner sermayeli
+kuruluşlar, bankalar ve kanunla kurulan kurum ve kuruluşlar nezdindeki
+her çeşit alacak, teminat ve 90hakedişleri üzerinde işçi ücreti
+alacakları hariç olmak üzere yapılacak her türlü devir, temlik ve el
+değiştirme, Kurum alacaklarını karşılayacak kısım ayrıldıktan sonra,
+kalan kısım üzerinde hüküm ifade eder.
 
 **(Değişik üçüncü fıkra: 17/4/2008-5754/54 md.)** Hakedişlerin mahsubu
 ve ödenmesi ile teminatların prim ve idari para cezası borçlarına
@@ -6205,7 +6264,7 @@ müeyyideleri ile birlikte geri alınır. Bu fıkranın uygulanmasına ilişkin
 usûl ve esaslar Maliye Bakanlığı ile Hazine Müsteşarlığının görüşleri
 alınarak Kurumca belirlenir. ^(1)^
 
-–––––––––––––
+*–––––––––––––––––––––––*
 
 *(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 43 üncü maddesiyle, bu
 fıkranın ilk cümlesinde geçen “daha önce başlayıp devam eden nakdi
@@ -6269,7 +6328,7 @@ başkasına devretmek için sözleşmelere konulan hükümler geçersizdir.
 Bu Kanuna göre alınacak sigorta primleri ve idarî para cezalarının
 ödenmesi için, Kurumca işverene yapılacak bildirim üzerine prim borçları
 ve idarî para cezaları ödenmezse, Kurumca düzenlenen prim borcunu ve
-idarî para cezasını gösteren belgeler resmî dairelerin usûlüne göre
+idarî para cezasını gösteren belgeler resmî dairelerin usulüne göre
 düzenledikleri belgeler hükmündedir.
 
 9853
@@ -6311,8 +6370,8 @@ uygulanır. Bu alacaklar için 89 uncu madde gereğince hesaplanacak
 gecikme cezası ve gecikme zammı, 88 inci maddede belirtilen ödeme
 süresinin son gününü takip eden günden itibaren uygulanır.
 
-Bu Kanuna dayanılarak Kurumca açılacak tazminat ve rücû davaları, on
-yıllık zamanaşımına tâbidir. Zamanaşımı tarihi; rücû konusu gelir ve
+Bu Kanuna dayanılarak Kurumca açılacak tazminat ve 92alu davaları, on
+yıllık zamanaşımına tâbidir. Zamanaşımı tarihi; 92alu konusu gelir ve
 aylıklar bakımından Kurum onay tarihinden, masraf ve ödemeler için ise
 masraf veya ödeme tarihinden itibaren başlar.
 
@@ -6330,22 +6389,22 @@ bakmakla yükümlü olduğu kişilerden, sağlık hizmetinin gerçekten alınıp
 alınmadığını,
 
 b\) Sigortalının, isteğe bağlı sigortalının veya bunların hak
-sahiplerinin malûllük, iş göremezlik raporlarında belirtilen
+sahiplerinin malullük, iş göremezlik raporlarında belirtilen
 rahatsızlıklarının mevcut olup olmadığını,
 
 tespit amacıyla kontrol muayenesi ve tetkik yaptırılmasını talep
 edebilir.
 
-Malûllük, vazife malûllüğü aylığı veya sürekli iş göremezlik geliri
-bağlanmış sigortalılar, malûllük durumlarında artma veya başka birinin
+Malûllük, vazife malullük92 aylığı veya sürekli iş göremezlik geliri
+bağlanmış sigortalılar, malullük durumlarında artma veya başka birinin
 sürekli bakımına muhtaç olduğunu ileri sürerek aylık ve gelirlerinde
-değişiklik yapılmasını isteyebilecekleri gibi; Kurum da harp malûllüğü,
-vazife malûllüğü, malûllük aylığı veya sürekli iş göremezlik geliri
+değişiklik yapılmasını isteyebilecekleri gibi; Kurum da harp malullük,
+vazife malullük, malullük aylığı veya sürekli iş göremezlik geliri
 bağlanmış sigortalılar ile aylık veya gelir bağlanan ve çalışma gücünün
 en az % 60’ını yitiren malûl çocukların kontrol muayenesine tâbi
 tutulmasını talep edebilir. ^(4)^
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*–––––––––––––––––––––*
 
 *(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 55 inci maddesiyle; bu
 fıkrada yer alan “Kurumca verilecek sosyal güvenlik sicil” ibaresi
@@ -6359,44 +6418,44 @@ işlendiği şekilde değiştirilmiştir.*
 *(3) 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle; bu
 fıkraya “Bu fıkraya göre haczi yasaklanan gelir, aylık ve ödeneklerin
 haczedilmesine ilişkin talepler, borçlunun muvafakati bulunmaması
-halinde, icra müdürü tarafından reddedilir.” ibaresi eklenmiştir.*
+halinde, icra müdürü tarafından reddedilir.” İbaresi eklenmiştir.*
 
 *(4) 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle; bu
 fıkrada yer alan “harp malûlleri ve vazife malûlleri hariç,” ibaresi
-“harp malûllüğü, vazife malûllüğü” şeklinde değiştirilmiş; aynı Kanunun
-66 ncı maddesiyle “Malûllük” ibaresinden sonra gelmek üzere “, vazife
-malûllüğü” ibaresi eklenmiş ve metne işlenmiştir.*
+“harp malullük*92*, vazife malullük*92*” şeklinde değiştirilmiş; aynı
+Kanunun 66 ncı maddesiyle “Malûllük” ibaresinden sonra gelmek üzere “,
+vazife malullük*92*” ibaresi eklenmiş ve metne işlenmiştir.*
 
 9854
 
 Kurumca yaptırılan kontrol muayenesinde veya sigortalının isteği üzerine
 ya da işe alıştırma sonunda yapılan muayenesinde yeniden tespit edilecek
-malûllük durumuna göre, malûllük aylığı veya sürekli iş göremezlik
-geliri, yeni malûllük durumuna esas tutulan raporun tarihini takip eden
-ödeme dönemi başından başlanarak artırılır, azaltılır veya kesilir.
+malullük durumuna göre, malullük aylığı veya sürekli iş göremezlik
+geliri, yeni 93malullük durumuna esas tutulan raporun tarihini takip
+eden ödeme dönemi başından başlanarak artırılır, azaltılır veya kesilir.
 
 Çalışma gücünün en az % 60’ını yitiren malûl çocuklara bağlanmış bulunan
-gelir ve aylıklar, kontrol muayenesi sonunda tespit edilecek malûllük
+gelir ve aylıklar, kontrol muayenesi sonunda tespit edilecek malullük
 durumuna göre, rapor tarihinden sonraki ödeme dönemi başından itibaren
 kesilir.
 
 Kurumun yazılı bildiriminde belirtilen tarihten sonraki ödeme dönemi
 başına kadar kabul edilebilir bir 93zrü olmadığı halde kontrol
-muayenesini yaptırmayan sigortalının malûllük aylığı veya sürekli iş
+muayenesini yaptırmayan sigortalının 93malullük aylığı veya sürekli iş
 göremezlik geliri ile çalışma gücünün en az % 60’ını yitiren malûl
 çocukların kendilerine bağlanmış olan gelir veya aylığı, kontrol
 muayenesi için belirtilen tarihten sonraki ödeme dönemi başından
 itibaren kesilir.
 
 Ancak, kontrol muayenesini Kurumun yazılı bildiriminde belirtilen
-tarihten başlayarak üç ay içinde yaptıran ve malûllük veya sürekli iş
+tarihten başlayarak üç ay içinde yaptıran ve malullük veya sürekli iş
 göremezlik halinin devam ettiği tespit edilen sigortalının veya aylık ya
 da gelir bağlanmış olan malûl çocuğun kesilen aylık veya geliri,
 kesildiği tarihten başlanarak yeniden bağlanır.
 
 Kontrol muayenesini Kurumun yazılı bildiriminde belirtilen tarihten üç
-ay geçtikten sonra yaptıran ve malûllük veya sürekli iş göremezlik
-halinin devam ettiği tespit edilen sigortalının malûllük aylığı veya
+ay geçtikten sonra yaptıran ve malullük veya sürekli iş göremezlik
+halinin devam ettiği tespit edilen sigortalının malullük aylığı veya
 yeni sürekli iş göremezlik derecesine göre hesaplanacak geliri, gelir
 veya aylık bağlanan çalışamayacak durumda malûl çocukların ise almakta
 oldukları gelir veya aylık, rapor tarihinden sonraki ay başından
@@ -6413,16 +6472,16 @@ verilmesine ilişkin raporlar ile iş kazası ve meslek hastalığı sonucu
 meslekte kazanma gücü veya çalışma gücü kaybına esas teşkil edecek
 sağlık kurulu raporlarının usûl ve esaslarını, bu raporları vermeye
 yetkili sağlık hizmeti sunucularının sahip olması gereken kriterleri
-belirlemeye, usûlüne uygun olmayan sağlık kurulu raporu ve dayanağı
+belirlemeye, usulüne uygun olmayan sağlık kurulu raporu ve dayanağı
 tıbbî belgeleri düzenleyen sağlık hizmet sunucusuna iade ederek
 belirlenen bilgileri içerecek şekilde yeniden düzenlenmesini istemeye
 Kurum yetkilidir.
 
 Usûlüne uygun sağlık kurulu raporu ve dayanağı tıbbî belgeler ile
 gerekli diğer belgelerin incelenmesiyle; yurt dışında tedavi için
-yapılacak sevklere, vazife malûllük derecesini, iş kazası veya meslek
+yapılacak sevklere, vazife malullük derecesini, iş kazası veya meslek
 hastalığı sonucu tespit edilen meslekte kazanma gücünün kaybına veya
-meslekte kazanma gücünün kaybı derecelerine ilişkin usûlüne uygun
+meslekte kazanma gücünün kaybı derecelerine ilişkin usulüne uygun
 düzenlenmiş sağlık kurulu raporları ve diğer belgelere istinaden Kurumca
 verilen karara ilgililerin itirazı halinde, durum Sosyal Sigorta Yüksek
 Sağlık Kurulunca karara bağlanır. ^(1)^
@@ -6430,11 +6489,11 @@ Sağlık Kurulunca karara bağlanır. ^(1)^
 Bu maddenin uygulamasına ilişkin usûl ve esaslar, Sağlık Bakanlığı ile
 Kurumun birlikte çıkaracağı yönetmelikle düzenlenir.
 
-–––––––––––––
+*––––––––––––––––––––––––––*
 
 *(1)17/4/2008 tarihli ve 5754 sayılı Kanunun 66 ncı maddesiyle; bu
 fıkrada yer alan “yapılacak sevklere,” ibaresinden sonra gelmek üzere
-“vazife malûllük derecesini,” ibaresi eklenmiş ve metne işlenmiştir.*
+“vazife malullük derecesini,” ibaresi eklenmiş ve metne işlenmiştir.*
 
 9855
 
@@ -6477,9 +6536,9 @@ yönetmelikle düzenlenir.
 **Zamanaşımı, hakkın düşmesi ve avans**
 
 **MADDE 97-** Bu Kanunda aksine hüküm bulunmayan hallerde, iş kazası,
-meslek hastalığı, vazife malûllüğü ve ölüm hallerinde bağlanması gereken
-gelir ve aylıkların, hakkın kazanıldığı tarihten itibaren beş yıl içinde
-istenmeyen kısmı zamanaşımına uğrar**. (Mülga son cümle:
+meslek hastalığı, vazife 94malullük94 ve ölüm hallerinde bağlanması
+gereken gelir ve aylıkların, hakkın kazanıldığı tarihten itibaren beş
+yıl içinde istenmeyen kısmı zamanaşımına uğrar**. (Mülga son cümle:
 17/4/2008-5754/57 md.) ^(2)^**
 
 Kuruma müracaat etmemenin haklı bir sebebe dayandığını genel hükümlere
@@ -6499,7 +6558,7 @@ alacakları, hakkı doğuran olayın öğrenildiği tarihten itibaren iki yıl
 içinde istenmezse zamanaşımına uğrar, hakkı doğuran olay tarihinden
 itibaren ise beş yıl sonunda düşer.
 
-*––––––––––––––––*
+*––––––––––––––––––––––––*
 
 *(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 44 üncü maddesiyle, bu
 bentte yer alan “üç ay” ibaresi “yirmidört ay” ve “üç aylık” ibaresi
@@ -6507,7 +6566,7 @@ bentte yer alan “üç ay” ibaresi “yirmidört ay” ve “üç aylık” i
 
 *(2)17/4/2008 tarihli ve 5754 sayılı Kanunun 57 nci maddesiyle; bu
 fıkrada yer alan “meslek hastalığı” ibaresinden sonra gelmek üzere “,
-vazife malûllüğü” ibaresi eklenmiş ve metne işlenmiştir.*
+vazife* 94*malullük*94*” ibaresi eklenmiş ve metne işlenmiştir.*
 
 9856
 
@@ -6662,8 +6721,8 @@ Kanunun;
 
 a\) 1) 8 inci maddesinin birinci fıkrası ile 61 inci maddede belirtilen
 bildirgeyi, bu Kanunda belirtilen süre içinde ya da Kurumca belirlenen
-şekle ve usûle uygun vermeyenler veya Kurumca internet, elektronik veya
-benzeri ortamda göndermekle zorunlu tutulduğu hâlde anılan ortamda
+şekle ve 97usulüne uygun vermeyenler veya Kurumca internet, elektronik
+veya benzeri ortamda göndermekle zorunlu tutulduğu hâlde anılan ortamda
 göndermeyenler hakkında her bir sigortalı için asgari ücret tutarında
 idari para cezası uygulanır.
 
@@ -6689,8 +6748,8 @@ yükümlü olanlar hakkında bu defa her bir sigortalı için asgari ücretin
 beş katı tutarında idari para cezası uygulanır.
 
 b\) 11 inci maddesinde belirtilen bildirgeyi, Kurumca belirlenen şekle ve
-usûle uygun vermeyenler veya Kurumca internet, elektronik veya benzeri
-ortamda göndermekle zorunlu tutulduğu halde, anılan ortamda
+97usulüne uygun vermeyenler veya Kurumca internet, elektronik veya
+benzeri ortamda göndermekle zorunlu tutulduğu halde, anılan ortamda
 göndermeyenler veya bu Kanunda belirtilen süre içinde Kuruma
 vermeyenlere;
 
@@ -6706,7 +6765,7 @@ tutarında,
 idari para cezası uygulanır.
 
 c\) 86 ncı maddesinin birinci fıkrası uyarınca verilmesi gereken
-belgeleri, Kurumca belirlenen şekilde ve usûlde vermeyenler ya da
+belgeleri, Kurumca belirlenen şekilde ve 97usulde vermeyenler ya da
 Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu
 tutulduğu halde anılan ortamda göndermeyenler veya belirlenen süre
 içinde vermeyenlere her bir fiil için;
@@ -6766,7 +6825,7 @@ belgelerin tümünü verilen süre içinde ibraz etmekle birlikte; kanunî
 tasdik süresi geçtikten sonra tasdik ettirilmiş olan defterlerin tasdik
 tarihinden önceki kısmı, işçilikle ilgili giderlerin işlenmemiş olduğu
 tespit edilen defterler, sigorta primleri hesabına esas tutulan
-kazançların kesin olarak tespitine imkân vermeyecek şekilde usûlsüz veya
+kazançların kesin olarak tespitine imkân vermeyecek şekilde usulsüz veya
 noksan tutulmuş defterler, herhangi bir ay için sigorta primleri
 hesabına esas tutulması gereken kazançların ve kazançlarla ilgili
 ödemelerin (sigorta primine esas kazancın ödemeye bağlı olduğu durumlar
@@ -6821,7 +6880,7 @@ yasal süresi içinde yerine getirmeyen kurum ve kuruluşlara yerine
 getirilmeyen her bir bildirim yükümlülüğü için aylık asgari ücret
 tutarında idari para cezası uygulanır.
 
-ı) Kurumun denetim ve kontrolle görevlendirilmiş memurlarının;
+I\) Kurumun denetim ve kontrolle görevlendirilmiş memurlarının;
 
 l\) Bu Kanunun uygulanmasından doğan inceleme ve soruşturma görevlerini
 yerine getirmeleri sırasında işverenler, sigortalılar, işyeri sahipleri
@@ -6835,6 +6894,14 @@ kişiler fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil
 etmediği takdirde Türk Ceza Kanununun 265 inci maddesinin ikinci
 fıkrasına göre cezalandırılır. Bu suçu işleyenler hakkında ayrıca asgari
 ücretin on katı tutarında idari para cezası uygulanır.
+
+*–––––––––––––––––––––––––––*
+
+*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 45 inci maddesiyle, bu
+bentte yer alan “ve 86 ncı maddesinin altıncı fıkrasında” ibaresi madde
+metninden çıkarılmıştır.*
+
+9860
 
 i\) Kurum tarafından bu Kanunun 100 üncü maddesi kapsamında Kurum
 tarafından istenen bilgi ve belgeleri belirlenen süre içinde mücbir
@@ -6874,14 +6941,6 @@ gereken bildirim veya kontrol yükümlülüğünün yerine getirilmemesi
 halinde, her bir fiil için asgari ücret tutarında idari para cezası
 uygulanır.
 
-––––––––––––––
-
-*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 45 inci maddesiyle, bu
-bentte yer alan “ve 86 ncı maddesinin altıncı fıkrasında” ibaresi madde
-metninden çıkarılmıştır.*
-
-9860
-
 **(Değişik: 17/1/2012-6270/11 md.)** Mahkeme kararına, Kurumun denetim
 ve kontrol ile görevlendirilmiş memurlarınca yapılan tespitler veya
 diğer kamu idarelerinin denetim elemanlarınca kendi mevzuatları
@@ -6897,6 +6956,14 @@ oranına karşılık gelen tutar üzerinden uygulanır.
 İdarî para cezası uygulanması 8 inci, 9 uncu, 11 inci ve 86 ncı
 maddelerde belirtilen belgelerin Kuruma verilmesi yükümlülüğünü
 kaldırmaz. ^(1)^
+
+^–––––––––––––––––––^
+
+*(1)18/2/2009 tarihli ve 5838 sayılı Kanunun 4 üncü maddesiyle; bu
+fıkrada yer alan“8 inci,” ibaresinden sonra gelmek üzere “9 uncu,”
+ibaresi eklenmiş ve metne işlenmiştir.*
+
+9860-1
 
 İdarî para cezaları ilgiliye tebliğ ile tahakkuk eder. Tebliğ tarihinden
 itibaren onbeş gün içinde Kuruma ya da Kurumun ilgili hesaplarına
@@ -6959,12 +7026,6 @@ nedenle bir başka kişiye sağlık hizmeti sunulması nedeniyle Kurumun
 zarara uğramasına sebebiyet veren sağlık hizmeti sunucularından
 uğranılan zarar geri alınır.
 
-–––––––––––––––––
-
-*(1)18/2/2009 tarihli ve 5838 sayılı Kanunun 4 üncü maddesiyle; bu
-fıkrada yer alan“8 inci,” ibaresinden sonra gelmek üzere “9 uncu,”
-ibaresi eklenmiş ve metne işlenmiştir.*
-
 9861
 
 **YEDİNCİ KISIM**
@@ -6984,7 +7045,7 @@ Kanunla yürürlükten kaldırılmayan hükümleri saklı kalmak kaydıyla,
 17/7/1964 tarihli ve 506 sayılı, 2/9/1971 tarihli ve 1479 sayılı,
 17/10/1983 tarihli ve 2925 sayılı, 17/10/1983 tarihli ve 2926 sayılı ve
 8/6/1949 tarihli ve 5434 sayılı kanunlara yapılan atıflar ile ilgili
-mevzuatında emeklilik, malûllük, vazife malûllüğü ve sosyal sigorta
+mevzuatında emeklilik, 102malullük, vazife malullük102 ve sosyal sigorta
 haklarına, yardımlarına ve yükümlülüklerine, iştirakçiliğe ve
 sigortalılığa, dul, yetim ve hak sahipliği şartlarına, emekli
 ikramiyesine, ek ödemelere, sağlık hizmetleri veya tedavi bedellerinin
@@ -7028,11 +7089,11 @@ Yasasının 5 inci maddesi,
 5\) 24/5/1983 tarihli ve 2829 sayılı Sosyal Güvenlik Kurumlarına Tabi
 Olarak Geçen Hizmetlerin Birleştirilmesi Hakkında Kanun,
 
-*–––––––––––––––––*
+*–––––––––––––––––––––*
 
-*(1)* *Bu madde başlığı “Değiştirilen, eklenen ve uygulanmayacak
-hükümler” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 63 üncü
-maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+*(1) Bu madde başlığı “Değiştirilen, eklenen ve uygulanmayacak hükümler”
+iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 63 üncü maddesiyle metne
+işlendiği şekilde değiştirilmiştir.*
 
 9862
 
@@ -7093,7 +7154,7 @@ maddeleri,
 14\) 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3
 üncü maddesinin (d) bendi ile geçici 3 üncü maddesi,
 
-––––––––––––––––––
+*–––––––––––––––––––––*
 
 *(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 46 ncı maddesiyle, bu
 bentte yer alan “ve 33 üncü” ibaresi “, 33 üncü ve 35 inci” şeklinde
@@ -7136,7 +7197,7 @@ Bulunanlara Vatani Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkında
 Kanunun 2 nci maddesinin ikinci fıkrası,
 
 23\) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 18 inci
-maddesinin © bendi ile 20 nci maddesi,
+maddesinin (c) bendi ile 20 nci maddesi,
 
 24\) 8/5/1985 tarihli ve 3201 sayılı Kanunun 7 nci, 11 inci, geçici 1 ilâ
 geçici 4 üncü maddeleri ile aynı Kanunda geçen “döviz” ibareleri,
@@ -7160,7 +7221,7 @@ Kanunun ek 36 ncı ve geçici 20 nci maddeleri ise bu Kanunun geçici 20
 nci maddesinde belirtilen devir işlemlerinin tamamlanmasından sonra
 yürürlükten kaldırılmıştır. ^(1)^
 
-**–––––––––––––––––––––––**
+*–––––––––––––––––––––––*
 
 *(1) 16/6/2010 tarihli ve 5997 sayılı Kanunun 7 nci maddesiyle, bu
 fıkrada yer alan “bu Kanunun yürürlük tarihinden itibaren iki yıl
@@ -7274,7 +7335,7 @@ konusu aylık veya geliri talep ettiği tarihe kadar geçen yıllar için her
 yıl gerçekleşen güncelleme katsayısı ile güncellenerek bulunan kazançlar
 toplamının, ilave prim ödedikleri gün sayısına bölünmesi sonucu
 bulunacak ortalama günlük kazancın otuz katının, ilave prim ödedikleri
-gün sayısının her 360 günü için % 2'si oranında bulunacak tutarda ilave
+gün sayısının her 360 günü için % 2’si oranında bulunacak tutarda ilave
 aylık ödenir. Bu hesaplamada, 360 günden eksik süreler orantılı olarak
 dikkate alınır. Sigortalının ölmesi halinde ise, bu fıkra çerçevesinde
 hesaplanacak ilave aylık geçici 18 inci madde hükümleri saklı kalmak
@@ -7463,7 +7524,7 @@ kuvvetlerine derhal, Kuruma da en geç üç iş günü içinde bildirilir.
 Bu madde kapsamındaki sigortalılar, 82 nci maddeye göre belirlenen prime
 esas kazancın alt ve üst sınırı arasında olmak kaydıyla sigortalı
 tarafından belirlenen günlük kazancın otuz katının % 34,5’i oranında
-prim öderler. Bunun % 20’si malûllük, yaşlılık ve ölüm sigortaları, %
+prim öderler. Bunun % 20’si 109malullük, yaşlılık ve ölüm sigortaları, %
 12,5’i genel sağlık sigortası, % 2’si iş kazası ve meslek hastalıkları
 sigortası primidir.
 
@@ -7516,7 +7577,7 @@ sigortası hükümleri uygulanır.
 Bu sigortalılar, 82 nci maddeye göre belirlenen prime esas kazanç alt ve
 üst sınırı arasında olmak üzere kendileri tarafından belirlenecek günlük
 kazancın otuz katının % 32,5’i oranında prim öderler. Bu prim oranının %
-20’si malûllük, yaşlılık ve ölüm sigortaları, % 12,5’i genel sağlık
+20’si 110malullük, yaşlılık ve ölüm sigortaları, % 12,5’i genel sağlık
 sigortası primidir. İşsizlik sigortasına tabi olmayı isteyenlerin,
 sigortalı ve işveren hissesi oranındaki işsizlik sigortası primini ait
 olduğu ayı takip eden ayın sonuna kadar ödememeleri halinde, o aya ait
@@ -7799,7 +7860,7 @@ edilir.
 **GEÇİCİ MADDE 4-** **(Değişik: 17/4/2008-5754/68 md.)**
 
 Bu Kanunun yürürlüğe girdiği tarih itibarıyla 8/6/1949 tarihli ve 5434
-sayılı Kanuna göre; aylık, tazminat, harp 113malullük113 zammı, diğer
+sayılı Kanuna göre; aylık, tazminat, harp 114malullük114 zammı, diğer
 ödemeler ve yardımlar ile 8/2/2006 tarihli ve 5454 sayılı Kanunun 1 inci
 maddesine göre ek ödeme verilmekte olanlara, bu Kanunla yürürlükten
 kaldırılan hükümleri de dahil 5434 sayılı Kanunda kendileri için
@@ -7817,7 +7878,7 @@ hükümleri de dahil 5434 sayılı Kanun hükümlerine göre işlem yapılır.
 
 5434 sayılı Kanuna göre iştirakçi olup bu Kanunun yürürlüğe girdiği
 tarihten sonra bu Kanunun 4 üncü maddesinin birinci fıkrasının (c)
-bendine tabi olarak çalışmaya başlayanlardan vazife 113malullük113
+bendine tabi olarak çalışmaya başlayanlardan vazife 114malullük114
 kapsamına girenler hakkında, bu Kanunun 47 nci maddesinin birinci
 fıkrasına göre işlem yapılır. **(Ek cümle: 4/7/2012-6353/85 md.)** 5434
 sayılı Kanunun mülga hükümlerine göre vazife malullüğü aylığı
@@ -7868,7 +7929,7 @@ sigortalı olanlara; en az 5400 gün uzun vadeli sigorta kolları primi
 bildirilmiş ya da emekli keseneği ödenmiş olması kaydıyla, istekleri
 halinde bu madde hükümleri esas alınarak yaşlılık aylığı bağlanır. Ancak
 çalışmaya başladıktan sonra, Kurumca yetkilendirilen sağlık hizmet
-sunucularının sağlık kurullarınca 114usulüne uygun düzenlenecek raporlar
+sunucularının sağlık kurullarınca 115usulüne uygun düzenlenecek raporlar
 ve dayanağı tıbbî belgelerin incelenmesi sonucu, Kurum Sağlık Kurulunca
 çalışma gücündeki kayıp oranının;
 
@@ -7915,7 +7976,7 @@ yükseltilir. Ayrıca 5434 sayılı Kanunun yürürlüğe girdiği tarihten sonr
 barem, teşkilat, kadro ve sair kanunlar ile aynı rütbe, kadro ve sair
 kanunlarda yapılacak değişiklikler sonucunda aylık tutarlarında meydana
 gelecek yükselmeler, aynı rütbe, kadro unvanı ve dereceden bağlanmış
-bulunan emeklilik, 115malullük ve vazife malullük115 aylıkları ile dul
+bulunan emeklilik, 116malullük ve vazife malullük116 aylıkları ile dul
 ve yetim aylıkları hakkında da uygulanır.
 
 Bu Kanunun yürürlüğe girdiği tarihte Polis Akademisi ile fakülte ve
@@ -7972,8 +8033,8 @@ yürürlük tarihinden önce ölenler için bu Kanunun yürürlük tarihinden
 itibaren, bu Kanunun yürürlük tarihinden sonra ölenler için ise ölüm
 tarihinden itibaren ölüm aylıklarına eklenmek suretiyle ödenir. Bu
 Kanunun yürürlüğe girdiği tarihten önce seçimler neticesinde belediye
-başkanı olarak görev yapmış olanlardan; 116malullük aylığı almakta
-olanlar ile 116malullük aylığına hak kazanacaklar 5434 sayılı Kanunun bu
+başkanı olarak görev yapmış olanlardan; 117malullük aylığı almakta
+olanlar ile 117malullük aylığına hak kazanacaklar 5434 sayılı Kanunun bu
 Kanunla yürürlükten kaldırılan 39 uncu maddesinde belirtilen aylık
 bağlamaya ilişkin şartlar dikkate alınmaksızın yukarıda belirtilen
 tazminat haklarından yararlandırılır. Bu fıkraya göre tazminat tutarları
@@ -8086,7 +8147,7 @@ arasında geçen yıllar için, her yılın güncelleme katsayısı ile
 **506 sayılı Kanuna ilişkin geçiş hükümleri**
 
 **GEÇİCİ MADDE 6-** 17/7/1964 tarihli ve 506 sayılı Kanuna göre 1/4/1981
-tarihinden önce 118malullük, yaşlılık ve ölüm sigortalarına tescil
+tarihinden önce 119malullük, yaşlılık ve ölüm sigortalarına tescil
 edilmiş olanlar hakkında, bu Kanunun 38 inci maddesinin ikinci
 fıkrasındaki sigortalılık süresinin 18 yaşın doldurulduğu tarihten
 başlayacağına ilişkin hükmü uygulanmaz.
@@ -8102,13 +8163,13 @@ Kanun hükümlerine göre yapılmış sayılır.
 
 506 sayılı Sosyal Sigortalar Kanununun mülga 86 ncı maddesi hükmüne göre
 topluluk sigortasına tâbi olanların ödedikleri iş kazası, meslek
-hastalığı, hastalık, analık, 118malullük, yaşlılık ve ölüm sigortaları
+hastalığı, hastalık, analık, 119malullük, yaşlılık ve ölüm sigortaları
 primleri genel sağlık sigortası dahil bu Kanuna göre ödenmiş sayılır. Bu
 süreler yatırıldıkları sigorta kolları bakımından başlangıç süresi ve
 prim ödeme gün sayısı olarak kabul edilir.
 
 Bu Kanunun yürürlük tarihi itibarıyla 506 sayılı Sosyal Sigortalar
-Kanununun mülga 86 ncı maddesine göre 118malullük, yaşlılık ve ölüm
+Kanununun mülga 86 ncı maddesine göre 119malullük, yaşlılık ve ölüm
 sigortaları bakımından topluluk sigortasına devam edenler, bu Kanunun 4
 üncü maddesi kapsamında durumları değerlendirilerek, durumlarına uyan
 bent kapsamında sigortalı sayılırlar. Bunların kendileri veya
@@ -8117,64 +8178,20 @@ Kuruma verilmek zorundadır.
 
 9871
 
-Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri
-kapsamındaki sigortalılar için bu Kanunun yürürlüğe girdiği tarihten
-önce toptan ödeme yapılarak tasfiye edilen hizmetlerin 31 inci, 36 ncı
-ve 41 inci maddelere göre ihyasında veya borçlanılmasında, bu Kanunun
-yürürlüğe girdiği tarih itibarıyla bu Kanunla bazı maddeleri yürürlükten
-kaldırılan ilgili kanun hükümlerine göre hesaplanan tutarı, bu Kanunun
-yürürlüğe girdiği tarih ile ihya talebine ilişkin yazılı istek tarihi
-arasında geçen yıllar için, her yılın güncelleme katsayısı ile
-çarpılarak bulunan değeri dikkate alınır.
-
-**506 sayılı Kanuna ilişkin geçiş hükümleri**
-
-**GEÇİCİ MADDE 6-** 17/7/1964 tarihli ve 506 sayılı Kanuna göre 1/4/1981
-tarihinden önce malûllük, yaşlılık ve ölüm sigortalarına tescil edilmiş
-olanlar hakkında, bu Kanunun 38 inci maddesinin ikinci fıkrasındaki
-sigortalılık süresinin 18 yaşın doldurulduğu tarihten başlayacağına
-ilişkin hükmü uygulanmaz.
-
-506 sayılı Sosyal Sigortalar Kanununun mülga ek 24 üncü maddesinde
-sayılan kurum ve kuruluşlarca, Kuruma ödenmeyen sosyal yardım zamları,
-Hazine tarafından ilgili kurum ve kuruluşlardan tahsil edilmek üzere
-Kuruma ödenir.
-
-**(Değişik üçüncü fıkra: 17/4/2008-5754/69 md.)** 17/7/1964 tarihli ve
-506 sayılı Kanun hükümlerine göre yapılmış olan işyeri tescilleri, bu
-Kanun hükümlerine göre yapılmış sayılır.
-
-506 sayılı Sosyal Sigortalar Kanununun mülga 86 ncı maddesi hükmüne göre
-topluluk sigortasına tâbi olanların ödedikleri iş kazası, meslek
-hastalığı, hastalık, analık, malûllük, yaşlılık ve ölüm sigortaları
-primleri genel sağlık sigortası dahil bu Kanuna göre ödenmiş sayılır. Bu
-süreler yatırıldıkları sigorta kolları bakımından başlangıç süresi ve
-prim ödeme gün sayısı olarak kabul edilir.
-
-Bu Kanunun yürürlük tarihi itibarıyla 506 sayılı Sosyal Sigortalar
-Kanununun mülga 86 ncı maddesine göre malûllük, yaşlılık ve ölüm
-sigortaları bakımından topluluk sigortasına devam edenler, bu Kanunun 4
-üncü maddesi kapsamında durumları değerlendirilerek, durumlarına uyan
-bent kapsamında sigortalı sayılırlar. Bunların kendileri veya
-işverenleri tarafından verilmesi gereken belgeler en geç üç ay içinde
-Kuruma verilmek zorundadır.
-
 506 sayılı Sosyal Sigortalar Kanununun mülga 96 ncı maddesinin ikinci
 fıkrasına göre Sosyal Sigortalar Kurumuna devir olan sandıklardan
 23/1/1968 tarihli ve 991 sayılı Kanunun geçici 2 nci maddesine göre
-bağlanmış emekli, adi malûllük veya vazife malûllüğü aylıkları ile
-23/1/1968 tarihli ve 991 sayılı Kanunun geçici 1 inci maddesinin birinci
-fıkrasına göre Kurumca bağlanan aylıklarla dul ve yetim aylıkları (aylık
-alan tek kişi de olsa) toplamı, net asgarî ücretin % 70’inden aşağı
-olamaz.
+bağlanmış emekli, adi 120malullük veya vazife 120malullük120 aylıkları
+ile 23/1/1968 tarihli ve 991 sayılı Kanunun geçici 1 inci maddesinin
+birinci fıkrasına göre Kurumca bağlanan aylıklarla dul ve yetim
+aylıkları (aylık alan tek kişi de olsa) toplamı, net asgarî ücretin %
+70’inden aşağı olamaz.
 
 Aylık bağlama şartları bakımından bu Kanunun 4 üncü maddesinin birinci
 fıkrasının (a) bendi kapsamında sigortalı sayılarak aylık bağlanacaklar
 için;
 
-a\) **(Mülga: 17/4/2008-5754/69 md.)**
-
-9872
+**(Mülga: 17/4/2008-5754/69 md.)**
 
 b\) **(Değişik: 17/4/2008-5754/69 md.)** 28 inci maddenin üçüncü
 fıkrasında belirtilen 5400 günlük süre ilk defa;
@@ -8221,12 +8238,14 @@ uygulanır.
 **(Ek fıkra: 17/4/2008-5754/69 md.)** Sosyal güvenlik sözleşmesi
 imzalanmamış ülkelerde iş üstlenen işverenlerce çalıştırılmak üzere bu
 ülkelere götürülen Türk işçilerinden, bu Kanunun yürürlük tarihinden
-önce sadece malûllük, yaşlılık ve ölüm sigortalarına tabi topluluk
+önce sadece 120malullük, yaşlılık ve ölüm sigortalarına tabi topluluk
 sigortasına devam edenler ile isteğe bağlı sigortalı olarak söz konusu
 ülkelere götürülmüş olan sigortalıların, bu Kanunun 5 inci maddesinin
 (g) bendi kapsamında sigortalılıkları bu Kanunun yürürlük tarihinden
 itibaren üç ay içerisinde işverenlerince sağlanır ve buna ilişkin
 yükümlülükler yerine getirilir.
+
+9872
 
 **506, 1479, 5434, 2925, 2926 sayılı kanunlara ilişkin ortak geçiş
 hükümleri**
@@ -8353,9 +8372,9 @@ sonuçlandırılır.
 **GEÇİCİ MADDE 9-** 4 üncü maddenin birinci fıkrasının (a) bendi
 kapsamında olup da 8/9/1999 tarihinden 30/4/2008 tarihine kadar ilk defa
 sigortalı sayılanlar; kadın ise 58, erkek ise 60 yaşını doldurmak ve
-7000 gün malûllük, yaşlılık ve ölüm sigortaları primi ödemiş olmak
+7000 gün 123malullük, yaşlılık ve ölüm sigortaları primi ödemiş olmak
 şartıyla veya kadın ise 58, erkek ise 60 yaşını doldurmak ve 25 yıldan
-beri sigortalı bulunmak ve en az 4500 gün malûllük, yaşlılık ve ölüm
+beri sigortalı bulunmak ve en az 4500 gün 123malullük, yaşlılık ve ölüm
 sigortaları primi ödemiş olmak şartıyla yaşlılık aylığından
 yararlanırlar.
 
@@ -8364,20 +8383,20 @@ birinci fıkrasının (b) bendi kapsamında olup da 8/9/1999 tarihinden
 30/4/2008 tarihine kadar ilk defa sigortalı sayılanlar kadın ise 58,
 erkek ise 60 yaşını doldurmuş ve 25 tam yıl sigorta primi ödemiş olması
 veya kadın ise 60, erkek ise 62 yaşını doldurması ve en az 15 tam yıl
-malûllük, yaşlılık ve ölüm sigortaları primi ödemesi şartıyla kısmi
+123malullük, yaşlılık ve ölüm sigortaları primi ödemesi şartıyla kısmi
 yaşlılık aylığından yararlanırlar.
 
 **(Ek fıkra: 17/4/2008-5754/70 md.)** 4 üncü maddenin birinci fıkrasının
 © bendi kapsamında olup da 8/9/1999 tarihinden 30/4/2008 tarihine kadar
 ilk defa sigortalı sayılanlar kadın ise 58, erkek ise 60 yaşını
 doldurmuş ve 25 tam yıl sigorta primi ödemiş olması veya 61 yaşını
-doldurması ve en az 15 tam yıl malûllük, yaşlılık ve ölüm sigortaları
+doldurması ve en az 15 tam yıl malullük, yaşlılık ve ölüm sigortaları
 primi ödemesi şartıyla kısmi yaşlılık aylığından yararlanırlar.
 
 17/10/1983 tarihli ve 2925 sayılı Kanun kapsamında sigortalı olup da
 8/9/1999 tarihinden 30/4/2008 tarihine kadar ilk defa sigortalı
 sayılanlar; kadın ise 58, erkek ise 60 yaşını doldurmak ve onbeş yıldan
-beri sigortalı olup 3600 gün malûllük, yaşlılık ve ölüm sigortaları
+beri sigortalı olup 3600 gün malullük, yaşlılık ve ölüm sigortaları
 primi ödemek şartıyla yaşlılık aylığından yararlanırlar.
 
 Bu Kanunun yürürlük tarihinden önce bazı hükümleri yürürlükten
@@ -8386,18 +8405,18 @@ sayılanlardan;
 
 a\) En az 20 yıldan beri Bakanlıkça tespit edilen maden işyerlerinin
 yeraltı işyerlerinde sürekli çalışan ve bu işlerde en az 5000 gün
-malûllük, yaşlılık ve ölüm sigortaları primi ödeyen sigortalılara yazılı
+malullük, yaşlılık ve ölüm sigortaları primi ödeyen sigortalılara yazılı
 talepleri halinde 28 inci maddenin ikinci fıkrasının (a) bendindeki yaş
 şartları aranmaksızın yaşlılık aylığı bağlanır.
 
 b\) En az 25 yıldan beri Bakanlıkça tespit edilen maden işyerlerinin
 yeraltı işyerlerinde yeraltı münavebeli işlerinde çalışan ve bu işlerde
-en az 4000 gün malûllük, yaşlılık ve ölüm sigortaları primi ödeyen
+en az 4000 gün malullük, yaşlılık ve ölüm sigortaları primi ödeyen
 sigortalılara da 28 inci maddenin ikinci fıkrasının (a) bendindeki yaş
 şartları aranmaksızın 8100 gün prim ödemiş sigortalılar gibi yaşlılık
 aylığı bağlanır.
 
-*––––––––––––––*
+*–––––––––––––––––––––*
 
 *(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 70 inci maddesiyle; bu
 maddenin birinci ve üçüncü fıkralarında yer alan “bu Kanunun yürürlük”
@@ -8405,7 +8424,7 @@ ibareleri “30/4/2008” olarak değiştirilmiş ve metne işlenmiştir.*
 
 9875
 
-c\) 50 yaşını dolduran ve malûllük, yaşlılık ve ölüm sigortalarına tâbi
+c\) 50 yaşını dolduran ve malullük, yaşlılık ve ölüm sigortalarına tâbi
 çalışmalarının en az 1800 gününü Bakanlıkça tespit edilen maden
 işyerlerinin yeraltı işlerinde geçirmiş olan sigortalılara da birinci
 fıkrada belirtilen diğer şartlarla yaşlılık aylığı bağlanır.
@@ -8415,7 +8434,7 @@ girdiği tarihten önce beşinci fıkrada belirtilen işlerde çalışmaya
 başlayan sigortalıların, bu Kanunun yürürlük tarihinden önce veya sonra
 bu işlerde geçen çalışmalarının en az 1800 gün olması halinde bu
 çalışmalarının dörtte biri toplam prim ödeme gün sayılarına ilave
-edilir. Bunlar için malûllük, yaşlılık ve ölüm sigortaları primi,
+edilir. Bunlar için malullük, yaşlılık ve ölüm sigortaları primi,
 sigortalının prime esas kazancının % 23’üdür. Bunun % 9’u sigortalı
 hissesi, % 14’ü de işveren hissesidir. Bu Kanunun yürürlüğe girdiği
 tarihten sonra ilk defa maden işyerlerinin yeraltı veya yeraltı
@@ -8454,17 +8473,17 @@ Birinci ve ikinci fıkraya göre bağlanan aylıkların aylık bağlama oranı,
 tarihten önce, malullük durumlarının tespiti için talepte bulunan ve bu
 Kanunun yürürlük tarihinden sonra malûl olduklarına karar verilenler
 hakkında 506 ve 2925 sayılı kanunlardaki diğer şartları da taşımaları
-halinde anılan kanunlara göre 123malullük aylığı bağlanır.
+halinde anılan kanunlara göre 124malullük aylığı bağlanır.
 
-55 inci maddenin dördüncü fıkrasındaki 123malullük aylığı alt sınırı ile
+55 inci maddenin dördüncü fıkrasındaki 124malullük aylığı alt sınırı ile
 33 üncü maddesinin ikinci fıkrasındaki ölüm aylığı alt sınırı 17/10/1983
 tarihli ve 2925 ve bu Kanunla mülga 17/10/1983 tarihli ve 2926 sayılı
-Kanunlara göre bağlanacak 123malullük ve ölüm aylıklarında, aynı
+Kanunlara göre bağlanacak 124malullük ve ölüm aylıklarında, aynı
 kanunlar gereği bağlanan yaşlılık aylığı ile kıyaslanarak uygulanır.
 
 *–––––––––––––––––––––*
 
-*(1) Bu madde başlığı “506 sayılı Kanunun* 123*malullük, sakatlık
+*(1) Bu madde başlığı “506 sayılı Kanunun* 124*malullük, sakatlık
 hükümleri ile sosyal güvenlik destek primi ödemesi geçiş hükümleri”
 iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 71 inci maddesiyle metni
 işlendiği şekilde değiştirilmiştir.*
@@ -8478,7 +8497,7 @@ değiştirilmiştir.*
 9876
 
 **(Ek fıkra: 17/4/2008-5754/71 md.)** 1/1/2000 tarihinden itibaren
-sigortalı olup, bu Kanunun yürürlüğe girdiği tarihten önce malûllük
+sigortalı olup, bu Kanunun yürürlüğe girdiği tarihten önce 125malullük
 aylığı bağlanması için tahsis talebinde bulunan sigortalılar ile ölen
 sigortalıların hak sahiplerine 17/7/1964 tarihli ve 506 sayılı Kanunla
 bağlanan aylıklar, 506 sayılı Kanunun geçici 89 uncu maddesinde
@@ -8539,9 +8558,9 @@ belirlenecek sürede vermek zorundadırlar. İşyeri bildirgesinin Kurumca
 belirlenecek süre içinde verilmemesi durumunda, 102 nci maddenin (b)
 bendi gereğince idari para cezası uygulanır.
 
-*––––––––––––––––*
+*––––––––––––––––––*
 
-*(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 72 nci maddesiyle; bu
+*(1)17/4/2008 tarihli ve 5754 sayılı Kanunun 72 nci maddesiyle; bu
 fıkrada yer alan “birinci fıkrasının (b) ve (c) bentleri” ibaresi “(b)
 bendi” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
@@ -8573,11 +8592,11 @@ girdiği tarihten sonra faturalandırılan tedavi giderleri Kurum
 tarafından karşılanır.
 
 Bu Kanunun yürürlük tarihinden 1/1/2012 tarihine kadar bu Kanunun 60
-ıncı maddesinin birinci fıkrasının (c) bendinin (1) numaralı alt bendi
+ıncı maddesinin birinci fıkrasının © bendinin (1) numaralı alt bendi
 uygulanmaz. Bu sürede, 18/6/1992 tarihli ve 3816 sayılı Kanun kapsamında
 yeşil kart verilen ve verilecek kişiler durumlarında değişiklik olmaması
 kaydıyla başka bir işleme gerek kalmaksızın bu Kanunun 60 ıncı
-maddesinin birinci fıkrasının (c) bendinin (1) numaralı alt bendi
+maddesinin birinci fıkrasının © bendinin (1) numaralı alt bendi
 kapsamında genel sağlık sigortalısı sayılır. 3816 sayılı Kanun
 kapsamında yeşil kart almak için müracaat etmekle birlikte, 3816 sayılı
 Kanun hükümlerine göre tespit edilen aile içindeki kişi başına düşen
@@ -8595,7 +8614,7 @@ uygulanmasında Kurumca talep edilen aile içindeki kişi başına düşen
 gelir tutarlarının tespiti kararları, gerekli araştırma ve inceleme
 yapıldıktan sonra, il ve ilçe idare kurulları tarafından verilir. ^(2)^
 
-*––––––––––––––––*
+*––––––––––––––––––––––––––*
 
 *(1) 31/7/2008 tarihli ve 5797 sayılı Kanunun 11 inci maddesiyle bu
 fıkrada yer alan “Ancak bu süre altı ayı geçemez” ibaresi “Devir süreci
@@ -8656,7 +8675,7 @@ Kanuna göre bakmakla yükümlü oldukları kimseler, genel sağlık sigortası
 hükümlerine göre sağlanan sağlık hizmetlerinden ve diğer haklardan
 yararlanma hakkına sahiptir.
 
-–––––––––––––––
+–––––––––––––––––––––––––––––
 
 *(1) 16/6/2010 tarihli ve 5997 sayılı Kanunun 8 inci maddesiyle, bu
 fıkrada yer alan “bu kişilerin tescili çocuklarının sağlık hizmet
@@ -8718,7 +8737,7 @@ sayılmaz.
 **GEÇİCİ MADDE 14 –** **(Ek: 17/4/2008-5754/73 md.)**
 
 Bu Kanunun yürürlüğe girdiği tarihten önce iştirakçi veya sigortalı
-olanlar, vazife malûllüğü, malûllük ve yaşlılık veya emekli aylığı
+olanlar, vazife malullük, malullük ve yaşlılık veya emekli aylığı
 bağlananlar ve bu Kanunun yürürlüğe girdiği tarihte sosyal güvenlik
 destek primi ödeyerek çalışmaya devam edenler hakkında sosyal güvenlik
 destek primine tabi olma bakımından bu Kanunla yürürlükten kaldırılan
@@ -8749,12 +8768,12 @@ c\) Harp malûlleri ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele
 Kanunu, 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık
 Bağlanması Hakkında Kanuna göre aylıkları hesaplanarak ödenen veya
 asayiş ve güvenliğin sağlanması ile ilgili kanunlara göre vazife
-malûllüğü aylığı almakta iken; bu Kanunun yürürlüğe girdiği tarih
+129malullük aylığı almakta iken; bu Kanunun yürürlüğe girdiği tarih
 itibarıyla çalışmaya devam edenler ile sonradan bu Kanuna tabi çalışmaya
 başlayacaklar için sosyal güvenlik destek primi uygulanmaksızın bu
 Kanunun 5 inci maddesinin (c) bendi hükümleri uygulanır.
 
-d\) 5434 sayılı Kanuna göre vazife malûllüğü aylığı almakta iken bu
+d\) 5434 sayılı Kanuna göre vazife malullük129 aylığı almakta iken bu
 Kanunun yürürlüğe girdiği tarih itibarıyla bu Kanunun 4 üncü maddesinin
 birinci fıkrasının (a) ve (b) bendi kapsamında çalışmaya devam edenler
 hakkında, bu Kanunun yürürlük tarihinden itibaren bir ay içinde yazılı
@@ -8765,23 +8784,23 @@ primi ödeyenlerin belirtilen süre içinde yazılı talepte bulunmamaları
 halinde ayrıca iş kazası meslek hastalığı hükümleri uygulanır, sosyal
 güvenlik destek primi kesilmez. Bu Kanunun yürürlüğe girdiği tarihten
 önce iştirakçi olup, bu Kanunun yürürlüğe girdiği tarihten sonra 5434
-sayılı Kanun hükümlerine göre vazife malûllüğü aylığı bağlananlardan bu
-Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bendi kapsamında
-çalışmaya başlayanlar hakkında da yazılı talepleri doğrultusunda işlem
-yapılır. Bu bent kapsamında olanlardan ayrıca genel sağlık sigortası
-primi alınmaz. 3713 sayılı Kanuna göre vazife malûllüğü aylığı almakta
-olanlar, sınıf  veya  görev  değiştirerek çalışmaya devam eden
-iştirakçiler ile aynı Kanun kapsamına giren olaylar sebebiyle vazife
-malûllüğü aylığı alan ve bu Kanunun 4 üncü maddesinin birinci fıkrasının
-(c) bendi kapsamında çalışan veya daha sonra çalışmaya başlayan er ve
-erbaşların, bu Kanunun yürürlük tarihinden sonra müracaat tarihlerini
-takip eden aybaşından itibaren bu Kanunla yürürlükten kaldırılan
-hükümleri de dahil 5434 sayılı Kanun hükümlerine göre görevlerinden
-ayrılmasına gerek kalmaksızın alınacak emekliye sevk onayına istinaden
-vazife malûllüğü aylıkları bağlanarak ödenir. Bu kapsamda olup da
-görevlerinden emekliye ayrılanlar hakkında, bu Kanunla yürürlükten
-kaldırılan hükümleri de dahil 5434 sayılı Kanun hükümlerine göre işlem
-yapılır.
+sayılı Kanun hükümlerine göre vazife malullük129 aylığı bağlananlardan
+bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bendi
+kapsamında çalışmaya başlayanlar hakkında da yazılı talepleri
+doğrultusunda işlem yapılır. Bu bent kapsamında olanlardan ayrıca genel
+sağlık sigortası primi alınmaz. 3713 sayılı Kanuna göre vazife
+129malullük129 aylığı almakta olanlar, sınıf  veya  görev  değiştirerek
+çalışmaya devam eden iştirakçiler ile aynı Kanun kapsamına giren olaylar
+sebebiyle vazife malullük129 aylığı alan ve bu Kanunun 4 üncü maddesinin
+birinci fıkrasının (c) bendi kapsamında çalışan veya daha sonra
+çalışmaya başlayan er ve erbaşların, bu Kanunun yürürlük tarihinden
+sonra müracaat tarihlerini takip eden aybaşından itibaren bu Kanunla
+yürürlükten kaldırılan hükümleri de dahil 5434 sayılı Kanun hükümlerine
+göre görevlerinden ayrılmasına gerek kalmaksızın alınacak emekliye sevk
+onayına istinaden vazife malullük129aylıkları bağlanarak ödenir. Bu
+kapsamda olup da görevlerinden emekliye ayrılanlar hakkında, bu Kanunla
+yürürlükten kaldırılan hükümleri de dahil 5434 sayılı Kanun hükümlerine
+göre işlem yapılır.
 
 **(Ek fıkra: 4/7/2012-6353/86 md.)** 3713 sayılı Kanun kapsamında vazife
 malulü olup sınıf veya görev değiştirenlerden bu maddenin yürürlük
@@ -8804,7 +8823,7 @@ başlayanların aylıkları kesilmez ve bunlar hakkında da bu maddenin
 sosyal güvenlik destek primi alınmasına ilişkin hükümleri uygulanır.
 ^(1)^
 
-*–––––––––––––*
+*––––––––––––––––––––––*
 
 *(1) 18/2/2009 tarihli ve 5838 sayılı Kanunun 33 üncü maddesiyle; bu
 fıkranın 1/10/2008 tarihinden geçerli olmak üzere uygulanacağı hüküm
@@ -8863,7 +8882,7 @@ eden her yıl için bir puan arttırılmak suretiyle otuz katını geçmemek
 üzere malullük, yaşlılık, ve ölüm sigortaları ile genel sağlık sigortası
 primi öderler.^(3)^
 
-*–––––––––––––*
+*––––––––––––––––*
 
 *(1) 15/5/2008 tarihli ve 5763 sayılı Kanunun 25 inci maddesiyle bu
 madde başlığı “Kendi adına ve hesabına tarımsal faaliyette bulunan
@@ -8871,8 +8890,8 @@ sigortalılara ilişkin geçiş hükmü” iken 1/10/2008 tarihinden geçerli
 olmak üzere metne işlendiği şekilde değiştirilmiştir.*
 
 *(2) 31/7/2008 tarihli ve 5797 sayılı Kanunun 11 inci maddesiyle; bu
-başlıkta yer alan ",Milli Eğitim Bakanlığı tarafından düzenlenen
-kurslarda usta öğretici olarak çalıştırılanlar" ibaresi metinden
+başlıkta yer alan “,Milli Eğitim Bakanlığı tarafından düzenlenen
+kurslarda usta öğretici olarak çalıştırılanlar” ibaresi metinden
 çıkarılmıştır.*
 
 *(3) 13/2/2011 tarihli ve 6111 sayılı Kanunun 50 nci maddesiyle, bu
@@ -8952,7 +8971,7 @@ kesilmeksizin ödenmeye devam edilir.
 **(Ek fıkra: 4/7/2012-6353/87 md.)** Bu madde kapsamına giren ve
 malullüklerinin sürekli olduğuna Kurum Sağlık Kurulunca karar verilen
 geçici ve gönüllü köy korucuları ile 2330 sayılı Kanunun 2 nci
-maddesinin birinci fıkrasının (e) ve (f) bentlerinde sayılan
+maddesinin birinci fıkrasının (c) ve (f) bentlerinde sayılan
 hizmetlerinden dolayı malullük aylığı bağlananlar 442 sayılı Kanunda
 öngörülen yaş hadlerine kadar, er ve erbaşlar askerlik çağı dışına
 çıktıkları tarihe kadar yeniden muayene edilmelerini Kurumdan
@@ -9013,7 +9032,7 @@ senetlerinin yıllık ortalama nominal faizi üzerinden sandıklardan ve bu
 sandık iştirakçilerini istihdam eden kuruluşlardan müteselsilen Kurumca
 bu Kanun hükümlerine göre tahsil edilir.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*––––––––––––––––––––*
 
 *(1) 1/3/2012 tarihli ve 6283 sayılı Kanunun 4 üncü maddesiyle, bu
 fıkrada yer alan “iki yıl” ibaresi “dört yıl” şeklinde
@@ -9136,19 +9155,18 @@ itibariyle sona erer.
 
 **GEÇİCİ MADDE 23 –** **(Ek: 15/5/2008-5763/26 md.)**
 
-\(1) 22/2/2006 tarihli ve 5458 sayılı Sosyal Güvenlik Prim Alacaklarının
+22/2/2006 tarihli ve 5458 sayılı Sosyal Güvenlik Prim Alacaklarının
 Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik Yapılması
 Hakkında Kanunun 1 inci ve 2 nci maddeleri kapsamına giren borçları
 yeniden yapılandırıldığı halde aynı Kanunun 3 üncü maddesi uyarınca
 yeniden yapılandırma haklarını bu maddenin yürürlüğe girdiği tarihi
 takip eden ayın sonuna kadar kaybedenlerin, bu maddenin yürürlüğe
-girdiği tarihi takip eden iki ay içinde Kuruma yazılı
+girdiği tarihi takip eden iki ay içinde Kuruma yazılı olarak
+başvurmaları halinde, bozulmuş olan yeniden yapılandırma anlaşmaları,
+5458 sayılı Kanuna göre yapılmış olan başvuru tarihi ve taksitlendirme
+süresi dikkate alınmak suretiyle ihya edilir.
 
 9878-7
-
-olarak başvurmaları halinde, bozulmuş olan yeniden yapılandırma
-anlaşmaları, 5458 sayılı Kanuna göre yapılmış olan başvuru tarihi ve
-taksitlendirme süresi dikkate alınmak suretiyle ihya edilir.
 
 \(2) Yeniden yapılandırma anlaşmaları ihya edilen borçluların, yeniden
 yapılandırma anlaşmalarının bozulduğu tarihten sonra 5458 sayılı Kanun
@@ -9454,7 +9472,7 @@ oranında artırılarak belirlenir. Bu dönemlerde 1479 sayılı Kanunun mülga
 
 Geçici 11 inci maddenin altıncı fıkrasında öngörülen yükümlülükler ile
 2008 yılı Ekim, Kasım ve Aralık aylarına ilişkin olmak üzere 4 üncü
-maddenin birinci fıkrasının (c) bendi kapsamındaki sigortalılara ilişkin
+maddenin birinci fıkrasının © bendi kapsamındaki sigortalılara ilişkin
 asıl veya ek nitelikteki aylık prim ve hizmet belgelerine ilişkin
 yükümlülüklerin yasal süresi içinde yerine getirilmemiş olması halinde,
 bu maddede sayılan yükümlülüklerle sınırlı olarak 102 nci maddede
@@ -9734,8 +9752,8 @@ fıkrada yer alan “sakat kalanlara” ibaresi “engelli hâle gelenlere”
 
 \(1) Son tahsis talep tarihi veya ölüm tarihi 2000 yılı Ocak ayı başından
 önce olup, 506 sayılı Kanunun mülga hükümleri uyarınca gösterge
-sistemine göre bağlanan 143malullük, yaşlılık ve ölüm aylıkları ile bu
-tarihten önce 143malullük veya yaşlılık aylığı almakta iken bu tarihten
+sistemine göre bağlanan 144malullük, yaşlılık ve ölüm aylıkları ile bu
+tarihten önce 144malullük veya yaşlılık aylığı almakta iken bu tarihten
 sonra ölen sigortalıların ölüm aylıkları, bu madde hükümlerine göre
 yeniden hesaplanır.
 
@@ -9761,7 +9779,7 @@ Aralık ayında yürürlükte bulunan ve gösterge rakamına göre % 59,9 ila %
 şekilde belirlenen taban aylık bağlama oranı, sigortalının tahsis talep
 tarihi itibarıyla kadın ise 50, erkek ise 55 yaşından sonra doldurduğu
 her tam yaş için ve 5000 günden fazla ödediği her 240 günlük
-143malullük, yaşlılık ve ölüm sigortaları primi için (l)’er artırılır,
+144malullük, yaşlılık ve ölüm sigortaları primi için (l)’er artırılır,
 5000 günden noksan ödediği her 240 gün için (1)’er eksiltilir. Maden
 işyerlerinin yer altı işlerinde çalışması, sigortalı olarak ilk defa
 çalışmaya başladığı tarihten önce malûl olması, engelliliği nedeniyle
@@ -10039,6 +10057,36 @@ başvurulması ve altı aylık süre içerisinde hesaplanacak fiili hizmet
 süresi zammına ilişkin prim tutarının ödenmesi halinde gecikme zammı ve
 gecikme cezası alınmaz.
 
+**GEÇİCİ MADDE 49 –** **(Ek: 21/5/2013-6486/6 md.) **
+
+97 nci maddenin yedinci fıkrası gereğince, sağlık hizmet sunucularının
+sunmuş oldukları hizmetlere ilişkin olarak 16/1/2012 tarihinden önce
+Kuruma teslim ettikleri fatura ve eki belgelerden, teslim tarihinden
+itibaren üç ay içinde incelenemediği için avansı kapatılamayan fatura ve
+eki belgelerin, bu süreden sonraki dönemde yapılan incelemesi sonucunda
+sağlık hizmet sunucusuna yersiz ödeme yapıldığının tespit edilmesi
+hâlinde, tespit edilen yersiz ödeme tutarı için kanuni faiz tahakkuk
+ettirilmez.
+
+Bu maddenin yürürlük tarihinden önce, sağlık hizmet sunucuları
+tarafından 16/1/2012 tarihinden önce Kuruma teslim edilen fatura ve eki
+belgelerden dolayı Kurumca tahakkuk ettirilen faizle ilgili dava konusu
+edilen faiz tutarları, davacının davasından feragat etmesi hâlinde
+terkin edilir.
+
+Bu madde kapsamına giren fiiller için bu maddenin yürürlüğe girdiği
+tarihten önce uygulanmış faize ilişkin tahsil edilen tutarlar iade ve
+mahsup edilmez.
+
+**GEÇİCİ MADDE 50 –** **(Ek: 21/5/2013-6486/6 md.)**
+
+Bu maddenin yayımı tarihinde ilk kaydını yaptırmış olup öğrenimlerine
+devam eden yabancı uyruklu öğrencilerden, bu maddenin yayımı tarihinden
+itibaren altı ay içinde başvuru yapanlar genel sağlık sigortası
+kapsamına alınırlar.
+
+9878-21
+
 **Yürürlük**
 
 **MADDE 108- (Değişik: 17/4/2008-5754/74 md.)**
@@ -10073,11 +10121,9 @@ yürürlüğe girer.
 
 **MADDE 109-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-9878-21
-
 **31/5/2006 TARİHLİ VE 5510 SAYILI KANUNA İŞLENEMEYEN GEÇİCİ MADDELER:**
 
-**1 - 1/3/2012 tarih ve 6283 sayılı Kanunun Geçici Maddesi:**
+**1 – 1/3/2012 tarih ve 6283 sayılı Kanunun Geçici Maddesi:**
 
 **GEÇİCİ MADDE 1 –** 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar
 ve Genel Sağlık Sigortası Kanununun 102 nci maddesinin birinci
@@ -10237,6 +10283,12 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6458      3, 60, 61                                                                                                                                                                                                                                                                                                                                                                                                          11/4/2013
 
   6462      13, 14, 15, 19, 25, 28, Geçici Madde 4, 10, 37, 39                                                                                                                                                                                                                                                                                                                                                                 3/5/2013
+
+  6486      60, 61, 72, 73, Geçici Madde 49, Geçici Madde 50                                                                                                                                                                                                                                                                                                                                                                   29/5/2013
+                                                                                                                                                                                                                                                                                                                                                                                                                               
+            81/i                                                                                                                                                                                                                                                                                                                                                                                                               1/6/2013
+                                                                                                                                                                                                                                                                                                                                                                                                                               
+            81/2-4-5                                                                                                                                                                                                                                                                                                                                                                                                           1/1/2013 tarihinden geçerli olmak üzere 29/5/2013
   --------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------
 
 
