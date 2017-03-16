@@ -1,4 +1,4 @@
-**6356 sayılı Kanunun ilk hali**
+**6385 sayılı Kanun ile değişik hali**
 
 **SENDİKALAR VE TOPLU İŞ SÖZLEŞMESİ KANUNU**
 
@@ -2055,7 +2055,12 @@ istatistiklerinin yayımı tarihinden sonra sona erecek olan sendikaların,
 bir sonraki toplu iş sözleşmesiyle sınırlı olmak üzere yapacakları yetki
 tespit başvuruları mülga 2822 sayılı Kanunun 12 nci maddesine göre
 Bakanlıkça yayımlanmış Temmuz 2009 istatistiklerine ve mülga 2822 sayılı
-Kanunda belirtilen hükümlere göre sonuçlandırılır.
+Kanunda belirtilen hükümlere göre sonuçlandırılır.**(Ek cümle:
+10/1/2013-6385/20 md.)** Ancak, en son yayımlanan 2009 istatistiğinde
+toplu iş sözleşmesi yapma yetkisi için başvuru hakkına sahip işçi
+sendikalarının 7/11/2012 tarihinde ve sonraki bu fıkraya göre
+yapacakları yetki tespit talepleri, 41 inci maddede yer alan işyeri veya
+işletme çoğunluğu şartlarına göre sonuçlandırılır.
 
 11725
 
@@ -2073,3 +2078,19 @@ Kanuna dayalı tüzük ve yönetmeliklere göre sonuçlandırılır.
 
 ![](media/image1.png){width="4.904861111111111in"
 height="6.0784722222222225in"}11726
+
+11726-1
+
+**6356 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **6356 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  6385                                                                         Geçici Madde 6                                                19/1/2013
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+
+
