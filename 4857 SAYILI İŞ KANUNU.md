@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 5763 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 5797 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -908,9 +908,13 @@ tarafından ödenmesi gereken primlerin geç ödenmesi halinde, Hazinece
 Sosyal Güvenlik Kurumuna yapılacak ödemenin gecikmesinden kaynaklanan
 gecikme zammı, işverenden tahsil edilir. Hazinece karşılanan prim
 tutarları gelir ve kurumlar vergisi uygulamalarında gider veya maliyet
-unsuru olarak dikkate alınmaz. Bu fıkranın uygulanmasına ilişkin usul ve
-esaslar Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığı ve
-Hazine Müsteşarlığı tarafından müştereken belirlenir. [^2]
+unsuru olarak dikkate alınmaz. **(Ek cümle:31/7/2008-5797/10 md.)** [^2]
+Bu fıkrada düzenlenen teşvik, kamu idareleri hariç 506 sayılı Kanun
+kapsamındaki sigortalılara ilişkin matrah ve oranlar üzerinden olmak
+üzere, 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıkların
+statülerine tabi personeli için de uygulanır. Bu fıkranın uygulanmasına
+ilişkin usul ve esaslar Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik
+Bakanlığı ve Hazine Müsteşarlığı tarafından müştereken belirlenir. [^3]
 
 Bu maddeye aykırılık hallerinde 101 inci madde uyarınca tahsil edilecek
 cezalar, özürlülerin ve eski hükümlülerin mesleki eğitim ve mesleki
@@ -2032,7 +2036,7 @@ zorunda olan,
 **Ağır ve tehlikeli işler**
 
 **MADDE 85. -** Onaltı yaşını doldurmamış genç işçiler ve çocuklar **(Ek
-altı çizili ibare:15/5/2008-5763/5 md.)**[^3] *ile çalıştığı işle ilgili
+altı çizili ibare:15/5/2008-5763/5 md.)**[^4] *ile çalıştığı işle ilgili
 mesleki eğitim almamış işçiler* ağır ve tehlikeli işlerde
 çalıştırılamaz.
 
@@ -2637,37 +2641,43 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
 
 **YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
-  ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- --------------------------------------------------
-         **Kanun / KHK**   **Kanun /**               **Kanun / KHK Yürürlüğe giriş tarihi**   **Anayasa Mahkemesi Kararı Tarih/No.**   **4857 sayılı Kanunun değiştirilen maddeleri**
-                                                                                                                                       
-         **No.**           **KHK**                                                                                                     
-                                                                                                                                       
-                           **Resmi Gazete Tarihi**                                                                                     
+  ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- --------------------------------------------------
+         **Kanun / KHK**   **Kanun /**               **Kanun / KHK Yürürlüğe giriş tarihi**                     **Anayasa Mahkemesi Kararı Tarih/No.**   **4857 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                                         
+         **No.**           **KHK**                                                                                                                       
+                                                                                                                                                         
+                           **Resmi Gazete Tarihi**                                                                                                       
 
-  1.     4884              17/6/2003                 17/6/2003                                -                                        3
+  1.     4884              17/6/2003                 17/6/2003                                                  -                                        3
 
-  1.     5378              7/7/2005                  7/7/2005                                 -                                        108
+  1.     5378              7/7/2005                  7/7/2005                                                   -                                        108
 
-  1.     5538              12/7/2006                 12/7/2006                                -                                        2, 81
+  1.     5538              12/7/2006                 12/7/2006                                                  -                                        2, 81
 
-  1.     5728              8/2/2008                  8/2/2008                                 -                                        107, 108
+  1.     5728              8/2/2008                  8/2/2008                                                   -                                        107, 108
 
-  1.     5754              8/5/2008                  8/5/2008                                 -                                        32, 102
+  1.     5754              8/5/2008                  8/5/2008                                                   -                                        32, 102
 
-  1.     5763              26/5/2008                 26/5/2008                                -                                        3, 33, 65, 78, 81, 82, 88, 95, 98, 105, 108, 111
+  1.     5763              26/5/2008                 26/5/2008                                                  -                                        3, 33, 65, 78, 81, 82, 88, 95, 98, 105, 108, 111
 
-  1.     5763              26/5/2008                 1/7/2008                                 -                                        30
+  1.     5763              26/5/2008                 1/7/2008                                                   -                                        30
 
-  1.     5763              26/5/2008                 1/1/2009                                 -                                        85
-  ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- --------------------------------------------------
+  1.     5763              26/5/2008                 1/1/2009                                                   -                                        85
+
+  1.     5797              19/8/2008                 1/7/2008 tarihinden geçerli olmak üzere yayımı tarihinde   -                                        30
+  ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- --------------------------------------------------
 
 [^1]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
     değiştirilen 30 uncu maddesinin altıncı fıkrası 1/7/2008 tarihinde
     yürürlüğe girer.
 
-[^2]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
+[^2]: 5797 sayılı Kanunun 12 nci maddesi uyarınca, bu değişiklik
+    1/7/2008 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe
+    girer.
+
+[^3]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
     değiştirilen 30 uncu maddesinin altıncı fıkrası 1/7/2008 tarihinde
     yürürlüğe girer.
 
-[^3]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu değişiklik
+[^4]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu değişiklik
     1/1/2009 tarihinde yürürlüğe girer.
