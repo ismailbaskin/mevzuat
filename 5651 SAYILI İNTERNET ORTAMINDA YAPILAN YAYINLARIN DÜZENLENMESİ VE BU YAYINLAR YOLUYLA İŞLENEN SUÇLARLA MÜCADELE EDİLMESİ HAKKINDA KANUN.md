@@ -1,4 +1,4 @@
-**6518 sayılı Kanun ile değişik hali**
+**6527 sayılı Kanun ile değişik hali**
 
 **İN­TER­NET OR­TAMIN­DA YA­PI­LAN YAYIN­LA­RIN **
 
@@ -65,10 +65,10 @@ bil­gi ve ve­ri­le­rin ta­kip edil­me­si­ni,
 i\) Top­lu kul­la­nım sağ­la­yı­cı: Ki­şi­le­re bel­li bir yer­de ve
 bel­li bir sü­re in­ter­net or­ta­mı kul­la­nım ola­na­ğı sağ­la­ya­nı,
 
-j\) Tra­fik bil­gi­si: İn­ter­net or­ta­mın­da ger­çek­leş­ti­ri­len her
-tür­lü eri­şi­me iliş­kin ola­rak ta­raf­lar, za­man, sü­re,
-ya­rar­la­nı­lan hiz­me­tin tü­rü, ak­ta­rı­lan ve­ri mik­ta­rı ve
-bağ­lan­tı nok­ta­la­rı gi­bi de­ğer­le­ri,
+j\) **(Değişik: 26/2/2014-6527/15 md.)** Trafik bilgisi: Taraflara
+ilişkin IP adresi, verilen hizmetin başlama ve bitiş zamanı,
+yararlanılan hizmetin türü, aktarılan veri miktarı ve varsa abone kimlik
+bilgilerini,
 
 k\) Ve­ri: Bil­gi­sa­yar ta­ra­fın­dan üze­rin­de iş­lem ya­pı­la­bi­len
 her tür­lü de­ğe­ri,
@@ -123,6 +123,11 @@ yurt içinden ya da yurt dışından yürütenlere, internet sayfalarındaki
 iletişim araçları, alan adı, IP adresi ve benzeri kaynaklarla elde
 edilen bilgiler üzerinden elektronik posta veya diğer iletişim araçları
 ile bildirim yapılabilir.
+
+\(4) **(Ek: 26/2/2014-6527/16 md.)** Trafik bilgisi ancak bir suç
+soruşturması ve/veya kovuşturması kapsamında mahkemelerce talep edilmesi
+hâlinde Başkanlık tarafından içerik sağlayıcı, yer sağlayıcı ve/veya
+erişim sağlayıcıdan alınarak verilir.
 
 **İçe­rik sağ­la­yı­cı­nın so­rum­lu­lu­ğu **
 
@@ -432,9 +437,15 @@ ilgili olarak erişimin engellenmesi kararı alabilirler. Erişimin
 engellenmesi kararları uygulanmak üzere Telekomünikasyon İletişim
 Başkanlığına gönderilir.
 
+\(15) **(Ek: 26/2/2014-6527/17 md.)** Bu maddeye göre soruşturma
+aşamasında verilen hâkim kararı ile 9 uncu ve 9/A maddesine göre verilen
+hâkim kararı birden fazla sulh ceza mahkemesi bulunan yerlerde Hâkimler
+ve Savcılar Yüksek Kurulu tarafından belirlenen sulh ceza mahkemeleri
+tarafından verilir.
+
 **İçeriğin yayından çıkarılması ve erişimin engellenmesi^(1)^**
 
-**MAD­DE 9-** **(Ek: 6/2/2014-6518/93 md.)**
+**MAD­DE 9-** **(Değişik: 6/2/2014-6518/93 md.)**
 
 \(1) İnternet ortamında yapılan yayın içeriği nedeniyle kişilik
 haklarının ihlal edildiğini iddia eden gerçek ve tüzel kişiler ile kurum
@@ -474,6 +485,14 @@ yoluna gidilebilir.
 \(7) Erişimin engellenmesine konu içeriğin yayından çıkarılmış olması
 durumunda hâkim kararı kendiliğinden hükümsüz kalır.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu maddenin başlığı “İçe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı ve
+ce­vap hak­kı” iken 6518 sayılı Kanunun 93 üncü maddesiyle metne
+işlendiği şekilde değiştirilmiştir.*
+
+10106-1
+
 \(8) Birlik tarafından erişim sağlayıcıya gönderilen içeriğe erişimin
 engellenmesi kararının gereği derhâl, en geç dört saat içinde erişim
 sağlayıcı tarafından yerine getirilir.
@@ -487,14 +506,6 @@ adresler için de uygulanır.
 \(10) Sulh ceza hâkiminin kararını bu maddede belirtilen şartlara uygun
 olarak ve süresinde yerine getirmeyen sorumlu kişi, beş yüz günden üç
 bin güne kadar adli para cezası ile cezalandırılır.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) Bu maddenin başlığı “İçe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı ve
-ce­vap hak­kı” iken 6518 sayılı Kanunun 93 üncü maddesiyle metne
-işlendiği şekilde değiştirilmiştir.*
-
-10106-1
 
 **Özel hayatın gizliliği nedeniyle içeriğe erişimin engellenmesi**
 
@@ -536,8 +547,12 @@ durumunda hâkim kararı kendiliğinden hükümsüz kalır.
 
 \(8) Özel hayatın gizliliğinin ihlaline bağlı olarak gecikmesinde sakınca
 bulunan hâllerde doğrudan Başkanın emri üzerine erişimin engellenmesi
-Başkanlık tarafından yapılır. Bu karara karşı sulh ceza mahkemesine
-itiraz edilebilir.
+Başkanlık tarafından yapılır. **(Mülga cümle: 26/2/2014-6527/18 md.)**
+
+\(9) **(Ek: 26/2/2014-6527/18 md.)** Bu maddenin sekizinci fıkrası
+kapsamında Başkan tarafından verilen erişimin engellenmesi kararı,
+Başkanlık tarafından, yirmi dört saat içinde sulh ceza hâkiminin onayına
+sunulur. Hâkim, kararını kırk sekiz saat içinde açıklar.
 
 10107
 
@@ -1045,6 +1060,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   KHK/661                                                                           Ek Madde 1                                                                                           2/11/2011
   6495                                                                              8                                                                                                    2/8/2013
   6518                                                                              2, 3, 4, 5, 6, 6/A, 7, 8, 9, 9/A, 10, 11, Ek Madde 1, Ek Madde 2, (I) sayılı liste, Geçici Madde 3   19/2/2014
+  6527                                                                              2, 3, 8, 9/A                                                                                         1/3/2014
   --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ----------------------------
 
 
