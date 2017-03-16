@@ -1,4 +1,4 @@
-**6462 sayılı Kanun ile değişik hali**
+10241
 
  
 
@@ -195,21 +195,17 @@ oluşturulur ve bu vakıfların yönetim organlarında görev alanların
 
 10243
 
- 
+**Genel Müdürlükçe yönetilecek ve temsil edilecek vakıflar**
 
-**             Genel Müdürlükçe yönetilecek ve temsil edilecek
-vakıflar**
+**MADDE 7 –** On yıl süreyle yönetici atanamayan veya yönetim organı
+oluşturulamayan mülhak vakıflar, mahkeme kararıyla Genel Müdürlükçe
+yönetilir ve temsil edilir.
 
-**             MADDE 7 –** On yıl süreyle yönetici atanamayan veya
-yönetim organı oluşturulamayan mülhak vakıflar, mahkeme kararıyla Genel
-Müdürlükçe yönetilir ve temsil edilir.
+Bu Kanunun yürürlüğe girmesinden önce mazbut vakıflar arasına alınan
+vakıflarla, bu Kanuna göre mazbut vakıflar arasına alınan vakıflara bir
+daha yönetici seçimi ve ataması yapılamaz.
 
-             Bu Kanunun yürürlüğe girmesinden önce mazbut vakıflar
-arasına alınan vakıflarla, bu Kanuna göre mazbut vakıflar arasına alınan
-vakıflara bir daha yönetici seçimi ve ataması yapılamaz.
-
-             İlgililerin vakfiye şartlarına göre intifa hakları
-saklıdır.
+İlgililerin vakfiye şartlarına göre intifa hakları saklıdır.
 
 **(Ek fıkra:13/2/2011-6111/208 md.)** İntifa haklarına ilişkin talepler
 galle fazlası almaya hak kazanıldığını gösteren mahkeme kararının
@@ -221,415 +217,408 @@ kesinleştiği tarihten itibaren, vakfın son beş yıl içindeki malvarlığı,
 gelirleri ve giderleri ile sınırlı olmak ve galle fazlasının mevcudiyeti
 şartıyla Genel Müdürlükçe belirlenir.
 
-**             Yeni vakıf organlarının tamamlanması**
+**Yeni vakıf organlarının tamamlanması**
 
-**             MADDE 8 –** Yeni vakıfların organlarında ölüm, istifa ya
-da herhangi bir nedenle eksilme olduğu takdirde; vakıf senedindeki
-hükümlere göre, hüküm bulunmaması halinde vakıf senedi değişikliğine
-yetkili organın, bunun bulunmaması halinde ise icraya yetkili organın
-kararı ve Genel Müdürlüğün görüşü alınarak mahkemece yenisi seçilir.
+**MADDE 8 –** Yeni vakıfların organlarında ölüm, istifa ya da herhangi
+bir nedenle eksilme olduğu takdirde; vakıf senedindeki hükümlere göre,
+hüküm bulunmaması halinde vakıf senedi değişikliğine yetkili organın,
+bunun bulunmaması halinde ise icraya yetkili organın kararı ve Genel
+Müdürlüğün görüşü alınarak mahkemece yenisi seçilir.
 
-**             Vakıf yöneticisi olamayacaklar**
+**Vakıf yöneticisi olamayacaklar**
 
-**             MADDE 9 –** Vakıflarda; hırsızlık, nitelikli hırsızlık,
-yağma, nitelikli yağma, dolandırıcılık, nitelikli dolandırıcılık,
-zimmet, rüşvet, sahtecilik, hileli iflas, ihaleye fesat karıştırma,
-edimin ifasına fesat karıştırma, güveni kötüye kullanma, kaçakçılık
-suçları ile Devletin güvenliğine karşı işlenen suçların birinden mahkûm
-olanlar yönetici olamazlar.
+**MADDE 9 –** Vakıflarda; hırsızlık, nitelikli hırsızlık, yağma,
+nitelikli yağma, dolandırıcılık, nitelikli dolandırıcılık, zimmet,
+rüşvet, sahtecilik, hileli iflas, ihaleye fesat karıştırma, edimin
+ifasına fesat karıştırma, güveni kötüye kullanma, kaçakçılık suçları ile
+Devletin güvenliğine karşı işlenen suçların birinden mahkûm olanlar
+yönetici olamazlar.
 
-             Vakıf yöneticisi seçildikten sonra yukarıdaki suçlardan
-mahkûm olanların yöneticiliği sona erer.
+Vakıf yöneticisi seçildikten sonra yukarıdaki suçlardan mahkûm olanların
+yöneticiliği sona erer.
 
-**             Vakıf yöneticilerinin sorumlulukları ve görevden
-alınması**
+**Vakıf yöneticilerinin sorumlulukları ve görevden alınması**
 
-**             MADDE 10 –** Vakıf yöneticileri; vakfın amacına ve
-yürürlükteki mevzuata uymak zorundadır.
+**MADDE 10 –** Vakıf yöneticileri; vakfın amacına ve yürürlükteki
+mevzuata uymak zorundadır.
 
-             Birinci fıkrada belirtilen zorunluluğa uymayanlar ile;
+Birinci fıkrada belirtilen zorunluluğa uymayanlar ile;
 
-             a) Vakfın amacı doğrultusunda faaliyette bulunmayan,
+a\) Vakfın amacı doğrultusunda faaliyette bulunmayan,
 
-             b) Vakfın mallarını ve gelirlerini amaçlarına uygun olarak
-kullanmayan,
+b\) Vakfın mallarını ve gelirlerini amaçlarına uygun olarak kullanmayan,
 
-             c) Ağır ihmal ve kasıtlı fiilleriyle vakfı zarara uğratan,
+c\) Ağır ihmal ve kasıtlı fiilleriyle vakfı zarara uğratan,
 
-             d) Denetim Makamınca tespit edilen noksanlık ve
-yanlışlıkları verilen süre içerisinde tamamlamayan, düzeltmeyen veya
-aykırı işlemlere devam eden,
+d\) Denetim Makamınca tespit edilen noksanlık ve yanlışlıkları verilen
+süre içerisinde tamamlamayan, düzeltmeyen veya aykırı işlemlere devam
+eden,
 
-             e) Medeni hakları kullanma ehliyetini kaybeden veya
-görevini sürekli olarak yapmasına engel teşkil edecek hastalığa veya
-maluliyete yakalanan,
+e\) Medeni hakları kullanma ehliyetini kaybeden veya görevini sürekli
+olarak yapmasına engel teşkil edecek hastalığa veya maluliyete
+yakalanan,
 
-             f) Bu Kanunun 11 inci maddesi uyarınca iki defa idarî para
-cezası alan,
+f\) **(Mülga: 12/7/2013-6495/48 md.)**
 
-             vakıf yöneticileri, Meclisin vereceği karara dayalı olarak
-Denetim Makamının başvurusu üzerine vakfın yerleşim yeri asliye hukuk
+vakıf yöneticileri, Meclisin vereceği karara dayalı olarak Denetim
+Makamının başvurusu üzerine vakfın yerleşim yeri asliye hukuk
 mahkemesince görevlerinden alınabilir. Telafisi imkânsız sonuçlar
 doğurabilecek hallerde dava sonuçlanıncaya kadar, Meclis kararı üzerine
 Denetim Makamınca, vakıf yönetiminin geçici olarak görevden
 uzaklaştırılması ve kayyımca yönetilmesi ihtiyati tedbir olarak
 mahkemeden talep edilir.
 
-             Görevinden alınan vakıf yöneticileri Meclis üyesi olamaz ve
-beş yıl süreyle aynı vakfın yönetim ve denetim organında görev
-alamazlar. Ayrıca ikinci fıkranın (c), (e) ve (f) bentlerinde belirtilen
-nedenlerle görevinden alınan vakıf yöneticileri başka bir vakfın
-yöneticisi ise o görevinden de alınmış sayılır ve beş yıl süreyle hiçbir
-vakfın yönetim ve denetim organında görev alamazlar.
-
-             Vakıf yönetiminde yer alan kişiler ile vakıf çalışanları
-kusurlu fiilleri nedeniyle vakfa verdikleri zararlardan sorumludurlar.
-
-             Vakıf yöneticileri mahkeme kararı olmaksızın görevlerinden
-uzaklaştırılamazlar.
-
-**             İdarî para cezası**
-
-**             MADDE 11 –** Genel Müdürlükçe yapılan tebligata rağmen,
-bu Kanun uyarınca istenen beyanname, bilgi ve belgeleri zamanında
-vermeyen, organların vakfiye veya vakıf senedine aykırı olarak
-toplanmasına sebebiyet veren veya gerçeğe aykırı beyanda bulunan vakıf
-yönetimine Genel Müdürlükçe her bir eylem için beşyüz Türk Lirası idarî
-para cezası verilir. İdarî para cezalarına karşı tebliğ tarihinden
-itibaren onbeş gün içinde 30/3/2005 tarihli ve 5326 sayılı Kabahatler
-Kanunu hükümlerine göre kanun yoluna başvurulabilir.
-
- 
-
 10244
 
- 
+Görevinden alınan vakıf yöneticileri Meclis üyesi olamaz ve beş yıl
+süreyle aynı vakfın yönetim ve denetim organında görev alamazlar. Ayrıca
+ikinci fıkranın (c) ve (e) bentlerinde belirtilen nedenlerle görevinden
+alınan vakıf yöneticileri başka bir vakfın yöneticisi ise o görevinden
+de alınmış sayılır ve beş yıl süreyle hiçbir vakfın yönetim ve denetim
+organında görev alamazlar. ^(1)^
+
+Vakıf yönetiminde yer alan kişiler ile vakıf çalışanları kusurlu
+fiilleri nedeniyle vakfa verdikleri zararlardan sorumludurlar.
+
+Vakıf yöneticileri mahkeme kararı olmaksızın görevlerinden
+uzaklaştırılamazlar.
+
+**İdarî para cezası**
+
+**MADDE 11 –** Genel Müdürlükçe yapılan tebligata rağmen, bu Kanun
+uyarınca istenen beyanname, bilgi ve belgeleri zamanında vermeyen,
+organların vakfiye veya vakıf senedine aykırı olarak toplanmasına
+sebebiyet veren veya gerçeğe aykırı beyanda bulunan vakıf yönetimine
+Genel Müdürlükçe her bir eylem için beşyüz Türk Lirası idarî para cezası
+verilir. İdarî para cezalarına karşı tebliğ tarihinden itibaren onbeş
+gün içinde 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu
+hükümlerine göre kanun yoluna başvurulabilir.
 
 **İKİNCİ BÖLÜM**
 
 **Vakıf Malları ve Faaliyetleri**
 
-**             Vakıfların mal edinmesi, akar cinsinden olan malların
-değiştirilmesi**
+**Vakıfların mal edinmesi, akar cinsinden olan malların değiştirilmesi**
 
-**             MADDE 12 –** Vakıflar; mal edinebilirler, malları
-üzerinde her türlü tasarrufta bulunabilirler.
+**MADDE 12 –** Vakıflar; mal edinebilirler, malları üzerinde her türlü
+tasarrufta bulunabilirler.
 
-             Genel Müdürlüğe ve mazbut vakıflara ait akar mallar ile
-hakların daha yararlı olanları ile değiştirilmesine, paraya çevrilmesine
-veya değerlendirilmesine Meclis yetkilidir.
+Genel Müdürlüğe ve mazbut vakıflara ait akar mallar ile hakların daha
+yararlı olanları ile değiştirilmesine, paraya çevrilmesine veya
+değerlendirilmesine Meclis yetkilidir.
 
-             Mülhak, cemaat, esnaf vakıfları ile yeni vakıflara,
-başlangıçta özgülenen mal ve haklar, vakıf yönetiminin başvurusu
-üzerine, haklı kılan sebepler varsa, Denetim Makamının görüşü alınarak
-mahkeme kararı ile sonradan iktisap ettikleri mal ve hakları ise
-bağımsız ekspertiz kuruluşlarınca düzenlenecek rapora dayalı olarak
-vakıf yetkili organının kararı ile daha yararlı olanları ile
-değiştirilebilir veya paraya çevrilebilir.
+Mülhak, cemaat, esnaf vakıfları ile yeni vakıflara, başlangıçta
+özgülenen mal ve haklar, vakıf yönetiminin başvurusu üzerine, haklı
+kılan sebepler varsa, Denetim Makamının görüşü alınarak mahkeme kararı
+ile sonradan iktisap ettikleri mal ve hakları ise bağımsız ekspertiz
+kuruluşlarınca düzenlenecek rapora dayalı olarak vakıf yetkili organının
+kararı ile daha yararlı olanları ile değiştirilebilir veya paraya
+çevrilebilir.
 
-             Vakıf yöneticileri, iktisap ettikleri veya değiştirdikleri
-taşınmaz malları tapuya tescil tarihinden itibaren bir ay içerisinde
-Genel Müdürlüğe bildirirler.
+Vakıf yöneticileri, iktisap ettikleri veya değiştirdikleri taşınmaz
+malları tapuya tescil tarihinden itibaren bir ay içerisinde Genel
+Müdürlüğe bildirirler.
 
-             Kurucularının çoğunluğu yabancı uyruklu olan vakıfların,
-taşınmaz mal edinmeleri hakkında, 22/12/1934 tarihli ve 2644 sayılı Tapu
-Kanununun 35 inci maddesi uygulanır.
+Kurucularının çoğunluğu yabancı uyruklu olan vakıfların, taşınmaz mal
+edinmeleri hakkında, 22/12/1934 tarihli ve 2644 sayılı Tapu Kanununun 35
+inci maddesi uygulanır.
 
-**             Taşınmazların vakıfları adına tescili**
+**Taşınmazların vakıfları adına tescili**
 
-**             MADDE 13 –** Mazbut vakıfların tescil görmemiş hayrat
-taşınmazları, Genel Müdürlüğün isteği üzerine tapu idaresince vakıfları
-adına tescil edilir.
+**MADDE 13 –** Mazbut vakıfların tescil görmemiş hayrat taşınmazları,
+Genel Müdürlüğün isteği üzerine tapu idaresince vakıfları adına tescil
+edilir.
 
-             Mazbut ve mülhak vakıflara ait akar taşınmazların satış ve
-taviz bedelleri ile satın alınacak, trampa ile edinilecek veya yeniden
+Mazbut ve mülhak vakıflara ait akar taşınmazların satış ve taviz
+bedelleri ile satın alınacak, trampa ile edinilecek veya yeniden
 yaptırılacak taşınmazlar, vakıfları adına hisseleri oranında tapuya
 tescil ettirilerek kayıtlara işlenir.
 
-**             Amaç ve işlev değişikliği**
+––––––––––––
 
-**             MADDE 14 –** Vakıfların, vakfiyelerindeki şartların
-yerine getirilmesine fiilen veya hukuken imkân kalmaması halinde;
-vakfedenin iradesine aykırı olmamak kaydıyla mazbut vakıflarda Genel
-Müdürlüğün; mülhak, cemaat ve esnaf vakıflarında, vakıf yöneticilerinin
-teklifi üzerine bu şartları değiştirmeye; hayır şartlarındaki parasal
-değerleri güncel vakıf gelirlerine uyarlamaya Meclis yetkilidir.
+*(1) 12/7/2013 tarihli ve 6495 sayılı Kanunun 48 inci maddesiyle, bu
+fıkrada yer alan “(c), (e) ve (f) bentlerinde” ibaresi “(c) ve (e)
+bentlerinde” şeklinde değiştirilmiştir.*
 
-**             Hayrat taşınmazların nitelikleri ve değerlendirilmesi**
+10244-1
 
-**             MADDE 15 –** Vakıfların hayrat taşınmazları haczedilemez,
+**Amaç ve işlev değişikliği**
+
+**MADDE 14 –** Vakıfların, vakfiyelerindeki şartların yerine
+getirilmesine fiilen veya hukuken imkân kalmaması halinde; vakfedenin
+iradesine aykırı olmamak kaydıyla mazbut vakıflarda Genel Müdürlüğün;
+mülhak, cemaat ve esnaf vakıflarında, vakıf yöneticilerinin teklifi
+üzerine bu şartları değiştirmeye; hayır şartlarındaki parasal değerleri
+güncel vakıf gelirlerine uyarlamaya Meclis yetkilidir.
+
+**Hayrat taşınmazların nitelikleri ve değerlendirilmesi**
+
+**MADDE 15 –** Vakıfların hayrat taşınmazları haczedilemez,
 rehnedilemez, bu taşınmazlarda mülkiyet ve irtifak hakkı için
 kazandırıcı zamanaşımı işlemez.
 
-             Genel Müdürlüğe, mazbut ve mülhak vakıflara ait olup,
-tahsis edildikleri amaca göre kullanılmaları kanunlara veya kamu
-düzenine aykırı yahut tahsis amacına uygunluğunu kaybetmiş, kısmen veya
-tamamen hayrat olarak kullanılması mümkün olmayan taşınmazlar; mazbut
-vakıflarda Meclis kararı ile mülhak vakıflarda vakıf yöneticisinin
-talebi üzerine Meclis kararı ile gayece aynı veya en yakın başka bir
-hayrata dönüştürülebilir, akara devredilebilir veya paraya çevrilebilir.
-Bu paralar aynı surette diğer bir hayrata tahsis olunur. Aynı vakıf
-içerisindeki dönüştürme veya devirlerde bedel ödenmez.
+Genel Müdürlüğe, mazbut ve mülhak vakıflara ait olup, tahsis edildikleri
+amaca göre kullanılmaları kanunlara veya kamu düzenine aykırı yahut
+tahsis amacına uygunluğunu kaybetmiş, kısmen veya tamamen hayrat olarak
+kullanılması mümkün olmayan taşınmazlar; mazbut vakıflarda Meclis kararı
+ile mülhak vakıflarda vakıf yöneticisinin talebi üzerine Meclis kararı
+ile gayece aynı veya en yakın başka bir hayrata dönüştürülebilir, akara
+devredilebilir veya paraya çevrilebilir. Bu paralar aynı surette diğer
+bir hayrata tahsis olunur. Aynı vakıf içerisindeki dönüştürme veya
+devirlerde bedel ödenmez.
 
-**             Hayrat taşınmazların tahsisi**
+**Hayrat taşınmazların tahsisi**
 
-**             MADDE 16 –** Mazbut vakıflara ait hayrat taşınmazlara,
-Genel Müdürlük tarafından öncelikle vakfiyeleri doğrultusunda işlev
-verilir. Genel Müdürlükçe değerlendirilemeyen veya işlev verilemeyen
-hayrat taşınmazlar; fiilen asli niteliğine uygun olarak kullanılıncaya
-kadar kiraya verilebilir.
+**MADDE 16 –** Mazbut vakıflara ait hayrat taşınmazlara, Genel Müdürlük
+tarafından öncelikle vakfiyeleri doğrultusunda işlev verilir. Genel
+Müdürlükçe değerlendirilemeyen veya işlev verilemeyen hayrat
+taşınmazlar; fiilen asli niteliğine uygun olarak kullanılıncaya kadar
+kiraya verilebilir.
 
-             Bu hayrat taşınmazlar; Genel Müdürlükçe işlev verilmek
-amacıyla, vakfiyesinde yazılı hizmetlerde kullanılmak üzere Genel
-Müdürlüğün denetiminde onarım ve restorasyon karşılığı kamu kurum ve
-kuruluşlarına, benzer amaçlı vakıflara veya kamu yararına çalışan
-derneklere tahsis edilebilir.
+Bu hayrat taşınmazlar; Genel Müdürlükçe işlev verilmek amacıyla,
+vakfiyesinde yazılı hizmetlerde kullanılmak üzere Genel Müdürlüğün
+denetiminde onarım ve restorasyon karşılığı kamu kurum ve kuruluşlarına,
+benzer amaçlı vakıflara veya kamu yararına çalışan derneklere tahsis
+edilebilir.
 
-             Mülhak vakfa ait hayrat taşınmazın tahsisinde Genel
-Müdürlük görüşü alınır.
+Mülhak vakfa ait hayrat taşınmazın tahsisinde Genel Müdürlük görüşü
+alınır.
 
-             Tahsis edilen taşınmaz; ticari bir faaliyette kullanılamaz,
-tahsise aykırı kullanımın tespiti halinde Genel Müdürlüğün talebi
-üzerine taşınmaz, bulunduğu yerin mülki amirliğince tahliye edilir.
+Tahsis edilen taşınmaz; ticari bir faaliyette kullanılamaz, tahsise
+aykırı kullanımın tespiti halinde Genel Müdürlüğün talebi üzerine
+taşınmaz, bulunduğu yerin mülki amirliğince tahliye edilir.
+
+Cemaat vakıflarına ait, kısmen veya tamamen hayrat olarak kullanılmayan
+taşınmazlar, vakıf yönetiminin talebi halinde Meclis kararıyla; aynı
+cemaate ait başka bir vakfa tahsis edilebilir veya vakfın akarına
+dönüştürülebilir.
+
+10244-2
+
+**Taşınmazların vakfına dönmesi**
+
+**MADDE 17 –** Tasarruf edenlerin veya maliklerin mirasçı bırakmadan
+ölümleri, kaybolmaları, terk veya mübadil gibi durumlara düşmeleri
+halinde icareteynli ve mukataalı taşınmaz malların mülkiyeti vakfı adına
+tescil edilir.
+
+**Taviz bedeli**
+
+**MADDE 18 –** Tapu kayıtlarında, icareteyn ve mukataalı vakıf şerhi
+bulunan gerçek ve tüzel kişilerin mülkiyetinde veya tasarrufundaki
+taşınmazlar, işlem tarihindeki emlak vergisi değerinin yüzde onu
+oranında taviz bedeli alınarak serbest tasarrufa terk edilir. Ancak miri
+arazilerden mukataalı hayrata tahsis edilmeyenler ile aşar ve rüsumu
+vakfedilen taşınmazlar tavize tâbi değildir.
+
+Taviz bedelinin hesaplanmasında; ortaklığın giderilmesi veya cebri icra
+yoluyla satılanlarda satış bedeli, kamulaştırmalarda ise kamulaştırma
+bedeli esas alınır.
+
+Bu Kanun hükümleri gereğince taviz bedelinin tamamı vakfı adına
+ödenmedikçe, taşınmaz üzerindeki temliki tasarruflar tapu dairelerince
+tescil olunmaz.
+
+Vakıf şerhleri ile ilgili olarak, diğer kanunlarda yer alan zamanaşımı
+ve hak düşürücü sürelere ilişkin hükümler uygulanmaz.
+
+**Taviz bedelinin tahsil şekli**
+
+**MADDE 19 –** Taviz bedelleri, yapılacak tebligat üzerine altmış gün
+içerisinde peşin olarak ödenebileceği gibi eşdeğer bir taşınmazla takas
+edilebilir veya yarısı peşin, kalanı bir yılda beş eşit taksitte
+ödenebilir. Taksitlendirme halinde, taşınmaza birinci derece ve birinci
+sırada ipotek konulur. Taksitlerden birinin zamanında ödenmemesi halinde
+geri kalan taksitlerin tamamı muaccel olur.
+
+Genel Müdürlükçe tahakkuk ettirilen taviz bedelleri, yapılacak tebligata
+rağmen ödenmediği takdirde 6183 sayılı Amme Alacaklarının Tahsil Usulü
+Hakkında Kanun hükümlerine göre gecikme zammı ile birlikte tahsil
+edilerek vakfı adına gelir kaydedilir.
+
+**Kira süresi**
+
+**MADDE 20 –** Genel Müdürlüğe ve mazbut vakıflara ait taşınmazların
+kira süresi azami üç yıldır. Ancak onarım veya inşa karşılığı
+kiralamalarda; onarım ve inşa bedeli göz önüne alınarak kira süresi
+Genel Müdürün onayı ile yirmi yıla, Meclis kararı ile kırk dokuz yıla
+kadar tespit edilebilir.
+
+Genel Müdürlüğe veya mazbut vakıflara ait onarımı planlanan vakıf kültür
+varlıkları ile yatırım yapılacak taşınmazlar; kira süresinin bitiminden
+bir ay önce bildirim yapılmak kaydıyla, hiçbir hüküm ve karara bağlı
+olmaksızın Genel Müdürlüğün talebi üzerine kira süresi sonunda mülki
+amirlikçe tahliye edilir.
 
 10245
 
- 
+**Vakıf ormanları **
 
-             Cemaat vakıflarına ait, kısmen veya tamamen hayrat olarak
-kullanılmayan taşınmazlar, vakıf yönetiminin talebi halinde Meclis
-kararıyla; aynı cemaate ait başka bir vakfa tahsis edilebilir veya
-vakfın akarına dönüştürülebilir.
+**MADDE 21 –** Özel vakıf ormanları kurulabilir.
 
-**             Taşınmazların vakfına dönmesi**
+**Vakıf kültür varlıklarının korunması ve imar uygulamalarının
+bildirilmesi **
 
-**             MADDE 17 –** Tasarruf edenlerin veya maliklerin mirasçı
-bırakmadan ölümleri, kaybolmaları, terk veya mübadil gibi durumlara
-düşmeleri halinde icareteynli ve mukataalı taşınmaz malların mülkiyeti
-vakfı adına tescil edilir.
+**MADDE 22 –** Kamu kurum ve kuruluşları, koruma imar planlarını
+düzenlerken vakıf kültür varlıklarıyla ilgili hususlarda Genel
+Müdürlüğün görüşünü almak zorundadırlar.
 
-**             Taviz bedeli**
+Genel Müdürlüğe ve mazbut vakıflara ait taşınmaz mallarla ilgili olarak
+belediyeler ile diğer kamu kurum ve kuruluşlarınca yapılan uygulama imar
+ve parselasyon planlarının, askıya çıkarılmadan önce ilgili idareler
+tarafından Genel Müdürlüğe bildirilmesi zorunludur.
 
-**             MADDE 18 –** Tapu kayıtlarında, icareteyn ve mukataalı
-vakıf şerhi bulunan gerçek ve tüzel kişilerin mülkiyetinde veya
-tasarrufundaki taşınmazlar, işlem tarihindeki emlak vergisi değerinin
-yüzde onu oranında taviz bedeli alınarak serbest tasarrufa terk edilir.
-Ancak miri arazilerden mukataalı hayrata tahsis edilmeyenler ile aşar ve
-rüsumu vakfedilen taşınmazlar tavize tâbi değildir.
+Mazbut vakıf taşınmazlarında akar niteliğini koruyacak şekilde imar
+düzenlemesi yapılır.
 
-             Taviz bedelinin hesaplanmasında; ortaklığın giderilmesi
-veya cebri icra yoluyla satılanlarda satış bedeli, kamulaştırmalarda ise
-kamulaştırma bedeli esas alınır.
+Genel Müdürlüğe ve mazbut vakıflara ait olup uygulama imar planlarında
+okul, hastane veya spor alanlarında kalan taşınmazlar; ilgili kurumlar
+tarafından, imar planının tasdik tarihinden itibaren iki yıl içerisinde
+kamulaştırılmadığı takdirde ilgili bakanlığın görüşü alınarak Genel
+Müdürlükçe özel okul, özel hastane veya özel spor tesisi olarak
+değerlendirilebilir.
 
-             Bu Kanun hükümleri gereğince taviz bedelinin tamamı vakfı
-adına ödenmedikçe, taşınmaz üzerindeki temliki tasarruflar tapu
-dairelerince tescil olunmaz.
+**Zilyetlik yoluyla kazanım**
 
-             Vakıf şerhleri ile ilgili olarak, diğer kanunlarda yer alan
-zamanaşımı ve hak düşürücü sürelere ilişkin hükümler uygulanmaz.
+**MADDE 23 –** Vakıfların malları üzerinde zilyetlik yoluyla kazanma
+hükümleri uygulanmaz.
 
-**             Taviz bedelinin tahsil şekli**
+**Sigorta**
 
-**             MADDE 19 –** Taviz bedelleri, yapılacak tebligat üzerine
-altmış gün içerisinde peşin olarak ödenebileceği gibi eşdeğer bir
-taşınmazla takas edilebilir veya yarısı peşin, kalanı bir yılda beş eşit
-taksitte ödenebilir. Taksitlendirme halinde, taşınmaza birinci derece ve
-birinci sırada ipotek konulur. Taksitlerden birinin zamanında ödenmemesi
-halinde geri kalan taksitlerin tamamı muaccel olur.
+**MADDE 24 – (Değişik: 12/7/2013-6495/49 md.)**
 
-             Genel Müdürlükçe tahakkuk ettirilen taviz bedelleri,
-yapılacak tebligata rağmen ödenmediği takdirde 6183 sayılı Amme
-Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı
-ile birlikte tahsil edilerek vakfı adına gelir kaydedilir.
-
-**             Kira süresi**
-
-**             MADDE 20 –** Genel Müdürlüğe ve mazbut vakıflara ait
-taşınmazların kira süresi azami üç yıldır. Ancak onarım veya inşa
-karşılığı kiralamalarda; onarım ve inşa bedeli göz önüne alınarak kira
-süresi Genel Müdürün onayı ile yirmi yıla, Meclis kararı ile kırk dokuz
-yıla kadar tespit edilebilir.
-
-             Genel Müdürlüğe veya mazbut vakıflara ait onarımı planlanan
-vakıf kültür varlıkları ile yatırım yapılacak taşınmazlar; kira
-süresinin bitiminden bir ay önce bildirim yapılmak kaydıyla, hiçbir
-hüküm ve karara bağlı olmaksızın Genel Müdürlüğün talebi üzerine kira
-süresi sonunda mülki amirlikçe tahliye edilir.
-
-**             Vakıf ormanları **
-
-**             MADDE 21 –** Özel vakıf ormanları kurulabilir.
-
-**             Vakıf kültür varlıklarının korunması ve imar
-uygulamalarının bildirilmesi **
-
-**             MADDE 22 –** Kamu kurum ve kuruluşları, koruma imar
-planlarını düzenlerken vakıf kültür varlıklarıyla ilgili hususlarda
-Genel Müdürlüğün görüşünü almak zorundadırlar.
-
-             Genel Müdürlüğe ve mazbut vakıflara ait taşınmaz mallarla
-ilgili olarak belediyeler ile diğer kamu kurum ve kuruluşlarınca yapılan
-uygulama imar ve parselasyon planlarının, askıya çıkarılmadan önce
-ilgili idareler tarafından Genel Müdürlüğe bildirilmesi zorunludur.
-
-             Mazbut vakıf taşınmazlarında akar niteliğini koruyacak
-şekilde imar düzenlemesi yapılır.
-
-             Genel Müdürlüğe ve mazbut vakıflara ait olup uygulama imar
-planlarında okul, hastane veya spor alanlarında kalan taşınmazlar;
-ilgili kurumlar tarafından, imar planının tasdik tarihinden itibaren iki
-yıl içerisinde kamulaştırılmadığı takdirde ilgili bakanlığın görüşü
-alınarak Genel Müdürlükçe özel okul, özel hastane veya özel spor tesisi
-olarak değerlendirilebilir.
-
-10246
-
- 
-
-**             Zilyetlik yoluyla kazanım**
-
-**             MADDE 23 –** Vakıfların malları üzerinde zilyetlik
-yoluyla kazanma hükümleri uygulanmaz.
-
-**             Sigorta**
-
-**             MADDE 24 –** Kiraya verilen veya tahsis edilen mazbut
-vakıf taşınmaz malların, yangın, hırsızlık ve doğal afetlere karşı,
+Kiraya verilen veya tahsis edilen Genel Müdürlük ve mazbut vakıf
+taşınmaz mallarının, yangın, hırsızlık ve doğal afetlere karşı,
 kullananları tarafından Genel Müdürlük adına sigortalanması zorunludur.
 
-**             Uluslararası faaliyet**
+Vakıf kültür varlıklarının sigorta işlemlerinde bedel, Çevre ve
+Şehircilik Bakanlığının mimarlık ve mühendislik hizmet bedellerinin
+hesabında kullanılan yapı yaklaşık birim maliyetleri V.Sınıf (D) Grubu
+Yapılar birim fiyatı ile taşınmazda yer alan taşınırların değeri dikkate
+alınarak Genel Müdürlükçe belirlenir.
 
-**             MADDE 25 –** Vakıflar; vakıf senetlerinde yer almak
-kaydıyla, amaç veya faaliyetleri doğrultusunda, uluslararası faaliyet ve
-işbirliğinde bulunabilirler, yurt dışında şube ve temsilcilik
-açabilirler, üst kuruluşlar kurabilirler ve yurt dışında kurulmuş
-kuruluşlara üye olabilirler.
+**Uluslararası faaliyet**
 
-             Vakıflar; yurt içi ve yurt dışındaki kişi, kurum ve
-kuruluşlardan ayni ve nakdi bağış ve yardım alabilirler, yurt içi ve
-yurt dışındaki benzer amaçlı vakıf ve derneklere ayni ve nakdi bağış ve
-yardımda bulunabilirler. Nakdi yardımların yurt dışından alınması veya
-yurt dışına yapılması banka aracılığı ile olur ve sonuç Genel Müdürlüğe
+**MADDE 25 –** Vakıflar; vakıf senetlerinde yer almak kaydıyla, amaç
+veya faaliyetleri doğrultusunda, uluslararası faaliyet ve işbirliğinde
+bulunabilirler, yurt dışında şube ve temsilcilik açabilirler, üst
+kuruluşlar kurabilirler ve yurt dışında kurulmuş kuruluşlara üye
+olabilirler.
+
+Vakıflar; yurt içi ve yurt dışındaki kişi, kurum ve kuruluşlardan ayni
+ve nakdi bağış ve yardım alabilirler, yurt içi ve yurt dışındaki benzer
+amaçlı vakıf ve derneklere ayni ve nakdi bağış ve yardımda
+bulunabilirler. Nakdi yardımların yurt dışından alınması veya yurt
+dışına yapılması banka aracılığı ile olur ve sonuç Genel Müdürlüğe
 bildirilir. Bildirimin şekli ve içeriği yönetmelikle düzenlenir.
 
-**             İktisadî işletme ve şirket kurulması**
+**İktisadî işletme ve şirket kurulması**
 
-**             MADDE 26 –** Vakıflar; amacını gerçekleştirmeye yardımcı
-olmak ve vakfa gelir temin etmek amacıyla, Genel Müdürlüğe bilgi vermek
-şartıyla iktisadî işletme ve şirket kurabilir, kurulmuş şirketlere ortak
+**MADDE 26 –** Vakıflar; amacını gerçekleştirmeye yardımcı olmak ve
+vakfa gelir temin etmek amacıyla, Genel Müdürlüğe bilgi vermek şartıyla
+iktisadî işletme ve şirket kurabilir, kurulmuş şirketlere ortak
 olabilirler. Şirketler dahil iktisadî işletmelerden elde edilen gelirler
 vakfın amacından başka bir amaca tahsis edilemez. Kurucuların çoğunluğu
 yabancı uyruklu olan vakıfların kurduğu yahut paylarının yarıdan
 fazlasına bu nevi vakıfların sahip olduğu şirketlerin mal edinmeleri
 hakkında aynı vakıfların mal edinmelerini düzenleyen hükümler uygulanır.
 
-             Genel Müdürlük; Bakanlar Kurulu kararıyla Genel Müdürlük ve
-mazbut vakıfların gelirleri ve akar malları ile iktisadî işletme veya
-şirket kurmaya yetkilidir. Şirket hisseleri ve hakların daha yararlı
-olanları ile değiştirilmesi, paraya çevrilmesi, değerlendirilmesi ve
-bunlara bağlı her türlü hakkın kullanılması ile ortaklık paylarına bağlı
+10246
+
+Genel Müdürlük; Bakanlar Kurulu kararıyla Genel Müdürlük ve mazbut
+vakıfların gelirleri ve akar malları ile iktisadî işletme veya şirket
+kurmaya yetkilidir. Şirket hisseleri ve hakların daha yararlı olanları
+ile değiştirilmesi, paraya çevrilmesi, değerlendirilmesi ve bunlara
+bağlı her türlü hakkın kullanılması ile ortaklık paylarına bağlı
 hakların kullanılması Genel Müdürlük tarafından yürütülür.
 
-**             Sona eren veya dağıtılan yeni vakıfların mal ve hakları**
+**Sona eren veya dağıtılan yeni vakıfların mal ve hakları**
 
-**             MADDE 27 –** Sona eren yeni vakıfların borçlarının
-tasfiyesinden arta kalan mal ve haklar; vakıf senedinde yazılı hükümlere
-göre, senetlerinde özel bir hüküm bulunmayanlarda ise Genel Müdürlüğün
-görüşü alınarak mahkeme kararıyla benzer amaçlı bir vakfa; dağıtılan
-yeni vakıfların borçlarının tasfiyesinden arta kalan mal ve haklar ise
-Genel Müdürlüğe intikal eder.
-
- 
+**MADDE 27 –** Sona eren yeni vakıfların borçlarının tasfiyesinden arta
+kalan mal ve haklar; vakıf senedinde yazılı hükümlere göre, senetlerinde
+özel bir hüküm bulunmayanlarda ise Genel Müdürlüğün görüşü alınarak
+mahkeme kararıyla benzer amaçlı bir vakfa; dağıtılan yeni vakıfların
+borçlarının tasfiyesinden arta kalan mal ve haklar ise Genel Müdürlüğe
+intikal eder.
 
 **ÜÇÜNCÜ BÖLÜM**
 
 **Vakıf Kültür ve Tabiat Varlıkları**
 
-**             Vakıf kültür varlıklarının tespiti, tescili ve
-yaşatılması**
+**Vakıf kültür varlıklarının tespiti, tescili ve yaşatılması**
 
-**             MADDE 28 –** Vakıflara ait yurt içi ve yurt dışındaki
-taşınır ve taşınmaz vakıf kültür varlıklarının tespiti, envanterinin
-çıkarılması, tescili, Genel Müdürlüğe ve mazbut vakıflara ait olanların
-korunması, mülkiyeti el değiştirmiş vakıf kültür varlıkları ile koruma
-alanlarının kamulaştırılması, değerlendirilmesi, onarımı, restorasyonu
-ve gerektiğinde yeniden inşası Genel Müdürlükçe yürütülür.
+**MADDE 28 –** Vakıflara ait yurt içi ve yurt dışındaki taşınır ve
+taşınmaz vakıf kültür varlıklarının tespiti, envanterinin çıkarılması,
+tescili, Genel Müdürlüğe ve mazbut vakıflara ait olanların korunması,
+mülkiyeti el değiştirmiş vakıf kültür varlıkları ile koruma alanlarının
+kamulaştırılması, değerlendirilmesi, onarımı, restorasyonu ve
+gerektiğinde yeniden inşası Genel Müdürlükçe yürütülür.
 
-**(Mülga: 3/4/2013-6456/52 md.) **
+**(Mülga: 3/4/2013-6456/52 md.)**
 
-                 Yeterli geliri bulunmayan mazbut vakıflara ait vakıf
-kültür varlığı niteliğindeki taşınmazların, benzer amaçlı mazbut
-vakıfların gelirleriyle korunmasına ve yaşatılmasına Meclis yetkilidir.
+Yeterli geliri bulunmayan mazbut vakıflara ait vakıf kültür varlığı
+niteliğindeki taşınmazların, benzer amaçlı mazbut vakıfların
+gelirleriyle korunmasına ve yaşatılmasına Meclis yetkilidir.
 
-**             Vakıf kültür ve tabiat varlıklarının korunması**
+**Vakıf kültür ve tabiat varlıklarının korunması**
 
-**             MADDE 29 –** Vakıflara ait taşınır ve taşınmaz kültür ve
-tabiat varlıkları; Genel Müdürlük, ilgili kamu kurum ve kuruluşları ile
+**MADDE 29 –** Vakıflara ait taşınır ve taşınmaz kültür ve tabiat
+varlıkları; Genel Müdürlük, ilgili kamu kurum ve kuruluşları ile
 kullananları tarafından korunur.
 
-10247
+**Vakıf kültür varlıklarının devri**
 
- 
-
-**             Vakıf kültür varlıklarının devri**
-
-**             MADDE 30 –** Vakıf yoluyla meydana gelip de her ne
-suretle olursa olsun Hazine, belediye, özel idarelerin veya köy tüzel
-kişiliğinin mülkiyetine geçmiş vakıf kültür varlıkları mazbut vakfına
-devrolunur.
-
- 
+**MADDE 30 –** Vakıf yoluyla meydana gelip de her ne suretle olursa
+olsun Hazine, belediye, özel idarelerin veya köy tüzel kişiliğinin
+mülkiyetine geçmiş vakıf kültür varlıkları mazbut vakfına devrolunur.
 
 **DÖRDÜNCÜ BÖLÜM**
 
 **Vakıfların Muhasebesi ve Denetimi**
 
-**             Vakıf muhasebesi**
+**Vakıf muhasebesi**
 
-**             MADDE 31 –** Vakıflar, muhasebe kayıtlarını Genel
-Müdürlükçe belirlenecek usûl ve esaslar dahilinde tutmak zorundadırlar.
-Tutulacak defter ve kayıtlar ile ilgili usûl ve esaslar yönetmelikle
-düzenlenir.
+**MADDE 31 –** Vakıflar, muhasebe kayıtlarını Genel Müdürlükçe
+belirlenecek usûl ve esaslar dahilinde tutmak zorundadırlar. Tutulacak
+defter ve kayıtlar ile ilgili usûl ve esaslar yönetmelikle düzenlenir.
 
-             Mazbut vakıfların her birinin gelir ve giderleri ayrı ayrı
-takip edilir.
+Mazbut vakıfların her birinin gelir ve giderleri ayrı ayrı takip edilir.
 
-             Vakıflar, varlıklarını, ekonomik kural ve riskleri gözetmek
-suretiyle değerlendirirler.
+Vakıflar, varlıklarını, ekonomik kural ve riskleri gözetmek suretiyle
+değerlendirirler.
 
-**             Beyanname verme yükümlülüğü**
+10247
 
-**             MADDE 32 –** Vakıf yönetimi; vakfın yönetici veya yönetim
-kurulu üyeleri listesini, bir önceki yıla ait faaliyet raporlarını,
-bütçe ve bilançolarını, gayrimenkullerini, malî tablolarını ve bu
-tabloların uygun araçlarla yayınlandığına dair belgeyi, işletme ve
-iştiraklerinin malî tabloları ile yönetmelikle belirlenecek diğer
-bilgileri içeren beyannameyi her takvim yılının ilk altı ayı içerisinde
-Genel Müdürlüğe verir.
+**Beyanname verme yükümlülüğü**
 
-**             Vakıfların denetimi**
+**MADDE 32 –** Vakıf yönetimi; vakfın yönetici veya yönetim kurulu
+üyeleri listesini, bir önceki yıla ait faaliyet raporlarını, bütçe ve
+bilançolarını, gayrimenkullerini, malî tablolarını ve bu tabloların
+uygun araçlarla yayınlandığına dair belgeyi, işletme ve iştiraklerinin
+malî tabloları ile yönetmelikle belirlenecek diğer bilgileri içeren
+beyannameyi her takvim yılının ilk altı ayı içerisinde Genel Müdürlüğe
+verir.
 
-**             MADDE 33 –** Mülhak, cemaat, esnaf vakıfları ile yeni
-vakıflarda iç denetim esastır. Vakıf; organları tarafından
-denetlenebileceği gibi, bağımsız denetim kuruluşlarına da denetim
-yaptırabilir.
+**Vakıfların denetimi**
 
-             Vakıf yöneticileri, en az yılda bir defa yapılacak iç
-denetim raporları ile sonuçlarını, rapor tarihini takip eden iki ay
-içerisinde Genel Müdürlüğe bildirir.
+**MADDE 33 –** Mülhak, cemaat, esnaf vakıfları ile yeni vakıflarda iç
+denetim esastır. Vakıf; organları tarafından denetlenebileceği gibi,
+bağımsız denetim kuruluşlarına da denetim yaptırabilir.
 
-             Vakıfların amaca ve yasalara uygunluk denetimi ile iktisadî
+Vakıf yöneticileri, en az yılda bir defa yapılacak iç denetim raporları
+ile sonuçlarını, rapor tarihini takip eden iki ay içerisinde Genel
+Müdürlüğe bildirir.
+
+Vakıfların amaca ve yasalara uygunluk denetimi ile iktisadî
 işletmelerinin faaliyet ve mevzuata uygunluk denetimi Genel Müdürlükçe
 yapılır.
 
-**             Yönetim ve temsil masrafı**
+**Yönetim ve temsil masrafı**
 
-**             MADDE 34 –** İntifa hakkına konu mazbut vakıflar ile
-Genel Müdürlük tarafından geçici olarak yönetilen vakıfların yıllık
-gayrisafi gelirlerinin yüzde yirmisi yönetim ve temsil masrafı olarak
-Genel Müdürlük bütçesine gelir kaydedilir.
-
- 
+**MADDE 34 –** İntifa hakkına konu mazbut vakıflar ile Genel Müdürlük
+tarafından geçici olarak yönetilen vakıfların yıllık gayrisafi
+gelirlerinin yüzde yirmisi yönetim ve temsil masrafı olarak Genel
+Müdürlük bütçesine gelir kaydedilir.
 
 **ÜÇÜNCÜ KISIM**
 
@@ -640,30 +629,29 @@ ve İstihdam**
 
 **Vakıflar Genel Müdürlüğü**
 
-**            Vakıflar Genel Müdürlüğü **
+**Vakıflar Genel Müdürlüğü **
 
-**            MADDE 35 –** Bu Kanun ile kendisine verilen görevleri
-yerine getirmek üzere, kamu tüzel kişiliğini haiz Başbakanlığa bağlı
-Vakıflar Genel Müdürlüğü kurulmuştur.
+**MADDE 35 –** Bu Kanun ile kendisine verilen görevleri yerine getirmek
+üzere, kamu tüzel kişiliğini haiz Başbakanlığa bağlı Vakıflar Genel
+Müdürlüğü kurulmuştur.
 
-            Başbakan, Genel Müdürlüğün yönetimi ile ilgili yetkilerini
-gerekli gördüğü takdirde görevlendireceği Başbakan Yardımcısı
-vasıtasıyla kullanabilir. *^(1)^*  
+Başbakan, Genel Müdürlüğün yönetimi ile ilgili yetkilerini gerekli
+gördüğü takdirde görevlendireceği Başbakan Yardımcısı vasıtasıyla
+kullanabilir. *^(1)^*
 
-            Vakıflar Genel Müdürlüğü, merkez ve taşra teşkilâtından
-oluşur.
+Vakıflar Genel Müdürlüğü, merkez ve taşra teşkilâtından oluşur.
 
-            Genel Müdürlüğün merkezi Ankara’dadır.
+Genel Müdürlüğün merkezi Ankara’dadır.
 
-**            Genel Müdürlüğün görevleri**
+**Genel Müdürlüğün görevleri**
 
-**            MADDE 36 –** Genel Müdürlüğün görevleri şunlardır:
+**MADDE 36 –** Genel Müdürlüğün görevleri şunlardır:
 
-            a) Mazbut vakıfların vakfiyelerinde veya vakfiye yerine
-geçen hüccet, berat, ferman gibi belgelerinde yazılı hayrî, sosyal,
-kültürel ve ekonomik şart ve hizmetleri yerine getirmek.
+a\) Mazbut vakıfların vakfiyelerinde veya vakfiye yerine geçen hüccet,
+berat, ferman gibi belgelerinde yazılı hayrî, sosyal, kültürel ve
+ekonomik şart ve hizmetleri yerine getirmek.
 
-            b) Vakfiyelerde öngörülen hizmetlerin en iyi şekilde yerine
+b\) Vakfiyelerde öngörülen hizmetlerin en iyi şekilde yerine
 getirilebilmesini sağlamak amacıyla Genel Müdürlüğe ve mazbut vakıflara
 ait paralar ile malları değerlendirmek, daha fazla gelir getirici
 yatırımlara tahsis etmek.
@@ -676,89 +664,82 @@ değiştirilmiş ve metne işlenmiştir.*
 
 10248
 
- 
+c\) Genel Müdürlüğe ve mazbut vakıflara ait paralar ile işletmeler kurma,
+kurulmuş şirketlere iştirak etme, bunların sermaye artışları
+hususlarında karar vermek.
 
-             c) Genel Müdürlüğe ve mazbut vakıflara ait paralar ile
-işletmeler kurma, kurulmuş şirketlere iştirak etme, bunların sermaye
-artışları hususlarında karar vermek.
+d\) Yurt içi ve yurt dışındaki vakıflara ait vakıf kültür varlıklarını
+ihya etmek.
 
-             d) Yurt içi ve yurt dışındaki vakıflara ait vakıf kültür
-varlıklarını ihya etmek.
+e\) Mülhak, cemaat ve yeni vakıflar ile esnaf vakıflarının denetimini
+yapmak.
 
-             e) Mülhak, cemaat ve yeni vakıflar ile esnaf vakıflarının
-denetimini yapmak.
+f\) Vakıflarla ilgili konularda; araştırma, geliştirme, eğitim, kültür ve
+yayın faaliyetlerinde bulunmak, ulusal ve uluslararası koordinasyonu
+sağlamak.
 
-             f) Vakıflarla ilgili konularda; araştırma, geliştirme,
-eğitim, kültür ve yayın faaliyetlerinde bulunmak, ulusal ve uluslararası
-koordinasyonu sağlamak.
+g\) Vakıf kültür varlıklarından oluşan koleksiyonlar meydana getirmek;
+müze, kütüphane ve kültür merkezleri kurmak.
 
-             g) Vakıf kültür varlıklarından oluşan koleksiyonlar meydana
-getirmek; müze, kütüphane ve kültür merkezleri kurmak.
+h\) Bu Kanun ve diğer kanunlar ile Genel Müdürlüğe verilen görevleri
+yapmak.
 
-             h) Bu Kanun ve diğer kanunlar ile Genel Müdürlüğe verilen
-görevleri yapmak.
+Genel Müdürlük, vakıflara ilişkin görevlerle ilgili olarak diğer kurum
+ve kuruluşlarla işbirliği içerisinde çalışır ve koordinasyonun
+sağlanması hususunda gerekli tedbirleri alır. Genel Müdürlük
+gerektiğinde ihtiyaç duyulan konuyla sınırlı olmak üzere 4734 sayılı
+Kamu İhale Kanununa tâbi olmaksızın uzman kişi, kurum ve kuruluşlardan
+danışmanlık ve hukukî mütalaa şeklinde hizmet satın alabilir.
 
-             Genel Müdürlük, vakıflara ilişkin görevlerle ilgili olarak
-diğer kurum ve kuruluşlarla işbirliği içerisinde çalışır ve
-koordinasyonun sağlanması hususunda gerekli tedbirleri alır. Genel
-Müdürlük gerektiğinde ihtiyaç duyulan konuyla sınırlı olmak üzere 4734
-sayılı Kamu İhale Kanununa tâbi olmaksızın uzman kişi, kurum ve
-kuruluşlardan danışmanlık ve hukukî mütalaa şeklinde hizmet satın
-alabilir.
+**Genel Müdürlüğün denetimi**
 
-**             Genel Müdürlüğün denetimi**
+**MADDE 37 –** Genel Müdürlüğün denetimi, 10/12/2003 tarihli ve 5018
+sayılı Kamu Malî Yönetimi ve Kontrol Kanunu hükümleri çerçevesinde
+yapılır.
 
-**             MADDE 37 –** Genel Müdürlüğün denetimi, 10/12/2003
-tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu hükümleri
-çerçevesinde yapılır.
+**Genel Müdürlüğün bütçesi**
 
-**             Genel Müdürlüğün bütçesi**
+**MADDE 38 –** Genel Müdürlüğün bütçesi; 5018 sayılı Kamu Malî Yönetimi
+ve Kontrol Kanunu çerçevesinde hazırlanır. Bütçe, Meclisin uygun
+görüşünden sonra süresi içerisinde ilgili mercilere sunulur.
 
-**             MADDE 38 –** Genel Müdürlüğün bütçesi; 5018 sayılı Kamu
-Malî Yönetimi ve Kontrol Kanunu çerçevesinde hazırlanır. Bütçe, Meclisin
-uygun görüşünden sonra süresi içerisinde ilgili mercilere sunulur.
+Gelir fazlaları ertesi yıla devreder.
 
-             Gelir fazlaları ertesi yıla devreder.
+**Genel Müdürlüğün gelirleri**
 
-**             Genel Müdürlüğün gelirleri**
+**MADDE 39 –** Genel Müdürlüğün gelirleri şunlardır:
 
-**             MADDE 39 –** Genel Müdürlüğün gelirleri şunlardır:
+a\) Kira gelirleri.
 
-             a) Kira gelirleri.
+b\) İşletme kârları.
 
-             b) İşletme kârları.
+c\) İştirak gelirleri.
 
-             c) İştirak gelirleri.
+d\) Yönetim ve temsil payları.
 
-             d) Yönetim ve temsil payları.
+e\) Mazbut vakıflara ait taşınmazların satışından elde edilecek gelirler.
 
-             e) Mazbut vakıflara ait taşınmazların satışından elde
-edilecek gelirler.
+f\) Taviz bedelleri.
 
-             f) Taviz bedelleri.
+g\) Genel Müdürlüğe ait taşınmazların satışından elde edilecek gelirler.
 
-             g) Genel Müdürlüğe ait taşınmazların satışından elde
-edilecek gelirler.
+h\) Şartlı bağışlar.
 
-             h) Şartlı bağışlar.
+ı) Şartsız bağışlar.
 
-             ı) Şartsız bağışlar.
+j\) Diğer gelirler.
 
-             j) Diğer gelirler.
+**Bazı gelirler ile bağışların harcanması**
 
-**             Bazı gelirler ile bağışların harcanması**
+**MADDE 40 –** 39 uncu maddenin (e) ve (f) bentlerinde yer alan
+gelirler; ait olduğu vakfa taşınmaz alımında, vakfın taşınmazlarının
+onarım ve yapımında kullanılır. Ayrıca Meclis kararıyla gelir getirici
+yatırımlarda, yurt içi ve yurt dışında bulunan ve geliri kalmayan
+vakıflara ait vakıf kültür varlıklarının bakım ve onarımlarında da
+kullanılabilir.
 
-**             MADDE 40 –** 39 uncu maddenin (e) ve (f) bentlerinde yer
-alan gelirler; ait olduğu vakfa taşınmaz alımında, vakfın
-taşınmazlarının onarım ve yapımında kullanılır. Ayrıca Meclis kararıyla
-gelir getirici yatırımlarda, yurt içi ve yurt dışında bulunan ve geliri
-kalmayan vakıflara ait vakıf kültür varlıklarının bakım ve onarımlarında
-da kullanılabilir.
-
-             Genel Müdürlüğe yapılan şartlı bağışlar, bağış yapanın
-şartları doğrultusunda harcanır.
-
- 
+Genel Müdürlüğe yapılan şartlı bağışlar, bağış yapanın şartları
+doğrultusunda harcanır.
 
 10249
 
@@ -1382,74 +1363,68 @@ hazırlamak, uygulamak ve değerlendirmek.
 
 10255
 
- 
+d\) İç denetimle ilgili hizmetleri yürütmek.
 
-             d) İç denetimle ilgili hizmetleri yürütmek.
+e\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
 
-             e) Genel Müdür tarafından verilen diğer benzer görevleri
-yapmak.
+**Destek Hizmetleri Daire Başkanlığı**
 
-**             Destek Hizmetleri Daire Başkanlığı**
+**MADDE 65 –** Destek Hizmetleri Daire Başkanlığının görevleri
+şunlardır:
 
-**             MADDE 65 –** Destek Hizmetleri Daire Başkanlığının
-görevleri şunlardır:
+a\) Genel Müdürlük için gerekli araç, gereç, kırtasiye ve malzemeleri
+temin etmek, dağıtımını sağlamak, onarım hizmetlerini yürütmek,
+kayıtlarını tutmak ve harcamalara ilişkin tahakkuk işlemlerini yapmak.
 
-7)  Genel Müdürlük için gerekli araç, gereç, kırtasiye ve malzemeleri
-    temin etmek, dağıtımını sağlamak, onarım hizmetlerini yürütmek,
-    kayıtlarını tutmak ve harcamalara ilişkin tahakkuk işlemlerini
-    yapmak.
+b\) Genel Müdürlük hizmetleri için ihtiyaç duyulan taşınır ve
+taşınmazların kiralanması işlemlerini yürütmek.
 
-             b) Genel Müdürlük hizmetleri için ihtiyaç duyulan taşınır
-ve taşınmazların kiralanması işlemlerini yürütmek.
+c\) Genel Müdürlük hizmet binalarının temizlik, aydınlatma, ısıtma,
+bakım, onarım ve taşıma işlemlerini yürütmek.
 
-             c) Genel Müdürlük hizmet binalarının temizlik, aydınlatma,
-ısıtma, bakım, onarım ve taşıma işlemlerini yürütmek.
+d\) Konut tahsisi, sağlık ve sosyal tesislerin kurulması ve yönetilmesi
+ile ilgili hizmetleri yürütmek.
 
-             d) Konut tahsisi, sağlık ve sosyal tesislerin kurulması ve
-yönetilmesi ile ilgili hizmetleri yürütmek.
+e\) Genel evrak ve arşiv faaliyetlerini düzenlemek.
 
-             e) Genel evrak ve arşiv faaliyetlerini düzenlemek.
+f\) Genel Müdürlüğün sivil savunma ve seferberlik hizmetlerini planlamak
+ve yürütmek.
 
-             f) Genel Müdürlüğün sivil savunma ve seferberlik
-hizmetlerini planlamak ve yürütmek.
+g\) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
 
-             g) Genel Müdür tarafından verilen diğer benzer görevleri
-yapmak.
+**Taşra teşkilâtı**
 
-**             Taşra teşkilâtı**
-
-**             MADDE 66 –** Genel Müdürlüğün taşra teşkilâtı ekli (II)
-sayılı cetvelde gösterilmiştir. Bu cetvelde yer alan birimlerin kurulup
+**MADDE 66 –** Genel Müdürlüğün taşra teşkilâtı ekli (II) sayılı
+cetvelde gösterilmiştir. Bu cetvelde yer alan birimlerin kurulup
 kaldırılmasına, yer ve bağlantı değişikliklerinin yapılmasına Genel
 Müdürlüğün önerisi üzerine Bakanlar Kurulu yetkilidir.
 
-             Taşra teşkilâtının çalışma usûl ve esasları yönetmelikle
-belirlenir.
-
- 
+Taşra teşkilâtının çalışma usûl ve esasları yönetmelikle belirlenir.
 
 **DÖRDÜNCÜ BÖLÜM**
 
 **İstihdam**
 
-**             Personel rejimi**
+**Personel rejimi**
 
-**             MADDE 67 –** Genel Müdürlük personeli 657 sayılı Devlet
-Memurları Kanununa tâbidir.
+**MADDE 67 –** Genel Müdürlük personeli 657 sayılı Devlet Memurları
+Kanununa tâbidir.
 
-             **(Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.)**
+**(Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.)**
 
-             **(Mülga üçüncü fıkra: 11/10/2011-KHK-666/1 md.)**
+**(Mülga üçüncü fıkra: 11/10/2011-KHK-666/1 md.)**
 
-             **(Mülga son fıkra: 11/10/2011-KHK-666/1 md.)**
+**(Mülga son fıkra: 11/10/2011-KHK-666/1 md.) ^(3)^**
 
-**Atamalar**^(1)(2)^ ** **
+**Atamalar**^(1)(2)^
 
-**             MADDE 68 –** Genel Müdür, Genel Müdür Yardımcısı, I.
-Hukuk Müşaviri, Rehberlik ve Teftiş Başkanı ile Bölge Müdürü ortak
-kararnameyle, (…)*^(1)^* Daire Başkanı, Genel Müdürün teklifi Başbakanın
-veya görevlendirdiği Başbakan Yardımcısının onayıyla, diğer personel ise
+**MADDE 68 –** Genel Müdür, Genel Müdür Yardımcısı, I. Hukuk Müşaviri,
+Rehberlik ve Teftiş Başkanı ile Bölge Müdürü ortak kararnameyle,
+(…)*^(1)^* Daire Başkanı, Genel Müdürün teklifi Başbakanın veya
+görevlendirdiği Başbakan Yardımcısının onayıyla, diğer personel ise
 Genel Müdür tarafından atanır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) Bu maddede yer alan “… Rehberlik ve Teftiş Başkanı ile …” ibaresi
 Anayasa Mahkemesi’nin 17/6/2010 tarihli E.:2008/22 K.: 2010/82 sayılı
@@ -1461,7 +1436,10 @@ maddenin birinci fıkrasına “I. Hukuk Müşaviri” ibaresinden sonra gelmek
 yer alan “Devlet Bakanının” ibaresi “Başbakan Yardımcısının” şeklinde
 değiştirilmiş ve metne işlenmiştir.*
 
-**            **
+*(3) 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan
+düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205
+sayılı Kararı ile iptal edilmiştir.*
 
 10256
 
@@ -1545,84 +1523,81 @@ durumlarına uygun memur kadrolarına atanırlar.
 
 10257
 
- 
+**Kadro iptal ve ihdasları**^(1)^
 
-**            Kadro iptal ve ihdasları**^(1)^
-
-**             MADDE 71 –** Vakıflar Genel Müdürlüğünün 190 sayılı Genel
-Kadro ve Usulü Hakkında Kanun Hükmünde Kararname eki (I) sayılı cetvelde
-yer alan kadroları iptal edilerek bu cetvelden çıkarılmış, ekli (I)
-sayılı listede yer alan kadrolar ihdas edilerek aynı Kanun Hükmünde
+**MADDE 71 –** Vakıflar Genel Müdürlüğünün 190 sayılı Genel Kadro ve
+Usulü Hakkında Kanun Hükmünde Kararname eki (I) sayılı cetvelde yer alan
+kadroları iptal edilerek bu cetvelden çıkarılmış, ekli (I) sayılı
+listede yer alan kadrolar ihdas edilerek aynı Kanun Hükmünde
 Kararnamenin eki (I) sayılı cetvele Vakıflar Genel Müdürlüğü olarak
 eklenmiştir.
 
-**             Performans ve vekalet ücreti**
+**Performans ve vekalet ücreti**
 
-**             MADDE 72 –** **(Mülga birinci fıkra: 11/10/2011-KHK-666/1
-md.)**
+**MADDE 72 –** **(Mülga birinci fıkra: 11/10/2011-KHK-666/1 md.) ^(2)^**
 
-             **(Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.)**
+**(Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.) ^(2)^**
 
-             Genel Müdürlük lehine sonuçlanan dava ve icra takipleri
-nedeniyle hükme bağlanarak karşı taraftan tahsil olunan vekalet
-ücretlerinin; avukatlara ve hukuk servislerinde fiilen görev yapan
-memurlara dağıtımı hakkında 2/2/1929 tarihli ve 1389 sayılı Devlet
-Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekalet
-Hakkında Kanun hükümleri kıyas yoluyla uygulanır.
+Genel Müdürlük lehine sonuçlanan dava ve icra takipleri nedeniyle hükme
+bağlanarak karşı taraftan tahsil olunan vekalet ücretlerinin; avukatlara
+ve hukuk servislerinde fiilen görev yapan memurlara dağıtımı hakkında
+2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve
+Saireye Verilecek Ücreti Vekalet Hakkında Kanun hükümleri kıyas yoluyla
+uygulanır.
 
 **DÖRDÜNCÜ KISIM**
 
 **Çeşitli Hükümler**
 
-**             Görev ve yetki**
+**Görev ve yetki**
 
-**             MADDE 73 –** Genel Müdürlüğün merkez ve taşra
-teşkilâtının her kademedeki yöneticileri; yapmakla yükümlü bulundukları
-hizmet ve görevleri Genel Müdürün emir ve direktifleri doğrultusunda
-mevzuata, plan ve programlara uygun yürütmekten sorumludur.
+**MADDE 73 –** Genel Müdürlüğün merkez ve taşra teşkilâtının her
+kademedeki yöneticileri; yapmakla yükümlü bulundukları hizmet ve
+görevleri Genel Müdürün emir ve direktifleri doğrultusunda mevzuata,
+plan ve programlara uygun yürütmekten sorumludur.
 
-**             Yetki devri**
+**Yetki devri**
 
-**             MADDE 74 –** Genel Müdür ve her kademedeki yöneticiler
-sınırlarını açıkça belirlemek şartıyla yetkilerinden bir kısmını
-astlarına devredebilirler.
+**MADDE 74 –** Genel Müdür ve her kademedeki yöneticiler sınırlarını
+açıkça belirlemek şartıyla yetkilerinden bir kısmını astlarına
+devredebilirler.
 
-             Yetki devri uygun araçlarla ilgililere duyurulur.
+Yetki devri uygun araçlarla ilgililere duyurulur.
 
-**             İntifa hakkı**
+**İntifa hakkı**
 
-**             MADDE 75 –** Mazbut ve mülhak vakıfların vakfiyelerindeki
-şartlar doğrultusunda, ilgililerin hakları saklıdır. Bu hakların
-kullanılmasına ilişkin usûl ve esaslar yönetmelikle düzenlenir.
+**MADDE 75 –** Mazbut ve mülhak vakıfların vakfiyelerindeki şartlar
+doğrultusunda, ilgililerin hakları saklıdır. Bu hakların kullanılmasına
+ilişkin usûl ve esaslar yönetmelikle düzenlenir.
 
-**             Mülhak vakıflarda hasım gösterilme**
+**Mülhak vakıflarda hasım gösterilme**
 
-**             MADDE 76 –** Mülhak vakıflarda vakıf yönetimine, mülkiyet
-ve intifa hakkı iddiasına ait davalarda vakıf yönetimi ile Genel
-Müdürlük birlikte hasım gösterilir.
+**MADDE 76 –** Mülhak vakıflarda vakıf yönetimine, mülkiyet ve intifa
+hakkı iddiasına ait davalarda vakıf yönetimi ile Genel Müdürlük birlikte
+hasım gösterilir.
 
 **Muafiyet ve istisnalar**
 
-**            MADDE 77 –** Genel Müdürlüğe ve mazbut vakıflara ait
-taşınmazlar Devlet malı imtiyazından yararlanır, haczedilemez,
-rehnedilemezler. Tüm iş ve işlemleri, her türlü vergi, resim, harç ve
-katılım payından istisnadır.
+**MADDE 77 –** Genel Müdürlüğe ve mazbut vakıflara ait taşınmazlar
+Devlet malı imtiyazından yararlanır, haczedilemez, rehnedilemezler. Tüm
+iş ve işlemleri, her türlü vergi, resim, harç ve katılım payından
+istisnadır.
 
-             Genel Müdürlük tarafından açılacak davalarda teminat
-aranmaz.
+Genel Müdürlük tarafından açılacak davalarda teminat aranmaz.
 
-             Genel Müdürlüğün ve mazbut vakıfların tahsil edilemeyen
-gelirleri, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil
-Usulü Hakkında Kanun hükümlerine göre Genel Müdürlükçe tahsil edilir.
+Genel Müdürlüğün ve mazbut vakıfların tahsil edilemeyen gelirleri,
+21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
+Hakkında Kanun hükümlerine göre Genel Müdürlükçe tahsil edilir.
 
-** **
+–––––––––––––––––––
 
-** **
+*(1) Bu Kanunla iptal ve ihdas edilen kadrolar için 27/2/2008 tarihli ve
+26800 sayılı Resmi Gazete’ye bakınız.*
 
-** **
-
-(7) *Bu Kanunla iptal ve ihdas edilen kadrolar için 27/2/2008 tarihli ve
-    26800 sayılı Resmi Gazete’ye bakınız.*
+*(2) 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan
+düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205
+sayılı Kararı ile iptal edilmiştir.*
 
 10258
 
@@ -1702,53 +1677,48 @@ ibaresinden sonra gelmek üzere “Vakıf Uzmanları” ibaresi,
 
 10259
 
- 
+3\) Eki (I) sayılı ek gösterge cetvelinin, "I- Genel İdare Hizmetleri
+Sınıfı" bölümünün (h) bendine "Kültür ve Turizm Uzmanları" ibaresinden
+sonra gelmek üzere "Vakıf Uzmanları" ibaresi,
 
-             3) Eki (I) sayılı ek gösterge cetvelinin, “I- Genel İdare
-Hizmetleri Sınıfı” bölümünün (h) bendine “Kültür ve Turizm Uzmanları”
-ibaresinden sonra gelmek üzere “Vakıf Uzmanları” ibaresi,
+4\) Eki (II) sayılı ek gösterge cetvelinin "II- Yargı Kuruluşları, Bağlı
+ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında" başlıklı
+bölümüne "Teftiş ve Tetkik Kurulu Başkanı" ibaresinden sonra gelmek
+üzere "Vakıflar Genel Müdürlüğü Rehberlik ve Teftiş Başkanı" ibaresi,
 
-             4) Eki (II) sayılı ek gösterge cetvelinin “II- Yargı
-Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim
-Kuruluşlarında” başlıklı bölümüne “Teftiş ve Tetkik Kurulu Başkanı”
-ibaresinden sonra gelmek üzere “Vakıflar Genel Müdürlüğü Rehberlik ve
-Teftiş Başkanı” ibaresi,
+5\) Eki (IV) sayılı Makam Tazminatı Cetvelinin 5 inci sırasının (e)
+bendinin sonuna "Vakıflar Genel Müdürlüğü Rehberlik ve Teftiş Başkanı"
+ibaresi,
 
-             5) Eki (IV) sayılı Makam Tazminatı Cetvelinin 5 inci
-sırasının € bendinin sonuna “Vakıflar Genel Müdürlüğü Rehberlik ve
-Teftiş Başkanı” ibaresi,
+eklenmiştir.
 
-             eklenmiştir.
+c\) 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununun 75 inci
+maddesinin birinci fıkrasına "Devletin özel mülkiyetinde veya hüküm ve
+tasarrufu altında bulunan taşınmaz" ibaresinden sonra gelmek üzere
+"malları ve Vakıflar Genel Müdürlüğü ile idare ve temsil ettiği mazbut
+vakıflara ait taşınmaz" ibaresi eklenmiştir.
 
-             c) 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununun
-75 inci maddesinin birinci fıkrasına “Devletin özel mülkiyetinde veya
-hüküm ve tasarrufu altında bulunan taşınmaz” ibaresinden sonra gelmek
-üzere “malları ve Vakıflar Genel Müdürlüğü ile idare ve temsil ettiği
-mazbut vakıflara ait taşınmaz” ibaresi eklenmiştir.
+d\) 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun;
 
-             d) 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun;
+1\) 3 üncü maddesine (j) bendinden sonra gelmek üzere aşağıdaki (k)
+bendi,
 
-7)  3 üncü maddesine (j) bendinden sonra gelmek üzere aşağıdaki (k)
-    bendi,
+"k) Vakıf kültür varlıklarının onarımları ve restorasyonları ile çevre
+düzenlemesine ilişkin mal veya hizmet alımları,"
 
-             “k) Vakıf kültür varlıklarının onarımları ve
-restorasyonları ile çevre düzenlemesine ilişkin mal veya hizmet
-alımları,”
+2\) Geçici 4 üncü maddesine aşağıdaki fıkra,
 
-             2) Geçici 4 üncü maddesine aşağıdaki fıkra,
+"Bu Kanunun 3 üncü maddesinin (k) bendine ilişkin usûl ve esaslar,
+Maliye Bakanlığı ve Kamu İhale Kurumunun görüşleri alınarak Vakıflar
+Genel Müdürlüğü tarafından çıkarılacak bir yönetmelikle belirlenir."
 
-             “Bu Kanunun 3 üncü maddesinin (k) bendine ilişkin usûl ve
-esaslar, Maliye Bakanlığı ve Kamu İhale Kurumunun görüşleri alınarak
-Vakıflar Genel Müdürlüğü tarafından çıkarılacak bir yönetmelikle
-belirlenir.”
+eklenmiştir.
 
-             Eklenmiştir.
+**Yürürlükten kaldırılan hükümler **
 
-**             Yürürlükten kaldırılan hükümler **
-
-**             MADDE 80 –** 5/6/1935 tarihli ve 2762 sayılı Vakıflar
-Kanunu, 27/6/1956 tarihli ve 6760 sayılı Vakıflar Umum Müdürlüğü Vazife
-ve Teşkilâtı Hakkında Kanunun 16 ncı maddesi hariç diğer maddeleri,
+**MADDE 80 –** 5/6/1935 tarihli ve 2762 sayılı Vakıflar Kanunu,
+27/6/1956 tarihli ve 6760 sayılı Vakıflar Umum Müdürlüğü Vazife ve
+Teşkilâtı Hakkında Kanunun 16 ncı maddesi hariç diğer maddeleri,
 20/4/1936 tarihli ve 2950 sayılı Vakıf Malların Taksitle Satılması ve
 Kiraya Verilmesi ve Satış Paralarının Kullanılması ve Emaneten İdare
 Edilen Mülhak Vakıflardan İdare ve Tahsil Masrafı Alınması Hakkında
@@ -1764,24 +1734,19 @@ bu kanunların ek ve değişiklikleri ile 22/11/2001 tarihli ve 4721 sayılı
 Türk Medenî Kanununun 111 inci maddesinin ikinci fıkrası yürürlükten
 kaldırılmıştır.
 
-             23/2/1995 tarihli ve 547 sayılı Kanun Hükmünde Kararnamenin
-20 nci maddesinde ve 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde
-Kararnamenin ek 3 üncü maddesinin birinci fıkrasında yer alan “Vakıflar
-Genel Müdürlüğü” ibareleri madde metinlerinden çıkarılmıştır.
+23/2/1995 tarihli ve 547 sayılı Kanun Hükmünde Kararnamenin 20 nci
+maddesinde ve 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde
+Kararnamenin ek 3 üncü maddesinin birinci fıkrasında yer alan "Vakıflar
+Genel Müdürlüğü" ibareleri madde metinlerinden çıkarılmıştır.
 
-**             GEÇİCİ MADDE 1 –** Genel Müdürlük teşkilâtı, bu Kanun
-esaslarına göre yeniden düzenleninceye kadar bu Kanunun yürürlüğe
-girdiği tarihte uygulanmakta olan mevcut kadroların kullanımına devam
-olunur.
+**GEÇİCİ MADDE 1 –** Genel Müdürlük teşkilâtı, bu Kanun esaslarına göre
+yeniden düzenleninceye kadar bu Kanunun yürürlüğe girdiği tarihte
+uygulanmakta olan mevcut kadroların kullanımına devam olunur.
 
-             Bu Kanunla yapılan düzenleme sonucu kadro ve görev
-unvanları değişmeyenler yeni kadrolarına atanmış sayılırlar.
-
-            
+Bu Kanunla yapılan düzenleme sonucu kadro ve görev unvanları
+değişmeyenler yeni kadrolarına atanmış sayılırlar.
 
 10260
-
- 
 
 Bu Kanuna göre kadro ve görev unvanları değişen yahut kaldırılan
 personel, en geç altı ay içinde derece ve kademelerine uygun olmak
@@ -1797,74 +1762,69 @@ tazminatlar ile diğer malî hakları toplamı net tutarından az olması
 halinde, aradaki fark atandıkları kadroda kaldıkları sürece herhangi bir
 vergi ve kesintiye tâbi tutulmaksızın tazminat olarak ödenir.
 
-             Ayrıca, Genel Müdürlükte 657 sayılı Devlet Memurları
-Kanununa tâbi olarak çalışanlar, bu Kanunun 69 uncu maddesinin ikinci
-fıkrasının (b), (c) ve € bentlerindeki şartlar aranmaksızın, bu Kanunun
-yürürlüğe girdiği tarihten itibaren altı ay içinde başvurmaları halinde,
-Genel Müdürlük tarafından açılacak yeterlik sınavına girmeye hak
-kazanırlar. Yapılan sınavda başarılı olanlar Vakıf Uzmanlığı kadrosuna
-atanırlar.
+Ayrıca, Genel Müdürlükte 657 sayılı Devlet Memurları Kanununa tâbi
+olarak çalışanlar, bu Kanunun 69 uncu maddesinin ikinci fıkrasının (b),
+(c) ve (e) bentlerindeki şartlar aranmaksızın, bu Kanunun yürürlüğe
+girdiği tarihten itibaren altı ay içinde başvurmaları halinde, Genel
+Müdürlük tarafından açılacak yeterlik sınavına girmeye hak kazanırlar.
+Yapılan sınavda başarılı olanlar Vakıf Uzmanlığı kadrosuna atanırlar.
 
-**             GEÇİCİ MADDE 2 –** Bu Kanunun ilgili maddelerinde
-düzenlenmesi öngörülen yönetmelikler en geç altı ay içinde Resmi
-Gazetede yayımlanarak yürürlüğe konulur. Bu yönetmelikler çıkarılıncaya
-kadar mevcut düzenlemelerin bu Kanuna aykırı olmayan hükümlerinin
+**GEÇİCİ MADDE 2 –** Bu Kanunun ilgili maddelerinde düzenlenmesi
+öngörülen yönetmelikler en geç altı ay içinde Resmi Gazetede
+yayımlanarak yürürlüğe konulur. Bu yönetmelikler çıkarılıncaya kadar
+mevcut düzenlemelerin bu Kanuna aykırı olmayan hükümlerinin
 uygulanmasına devam olunur.
 
-**             GEÇİCİ MADDE 3 –** Bu Kanuna göre yeniden düzenleme
-yapılıncaya kadar değişen veya yeniden kurulan birimlere verilen
-görevler daha önce bu görevleri yapmakta olan birimler tarafından
-yapılmaya devam olunur.
+**GEÇİCİ MADDE 3 –** Bu Kanuna göre yeniden düzenleme yapılıncaya kadar
+değişen veya yeniden kurulan birimlere verilen görevler daha önce bu
+görevleri yapmakta olan birimler tarafından yapılmaya devam olunur.
 
-**             GEÇİCİ MADDE 4 –** Genel Müdürlüğün taşra teşkilâtı, bu
-Kanunun esaslarına göre yeniden düzenleninceye kadar görev ve hizmetleri
-mevcut taşra teşkilâtı tarafından yürütülmeye devam olunur.
+**GEÇİCİ MADDE 4 –** Genel Müdürlüğün taşra teşkilâtı, bu Kanunun
+esaslarına göre yeniden düzenleninceye kadar görev ve hizmetleri mevcut
+taşra teşkilâtı tarafından yürütülmeye devam olunur.
 
-**             GEÇİCİ MADDE 5 –** Vakıf şerhleri ile ilgili devam
-etmekte olan davalarda; diğer kanunlarda yer alan zamanaşımı ve hak
-düşürücü sürelere ilişkin hükümler bu Kanun açısından uygulanmaz.
+**GEÇİCİ MADDE 5 –** Vakıf şerhleri ile ilgili devam etmekte olan
+davalarda; diğer kanunlarda yer alan zamanaşımı ve hak düşürücü sürelere
+ilişkin hükümler bu Kanun açısından uygulanmaz.
 
-**             GEÇİCİ MADDE 6 –** Mülhak vakıfların vakfiyelerinde;
-intifa hakları hayır şartlarından fazla olanlar, vakıf yöneticisi ve
-ilgililerinin istekleri halinde, Meclis kararı alınarak, mahkemesince,
-4721 sayılı Türk Medenî Kanununun 372 nci maddesinde belirtilen aile
-vakfına dönüştürülür.
+**GEÇİCİ MADDE 6 –** Mülhak vakıfların vakfiyelerinde; intifa hakları
+hayır şartlarından fazla olanlar, vakıf yöneticisi ve ilgililerinin
+istekleri halinde, Meclis kararı alınarak, mahkemesince, 4721 sayılı
+Türk Medenî Kanununun 372 nci maddesinde belirtilen aile vakfına
+dönüştürülür.
 
-**             GEÇİCİ MADDE 7 –** Cemaat vakıflarının;
+**GEÇİCİ MADDE 7 –** Cemaat vakıflarının;
 
-7)  1936 Beyannamelerinde kayıtlı olup, halen tasarruflarında bulunan
-    nam-ı müstear veya nam-ı mevhumlar adına tapuda kayıtlı olan
-    taşınmazlar,
-
-             b) 1936 Beyannamesinden sonra cemaat vakıfları tarafından
-satın alınmış veya cemaat vakıflarına vasiyet edildiği veya bağışlandığı
-halde, mal edinememe gerekçesiyle halen; Hazine veya Genel Müdürlük ya
-da vasiyet edenler veya bağışlayanlar adına tapuda kayıtlı olan
+a\) 1936 Beyannamelerinde kayıtlı olup, halen tasarruflarında bulunan
+nam-ı müstear veya nam-ı mevhumlar adına tapuda kayıtlı olan
 taşınmazlar,
 
-             tapu kayıtlarındaki hak ve mükellefiyetleri ile birlikte bu
-Kanunun yürürlüğe girdiği tarihten itibaren onsekiz ay içinde müracaat
-edilmesi halinde, Meclisin olumlu kararından sonra, ilgili tapu sicil
+b\) 1936 Beyannamesinden sonra cemaat vakıfları tarafından satın alınmış
+veya cemaat vakıflarına vasiyet edildiği veya bağışlandığı halde, mal
+edinememe gerekçesiyle halen; Hazine veya Genel Müdürlük ya da vasiyet
+edenler veya bağışlayanlar adına tapuda kayıtlı olan taşınmazlar,
+
+tapu kayıtlarındaki hak ve mükellefiyetleri ile birlikte bu Kanunun
+yürürlüğe girdiği tarihten itibaren onsekiz ay içinde müracaat edilmesi
+halinde, Meclisin olumlu kararından sonra, ilgili tapu sicil
 müdürlüklerince cemaat vakıfları adına tescilleri yapılır.
-
-**             GEÇİCİ MADDE 8 –** 4046 sayılı Özelleştirme Uygulamaları
-Hakkında Kanun uyarınca Vakıflar Genel Müdürlüğüne tahsis edilmiş olan
-kadroların kullanılmasına devam olunur.
-
-**             GEÇİCİ MADDE 9 –** Sağlık Bakanlığı kadrolarında
-bulunarak Bezm-i Alem Valide Sultan Vakıf Gureba Hastanesinde çalışırken
-Genel Müdürlük kadrolarına nakledilen personelin, 6/1/2005 tarihli ve
-5283 sayılı Kanunun 5 inci maddesinin altıncı fıkrasında yer alan
-hükümlerden yararlandırılmasına devam olunur.
 
 10261
 
- 
+**GEÇİCİ MADDE 8 –** 4046 sayılı Özelleştirme Uygulamaları Hakkında
+Kanun uyarınca Vakıflar Genel Müdürlüğüne tahsis edilmiş olan kadroların
+kullanılmasına devam olunur.
 
-            Genel Müdürlüğe bağlı olarak faaliyette bulunan Ayvalık
-Vakıf Zeytinlikleri, Vakıf Memba Suları ve Bezm-i Alem Valide Sultan
-Vakıf Gureba Hastanesi işletmeleri; 5018 sayılı Kamu Malî Yönetimi ve
-Kontrol Kanununun geçici 11 inci maddesi hükmüne göre, döner sermayeli
+**GEÇİCİ MADDE 9 –** Sağlık Bakanlığı kadrolarında bulunarak Bezm-i Alem
+Valide Sultan Vakıf Gureba Hastanesinde çalışırken Genel Müdürlük
+kadrolarına nakledilen personelin, 6/1/2005 tarihli ve 5283 sayılı
+Kanunun 5 inci maddesinin altıncı fıkrasında yer alan hükümlerden
+yararlandırılmasına devam olunur.
+
+Genel Müdürlüğe bağlı olarak faaliyette bulunan Ayvalık Vakıf
+Zeytinlikleri, Vakıf Memba Suları ve Bezm-i Alem Valide Sultan Vakıf
+Gureba Hastanesi işletmeleri; 5018 sayılı Kamu Malî Yönetimi ve Kontrol
+Kanununun geçici 11 inci maddesi hükmüne göre, döner sermayeli
 işletmelerin yeniden yapılandırılması ile ilgili düzenleme yapılıncaya
 kadar faaliyetlerini döner sermaye işletmesi olarak yürütmeye devam
 ederler.
@@ -1876,7 +1836,7 @@ maddesine eklenen hükümler, bu maddenin yürürlüğe girdiği tarihten önce
 açılmış ve halen devam eden intifa haklarının ödenmesi, malvarlığı ve
 gelirlerinin tespitine ilişkin davalarda da uygulanır.
 
-            **GEÇİCİ MADDE 11 – (Ek: 22/8/2011-KHK-651/17 md. )**
+**GEÇİCİ MADDE 11 – (Ek: 22/8/2011-KHK-651/17 md. )**
 
 Cemaat vakıflarının;
 
@@ -1903,140 +1863,117 @@ edilen rayiç değeri Hazine veya Genel Müdürlük tarafından ödenir.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle
 düzenlenir.
 
-**             Yürürlük**
+**GEÇİCİ MADDE 12- (Ek: 12/7/2013-6495/50 md.)**
 
-**             MADDE 81 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
+1/1/1990 tarihinden bu maddenin yayımı tarihine kadar Genel Müdürlüğün
+dağıtılma talebiyle açtığı dava sonucunda dağılmasına veya dağıtılmasına
+karar verilen yeni vakıfların hayatta bulunan kurucularının birlikte
+başvurusu üzerine vakfın adı ve amacı aynı olmak kaydıyla bin lira
+kuruluş malvarlığı tahsis edilerek Türk Medeni Kanunu hükümlerine göre
+yeni bir vakıf kurulabilir.
 
-**             Yürütme**
+Kurulan bu vakıflar 4721 sayılı Kanun ve bu Kanun hükümlerine göre
+faaliyette bulunurlar, ancak kanunla kurulan vakıf statüsünde
+sayılmazlar.
 
-**             MADDE 82 –** Bu Kanun hükümlerini Bakanlar Kurulu
-yürütür.
+Dağıtılan vakfın Genel Müdürlüğe intikal eden ve hâlihazırda Genel
+Müdürlük tarafından tasarruf edilen taşınmazları, yeni kurulan vakfa
+mahkeme siciline tescilinden itibaren üç ay içinde devredilir.
+Devredilen mallarla ilgili başkaca bir talepte bulunulamaz.
 
- 
+**Yürürlük**
 
- 
+**MADDE 81 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
- 
+**Yürütme**
 
-(7) **SAYILI CETVEL**
-
-VAKIFLAR GENEL MÜDÜRLÜĞÜ MERKEZ TEŞKİLATI
-
-  --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
-  *Genel Müdür*   *Vakıflar Meclisi (15)*   *Genel Müdür Yardımcısı*   *Ana Hizmet Birimleri*                              *Danışma ve Denetim Birimleri*             *Yardımcı Hizmet Birimleri*
-  Genel Müdür                               Genel Müdür Yardımcısı     1- Vakıf Hizmetleri Daire Başkanlığı                1- Hukuk Müşavirliği                       1- İnsan Kaynakları Daire Başkanlığı
-                                            Genel Müdür Yardımcısı     2- Hayır Hizmetleri Daire Başkanlığı                2- Rehberlik ve Teftiş Başkanlığı          2- Destek Hizmetleri Daire Başkanlığı
-                                            Genel Müdür Yardımcısı     3- Sanat Eserleri ve Yapı İşleri Daire Başkanlığı   3- Strateji Geliştirme Daire Başkanlığı     
-                                                                       4- Yatırım ve Emlak Daire Başkanlığı                4- Basın ve Halkla İlişkiler Müşavirliği    
-                                                                       5- Sağlık Hizmetleri Daire Başkanlığı                                                           
-                                                                       6- Kültür ve Tescil Daire Başkanlığı                                                            
-                                                                       7- Dış İlişkiler Daire Başkanlığı                                                               
-                                                                                                                                                                       
-  --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
-
- 
-
- 
+**MADDE 82 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 10262
 
- 
+(I) **SAYILI CETVEL**
 
- 
+**VAKIFLAR GENEL MÜDÜRLÜĞÜ MERKEZ TEŞKİLATI**
 
-  ---------------------------------------------------------------------------------------------------------------------------
-  **(II) SAYILI CETVEL**
-  
-  ** **
-  
-  **VAKIFLAR GENEL MÜDÜRLÜĞÜ**
-  
-  **(TAŞRA TEŞKİLATI)**
-  
-  **                **
-  
-  **BÖLGE MÜDÜRLÜKLERİ **
-  
-  ***SIRA NO      BÖLGE ADI                  BAĞLI İLLER                                                                ***
-  
-         1             ADANA                         Adana, Mersin, Osmaniye
-  
-         2             ANKARA                      Ankara, Bolu, Çankırı, Düzce, Kırıkkale
-  
-         3             ANTALYA                    Antalya, Burdur, Isparta
-  
-         4             AYDIN                           Aydın, Denizli, Muğla
-  
-         5             BALIKESİR                   Balıkesir, Çanakkale
-  
-         6             BİTLİS                            Bitlis, Hakkari, Muş, Şırnak, Siirt, Van
-  
-         7             BURSA                           Bursa, Bilecik, Sakarya, Yalova
-  
-         8             DİYARBAKIR               Diyarbakır, Batman, Bingöl, Mardin
-  
-         9             EDİRNE                         Edirne, Kırklareli
-  
-        10            ERZURUM                    Erzurum, Kars, Ardahan, Bayburt, Erzincan, Iğdır, Ağrı
-  
-        11            GAZİANTEP                 Gaziantep, Kilis
-  
-        12            HATAY                          Hatay, Kahramanmaraş
-  
-        13            İSTANBUL I. BÖLGE  Avrupa Yakası, Tekirdağ
-  
-        14            İSTANBUL II. BÖLGE Anadolu Yakası, Kocaeli
-  
-        15            İZMİR                            İzmir, Manisa
-  
-        16            KASTAMONU             Kastamonu, Bartın, Karabük, Zonguldak
-  
-        17            KAYSERİ                       Kayseri, Niğde, Nevşehir, Kırşehir
-  
-        18            KONYA                         Konya, Aksaray, Karaman
-  
-        19            KÜTAHYA                    Kütahya, Afyonkarahisar, Eskişehir, Uşak
-  
-        20            MALATYA                   Malatya, Elazığ, Tunceli
-  
-        21            SAMSUN                       Samsun, Ordu, Sinop
-  
-        22            SİVAS                             Sivas, Yozgat
-  
-        23            ŞANLIURFA                 Şanlıurfa, Adıyaman
-  
-        24            TOKAT                          Tokat, Amasya, Çorum
-  
-        25            TRABZON                    Trabzon, Artvin, Giresun, Gümüşhane, Rize
-  
-   
-  
-  ** **
-  
-  ** **
-  
-  ** **
-  
-  ** **
-  
-   
-  ---------------------------------------------------------------------------------------------------------------------------
-
- 
+  --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
+  *Genel Müdür*   *Vakıflar Meclisi (15)*   *Genel Müdür Yardımcısı*   *Ana Hizmet Birimleri*                              *Danışma ve Denetim Birimleri*             *Yardımcı Hizmet Birimleri*
+  Genel Müdür                               Genel Müdür Yardımcısı     1- Vakıf Hizmetleri Daire Başkanlığı                1- Hukuk Müşavirliği                       1- İnsan Kaynakları Daire Başkanlığı
+                                            Genel Müdür Yardımcısı     2- Hayır Hizmetleri Daire Başkanlığı                2- Rehberlik ve Teftiş Başkanlığı          2- Destek Hizmetleri Daire Başkanlığı
+                                            Genel Müdür Yardımcısı     3- Sanat Eserleri ve Yapı İşleri Daire Başkanlığı   3- Strateji Geliştirme Daire Başkanlığı    
+                                                                       4- Yatırım ve Emlak Daire Başkanlığı                4- Basın ve Halkla İlişkiler Müşavirliği   
+                                                                       5- Sağlık Hizmetleri Daire Başkanlığı                                                          
+                                                                       6- Kültür ve Tescil Daire Başkanlığı                                                           
+                                                                       7- Dış İlişkiler Daire Başkanlığı                                                              
+                                                                                                                                                                      
+  --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
 
 10263
 
-** **
+**(II) SAYILI CETVEL**
 
-** **
+**VAKIFLAR GENEL MÜDÜRLÜĞÜ**
 
-** **
+**(TAŞRA TEŞKİLATI)**
 
-**(III) SAYILI CETVEL**
+**BÖLGE MÜDÜRLÜKLERİ **
 
-**(Mülga: 11/10/2011-KHK-666/1 md. )**
+***SIRA NO BÖLGE ADI BAĞLI İLLER ***
 
- 
+1 ADANA Adana, Mersin, Osmaniye
+
+2 ANKARA Ankara, Bolu, Çankırı, Düzce, Kırıkkale
+
+3 ANTALYA Antalya, Burdur, Isparta
+
+4 AYDIN Aydın, Denizli, Muğla
+
+5 BALIKESİR Balıkesir, Çanakkale
+
+6 BİTLİS Bitlis, Hakkari, Muş, Şırnak, Siirt, Van
+
+7 BURSA Bursa, Bilecik, Sakarya, Yalova
+
+8 DİYARBAKIR Diyarbakır, Batman, Bingöl, Mardin
+
+9 EDİRNE Edirne, Kırklareli
+
+10 ERZURUM Erzurum, Kars, Ardahan, Bayburt, Erzincan, Iğdır, Ağrı
+
+11 GAZİANTEP Gaziantep, Kilis
+
+12 HATAY Hatay, Kahramanmaraş
+
+13 İSTANBUL I. BÖLGE Avrupa Yakası, Tekirdağ
+
+14 İSTANBUL II. BÖLGE Anadolu Yakası, Kocaeli
+
+15 İZMİR İzmir, Manisa
+
+16 KASTAMONU Kastamonu, Bartın, Karabük, Zonguldak
+
+17 KAYSERİ Kayseri, Niğde, Nevşehir, Kırşehir
+
+18 KONYA Konya, Aksaray, Karaman
+
+19 KÜTAHYA Kütahya, Afyonkarahisar, Eskişehir, Uşak
+
+20 MALATYA Malatya, Elazığ, Tunceli
+
+21 SAMSUN Samsun, Ordu, Sinop
+
+22 SİVAS Sivas, Yozgat
+
+23 ŞANLIURFA Şanlıurfa, Adıyaman
+
+24 TOKAT Tokat, Amasya, Çorum
+
+25 TRABZON Trabzon, Artvin, Giresun, Gümüşhane, Rize
+
+10264
+
+**(III)** []{#RANGE!A3:H26 .anchor}**SAYILI CETVEL **
+
+**(Mülga: 11/10/2011-KHK-666/1 md.)**
 
 **5737 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -2045,15 +1982,17 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ----------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**          **5737 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  5917                                                                                III Sayılı Cetvel                                             1/7/2009 tarihinden geçerli olmak üzere 10/7/2009
-  6111                                                                                7 ve Geçici madde 10                                          25/2/2011
-  Anayasa Mahkemesi’nin 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Kararı   68                                                            11/7/2011
-  KHK/651                                                                             35, 52, 68, Geçici Madde 11                                   27/8/2011
-  KHK/666                                                                             67, 72, III Sayılı Cetvel                                     14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
-  6456                                                                                28                                                            27/2/2008 tarihinden itibaren geçerli olmak üzere 18/4/2013 tarihinde
-  6462                                                                                43                                                            3/5/2015
-  ----------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------------------------------
+  -------------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**             **5737 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5917                                                                                   III Sayılı Cetvel                                             1/7/2009 tarihinden geçerli olmak üzere 10/7/2009
+  6111                                                                                   7 ve Geçici madde 10                                          25/2/2011
+  Anayasa Mahkemesi’nin 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Kararı      68                                                            11/7/2011
+  KHK/651                                                                                35, 52, 68, Geçici Madde 11                                   27/8/2011
+  KHK/666                                                                                67, 72, III Sayılı Cetvel                                     14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
+  6456                                                                                   28                                                            27/2/2008 tarihinden itibaren geçerli olmak üzere 18/4/2013 tarihinde
+  6462                                                                                   43                                                            3/5/2013
+  6495                                                                                   10, 24, GEÇİCİ MADDE 12                                       2/8/2013
+  Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı   67, 72                                                        10/10/2013
+  -------------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------------------------------
 
 
