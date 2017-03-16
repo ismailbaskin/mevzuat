@@ -1,4 +1,5 @@
-**5216 sayılı Kanunun 5675 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun Anayasa Mahkemesinin 25/1/2007 tarihli ve
+E.:2004/79 K.:2007/6 sayılı Kararı ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -610,8 +611,8 @@ k\) Diğer kanunların belediye başkanlarına verdiği görev ve yetkilerden
 büyükşehir belediyesi görevlerine ilişkin olan hizmetleri yerine
 getirmek ve yetkileri kullanmak.
 
-l\) Gerektiğinde görev ve yetkilerinden bir veya birkaçını ilçe veya ilk
-kademe belediye başkanına devretmek.
+l\) **(İptal: Anayasa Mahkemesi’nin 25/1/2007 tarihli ve E.: 2004/79, K.:
+2007/6 sayılı Kararı ile.)**
 
 m\) Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak,
 özürlülerle ilgili faaliyetlere destek olmak üzere özürlü merkezleri
@@ -1246,7 +1247,9 @@ aktarılır.
 
   5675                       7/6/2007                                                                 7/6/2007                                                          13
 
+                             17/1/2008                                                                17/1/2008                 25/1/2007 tarihli ve                    18
                                                                                                                                                                         
+                                                                                                                                E.:2004/79 K.:2007/6 sayılı Karar       
 
                                                                                                                                                                         
 
