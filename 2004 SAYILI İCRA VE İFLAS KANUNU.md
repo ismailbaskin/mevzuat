@@ -1,4 +1,4 @@
-**6352 sayılı Kanun ile değişik hali**
+1241
 
 **İCRA VE İFLAS KANUNU ^(1)(2)^**
 
@@ -4374,9 +4374,9 @@ bulunduğunu yazar.
 
 IV\. DOĞRUDAN DOĞRUYA İFLAS HALLERİ
 
-*Evvelce takibe hacet kalmaksızın iflas:*
+Evvelce takibe hacet kalmaksızın iflas:
 
-*A - Alacaklının talebi:*
+A - Alacaklının talebi:
 
 **Madde 177 –** Aşağıdaki hallerde alacaklı evvelce takibe hacet
 kalmaksızın iflasa tabi borçlunun iflasını isteyebilir.
@@ -4397,7 +4397,7 @@ için kısa bir müddette mahkemeye çağırılır.
 **(Ek: 9/11/1988 - 3494/36 md.)** Bu Kanunun 178 inci maddesinin ikinci
 fikrası burada da uygulanır.
 
-*B - Borçlunun müracaatiyle:*
+B - Borçlunun müracaatiyle:
 
 **Madde 178 – (Değişik: 18/2/1965 - 538/93 md.)**
 
@@ -4420,96 +4420,209 @@ takibi neticesinde yapılan haciz borçlunun yarı mevcudunun elinden
 edecek diğer borçlarını ödemeye yetişmiyorsa borçlu derhal aczini
 bildirerek iflasını istemeye mecburdur.
 
-*Sermaye şirketleri ile kooperatiflerin iflâsı:^(1)^*
+1292
 
-**Madde 179- (Değişik: 17/7/2003-4949/49 md.)**
+*Sermaye şirketleri ile kooperatiflerin iflası ve iflasın ertelenmesi:
+^(1)^*
 
-Sermaye şirketleri ile kooperatiflerin borçlarının aktifinden fazla
-olduğu idare ve temsil ile vazifelendirilmiş kimseler veya şirket ya da
+**Madde 179- (Değişik: 15/7/2016-6728/1 md.)**
+
+Sermaye şirketleri ile kooperatiflerin, aktiflerin muhtemel satış
+fiyatları üzerinden düzenlenen ara bilançoya göre borca batık olduğu
+idare ve temsil ile vazifelendirilmiş kimseler veya şirket ya da
 kooperatif tasfiye hâlinde ise tasfiye memurları veya bir alacaklı
 tarafından beyan ve mahkemece tespit edilirse, önceden takibe hacet
-kalmaksızın bunların iflâsına karar verilir. Şu kadar ki, idare ve
+kalmaksızın bunların iflasına karar verilir. Şu kadar ki, idare ve
 temsil ile vazifelendirilmiş kimseler ya da alacaklılardan biri, şirket
 veya kooperatifin malî durumunun iyileştirilmesinin mümkün olduğuna dair
-bir iyileştirme projesini mahkemeye sunarak iflâsın ertelenmesini
-isteyebilir. Mahkeme projeyi ciddî ve inandırıcı bulursa, iflâsın
-ertelenmesine karar verir. İyileştirme projesinin ciddî ve inandırıcı
-olduğunu gösteren bilgi ve belgelerin de mahkemeye sunulması zorunludur.
+bir iyileştirme projesini son bir yıldan uzun süre ile şirket merkezinin
+bulunduğu yerdeki mahkemeye sunarak iflasın ertelenmesini isteyebilir.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+İyileştirme projesinde, yeni nakit kaynak konulması dâhil nesnel ve
+gerçek kaynaklar ve önlemler ile erteleme süresince tüm işletme
+giderlerinin ve çalışma sermayesinin nasıl karşılanacağı gösterilir.
+
+Mevcut borçların ödeme süre ve tutarlarını, alacaklıların adreslerini,
+faaliyet gösterilen sektörün özelliklerine göre stoklar ile bunların
+bekleme sürelerini ve tutarlarını gösteren listeler, vergi dairesine
+sunulmuş en son bilanço ve gelir tablosu, şirket veya kooperatifin
+ticaret sicili tasdiknamesi ile iyileştirme projesinin ciddi ve
+inandırıcı olduğunu gösteren diğer bilgi ve belgelerin, işletmenin
+devamlılığı esasına göre düzenlenmiş ara bilançoyla birlikte mahkemeye
+sunulması zorunludur.
+
+Üçüncü fıkrada belirtilen liste ve belgelerin iflasın ertelenmesi
+talebiyle birlikte sunulmaması veya mahkemece verilecek iki haftalık
+kesin süre içinde tamamlanmaması hâlinde iflasın ertelenmesi talebi
+ispatlanamamış sayılır ve borca batık olduğunun anlaşılması hâlinde
+talep sahibi şirketin veya kooperatifin iflasına karar verilir.
+
+Daha önce iflasın ertelenmesinden yararlanmış bir sermaye şirketi veya
+kooperatif, duruma göre uzatma dâhil erteleme süresinin bitiminden
+itibaren bir yıl geçmedikçe iflasın ertelenmesi talebinde bulunamaz.
+
+*Erteleme yargılaması: ^(2)^*
+
+**Madde 179/a- (Ek: 17/7/2003-4949/50 md.; Değişik: 15/7/2016-6728/2
+md.)**
+
+Mahkeme, iflasın ertelenmesi talebinde bulunulması üzerine, yönetim
+organının yerine geçmesi ya da yönetim organı kararlarını veya
+işlemlerinin bir kısmını veya tamamını onaylaması ve ayrıca envanter
+işlemlerini başlatarak kontrolü altında yürütmesi için, derhal,
+görevinin gerektirdiği mesleki ve teknik yeterliliğe sahip, yeterli
+sayıda kayyım atar.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) Bu madde başlığı “Anonim, limited, kooperatif şirketlerinin
 iflası:” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 49 uncu
+maddesiyle “Sermaye şirketleri ile kooperatiflerin iflâsı:” şeklinde, bu
+madde başlığıdaha sonra 15/7/2016 tarihli ve 6728 sayılı Kanunun 1 inci
 maddesiyle metne işlendiği şekilde değiştirilmiştir.*
 
-1292
+*(2) Bu madde başlığı “Erteleme tedbirleri:” iken, 15/7/2016 tarihli ve
+6728 sayılı Kanunun 2 nci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
-Mahkeme, gerekli görürse idare ve temsille vazifelendirilmiş kimseleri
-ve alacaklıları dinleyebilir. İflâsın ertelenmesi talepleri öncelikle ve
-ivedilikle sonuçlandırılır.
+1292-1
 
-*Erteleme tedbirleri:*
+İflasın ertelenmesi talebi, kayyımın atanmasına ilişkin karar, kayyımın
+mahkemece belirlenmiş görevleri ve temsil yetkisi ile bunların sınırları
+tescil edilmek üzere ticaret sicili müdürlüğüne bildirilir ve 166 ncı
+maddenin ikinci fıkrasının ikinci ve üçüncü cümlelerinde öngörülen
+usulle ilan ettirilir. Bu ilanda alacaklıların iflasın ertelenmesi
+talebinin ilanından itibaren iki haftalık kesin süre içinde itiraz
+ederek iflasın ertelenmesi şartlarının bulunmadığını ileri
+sürebilecekleri ve mahkemeden talebin reddini isteyebilecekleri
+belirtilir. 
 
-**Madde 179/a- (Ek: 17/7/2003-4949/50 md.; Değişik: 14/1/2011-6103/41
-md.)**
-
-Mahkeme, iflâsın ertelenmesi isteminde bulunulması üzerine, envanter
-düzenlenmesi ve yönetim kurulunun yerine geçmesi ya da yönetim kurulu
-kararlarını onaylanması için derhal bir kayyım atar; ayrıca şirketin ve
-kooperatifin malvarlığının korunması için gerekli diğer önlemleri alır.
-
-Kayyımın atanmasına ilişkin karar, kayyımın mahkemece belirlenmiş
-görevleri ve temsil yetkisi ile bunların sınırları ve iflâsın
-ertelenmesine ilişkin talep 166 ncı maddenin ikinci fıkrasındaki usul
-ile mahkeme tarafından ilân ve ticaret siciline tescil ettirilir.
-Mahkeme bu arada erteleme talebini karara bağlar.
-
-İflâs ertelenmişse kayyım her üç ayda bir şirketin projeye uygun olarak
-iyileştirme gösterip göstermediğini mahkemeye rapor eder, mahkeme bu
-rapor üzerine veya gerek gördüğünde alacağı bilirkişi raporuna göre,
-erteleme istemini değerlendirir ve iyileştirmenin mümkün olamayacağı
-kanaatine varırsa erteleme kararını kaldırır.
-
-*Erteleme kararının etkileri:*
-
-**Madde 179/b- (Ek: 17/7/2003-4949/50 md)**
-
-Erteleme kararı üzerine borçlu aleyhine 6183 sayılı Kanuna göre yapılan
-takipler de dahil olmak üzere hiçbir takip yapılamaz ve evvelce başlamış
-takipler durur; bir takip muamelesi ile kesilebilen zamanaşımı ve hak
+Mahkeme ayrıca şirketin veya kooperatifin malvarlığının korunması ve
+faaliyetlerinin yürütülmesi için gerekli olan tedbirleri alır; 179/b
+maddesinin ikinci ve üçüncü fıkra hükümleri saklı kalmak ve toplam
+iflasın ertelenmesi süresinden sayılmak kaydıyla, 21/7/1953 tarihli ve
+6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapılan
+takipler de dâhil olmak üzere şirket veya kooperatif aleyhine takip
+yapılmasını yasaklayabilir veya evvelce başlatılmış takipleri
+durdurabilir. Bu süre içinde ihtiyati tedbir ve ihtiyati haciz kararları
+uygulanmaz; bir takip muamelesi ile kesilebilen zamanaşımı ve hak
 düşüren müddetler işlemez.
 
-Erteleme sırasında taşınır, taşınmaz veya ticarî işletme rehniyle temin
+İflasın ertelenmesi yargılaması sırasında tedbir talebinin reddi veya bu
+talebin kabulü hâlinde aynı mahkemeye yapılacak itiraz üzerine verilecek
+kararlara karşı 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri
+Kanununun 341 inci ve devamı maddeleri uyarınca istinaf yoluna
+başvurulabilir.
+
+Kayyım, mahkemece uygun görülecek sürelerde, sermaye artırımı
+ödemelerinin gerçekliği ve bunların kullanım yerlerini de gösterecek
+şekilde şirket veya kooperatifin faaliyetleri hakkında rapor verir.
+
+Mahkeme gerektiğinde kayyımın görevine son verebilir ve görevine son
+verilen ya da istifa eden kayyımın yerine yenisini seçer. Mahkemece
+atanan kayyımlar, özel sicilinde kaydedilmek üzere mahkemenin bağlı
+bulunduğu adli yargı ilk derece mahkemesi adalet komisyonu başkanlığına
+bildirilir. Bir kişi aynı anda en fazla üç dosyada kayyım olarak
+atanabilir. Kayyımın sorumlulukları hakkında 227 nci maddenin dördüncü
+ve beşinci fıkrası hükümleri uygulanır. 
+
+Mahkeme, gerekli görürse idare ve temsille vazifelendirilmiş kimseleri
+ve alacaklıları dinleyebilir.
+
+Şirket veya kooperatif, erteleme yargılaması sırasında ancak bir defaya
+mahsus olmak üzere revize iyileştirme projesi verebilir.
+
+İflasın ertelenmesi talepleri öncelikle ve ivedilikle sonuçlandırılır.
+
+Mahkeme, projeyi ciddi ve inandırıcı bulur ve şirket veya kooperatifi
+iflasın ertelenmesine layık görürse iflasın ertelenmesine; şirket veya
+kooperatifin borca batık olmadığını tespit ederse erteleme talebi ile
+iflas davasının reddine; aksi takdirde şirketin veya kooperatifin
+iflasına karar verir.
+
+*Erteleme kararı ve sonuçları: ^(1)^*
+
+**Madde 179/b- (Ek: 17/7/2003-4949/50 md.; Değişik: 15/7/2016-6728/3
+md.)**
+
+Erteleme kararı üzerine borçlu aleyhine 6183 sayılı Kanuna göre yapılan
+takipler de dâhil olmak üzere hiçbir takip yapılamaz ve evvelce başlamış
+takipler durur, ihtiyati tedbir ile ihtiyati haciz kararları uygulanmaz;
+bir takip muamelesi ile kesilebilen zamanaşımı ve hak düşüren müddetler
+işlemez.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu madde başlığı “Erteleme kararının etkileri:” iken, 15/7/2016
+tarihli ve 6728 sayılı Kanunun 3 üncüi maddesiyle metne işlendiği
+şekilde değiştirilmiştir.*
+
+1292-2
+
+Erteleme sırasında taşınır, taşınmaz veya ticari işletme rehniyle temin
 edilmiş alacaklar nedeniyle rehnin paraya çevrilmesi yoluyla takip
 başlatılabilir veya başlamış olan takiplere devam edilebilir; ancak bu
 takip nedeniyle muhafaza tedbirleri alınamaz ve rehinli malın satışı
 gerçekleştirilemez. Bu durumda erteleme süresince işleyecek olup mevcut
-rehinle karşılanamayacak faizler teminatlandırılmak zorundadır.
+rehinle karşılanamayacak faizler teminatlandırılmak zorundadır. 
 
 206 ncı maddenin birinci sırasında yazılı alacaklar için haciz yoluyla
 takip yapılabilir.
 
-**(Değişik dördüncü fıkra: 12/2/2004-5092/4 md.)** Erteleme süresi azami
-bir yıldır. Bu süre kayyımın verdiği raporlar dikkate alınarak mahkemece
-uygun görülecek süreler ile uzatılabilir; ancak uzatma süreleri toplamı
-dört yılı geçemez. Kayyım, mahkemenin belirleyeceği sürelerde iflâsı
-ertelenenin faaliyetleri ve işletmenin durumu konusunda düzenli olarak
-mahkemeye rapor verir.
+Erteleme süresi azami bir yıldır. Bu süre mahkemece uygun görülmesi
+hâlinde bir yıl daha uzatılabilir. Uzatma talebi hakkında karar
+verilebilmesi için erteleme kararının kesinleşmesi bekletici sorun
+yapılır. Uzatma yargılaması sırasında ancak bir defa revize iyileştirme
+projesi verilebilir.
 
-İflâsın ertelenmesi talebinin reddi ya da erteleme süresi sonunda
-iyileşmenin mümkün olmadığının tespiti üzerine mahkeme, şirketin veya
-kooperatifin iflâsına karar verir. Erteleme süresi dolmamakla birlikte,
-mahkeme kayyımın verdiği raporlardan şirketin veya kooperatifin malî
-durumunun iyileştirilmesinin mümkün olmadığı kanaatine varırsa, erteleme
-kararını kaldırarak şirketin veya kooperatifin iflâsına karar verebilir.
+İflasın ertelenmesine karar veren mahkeme 179/a maddesi uyarınca atanan
+kayyımın görevine devam etmesine karar verebileceği gibi aynı
+niteliklere sahip yeni kayyım da atayabilir. Kayyım, takvim yılının her
+üç aylık dönem sonu itibarıyla şirketin projeye uygun olarak iyileşme
+gösterip göstermediğini mahkemeye rapor eder. Kayyım ayrıca şirketteki
+olağanüstü gelişmeleri mahkemeye derhal rapor etmekle yükümlüdür.
 
-*Reddolunan miraslar:*
+Erteleme süresi sonunda, kayyımın verdiği raporlardan veya gerek
+gördüğünde alacağı bilirkişi raporundan borca batıklığın devam ettiğini
+tespit eden mahkeme, şirketin veya kooperatifin iflasına karar verir. 
+
+Erteleme süresi dolmamakla birlikte, mahkeme kayyımın verdiği
+raporlardan veya gerek gördüğünde alacağı bilirkişi raporundan şirketin
+veya kooperatifin malî durumunun iyileştirilmesinin mümkün olmadığı
+kanaatine varırsa, erteleme kararını kaldırarak şirketin veya
+kooperatifin iflasına; şirket veya kooperatifin bu aşamada borca
+batıklığının ortadan kalktığı sonucuna varırsa, erteleme talebi ile
+iflas davasının reddine karar verir.
+
+İflasın ertelenmesi talebi üzerine mahkemece verilen nihai kararların
+hüküm fıkraları tescil edilmek üzere ticaret sicili müdürlüğüne
+bildirilir ve 166 ncı maddenin ikinci fıkrasının ikinci ve üçüncü
+cümlelerinde öngörülen usulle ilan ettirilir.
+
+*Kanun yolları:*
+
+**Madde 179/c-** **(Ek: 15/7/2016-6728/4 md.)**
+
+İflasın ertelenmesi talebi üzerine mahkemece verilen nihai kararlara
+karşı borçlu şirket veya kooperatif ya da erteleme talep eden alacaklı
+tarafından kararın tebliğinden; diğer ilgililer tarafından ise kararın
+ilanından itibaren on gün içinde istinaf yoluna başvurulabilir. Bölge
+adliye mahkemesi tarafından verilen kararlara karşı da aynı esaslar
+dâhilinde on gün içinde temyiz yoluna başvurulabilir.
+
+Bölge adliye mahkemesince iflasın ertelenmesi kararının kaldırılması
+veya bölge adliye mahkemesi tarafından verilen iflasın ertelenmesi
+kararının Yargıtay tarafından bozulması hâlinde, borçlunun malvarlığı
+üzerindeki tedbirler devam eder. Mahkeme davanın seyrine göre bu
+tedbirleri değiştirmeye veya kaldırmaya yetkilidir.
+
+Reddolunan miraslar:
 
 **Madde 180 –** Reddolunan mirasların tasfiyesi sekizinci bap
 hükümlerine göre ait olduğu mahkemece yapılır. Terekenin resmen
 tasfiyesine dair Kanunu Medeni hükümleri mahfuzdur.
 
-*Usul:*
+Usul:
 
 **Madde 181 –** 159, 160, 164, 165 ve 166 ncı maddeler bu fasıl hükmüne
 göre vukua gelen iflaslara da tatbik olunur.
@@ -4821,7 +4934,7 @@ olunduktan sonra rüçhan hakları vardır.
 Bir alacak birden ziyade rehinle temin edilmiş ise satış tutarı borca
 mahsup edilirken her rehinin idare ve satış masrafı ve bu rehinlerden
 bir kısmı ile temin edilmiş başka alacaklar da varsa bunlar nazara
-alınıp paylaştırmada lazım gelen tenacübe riayet edilir.
+alınıp paylaştırmada lazım gelen tenasübe riayet edilir.
 
 Alacakları taşınmaz rehniyle temin edilmiş olan alacaklıların sırası ve
 bu teminatın faiz ve eklentisine şümulü Kanunu Medeninin taşınmaz
@@ -6052,8 +6165,8 @@ bakma akitleri,
 *Acizden dolayı butlan:*
 
 **Madde 279 –** Aşağıdaki tasarruflar borcunu ödemiyen bir borçlu
-tarafından hacizden veya mal bulunmaması sebebiyle hacizden yahut
-iflasın açılmasından evvelki bir sene içinde yapılmışsa yine batıldır:
+tarafından hacizden veya mal bulunmaması sebebile acizden yahut iflasın
+açılmasından evvelki bir sene içinde yapılmışsa yine batıldır:
 
 1 – Borçlunun teminat göstermeği evvelce taahhüt etmiş olduğu haller
 müstesna olmak üzere borçlu tarafından mevcut bir borcu temin için
@@ -6281,9 +6394,12 @@ komiserin talebi üzerine mühletin sona ermesinden önce kaldırılabilir.
 Bu takdirde borçlu ve alacaklılar dinlenir. 299, 300 ve 301 inci
 maddeler kıyas yoluyla uygulanır.
 
-İhtiyatî tedbir yoluyla da olsa, borçluya karşı başlamış olan takiplerin
-konkordato mühletinin bitiminden sonraki dönem içinde durdurulmasına
-veya borçluya karşı yeni takip yapılamayacağına karar verilemez.
+**(Değişik sekizinci fıkra: 15/7/2016-6728/5 md.)** Konkordatonun
+tasdiki yargılaması mühlet içinde bitirilememişse asliye ticaret
+mahkemesi, komiserin gerekçeli raporunu da dikkate alarak, mühletin
+bitiminden sonraki dönem için geçerli olmak üzere borçluya karşı evvelce
+başlatılmış olan takiplerin durdurulmasına veya borçluya karşı yeni
+takip yapılmamasına karar verebilir.
 
 1316
 
@@ -8184,9 +8300,11 @@ veya icra muamelesi sebebiyle hıfzedilmekte olan eşya tevdi veya tahsil
 yahut hıfız tarihinden itibaren on seneye kadar alakadarları tarafından
 müracaat olunmazsa talep hakkı Hazine lehine düşer.
 
+1328-9
+
 KANUN YOLLARINA BAŞVURMA VE SON MADDELER^(1)^
 
-*İstinaf yoluna başvurma ve incelenmesi^(1)^*
+*İstinaf yoluna başvurma ve incelenmesi^(1)(2)^*
 
 **Madde 363- (Değişik: 2/3/2005-5311/24 md.)**
 
@@ -8196,25 +8314,15 @@ ve bu maddede düzenlenen davetiyenin içeriği, yediemin ücreti, yediemin
 değiştirilmesi, hacizli taşınır malların muhafaza şekli, kıymet
 takdirine ilişkin şikâyet, ihaleye katılabilmek için teminat yatırılması
 ve teminatın miktarı, satışın durdurulması, satış ilânının iptali,
-süresinde satış istenmemesi nedeniyle satışın
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 2/3/2005 tarihli ve 5311 sayılı Kanunun 24 üncü maddesiyle, 362
-inci maddeden sonra gelen bölüm başlığı “SON MADDELER”, 363 üncü
-maddenin başlığı “Temyizi kabil kararlar, kötü niyetle temyiz halinde
-yapılacak işlem:” iken, metne işlendiği şekilde değiştirilmiştir.*
-
-1328-9
-
-düşürülmesi, 263 üncü maddenin uygulanma biçimi, iflâs idaresinin
-oluşturulması, icra mahkemesinin iflâs idaresinin işlemleri hakkında
-şikâyet üzerine verdiği kararlara karşı, iflâs idare memurunun ücret ve
-masrafları hakkındaki hesap pusulası ve 36 ncı maddeye göre icranın geri
-bırakılmasına ilişkin kararları dışındaki kararlarına karşı, ait olduğu
-alacak, hak veya malın değer veya miktarının bin lirayı geçmesi şartıyla
-istinaf yoluna başvurulabilir. İstinaf yoluna başvuru süresi tefhim veya
-tebliğ tarihinden itibaren on gündür.
+süresinde satış istenmemesi nedeniyle satışın düşürülmesi, 263 üncü
+maddenin uygulanma biçimi, iflâs idaresinin oluşturulması, icra
+mahkemesinin iflâs idaresinin işlemleri hakkında şikâyet üzerine verdiği
+kararlara karşı, iflâs idare memurunun ücret ve masrafları hakkındaki
+hesap pusulası ve 36 ncı maddeye göre icranın geri bırakılmasına ilişkin
+kararları dışındaki kararlarına karşı, ait olduğu alacak, hak veya malın
+değer veya miktarının yedi bin Türk lirasını geçmesi şartıyla istinaf
+yoluna başvurulabilir. İstinaf yoluna başvuru süresi tefhim veya tebliğ
+tarihinden itibaren on gündür. ^(2)^
 
 İcra mahkemesi kararları aleyhine işlemleri uzatmak gibi kötüniyetle
 istinaf yoluna başvurulduğu anlaşılırsa Hukuk Usulü Muhakemeleri
@@ -8227,12 +8335,13 @@ da yukarıdaki fıkra hükmü uygulanır.
 İcranın devamı için gereken evrak alıkonularak bunların birer örneği
 bölge adliye mahkemesine gönderilecek dosyaya konulur.
 
-*Temyiz yoluna başvurma ve incelenmesi ^(1)^*
+*Temyiz yoluna başvurma ve incelenmesi ^(3)(4)^*
 
 **Madde 364- (Değişik: 2/3/2005-5311/25 md.)**
 
 Bölge adliye mahkemesi hukuk dairelerince verilen ve miktar veya değeri
-onbin lirayı geçen nihaî kararlara karşı temyiz yoluna başvurulabilir.
+kırk bin Türk lirasını geçen nihaî kararlara karşı temyiz yoluna
+başvurulabilir.
 
 Yukarıda belirtilen kararlara karşı temyiz yoluna başvurma ve incelemesi
 Hukuk Usulü Muhakemeleri Kanunu hükümlerine göre yapılır. Bu durumda da
@@ -8242,8 +8351,21 @@ Temyiz yoluna başvurma, satıştan başka icra işlemlerini durdurmaz.
 
 ——————————
 
-*(1) Bu madde başlığı “Temyiz:“ iken, 2/3/2005 tarihli ve 5311 sayılı
+*(1) 2/3/2005 tarihli ve 5311 sayılı Kanunun 24 üncü maddesiyle, 362
+inci maddeden sonra gelen bölüm başlığı “SON MADDELER”, 363 üncü
+maddenin başlığı “Temyizi kabil kararlar, kötü niyetle temyiz halinde
+yapılacak işlem:” iken, metne işlendiği şekilde değiştirilmiştir.*
+
+*(2) 24/11/2016 tarihli ve 6763 sayılı Kanunun 3 üncü maddesiyle, bu
+maddenin birinci fıkrasında yer alan “bin lirayı” ibaresi “yedi bin Türk
+lirasını” şeklinde değiştirilmiştir.*
+
+*(3) Bu madde başlığı “Temyiz:“ iken, 2/3/2005 tarihli ve 5311 sayılı
 Kanunun 25 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+
+*(4) 24/11/2016 tarihli ve 6763 sayılı Kanunun 4 üncü maddesiyle, bu
+maddenin birinci fıkrasında yer alan “onbin lirayı” ibaresi “kırk bin
+Türk lirasını” şeklinde değiştirilmiştir.*
 
 1328-10
 
@@ -8312,7 +8434,7 @@ kısımları dikkate alınmaz.
 
 *(1) 2/3/2005 tarihli ve 5311 sayılı Kanunun 26 ncı maddesiyle 365 inci
 maddenin başlığı “Tetkik merciinin temyiz talebini reddetmesi:” iken,
-aynı Kanunun 27 nci maddesiyle de 366 nci maddenin başlığı “Yargıtay
+aynı Kanunun 27 nci maddesiyle de 366 ncı maddenin başlığı “Yargıtay
 kararları:” iken metne işlendiği şekilde değiştirilmiştir.*
 
 1328-11
@@ -8322,6 +8444,46 @@ geçerli olmak üzere uygulanan parasal sınırın artışına ilişkin hükmü,
 artışın yürürlüğe girdiği tarihten önce icra mahkemesince nihaî olarak
 karara bağlanmış olan davalar ile Yargıtayın bozma kararı üzerine
 yeniden bakılan davalarda uygulanmaz.
+
+**Ek Madde 2- (Ek: 6/2/2014-6518/2 md.)**
+
+Türkiye Cumhuriyeti adına 16/11/2001 tarihinde Cape Town’da imzalanan ve
+10/3/2011 tarihli ve 6192 sayılı Kanunla onaylanması uygun bulunan
+“Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşme”
+ve “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında
+Sözleşmeye İlişkin Hava Aracı Donanımına Özgü Konulara Dair Protokol”
+çerçevesinde, “Taşınır Donanım Üzerindeki Uluslararası Teminatlar
+Hakkında Sözleşme”nin 8 inci maddesinin birinci fıkrasının (a) bendi
+kapsamında haklarını kullanan güvence lehtarı ve 10 uncu maddesinin
+birinci fıkrasının (a) bendi kapsamında haklarını kullanan şartlı satıcı
+veya kiralayan, herhangi bir yargı kararı aranmaksızın, hak sahibi
+olduğunu gösteren ve Sivil Havacılık Genel Müdürlüğü tarafından
+düzenlenecek tescil belgesiyle Ankara İcra Dairesine başvurarak, tercih
+ettiği hakkın yerine getirilmesini talep edebilir.
+
+Talep üzerine icra müdürü tarafından başkaca herhangi bir araştırma
+yapılmaksızın, hak sahibi lehine üzerinde güvence tesis edilen nesnenin
+zilyetliği veya kontrolünün devrine ilişkin karar verilir ve karar
+borçluya tebliğ edilir. Tebliğ tarihinden itibaren üç iş günü içinde
+borçlu taraf, bu emri yerine getirmezse icra müdürü, Sözleşme’nin anılan
+8 inci ve 10 uncu maddeleri çerçevesinde gereğini yerine getirmesi için
+almış olduğu kararı Sivil Havacılık Genel Müdürlüğüne gönderir.
+
+Bu madde gereğince İcra Dairesince yapılan işlemler nedeniyle, 492
+sayılı Harçlar Kanununun hükümlerine göre 10.000 Türk Lirası maktu harç
+dışında herhangi bir vergi, resim ve harç alınmaz. Harç ve giderler,
+talep edene aittir.
+
+İcra Dairesince, Sözleşme ve Protokol çerçevesinde yapılacak iş ve
+işlemler ile takibe ilişkin esas ve usuller Adalet Bakanlığı ile
+Ulaştırma, Denizcilik ve Haberleşme Bakanlığı tarafından çıkarılacak
+yönetmelikle düzenlenir.
+
+**Ek Madde 3- (Ek: 3/11/2016-6754/19 md.)**
+
+Bu Kanun uyarınca görevlendirilecek bilirkişiler, bilirkişilik bölge
+kurulları tarafından hazırlanan listelerden seçilir ve bunlar hakkında
+Bilirkişilik Kanunu ve ilgili diğer kanun hükümleri uygulanır.
 
 **Geçici Madde 1 – (2004 sayılı Kanunun kendi numarasız geçici maddesi
 olup teselsül için numaralandırılmıştır.)**
@@ -8352,6 +8514,8 @@ hükümlerine tevfikan tasfiyeye devam olunur.
 meyanına giren ebniyeden ari araziden 1341 senesi Muvazenei Umumiye
 Kanununun 6 ve 23 üncü maddelerine tevfikan alınagelmekte olan Hazine
 alacakları hakkındaki hükümler bakidir.
+
+1328-12
 
 7 – Bu kanunun neşrinden evvel icra veznesine tevdi yahut dairece tahsil
 edilmiş olan paranın ve icra muamelesi sebebiyle hıfzedilmekte olan
@@ -8385,8 +8549,6 @@ tarifelerinin uygulanmasına devam olunur.
 
 **Geçici Madde 5- (Ek: 17/7/2003-4949/105 md.)** Bu Kanun ile
 değiştirilen 2004 sayılı İcra ve İflâs Kanununun;
-
-1328-12
 
 1- 4, 13, 26 ve 250 nci maddeleri ile 88 inci maddesinin dördüncü ve
 beşinci fıkralarında değişiklik yapan hükümleri, Kanunun yürürlüğe
@@ -8432,6 +8594,8 @@ kaldırılması taleplerine,
 yapan hükmü, Kanunun yürürlüğe girmesinden sonra gönderilen hesap
 özetleri ve ihtarnamelerde,
 
+1328-13
+
 14- 89 uncu maddesinin üçüncü fıkrasında değişiklik yapan hükmü, Kanunun
 yürürlüğe girdiği tarihte eski düzenlemeye göre ikinci ihbarnamenin
 henüz gönderilmemiş ya da gönderilmiş ama menfi tespit davası açma
@@ -8455,14 +8619,6 @@ Kanunun yürürlüğe girmesinden sonra yapılacak satışlarda,
 
 19- 128 ve 128/a maddelerinde değişiklik yapan hükümleri, Kanunun
 yürürlüğe girmesinden sonra yapılan kıymet takdirlerinde,
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu
-bendde “sözleşmelerde” ibaresinden sonra gelmek üzere “de” ibaresi
-eklenmiş ve metne işlenmiştir.*
-
-1328-13
 
 20- 134 üncü maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe
 girmesinden sonra yapılan ihalenin feshi taleplerinde,
@@ -8508,6 +8664,14 @@ sırada devam eden iflâs tasfiyelerinde,
 31- 206 ncı maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe
 girmesinden sonra düzenlenecek sıra cetvellerinde,
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu
+bendde “sözleşmelerde” ibaresinden sonra gelmek üzere “de” ibaresi
+eklenmiş ve metne işlenmiştir.*
+
+1328-14
+
 32- 222 nci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe
 girmesinden sonra yapılacak ilk alacaklılar toplanmalarında,
 
@@ -8533,8 +8697,6 @@ itibaren,
 37- 257, 258, 261, 264, 265 ve 268 inci maddelerinde değişiklik yapan
 hükümleri, Kanunun yürürlüğe girmesinden sonra yapılacak ihtiyatî haciz
 taleplerinde,
-
-1328-14
 
 38- 280 inci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe
 girmesinden önce açılmış ve derdest olan iptal davalarında da,^(1)^
@@ -8580,7 +8742,15 @@ bendi uyarınca gayrimenkul değerleme faaliyeti konusunda yetki verilmiş
 kişi veya kurumların yanı sıra diğer uzman bilirkişiler marifetiyle de
 yapılabilir.
 
-**Geçici Madde 9- (Ek: 2/7/2012-6352/38 md.) ^(2)^**
+*––––––––––––––––*
+
+*(1) 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu
+bentte “davalarında” ibaresinden sonra gelmek üzere “da” ibaresi
+eklenmiş ve metne işlenmiştir.*
+
+1328-15
+
+**Geçici Madde 9- (Ek: 2/7/2012-6352/38 md.) ^(1)^**
 
 9 uncu maddenin ikinci fıkrası gereği ödeme yapılabilmesi için ilgilisi
 tarafından, anılan maddenin yürürlüğe girdiği tarihten itibaren altı ay
@@ -8592,18 +8762,7 @@ Bu Kanunun ilgili hükümlerinin yürürlüğe girdiği tarihten önce
 başlatılan takip işlemleri hakkında, değişiklikten önceki hükümlerin
 uygulanmasına devam edilir.
 
-*––––––––––––––––*
-
-*(1) 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu
-bentte “davalarında” ibaresinden sonra gelmek üzere “da” ibaresi
-eklenmiş ve metne işlenmiştir.*
-
-*(2) 2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu
-maddenin 5/1/2013 tarihinde yürürlüğe girmesi hüküm altına alınmıştır.*
-
-1328-15
-
-**Geçici Madde 11- (Ek: 2/7/2012-6352/38 md.) ^(1)^**
+**Geçici Madde 11- (Ek: 2/7/2012-6352/38 md.) ^(2)^**
 
 Adalet Bakanlığı, 88 inci maddenin beşinci fıkrası gereğince hukuki ve
 teknik her türlü altyapıyı anılan maddenin yürürlüğe girdiği tarihten
@@ -8633,11 +8792,28 @@ Satılan veya mülkiyeti devredilen malın bedelinden, muhafaza ve diğer
 giderler mahsup edildikten sonra varsa artan miktar talep halinde
 ilgilisine ödenir.
 
-*Meriyet zamanı:*
+**Geçici Madde 12- (Ek: 15/7/2016-6728/6 md.)**
+
+Bu maddeyi ihdas eden Kanunla değiştirilen hükümler, bu maddenin
+yürürlüğe girdiği tarihten sonra yapılan iflasın ertelenmesi talepleri
+hakkında uygulanır.
+
+Bu maddenin yürürlüğe girdiği tarihten önce verilmiş iflasın ertelenmesi
+kararına dayanılarak yapılan uzatma talebi hakkında verilecek karar da
+iflasın ertelenmesi talebi hakkında verilmiş karara ilişkin kanun yoluna
+tabidir.
+
+Bu maddenin yürürlüğe girdiği tarihte derdest olan dosyalarda kayyım
+olarak atanan kişiler, bu maddenin yürürlüğe girdiği tarihten itibaren
+on gün içinde, adli yargı ilk derece mahkemesi adalet komisyonu
+başkanlıklarına bildirilir. Üçten fazla dosyada görevi devam eden
+kayyımlara yeni görev verilmez.
+
+Meriyet zamanı:
 
 **Madde 369 –** Bu kanunun meriyeti 4 Eylül 1932 tarihinden başlar.
 
-*Kanunu icraya memur olanlar:*
+Kanunu icraya memur olanlar:
 
 **Madde 370 –** Bu kanunun hükümlerini icraya İcra Vekilleri Heyeti
 memurdur.
@@ -8645,6 +8821,9 @@ memurdur.
 *––––––––––––––––*
 
 *(1) 2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu
+maddenin 5/1/2013 tarihinde yürürlüğe girmesi hüküm altına alınmıştır.*
+
+*(2) 2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu
 maddenin 5/1/2013 tarihinde yürürlüğe girmesi hüküm altına alınmıştır.*
 
 1328-17
@@ -8877,7 +9056,17 @@ farklı tarihte yürürlüğe girmesi hususunda Geçici Madde 5‘e bakınız.*
   6352                                                                              1, 8, 13/a, 18, 32, 42, 67, 68, 68/a, 69, 72, 82, 89 uncu maddedeki ibare değişikliği ,97, 99, 110, 169/a, 170, Geçici Madde 10                             5/7/2012
                                                                                                                                                                                                                                                 
                                                                                     8/a, 9, 12,58, 60, 88, 89/7, 106, 112, 114, 115, 116,118, 124, 126, 127, 129, 150/e, 168, 171, 243, Geçici Madde 9, 11                                      5/1/2013
+
+  6518                                                                              Ek Madde 2                                                                                                                                                  19/2/2014
+
+  6728                                                                              179, 179/a, 179/b, 179/c, 287, Geçici Madde 12                                                                                                              9/8/2016
+
+  6754                                                                              Ek Madde 3                                                                                                                                                  24/11/2016
+
+  6763                                                                              363, 364                                                                                                                                                    2/12/2016
   --------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) Bu Kanunun yürürlük tarihi 31/3/2005 tarihli ve 5328 sayılı Kanunun
 Geçici 1’inci maddesiyle “1 Haziran 2005” şeklinde değiştirilmiştir.*
