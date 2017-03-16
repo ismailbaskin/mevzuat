@@ -1,6 +1,6 @@
 1.  #### 
 
-    #### 20/2/2008 tarihli ve 5737 sayılı Kanunla değişik
+    #### Anayasa Mahkemesi’nin 25/6/2009 tarihli ve E.: 2008/30, K.: 2009/96 sayılı Kararı ile değişik
 
     #### TÜRK MEDENÎ KANUNU 
 
@@ -1224,16 +1224,22 @@ hükümlerine tabidir.
 
 **F. Yönetimin, amacın ve malların değiştirilmesi**
 
-I. Yönetimin değiştirilmesi
----------------------------
+**I. Yönetimin değiştirilmesi^(1)^**
 
 **MADDE 112.-** Haklı sebepler varsa mahkeme, vakfın yönetim organı veya
 denetim makamının istemi üzerine diğerinin yazılı görüşünü aldıktan
 sonra vakfın örgütünü, yönetimini ve işleyişini değiştirebilir.
 
-Mahkeme, denetim makamının başvurusu üzerine, tüzükte gösterilen
-sebeplerle duruşma yaparak yöneticileri görevden alabilir ve vakıf
-senedinde başka bir hüküm yoksa yenisini seçebilir.
+Mahkeme, denetim makamının başvurusu üzerine, (...)^(1)^ duruşma yaparak
+yöneticileri görevden alabilir ve vakıf senedinde başka bir hüküm yoksa
+yenisini seçebilir.
+
+–––––––––––––––––––
+
+*(1) 26/1/2008 tarihli ve 26768 sayılı Resmi Gazetede yayımlanan,
+Anayasa Mahkemesi’nin 27/11/2007 tarihli ve E.:2002/162, K.:2007/89
+sayılı Kararıyla;  bu maddenin ikinci fıkrasında yer alan “…tüzükte
+gösterilen sebeplerle…” ibaresi iptal edilmiştir.*
 
 **II. Amacın ve malların değiştirilmesi**
 
@@ -3199,9 +3205,9 @@ geçerliliğini korur.
 **III. Hak düşürücü süreler**
 
 **MADDE 289.-** Koca, davayı, doğumu ve baba olmadığını veya ananın gebe
-kaldığı sırada başka bir erkek ile cinsel ilişkide bulunduğunu öğrendiği
-tarihten başlayarak bir yıl, her hâlde doğumdan başlayarak beş yıl
-içinde açmak zorundadır.
+kaldığı sırada başka bir erkek ile cinsel ilişkide bulunduğunu 
+öğrendiği tarihten başlayarak bir yıl, (…) ^(1)^ içinde açmak
+zorundadır. ^(1)^
 
 Çocuk, ergin olduğu tarihten başlayarak en geç bir yıl içinde dava açmak
 zorundadır.
@@ -3216,6 +3222,13 @@ içinde doğmuş ve ana da bu arada yeniden evlenmiş olursa, ikinci
 evlilikteki koca baba sayılır.
 
 Bu karine çürütülürse ilk evlilikteki koca baba sayılır.
+
+–––––––––––
+
+*(1) 7/10/2009 tarihli ve 27369 sayılı Resmi Gazetede yayımlanan Anayasa
+Mahkemesi’nin 25/6/2009 tarihli ve E.: 2008/30, K.: 2009/96 sayılı
+Kararı ile bu fıkrada yer alan “…her hâlde doğumdan başlayarak beş yıl…”
+ibaresi, iptal edilmiştir.*
 
 **D. Diğer ilgililerin dava hakkı **
 
@@ -11860,13 +11873,32 @@ MAHKEMESİ KARARININ **
 
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
   **Değiştiren Kanun No.**   **Değiştiren Kanun/An. MahkemeKararının Yürürlüğe giriş tarihi**   **Anayasa Mahkemesi Karar Tarih/No.**   **4721 sayılı Kanunun değiştirilen maddeleri**
+
   4778                       11/1/2003                                                                                                  91, 92
+
   4963                       30/7/2003                                                                                                  56, 64, 66, 82, 94
+
   5253                       23/11/2004                                                                                                 58, 61, 62, 64, 74, 77, 79, 92 ve 93
+
   5378                       7/7/2005                                                                                                   348
+
   5399                       15/7/2005                                                                                                  313
+
   5650                       10/5/2007                                                                                                  505, 506
+
   5737                       27/2/2008                                                                                                  111
+
+                             26/1/2008                                                          27/11/2007                              112
+                                                                                                                                        
+                                                                                                E.:2002/162                             
+                                                                                                                                        
+                                                                                                K.:2007/89                              
+
+                             7/10/2009                                                          25/6/2009                               289
+                                                                                                                                        
+                                                                                                E.: 2008/30                             
+                                                                                                                                        
+                                                                                                K.: 2009/96                             
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
 
 
