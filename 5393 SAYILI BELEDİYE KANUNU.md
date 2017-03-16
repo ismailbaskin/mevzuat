@@ -1,4 +1,4 @@
-**6525 sayılı Kanun ile değişik hali**
+**6552 sayılı Kanun ile değişik hali**
 
 **BELEDİYE KANUNU**
 
@@ -335,16 +335,22 @@ a\) İmar, su ve kanalizasyon, ulaşım gibi kentsel alt yapı; coğrafî ve
 kent bilgi sistemleri; çevre ve çevre sağlığı, temizlik ve katı atık;
 zabıta, itfaiye, acil yardım, kurtarma ve ambulans; şehir içi trafik;
 defin ve mezarlıklar; ağaçlandırma, park ve yeşil alanlar; konut; kültür
-ve sanat, turizm ve tanıtım, gençlik ve spor; sosyal hizmet ve yardım,
-nikâh, meslek ve beceri kazandırma; ekonomi ve ticaretin geliştirilmesi
-hizmetlerini yapar veya yaptırır. **(Mülga son cümle: 12/11/2012-6360/17
-md.) (…)(Ek cümleler: 12/11/2012-6360/17 md.)** Büyükşehir belediyeleri
-ile nüfusu 100.000’in üzerindeki belediyeler, kadınlar ve çocuklar için
-konukevleri açmak zorundadır. Diğer belediyeler de mali durumları ve
-hizmet önceliklerini değerlendirerek kadınlar ve çocuklar için
-konukevleri açabilirler.
+ve sanat, turizm ve tanıtım, gençlik ve spor orta ve yüksek öğrenim
+öğrenci yurtları (Bu Kanunun 75 inci maddesinin son fıkrası,
+belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi
+oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi
+şirketler tarafından, orta ve yüksek öğrenim öğrenci yurtları ile
+Devlete ait her derecedeki okul binalarının yapım, bakım ve onarımı ile
+tefrişinde uygulanmaz.); sosyal hizmet ve yardım, nikâh, meslek ve
+beceri kazandırma; ekonomi ve ticaretin geliştirilmesi hizmetlerini
+yapar veya yaptırır. **(Mülga son cümle: 12/11/2012-6360/17 md.) (…)(Ek
+cümleler: 12/11/2012-6360/17 md.)** Büyükşehir belediyeleri ile nüfusu
+100.000’in üzerindeki belediyeler, kadınlar ve çocuklar için konukevleri
+açmak zorundadır. Diğer belediyeler de mali durumları ve hizmet
+önceliklerini değerlendirerek kadınlar ve çocuklar için konukevleri
+açabilirler. ^(1)^
 
-b\) (…)^(1)^ Devlete ait her derecedeki okul binalarının inşaatı ile
+b\) (…)^(2)^ Devlete ait her derecedeki okul binalarının inşaatı ile
 bakım ve onarımını yapabilir veya yaptırabilir, her türlü araç, gereç ve
 malzeme ihtiyaçlarını karşılayabilir; sağlıkla ilgili her türlü tesisi
 açabilir ve işletebilir; mabetlerin yapımı, bakımı, onarımını yapabilir;
@@ -358,7 +364,7 @@ yardım yapar ve gerekli desteği sağlar, her türlü amatör spor
 karşılaşmaları düzenler, yurt içi ve yurt dışı müsabakalarda üstün
 başarı gösteren veya derece alan öğrencilere, sporculara, teknik
 yöneticilere ve antrenörlere belediye meclisi kararıyla ödül verebilir.
-Gıda bankacılığı yapabilir. ^(2)^
+Gıda bankacılığı yapabilir. ^(3)^
 
 **(Ek fıkra: 12/11/2012-6360/17 md.; Değişik: 12/7/2013-6495/100 md.)**
 Belediyelerin birinci fıkranın (b) bendi uyarınca, sporu teşvik etmek
@@ -375,23 +381,32 @@ durumu ve hizmetin ivediliği dikkate alınarak belirlenir.
 
 Belediye hizmetleri, vatandaşlara en yakın yerlerde ve en uygun
 yöntemlerle sunulur. Hizmet sunumunda engelli, yaşlı, düşkün ve dar
-gelirlilerin durumuna uygun yöntemler uygulanır. ^(3)^
+gelirlilerin durumuna uygun yöntemler uygulanır. ^(4)^
 
 Belediyenin görev, sorumluluk ve yetki alanı belediye sınırlarını
 kapsar.
 
 –––––––––––––––––––––
 
-*(1) Bu maddenin birinci fıkrasının (b) bendinde yer alan "Okul öncesi
+*(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 120 nci maddesiyle, bu
+bentte yer alan , “gençlik ve spor” ibaresinden sonra gelmek üzere,
+“orta ve yüksek öğrenim öğrenci yurtları (Bu Kanunun 75 inci maddesinin
+son fıkrası, belediyeler, il özel idareleri, bağlı kuruluşları ve
+bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay
+denetimine tabi şirketler tarafından, orta ve yüksek öğrenim öğrenci
+yurtları ile Devlete ait her derecedeki okul binalarının yapım, bakım ve
+onarımı ile tefrişinde uygulanmaz.)” ibaresi eklenmiştir.*
+
+*(2) Bu maddenin birinci fıkrasının (b) bendinde yer alan "Okul öncesi
 eğitim kurumları açabilir;..." ifadesi Anayasa Mahkemesi’nin 24/1/2007
 tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile iptal edilmiştir.*
 
-*(2)12/11/2012 tarihli ve 6360 sayılı Kanunun 17 nci maddesiyle bu
+*(3)12/11/2012 tarihli ve 6360 sayılı Kanunun 17 nci maddesiyle bu
 bendin birinci cümlesinde yer alan “sağlıkla ilgili her türlü tesisi
 açabilir ve işletebilir;” ibaresinden sonra gelmek üzere “mabetlerin
 yapımı, bakımı, onarımını yapabilir;” ibaresi eklenmiştir.*
 
-*(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+*(4) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
 fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.*
 
 9474
@@ -520,9 +535,9 @@ geri ödemeli veya ücretsiz olarak yapabilir veya yaptırabilir, bunun
 karşılığında yapılan tesislere ortak olabilir; sağlık, eğitim, sosyal
 hizmet ve turizmi geliştirecek projelere İçişleri Bakanlığının onayı ile
 ücretsiz veya düşük bir bedelle amacı dışında kullanılmamak kaydıyla
-arsa tahsis edebilir. **(Ek cümle: 12/11/2012-6360/18 md.)** Belediye ve
-bağlı idareler, meclis kararıyla mabetlere indirimli bedelle ya da
-ücretsiz olarak içme ve kullanma suyu verebilirler.
+taşınmaz tahsis edebilir. **(Ek cümle: 12/11/2012-6360/18 md.)**
+Belediye ve bağlı idareler, meclis kararıyla mabetlere indirimli bedelle
+ya da ücretsiz olarak içme ve kullanma suyu verebilirler. ^(1)^
 
 Belediye, belde sakinlerinin belediye hizmetleriyle ilgili görüş ve
 düşüncelerini tespit etmek amacıyla kamuoyu yoklaması ve araştırması
@@ -537,12 +552,19 @@ Belediyenin proje karşılığı borçlanma yoluyla elde ettiği gelirleri,
 belediye tarafından tahsil edilen vergi, resim ve harç gelirleri
 haczedilemez.
 
+**(Ek fıkra: 10/9/2014 - 6552/121 md.)** İcra dairesince haciz kararı
+alınmadan önce belediyeden borca yeter miktarda haczedilebilecek mal
+gösterilmesi istenir ve haciz işlemi sadece gösterilen bu mal üzerine
+uygulanır. On gün içinde yeterli mal beyan edilmemesi durumunda
+yapılacak haciz işlemi, alacak miktarını aşacak veya kamu hizmetlerini
+aksatacak şekilde yapılamaz.
+
 *Belediyeye tanınan muafiyet*
 
 **Madde 16-** Belediyenin kamu hizmetine ayrılan veya kamunun
 yararlanmasına açık, gelir getirmeyen taşınmazları ile bunların inşa ve
 kullanımları katma değer vergisi ile özel tüketim vergisi hariç her
-türlü vergi, resim, harç, katılma ve katkı paylarından muaftır. ^(1)^
+türlü vergi, resim, harç, katılma ve katkı paylarından muaftır. ^(2)^
 
 İKİNCİ KISIM
 
@@ -564,6 +586,19 @@ kanunda gösterilen esas ve usûllere göre seçilmiş üyelerden oluşur.
 a\) Stratejik plân ile yatırım ve çalışma programlarını, belediye
 faaliyetlerinin ve personelinin performans ölçütlerini görüşmek ve kabul
 etmek.
+
+–––––––––––––
+
+*(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 121 inci maddesiyle; bu
+fıkranın birinci cümlesinde yer alan “arsa” ibaresi “taşınmaz” olarak
+değiştirilmiştir.*
+
+*(2) 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu
+maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere;
+"katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiş ve
+metne işlenmiştir.*
+
+9476
 
 b\) Bütçe ve kesinhesabı kabul etmek, bütçede kurumsal kodlama yapılan
 birimler ile fonksiyonel sınıflandırmanın birinci düzeyleri arasında
@@ -589,15 +624,6 @@ ilgililerin isteğine bağlı hizmetler için uygulanacak ücret tarifesini
 belirlemek.
 
 g\) Şartlı bağışları kabul etmek.
-
-–––––––––––––
-
-*(1) 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu
-maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere;
-"katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiş ve
-metne işlenmiştir.*
-
-9476
 
 h\) Vergi, resim ve harçlar dışında kalan ve miktarı beşbin YTL'den fazla
 dava konusu olan belediye uyuşmazlıklarını sulh ile tasfiyeye, kabul ve
@@ -644,6 +670,8 @@ t\) Mücavir alanlara belediye hizmetlerinin götürülmesine karar vermek.
 
 u\) İmar plânlarına uygun şekilde hazırlanmış belediye imar programlarını
 görüşerek kabul etmek.
+
+9476-1
 
 *Başkanlık divanı*
 
@@ -2020,12 +2048,14 @@ Kentsel dönüşüm ve gelişim proje alanlarındaki gayrimenkul sahipleri ve
 Yapılara Uygulanacak Bazı İşlemler ve 6785 Sayılı İmar Kanununun Bir
 Maddesinin Değiştirilmesi Hakkında Kanuna istinaden, hak sahibi olmuş
 kimselerle anlaşmaları halinde kentsel dönüşüm ve gelişim proje alanında
-hakları verilir. 2981 sayılı Kanun kapsamına girmeyen gecekondu
-sahiplerine enkaz ve ağaç bedelleri verilir veya belediye imkanları
-ölçüsünde kentsel dönüşüm ve gelişim proje alanı dışında arsa veya konut
-satışı yapılabilir. Bu kapsamda bulunanlara Toplu Konut İdaresi
-Başkanlığı ile işbirliği yapılmak suretiyle konut satışı da yapılabilir.
-Enkaz ve ağaç bedelleri arsa veya konut bedellerinden mahsup edilir.
+hakları verilir. **(Ek cümle: 10/9/2014 - 6552/122 md.)** Anlaşma sonucu
+belediye mülkiyetine geçen gayrimenkuller haczedilemez. 2981 sayılı
+Kanun kapsamına girmeyen gecekondu sahiplerine enkaz ve ağaç bedelleri
+verilir veya belediye imkanları ölçüsünde kentsel dönüşüm ve gelişim
+proje alanı dışında arsa veya konut satışı yapılabilir. Bu kapsamda
+bulunanlara Toplu Konut İdaresi Başkanlığı ile işbirliği yapılmak
+suretiyle konut satışı da yapılabilir. Enkaz ve ağaç bedelleri arsa veya
+konut bedellerinden mahsup edilir.
 
 Kentsel dönüşüm ve gelişim alanı ilan edilen yerlerde belediyelere ait
 gayrimenkuller ile belediyelerin anlaşma sağladığı veya
@@ -2469,7 +2499,7 @@ Müdürlüğünden birer temsilciden oluşur.
 **Geçici Madde 6 –** **(Ek: 26/12/2006-5568/9 md.; Mülga:
 28/1/2010-5951/13 md.) **
 
-**Geçici Madde** 7- **(Ek: 31/5/2012-6321/ 5 md.)**
+**Geçici Madde 7**- **(Ek: 31/5/2012-6321/ 5 md.)**
 
 Bu Kanunun 52 nci maddesine göre çıkarılan Yönetmelik çerçevesinde
 “İtfaiye Eri” kadro unvanına atanmak üzere açılmış olan sınav sonucunda
@@ -2481,12 +2511,18 @@ haklarından yazılı olarak feragat etmeleri kaydıyla, bu maddenin
 yürürlüğe girdiği tarihten itibaren 30 gün içinde atama işlemleri
 tamamlanarak göreve başlatılır.
 
+**Geçici Madde 8** – **(Ek: 10/9/2014 - 6552/123 md.)**
+
+15 inci maddenin son fıkrası hükümleri, devam eden her türlü icra
+takipleri hakkında da uygulanır. Bu maddenin yürürlük tarihinden önce
+yapılmış icra takipleri gereğince konulan tüm hacizler, söz konusu fıkra
+hükümleri dikkate alınarak kaldırılır.
+
 *Yürürlük*
 
 **Madde 86-** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
- *Yürütme*
-==========
+*Yürütme*
 
 **Madde 87-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
@@ -2566,6 +2602,8 @@ Gazete’de yayımlanmıştır.*
   1.     6495                       2/8/2013                                      2/8/2013                  28726                                   14
 
   1.     6525                       27/2/2014                                     27/2/2014                                                         12
+
+         6552                       11/9/2014                                     11/9/2014                                                         14,15,73, Geçici madde 8
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
 
