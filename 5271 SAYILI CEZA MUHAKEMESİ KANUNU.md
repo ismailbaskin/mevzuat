@@ -1,4 +1,4 @@
-**6411 sayılı Kanun ile değişik hali**
+**6459 sayılı Kanun ile değişik hali**
 
 **CEZA MUHAKEMESİ KANUNU**
 
@@ -1833,7 +1833,9 @@ incelemeden sonra verilir; bu karar re'sen de verilebilir.
 \(1) 103 ve 104 üncü maddeler uyarınca yapılan istem üzerine, merciince
 Cumhuriyet savcısı, şüpheli, sanık veya müdafiin görüşü alındıktan
 sonra, üç gün içinde istemin kabulüne, reddine veya adlî kontrol
-uygulanmasına karar verilir. Bu kararlara itiraz edilebilir.
+uygulanmasına karar verilir. **(Ek cümle: 11/4/2013-6459/15 md.)**
+Duruşma dışında bu karar verilirken Cumhuriyet savcısı, şüpheli, sanık
+veya müdafiinin görüşü alınmaz. Bu kararlara itiraz edilebilir.
 
 *Salıverilenin yükümlülükleri *
 
@@ -1872,7 +1874,8 @@ bildirilir.
 bulunduğu süre içinde ve en geç otuzar günlük süreler itibarıyla
 tutukluluk hâlinin devamının gerekip gerekmeyeceği hususunda, Cumhuriyet
 savcısının istemi üzerine sulh ceza hâkimi tarafından 100 üncü madde
-hükümleri göz önünde bulundurularak karar verilir.
+hükümleri göz önünde bulundurularak, şüpheli veya müdafii dinlenilmek
+suretiyle karar verilir. ^(1)^
 
 \(2) Tutukluluk durumunun incelenmesi, yukarıdaki fıkrada öngörülen süre
 içinde şüpheli tarafından da istenebilir.
@@ -1910,6 +1913,12 @@ tedbirlerine uymak.
 
 d\) Her türlü taşıtları veya bunlardan bazılarını kullanamamak ve
 gerektiğinde kaleme, makbuz karşılığında sürücü belgesini teslim etmek.
+
+––––––––––––––––
+
+*(1) 11/4/2013 tarihli ve 6459 sayılı Kanunun 16 ncı maddesiyle, bu
+fıkrada yer alan “bulundurularak” ibaresinden sonra gelmek üzere “,
+şüpheli veya müdafii dinlenilmek suretiyle” ibaresi eklenmiştir.*
 
 9129
 
@@ -2865,6 +2874,9 @@ halde elkonulan veya korunması için gerekli tedbirler alınmayan ya da
 eşyası veya diğer malvarlığı değerleri amaç dışı kullanılan veya
 zamanında geri verilmeyen,
 
+k\) **(Ek: 11/4/2013-6459/17 md.)** Yakalama veya tutuklama işlemine
+karşı Kanunda öngörülen başvuru imkânlarından yararlandırılmayan,
+
 –––––––––––––––––––
 
 *(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 19 uncu maddesiyle (5)
@@ -2942,7 +2954,7 @@ tanıklıkta bulunan kişiye de rücu eder.
 **Madde 144 –** (1) Kanuna uygun olarak yakalanan veya tutuklanan
 kişilerden aşağıda belirtilenler tazminat isteyemezler:
 
-a\) Gözaltı ve tutukluluk süresi başka bir hükümlülüğünden indirilenler.
+a\) **(Mülga: 11/4/2013-6459/18 md.)**
 
 b\) Tazminata hak kazanmadığı hâlde, sonradan yürürlüğe giren ve lehte
 düzenlemeler getiren kanun gereği, durumları tazminat istemeye uygun
@@ -3599,6 +3611,12 @@ hakkı, süresi ve mercii gösterilir.
 \(2) Kovuşturmaya yer olmadığına dair karar verildikten sonra yeni delil
 meydana çıkmadıkça, aynı fiilden dolayı kamu davası açılamaz.
 
+\(3) **(Ek: 11/4/2013-6459/19 md.)** Kovuşturmaya yer olmadığına dair
+kararın etkin soruşturma yapılmadan verildiğinin Avrupa İnsan Hakları
+Mahkemesinin kesinleşmiş kararıyla tespit edilmesi üzerine, kararın
+kesinleşmesinden itibaren üç ay içinde talep edilmesi hâlinde yeniden
+soruşturma açılır.
+
 *Cumhuriyet savcısının kararına itiraz ^(1)^*
 
 **Madde 173 –** (1) Suçtan zarar gören, kovuşturmaya yer olmadığına dair
@@ -3637,6 +3655,17 @@ tarihten itibaren onbeş gün içinde soruşturma evresine ilişkin bütün
 belgeler incelendikten sonra, eksik veya hatalı noktalar belirtilmek
 suretiyle;
 
+––––––––––––––––
+
+*(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 22 nci maddesiyle, bu
+maddenin birinci fıkrasında yer alan “ağır ceza mahkemesi başkanına”
+ibaresi “ağır ceza mahkemesine”, üçüncü ve dördüncü fıkralarında yer
+alan “Başkan” ibareleri “Mahkeme” ve altıncı fıkrasında yer alan “ağır
+ceza mahkemesi başkanının” ibaresi “ağır ceza mahkemesinin” şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+9150
+
 a\) 170 inci maddeye aykırı olarak düzenlenen,
 
 b\) Suçun sübûtuna etki edeceği mutlak sayılan mevcut bir delil
@@ -3660,17 +3689,6 @@ gönderir. İlk kararda belirtilmeyen sebeplere dayanılarak yeniden
 iddianamenin iadesi yoluna gidilemez.
 
 \(5) İade kararına karşı Cumhuriyet savcısı itiraz edebilir.
-
-––––––––––––––––
-
-*(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 22 nci maddesiyle, bu
-maddenin birinci fıkrasında yer alan “ağır ceza mahkemesi başkanına”
-ibaresi “ağır ceza mahkemesine”, üçüncü ve dördüncü fıkralarında yer
-alan “Başkan” ibareleri “Mahkeme” ve altıncı fıkrasında yer alan “ağır
-ceza mahkemesi başkanının” ibaresi “ağır ceza mahkemesinin” şeklinde
-değiştirilmiş ve metne işlenmiştir.*
-
-9150
 
  
 
@@ -3713,6 +3731,8 @@ personel yanına getirilerek tutanak tutulmak suretiyle yapılır.
 
 \(4) Yukarıdaki fıkralar gereğince, çağrı kâğıdının tebliğiyle duruşma
 günü arasında en az bir hafta süre bulunması  gerekir.
+
+9150-1
 
 *Sanığın savunma delillerinin toplanması istemi*
 
@@ -5428,6 +5448,11 @@ verebilmesi için itirazı, Cumhuriyet savcısı ve karşı tarafa
 bildirebilir. Merci, inceleme ve araştırma yapabileceği gibi gerekli
 gördüğünde bunların yapılmasını da emredebilir.
 
+\(2) **(Ek: 11/4/2013-6459/20 md.)** 101 ve 105 inci maddeler uyarınca
+yapılan itiraz üzerine Cumhuriyet savcısından görüş alınması durumunda,
+bu görüş şüpheli, sanık veya müdafiine bildirilir. Şüpheli, sanık veya
+müdafii üç gün içinde görüşünü bildirebilir.
+
 9172
 
 *Karar*
@@ -6438,7 +6463,7 @@ kalmak üzere, doğrudan soruşturma yapılır.
 bulunmadıkça, ilgili bakanlıkların görüşü alınarak Adalet Bakanlığı
 tarafından çıkarılır.
 
-**Geçici Madde 1** – **(24/1/2013-6411/2 md.)**
+**Geçici Madde 1** – **(Ek:24/1/2013-6411/2 md.)**
 
 \(1) Bu Kanunun 202 nci maddesinin beşinci fıkrasında öngörülen
 yönetmelik, Adalet Bakanlığınca bu maddeyi ihdas eden Kanunun yürürlüğe
@@ -6446,6 +6471,17 @@ girdiği tarihten itibaren bir ay içinde çıkarılır. Bu yönetmelik
 uyarınca tercüman listeleri oluşturuluncaya kadar bu Kanunun 202 nci
 maddesinin dördüncü fıkrasında düzenlenen tercüme hizmetleri sanığın
 kendisi tarafından getirilen tercüman tarafından yerine getirilir.
+
+**Geçici Madde 2** – **(Ek: 11/4/2013-6459/21 md.)**
+
+\(1) İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin veya
+eki protokollerin ihlali suretiyle bir ceza hükmünün verildiğini tespit
+eden Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararlarından,
+15.6.2012 tarihi itibarıyla Avrupa Konseyi Bakanlar Komitesi önünde
+denetlenmekte bulunanlar bakımından bu Kanunun 311 inci maddesinin
+ikinci fıkrası hükmü uygulanmaz. Bu durumda olanlar, bu maddenin
+yürürlüğe girdiği tarihten itibaren üç ay içinde yargılamanın
+yenilenmesi talebinde bulunabilirler.”
 
 *Yürürlük*
 
@@ -6455,6 +6491,14 @@ kendisi tarafından getirilen tercüman tarafından yerine getirilir.
 *Yürütme*
 
 **Madde 335 –** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+–––––––––––––––––
+
+*(1) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
+5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+9186
 
 **5271 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
@@ -6488,14 +6532,6 @@ yargılama bakımından dava zamanaşımı hükümleri uygulanmaz.
 İşbu Kanun yürürlüğe girdiği tarih itibarıyla kesinleşmemiş olmakla
 beraber hükme bağlanmış olan dosyalarda uzlaşma kapsamının
 genişlediğinden bahisle bozma kararı verilemez.
-
-–––––––––––––––––
-
-*(1) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
-5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde
-değiştirilmiş ve metne işlenmiştir.*
-
-9186
 
 **GEÇİCİ MADDE 2-** Bu Kanunun yürürlüğe girdiği tarihte kovuşturma
 evresinde bulunan dava dosyaları hakkında:
@@ -6560,6 +6596,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   KHK/650                                                                      331                                                                                                                1/1/2012
   6352                                                                         38/A, 100, 101, 109, 250, 251, 252, 308, 324                                                                       5/7/2012
   6411                                                                         202 ve Geçici Madde 1                                                                                              31/1/2013
+  6459                                                                         105, 108, 141, 144, 172, 270, Geçici Madde 2                                                                       30/4/2013
   ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------ ----------------------------
 
 
