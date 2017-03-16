@@ -1,4 +1,4 @@
-**6462 sayılı Kanun ile değişik hali**
+**6475 sayılı Kanun ile değişik hali**
 
 **KAMU İHALE KANUNU**
 
@@ -3350,11 +3350,12 @@ telekomünikasyon sektöründe faaliyet gösteren teşebbüs, işletme ve
 maddesinin (g) bendi hükmüne, bu bent kapsamında yer almayan mal ve
 hizmet alımları ile yapım işlerinde ise Kanunun diğer hükümlerine tâbi
 olurlar. **(Ek cümle: 22/12/2005-5436/13 md.)** Bu Kanunun 3 üncü
-maddesinin (g) bendinde yer alan parasal limit, Türkiye Petrolleri
-Anonim Ortaklığının Türkiye karasuları ile uluslararası sular dahilinde
-petrol ve doğalgaz arama, sondaj, üretim ve taşıma faaliyetleri ile
-ilgili olarak yapılacak her türlü mal ve hizmet alımları ile yapım
-işlerinde uygulanmaz.
+maddesinin (g) bendinde yer alan parasal limit, Posta ve Telgraf
+Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet
+alımları ile Türkiye Petrolleri Anonim Ortaklığının Türkiye karasuları
+ile uluslararası sular dahilinde petrol ve doğalgaz arama, sondaj,
+üretim ve taşıma faaliyetleri ile ilgili olarak yapılacak her türlü mal
+ve hizmet alımları ile yapım işlerinde uygulanmaz.^(1)^
 
 **(Ek fıkra: 14/7/2004-5226/24 md.)** Bu Kanunun 3 üncü maddesinin (i)
 bendine ilişkin esas ve usuller Maliye Bakanlığı, Kamu İhale Kurumu ve
@@ -3391,6 +3392,14 @@ içinde atanır. Kamu İhale Kurulu üyeliğine yapılacak ilk atamalarda,
 Maliye Bakanlığı ile Bayındırlık ve İskân Bakanlığının önereceği adaylar
 arasından seçilecek üyelerden Bakanlar Kurulunca belirlenecek birer üye
 yedi yıl süreyle görev yapar.
+
+^––––––––––––––––––––––––––––––––––^
+
+*(1) 9/5/2013 tarihli ve 6475 sayılı Kanunun 31 inci maddesiyle bu
+fıkrada yer alan “Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan
+parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf
+Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet
+alımları ile” ibaresi eklenmiştir.*
 
 8258-9
 
@@ -3742,6 +3751,8 @@ Diğer maddeleri 15/8/2003
   6461                               3                                                             1/5/2013
 
   6462                               53                                                            3/5/2013
+
+  6475                               Geçici Madde 4                                                23/5/2013
   ---------------------------------- ------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
 
 
