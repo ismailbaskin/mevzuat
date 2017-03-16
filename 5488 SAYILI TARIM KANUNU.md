@@ -1,4 +1,4 @@
-**6455 sayılı Kanun ile değişik hali**
+9725
 
  
 
@@ -442,70 +442,65 @@ oranlarda yapılacağı ve uygulamaya dönük diğer hususlar, Kurulun teklifi
 
 9731
 
- 
+f\) Çevre amaçlı tarım arazilerini koruma programı destekleri: Erozyon ve
+olumsuz çevresel etkilere maruz kalan tarım arazilerinde, işlemeli tarım
+yapan üreticilerin, arazilerini doğal bitki örtüleri, çayır, mera,
+organik tarım ve ağaçlandırma için kullanmalarını teşvik etmek üzere,
+kendilerine belirli bir süreyi kapsayacak şekilde, çevre amaçlı tarım
+arazilerini koruma programı destekleri sağlanır. Ödemeler, Bakanlık ile
+üreticiler arasında akdedilecek sözleşmelere dayalı olarak ve birim
+arazi üzerinden yapılır. Her bir üretici için yapılacak çevre amaçlı
+tarım arazilerini koruma programı destekleri ödemesi, üreticilerin bu
+program için tahsis edecekleri arazi miktarı ile birim ödeme miktarının
+çarpımı ile hesaplanır. Üreticilerin, bu araziler üzerinde ayrıca çevre
+koruma tedbirleri almaları da istenir. Çevre amaçlı tarım arazilerini
+koruma programı destekleri ödemelerinin hangi arazilerde uygulanacağı,
+sözleşmelerin kapsamı, ödemelerin süresi ve ödeme miktarları Kurulun
+teklifi üzerine Bakanlar Kurulu tarafından belirlenir.
 
-             f) Çevre amaçlı tarım arazilerini koruma programı
-destekleri: Erozyon ve olumsuz çevresel etkilere maruz kalan tarım
-arazilerinde, işlemeli tarım yapan üreticilerin, arazilerini doğal bitki
-örtüleri, çayır, mera, organik tarım ve ağaçlandırma için kullanmalarını
-teşvik etmek üzere, kendilerine belirli bir süreyi kapsayacak şekilde,
-çevre amaçlı tarım arazilerini koruma programı destekleri sağlanır.
-Ödemeler, Bakanlık ile üreticiler arasında akdedilecek sözleşmelere
-dayalı olarak ve birim arazi üzerinden yapılır. Her bir üretici için
-yapılacak çevre amaçlı tarım arazilerini koruma programı destekleri
-ödemesi, üreticilerin bu program için tahsis edecekleri arazi miktarı
-ile birim ödeme miktarının çarpımı ile hesaplanır. Üreticilerin, bu
-araziler üzerinde ayrıca çevre koruma tedbirleri almaları da istenir.
-Çevre amaçlı tarım arazilerini koruma programı destekleri ödemelerinin
-hangi arazilerde uygulanacağı, sözleşmelerin kapsamı, ödemelerin süresi
-ve ödeme miktarları Kurulun teklifi üzerine Bakanlar Kurulu tarafından
-belirlenir.
+g\) Diğer destekleme ödemeleri: Araştırma, geliştirme ve tarımsal yayım
+desteği, pazarlama teşvikleri, özel depolama yardımı, kalite desteği,
+piyasa düzenlemeleri desteği, organik üretim desteği, imha desteği, ürün
+işleme desteği, gerektiğinde bazı girdi destekleri ile tarım havzaları
+destekleri ve benzer konularda destekleme araçları kullanılabilir. Bu
+destekleme araçları her yıl Kurulun teklifi üzerine Bakanlar Kurulu
+tarafından belirlenir.
 
-             g) Diğer destekleme ödemeleri: Araştırma, geliştirme ve
-tarımsal yayım desteği, pazarlama teşvikleri, özel depolama yardımı,
-kalite desteği, piyasa düzenlemeleri desteği, organik üretim desteği,
-imha desteği, ürün işleme desteği, gerektiğinde bazı girdi destekleri
-ile tarım havzaları destekleri ve benzer konularda destekleme araçları
-kullanılabilir. Bu destekleme araçları her yıl Kurulun teklifi üzerine
-Bakanlar Kurulu tarafından belirlenir.
+**Tarımsal desteklemelerin uygulama esasları**
 
-**             Tarımsal desteklemelerin uygulama esasları**
+**MADDE 20 –** Destekleme ödemelerinde uyulması gereken esaslar
+şunlardır:
 
-**             MADDE 20 –** Destekleme ödemelerinde uyulması gereken
-esaslar şunlardır:
+a\) Destekleme ödemeleri; bölge, işletme, arazi, ürün, tarım sistemi,
+sözleşmeli üretim, ıslah ve çevre gibi konulardaki öncelikler ve
+tercihler ışığında farklı miktarlarda yapılabilir.
 
-             a) Destekleme ödemeleri; bölge, işletme, arazi, ürün, tarım
-sistemi, sözleşmeli üretim, ıslah ve çevre gibi konulardaki öncelikler
-ve tercihler ışığında farklı miktarlarda yapılabilir.
+b\) Bir tarımsal işletmenin alabileceği azamî toplam destekleme miktarı,
+yıllık olarak belirlenebilir.
 
-             b) Bir tarımsal işletmenin alabileceği azamî toplam
-destekleme miktarı, yıllık olarak belirlenebilir.
+c\) Destekler, üretici örgütleri aracılığı ile de ödenebilir.
 
-             c) Destekler, üretici örgütleri aracılığı ile de
-ödenebilir.
-
-             ç) Desteklenecek ürünlerin ve destekleme ödeme miktarının
+ç) Desteklenecek ürünlerin ve destekleme ödeme miktarının
 belirlenmesinde kalite, standart ve sağlık kriterleri dikkate alınır.
 
-             d) Üreticilere yapılacak her türlü destekleme ödemelerinde,
-entegre idare ve kontrol sistemi kullanılır.
+d\) Üreticilere yapılacak her türlü destekleme ödemelerinde, entegre
+idare ve kontrol sistemi kullanılır.
 
-             e) Çiftlik muhasebe veri ağı kayıtlarına ait bilgiler
-kontrol ve istatistikî amaçlı olarak kullanılabilir, ancak ifşa
-edilemez. Bu hükme uymayanlar için genel hükümler çerçevesinde cezaî
-işlem yapılır.
+e\) Çiftlik muhasebe veri ağı kayıtlarına ait bilgiler kontrol ve
+istatistikî amaçlı olarak kullanılabilir, ancak ifşa edilemez. Bu hükme
+uymayanlar için genel hükümler çerçevesinde cezaî işlem yapılır.
 
-**             Tarımsal desteklemelerin finansmanı  **
+**Tarımsal desteklemelerin finansmanı  **
 
-**             MADDE 21 –** Tarımsal destekleme programlarının
-finansmanı, bütçe kaynaklarından ve dış kaynaklardan sağlanır. Bütçeden
-ayrılacak kaynak, gayrisafi millî hasılanın yüzde birinden az olamaz.
+**MADDE 21 –** Tarımsal destekleme programlarının finansmanı, bütçe
+kaynaklarından ve dış kaynaklardan sağlanır. Bütçeden ayrılacak kaynak,
+gayrisafi millî hasılanın yüzde birinden az olamaz.
 
-**             Salgın ve bulaşıcı hastalıklardan korunma**
+**Salgın ve bulaşıcı hastalıklardan korunma**
 
-**             MADDE 22 –** Salgın ve bulaşıcı hastalıklardan korunmak,
-ülkeye bulaşması durumunda yayılmasını önlemek amacıyla, riskli
-alanlarda, Bakanlığın teklifi ve Bakanlar Kurulunun onayı ile tarımsal
+**MADDE 22 –** Salgın ve bulaşıcı hastalıklardan korunmak, ülkeye
+bulaşması durumunda yayılmasını önlemek amacıyla, riskli alanlarda,
+Bakanlığın teklifi ve Bakanlar Kurulunun onayı ile tarımsal
 faaliyetlerle ilgili gerekli önlemler alınır.
 
 9732
@@ -571,14 +566,6 @@ afetlere maruz kalan çiftçilere, söz konusu sıralamaya bakılmaksızın
 kadar üreticilere yapılacak bitkisel üretimle ilgili destekleme
 ödemelerinde çiftçi kayıt sistemi esas alınır.
 
-**Yürürlük **
-
-**MADDE 25 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
-
-**Yürütme**
-
-**MADDE 26 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-
 –––––––––––––
 
 *(1) 28/3/2013 tarihli ve 6455 sayılı Kanunun 51 inci maddesiyle, bu
@@ -587,6 +574,76 @@ ibaresi “hesaplanan kanunî faizi ile birlikte anılan Kanun hükümlerine
 göre geri alınır” şeklinde değiştirilmiştir.*
 
 9732-1
+
+**GEÇİCİ MADDE 3 –** **(Ek: 12/7/2013-6495/36 md.)**
+
+Bu Kanun uyarınca yapılan desteklemelerle ilgili olarak bu maddenin
+yürürlüğe girdiği tarih itibarıyla devam eden her türlü incelemeler veya
+adli ve idari soruşturmalar sonuçlanıncaya kadar destekleme ödemelerinin
+yapılmaması amacıyla konulan ödeme yasakları, bu maddenin yürürlüğe
+girdiği tarihten itibaren en geç iki ay içinde haklarında ödeme yasağı
+konulan kişilerin Gıda, Tarım ve Hayvancılık Bakanlığına başvuruda
+bulunmaları durumunda anılan Bakanlık tarafından altı ay içinde
+yapılacak incelemede gerçek üretim yapıldığına dair bulgu ve emarelerin
+tespit edilmiş olması şartıyla kaldırılır.
+
+25/4/2006 tarihinden itibaren desteklemelerden yararlanmak için
+başvuruda bulunduğu hâlde, meri mevzuat uyarınca desteklemelerden
+yararlanabilmek için ibrazı öngörülen makbuz, fatura ve diğer belgelerin
+gerçeğe aykırı, usulsüz veya sahte olduğu gerekçesiyle desteklemeden
+yararlandırılmayanlara veya yararlandıkları destekleme tutarları aynı
+gerekçe ile bu Kanunun 23 üncü maddesi doğrultusunda geri alınanlara, bu
+maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde Gıda, Tarım ve
+Hayvancılık Bakanlığına başvurmaları ve Bakanlık tarafından yapılan
+incelemede bunların gerçek üretim yaptığının tespit edilmesi hâlinde hak
+ettikleri destekleme ödemeleri yapılır. Yapılan ödemelere faiz
+işletilmez, masraf veya ek ödeme adı altında herhangi bir ödeme
+yapılmaz. Ancak bu hükümden yararlananlardan bu Kanunun 23 üncü maddesi
+çerçevesinde tahsil edilmiş olan faiz, 13/2/2011 tarihli ve 6111 sayılı
+Kanuna göre alınan TEFE/ÜFE tutarı, katsayı tutarı ve geç ödeme zamları
+iade edilir. Bu hüküm yararlandıkları destekleme tutarlarının, aynı
+gerekçelerle geri alınması yönünde haklarında takip başlatılanlar için
+de uygulanır ve maddede öngörülen şartların oluşması hâlinde
+haklarındaki takip işlemlerine son verilir. Ancak bu maddenin yürürlüğe
+girdiği tarihten sonra maddenin kapsadığı dönemlere ilişkin olarak
+haklarında takip başlatılanların, takibe ilişkin yazının tebliğ
+tarihinden itibaren bir ay içinde anılan Bakanlığa başvurmaları hâlinde
+bunlar da madde hükmünden aynı şartlar dâhilinde yararlandırılır. Bu
+maddeden yararlananlara 23 üncü maddenin ikinci fıkrası uyarınca
+uygulanması öngörülen herhangi bir hak mahrumiyeti uygulanmaz.
+
+25/4/2006 tarihinden itibaren meri mevzuat uyarınca desteklemelerden
+yararlanabilmek için başvuruda bulunan ancak ibrazı öngörülen makbuz,
+fatura ve diğer belgelerin herhangi birini ibraz edememesi nedeniyle
+desteklemeden yararlandırılmayanlara, bu maddenin yürürlüğe girdiği
+tarihten itibaren üç ay içinde Gıda, Tarım ve Hayvancılık Bakanlığına
+başvurmaları ve Bakanlık tarafından yapılan incelemede bunların gerçek
+üretim yaptığının tespit edilmesi hâlinde hak ettikleri destekleme
+ödemeleri yapılır. Yapılan ödemelere faiz işletilmez, masraf veya ek
+ödeme adı altında herhangi bir ödeme yapılmaz.
+
+Bu madde hükümlerinden yararlanmak üzere başvuruda bulunan ve madde
+hükmünden yararlananların, bu maddenin yürürlüğe girdiği tarihten önce
+destekleme ödemeleri ile ilgili olarak açmış oldukları davalar
+karşılıklı olarak sonlandırılır ve bu sebeple herhangi bir yargılama
+gideri ile vekâlet ücreti talep edilemez.
+
+Bu madde hükümlerinden yararlanmak üzere başvuruda bulunan ve açtıkları
+davalardan vazgeçenlerin bu ihtilaflarıyla ilgili olarak bu maddenin
+yürürlüğe girdiği tarihten sonra tebliğ edilen kararlar uyarınca işlem
+yapılmaz ve bu kararlar ile idare aleyhine hükmedilmiş yargılama
+giderleri ve vekâlet ücreti bulunması hâlinde bunlar idareden talep
+edilemez.
+
+**Yürürlük **
+
+**MADDE 25 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
+
+**Yürütme**
+
+**MADDE 26 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+9732-2
 
 **5488 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -598,6 +655,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5488 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   6455                                                                         23                                                            11/4/2013
+  6495                                                                         GEÇİCİ MADDE 3                                                2/8/2013
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
