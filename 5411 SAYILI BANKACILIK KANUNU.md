@@ -1,4 +1,5 @@
-**5472 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 22/2/2206 tarihli ve E.: 2006/20, K.: 2006/25
+sayılı Kararı ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -2877,14 +2878,8 @@ karşı yapılan başvuruları acele işlerden sayar.
 İlişkili Bakanlık, Kurulun düzenleyici nitelikteki kararlarına karşı
 iptal davası açabilir.
 
-Kurul kararlarına karşı açılacak idarî davalarda yürütmenin durdurulması
-talepleri için ayrıca duruşma yapılır. Bu halde 2577 sayılı İdarî
-Yargılama Usulü Kanununun 17 nci maddesinin (5) numaralı fıkrasındaki
-otuz günlük süre uygulanmaz. Yürütmenin durdurulması talepleri, Kurumun
-savunması alınmadan karara bağlanamaz. İlgili taraflar yürütmenin
-durdurulması talebinin kendisine tebliğ tarihinden itibaren yedi gün
-içinde savunmasını vermek zorundadır. Aksi halde savunma beklenmeksizin
-karar verilir.
+**(İptal üçüncü fıkra: Anayasa Mahkemesi’nin 22/2/2006 tarihli ve
+E.:2006/20, K.:2006/25 sayılı Kararı ile.)**
 
 **ONBİRİNCİ KISIM**
 
@@ -5982,6 +5977,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5411 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5472                                                                         13, 106, 107, 129, 136, Geçici Madde 24 ve 25                 14/3/2006
+  Anayasa Mah.nin E.: 2006/20, K.: 2006/25 sayılı Kararı                       105                                                           10/1/2007
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
