@@ -1,4 +1,6 @@
-**6527 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 2/10/2014 tarihli ve **
+
+**E.: 2014/149, K.: 2014/151 sayılı Kararı ile değişik hali**
 
 **İN­TER­NET OR­TAMIN­DA YA­PI­LAN YAYIN­LA­RIN **
 
@@ -115,8 +117,8 @@ bu­lun­dur­mak­la yü­küm­lü­dür.
 
 \(2) Yu­ka­rı­da­ki fık­ra­da be­lir­ti­len yü­küm­lü­lü­ğü ye­ri­ne
 ge­tir­me­yen içe­rik, yer ve­ya eri­şim sağ­la­yı­cı­sı­na Baş­kan­lık
-ta­ra­fın­dan iki­bin Ye­ni Türk Li­ra­sın­dan on­bin Ye­ni Türk
-Li­ra­sı­na ka­dar ida­rî pa­ra ce­za­sı ve­ri­lir.
+ta­ra­fın­dan iki bin Türk lirasından elli bin Türk lirasına ka­dar
+ida­rî pa­ra ce­za­sı ve­ri­lir. ^(1)^
 
 \(3) **(Ek: 6/2/2014-6518/86 md.)** Bu Kanun kapsamındaki faaliyetleri
 yurt içinden ya da yurt dışından yürütenlere, internet sayfalarındaki
@@ -124,10 +126,9 @@ iletişim araçları, alan adı, IP adresi ve benzeri kaynaklarla elde
 edilen bilgiler üzerinden elektronik posta veya diğer iletişim araçları
 ile bildirim yapılabilir.
 
-\(4) **(Ek: 26/2/2014-6527/16 md.)** Trafik bilgisi ancak bir suç
-soruşturması ve/veya kovuşturması kapsamında mahkemelerce talep edilmesi
-hâlinde Başkanlık tarafından içerik sağlayıcı, yer sağlayıcı ve/veya
-erişim sağlayıcıdan alınarak verilir.
+\(4) **(Ek: 26/2/2014-6527/16 md.; Değişik: 10/9/2014-6552/126 md.;
+İptal: Anayasa Mahkemesi’nin 2/10/2014 tarihli ve E.: 2014/149, K.:
+2014/151 sayılı Kararı ile.) ^(2)^**
 
 **İçe­rik sağ­la­yı­cı­nın so­rum­lu­lu­ğu **
 
@@ -165,6 +166,16 @@ yükümlüdür.
 belirlenecek usul ve esaslar çerçevesinde yaptıkları işin niteliğine
 göre sınıflandırılabilir ve hak ve yükümlülükleri itibarıyla
 farklılaştırılabilirler.
+
+^––––––––––––––––––––––^
+
+*(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 126 ncı maddesiyle, bu
+fıkrada yer alan “ikibin Yeni Türk Lirasından onbin Yeni Türk Lirasına”
+ibaresi “iki bin Türk lirasından elli bin Türk lirasına” şeklinde
+değiştirilmiştir.*
+
+*(2) Söz konusu İptal Kararı 1/1/2015 tarihli ve 29223 sayılı Resmi
+Gazete’de yayımlanmıştır.*
 
 10104-1
 
@@ -365,8 +376,8 @@ sağ­la­yı­cı­sı­na bil­di­ri­le­rek ge­re­ği­nin ye­ri­ne
 ge­ti­ril­me­si is­te­nir.^(1)^
 
 \(5) Eri­şi­min en­gel­len­me­si ka­ra­rı­nın ge­re­ği, der­hal ve en geç
-ka­ra­rın bil­di­ril­me­si anın­dan iti­ba­ren yir­mi­dört sa­at için­de
-ye­ri­ne ge­ti­ri­lir.
+ka­ra­rın bil­di­ril­me­si anın­dan iti­ba­ren ­dört sa­at için­de
+ye­ri­ne ge­ti­ri­lir. ^(2)^
 
 \(6) Baş­kan­lık ta­ra­fın­dan ve­ri­len eri­şi­min en­gel­len­me­si
 ka­ra­rı­nın ko­nu­su­nu oluş­tu­ran ya­yı­nı ya­pan­la­rın
@@ -394,7 +405,7 @@ kal­dı­rı­lır.
 ka­ra­rı­nın ge­re­ği­ni ye­ri­ne ge­tir­me­yen yer ve­ya eri­şim
 sağ­la­yı­cı­la­rı­nın so­rum­lu­la­rı, fi­il da­ha ağır ce­za­yı
 ge­rek­ti­ren baş­ka bir suç oluş­tur­ma­dı­ğı tak­dir­de, beş yüz
-günden üç bin güne kadar adli para cezası ile ce­za­lan­dı­rı­lır.^(2)^
+günden üç bin güne kadar adli para cezası ile ce­za­lan­dı­rı­lır.^(3)^
 
 \(11) İda­rî ted­bir ola­rak ve­ri­len eri­şi­min en­gel­len­me­si
 ka­ra­rı­nın ye­ri­ne ge­ti­ril­me­me­si ha­lin­de, Baş­kan­lık
@@ -411,7 +422,11 @@ ve­ri­le­bi­lir.
 *(1) 6518 sayılı Kanunun 92 nci maddesiyle bu fıkrada yer alan “(2) ve
 (5)” ibaresi “(2), (5) ve (6)” şeklinde değiştirilmiştir. *
 
-*(2) 6518 sayılı Kanunun 92 nci maddesiyle bu fıkrada yer alan “altı
+*(2) 10/9/2014 tarihli ve 6552 sayılı Kanunun 127 nci maddesiyle, bu
+fıkrada yer alan “yirmi dört saat” ibaresi “dört saat” şeklinde
+değiştirilmiştir.*
+
+*(3) 6518 sayılı Kanunun 92 nci maddesiyle bu fıkrada yer alan “altı
 aydan iki yıla kadar hapis cezası” ibaresi “beş yüz günden üç bin güne
 kadar adli para cezası” şeklinde değiştirilmiştir.*
 
@@ -443,7 +458,11 @@ hâkim kararı birden fazla sulh ceza mahkemesi bulunan yerlerde Hâkimler
 ve Savcılar Yüksek Kurulu tarafından belirlenen sulh ceza mahkemeleri
 tarafından verilir.
 
-**İçeriğin yayından çıkarılması ve erişimin engellenmesi^(1)^**
+\(16) **(Ek: 10/9/2014-6552/127 md.; İptal: Anayasa Mahkemesi’nin
+2/10/2014 tarihli ve E.: 2014/149, K.: 2014/151 sayılı Kararı ile.)
+^(1)^**
+
+**İçeriğin yayından çıkarılması ve erişimin engellenmesi^(2)^**
 
 **MAD­DE 9-** **(Değişik: 6/2/2014-6518/93 md.)**
 
@@ -487,7 +506,10 @@ durumunda hâkim kararı kendiliğinden hükümsüz kalır.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) Bu maddenin başlığı “İçe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı ve
+*(1) Söz konusu İptal Kararı 1/1/2015 tarihli ve 29223 sayılı Resmi
+Gazete’de yayımlanmıştır.*
+
+*(2) Bu maddenin başlığı “İçe­ri­ğin ya­yın­dan çı­ka­rıl­ma­sı ve
 ce­vap hak­kı” iken 6518 sayılı Kanunun 93 üncü maddesiyle metne
 işlendiği şekilde değiştirilmiştir.*
 
@@ -1054,13 +1076,16 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **5651 sayılı Kanunun değişen veya iptal edilen maddeleri**                                          **Yürürlüğe Giriş Tarihi**
-  5809                                                                              8, Ek Madde 1 ve Geçici Madde 2, (I) Sayılı Liste                                                    10/11/2008
-  KHK/661                                                                           Ek Madde 1                                                                                           2/11/2011
-  6495                                                                              8                                                                                                    2/8/2013
-  6518                                                                              2, 3, 4, 5, 6, 6/A, 7, 8, 9, 9/A, 10, 11, Ek Madde 1, Ek Madde 2, (I) sayılı liste, Geçici Madde 3   19/2/2014
-  6527                                                                              2, 3, 8, 9/A                                                                                         1/3/2014
-  --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ----------------------------
+  -------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                          **5651 sayılı Kanunun değişen veya iptal edilen maddeleri**                                          **Yürürlüğe Giriş Tarihi**
+  5809                                                                                                     8, Ek Madde 1 ve Geçici Madde 2, (I) Sayılı Liste                                                    10/11/2008
+  KHK/661                                                                                                  Ek Madde 1                                                                                           2/11/2011
+  6495                                                                                                     8                                                                                                    2/8/2013
+  6518                                                                                                     2, 3, 4, 5, 6, 6/A, 7, 8, 9, 9/A, 10, 11, Ek Madde 1, Ek Madde 2, (I) sayılı liste, Geçici Madde 3   19/2/2014
+  6527                                                                                                     2, 3, 8, 9/A                                                                                         1/3/2014
+  6552                                                                                                     3, 8                                                                                                 11/9/2014
+  Anayasa Mahkemesi’nin 2/10/2014 tarihli ve E.: 2014/149, K.: 2014/14(Yürürlüğü Durdurma) sayılı Kararı   3,8                                                                                                  9/10/2014
+  Anayasa Mahkemesi’nin 2/10/2014 tarihli ve E.: 2014/149, K.: 2014/151 sayılı Kararı                      3, 8                                                                                                 1/1/2015
+  -------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ----------------------------
 
 
