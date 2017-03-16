@@ -1,4 +1,4 @@
-**5951 sayılı Kanun ile değişik hali**
+**5997 sayılı kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -2378,14 +2378,16 @@ ve uzman erbaşlar. 90
 14\) Emniyet ve polis mesleğinde, Asaleti onaylanmış olmak şartıyla
 adaylıkta geçirilen
 
-Milli İstihbarat Teşkilâtında süreler dahil polis, komiser yardımcısı,
-komiser,
+Milli İstihbarat Teşkilâtında ^(1)^ süreler dahil polis memuru, başpolis
+memuru ve
+
+kıdemli başpolis memuru, komiser yardımcısı, komiser,
 
 baş komiser, emniyet amiri, emniyet müdürleri ile 90
 
 bu ve daha yukarı maaş ve derecelerdeki emniyet
 
-mensupları, Milli İstihbarat Teşkilâtı mensupları.
+mensupları, Milli İstihbarat Teşkilâtı mensupları.^(1)^
 
  
 
@@ -2432,6 +2434,12 @@ personel mevzuatına göre aylıksız izin süreleri,
 d\) Sigortalı olmaksızın doktora öğrenimi veya tıpta uzmanlık için yurt
 içinde veya yurt dışında geçirdikleri normal doktora veya uzmanlık
 öğrenim süreleri,
+
+––––––––––––––
+
+*(1) 16/6/2010 tarihli ve 5997 sayılı Kanunun 6 ncı maddesiyle, bu
+bentte yer alan “polis,” ibaresi “polis memuru, başpolis memuru ve
+kıdemli başpolis memuru,” olarak değiştirilmiş ve metne işlenmiştir.*
 
 e\) Sigortalı olmaksızın avukatlık stajını yapanların normal staj
 süreleri,
@@ -3932,8 +3940,11 @@ olması,
 b\) 60 ıncı maddenin birinci fıkrasının (a) bendinin (2) numaralı alt
 bendi ile (g) bendine tabi olan genel sağlık sigortalısı ve bakmakla
 yükümlü olduğu kişilerin yukarıdaki bentte sayılan şartla birlikte,
-sağlık hizmeti sunucusuna başvurduğu tarihte 60 günden fazla prim ve
-prime ilişkin her türlü borcunun bulunmaması,
+sağlık hizmeti sunucusuna başvurduğu tarihte 21/7/1953 tarihli ve 6183
+sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci
+maddesine göre tecil ve taksitlendirilerek tecil ve taksitlendirmeleri
+devam edenler hariç 60 günden fazla prim ve prime ilişkin her türlü
+borcunun bulunmaması, ^(2)^
 
 c\) 60 ıncı maddenin birinci fıkrasının (b) ve (d) bentlerine tabi olan
 genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin yukarıdaki
@@ -3947,6 +3958,13 @@ tarihte prim ve prime ilişkin her türlü borcunun bulunmaması,
 *(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle, bu
 bentte yer alan “tedavisi mümkün olmadığı” ibaresi “tedavisinin
 yapılamadığı” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+*(2) 16/6/2010 tarihli ve 5997 sayılı Kanunun 9 uncu maddesiyle, bu
+bentte yer alan “60 günden fazla prim ve prime ilişkin” ibaresi
+“21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
+Hakkında Kanunun 48 inci maddesine göre tecil ve taksitlendirilerek
+tecil ve taksitlendirmeleri devam edenler hariç 60 günden fazla prim ve
+prime ilişkin” olarak değiştirilmiş ve metne işlenmiştir.*
 
 Ancak, genel sağlık sigortalısının bakmakla yükümlü olduğu kişi
 kapsamından çıkanların genel sağlık sigortalısı olduğu tarihten itibaren
@@ -4239,12 +4257,8 @@ uygulanmaz ve bu fıkra kapsamında değerlendirilmez.
 Kamu idaresi sağlık hizmeti sunucuları ise otelcilik hizmeti ile
 dördüncü fıkrada belirtilen istisnai sağlık hizmetleri dışında,
 sağladıkları sağlık hizmetleri için genel sağlık sigortalısı ve bakmakla
-yükümlü olduğu kişilerden ilave ücret talep edemez. Aksine bir hüküm
-bulunmadığı sürece, kamu idaresi ve vakıf üniversitesi sağlık hizmeti
-sunucularında 4/11/1981 tarih ve 2547 sayılı Yüksek Öğretim Kanununda
-tanımlanan öğretim üyeleri tarafından sunulan sağlık hizmetleri için bu
-fıkra hükmü uygulanmaz, Kurum öğretim üyeleri için alınacak ilave ücret
-için bir tavan belirleyebilir.
+yükümlü olduğu kişilerden ilave ücret talep edemez. **(Mülga ikinci
+cümle: 21/1/2010-5947/19 md.) (…)**
 
 Sözleşmeli sağlık hizmeti sunucuları, Kurumca belirlenmiş standartların
 üstündeki talepleri karşılayan otelcilik hizmetleri ile hayati öneme
@@ -6327,10 +6341,10 @@ primler, sigorta primlerinin hesabında esas alınan en alt kazanç sınırı
 
 yürürlükten kaldırılmıştır.
 
-18/6/1992 tarihli ve 3816 sayılı Kanun bu Kanunun yürürlük tarihinden
-itibaren iki yıl sonra, 506 sayılı Kanunun ek 36 ncı ve geçici 20 nci
-maddeleri ise bu Kanunun geçici 20 nci maddesinde belirtilen devir
-işlemlerinin tamamlanmasından sonra yürürlükten kaldırılmıştır.
+18/6/1992 tarihli ve 3816 sayılı Kanun 1/1/2012 tarihinde, 506 sayılı
+Kanunun ek 36 ncı ve geçici 20 nci maddeleri ise bu Kanunun geçici 20
+nci maddesinde belirtilen devir işlemlerinin tamamlanmasından sonra
+yürürlükten kaldırılmıştır. ^(1)^
 
 **Yönetmelikler**
 
@@ -6367,6 +6381,13 @@ bildirimlerini en geç on gün içinde Kuruma yaparlar.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça çıkarılacak
 yönetmelikle belirlenir.
 
+–––––––––––––––
+
+*(1) 16/6/2010 tarihli ve 5997 sayılı Kanunun 7 nci maddesiyle, bu
+fıkrada yer alan “bu Kanunun yürürlük tarihinden itibaren iki yıl
+sonra,” ibaresi “1/1/2012 tarihinde,” olarak değiştirilmiş ve metne
+işlenmiştir.*
+
 **EK MADDE 2 –** **(Ek: 11/8/2009-5921/3 md.)**
 
 Yatırımlarda Devlet yardımları hakkında kararlar çerçevesinde teşvik
@@ -6390,6 +6411,90 @@ gecikme zammı, işverenden tahsil edilir.
 
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Hazine Müsteşarlığı
 tarafından belirlenir.
+
+**EK MADDE 3 –** **(Ek: 21/1/2010-5947/14 md.)**
+
+4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları
+ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye
+Hakkında Kanunun 5 inci maddesi (altıncı fıkra kapsamında ek ödeme
+alanlar ile diğer kurumlardan vekaleten atama veya görevlendirme
+suretiyle Sağlık Bakanlığında görevlendirilenler hariç) gereğince döner
+sermaye gelirlerinden ek ödeme alan ve aynı zamanda bu Kanunun 4 üncü
+maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı
+bulunanlardan; tabip ve diş tabipleri ile tıpta uzmanlık mevzuatına göre
+uzman olanlar, sigorta priminin işveren payı dahil tamamını kendileri
+ödemek kaydıyla, 209 sayılı Kanunun ek 3 üncü maddesine göre kendilerine
+ödenen tutar üzerinden malullük, yaşlılık ve ölüm sigortasıyla sınırlı
+olacak şekilde ilave olarak sigorta primine tabi tutulur. Ancak, bu
+şekilde ilave olarak sigorta primine tabi tutulacak kazancın tutarı, bu
+haktan yararlanacakların tamamı açısından 80 inci maddenin üçüncü
+fıkrasına göre belirlenecek sigorta primine esas kazanç toplamı ile 82
+nci maddenin birinci fıkrasında belirtilen sigorta primine esas kazanç
+üst sınırı arasındaki farkı geçemez.
+
+Bu şekilde ilave prim ödemesinde bulunanlardan malullük, yaşlılık,
+vazife malullüğü veya emeklilik aylığı ya da sürekli tam iş göremezlik
+geliri bağlanmasına hak kazananlara; ilave olarak ödedikleri her yıla
+ait sigorta prim matrahının, kazancın ait olduğu yıldan itibaren söz
+konusu aylık veya geliri talep ettiği tarihe kadar geçen yıllar için her
+yıl gerçekleşen güncelleme katsayısı ile güncellenerek bulunan kazançlar
+toplamının, ilave prim ödedikleri gün sayısına bölünmesi sonucu
+bulunacak ortalama günlük kazancın otuz katının, ilave prim ödedikleri
+gün sayısının her 360 günü için % 2'si oranında bulunacak tutarda ilave
+aylık ödenir. Bu hesaplamada, 360 günden eksik süreler orantılı olarak
+dikkate alınır. Sigortalının ölmesi halinde ise, bu fıkra çerçevesinde
+hesaplanacak ilave aylık geçici 18 inci madde hükümleri saklı kalmak
+kaydıyla, geçici 4 üncü madde kapsamında bulunan sigortalıların aylığa
+müstahak dul ve yetimleri için geçici 4 üncü madde hükümlerine, diğer
+sigortalıların hak sahipleri için ise 34 ve 54 üncü madde hükümlerine
+göre ödenir. Bu şekilde ilave aylık alan kız çocuğunun 37 nci madde
+uyarınca evlenme ödeneğine hak kazanması durumda, aynı madde hükümleri
+çerçevesinde ilave evlenme ödeneği ödenir.
+
+İlave aylıklar, 55 inci maddenin ikinci fıkrası uyarınca artırılır.
+
+Bu şekilde ilave prim ödemesinde bulunanlardan 31 inci madde ve geçici 4
+üncü madde uyarınca toptan ödeme yapılan veya emeklilik kesenekleri geri
+verilenlere; ilave olarak ödedikleri sigorta primlerinin her yıla ait
+tutarı, primlerin ait olduğu yıldan itibaren yazılı istek tarihine kadar
+geçen yıllar için, her yıl gerçekleşen güncelleme katsayısı ile
+güncellenerek bulunacak tutarda ilave toptan ödeme yapılır. Sigortalının
+ölmesi halinde ise, bu fıkra çerçevesinde hesaplanacak ilave toptan
+ödeme, geçici 4 üncü madde kapsamında bulunan sigortalıların aylığa
+müstahak dul ve yetimlerine geçici 4 üncü madde hükümlerine, diğer
+sigortalıların hak sahiplerine ise 34 üncü madde hükümlerine göre
+ödenir.
+
+İlave aylıkların başlangıcı, kesilmesi ve yeniden bağlanmasında geçici 4
+üncü madde kapsamına girenler için geçici 4 üncü madde hükümleri,
+diğerleri için ise 27, 30 ve 34 üncü madde hükümleri kıyasen uygulanır.
+Ancak, geçici 4 üncü madde kapsamında veya 30 uncu maddenin üçüncü
+fıkrası kapsamında aylıklarının kesilmesi sebebiyle ilave aylıkları da
+kesilmiş olanlardan birinci fıkra kapsamında yeniden ilave sigorta primi
+ödemiş ve yeniden aylık bağlanmasına hak kazanmış olanların yeni ilave
+aylığı, eski aylığın kesildiği tarihten yeniden ilave aylık bağlanacak
+tarihe kadar 55 inci maddenin ikinci fıkrasına göre aylıklara yapılan
+artışlar uygulanarak bulunacak tutara, yeniden ilave sigorta primi
+ödediği süreler için ikinci fıkraya göre hesaplanacak ilave aylığın
+eklenmesi suretiyle tespit olunur.
+
+Birinci fıkra gereğince ilave sigorta primi kesilmesine, 209 sayılı
+Kanunun ek 3 üncü maddesine göre ek ödeme verilecek ilk aybaşında
+başlanır. Bu şekilde ilave sigorta primi alınacakların sigorta primleri
+için ayrı bir bildirge düzenlenir. Ancak, bu bildirgelerin verilme ve
+primlerin ödeme zamanının tespitinde genel hükümlere uygun olarak işlem
+tesis edilir.
+
+Malullük, yaşlılık ve ölüm sigortası için bu madde hükümlerine göre
+sigorta primi ödenen süreler, prim ödeme gün sayısı, sigortalılık süresi
+ve prime esas kazanç hesabına dahil edilemez. Ödenen prim tutarları ve
+bildirilen kazanç tutarları ise emekli ikramiyesi, iş sonu tazminatı ve
+kıdem tazminatı da dahil olmak üzere bu maddede belirtilmeyen herhangi
+bir hakkın elde edilmesinde veya hesabında dikkate alınmaz.
+
+Bu madde kapsamında ödenen sigorta primleri daha sonra geri talep
+edilemez ve bu Kanunun ihya hükümleri ilave aylıklar hakkında
+uygulanmaz.
 
 **Malûllük, yaşlılık ve ölüm sigortasına ilişkin bazı geçiş hükümleri**
 
@@ -6577,6 +6682,9 @@ devamı, ihya ve borçlanmaları, diğer ödemeler ve yardımlar ile emeklilik
 ikramiyeleri hakkında bu Kanunla yürürlükten kaldırılan hükümleri de
 dahil 5434 sayılı Kanun hükümlerine göre işlem yapılır ve bu maddenin
 uygulanmasında mülga 2829 sayılı Kanun hükümleri ayrıca dikkate alınır.
+**(Ek cümle: 16/6/2010-5997/10 md.)** Ancak, Polis Akademisinde öğrenim
+görmekte olan öğrencilerin yetim aylıkları bu öğrenimleri süresince
+kesilmeksizin ödenmeye devam edilir.
 
 Bu Kanunun yürürlüğe girdiği tarihten önce 5434 sayılı Kanun hükümlerine
 tabi olarak çalışmaya başlamış olup, çalışmaya başlamadan önce ilgili
@@ -7198,7 +7306,7 @@ yürürlüğe girdiği tarihten önce başlayan, ancak, bu Kanunun yürürlüğe
 girdiği tarihten sonra faturalandırılan tedavi giderleri Kurum
 tarafından karşılanır.
 
-Bu Kanunun yürürlük tarihinden itibaren iki yıl süresince bu Kanunun 60
+Bu Kanunun yürürlük tarihinden 1/1/2012 tarihine kadar bu Kanunun 60
 ıncı maddesinin birinci fıkrasının (c) bendinin (1) numaralı alt bendi
 uygulanmaz. Bu sürede, 18/6/1992 tarihli ve 3816 sayılı Kanun kapsamında
 yeşil kart verilen ve verilecek kişiler durumlarında değişiklik olmaması
@@ -7215,7 +7323,11 @@ kişiler için 82 nci maddeye göre belirlenen prime esas günlük kazanç alt
 sınırının otuz günlük tutarı; asgari   ücretin   iki  katından  fazla
  olduğu  tespit  edilen  kişiler  için  82 nci  maddeye  göre belirlenen
 prime esas günlük kazanç alt sınırının otuz günlük tutarının iki katı
-prime esas asgari kazanç tutarı olarak esas alınır.
+prime esas asgari kazanç tutarı olarak esas alınır. **(Ek cümle:
+16/6/2010-5997/8 md.)** 1/1/2012 tarihine kadar bu Kanunun
+uygulanmasında Kurumca talep edilen aile içindeki kişi başına düşen
+gelir tutarlarının tespiti kararları, gerekli araştırma ve inceleme
+yapıldıktan sonra, il ve ilçe idare kurulları tarafından verilir. ^(1)^
 
 60 ıncı maddenin birinci fıkrasının (d) ve (g) bentleri gereğince
 sigortalı sayılanlar, bu Kanunun yürürlüğe girdiği tarihten itibaren en
@@ -7223,10 +7335,11 @@ geç iki yıl içinde bildirimlerini yapmak zorundadır. Bu süre içinde, 60
 ıncı maddenin birinci fıkrasının (d) ve (g) bentleri gereğince genel
 sağlık sigortalısı sayılanlardan; tescil talebi olmayanların 18 yaşından
 küçük çocuklarının sağlık hizmetlerinden yararlandırılması halinde bu
-kişilerin tescili çocuklarının sağlık hizmet sunucusuna müracaat tarihi
-itibarıyla yapılır. Ancak, aile hekimliği uygulamasına başlanan illerde,
-bu kişiler iki yıllık süreye bakılmaksızın genel sağlık sigortalısı ve
-bakmakla yükümlü olduğu kişi olarak kapsama alınır.
+kişiler Kurumca tescil edildikleri tarih itibarıyla genel sağlık
+sigortalısı olurlar. Ancak, aile hekimliği uygulamasına başlanan
+illerde, bu kişiler iki yıllık süreye bakılmaksızın genel sağlık
+sigortalısı ve bakmakla yükümlü olduğu kişi olarak Kurumca tescil
+edildikleri tarih itibarıyla kapsama alınır. ^(2)^
 
 Aile hekimleri tarafından başlatılan sevk zincirine uygun olarak alınan
 sağlık hizmetlerinde 68 inci maddenin ikinci fıkrasında belirtilen
@@ -7277,6 +7390,21 @@ vadeli sigorta kollarına tâbi değildir.
 
 Sigortalıların sigortalı olduklarını ayrıca Kuruma bildirme
 sorumlulukları yoktur.
+
+–––––––––––––––
+
+*(1) 16/6/2010 tarihli ve 5997 sayılı Kanunun 7 nci maddesiyle, bu
+fıkrada yer alan “itibaren iki yıl süresince” ibaresi “1/1/2012 tarihine
+kadar” olarak değiştirilmiş ve metne işlenmiştir.*
+
+*(2) 16/6/2010 tarihli ve 5997 sayılı Kanunun 8 inci maddesiyle, bu
+fıkrada yer alan “bu kişilerin tescili çocuklarının sağlık hizmet
+sunucusuna müracaat tarihi itibarıyla yapılır” ibaresi “bu kişiler
+Kurumca tescil edildikleri tarih itibarıyla genel sağlık sigortalısı
+olurlar” şeklinde, “bakmakla yükümlü olduğu kişi olarak kapsama alınır”
+ibaresi ise “bakmakla yükümlü olduğu kişi olarak Kurumca tescil
+edildikleri tarih itibarıyla kapsama alınır” olarak değiştirilmiş ve
+metne işlenmiştir.*
 
 Türkiye İş Kurumu tarafından ilk iş kaybı tazminatının ödendiği tarihi
 takip eden ay sonu itibarıyla, iş kaybı tazminatı alanlara ilişkin
@@ -7481,6 +7609,10 @@ yapılan atıflar sebebiyle 2330 sayılı Kanun esas alınarak ilgililerine
 aylık, tazminat ve ek ödeme verilmesi ile yardım işlemleri hakkında, bu
 Kanunla yürürlükten kaldırılan maddeleri dahil 5434 sayılı Kanunun
 ilgili hükümlerinin uygulanmasına devam edilir.
+
+**(Ek fıkra: 16/6/2010-5997/11 md.)** Polis Akademisinde öğrenim
+görmekte olan öğrencilerin yetim aylıkları bu öğrenimleri süresince
+kesilmeksizin ödenmeye devam edilir.
 
 Bu madde kapsamına girenler için yukarıdaki fıkralar gereğince Kurumun
 yükleneceği ilâve giderler, ödeme tarihinden itibaren en geç iki ay
@@ -7930,6 +8062,24 @@ e\) Birinci fıkranın (a), (b) ve (c) bentlerinde belirtilen şekilde
 artırılan gelir ve aylıklar, 2010 yılında bu maddede belirtilen artışlar
 dışında 55 inci maddeye göre ayrıca artırılmaz.
 
+**GEÇİCİ MADDE 27-** **(Ek: 16/6/2010-5997/12 md.)**
+
+1479 sayılı Kanunun mülga 50 nci maddesine göre belirlenmesi gereken
+sigortalıların ödeyecekleri primler ile bağlanacak aylıkların hesabına
+esas gelir basamakları kendinden önceki dönemde yürürlükte bulunan gelir
+basamakları esas alınarak;
+
+1/4/2002 – 30/6/2002 döneminde % 32,32,
+
+1/7/2002 – 31/3/2003 döneminde % 17,89,
+
+1/4/2003 – 30/6/2003 döneminde % 20,
+
+1/7/2003 – 31/12/2003 döneminde % 16,5,
+
+oranında artırılarak belirlenir. Bu dönemlerde 1479 sayılı Kanunun mülga
+50 nci maddesinin ikinci cümlesi uygulanmaz.
+
 **Yürürlük**
 
 **MADDE 108-** **(Değişik: 17/4/2008-5754/74 md.) **
@@ -8020,6 +8170,22 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5921                                                                               Ek Madde 2                                                                 18/8/2009
 
   5951                                                                               Geçici Madde 26                                                            1/1/2010 tarihinden geçerli olmak üzere 5/2/2010
+
+  5947                                                                               73                                                                         30/1/2011
+                                                                                                                                                                
+                                                                                     Ek Madde 3                                                                 30/8/2010
   ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- ----------------------------------------------------
+
+  ----------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
+  **Değiştiren **                                                   **5510 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                                  
+  **Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**                                                                 
+
+  5997                                                              40, 67, 106, Geçici Madde 12/4                                19/6/2010
+                                                                                                                                  
+                                                                    Geçici Madde 4, Geçici Madde 12/4,12/5, Geçici Madde 18       1/10/2008 tarihinden geçerli olmak üzere 19/6/2010
+                                                                                                                                  
+                                                                    Geçici Madde 27                                               1/4/2002 tarihinden geçerli olmak üzere 19/6/2010
+  ----------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
 
 
