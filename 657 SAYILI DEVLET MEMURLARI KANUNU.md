@@ -1,4 +1,4 @@
-**6354 sayılı Kanun ile değişik hali **
+**6338 sayılı Kanun ile değişik hali **
 
  
 
@@ -574,100 +574,104 @@ kovuşturma yapılması ve haklarında dava açılması özel hükümlere tabidi
 
  
 
-             İsnat ve iftiralara karşı koruma:
+            İsnat ve iftiralara karşı koruma:
 
-**             Madde 25 –** Devlet memurları hakkındaki ihbar ve
-şikayetler, garaz veya mücerret hakaret için, uydurma bir suç isnadı
-suretiyle yapıldığı ve soruşturma veya yargılamanın tabi olduğu kanuni
-işlem sonucunda bu isnat sabit olmadığı takdirde, merkezde bu memurun en
-büyük amiri, illerde valiler, isnatta bulunanlar hakkında kamu davası
-açılmasını Cumhuriyet Savcılığından isterler.
+**Madde 25 –** Devlet memurları hakkındaki ihbar ve şikayetler, garaz
+veya mücerret hakaret için, uydurma bir suç isnadı suretiyle yapıldığı
+ve soruşturma veya yargılamanın tabi olduğu kanuni işlem sonucunda bu
+isnat sabit olmadığı takdirde, merkezde bu memurun en büyük amiri,
+illerde valiler, isnatta bulunanlar hakkında kamu davası açılmasını
+Cumhuriyet Savcılığından isterler.
 
-                                                                    
 BÖLÜM: 4
 
-                                                                       
 Yasaklar
 
-             Toplu eylem ve hareketlerde bulunma yasağı:
+Toplu eylem ve hareketlerde bulunma yasağı:
 
-**            ** [[]{#OLE_LINK6 .anchor}]{#OLE_LINK5 .anchor}**Madde 26
-– (Değişik: 12/5/1982 - 2670/10 md.)**
+[[]{#OLE_LINK6 .anchor}]{#OLE_LINK5 .anchor}**Madde 26 – (Değişik:
+12/5/1982 - 2670/10 md.)**
 
-             **(Mülga birinci fıkra: 13/2/2011-6111/117 md.)**
+**(Mülga birinci fıkra: 13/2/2011-6111/117 md.)**
 
-             Devlet memurlarının kamu hizmetlerini aksatacak şekilde
-memurluktan kasıtlı olarak birlikte çekilmeleri veya görevlerine
-gelmemeleri veya görevlerine gelipte Devlet hizmetlerinin ve işlerinin
-yavaşlatılması veya aksatılması sonucunu doğuracak eylem ve hareketlerde
-bulunmaları yasaktır.
-
-             Grev yasağı:
-
-**             Madde 27 –** Devlet memurlarının greve karar vermeleri,
-grev tertiplemeleri, ilan etmeleri, bu yolda propaganda yapmaları
+Devlet memurlarının kamu hizmetlerini aksatacak şekilde memurluktan
+kasıtlı olarak birlikte çekilmeleri veya görevlerine gelmemeleri veya
+görevlerine gelipte Devlet hizmetlerinin ve işlerinin yavaşlatılması
+veya aksatılması sonucunu doğuracak eylem ve hareketlerde bulunmaları
 yasaktır.
 
-             Devlet memurları, harhangi bir greve veya grev teşebbüsüne
-katılamaz, grevi destekliyemez veya teşvik edemezler.
+Grev yasağı:
 
-            Ticaret ve diğer kazanç getirici faaliyetlerde bulunma
-yasağı:
+**Madde 27 –** Devlet memurlarının greve karar vermeleri, grev
+tertiplemeleri, ilan etmeleri, bu yolda propaganda yapmaları yasaktır.
 
-**             Madde 28 – (Değişik: 30/5/1974 - KHK - 12; Değiştirilerek
-kabul: 15/5/1975 - 1897/1 md.)**
+Devlet memurları, harhangi bir greve veya grev teşebbüsüne katılamaz,
+grevi destekliyemez veya teşvik edemezler.
 
-             Memurlar Türk Ticaret Kanununa göre (Tacir) veya (Esnaf)
-sayılmalarını gerektirecek bir faaliyette bulunamaz, ticaret ve sanayi
-müesseselerinde görev alamaz, ticari mümessil veya ticari vekil veya
-kollektif şirketlerde ortak veya komandit şirkette komandite ortak
-olamazlar. (Görevli oldukları kurumların iştiraklerinde kurumlarını
-temsilen alacakları görevler hariç). **(Ek cümle: 8/8/2011-KHK-650/38
-md.)** Memurlar, meslekî faaliyette veya serbest meslek icrasında
-bulunmak üzere ofis, büro, muayenehane ve benzeri yerler açamaz; gerçek
-kişilere, özel hukuk tüzel kişilerine veya kamu kurumu niteliğindeki
-meslek kuruluşlarına ait herhangi bir işyerinde veya vakıf
-üniversitelerinde çalışamaz.
+Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı:^(1)^
 
-             **(Değişik ikinci fıkra: 8/8/2011-KHK-650/38 md.)**
-Memurların üyesi oldukları yapı, kalkınma ve tüketim kooperatifleri,
-kamu kurumu niteliğindeki meslek kuruluşları ve kanunla kurulmuş yardım
+**Madde 28 – (Değişik: 30/5/1974 - KHK - 12; Değiştirilerek kabul:
+15/5/1975 - 1897/1 md.)**
+
+Memurlar Türk Ticaret Kanununa göre (Tacir) veya (Esnaf) sayılmalarını
+gerektirecek bir faaliyette bulunamaz, ticaret ve sanayi müesseselerinde
+görev alamaz, ticari mümessil veya ticari vekil veya kollektif
+şirketlerde ortak veya komandit şirkette komandite ortak olamazlar.
+(Görevli oldukları kurumların iştiraklerinde kurumlarını temsilen
+alacakları görevler hariç). **(Ek cümle: 8/8/2011-KHK-650/38 md.)**
+Memurlar, meslekî faaliyette veya serbest meslek icrasında bulunmak
+üzere ofis, büro, muayenehane ve benzeri yerler açamaz; gerçek kişilere,
+özel hukuk tüzel kişilerine veya kamu kurumu niteliğindeki meslek
+kuruluşlarına ait herhangi bir işyerinde veya vakıf üniversitelerinde
+çalışamaz.
+
+**(Değişik ikinci fıkra: 8/8/2011-KHK-650/38 md.)** Memurların üyesi
+oldukları yapı, kalkınma ve tüketim kooperatifleri, kamu kurumu
+niteliğindeki meslek kuruluşları ve kanunla kurulmuş yardım
 sandıklarının yönetim, denetim ve disiplin kurulları üyelikleri
 görevleri, özel kanunlarda belirtilen görevler ile kurumundan izin
 alınmak kaydıyla yapılan insanî ve sosyal amaçlı gönüllü çalışmalar bu
 yasaklamanın dışındadır.
 
-             Eşleri, reşit olmayan veya mahcur olan çocukları,
-yasaklanan faaliyetlerde bulunan memurlar bu durumu 15 gün içinde bağlı
-oldukları kuruma bildirmekle yükümlüdürler,
+Eşleri, reşit olmayan veya mahcur olan çocukları, yasaklanan
+faaliyetlerde bulunan memurlar bu durumu 15 gün içinde bağlı oldukları
+kuruma bildirmekle yükümlüdürler,
 
-             Hediye alma, menfaat sağlama yasağı:
+Hediye alma, menfaat sağlama yasağı:
 
-             **Madde 29 –** Devlet memurlarının doğrudan doğruya veya
-aracı eliyle hediye istemeleri ve görevleri sırasında olmasa dahi
-menfaat sağlama amacı ile hediye kabul etmeleri veya iş sahiplerinden
-borç para istemeleri ve almaları yasaktır.
+**Madde 29 –** Devlet memurlarının doğrudan doğruya veya aracı eliyle
+hediye istemeleri ve görevleri sırasında olmasa dahi menfaat sağlama
+amacı ile hediye kabul etmeleri veya iş sahiplerinden borç para
+istemeleri ve almaları yasaktır.
 
-             **(Ek fıkra: 25/5/2004-5176/9 md.)** Kamu Görevlileri Etik
-Kurulu, hediye alma yasağının kapsamını belirlemeye ve en az genel müdür
-veya eşiti seviyedeki üst düzey kamu görevlilerince alınan hediyelerin
+**(Ek fıkra: 25/5/2004-5176/9 md.)** Kamu Görevlileri Etik Kurulu,
+hediye alma yasağının kapsamını belirlemeye ve en az genel müdür veya
+eşiti seviyedeki üst düzey kamu görevlilerince alınan hediyelerin
 listesini gerektiğinde her takvim yılı sonunda bu görevlilerden istemeye
 yetkilidir.
 
-             Denetimindeki teşebbüsten menfaat sağlama yasağı:
+Denetimindeki teşebbüsten menfaat sağlama yasağı:
 
-             **Madde 30 –** Devlet memurunun, denetimi altında bulunan
-veya kendi görevi veya mensup olduğu kurum ile ilgisi olan bir
-teşebbüsten, doğrudan doğruya veya aracı eliyle her ne ad altında olursa
-olsun bir menfaat sağlaması yasaktır.
+**Madde 30 –** Devlet memurunun, denetimi altında bulunan veya kendi
+görevi veya mensup olduğu kurum ile ilgisi olan bir teşebbüsten,
+doğrudan doğruya veya aracı eliyle her ne ad altında olursa olsun bir
+menfaat sağlaması yasaktır.
 
-             Gizli bilgileri açıklama yasağı:
+Gizli bilgileri açıklama yasağı:
 
-**             Madde 31 – (Değişik: 12/5/1982 - 2670/11 md.)**
+**Madde 31 – (Değişik: 12/5/1982 - 2670/11 md.)**
 
-             Devlet memurlarının kamu hizmetleri ile ilgili gizli
-bilgileri görevlerinden ayrılmış bile olsalar, yetkili bakanın yazılı
-izni olmadıkça açıklamaları yasaktır.
+Devlet memurlarının kamu hizmetleri ile ilgili gizli bilgileri
+görevlerinden ayrılmış bile olsalar, yetkili bakanın yazılı izni
+olmadıkça açıklamaları yasaktır.
+
+\_\_\_\_\_\_\_\_\_\_
+
+\(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
+sayılı Kararı ile bu maddenin birinci fıkrasının son cümlesi ile ikinci
+fıkrası iptal edilmiş olup iptal hükmünün, kararın Resmî Gazete’de
+yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe
+girmesi hüküm altına alınmıştır.
 
 4186
 
@@ -5733,99 +5737,98 @@ maddesine bakınız.*
 
 4228-11
 
- 
+Katsayılardaki değişiklik aylıklarda artış veya eksiliş sayılmaz.
 
-             Katsayılardaki değişiklik aylıklarda artış veya eksiliş
-sayılmaz.
+*Memurlara ödenecek aylık tutarları:*
 
-             Memurlara ödenecek aylık tutarları:
+**Madde 155 – (Değişik: 31/7/1970 - 1327/56 md.)**
 
-**             Madde 155 – (Değişik: 31/7/1970 - 1327/56 md.)**
+Bu kanunun 36 ncı maddesinde yer alan sınıflara ait gösterge
+tablosundaki rakamların, genel bütçe kanununda o yıl için tespit edilen
+katsayı ile çarpılması sonunda bulunacak miktar, sınıfların derece ve
+kademelerindeki memurların aylık tutarlarını gösterir.
 
-             Bu kanunun 36 ncı maddesinde yer alan sınıflara ait
-gösterge tablosundaki rakamların, genel bütçe kanununda o yıl için
-tespit edilen katsayı ile çarpılması sonunda bulunacak miktar,
-sınıfların derece ve kademelerindeki memurların aylık tutarlarını
-gösterir.
+*Yurt dışında aylıklar: ^(1)^*
 
-             Yurt dışında aylıklar:
+**Madde 156 – (Değişik: 31/7/1970 - 1327/57 md.)**
 
-**             Madde 156 – (Değişik: 31/7/1970 - 1327/57 md.)**
-
-             Kurumların yurt dışı kuruluşlarına dahil kadrolarında görev
-alan Devlet memurlarının aylıkları, 155 inci maddeye göre tespit edilen
-aylık tutarından, alınacak vergi ve kanunlar gereğince yapılacak bütün
-kesintiler indirildikten sonra (Kefalet Sandığı kesintileri hariç) kalan
-kısmın, Devlet Personel Başkanlığı Dışişleri ve Maliye bakanlıklarının
+Kurumların yurt dışı kuruluşlarına dahil kadrolarında görev alan Devlet
+memurlarının aylıkları, 155 inci maddeye göre tespit edilen brüt aylık
+tutarın, Devlet Personel Başkanlığı Dışişleri ve Maliye bakanlıklarının
 görüşüne dayanılarak Bakanlar Kurulu tarafından tespit edilecek emsal
 ile çarpılmasından hasıl olacak miktar üzerinden ödenir. Asıl aylığın
 ödeme miktarı ile emsali tutarı arasındaki fark, her türlü vergiden
 müstesnadır.
 
-             Bu emsal her yıl Bütçe Kanununda gösterilir.
+**(Mülga ikinci fıkra: 29/6/2012-6338/3 md.)**
 
-             Dış memleketler aylık katsayısı:
+*Dış memleketler aylık katsayısı:*
 
-**             Madde 157 – (Değişik: 23/12/1972 - KHK 2/1 md.)**
+**Madde 157 – (Değişik: 23/12/1972 - KHK 2/1 md.)**
 
-             156 ncı maddede yazılı katsayılar her yabancı memleketin
-ekonomik durumu, para ve geçim şartları ile memurun temsil görevi ve
-aile yükümlülüğü gözönünde tutulmak suretiyle saptanır ve aynı usul
-uyarınca değiştirilir.
+156 ncı maddede yazılı katsayılar her yabancı memleketin ekonomik
+durumu, para ve geçim şartları ile memurun temsil görevi ve aile
+yükümlülüğü gözönünde tutulmak suretiyle saptanır ve aynı usul uyarınca
+değiştirilir.
 
-             Adayların aylıkları:
+*Adayların aylıkları:*
 
-**             Madde 158 – (Değişik: 30/5/1974 - KHK/12; Aynen kabul:
-15/5/1975 - 1897/1 md.)**
+**Madde 158 – (Değişik: 30/5/1974 - KHK/12; Aynen kabul: 15/5/1975 -
+1897/1 md.)**
 
-             Herhangi bir sınıfta aday olarak göreve başlayanlar bu
-Kanunun 54 üncü maddesindeki esaslara göre, girecekleri derecenin hak
-edecekleri kademe aylığını alırlar.
+Herhangi bir sınıfta aday olarak göreve başlayanlar bu Kanunun 54 üncü
+maddesindeki esaslara göre, girecekleri derecenin hak edecekleri kademe
+aylığını alırlar.
 
-             Aday memurlara, asaletleri tasdik edilinceye kadar kademe
-ilerlemesi uygulanmaz.
+Aday memurlara, asaletleri tasdik edilinceye kadar kademe ilerlemesi
+uygulanmaz.
 
-             Asaleti onaylanan memurların kademe ilerlemeleri:
+*Asaleti onaylanan memurların kademe ilerlemeleri:*
 
-**             Madde 159 – (Değişik: 30/5/1974 - KHK/12; Aynen kabul:
-15/5/1975 - 1897/1 md.) **
+**Madde 159 – (Değişik: 30/5/1974 - KHK/12; Aynen kabul: 15/5/1975 -
+1897/1 md.) **
 
-             Adaylık süresi sonunda bu Kanun hükümlerine göre asıl
-memurluğa atananların adaylıkta geçirdikleri süreler, kademe
-ilerlemelerinde ve derece yükselmelerinde değerlendirilir.
+Adaylık süresi sonunda bu Kanun hükümlerine göre asıl memurluğa
+atananların adaylıkta geçirdikleri süreler, kademe ilerlemelerinde ve
+derece yükselmelerinde değerlendirilir.
 
-             Kademe ilerlemesinde verilecek aylık:
+*Kademe ilerlemesinde verilecek aylık:*
 
-             **Madde 160 –** Kademe ilerlemesinde memur bir ileri
-kademeye ait göstergeye tekabül eden aylığı alır.
+**Madde 160 –** Kademe ilerlemesinde memur bir ileri kademeye ait
+göstergeye tekabül eden aylığı alır.
 
-             **(Mülga ikinci fıkra: 13/2/2011-6111/117 md.)**
+**(Mülga ikinci fıkra: 13/2/2011-6111/117 md.)**
 
-             Derece değişikliğinde verilecek aylık:
+*Derece değişikliğinde verilecek aylık:*
 
-**             Madde 161 – (Değişik: 12/2/1982 - 2595/10 md.)**
+**Madde 161 – (Değişik: 12/2/1982 - 2595/10 md.)**
 
-             Derece yükselmesi veya daha aşağı bir dereceye atama
-halinde,
+Derece yükselmesi veya daha aşağı bir dereceye atama halinde,
 
-             A) **(Değişik: 26/6/1984 - KHK 241/8 md.)** Bulunduğu
-dereceden yukarı derecelere atanan memur;
+A\) **(Değişik: 26/6/1984 - KHK 241/8 md.)** Bulunduğu dereceden yukarı
+derecelere atanan memur;
 
-             a) 68 nci maddenin (B) bendi hükümleri saklı kalmak
-kaydıyla, yeni girdiği derecenin ilk kademe göstergesine,
+a\) 68 nci maddenin (B) bendi hükümleri saklı kalmak kaydıyla, yeni
+girdiği derecenin ilk kademe göstergesine,
 
-             b) Yeni girdiği derecenin ilk kademe göstergesi evvelce
-iktisap ettiği göstergeden düşük ise, iktisap ettiği göstergeye eşit
-olan kademenin göstergesine,
+b\) Yeni girdiği derecenin ilk kademe göstergesi evvelce iktisap ettiği
+göstergeden düşük ise, iktisap ettiği göstergeye eşit olan kademenin
+göstergesine,
 
-             Tekabül eden aylığı alır.
+Tekabül eden aylığı alır.
 
-             Alt derecede eşit göstergeli kademede geçirilen süre
-dikkate alınır.
+Alt derecede eşit göstergeli kademede geçirilen süre dikkate alınır.
 
-             B) Kazanılmış hak aylık derecelerinden daha aşağı bir
-dereceye atanan memur, kazanılmış hak aylık dereceleri saklı kalmak
-kaydıyla,
+B\) Kazanılmış hak aylık derecelerinden daha aşağı bir dereceye atanan
+memur, kazanılmış hak aylık dereceleri saklı kalmak kaydıyla,
+
+––––––––––––––––––––
+
+*(1) 29/6/2012 tarihli ve 6338 sayılı Kanunun 3 üncü maddesiyle, bu
+maddenin birinci fıkrasında yer alan “aylık tutarından, alınacak vergi
+ve kanunlar gereğince yapılacak bütün kesintiler indirildikten sonra
+(Kefalet Sandığı kesintileri hariç) kalan kısmın,” ibaresi “brüt aylık
+tutarın,” şeklinde değiştirilmiştir.*
 
 4229
 
@@ -9495,14 +9498,14 @@ devamına bakınız.***
   (…)^(46)^ ^(23)^ (…)^(46)\ (29)^ (…) ^(17)^ , (…)^(46)\ (37)^, (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
   (…)^(46)^ (…)^(46)^ (…)^(46)\ (45)^ (…)^(46)^ (…)^(46)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      3        1000                         1200
   (…)^(46)^ (…)^(46)(30)^ (…)^(46)\ (33)^ (…)^(46)\ (34)^ (…)^(46)\ (41)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-  Enerji ve Tabii Kaynaklar Uzmanları,^(44)^ **(Ek İbare:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                4        900                          1100
-  19/6/1994-KHK-543)** En az üç yıl süreli Yüksek Öğretim veren Fakülte                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-  veya Yüksekokulu bitirerek yapılacak sınav sonucunda denetmen yardımcısı                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               5        800                          900
-  kadrolarına atanmış ve en az üç yıl bu kadrolarda çalıştıktan sonra bu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-  süredeki çalışmaları olumlu bulunmak kaydıyla (…)^(46)^ (..) ^(32)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    6        700                          800
-  (…)^(46)^ Ürün Denetmenleri ^(30)^, Gümrük ve Ticaret                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-  Denetmenleri,^(43)^ Defterdarlık Uzmanları ^(38)\ ,^ (…)^(27)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               7        450                          500
-  ^(40)\ (6)^(…)^(46)^(…)^(46)^kadrosuna atanmış olanlar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+  (…)^(46)^ ^(44)^ **(Ek İbare: 19/6/1994-KHK-543)** En az üç yıl süreli                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 4        900                          1100
+  Yüksek Öğretim veren Fakülte veya Yüksekokulu bitirerek yapılacak sınav                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+  sonucunda denetmen yardımcısı kadrolarına atanmış ve en az üç yıl bu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   5        800                          900
+  kadrolarda çalıştıktan sonra bu süredeki çalışmaları olumlu bulunmak                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+  kaydıyla (…)^(46)^ (..) ^(32)^ (…)^(46)^ Ürün Denetmenleri ^(30)^,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     6        700                          800
+  Gümrük ve Ticaret Denetmenleri,^(43)^ Defterdarlık Uzmanları ^(38)\ ,^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+  (…)^(27)^ (…)^(46)^ ^(40)\ (6)^(…)^(46)^(…)^(46)^kadrosuna atanmış                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     7        450                          500
+  olanlar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          8        400                          450
    ^(1)(10)(20)(25)(26)(27)(28)(29)(30)(31)(32)(33)(34)\ (39)(40)(41)(43)(44)(45)(46)\ ^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
@@ -13836,3 +13839,5 @@ fıkraları                                
 6353 59 12/7/2012
 
 6354 88 12/7/2012
+
+6338 156 1/1/2013
