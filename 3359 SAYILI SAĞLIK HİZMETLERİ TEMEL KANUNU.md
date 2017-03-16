@@ -1,4 +1,4 @@
-**6428 sayılı Kanun ile değişik hali**
+**6462 sayılı Kanun ile değişik hali**
 
  
 
@@ -12,7 +12,7 @@
 
           Yayımlandığı R.Gazete    : Tarih : 15/5/1987   Sayı : 19461
 
-          Yayımlandığı Düstur         : Tertip : 5   Cilt : 26   Sayfa :
+          Yayımlandığı Düstur         : Tertip : 5   Cilt : 26  
 
  
 
@@ -120,11 +120,11 @@ olsa ilaç ve terkiplerin bilimsel araştırma amacıyla Sağlık ve Sosyal
 Yardım Bakanlığı ve ilgili kişinin rızası olmadan insan üzerinde
 kullanımı yasaktır.
 
-             l) **(Ek: 30/5/1997 - KHK - 572/24 md.)** Özürlü çocuk
+             l) **(Ek: 30/5/1997 - KHK - 572/24 md.)** Engelli çocuk
 doğumlarının önlenmesi için, gebelik öncesi ve gebelik döneminde tıbbi
 ve eğitsel çalışmalar yapılır. Yeni doğan bebeklerin metabolizma
 hastalıkları için gerekli olan testlerden geçirilerek risk taşıyanların
-belirlenmesine ilişkin tedbirler alınır.
+belirlenmesine ilişkin tedbirler alınır.^(1)^
 
 m\) **(Ek: 1/7/2005-5378/34 md.)** Rehabilite edici tıbbi hizmetlerde
 kullanılan yardımcı araç ve gereçleri üretmek amacıyla, kamu kurum ve
@@ -143,6 +143,11 @@ maddede sayılan hizmet ve esasları bu sistem içerisinde gerçekleştirmek
 
              **(İkinci fıkra iptal: Ana.Mah. 19.4.1988 tarih ve E.
 1987/16, K. 1988/8 sayılı Kararıyla.)**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
+bentte yer alan “Özürlü” ibaresi “Engelli” olarak değiştirilmiştir.*
 
 6947
 
@@ -747,6 +752,8 @@ yürüttükleri görevlere ait kadro unvanlarına göre atamaları yapılır.
   6354                              Ek Madde 1, Ek Madde 9                        12/7/2012
 
   6428                              Ek Madde 7                                    9/3/2013
+
+  6462                              3                                             3/5/2013
   --------------------------------- --------------------------------------------- ----------------------------
 
 
