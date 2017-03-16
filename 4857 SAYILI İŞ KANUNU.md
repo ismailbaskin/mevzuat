@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 6111 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 665 sayılı KHK ile Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -937,19 +937,20 @@ statülerine tabi personeli için de uygulanır. Bu fıkranın uygulanmasına
 ilişkin usul ve esaslar Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik
 Bakanlığı ve Hazine Müsteşarlığı tarafından müştereken belirlenir. [^3]
 
-Bu maddeye aykırılık hallerinde 101 inci madde uyarınca tahsil edilecek
-cezalar, özürlülerin ve eski hükümlülerin mesleki eğitim ve mesleki
-rehabilitasyonu, kendi işini kurmaları, özürlünün iş bulmasını
-sağlayacak destek teknolojileri ve bu gibi projelerde kullanılır. Tahsil
-edilen cezaların kullanımına ilişkin hususlar, Türkiye İş Kurumu Genel
-Müdürlüğünün koordinatörlüğünde, Çalışma ve Sosyal Güvenlik Bakanlığı
-Çalışma Genel Müdürlüğü, Çalışma ve Sosyal Güvenlik Bakanlığı İş Sağlığı
-ve Güvenliği Genel Müdürlüğü, Özürlüler İdaresi Başkanlığı, Adalet
-Bakanlığı Ceza ve Tevkif Evleri Genel Müdürlüğü ve Türkiye Sakatlar
-Konfederasyonu ile en çok işçi ve işvereni temsil eden üst kuruluşların
-birer temsilcilerinden oluşan komisyon tarafından karara bağlanır.
-Komisyonun çalışma usul ve esasları Çalışma ve Sosyal Güvenlik
-Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+**(Değişik fıkra:11/10/2011-KHK/665/28 md.)** Bu maddeye aykırılık
+hallerinde 101 inci madde uyarınca tahsil edilecek cezalar, özürlülerin
+ve eski hükümlülerin kendi işini kurmaları, özürlünün iş bulmasını
+sağlayacak destek teknolojileri, özürlünün işe yerleştirilmesi, işe ve
+işyerine uyumunun sağlanması ve bu gibi projelerde kullanılır. Tahsil
+edilen cezaların kullanımına ilişkin hususlar, Türkiye İş Kurumunun
+koordinatörlüğünde, Çalışma ve Sosyal Güvenlik Bakanlığı Çalışma Genel
+Müdürlüğü ile İş Sağlığı ve Güvenliği Genel Müdürlüğü, Aile ve Sosyal
+Politikalar Bakanlığı Özürlü ve Yaşlı Hizmetleri Genel Müdürlüğü, Adalet
+Bakanlığı Ceza ve Tevkif Evleri Genel Müdürlüğü, en çok işçi ve işvereni
+temsil eden üst kuruluşların ve en çok özürlüyü temsil eden üst
+kuruluşun birer temsilcisinden oluşan komisyon tarafından karara
+bağlanır. Komisyonun çalışma usul ve esasları Çalışma ve Sosyal Güvenlik
+Bakanlığınca çıkarılan yönetmelikle düzenlenir.
 
 Eski hükümlü çalıştırılmasında, kanunlardaki kamu güvenliği ile ilgili
 hizmetlere ilişkin özel hükümler saklıdır.
@@ -2727,6 +2728,10 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     6111              25/2/2011                 25/2/2011                                                  -                                        74, 91, 92, 108
                                                                                                                                                          
                            (1. Mükerrer)                                                                                                                 
+
+  1.     KHK/665           2/11/2011                 2/11/2011                                                  -                                        30
+                                                                                                                                                         
+                           (Mükerrer)                                                                                                                    
   ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- --------------------------------------------------
 
 [^1]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
