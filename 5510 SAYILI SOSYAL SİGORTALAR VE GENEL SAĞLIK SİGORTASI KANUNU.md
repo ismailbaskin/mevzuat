@@ -1,4 +1,4 @@
-**5763 sayılı Kanun ile değişik hali**
+**5797 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -4507,6 +4507,15 @@ i\) 88 inci maddenin dördüncü fıkrasına göre ay içerisinde 30 günden az
 prim ödeme gün sayılarına ait eksik günlerin genel sağlık sigortası
 primleri, eksik çalışma süreleri dikkate alınmak suretiyle hesaplanır.
 
+j\) **(Ek: 31/7/2008-5797/1 md.)** Milli Eğitim Bakanlığına bağlı her
+derece ve türdeki örgün ve yaygın eğitim kurumlarında ek ders ücreti
+karşılığında ilgili mevzuatı çerçevesinde uzman ve usta öğretici olarak
+çalıştırılanların prim ödeme gün sayısı 30 günü aşmamak kaydıyla, bir
+takvim ayı içerisinde hak kazandıkları brüt ek ders ücreti toplam
+tutarının, prime esas günlük kazanç alt sınırına bölünmesi sonucu
+bulunur. Bu şekilde yapılacak hesaplamalarda tam sayıdan sonraki
+küsuratlar dikkate alınmaz.
+
 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki
 sigortalıların prime esas kazançları aşağıdaki şekilde belirlenir.
 
@@ -4713,10 +4722,12 @@ gecikme zammı borcu bulunmaması şarttır. Ancak Kuruma olan prim, idari
 para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı
 borçlarını 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil
 Usulü Hakkında Kanunun 48 inci maddesine göre tecil ve taksitlendiren
-işverenler ile 29/7/2003 tarihli ve 4958 sayılı Sosyal Güvenlik Prim
+işverenler ile 29/7/2003 tarihli ve 4958 sayılı Sosyal Sigortalar Kurumu
+Kanununa ve 22/2/2006 tarihli ve 5458 sayılı Sosyal Güvenlik Prim
 Alacaklarının Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik
-Yapılması Hakkında Kanuna göre yapılandıran işverenler bu tecil ve
-taksitlendirme ile yapılandırmaları devam ettiği sürece bu fıkra
+Yapılması Hakkında Kanun ile diğer taksitlendirme ve yapılandırma
+Kanunlarına göre taksitlendiren ve yapılandıran işverenler bu tecil,
+taksitlendirme ve yapılandırmaları devam ettiği sürece bu fıkra
 hükmünden yararlandırılır. Bu fıkra hükümleri Kamu idareleri işyerleri
 ile bu Kanuna göre sosyal güvenlik destek primine tabi çalışanlar ve
 yurt dışında çalışan sigortalılar hakkında uygulanmaz. Hazinece
@@ -4728,10 +4739,39 @@ yararlanamaz. Bu durumda, işverenlerin tercihleri dikkate alınmak
 suretiyle uygulama, destek unsurlarından sadece biriyle sınırlı olarak
 yapılır. Bu Kanun gereğince yapılan kontrol ve denetimlerde çalıştırdığı
 kişileri sigortalı olarak bildirmediği tespit edilen işverenler bir yıl
-süreyle bu fıkrayla sağlanan destek unsurlarından yararlanamaz. Bu
-fıkranın uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığı ile
-Çalışma ve Sosyal Güvenlik Bakanlığı ve Hazine Müsteşarlığı tarafından
-müştereken belirlenir.
+süreyle bu fıkrayla sağlanan destek unsurlarından yararlanamaz. **(Ek
+cümle: 31/7/2008-5797/2 md.)** Bu fıkrada düzenlenen teşvik, kamu
+idareleri hariç bu Kanunun 4 üncü maddesinin birinci fıkrasının (a)
+bendi kapsamındaki sigortalılara ilişkin matrah, oran ve esaslar
+üzerinden 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki
+sandıkların statülerine tabi personel için de uygulanır. Bu fıkranın
+uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığı ile Çalışma ve
+Sosyal Güvenlik Bakanlığı ve Hazine Müsteşarlığı tarafından müştereken
+belirlenir. ^(2)^
+
+*––––––––––––––––––*
+
+*(1) Bu bent; Anayasa Mahkemesi’nin 15/12/2006 tarihli, E.:2006/111,
+K.:2006/112 sayılı Kararı ile Kanunun 4 üncü maddesinin birinci
+fıkrasının (c) bendi kapsamındaki sigortalılar yönünden iptal edilmiş
+olup, İptal Kararının Resmi Gazete’de yayımlanacağı güne kadar,
+15/12/2006 tarihli ve E:2006/111, K:2006/36 (Yürürlüğü Durdurma) sayılı
+Karar ile Yürürlüğü Durdurulmuştur, sözkonusu iptal kararı için
+30/12/2006 tarihli ve 26392(5. Mükerrer) sayılı Resmi Gazete’ye
+bakınız.*
+
+*(2) 31/7/2008 tarihli ve 5797 sayılı Kanunun 2 nci maddesiyle, bu
+bentte yer alan "29/7/2003 tarihli ve 4958 sayılı Sosyal Güvenlik Prim
+Alacaklarının Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik
+Yapılması Hakkında Kanuna göre yapılandırılan işverenler bu tecil ve
+taksitlendirme ile yapılandırmaları devam ettiği sürece" ibaresi
+"29/7/2003 tarihli ve 4958 sayılı Sosyal Sigortalar Kurumu Kanununa ve
+22/2/2006 tarihli ve 5458 sayılı Sosyal Güvenlik Prim Alacaklarının
+Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik Yapılması
+Hakkında Kanun ile diğer taksitlendirme ve yapılandırma Kanunlarına göre
+taksitlendiren ve yapılandıran işverenler bu tecil, taksitlendirme ve
+yapılandırmaları devam ettiği sürece" şeklinde değiştirilmiş ve metne
+işlenmiştir.*
 
 **(Değişik ikinci fıkra: 17/4/2008-5754/48 md.)** Devlet, Kurumun ay
 itibarıyla tahsil ettiği malûllük, yaşlılık ve ölüm sigortaları ile
@@ -4749,17 +4789,6 @@ Günlük kazançları yukarıdaki fıkrada belirtilen alt sınırın altında ol
 sigortalılar ile ücretsiz çalışan sigortalıların günlük kazançları alt
 sınır üzerinden, günlük kazançları üst sınırdan fazla olan
 sigortalıların günlük kazançları da üst sınır üzerinden hesaplanır.
-
-*––––––––––––––––––*
-
-*(1) Bu bent; Anayasa Mahkemesi’nin 15/12/2006 tarihli, E.:2006/111,
-K.:2006/112 sayılı Kararı ile Kanunun 4 üncü maddesinin birinci
-fıkrasının (c) bendi kapsamındaki sigortalılar yönünden iptal edilmiş
-olup, İptal Kararının Resmi Gazete’de yayımlanacağı güne kadar,
-15/12/2006 tarihli ve E:2006/111, K:2006/36 (Yürürlüğü Durdurma) sayılı
-Karar ile Yürürlüğü Durdurulmuştur, sözkonusu iptal kararı için
-30/12/2006 tarihli ve 26392(5. Mükerrer) sayılı Resmi Gazete’ye
-bakınız.*
 
 İkinci fıkraya göre sigortalının kazancı alt sınırın altında ise bu
 kazanç ile alt sınır arasındaki farka ait sigorta primleri ile ücretsiz
@@ -4933,6 +4962,22 @@ katıldıkları her toplantı günü için (2500) gösterge rakamının memur
 aylıklarının hesabında kullanılan katsayı ile çarpılarak bulunacak
 tutarı üzerinden huzur hakkı Kurumca ödenir.
 
+–––––––––––––––
+
+*(1) Bu madde başlığı “Asgarî işçilik uygulaması” iken, 17/4/2008
+tarihli ve 5754 sayılı Kanunun 49 uncu maddesiyle metne işlendiği
+şekilde değiştirilmiştir.*
+
+*(2) 17/4/2008 tarihli ve 5754 sayılı Kanunun 49 uncu maddesiyle, bu
+fıkrada yer alan “döner sermayeli kuruluşlar,” ibaresinden sonra gelmek
+üzere “kanunla kurulan kurum ve kuruluşlar” ibaresi eklenmiş ve metne
+işlenmiştir.*
+
+*(3) 17/4/2008 tarihli ve 5754 sayılı Kanunun 49 uncu maddesiyle, bu
+fıkrada yer alan “döner sermayeli kuruluşlar,” ibaresinden sonra gelmek
+üzere “kanunla kurulan kurum ve kuruluşlar” ibaresi eklenmiş ve metne
+işlenmiştir.*
+
 **(Ek fıkra: 17/4/2008-5754/49 md.)** Kurumun denetim ve kontrolle
 görevli memurları tarafından devamlı mahiyetteki işyerlerinde yapılan
 asgari işçilik incelemesi sonucunda tespiti yapılan ve sigortalılara
@@ -4951,22 +4996,6 @@ bozulur ve uzlaşılan tutarlar kazanılmış hak teşkil etmez. Uzlaşmanın
 temin edilememiş veya uzlaşma müzakeresinde uzlaşmaya varılamamış olması
 veya uzlaşmanın bozulması hallerinde işveren, bu konuya ilişkin daha
 sonra uzlaşma talep edemez.
-
-–––––––––––––––
-
-*(1) Bu madde başlığı “Asgarî işçilik uygulaması” iken, 17/4/2008
-tarihli ve 5754 sayılı Kanunun 49 uncu maddesiyle metne işlendiği
-şekilde değiştirilmiştir.*
-
-*(2) 17/4/2008 tarihli ve 5754 sayılı Kanunun 49 uncu maddesiyle, bu
-fıkrada yer alan “döner sermayeli kuruluşlar,” ibaresinden sonra gelmek
-üzere “kanunla kurulan kurum ve kuruluşlar” ibaresi eklenmiş ve metne
-işlenmiştir.*
-
-*(3) 17/4/2008 tarihli ve 5754 sayılı Kanunun 49 uncu maddesiyle, bu
-fıkrada yer alan “döner sermayeli kuruluşlar,” ibaresinden sonra gelmek
-üzere “kanunla kurulan kurum ve kuruluşlar” ibaresi eklenmiş ve metne
-işlenmiştir.*
 
 **(Ek fıkra: 17/4/2008-5754/49 md.)** Uzlaşma neticesinde indirim
 yapılması nedeniyle tahsil edilmemiş olan sigorta primlerinin daha sonra
@@ -6457,12 +6486,15 @@ yürürlüğe girdiği tarih itibarıyla bu Kanunun 4 üncü maddesinin birinci
 fıkrasının (c) bendi kapsamına alınanların kesenek ve karşılıkları,
 fiili hizmet zammı ve itibari hizmet süresi karşılıkları ile %100 artış
 farkları hakkında 5434 sayılı Kanunun bu Kanunun yürürlüğe girmeden
-önceki hükümleri uyarınca işlem yapılır. Kurumlarınca bu kapsamdaki
-sigortalılar için her ay emekli keseneklerine  esas  aylıklarının %
-12’si  oranında  ayrıca  genel  sağlık sigortası primi ödenir. Bunlar
-için Kanunun 81 inci maddesinin (h) fıkrası uyarınca ödenecek ek
-karşılıkların hesabında, genel sağlık sigortası primi tutarları dikkate
-alınmaz.
+önceki hükümleri uyarınca işlem yapılır. **(Değişik ikinci cümle:
+31/7/2008-5797/3 md.)** Geçici 12 nci maddenin ikinci fıkrası uyarınca
+kamu idarelerinin sağlık hizmetlerinin sağlanmasına ilişkin görevlerinin
+Kurum tarafından devralındığı tarihten itibaren, kamu idarelerince bu
+kapsamdaki sigortalılar için her ay emekli keseneklerine esas
+aylıklarının % 12’si oranında ayrıca genel sağlık sigortası primi
+ödenir. Bunlar için Kanunun 81 inci maddesinin (h) fıkrası uyarınca
+ödenecek ek karşılıkların hesabında, genel sağlık sigortası primi
+tutarları dikkate alınmaz.
 
 5434 sayılı Kanuna göre ödenen aylıklar ile bu madde kapsamında
 bağlanacak aylıklar, memur maaş katsayılarındaki artışlara göre
@@ -7014,7 +7046,7 @@ karnesinin Kurumca verilmesine devam edilir.
 Kamu idarelerinin sağlık hizmetlerinin sağlanmasına ilişkin görevleri,
 yürürlükten kaldırılan kanunlardaki hak ve yükümlülükler çerçevesinde
 ilgili kayıt ve işlemler Kurum tarafından devralınan tarihe kadar devam
-eder. Ancak bu süre altı ayı geçemez.
+eder. Devir süreci üç yıl içinde tamamlanır. ^(3)^
 
 ––––––––––––––
 
@@ -7025,6 +7057,10 @@ dördüncü” şeklinde değiştirilmiş ve metne işlenmiştir.*
 *(2) 17/4/2008 tarihli ve 5754 sayılı Kanunun 72 nci maddesiyle, bu
 fıkrada yer alan “birinci fıkrasının (b) ve (c) bentleri” ibaresi “(b)
 bendi” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+*(3) 31/7/2008 tarihli ve 5797 sayılı Kanunun 11 inci maddesiyle, bu
+fıkrada yer alan "Ancak bu süre altı ayı geçemez" ibaresi "Devir süreci
+üç yıl içinde tamamlanır" şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 Kişilerin yürürlükten kaldırılan kanun hükümleri gereğince hak ettikleri
 sağlık hizmetleri, bu Kanun hükümleri gereğince kapsama alınmamış ise
@@ -7213,10 +7249,9 @@ daha önce ödemiş oldukları gelir basamaklarına karşılık gelen tutarlar
 Ancak, bu tutarlar 82 nci maddede belirtilen asgari günlük kazanç alt
 sınırına göre hesaplanan aylık prime esas kazanç tutarından az olamaz.
 
-**Kendi adına ve hesabına tarımsal faaliyette bulunan sigortalılar,
-Milli Eğitim Bakanlığı tarafından düzenlenen kurslarda usta öğretici
-olarak çalıştırılanlar ile esnaf muaflığından yararlanan kadın
-sigortalılara ilişkin geçiş hükümleri ^(1)^**
+**Kendi adına ve hesabına tarımsal faaliyette bulunan sigortalılar
+(…)^(2)^ ile esnaf muaflığından yararlanan kadın sigortalılara ilişkin
+geçiş hükümleri ^(1)(2)^**
 
 **GEÇİCİ MADDE 16-** **(Değişik: 17/4/2008-5754/73 md.) **
 
@@ -7229,16 +7264,7 @@ maddenin yürürlüğe girdiği yıl için “onbeş” olarak uygulanır ve pri
 esas günlük kazancın otuz katını geçmemek üzere takip eden her yıl için
 bir puan artırılır.
 
-**(Ek fıkra: 15/5/2008-5763/25 md.)** Bu maddenin yürürlüğe girdiği
-tarihten önce, 4 üncü maddenin ikinci fıkrasının (f) bendinde belirtilen
-Milli Eğitim Bakanlığı tarafından düzenlenen kurslarda usta öğretici
-olarak çalıştırılanların, bu maddenin yürürlük tarihinden sonra 51 inci
-maddenin üçüncü fıkrasına göre zorunlu sigortalılıklarına ilişkin prim
-ödeme gün sayılarına ilaveten ödeyecekleri isteğe bağlı sigorta
-primleri, 82 nci maddeye göre belirlenen prime esas günlük kazanç alt
-sınırının yarısı olarak esas alınır. Bu sigortalıların prime esas kazanç
-alt sınırı dışında bir kazanç üzerinden prim ödemeleri halinde, alt
-sınırın yarısı ile alt sınırı aşan tutarın toplamı esas alınır.
+**(Ek fıkra: 15/5/2008-5763/25 md.; Mülga: 31/7/2008-5797/11 md.) **
 
 **(Ek fıkra: 15/5/2008-5763/25 md.)** Bu maddenin yürürlüğe girdiği
 tarihten önce, 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun
@@ -7308,7 +7334,12 @@ halinde, aradaki fark ayrıca ödenir.
 *(1) Bu madde başlığı “Kendi adına ve hesabına tarımsal faaliyette
 bulunan sigortalılara ilişkin geçiş hükmü” iken, 15/5/2008 tarihli ve
 5763 sayılı Kanunun 25 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
+değiştirilmiştir. *
+
+*(2) 31/7/2008 tarihli ve 5797 sayılı Kanunun 11 inci maddesiyle; bu
+başlıkta yer alan ",Milli Eğitim Bakanlığı tarafından düzenlenen
+kurslarda usta öğretici olarak çalıştırılanlar" ibaresi metinden
+çıkarılmıştır.*
 
 c\) 18/3/1924 tarihli ve 442 sayılı Kanunun ek 16 ncı maddesi, 24/2/1968
 tarihli ve 1005 sayılı Kanun, 3/11/1980 tarihli ve 2330 sayılı Kanun,
@@ -7681,6 +7712,39 @@ feragat etmeleri ve ihtilaf yaratmamaları şarttır.
 \(12) Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye
 Sosyal Güvenlik Kurumu yetkilidir.
 
+**GEÇİCİ MADDE 25-** **(Ek: 31/7/2008-5797/4 md.)**
+
+5510 sayılı Kanunun geçici 24 üncü maddesi kapsamına giren borçları
+anılan madde hükümlerine göre yapılandırılmamış olan işveren ve
+sigortalıların, bu maddenin yürürlüğe girdiği tarihten itibaren yirmi
+gün içinde yazılı olarak Kuruma başvurmaları kaydıyla, söz konusu madde
+kapsamına giren borçları bu maddede belirtilen şartlarla peşin veya
+oniki aya kadar taksitler halinde ödenir.
+
+Peşin ödeme yolunun tercih edilerek, başvuru tarihini takip eden ayın
+sonuna kadar borç aslının tamamının ve başvurunun yapıldığı ayın sonuna
+kadar sosyal güvenlik mevzuatının ilgili hükümlerine göre hesaplanan
+gecikme cezası ve gecikme zammının yüzde yirmisinin ödenmesi halinde,
+gecikme cezası ve gecikme zammının kalan yüzde sekseni terkin edilir.
+
+Taksitle ödeme yolunun tercih edilerek, borç aslının tamamının ve
+başvurunun yapıldığı ayın sonuna kadar sosyal güvenlik mevzuatının
+ilgili hükümlerine göre hesaplanan gecikme cezası ve gecikme zammının
+yüzde ellisini 12 aya kadar eşit taksitle ödemeleri halinde, gecikme
+cezası ve gecikme zammının kalan yüzde ellisi terkin edilir. İlk
+taksitin ödeme yükümlülüğü bu maddeye göre başvurunun yapıldığı ayı
+takip eden ayda başlar. Başlangıçta taksitle ödeme yolunun seçilip daha
+sonra taksitlendirilen borcun kalan kısmının peşin ödenmek istenmesi
+halinde, başlangıçta seçilen taksitlendirme süresine bağlı terkin oranı
+değiştirilmez.
+
+Geçici 24 üncü maddenin dördüncü, beşinci, altıncı, yedinci, sekizinci,
+dokuzuncu, onuncu ve onbirinci fıkraları bu maddeden yararlanmak için
+başvuranlar hakkında da uygulanır.
+
+Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Sosyal
+Güvenlik Kurumu yetkilidir.
+
 **Yürürlük**
 
 **MADDE 108-** **(Değişik: 17/4/2008-5754/74 md.) **
@@ -7753,6 +7817,12 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5763                                                                               Geçici Madde 23 ve 24                                                      26/5/2008
                                                                                                                                                                 
                                                                                      81 ve Geçici Madde 16                                                      1/10/2008
+
+  5797                                                                               Geçici Madde 4, 12, 16 ve 25                                               19/8/2008
+                                                                                                                                                                
+                                                                                     81                                                                         1/10/2008
+                                                                                                                                                                
+                                                                                     80                                                                         15/10/2008
   ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- -----------------------------
 
 
