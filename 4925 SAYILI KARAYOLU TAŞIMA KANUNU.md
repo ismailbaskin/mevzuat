@@ -1,4 +1,4 @@
-4925 sayılı Kanunun İlk Hali
+4925 sayılı Kanunun 5228 sayılı Kanun ile Değişik Hali
 
 **KARAYOLU TAŞIMA KANUNU** *^(1)^*
 
@@ -648,10 +648,13 @@ Bakanlığının görüşü alınarak hazırlanacak yönetmelikle düzenlenir.
 
 **Para cezalarının ödenme süresi**
 
-**MADDE 29. —** Tahsilatlar derhal yapılmadığı takdirde para cezalarının
-tutanağın tebliği tarihinden itibaren otuz gün içinde ödenmesi gerekir.
-Otuz gün içerisinde ödenmeyen cezalar iki katına çıkar ve ödeme süresi
-on gün daha uzar, bu süre içinde ödenmeyen cezalar üç katına çıkar.
+**MADDE 29. —** **(Değişik: 16/7/2004-5228/49 md.)** Ödeme derhal
+yapılmadığı takdirde para cezalarının, tutanağın tebliğ tarihinden
+itibaren bir ay içinde ödenmesi gerekir. Bir ay içinde ödenmeyen cezalar
+için her ay % 5 faiz uygulanır. Aylık faizin hesaplanmasında ay
+kesirleri tam ay sayılır. Bu suretle bulunacak tutar cezanın iki katını
+geçemez. İlgilisine tebliğ edilmeyen tutanakların tebliğinde 2918 sayılı
+Karayolları Trafik Kanununun 116 ncı maddesi hükümleri uygulanır.
 
 Süresinde ödenmeyen para cezaları için 6183 sayılı Amme Alacaklarının
 Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
@@ -805,3 +808,39 @@ zorundadırlar.
 **Yürütme**
 
 **MADDE 38. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **4925 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                             
+                                                                           **Resmi Gazete Tarihi**                                           
+
+  5228                       31/7/2004                                     31/7/2004                                                         29
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+
+
