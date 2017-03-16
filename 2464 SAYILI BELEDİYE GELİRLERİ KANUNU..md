@@ -1,4 +1,6 @@
-**6360 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesinin 29/12/2011 tarihli ve E.: 2010/62**
+
+**K.: 2011/175 sayılı Kararı ile değişik hali**
 
 []{#K80 .anchor}**BELEDİYE GELİRLERİ KANUNU**
 
@@ -1456,44 +1458,17 @@ yenilenir.
 
 *Vergi ve harç tarifelerinin tespiti:*
 
-**Madde 96 –** A) Bakanlar Kurulu, bu Kanunda en az ve en çok miktarları
-gösterilen aşağıda yazılı vergi ve harçların tarifelerini belediye
-grupları itibariyle tayin ve tespit eder: ^(1)^
+**Madde 96 –** A) **(Değişik: 24/5/2013-6487/16 md.)** Bakanlar Kurulu,
+bu Kanunda en az ve en çok miktarları gösterilen vergi ve harçların
+tarifelerini belediye grupları itibarıyla tayin ve tespit eder.
 
-1\. **(Mülga: 7/11/1984 - 3074/8 md.)**
-
-2\. Kaynak Suları Harcı,
-
-3\. Hayvan Kesimi Muayene ve Denetleme Harcı,
-
-4\. Ölçü ve Tartı Aletleri Muayene Harcı,
-
-5\. Kayıt ve Suret Harcı,
-
-6\. İmar Mevzuatı Gereğince Alınacak Harçlar, (Ticaret ve konut bölgeleri
-için ayrı ayrı).
-
-7\. Muayene, Ruhsat ve Rapor Harcı,
-
-8\. Sağlık Belgesi Harcı,
-
-9\. **(Ek: 21/1/1982 - 2589/2 md.)** Bina İnşaat Harcı.
-
-B\) Yukarda sayılanlar dışındaki vergi ve harçların maktu tarifeleri; bu
-Kanunda belirtilen en alt ve en üst sınırları aşmamak şartıyla mahallin
-çeşitli semtleri arasındaki sosyal ve ekonomik farklılıklar gözönünde
-tutularak belediye meclislerince tespit olunur.^(2)^
+B\) **(İptal: Anayasa Mahkemesi’nin 29/12/2011 tarihli ve E.: 2010/62 K.:
+2011/175 sayılı Kararı ile.)** ^(1)^
 
 ——————————
 
-*(1) Bakanlar Kurulunun bu konudaki 83/7539 sayılı Kararı için
-31/12/1983 tarih ve 18268 sayılı, 88/12514 sayılı Kararı için de,
-10/3/1988 tarih ve 19750 sayılı Resmi Gazetelere bakınız.*
-
-*(2) Anayasa Mahkemesinin 29/12/2011 tarihli ve E.: 2010/62 K.: 2011/175
-sayılı Kararı ile bu fıkra iptal edilmiş olup iptal hükmünün, kararın
-Resmî Gazete’de yayımlandığı 19/5/2012 tarihinden başlayarak bir yıl
-sonra yürürlüğe girmesi hüküm altına alınmıştır.*
+*(1) Sözkonusu İptal Kararı Resmî Gazete’de yayımlandığı 19/5/2012
+tarihinden başlayarak bir yıl sonra yürürlüğe girmiştir.*
 
 5272
 
@@ -1785,21 +1760,25 @@ tarihinde bütün neticeleri ile ortadan kalkar.
 
 5280
 
-  --------------------------------------------- ------------------------------------------------------------- --------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa **   **2464 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-                                                                                                              
-  **Mahkemesinin Kararının Numarası**                                                                         
+  ------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa **                                     **2464 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                
+  **Mahkemesi’nin Kararının Numarası**                                                                                                          
 
-  5602                                          19, 20, 21                                                    21/3/2007 tarihini izleyen aybaşında
+  5602                                                                            19, 20, 21                                                    21/3/2007 tarihini izleyen aybaşında
 
-  5679                                          Ek Madde 2, Madde 80                                          7/6/2007
+  5679                                                                            Ek Madde 2, Madde 80                                          7/6/2007
 
-  5784                                          35, 37, 39                                                    26/7/2008
+  5784                                                                            35, 37, 39                                                    26/7/2008
 
-  5917                                          Geçici Madde 6                                                10/7/2009
+  5917                                                                            Geçici Madde 6                                                10/7/2009
 
-  6360                                          86                                                            6/12/2012
-  --------------------------------------------- ------------------------------------------------------------- --------------------------------------
+  6360                                                                            86                                                            6/12/2012
+
+  Anayasa Mah.’nin 29/12/2011 tarihli ve E.: 2010/62 K.: 2011/175 sayılı Kararı   96/B                                                          19/5/2012 tarihinden başlayarak bir yıl sonra
+                                                                                                                                                
+                                                                                                                                                (19/5/2013)
+  ------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------
 
 5280-1
 
