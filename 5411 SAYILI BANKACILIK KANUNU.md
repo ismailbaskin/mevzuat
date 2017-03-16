@@ -1,5 +1,4 @@
-**Anayasa Mahkemesi’nin 9/3/2006 tarihli ve E.: 2006/33, K.: 2006/36
-sayılı Kararı ile değişik hali**
+**5667 sayılı Kanun ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -2301,7 +2300,9 @@ devredebilir.
 
 **MADDE 91 —** Kurumun hizmet birimleri, daire başkanlıkları şeklinde
 teşkilatlanmış anahizmet, danışma ve yardımcı hizmet birimlerinden
-oluşur. Ancak, daire başkanlıklarının sayısı onu geçemez.
+oluşur. Ancak, daire başkanlıklarının sayısı onu geçemez. **(Ek cümle:
+24/5/2007-5667/6 md.)** İlişkili Bakanın onayı ile bu sayının yarısını
+geçmemek kaydıyla Kurulca daire başkanlıkları oluşturulabilir.
 
 Hizmet birimleri, bu Kanunda belirtilen faaliyet alanı, görev ve
 fonksiyonlara uygun olarak Kurumun teklifi ve Bakanlar Kurulu kararıyla
@@ -2309,8 +2310,8 @@ yürürlüğe konulan yönetmelikle belirlenir.
 
 Anahizmet birimi olarak Strateji Geliştirme Daire Başkanlığı kurulur.
 Hukuk, basın ve halkla ilişkiler, yönetim ve finans gibi alanlarda
-ihtiyaca göre sayıları toplam beşi geçmemek üzere Başkanlık müşaviri
-görevlendirilebilir.
+ihtiyaca göre sayıları toplam onbeşi geçmemek üzere Başkanlık müşaviri
+görevlendirilebilir. ^(1)^
 
 İnsan kaynakları ve eğitim, idarî ve malî işler ve benzeri faaliyetleri
 yürütmek üzere Destek Hizmetleri Daire Başkanlığı kurulur. Bu daire
@@ -2357,6 +2358,11 @@ sektörde en az on yıl meslekî tecrübesi olanlar ile Kurumun faaliyet
 alanına ilişkin konularda doktor unvan ve derecesini alanlar arasından
 yeteri kadar uzman personel, hizmet veya vekâlet akdi hükümlerine göre
 çalıştırılabilir.
+
+–––––––––––––––––
+
+*(1) 24/5/2007 tarihli ve 5667 sayılı Kanunun 6 ncı maddesiyle, bu
+fıkrada yer alan "beşi" ibaresi "onbeşi" olarak değiştirilmiştir.*
 
 Kurum personeli başka kamu kurum ve kuruluşlarında geçici olarak
 görevlendirilemez.
@@ -2721,8 +2727,10 @@ toplamlarının onbinde üçünü geçemez. Belirlenen süre içerisinde
 ödenmeyen katılma payları 6183 sayılı Amme Alacaklarının Tahsil Usulü
 Hakkında Kanun hükümlerine göre tahsil edilir.
 
-Kurumun iç ve dış denetimi hakkında, 5018 sayılı Kamu Malî Yönetimi ve
-Kontrol Kanunu hükümleri uygulanır.
+**(Değişik dördüncü fıkra: 24/5/2007-5667/6 md.)** Kurumun iç denetimi
+Kurulca belirlenecek usûl ve esaslar çerçevesinde gerçekleştirilir.
+Kurumun dış denetimi hakkında 5018 sayılı Kamu Malî Yönetimi ve Kontrol
+Kanunu hükümleri uygulanır.
 
 Kurul, Kurumun yıllık hesaplarını bir bağımsız denetim şirketine
 denetletebilir ve bu durumda bağımsız denetim raporu faaliyet raporu
@@ -3502,8 +3510,8 @@ yürürlüğe konulan yönetmelikle belirlenir.
 
 Fonda anahizmet birimi olarak Strateji Geliştirme Daire Başkanlığı
 kurulur. Hukuk, basın ve halkla ilişkiler, yönetim ve finans gibi
-alanlarda ihtiyaca göre sayıları toplam beşi geçmemek üzere Başkanlık
-müşaviri görevlendirilebilir.
+alanlarda ihtiyaca göre sayıları toplam onbeşi geçmemek üzere Başkanlık
+müşaviri görevlendirilebilir. ^(1)^
 
 İnsan kaynakları ve eğitim, idarî ve malî işler ve benzeri faaliyetleri
 yürütmek üzere Destek Hizmetleri Daire Başkanlığı kurulur. Bu daire
@@ -3543,6 +3551,11 @@ tâbidir.
 
 Fonda çalışan personel başka kamu kurum ve kuruluşlarında geçici olarak
 görevlendirilemez.
+
+–––––––––––––––––
+
+*(1) 24/5/2007 tarihli ve 5667 sayılı Kanunun 6 ncı maddesiyle, bu
+fıkrada yer alan "beşi" ibaresi "onbeşi" olarak değiştirilmiştir.*
 
 Fon denetçi yardımcılığı ile Fon uzman yardımcılığına atanacaklar,
 merkezî yarışma sınavıyla belirlenenler arasından seçilir. Fon uzman
@@ -3625,8 +3638,10 @@ BEŞİNCİ BÖLÜM
 
 **Fonun hesap ve harcamalarının denetimi **
 
-**MADDE 124 —** Fonun iç ve dış denetimi hakkında, 5018 sayılı Kamu Malî
-Yönetimi ve Kontrol Kanunu hükümleri uygulanır.
+**MADDE 124 —** **(Değişik birinci fıkra: 24/5/2007-5667/6 md.)** Fonun
+iç denetimi Fon tarafından belirlenecek usûl ve esaslar çerçevesinde,
+dış denetimi ise Fonun yıllık gider hesapları ile harcamalarının
+Sayıştay tarafından incelenmesi suretiyle gerçekleştirilir.
 
 Fonun yıllık hesapları bir bağımsız denetim şirketince de denetlenir ve
 bağımsız denetim raporu faaliyet raporu içinde derc edilerek yayımlanır.
@@ -5462,7 +5477,7 @@ hükümler makable şamildir.
 bir yenilenir. İkinci yılın sonunda kur'a sonucu üyelikleri sona eren
 üyeler bir defalığına tekrar atanabilir.
 
-**GEÇİCİ MADDE 18. —** Bu Kanunun yayımını izleyen bir ay içerisinde
+**GEÇİCİ MADDE 18 —** Bu Kanunun yayımını izleyen bir ay içerisinde
 mülga 4389 sayılı Kanunla kurulan Güvence Fonu tutarları Fona
 devredilir.
 
@@ -5971,8 +5986,9 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5411 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5472                                                                         13, 106, 107, 129, 136, Geçici Madde 24 ve 25                 14/3/2006
-  Anayasa Mah.nin E.: 2006/20, K.: 2006/25 sayılı Kararı                       105                                                           10/1/2007
+  Anayasa Mah.nin E: 2006/20, K: 2006/25 sayılı Kararı                         105                                                           10/1/2007
   Anayasa Mah.’nin E.: 2006/33, K.: 2006/36 sayılı Kararı                      128                                                           10/1/2007
+  5667                                                                         91, 101, 120, 124                                             30/5/2007
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
