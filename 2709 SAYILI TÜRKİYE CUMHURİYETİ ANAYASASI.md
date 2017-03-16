@@ -1,4 +1,4 @@
-**21/11/2001 tarihli ve 4720 sayılı Kanun ile değişik hali**
+**27/12/2002 tarihli ve 4777 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -1343,10 +1343,9 @@ hariç toplam bir yıl veya daha fazla hapis ile ağır hapis cezasına hüküm
 giymiş olanlar; zimmet, ihtilas, irtikâp, rüşvet, hırsızlık,
 dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi
 yüz kızartıcı suçlarla, kaçakçılık, resmî ihale ve alım satımlara fesat
-karıştırma, Devlet sırlarını açığa vurma, ideolojik veya anarşik
-eylemlere katılma ve bu gibi eylemleri tahrik ve teşvik suçlarından
-biriyle hüküm giymiş olanlar, affa uğramış olsalar bile milletvekili
-seçilemezler.
+karıştırma, Devlet sırlarını açığa vurma, terör eylemlerine katılma ve
+bu gibi eylemleri tahrik ve teşvik suçlarından biriyle hüküm giymiş
+olanlar, affa uğramış olsalar bile milletvekili seçilemezler. ^(2)^
 
 Hâkimler ve savcılar, yüksek yargı organları mensupları, yükseköğretim
 kurumlarındaki öğretim elemanları, Yükseköğretim Kurulu üyeleri, kamu
@@ -1386,6 +1385,12 @@ seçimlerinin üç ay içinde yapılmasına karar verilir.
 
 Genel seçimlere bir yıl kala, ara seçimi yapılamaz.
 
+**(Ek fıkra: 27/12/2002-4777/2 md.)** Yukarıda yazılı hallerden ayrı
+olarak, bir ilin veya seçim çevresinin, Türkiye Büyük Millet Meclisinde
+üyesinin kalmaması halinde, boşalmayı takip eden doksan günden sonraki
+ilk Pazar günü ara seçim yapılır. Bu fıkra gereği yapılacak seçimlerde
+Anayasanın 127 nci maddesinin üçüncü fıkrası hükmü uygulanmaz.
+
 –––––––––––––––
 
 *(1) 3/10/2001 tarihli ve 4709 sayılı Kanunun 26 ncı maddesiyle, bu
@@ -1393,6 +1398,10 @@ maddenin birinci fıkrasına "Vatandaşlar" ibaresinden sonra gelmek üzere
 "ve karşılıklılık esası gözetilmek kaydıyla Türkiye'de ikamet eden
 yabancılar"; ikinci fıkrasına, "sonucu" ibaresinden sonra gelmek üzere
 "gecikmeksizin" ibaresi eklenmiş ve metne işlenmiştir.*
+
+*(2) 27/12/2002 tarihli ve 4777 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “ideolojik veya anarşik eylemlere” ibaresi “terör
+eylemlerine” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 *E. Seçimlerin genel yönetim ve denetimi*
 
@@ -3722,7 +3731,7 @@ başlanır.
 **18/10/1982 TARİHLİ VE 2709 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER :**
 
 **1- 17/5/1987 tarihli ve 3361 sayılı Kanunun 4 üncü ve 5 inci
-maddesi:**
+Maddesi:**
 
 **Madde 4 —** Türkiye Cumhuriyeti Anayasasının Geçici 4 üncü maddesi
 yürürlükten kaldırılmıştır.
@@ -3737,7 +3746,7 @@ değişik hükümlerine göre yapılır.
 maddesinde yapılan değişiklik ilk milletvekili genel seçiminde, diğer
 maddeleri ise bu Kanunun yayımı tarihinde yürürlüğe girer.
 
-**2- 23/7/1995 tarihli ve 4121 sayılı Kanunun 16 ncı maddesi:**
+**2- 23/7/1995 tarihli ve 4121 sayılı Kanunun 16 ncı Maddesi:**
 
 **Madde 16 – **Bu Kanunun halkoylamasına sunulması halinde,
 
@@ -3763,7 +3772,7 @@ Ayrı ayrı oylanır.
 
 Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
 
-**3– 13/8/1999 tarih ve 4446 sayılı Kanunun 4 üncü maddesi:**
+**3– 13/8/1999 tarih ve 4446 sayılı Kanunun 4 üncü Maddesi:**
 
 **Madde 4 – **Bu Kanun yayımı tarihinde yürürlüğe girer ve halk
 oylamasına sunulması halinde 1 inci maddesi ayrı, 2 ve 3 üncü maddeleri
@@ -3782,6 +3791,16 @@ maddesindeki fiilleri işleyenler hakkında uygulanmaz.
 
 **Madde 35-** Bu Kanun yayımı tarihinde yürürlüğe girer ve
 halkoylamasına sunulması halinde tümüyle oylanır.
+
+**5– 27/12/2002 tarih ve 4777 sayılı Kanunun Geçici 1 inci Maddesi ve 3
+üncü Maddesi:**
+
+**Geçici Madde 1-** Türkiye Cumhuriyeti Anayasasının 67 nci maddesinin
+son fıkrası, Türkiye Büyük Millet Meclisinin 22 nci dönemi içinde
+yapılacak ilk ara seçimde uygulanmaz.
+
+**Madde 3-** Bu Kanun yayımı tarihinde yürürlüğe girer ve halk
+oylamasına sunulması halinde tümüyle oylanır.
 
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -3809,6 +3828,8 @@ halkoylamasına sunulması halinde tümüyle oylanır.
   4709                   BAŞLANGIÇ hükmü, 13, 14, 19, 20, 21, 22, 23, 26, 28, 31, 33, 34, 36, 38, 40, 41, 46, 49, 51, 55, 65, 66, 67, 69, 74, 87, 89, 94, 100, 118, 149, Geçici Madde 15, İşlenemeyen Hükümler   17/10/2001
 
   4720                   86                                                                                                                                                                                      1/12/2001
+
+  4777                   76, 78, İşlenemeyen Hükümler                                                                                                                                                            31/12/2002
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
