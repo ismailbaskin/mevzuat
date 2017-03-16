@@ -1,4 +1,6 @@
-**6459 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113,**
+
+**K.: 2012/108 sayılı Kararı ile değişik hali**
 
 []{#K10 .anchor}**İDARİ YARGILAMA USULÜ KANUNU ^(1)(2)^**
 
@@ -1510,24 +1512,20 @@ tebliğ işleri, Tebligat Kanunu hükümlerine göre yapılır. Bu suretle
 yapılacak tebliğlere ait ücretler ilgililer tarafından peşin olarak
 ödenir.
 
-*Çalışmaya ara verme:^(1)^*
+*Çalışmaya ara verme:*
 
 **Madde 61 –** 1. **(Değişik: 5/4/1990 - 3622/25 md.) (Değişik birinci
-cümle: 8/8/2011-KHK-650/11 md.)** Bölge idare, idare ve vergi
-mahkemeleri her yıl bir eylülde başlamak üzere, yirmi temmuzdan otuzbir
-ağustosa kadar çalışmaya ara verirler.Ancak, yargı çevresine dahil
-olduğu bölge idare mahkemesinin bulunduğu il merkezi dışında kalan idare
-ve vergi mahkemeleri çalışmaya ara vermeden yararlanamazlar. Bu
-mahkemeler, 62 nci maddedeki sınırlamaya tabi olmaksızın görevlerine
-devam ederler.
+cümle: 8/8/2011-KHK-650/11 md.; İptal cümle:** **Anayasa Mahkemesi’nin
+18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile. ) (…)
+^(1)^**Ancak, yargı çevresine dahil olduğu bölge idare mahkemesinin
+bulunduğu il merkezi dışında kalan idare ve vergi mahkemeleri çalışmaya
+ara vermeden yararlanamazlar. Bu mahkemeler, 62 nci maddedeki
+sınırlamaya tabi olmaksızın görevlerine devam ederler. ^(1)^
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
-sayılı Kararı ile bu maddenin birinci fıkrasının birinci cümlesi iptal
-edilmiş olup iptal hükmünün, kararın Resmî Gazete’de yayımlandığı
-1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm
-altına alınmıştır.
+*(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra
+yürürlüğe girmiştir.*
 
 5484-1
 
@@ -1685,18 +1683,32 @@ K.1995/49 sayılı Kararı ile.)**
 
 **GÖSTERİR LİSTE**
 
-  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ---------------------------------------------
   **Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2577 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+
   3622                                                                                 –                                                             10/4/1990
+
   4001                                                                                 –                                                             18/6/1994
+
   4124                                                                                 –                                                             26/7/1995
+
   4492                                                                                 –                                                             21/12/1999
+
   4577                                                                                 –                                                             15/6/2000
+
   4928                                                                                 –                                                             19/7/2003
+
   5219                                                                                 61, Geçici Madde 3                                            1/1/2005
+
   KHK/650                                                                              61                                                            1/1/2012
+
   6352                                                                                 3, 4, 14, 16, 17, 20, 27, 28, 31, 33, 45, Geçici Madde 6      5/7/2012
+
   6459                                                                                 16, Geçici Madde 7                                            30/4/2013
-  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
+
+  Anayasa                                                                              61 inci maddenin birinci fıkrasının birinci cümlesi           1/1/2013 tarihinden başlayarak altı ay sora
+                                                                                                                                                     
+  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                         (1/7/2013)
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ---------------------------------------------
 
 
