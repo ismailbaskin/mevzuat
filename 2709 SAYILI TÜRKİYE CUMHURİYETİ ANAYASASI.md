@@ -1,4 +1,4 @@
-**3/10/2001 tarihli ve 4709 sayılı Kanun ile değişik hali**
+**21/11/2001 tarihli ve 4720 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -1539,27 +1539,31 @@ bağlar.
 
 *7. Ödenek ve yolluklar*
 
-**Madde 86 – **Türkiye Büyük Millet Meclisi üyelerinin ödenek ve
-yollukları kanunla düzenlenir. Ödeneğin aylık tutarı en yüksek Devlet
-memurunun almakta olduğu miktarı, yolluk da ödenek miktarının yarısını
-aşamaz.
+**Madde 86 – (Değişik birinci cümle: 21/11/2001-4720/1 md.)** Türkiye
+Büyük Millet Meclisi üyelerinin ödenek, yolluk ve emeklilik işlemleri
+kanunla düzenlenir. Ödeneğin aylık tutarı en yüksek Devlet memurunun
+almakta olduğu miktarı, yolluk da ödenek miktarının yarısını aşamaz.
+**(Ek ibare: 21/11/2001-4720/1 md)** Türkiye Büyük Millet Meclisi
+üyeleri ile bunların emeklileri T.C. Emekli Sandığı ile
+ilgilendirilirler ve üyeliği sona erenlerin istekleri halinde ilgileri
+devam eder.
 
 Türkiye Büyük Millet Meclisi üyelerine ödenecek ödenek ve yolluklar,
-kendilerine sosyal güvenlik kuruluşları tarafından bağlanan emekli
-aylığı ve benzeri ödemelerin kesilmesini gerektirmez.
+kendilerine T.C. Emekli Sandığı tarafından bağlanan emekli aylığı ve
+benzeri ödemelerin kesilmesini gerektirmez. ^(2)^
 
 Ödenek ve yollukların en çok üç aylığı önceden ödenebilir.
 
 *II. Türkiye Büyük Millet Meclisinin görev ve yetkileri*
 
-*A. Genel olarak ^(2)^*
+*A. Genel olarak ^(3)^*
 
 **Madde 87 – **Türkiye Büyük Millet Meclisinin görev ve yetkileri, kanun
 koymak, değiştirmek ve kaldırmak; Bakanlar Kurulunu ve bakanları
 denetlemek; Bakanlar Kuruluna belli konularda kanun hükmünde kararname
 çıkarma yetkisi vermek; bütçe ve kesinhesap kanun tasarılarını görüşmek
 ve kabul etmek; para basılmasına ve savaş ilânına karar vermek;
-milletlerarası anıtlaşmaların onaylanmasını uygun bulmak, (…) ^(2)^
+milletlerarası anıtlaşmaların onaylanmasını uygun bulmak, (…) ^(3)^
 Türkiye Büyük Millet Meclisi üye tamsayısının beşte üç çoğunluğunun
 kararı ile genel ve özel af ilanına, mahkemelerce verilip kesinleşen
 ölüm cezalarının yerine getirilmesine karar vermek ve Anayasanın diğer
@@ -1625,7 +1629,11 @@ aykırılık iddiası ile Anayasa Mahkemesine başvurulamaz.
 4121 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
-*(2) 3/10/2001 tarihli ve 4709 sayılı Kanunun 28 inci maddesiyle, bu
+*(2) 21/00/2001 tarihli ve 4720 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “sosyal güvenlik kuruluşları” ibaresi “T.C. Emekli
+Sandığı” olarak değiştirilmiş ve metne işlenmiştir.*
+
+*(3) 3/10/2001 tarihli ve 4709 sayılı Kanunun 28 inci maddesiyle, bu
 maddede yer alan "Anayasanın 14 üncü maddesindeki fiillerden dolayı
 hüküm giyenler hariç olmak üzere," ibaresi kaldırılmış; "genel ve özel
 af ilanına" ibaresinden önce gelmek üzere "Türkiye Büyük Millet Meclisi
@@ -3799,6 +3807,8 @@ halkoylamasına sunulması halinde tümüyle oylanır.
   4446                   47, 125, 155, İşlenemeyen Hükümler                                                                                                                                                      14/8/1999
 
   4709                   BAŞLANGIÇ hükmü, 13, 14, 19, 20, 21, 22, 23, 26, 28, 31, 33, 34, 36, 38, 40, 41, 46, 49, 51, 55, 65, 66, 67, 69, 74, 87, 89, 94, 100, 118, 149, Geçici Madde 15, İşlenemeyen Hükümler   17/10/2001
+
+  4720                   86                                                                                                                                                                                      1/12/2001
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
