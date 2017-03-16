@@ -1,4 +1,4 @@
-**6552 sayılı Kanun ile değişik hali**
+**6645 sayılı Kanun ile değişik hali**
 
 **BELEDİYE KANUNU**
 
@@ -505,6 +505,22 @@ Kararname ve ilgili diğer mevzuata göre kuruluş izni verilen alanda
 tesis edilecek elektronik haberleşme istasyonlarına kent ve yapı
 estetiği ile elektronik haberleşme hizmetinin gerekleri dikkate alınarak
 ücret karşılığında yer seçim belgesi vermek,
+
+s\) **(Ek: 4/4/2015-6645/84 md.)** Belediye sınırları içerisinde, yapı
+ruhsatı veya yapı kullanma izni hangi idare tarafından verilmiş olursa
+olsun, hizmete sunulacak olan asansörlerin tescilini yapmak, ilgili
+teknik mevzuat çerçevesinde yıllık periyodik kontrollerini yapmak ya da
+yetkilendirilmiş muayene kuruluşları aracılığıyla yaptırmak, gerekli
+hâllerde asansörleri hizmet dışı bırakmak.
+
+**(Ek fıkra: 4/4/2015-6645/84 md.)** (s) bendi uyarınca asansörlerin
+yıllık periyodik kontrolünü yapacak belediyeler ile yetkilendirilmiş
+muayene kuruluşlarının sahip olması gereken şartlar, yıllık periyodik
+kontrol esasları ile yıllık periyodik kontrol ücretleri Türkiye
+Belediyeler Birliği, Türk Mühendis ve Mimar Odaları Birliği ve Türk
+Standardları Enstitüsü temsilcilerinin de yer alacağı bir komisyon
+tarafından belirlenir. Konuya ilişkin düzenlemeler, komisyon kararları
+doğrultusunda Bilim, Sanayi ve Teknoloji Bakanlığı tarafından yapılır.
 
 **(Ek fıkra: 12/11/2012-6360/18 md.)** (r) bendine göre verilecek yer
 seçim belgesi karşılığında alınacak ücret Ulaştırma, Denizcilik ve
@@ -2413,6 +2429,15 @@ edilerek ilgili belediye veya il özel idaresi hesabına yatırılır.
 
 *Geçici ve Son Hükümler*
 
+*Asansör yıllık kontrol faaliyetlerine ilişkin sorumluluk*
+
+**Ek Madde 1 –** **(Ek: 4/4/2015-6645/85 md.)**
+
+Bu Kanunun 15 inci maddesinin birinci fıkrasının (s) bendinde düzenlenen
+yetkinin usulüne uygun kullanılmaması sonucu oluşacak yaralanma ve ölüm
+olaylarından dolayı, ilgili belediye yetkilileri 5237 sayılı Türk Ceza
+Kanunu hükümlerine göre sorumludur.
+
 **Geçici Madde 1-** Bu Kanunun yayımı tarihinde personel giderlerine
 ilişkin olarak 49 uncu maddede belirtilen oranları aşmış olan
 belediyelerde bu oranların altına inilinceye kadar, boş kadro ve
@@ -2605,5 +2630,19 @@ Gazete’de yayımlanmıştır.*
 
          6552                       11/9/2014                                     11/9/2014                                                         14,15,73, Geçici madde 8
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+
+9500-2
+
+**5393 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **5393 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  6645                                                                              15, Ek Madde 1                                                23/4/2015
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
