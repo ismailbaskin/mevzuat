@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5378 sayılı Kanun ile Değişik Hali**
+5216 sayılı Kanunun 5390 sayılı Kanun ile Değişik Hali
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -81,12 +81,11 @@ birinci fıkrada belirtilen belediye ve köyler, büyükşehir belediye
 meclisinin kararı ve İçişleri Bakanlığının önerisi üzerine Bakanlar
 Kurulu kararı ile büyükşehir belediyesi sınırları içine alınabilir.
 
-Büyükşehir belediyesi sınırları içine katılan ilçe belediyeleri ile
-nüfusu 50.000 ve üzerinde olan belediyeler, büyükşehir ilçe veya ilk
-kademe belediyesine dönüşür. Diğer belediyeler ile köylerin tüzel
-kişiliği kalkar. Tüzel kişiliği kalkan belediyelerin katılacağı ve
-köylerin mahalle olarak bağlanacağı belediyeler, Bakanlar Kurulu
-kararında belirtilir.
+**(Değişik: 2/7/2005-5390/ 1 md.)** Büyükşehir belediyesi sınırları
+içine katılan ilçe belediyeleri büyükşehir ilçe belediyesine, diğer
+belediyeler ilk kademe belediyesine dönüşür. Köylerin tüzel kişiliği
+kalkar ve bunların mahalle olarak katılacağı belediyeler, Bakanlar
+Kurulu kararında belirtilir.
 
 **(Değişik: 21/4/2005-5335/ 28 md.)** ilçe ve ilk kademe belediyesi
 olarak büyükşehir belediye sınırları içine katılan belediyeler, mevcut
@@ -1060,6 +1059,39 @@ edilir. Bakanlar Kurulu bu süreyi altı aya kadar uzatmaya yetkilidir."
 fıkrasına "Sayıştay Başkanlığı" ibaresinden sonra gelmek üzere "Sosyal
 Sigortalar Kurumu Başkanlığı" ibaresi eklenmiştir.*
 
+5216. **SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
+
+*1-2/7/2005 tarihli ve 5390 sayılı Kanunun hükmüdür:*
+
+GEÇİCİ MADDE — 5216 sayılı Kanunun geçici 2 nci maddesinin birinci
+fıkrası gereğince büyükşehir belediyesi kapsamına alınan ilçelerin mülkî
+sınırları içinde kalan, ancak aynı fıkrada belirtilen sınırlar dışında
+olan belediye ve köyler, bu Kanunun yayımı tarihinden itibaren iki yıl
+içinde belediye meclisi veya köy ihtiyar heyetinin talebi üzerine
+büyükşehir belediye meclisinin kararı ve İçişleri Bakanlığının onayı ile
+başka bir işleme gerek kalmaksızın büyükşehir belediye sınırları içine
+alınabilir. Bu köylerin mahalle olarak hangi ilçe veya ilk kademe
+belediyesine katılacakları aynı meclis kararında gösterilir.
+
+5216 sayılı Kanunun geçici 2 nci maddesinin birinci fıkrası gereğince
+merkezleri büyükşehir belediyesi sınırları dışında kalan ilçelerin,
+büyükşehir belediye sınırları içine giren belediye ve köyleri, bu
+Kanunun yayımı tarihinden itibaren iki yıl içinde belediye meclisi veya
+mahalle ihtiyar heyetinin kararı ve büyükşehir belediye meclisinin
+görüşü üzerine İçişleri Bakanlığının onayı ile başka bir işleme gerek
+kalmaksızın, eski statüleriyle, büyükşehir belediye sınırları dışına
+çıkarılabilir.
+
+5216 sayılı Kanunun geçici 2 nci maddesine göre büyükşehir sınırları
+içinde kalan orman köylerinin tüzel kişiliği devam eder. Ancak
+ormanlarla ilgili diğer kanun hükümleri saklı kalmak üzere bu köyler
+imar bakımından büyükşehir belediyesinin mücavir alanı sayılırlar. Bu
+köylerde su ve kanalizasyon hizmetlerini yürütme görev ve yetkisi ilgili
+büyükşehir belediyesine bağlı su ve kanalizasyon idaresine aittir. Bu
+tür hizmetler karşılığı orman köylerinde yaşayan nüfusa göre genel
+bütçeden alınacak İller Bankası payı ilgili büyükşehir belediyesine
+aktarılır.
+
   -------------------------- ------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
   **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**                              **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5271 sayılı Kanunun değiştirilen maddeleri**
                                                                                                                                                                         
@@ -1071,7 +1103,7 @@ Sigortalar Kurumu Başkanlığı" ibaresi eklenmiştir.*
 
   5378                       7/7/2005                                                                 7/7/2055                                                          Ek Madde 1
 
-                                                                                                                                                                        
+  5390                       13/7/2005                                                                13/7/2005                                                         6, İşlenemeyen Hüküm
 
                                                                                                                                                                         
 
