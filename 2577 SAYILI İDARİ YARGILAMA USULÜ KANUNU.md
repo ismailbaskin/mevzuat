@@ -1,4 +1,4 @@
-**6352 sayılı Kanun ile değişik hali**
+**6459 sayılı Kanun ile değişik hali**
 
 []{#K10 .anchor}**İDARİ YARGILAMA USULÜ KANUNU ^(1)(2)^**
 
@@ -414,7 +414,12 @@ otuz günü geçmemek ve bir defaya mahsus olmak üzere uzatılabilir.
 Sürenin geçmesinden sonra yapılan uzatma talepleri kabul edilmez.
 
 4\. Taraflar, sürenin geçmesinden sonra verecekleri savunmalara veya
-ikinci dilekçelere dayanarak hak iddia edemezler.
+ikinci dilekçelere dayanarak hak iddia edemezler. **(Ek cümle:
+11/4/2013-6459/4 md.)** Ancak, tam yargı davalarında dava dilekçesinde
+belirtilen miktar, süre veya diğer usul kuralları gözetilmeksizin nihai
+karar verilinceye kadar, harcı ödenmek suretiyle bir defaya mahsus olmak
+üzere artırılabilir ve miktarın artırılmasına ilişkin dilekçe otuz gün
+içinde cevap verilmek üzere karşı tarafa tebliğ edilir.
 
 5\. **(Değişik: 10/6/1994 - 4001/8 md.)** Davalara ilişkin işlem
 dosyalarının aslı veya onaylı örneği idarenin savunması ile birlikte,
@@ -427,11 +432,11 @@ görüşlerini yazılı olarak bildirebilirler.
 
 *Duruşma:*
 
-**Madde 17–** 1.**(Değişik: 5/4/1990 - 3622/7 md.)** Danıştay ile idare
-ve vergi mahkemelerinde açılan iptal ve yirmibeşbin Türk Lirasını aşan
-tam yargı davaları ile tarh edilen vergi, resim ve harçlarla benzeri
-mali yükümler ve bunların zam ve cezaları toplamı yirmibeşbin Türk
-Lirasını aşan vergi davalarında, taraflardan birinin isteği üzerine
+**Madde 17 –** 1. **(Değişik: 5/4/1990 - 3622/7 md.)** Danıştay ile
+idare ve vergi mahkemelerinde açılan iptal ve yirmibeşbin Türk Lirasını
+aşan tam yargı davaları ile tarh edilen vergi, resim ve harçlarla
+benzeri mali yükümler ve bunların zam ve cezaları toplamı yirmibeşbin
+Türk Lirasını aşan vergi davalarında, taraflardan birinin isteği üzerine
 duruşma yapılır.^(1)\ (2)^
 
 2\. Temyiz ve itirazlarda duruşma yapılması tarafların istemine ve
@@ -488,7 +493,7 @@ halinde bu süre, bir defaya mahsus olmak üzere uzatılabilir.
 
 ––—————————
 
-*(1) Bu fıkrada yer alan parasal sınır, 8/6/2000 tarihli ve 4577 sayılı
+*(1)Bu fıkrada yer alan parasal sınır, 8/6/2000 tarihli ve 4577 sayılı
 Kanunun 6 ncı maddesiyle “bir milyar” liraya yükseltilmiş ve metne
 işlenmiştir.*
 
@@ -1619,7 +1624,13 @@ havale edilmeye devam olunur.
 uyuşmazlıklarla ilgili olarak ilk derece mahkemelerince verilen nihaî
 kararlardan, bu maddeyi ihdas eden Kanunun yayımı tarihinden önce
 verilen kararlar ile Danıştayın bozma kararı üzerine kararı bozulan
-mahkemece verilen kararlar, Danıştayda temyiz edilebilir.”
+mahkemece verilen kararlar, Danıştayda temyiz edilebilir.
+
+**Geçici Madde 7** – **(Ek: 11/4/2013-6459/5 md.)**
+
+1\. Bu maddeyi ihdas eden Kanunla, bu Kanunun 16 ncı maddesinin dördüncü
+fıkrasına eklenen hüküm, kanun yolu aşaması dâhil, yürürlük tarihinde
+derdest olan davalarda da uygulanır.
 
 *Yürürlük:*
 
@@ -1685,6 +1696,7 @@ K.1995/49 sayılı Kararı ile.)**
   5219                                                                                 61, Geçici Madde 3                                            1/1/2005
   KHK/650                                                                              61                                                            1/1/2012
   6352                                                                                 3, 4, 14, 16, 17, 20, 27, 28, 31, 33, 45, Geçici Madde 6      5/7/2012
+  6459                                                                                 16, Geçici Madde 7                                            30/4/2013
   ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
 
 
