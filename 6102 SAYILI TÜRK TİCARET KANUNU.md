@@ -1,4 +1,4 @@
-**6455 sayılı Kanun ile değişik hali**
+**6462 sayılı Kanun ile değişik hali**
 
 **TÜRK TİCARET KANUNU ^(1)^**
 
@@ -165,8 +165,6 @@ hukuk mahkemesi, davaya devam eder.
 
 **MADDE 6**- (1) Ticari hükümler koyan kanunlarda öngörülen zamanaşımı
 süreleri, Kanunda aksine düzenleme yoksa, sözleşme ile değiştirilemez.
-
-10976-2
 
 10977
 
@@ -641,7 +639,7 @@ Ticaret Sicili Gazetesi ile yapılır.
 –––––––––––––––
 
 *(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle, bu
-fıkrada yer alan “tüzükte” ibaresi “Kanunun 26 ncı maddesine göre
+fıkrada yer alan “ tüzükte” ibaresi “Kanunun 26 ncı maddesine göre
 çıkarılacak yönetmelikte” şeklinde değiştirilmiştir.*
 
 10983
@@ -3951,7 +3949,7 @@ fıkrada yer alan “işlem denetçisi,” ibaresi madde metninden
 
 *(2) Bu madde başlığı “H) Sanayi ve Ticaret Bakanlığının düzenleme ve
 denetleme yetkisi” iken, 26/6/2012 tarihli ve 6335 sayılı Kanunun 13
-üncü maddesiyle metne işlendiği şekilde değiştirilmişitir.*
+üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.*
 
 11028
 
@@ -6649,8 +6647,6 @@ getirilerek genel kurula verilir.
 takdirde, yönetim kurulu hemen, geçici bir denetçi seçer ve fesih
 ihbarını genel kurulun bilgisine, seçtiği denetçiyi de aynı kurulun
 onayına sunar.
-
-11064-2
 
 11065
 
@@ -23630,12 +23626,12 @@ sigortacının teminatından karşılanır; açık kalan miktar garameye girer.
 **I - Genel olarak**
 
 **MADDE 1507**- (1) Kaza sigortası, belli bir prim karşılığında,
-sigortalının uğrayacağı kaza sonucu ölüm, geçici veya sürekli sakatlık
+sigortalının uğrayacağı kaza sonucu ölüm, geçici veya sürekli engellilik
 ya da işgöremezlik hâlleri için sigorta teminatı sağlar.  Ölüm, ani
 olarak veya kaza  tarihinden itibaren  en çok bir yıl  içinde
  gerçekleşmiş ise sigorta bedeli sigorta ettirene yahut onun tarafından
-belirlenmiş kişiye; geçici ve sürekli sakatlık veya işgöremezlik
-hâllerinde ise sigortalıya ödenir.
+belirlenmiş kişiye; geçici ve sürekli engellilik veya işgöremezlik
+hâllerinde ise sigortalıya ödenir.^(1)^
 
 \(2) Geçici olarak çalışma gücünden mahrum kalan sigortalıya, poliçede
 yazılı süre ile sınırlı olmak üzere, mahrumiyetin devam ettiği süre için
@@ -23652,7 +23648,13 @@ yazılı bedelden başka, sigortalının yaptığı tedavi giderlerini de
 **MADDE 1509**- (1) Kazaya karşı sigorta, sigorta ettirenin veya
 başkasının uğrayabileceği kazalara karşı yapılabilir.
 
-11299
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(1) *25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesi ile bu
+    fıkrada yer alan “sakatlık” ibareleri “engellilik” şeklinde
+    değiştirilmiştir.*
+
+(2) 11299
 
 **IV - Uygulanacak hükümler**
 
@@ -24108,7 +24110,7 @@ masrafları için talep edilebilecek asgari giderim tutarını Türkiye
 Cumhuriyet Merkez Bankası her yıl ocak ayında ilan eder. Faiz oranı,
 4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin
 Kanunda öngörülen ticari işlere uygulanacak gecikme faizi oranından en
-az yüzde sekiz fazla olmalıdır.*^(1)^*
+az yüzde sekiz fazla olmalıdır.^(1)^
 
 \(8) Mal veya hizmet bedelinin taksitle ödenmesinin öngörüldüğü
 durumlarda, bu maddenin ödeme sürelerini düzenleyen hükümleri birinci
@@ -24169,7 +24171,7 @@ yönetiminde yer almayan işletme sahipleri, işletmeye borç verenler ve
 kredi derecelendirme kuruluşları gibi dış kullanıcılar için genel amaçlı
 finansal tablo düzenleyen işletmeler.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) Bu fıkrada yer alan faiz oranları ile ilgili olarak 29/12/2012
 tarihli ve 28512 sayılı Resmi Gazete’de yayınlanan Türkiye Cumhuriyeti
@@ -24477,8 +24479,6 @@ yayımlanmasına özgülemek zorundadır.
 tarihten önce açılmış olan davalarda uygulanmaz. Bu davalar, açıldıkları
 tarihte yürürlükte bulunan Kanun hükümlerine tabidir.
 
-11308-4
-
 11309
 
 **Yürürlük ^(1)^**
@@ -24527,11 +24527,11 @@ ikinci, üçüncü ve dördüncü cümleleri 1/1/2014 tarihinde yürürlüğe gi
 
 **––––––––––––––**
 
-*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 39 uncu maddesiyle, bu
-maddenin birinci fıkrasında yer alan “; geçici 2 nci ve geçici 3 üncü
-maddeler ise bu Kanunun yayımı ile birlikte” ibaresi ile üçüncü
-fıkrasında yer alan “Küçük ve orta ölçekli sermaye şirketleri ile”
-ibaresi madde metninden çıkarılmıştır.*
+(1) *26/6/2012 tarihli ve 6335 sayılı Kanunun 39 uncu maddesiyle, bu
+    maddenin birinci fıkrasında yer alan “; geçici 2 nci ve geçici 3
+    üncü maddeler ise bu Kanunun yayımı ile birlikte” ibaresi ile üçüncü
+    fıkrasında yer alan “Küçük ve orta ölçekli sermaye şirketleri ile”
+    ibaresi madde metninden çıkarılmıştır.*
 
 11310
 
@@ -24568,6 +24568,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6455                                                                         64                                                            1/1/2013 tarihinden geçerli olmak üzere 11/4/2013
                                                                                                                                              
                                                                                359, 397, 400, 635                                            11/4/2013
+
+  6462                                                                         1507                                                          3/5/2013
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------
 
 
