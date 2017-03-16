@@ -1,4 +1,6 @@
-**6528 sayılı Kanun ile değişik hali **
+**6552 sayılı Kanun ile değişik hali**
+
+ 
 
 [[]{#k46 .anchor}]{#K46 .anchor}
 
@@ -732,7 +734,7 @@ düzenlenir.
 
 Öğretmenlik Mesleği
 
-1 – Öğretmenlik : ^(1)^
+1 – Öğretmenlik : ^(1)(2)^
 
 **Madde 43 –** Öğretmenlik, Devletin eğitim, öğretim ve bununla ilgili
 yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir.
@@ -756,14 +758,14 @@ md.)**
 **(Ek fıkra: 1/3/2014-6528/5 md.)** Aday öğretmenliğe atanabilmek için;
 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci
 maddesinde sayılan şartlara ek olarak, yönetmelikle belirlenen
-yükseköğretim kurumlarından mezun olma ve Bakanlıkça ve Ölçme, Seçme ve
-Yerleştirme Merkezi tarafından yapılacak sınavlarda başarılı olma
-şartları aranır.
+yükseköğretim kurumlarından mezun olma ve Bakanlıkça ve/veya Ölçme,
+Seçme ve Yerleştirme Merkezi tarafından yapılacak sınavlarda başarılı
+olma şartları aranır.^(2)^
 
 **(Ek fıkra: 1/3/2014-6528/5 md.)** Aday öğretmenler, en az bir yıl
 fiilen çalışmak ve performans değerlendirmesine göre başarılı olmak
-şartlarını sağlamak kaydıyla, yapılacak yazılı ve sözlü sınava girmeye
-hak kazanırlar. Uygulanacak olan sözlü sınavda aday öğretmenler;
+şartlarını sağlamak kaydıyla, yapılacak yazılı ve/veya sözlü sınava
+girmeye hak kazanırlar. Uygulanacak olan sözlü sınavda aday öğretmenler;
 
 a\) Bir konuyu kavrayıp özetleme, ifade kabiliyeti ve muhakeme gücü,
 
@@ -774,7 +776,7 @@ c\) Bilimsel ve teknolojik gelişmelere açıklığı,
 d\) Topluluk önünde temsil yeteneği ve eğitimcilik nitelikleri,
 
 yönlerinden Bakanlıkça oluşturulacak komisyon tarafından
-değerlendirilir.
+değerlendirilir.^(2)^
 
 **(Ek fıkra: 1/3/2014-6528/5 md.)** Sınavda başarılı olanlar öğretmen
 olarak atanır. Sınavda başarılı olamayan aday öğretmenler il içinde veya
@@ -821,6 +823,13 @@ eğitim, …” ibaresi iptal edilmiş olup, İptal Kararının Resmi Gazete’d
 yayım tarihi olan 18/3/2009 tarihinden başlayarak bir yıl sonra
 yürürlüğe gireceği hüküm altına alınmıştır.*
 
+*(2) 10/9/2014 tarihli ve 6552 sayılı Kanunun 95 inci maddesiyle, bu
+maddenin beşinci fıkrasında yer alan “Bakanlıkça ve Ölçme, Seçme ve
+Yerleştirme Merkezi” ibaresi “Bakanlıkça ve/veya Ölçme, Seçme ve
+Yerleştirme Merkezi”, altıncı fıkrasında yer alan “yazılı ve sözlü
+sınava” ibaresi “yazılı ve/veya sözlü sınava” şeklinde
+değiştirilmiştir.*
+
 5110
 
 **(Ek fıkra: 30/6/2004-5204/1 md.)** Kariyer basamaklarında
@@ -837,6 +846,10 @@ olmak şartı aranır.
 
 **(Ek fıkra: 30/6/2004-5204/1 md.; İptal: Anayasa Mahkemesi’nin
 21/5/2008 tarihli ve E.: 2004/83, K.: 2008/107 sayılı Kararı ile.) **
+
+**(Ek fıkra: 10/9/2014-6552/95 md.)** Öğretmenlerin hizmet sürelerine
+ve/veya isteğe bağlı il içi veya il dışı yer değiştirmelerine ilişkin
+usul ve esaslar yönetmelikle belirlenir.
 
 II – Milli Eğitim Bakanlığına bağlı "Eğitim Yüksekokulu " açma yetkisi:
 
@@ -1220,6 +1233,8 @@ V – Yürütme:
   6518                                                                              4                                                             19/2/2014
 
   6528                                                                              43, Geçici Madde 4                                            14/3/2014
+
+  6552                                                                              43                                                            11/9/2014
   --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------
 
 
