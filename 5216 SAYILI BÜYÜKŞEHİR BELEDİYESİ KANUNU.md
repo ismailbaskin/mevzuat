@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5951 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun 6215 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU*^(1)^***
 
@@ -856,17 +856,27 @@ Kanunu hükümleri uygulanır.
 
 **Şirket kurulması**
 
-**MADDE 26.-** Büyükşehir belediyesi kendisine verilen görev ve hizmet
-alanlarında, ilgili mevzuatta belirtilen usullere göre sermaye
-şirketleri kurabilir. Genel sekreter ile belediye ve bağlı
-kuruluşlarında yöneticilik sıfatını haiz personel bu şirketlerin yönetim
-ve denetim kurullarında görev alabilirler. Büyükşehir belediyesi,
-kendine ait büfe, otopark ve çay bahçelerini işletebilir; ya da bu
-yerlerin belediye veya bağlı kuruluşlarının % 50’sinden fazlasına ortak
-olduğu şirketler ile bu şirketlerin % 50’sinden fazlasına ortak olduğu
-şirketlere, 2886 sayılı Devlet İhale Kanunu hükümlerine tabi olmaksızın
+**MADDE 26 – (Değişik:29/3/2011-6215/ 21 md.)*^(1)^***
+
+Büyükşehir belediyesi kendisine verilen görev ve hizmet alanlarında,
+ilgili mevzuatta belirtilen usullere göre sermaye şirketleri kurabilir.
+Genel sekreter ile belediye ve bağlı kuruluşlarında yöneticilik sıfatını
+haiz personel bu şirketlerin yönetim ve denetim kurullarında görev
+alabilirler. Büyükşehir belediyesi, mülkiyeti veya tasarrufundaki
+hafriyat sahalarını, toplu ulaşım hizmetlerini, sosyal tesisler, büfe,
+otopark ve çay bahçelerini işletebilir; ya da bu yerlerin belediye veya
+bağlı kuruluşlarının % 50’sinden fazlasına ortak olduğu şirketler ile bu
+şirketlerin % 50’sinden fazlasına ortak olduğu şirketlere, 8/9/1983
+tarihli ve 2886 sayılı Devlet İhale Kanunu hükümlerine tabi olmaksızın
 belediye meclisince belirlenecek süre ve bedelle işletilmesini
 devredebilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 12/4/2011 tarihli ve 27903 sayılı Resmi Gazete’de yayımlanan
+29/3/2011 tarihli ve 6215 sayılı Kanunun hükmü olan bu madde metni,
+13/4/2011 tarihli ve 27904 sayılı Resmi Gazete’de yayımlanan
+düzeltmesiyle birlikte işlenmiştir.*
 
 YEDİNCİ BÖLÜM
 
@@ -1225,6 +1235,8 @@ aktarılır.
                                                                                                                                 E.:2004/79 K.:2007/6 sayılı Karar       
 
   5951                       5/2/2010                                                                 5/2/2010                                                          Geçici Madde 5
+
+  6215                       12/4/2011                                                                12/4/2011                                                         26
   -------------------------- ------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
 
 
