@@ -1,16 +1,17 @@
-1.  #### 4721 sayılı Kanunun ilk hali
+1.  #### 2/1/2003 tarihli ve 4778sayılı Kanun ile değişik hali
 
     #### TÜRK MEDENÎ KANUNU 
 
 ** **
 
- 
+** **
 
-  ----------------------- --- ----------------------------------
-  ***Kanun No. 4721 ***       ***Kabul Tarihi : 22.11.2001 ***
-  ----------------------- --- ----------------------------------
-
- 
+  ------------------------------------ --------------------------
+  **Kanun Numarası **                  : 4721
+  **Kabul Tarihi **                    : 22/11/2001
+  **Yayımlandığı R. Gazete Tarihi **   : 8/12/2001 Sayı : 24607
+  **Yayımlandığı Düstur **             : Tertip: 5 Cilt, 41
+  ------------------------------------ --------------------------
 
 **BAŞLANGIÇ**
 
@@ -921,23 +922,22 @@ II. Uluslararası faaliyet
 
 1\. Faaliyet serbestliği
 
-**MADDE 91.-** Dernekler, tüzüklerinde gösterilen amaçları
-gerçekleştirmek üzere, uluslararası faaliyette bulunabilirler ve yurt
-dışında şube açabilirler.
+**MADDE 91.-** **(Değişik: 2/1/2003-4778/34 md.) **
 
-Türkiye'de kurulan dernekler, amaçları doğrultusunda uluslararası alanda
-işbirliği yapılmasında yarar görülen hâllerde, Bakanlar Kurulunun
-izniyle yurt dışında kurulmuş dernek veya kuruluşlara üye olarak
-katılabilirler.
+Dernekler, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere
+uluslararası faaliyette ve işbirliğinde bulunabilirler, yurt dışında
+şube açabilirler ve yurt dışında kurulmuş dernek veya kuruluşlara üye
+olarak katılabilirler.
 
 2\. Yabancı dernekler
 
-**MADDE 92.-** Yabancı dernekler, uluslararası alanda işbirliği
-yapılmasında yarar görülen hâllerde ve karşılıklı olmak koşuluyla
-kültürel, ekonomik ve teknik konularda bilgi veya teknolojilerinden
-yararlanılmak üzere, Bakanlar Kurulunun izniyle Türkiye'de faaliyette
-bulunabilirler, şube açabilirler, üst kuruluşlar kurabilirler, kurulmuş
-üst kuruluşlara katılabilirler.
+**MADDE 92.-** **(Değişik: 2/1/2003-4778/35 md.)**
+
+Yabancı dernekler, uluslararası alanda işbirliği yapılmasında yarar
+görülen hallerde ve karşılıklı olmak koşuluyla Dışişleri Bakanlığının
+görüşü alınmak suretiyle İçişleri Bakanlığının izniyle Türkiye’de
+faaliyette ve işbirliğinde bulunabilirler, şube açabilirler, üst
+kuruluşlar kurabilir ve kurulmuş üst kuruluşlara katılabilirler.
 
 III. Yabancıların dernek kurma hakkı
 ------------------------------------
@@ -11801,3 +11801,23 @@ Yürütme
 -------
 
 **MADDE 1030.-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+**22/11/2001 TARİHLİ VE 4721 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
+
+*1 - 2/1/2003 tarihli ve 4778 sayılı Kanunun hükmüdür: *
+
+**Madde 36 -** Bu Kanunla değiştirilen Türk Medenî Kanununun 92 nci
+maddesi hükmü, dernek ve vakıf dışındaki diğer kâr amacı gütmeyen
+kuruluşlar hakkında da uygulanır.
+
+**4721 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN/ANAYASA
+MAHKEMESİ KARARININ **
+
+**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+
+  -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
+  **Değiştiren Kanun No.**   **Değiştiren Kanun/An. MahkemeKararının Yürürlüğe giriş tarihi**   **Anayasa Mahkemesi Karar Tarih/No.**   **4721 sayılı Kanunun değiştirilen maddeleri**
+  4778                       11/1/2003                                                                                                  91, 92
+  -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
+
+
