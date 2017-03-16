@@ -1,7 +1,6 @@
-**5216 sayılı Kanunun Anayasa Mahkemesinin 25/1/2007 tarihli ve
-E.:2004/79 K.:2007/6 sayılı Kararı ile Değişik Hali**
+**5216 sayılı Kanunun 5747 sayılı Kanun ile Değişik Hali**
 
-**BÜYÜKŞEHİR BELEDİYESİ KANUNU**
+**BÜYÜKŞEHİR BELEDİYESİ KANUNU*^(1)^***
 
 **Kanun Numarası : 5216**
 
@@ -77,21 +76,17 @@ katılması konusunda Belediye Kanunu hükümleri uygulanır. Bu durumda
 katılma kararı, ilgili ilçe veya ilk kademe belediye meclisinin talebi
 üzerine, büyükşehir belediye meclisi tarafından alınır.
 
-İmar düzeni ve temel alt yapı hizmetlerinin zorunlu kıldığı durumlarda,
-birinci fıkrada belirtilen belediye ve köyler, büyükşehir belediye
-meclisinin kararı ve İçişleri Bakanlığının önerisi üzerine Bakanlar
-Kurulu kararı ile büyükşehir belediyesi sınırları içine alınabilir.
+**(Mülga: 6/3/2008-5747/ 3 md.)**
 
-**(Değişik: 2/7/2005-5390/ 1 md.)** Büyükşehir belediyesi sınırları
-içine katılan ilçe belediyeleri büyükşehir ilçe belediyesine, diğer
-belediyeler ilk kademe belediyesine dönüşür. Köylerin tüzel kişiliği
-kalkar ve bunların mahalle olarak katılacağı belediyeler, Bakanlar
-Kurulu kararında belirtilir.
+**(Mülga: 6/3/2008-5747/ 3 md.)**
 
-**(Değişik: 21/4/2005-5335/ 28 md.)** ilçe ve ilk kademe belediyesi
-olarak büyükşehir belediye sınırları içine katılan belediyeler, mevcut
-belediyelerin temsil edildiği şekilde büyükşehir belediye meclisinde
-temsil edilirler.
+**(Mülga: 6/3/2008-5747/ 3 md.)**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*(1) 6/3/2008 tarihli ve 5747 sayılı Kanunun 3 üncü maddesi ile bu
+Kanunda* ilk kademe belediyesine yapılan atıflar ilçe belediyesine
+yapılmış sayılır.
 
 ÜÇÜNCÜ BÖLÜM
 
@@ -467,35 +462,33 @@ istenip de büyükşehir belediye meclisi üye tam sayısının salt
 Büyükşehir belediye başkanı, meclisin ısrarı ile kesinleşen kararlar
 aleyhine (…)*^(1)^* idarî yargıya başvurabilir. *^(1)^*
 
-Kararlar, kesinleştiği tarihten itibaren en geç yedi gün içinde mahallin
-en büyük mülkî idare amirine gönderilir. Mülkî idare amirine
-gönderilmeyen kararlar yürürlüğe girmez.
+**(Değişik: 6/3/2008-5747/ 3 md.)**Büyükşehir belediye meclisi ve ilçe
+belediye meclisi kararları, kesinleştiği tarihten itibaren en geç yedi
+gün içinde mahallin en büyük mülkî idare amirine gönderilir. Mülkî idare
+amirine gönderilmeyen kararlar yürürlüğe girmez.
 
-Mülkî idare amiri hukuka aykırı gördüğü kararlar aleyhine on gün içinde
-idarî yargı mercilerine başvurabilir.
+Mülkî idare amiri hukuka aykırı gördüğü kararlar aleyhine (…) idarî
+yargı mercilerine başvurabilir.*^(2)^*
 
-İlçe ve ilk kademe belediye meclislerinin bütçe ve imarla ilgili olanlar
-dışındaki kararları dayanak belgeleriyle birlikte büyükşehir belediye
-başkanına gönderilir. Büyükşehir belediye başkanı, yedi gün içinde,
-gerekçesini de belirterek hukuka aykırı gördüğü kararların yeniden
-görüşülmesini isteyebilir. İlgili meclis, üye tam sayısının salt
-çoğunluğu ile kararında ısrar ederse karar kesinleşir.
+**(Mülga: 6/3/2008-5747/ 3 md.)**
 
-Kesinleşen kararlar yedi gün içinde büyükşehir belediyesine gönderilir.
-Belediye başkanı, kesinleşen kararın iptali için on gün içinde idarî
-yargı merciine başvurabilir.
+**(Mülga: 6/3/2008-5747/ 3 md.)**
 
 Büyükşehir kapsamındaki ilçe ve ilk kademe belediye meclisleri
 tarafından alınan imara ilişkin kararlar, kararın gelişinden itibaren üç
 ay içinde büyükşehir belediye meclisi tarafından nazım imar plânına
 uygunluğu yönünden incelenerek aynen veya değiştirilerek kabul
-edildikten sonra büyükşehir belediye başkanına gönderilir.
+edildikten sonra büyükşehir belediye başkanına gönderilir. **(Ek cümle:
+6/3/2008-5747/3 md.)**
+
+Üç ay içinde büyükşehir belediye meclisinde görüşülmeyen kararlar
+onaylanmış sayılır.
 
 **İhtisas komisyonları**
 
-**MADDE 15.-** Büyükşehir belediye meclisi, (…) *^(2)^*üyeleri arasından
+**MADDE 15.-** Büyükşehir belediye meclisi, (…)*^(3)^* üyeleri arasından
 seçilecek en az beş, en çok dokuz kişiden oluşan ihtisas komisyonları
-kurabilir. *^(2)^*
+kurabilir. *^(3)^*
 
 İhtisas komisyonları, her siyasî parti grubunun ve bağımsız üyelerin
 büyükşehir belediye meclisindeki üye sayısının meclis üye tam sayısına
@@ -530,7 +523,10 @@ bedeli karşılığında verilir.
 *(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
 fıkrada yer alan "on gün içinde” ibaresi madde metninden çıkarılmıştır.*
 
-*(2) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
+*(2) 6/3/2008 tarihli ve 5747 sayılı Kanunun 3 üncü maddesi ile bu
+fıkrada yer alan "on gün içinde" ibaresi madde metninden çıkarılmıştır.*
+
+*(3) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
 fıkrada yer alan "her dönem başı toplantısında,"* *ibaresi madde
 metninden çıkarılmıştır.*
 
@@ -1061,11 +1057,7 @@ ikimilyona kadar olan büyükşehirlerde yarıçapı otuz kilometre, nüfusu
 ikimilyondan fazla olan büyükşehirlerde yarıçapı elli kilometre olan
 dairenin sınırı büyükşehir belediyesinin sınırını oluşturur.
 
-Bu sınırlar içerisinde kalan ilçeler büyükşehir ilçe belediyeleri,
-beldeler büyükşehir ilk kademe belediyeleri haline gelir. Bu belediyeler
-hakkında bu Kanun ile Belediye Kanununun belediyelerin tüzel
-kişiliklerinin kaldırılmasına veya başka bir belediyeye katılmasına
-ilişkin hükümleri uygulanmaz.
+**(Mülga: 6/3/2008-5747/ 3 md.)**
 
 Bu sınırlar içinde kalan köylerin tüzel kişiliği sona ererek mahalleye
 dönüşür. Bu şekilde oluşan mahallelerin katılacağı ilçe veya ilk kademe
@@ -1251,7 +1243,7 @@ aktarılır.
                                                                                                                                                                         
                                                                                                                                 E.:2004/79 K.:2007/6 sayılı Karar       
 
-                                                                                                                                                                        
+  5747                       22/3/2008                                                                22/3/2008                                                         6, 14, Geçici Madde 2
 
                                                                                                                                                                         
 
