@@ -1,4 +1,4 @@
-**6545 sayılı Kanun ile değişik hali**
+**6552 sayılı Kanun ile değişik hali**
 
 []{#K10 .anchor}**İDARİ YARGILAMA USULÜ KANUNU ^(1)(2)^**
 
@@ -615,6 +615,63 @@ gönderir. Temyiz üzerine verilen kararlar kesindir.
 j\) Temyiz istemi en geç iki ay içinde karara bağlanır. Karar en geç bir
 ay içinde tebliğe çıkarılır.
 
+5472-3
+
+*Merkezî ve ortak sınavlara ilişkin yargılama usulü:*
+
+**Madde 20/B- (Ek: 10/9/2014-6552/96 md.)**
+
+1\. Millî Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi
+tarafından yapılan merkezî ve ortak sınavlar, bu sınavlara ilişkin iş ve
+işlemler ile sınav sonuçları hakkında açılan davalara ilişkin yargılama
+usulünde:
+
+a\) Dava açma süresi on gündür.
+
+b\) Bu Kanunun 11 inci maddesi hükümleri uygulanmaz.
+
+c\) Yedi gün içinde ilk inceleme yapılır ve dava dilekçesi ile ekleri
+tebliğe çıkarılır.
+
+ç) Savunma süresi dava dilekçesinin tebliğinden itibaren üç gün olup, bu
+süre bir defaya mahsus olmak üzere en fazla üç gün uzatılabilir.
+Savunmanın verilmesi veya savunma verme süresinin geçmesiyle dosya
+tekemmül etmiş sayılır.
+
+d\) Yürütmenin durdurulması talebine ilişkin olarak verilecek kararlara
+itiraz edilemez.
+
+e\) Bu davalar dosyanın tekemmülünden itibaren en geç on beş gün içinde
+karara bağlanır. Ara kararı verilmesi, keşif, bilirkişi incelemesi ya da
+duruşma yapılması gibi işlemler ivedilikle sonuçlandırılır.
+
+f\) Verilen nihai kararlara karşı tebliğ tarihinden itibaren beş gün
+içinde temyiz yoluna başvurulabilir.
+
+g\) Temyiz dilekçeleri üç gün içinde incelenir ve tebliğe çıkarılır. Bu
+Kanunun 48 inci maddesinin bu maddeye aykırı olmayan hükümleri kıyasen
+uygulanır.
+
+ğ) Temyiz dilekçelerine cevap verme süresi beş gündür.
+
+h\) Danıştay evrak üzerinde yaptığı inceleme sonunda, maddi vakalar
+hakkında edinilen bilgiyi yeterli görürse veya temyiz sadece hukuki
+noktalara ilişkin ise yahut temyiz olunan karardaki maddi yanlışlıkların
+düzeltilmesi mümkün ise işin esası hakkında karar verir. Aksi hâlde
+gerekli inceleme ve tahkikatı kendisi yaparak esas hakkında yeniden
+karar verir. Ancak, ilk inceleme üzerine verilen kararlara karşı yapılan
+temyizi haklı bulduğu hâllerde kararı bozmakla birlikte dosyayı geri
+gönderir. Temyiz üzerine verilen kararlar kesindir.
+
+ı) Temyiz istemi en geç on beş gün içinde karara bağlanır. Karar en geç
+yedi gün içinde tebliğe çıkarılır.
+
+2\. Millî Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi
+tarafından yapılan merkezî ve ortak sınavlar, bu sınavlara ilişkin iş ve
+işlemler ile sınav sonuçları hakkında açılan davalarda verilen
+yürütmenin durdurulması ve iptal kararları, söz konusu sınava katılan
+kişilerin lehine sonuç doğuracak şekilde uygulanır.
+
 5473
 
 *Sonradan ibraz olunan belgeler:*
@@ -793,21 +850,27 @@ kez yürütmenin durdurulması isteminde bulunulamaz.
 
 **Madde 28 –** 1.**(Değişik:10/6/1994-4001/13 md.)** Danıştay, bölge
 idare mahkemeleri, idare ve vergi mahkemelerinin esasa ve yürütmenin
-durdurulmasına ilişkin kararlarının icaplarına göre idare,gecikmeksizin
-işlem tesis etmeye veya eylemde bulunmaya mecburdur.Bu süre hiçbir
+durdurulmasına ilişkin kararlarının icaplarına göre idare, gecikmeksizin
+işlem tesis etmeye veya eylemde bulunmaya mecburdur. Bu süre hiçbir
 şekilde kararın idareye tebliğinden başlayarak otuz günü geçemez.
 **(İptal cümle: Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107
-K.: 2013/90 sayılı Kararı ile.)(…) (Ek cümleler: 21/2/2014-6526/18
-md.)** Kamu görevlileri hakkında tesis edilen atama, görevden alma,
-göreve son verme, naklen veya vekâleten atama, yer değiştirme, görev ve
-unvan değişikliği işlemleriyle ilgili olarak verilen iptal ve yürütmenin
-durdurulmasına ilişkin mahkeme kararlarının gereği; dava konusu edilen
-kadronun boş olması hâlinde bu kadroya, boş olmaması hâlinde ise aynı
-kurumda kazanılmış hak aylık derecesine uygun başka bir kadroya atanmak
-suretiyle yerine getirilir. Eski kadro ile atandığı yeni kadro arasında
-mali haklar bakımından bir fark bulunması durumunda, bu fark 14/7/1965
-tarihli ve 657 sayılı Devlet Memurları Kanununun 91 inci maddesinin
-ikinci fıkrasında düzenlenen usul ve esaslar çerçevesinde ödenir.
+K.: 2013/90 sayılı Kararı ile.)(…) (Ek cümleler: 21/2/2014-6526/18 md.;
+Değişik üçüncü ve dördüncü cümleler: 10/9/2014-6552/97 md.)** Ancak,
+23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama
+Usulüne İlişkin Kanuna ekli (1) ve (2) sayılı cetvellerde gösterilen
+unvanları taşıyan görevler ile farklı atama usullerine tabi olsalar dâhi
+daire başkanı ve üstü görevlere, sivil memurlar hariç kolluk
+teşkilatlarının kadrolarına; açıktan, naklen veya vekâleten yapılan
+atama ve bu görevlerden alınma, bu görevlerle ilgili yer değiştirme,
+görev ve unvan değişikliği işlemleri hakkında verilen mahkeme
+kararlarının gereği, ilgilinin kazanılmış hak aylık derecesine uygun
+başka bir kadroya atanması suretiyle iki yıl içinde yerine getirilir. Bu
+görevliler hakkındaki mezkur işlemlerin uygulanması, telafisi güç veya
+imkânsız zararları doğuran hâllerden sayılmaz. **(Ek cümle:
+10/9/2014-6552/97 md.)** Bu fıkranın üçüncü cümlesinde belirtilen
+işlemlerle ilgili mahkeme kararlarının yerine getirilmemesi ceza
+soruşturması ve kovuşturmasına konu edilemez; ancak disiplin hükümleri
+saklıdır.
 
 2\. **(Değişik: 2/7/2012 - 6352/58 md.)** Konusu belli bir miktar paranın
 ödenmesini gerektiren davalarda hükmedilen miktar ile her türlü
@@ -1680,10 +1743,6 @@ tebliğ işleri, Tebligat Kanunu hükümlerine göre yapılır. Bu suretle
 yapılacak tebliğlere ait ücretler ilgililer tarafından peşin olarak
 ödenir.
 
-——————————
-
-*(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 26 ncı maddesiyle,*
-
 5484-1
 
 *Çalışmaya ara verme:*
@@ -1915,6 +1974,7 @@ K.1995/49 sayılı Kararı ile.)**
   **Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2577 sayılı Kanunun değişen veya iptal edilen maddeleri**                            **Yürürlüğe Giriş Tarihi**
   6526                                                                                 27, 28                                                                                 6/3/2014
   6545                                                                                 15, 17, 20, 20/A, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, Ek Madde 1, Geçici Madde 8   28/6/2014
+  6552                                                                                 20/B, 28                                                                               11/9/2014
   ------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------- ----------------------------
 
 
