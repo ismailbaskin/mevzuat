@@ -1,4 +1,6 @@
-**6518 sayılı Kanun ile değişik hali **
+**6552 sayılı Kanun ile değişik hali**
+
+ 
 
 **KAMU İHALE KANUNU**
 
@@ -2920,11 +2922,33 @@ programlanmasında, ihalede ise isteklilerce verilen tekliflerin
 karşılaştırılmasında kullanılmak üzere tespit edilen yaklaşık maliyet
 isteklilere duyurulmaz.
 
-e\) **(Değişik: 20/11/2008-5812/24 md.)** İdarelerce kanun, tüzük ve
-yönetmeliklere göre istihdam edilen personelin yeterli nitelik veya
-sayıda olmaması halinde, bu Kanunda belirtilen hizmetler için ihaleye
-çıkılabilir. Ancak danışmanlık hizmet alım ihalelerinde, istihdam edilen
-personelin yeterli nitelik veya sayıda olmaması şartı aranmaz.
+e\) **(Değişik: 10/9/2014-6552/10 md.)** İdarelerin bu Kanunda tanımlanan
+hizmetlerden personel çalıştırılmasına dayalı hizmet alımlarında aşağıda
+belirtilen hususlara uyması zorunludur:
+
+1\) İdarelerce kanun, tüzük ve yönetmeliklere göre istihdam edilen
+personelin yeterli nitelik veya sayıda olmaması hâlinde personel
+çalıştırılmasına dayalı yardımcı işlere ilişkin hizmetler için ihaleye
+çıkılabilir. Bu kapsamda ihaleye çıkılabilecek yardımcı işlere ilişkin
+hizmet türlerini; idarelerin teşkilat, görev ve yetkilerine ilişkin
+mevzuatı, yerleşik yargı içtihatları ile 22/5/2003 tarihli ve 4857
+sayılı İş Kanununun 2 nci maddesinin yedinci fıkrası dikkate alınmak
+suretiyle idareler itibarıyla ayrı ayrı veya birlikte belirlemeye işçi,
+işveren ve kamu görevlileri konfederasyonları, Çalışma ve Sosyal
+Güvenlik Bakanlığı, Hazine Müsteşarlığı ve Devlet Personel Başkanlığının
+görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulu
+yetkilidir. 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 67 nci
+maddesi ile diğer kanunların hizmet alımına ilişkin özel hükümleri
+saklıdır.
+
+2\) İdarelerin teşkilat, görev ve yetkilerine ilişkin mevzuatı ile 4857
+sayılı Kanunun 2 nci maddesinin yedinci fıkrası esas alınmak suretiyle,
+idareye ait bir işyerinde yürütülen asıl işin bir bölümünde idarenin ve
+işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işlerde hizmet
+alımı ihalesine çıkılabilir.
+
+3\) Danışmanlık hizmet alım ihalelerinde istihdam edilen personelin
+yeterli nitelik veya sayıda olmaması şartı aranmaz.
 
 f\) İhale dokümanı hazırlanmadan ilân yapılamaz. İlân sürelerinin
 hesaplanmasında ilânın yayımlandığı gün dikkate alınır, ihale günü veya
@@ -3377,6 +3401,61 @@ sorumludur.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurum tarafından
 belirlenir.
 
+*Uygun görüş alınması ve görevlilerin sorumlulukları*
+
+**Ek Madde 8 –(10/9/2014-6552/11 md.)**
+
+62 nci maddenin birinci fıkrasının (e) bendi kapsamında personel
+çalıştırılmasına dayalı hizmetler (danışmanlık hizmet alımları hariç)
+için ihaleye çıkılmadan önce;
+
+a\) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol
+Kanununa ekli (I), (II) ve (IV) sayılı cetvellerde yer alan idareler ile
+bunlara bağlı döner sermayeli kuruluşların, Maliye Bakanlığından,
+
+b\) 8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında
+Kanun Hükmünde Kararname uyarınca yayımlanan Genel Yatırım ve Finansman
+Programı Kararı çerçevesinde, 233 sayılı Kanun Hükmünde Kararnameye tabi
+kamu iktisadi teşebbüsleri ve bağlı ortaklıklarının Hazine
+Müsteşarlığından, 24/11/1994 tarihli ve 4046 sayılı Özelleştirme
+Uygulamaları Hakkında Kanun çerçevesinde özelleştirme programında
+bulunanlardan sermayesinin %50’sinden fazlası kamuya ait işletmeci
+kuruluşların ise Özelleştirme İdaresi Başkanlığından,
+
+uygun görüş alması zorunludur.
+
+Uygun görüş alınmadan bu hizmetler için ihaleye çıkılamaz. 62 nci
+maddenin birinci fıkrasının (e) bendinin (1) numaralı alt bendinde yer
+alan hizmet alımlarında niteliği gereği sözleşme süresi altı ayı aşmayan
+işlerde uygun görüş şartı aranmaz.
+
+62 nci maddenin birinci fıkrasının (e) bendi uyarınca yapılan personel
+çalıştırılmasına dayalı hizmet alımı ihaleleri çerçevesinde çalıştırılan
+personel, ihale ve sözleşme konusu iş dışında başka bir işte
+çalıştırılamaz ve görevlendirilemez. Bu kapsamda, personel
+çalıştırılmasına dayalı hizmet alımı ihalesine çıkılmaması gerektiği
+hâlde ihaleye çıkılması, uygun görüş alınması gereken hâllerde alınmadan
+ihaleye çıkılması, ihale kapsamında çalıştırılan personelin sözleşme
+konusu işler dışında çalıştırılması, 4857 sayılı Kanunun 2 nci
+maddesinin yedinci fıkrası hükmüne aykırılık teşkil edecek şekilde işlem
+ve eylemler yapılması nedeniyle idare aleyhine zarar ortaya çıkması
+hâlinde, oluşan bu zararlar, bu zarara neden olduğu tespit edilenlere
+rücu edilmek suretiyle tahsil edilir. Ayrıca, bu kişiler hakkında
+uygulanacak ceza ve disiplin hükümleri saklı kalmak üzere, bu kişilere
+her türlü aylık, ödenek, zam, tazminat dâhil yapılan bir aylık net
+ödemelerin beş katı tutarında idari para cezası uygulanır. 4857 sayılı
+Kanunun 3 üncü maddesinin ikinci fıkrasında öngörülen itiraz veya diğer
+kanun yollarına başvurmayan kişilere ise her türlü aylık, ödenek, zam,
+tazminat dâhil yapılan bir aylık net ödemelerin iki katı tutarında idari
+para cezası uygulanır.
+
+8258-10
+
+Bu maddenin uygulanmasına ilişkin usul ve esaslar Çalışma ve Sosyal
+Güvenlik Bakanlığı ve Hazine Müsteşarlığının görüşü ve Maliye
+Bakanlığının teklifi üzerine Bakanlar Kurulu tarafından yürürlüğe
+konulan yönetmelikle düzenlenir.
+
 *Standart ihale dokümanları ve yönetmelikler *
 
 **Geçici Madde 1-** Bu Kanunun uygulanmasına yönelik olarak çıkarılacak
@@ -3429,7 +3508,7 @@ tarafından belirlenebilir. ^(1)^
 Kurum tarafından,” ibaresi 12/6/2002 tarihli ve 4761 sayılı Kanunla
 eklenmiştir.*
 
-8258-10
+8258-11
 
 **(Ek: 12/6/2002-4761/18 md.; Değişik son fıkra: 30/7/2003-4964/40
 md.)** Bu Kanunun 3 üncü maddesinin (g) bendi kapsamındaki mal ve
@@ -3494,7 +3573,7 @@ parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf
 Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet
 alımları ile” ibaresi eklenmiştir.*
 
-8258-11
+8258-12
 
 *Kamu İhale Kurumunun kurulması*
 
@@ -3560,7 +3639,7 @@ diğer kamu kurum ve kuruluşlarınca yapılacak her türlü mal ve hizmet
 alımları ile yapım işleri, ceza ve ihalelerden yasaklama hükümleri
 hariç, bu Kanun hükümlerinden müstesnadır.
 
-8258-12
+8258-13
 
 *Başlanmış olan ihaleler*
 
@@ -3634,7 +3713,7 @@ görevleri yürütür.
 *(1) Bu maddede belirtilen kadrolarla ilgili olarak 2/11/2011 tarihli ve
 28103 (mükerrer) sayılı Resmi Gazete’ye bakınız.*
 
-8258-13
+8258-14
 
 **Geçici Madde 13- (Ek: 30/3/2012-6287/24 md.)**
 
@@ -3692,7 +3771,32 @@ başkaca bir izin ve işleme gerek kalmaksızın atanabilir. Kurumda
 görevlendirme, kurum kadrolarına atanmada kazanılmış hak veya herhangi
 bir öncelik hakkı teşkil etmez.
 
-8258-14
+8258-15
+
+**Geçici Madde 16** –**(Ek: 10/9/2014-6552/12 md.)**
+
+\(1) Türkiye’nin 2015 yılında üstleneceği Yirmiler Grubu (G-20) Dönem
+Başkanlığı kapsamında, 2014 ve 2015 yıllarında yapılacak mal ve hizmet
+alımları ile yapım işleri, ceza ve yasaklama hükümleri hariç bu Kanuna
+ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa tabi değildir. Bu
+fıkra kapsamında yapılacak alımlara ve yapım işlerine ilişkin esas ve
+usuller ile diğer hususlar, Maliye Bakanlığının görüşü alınarak
+Dışişleri Bakanlığı ve Hazine Müsteşarlığı tarafından müştereken
+hazırlanır ve Bakanlar Kurulu kararı ile yürürlüğe konulur.
+
+\(2) İşyerlerinin aynı yerde olup olmadığına bakılmaksızın; bir mahallî
+idarenin ya da bağlı kuruluşunun kendi birimleri arasında veya bir
+mahallî idare ile bağlı kuruluşu arasında veya aynı mahallî idarenin
+farklı bağlı kuruluşları arasında olmak kaydıyla, mahallî idarelerde
+veya bağlı kuruluşlarında çalışan işçiler, ilgili mahallî idarenin en
+üst amirinin onayı alınarak bu maddenin yayımlandığı tarihi izleyen yüz
+yirmi gün içinde kadroları veya geçici iş pozisyonlarıyla birlikte aynı
+veya benzeri iş ya da işyeri değişikliğine tabi tutulabilir. Bu fıkra
+uyarınca aynı veya benzeri iş ya da işyeri değişikliğine tabi tutulan
+işçilerin ücret ile diğer mali ve sosyal hakları ile kıdem tazminatları
+ve kıdeme bağlı diğer hususlarda, 12/11/2012 tarihli ve 6360 sayılı
+Kanunun geçici 1 inci maddesinin durumlarına uygun hükümleri aynı
+şekilde uygulanır.
 
 *Yürürlük*
 
@@ -3703,6 +3807,8 @@ girer.
 *Yürütme*
 
 **Madde 70-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+8258-16
 
 **4/1/2002 TARİHLİ VE 4734 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
@@ -3753,7 +3859,7 @@ yararlanan kuruluşların sözleşme altında yüklenici oldukları yapım işi
 alımları da on yıl süreyle aynı bentte öngörülen istisna hükümlerine
 tâbidir.
 
-8258-15
+8258-17
 
 *3)3/7/2005 tarihli ve 5398 sayılı Kanunun hükmüdür:*
 
@@ -3781,7 +3887,7 @@ halinde, ödenmeyen tutarlar 6183 sayılı Amme Alacaklarının Tahsil Usulü
 Hakkında Kanun hükümlerine göre gecikme zammı da uygulanmak suretiyle
 takip ve tahsil edilir.
 
-8258-16
+8258-18
 
 **4734 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
 
@@ -3829,7 +3935,7 @@ takip ve tahsil edilir.
   5737                               3, Geçici Madde 4                                             27/2/2008
   ---------------------------------- ------------------------------------------------------------- -------------------------------------------
 
-8258-17
+8258-19
 
   ---------------------------------- -------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
   **Değiştiren Kanunun/ KHK’nin/**   **4734 sayılı Kanunun değişen veya iptal edilen maddeleri**                            **Yürürlüğe Giriş Tarihi**
@@ -3873,7 +3979,7 @@ takip ve tahsil edilir.
   6462                               53                                                                                     3/5/2013
   ---------------------------------- -------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
 
-8258-18
+8258-20
 
   ------------------------------------------------------------------------------------ ------------------------------------------------------------- ------------------------------------------------
   **Değiştiren Kanunun/ KHK’nin/**                                                     **4734 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
@@ -3901,6 +4007,10 @@ takip ve tahsil edilir.
                                                                                        38, 43                                                        19/2/2014 tarihinden doksan gün sonra
                                                                                                                                                      
                                                                                        3, 10, 63, Geçici Madde 4                                     19/2/2014 tarihinden yüz seksen gün sonra
+
+  6552                                                                                 Geçici Madde 16                                               11/9/2014
+                                                                                                                                                     
+                                                                                       62, Ek Madde 8                                                11/9/2014 tarihinden dört ay sonra (11/1/2015)
   ------------------------------------------------------------------------------------ ------------------------------------------------------------- ------------------------------------------------
 
 
