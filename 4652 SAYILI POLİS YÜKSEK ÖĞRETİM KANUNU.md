@@ -1,6 +1,6 @@
-**6114 sayılı Kanun ile değişik hali**
+4652 sayılı Kanunun 666 sayılı KHK ile Değişik Hali
 
-POLİS YÜKSEK ÖĞRETİM KANUNU
+[]{#K97 .anchor}POLİS YÜKSEK ÖĞRETİM KANUNU
 
 Kanun Numarası : 4652
 
@@ -8,15 +8,15 @@ Kabul Tarihi : 25/4/2001
 
 Yayımlandığı R. Gazete : Tarih : 9/5/2001 Sayı : 24397
 
-Yayımlandığı Düstur : Tertip : 5, Cilt : 40
+Yayımlandığı Düstur : Tertip : 5, Cilt : 40, Sayfa :
 
-**BİRİNCİ BÖLÜM**
+BİRİNCİ BÖLÜM
 
-**Amaç, Kapsam ve Tanımlar**
+Amaç, Kapsam ve Tanımlar
 
-**Amaç ve kapsam**
+Amaç ve kapsam
 
-**MADDE 1 —** Bu Kanunun amacı, Türk Polis Teşkilâtının en yüksek
+**Madde 1 –** Bu Kanunun amacı, Türk Polis Teşkilâtının en yüksek
 öğretim kurumu olan Polis Akademisi ve bağlı fakülteler, enstitüler ile
 polis meslek yüksek okullarındaki yüksek öğretim ile ilgili amaç ve
 ilkeleri belirlemek, bu okulların teşkilâtlanmasını, görev ve
@@ -28,9 +28,9 @@ Bu Kanun, Akademi ve buna bağlı eğitim-öğretim kurumlarını, yönetim ve
 sorumluluklarını, eğitim ve öğretim esaslarını ve bu konulara ilişkin
 diğer hususları kapsar.
 
-**Tanımlar**
+Tanımlar
 
-**MADDE 2 —** Bu Kanunda geçen kavram ve terimler;
+**Madde 2 –** Bu Kanunda geçen kavram ve terimler;
 
 a\) Bakan : İçişleri Bakanını,
 
@@ -48,8 +48,8 @@ g\) Dekan : İlgili fakülte dekanını,
 
 h\) Dekanlık : İlgili fakülte dekanlığını,
 
-ı)Polis Meslek Yüksek Okulu Müdürü: Polis Akademisine bağlı ön lisans
-düzeyinde eğitim-öğretim yapan polis meslek yüksekokul müdürünü,
+ı) Polis Meslek Yüksek Okulu Müdürü: Polis Akademisine bağlı ön lisans
+düzeyinde eğitim-öğretim yapan polis meslek yüksek okul müdürünü,
 
 i\) Yükseköğretim Kurulu: 4.11.1981 tarihli ve 2547 sayılı Yüksek Öğretim
 Kanununun 6 ncı maddesine göre oluşturulan Kurulu,
@@ -61,6 +61,8 @@ k\) Yükseköğretim Kurumları: Üniversiteler, yüksek teknoloji enstitüleri,
 Polis Akademisi, harp okulları ve bunların bünyesinde yer alan
 fakülteler, enstitüler, yüksek okullar, konservatuvarlar, meslek yüksek
 okulları ile uygulama ve araştırma merkezlerini,
+
+7936
 
 l\) Polis Akademisi: Emniyet Teşkilâtının memur, amir ve yönetici
 ihtiyacını karşılamak üzere ön lisans, lisans üstü eğitim-öğretim,
@@ -127,6 +129,8 @@ organlarca verilen diğer görevleri yapan öğretim yardımcılarını,
 ilgili olan, özel bilgi ve uzmanlığa ihtiyaç gösteren bir faaliyetle
 belirli süreler için görevlendirilen öğretim yardımcılarını,
 
+7937
+
 3\) Çeviriciler: Sözlü veya yazılı çeviri işlerinde belirli süreler için
 çalıştırılan öğretim yardımcılarını,
 
@@ -139,13 +143,13 @@ kavram ve terimleri,
 
 İfade eder.
 
-**İKİNCİ BÖLÜM**
+İKİNCİ BÖLÜM
 
-**Genel Hükümler**
+Genel Hükümler
 
-**Akademinin kuruluş, amaç, görev ve ana ilkeleri**
+Akademinin kuruluş, amaç, görev ve ana ilkeleri
 
-**MADDE 3 —** Emniyet Teşkilatının memur, amir ve yönetici ihtiyacını
+**Madde 3 –** Emniyet Teşkilatının memur, amir ve yönetici ihtiyacını
 karşılamak, ön lisans, lisans ve lisans üstü eğitim-öğretim yapmak,
 bilimsel araştırma, yayın ve danışmanlık yapmak üzere bilimsel özerkliğe
 sahip ve bünyesinde fakülte, enstitü ve polis meslek yüksekokulları
@@ -189,13 +193,15 @@ eğitim-öğretimdeki verimliliklerinin artırılması, geliştirilmesi ve
 öğretim elemanlarının yetiştirilmeleri, Başkanlığın önerileri ile Genel
 Müdürlükçe plânlanır ve gerçekleştirilir.
 
-**ÜÇÜNCÜ BÖLÜM**
+7938
 
-**Akademinin Organları, Görev, Yetki ve Sorumlulukları**
+ÜÇÜNCÜ BÖLÜM
 
-**Organlar**
+Akademinin Organları, Görev, Yetki ve Sorumlulukları
 
-**MADDE 4 —** Akademinin eğitim-öğretim ve yönetim işleri;
+Organlar
+
+**Madde 4 –** Akademinin eğitim-öğretim ve yönetim işleri;
 
 a\) Başkan,
 
@@ -213,7 +219,7 @@ g\) Polis Meslek Yüksek Okulu Müdürü,
 
 h\) Fakülte Öğretim Kurulu,
 
-ı)Fakülte Yönetim Kurulu,
+ı) Fakülte Yönetim Kurulu,
 
 i\) Disiplin Kurulları,
 
@@ -224,9 +230,9 @@ kurullar teşkil edilebilir. 28.03.1983 tarihli ve 2809 sayılı
 Yükseköğretim Kurumları Teşkilâtı Kanunu uyarınca gerekli hallerde başka
 fakülteler kurulabilir.
 
-**Başkan, dekan, enstitü ve polis meslek yüksek okulu müdürü**
+Başkan, dekan, enstitü ve polis meslek yüksek okulu müdürü
 
-**MADDE 5 —** Başkan; akademi, fakülte, enstitü, polis meslek yüksek
+**Madde 5 –** Başkan; akademi, fakülte, enstitü, polis meslek yüksek
 okulları ve bağlı birimlerinin bütün faaliyetlerinin yönetim, gözetim ve
 denetiminden sorumludur.
 
@@ -243,10 +249,10 @@ yönetim, denetim ve gözetiminden Başkana karşı sorumlu öğretim üyesidir.
 Polis meslek yüksek okulu müdürü, okulun eğitim-öğretim, disiplin,
 yönetim ve diğer hizmetlerini yürütmede Başkana karşı sorumlu kişidir.
 
-**Akademi Başkanı, dekan, enstitü müdürü ve yardımcıları ile polis
-meslek yüksek okulu müdürünün atanması**
+Akademi Başkanı, dekan, enstitü müdürü ve yardımcıları ile polis meslek
+yüksek okulu müdürünün atanması
 
-**MADDE 6 —** Başkan en az yüksek lisans düzeyinde akademik kariyere
+**Madde 6 –** Başkan en az yüksek lisans düzeyinde akademik kariyere
 sahip birinci sınıf emniyet müdürlerinden veya profesör öğretim
 üyelerinden, Genel Müdürün teklifi, Bakanın uygun görmesi üzerine dört
 yıllığına, müşterek kararname ile atanır.
@@ -254,6 +260,8 @@ yıllığına, müşterek kararname ile atanır.
 Dekan, Başkanın teklifi, Genel Müdürün uygun görmesi üzerine Bakan
 tarafından gösterilecek üç profesör arasından Yüksek Öğretim Kurulunca
 üç yıllığına atanır.
+
+7939
 
 Başkana yardımcı olmak üzere üç, dekana yardımcı olmak üzere iki
 yardımcı atanır. Başkan yardımcılarından birisi eğitim işlerinden
@@ -270,9 +278,9 @@ Genel Müdürün uygun görmesi üzerine Bakanın onayı ile atanır.
 Polis meslek yüksek okulu müdürü birinci sınıf emniyet müdürlerinden üç
 yıllığına Genel Müdürün teklifi ve Bakanın onayı ile atanır.
 
-**Akademi Yönetim Kurulunun kuruluş, işleyiş ve görevleri**
+Akademi Yönetim Kurulunun kuruluş, işleyiş ve görevleri
 
-**MADDE 7 —** Başkanın başkanlığında, dekan, enstitü müdürü, Başkanın
+**Madde 7 -** Başkanın başkanlığında, dekan, enstitü müdürü, Başkanın
 polis meslek yüksek okulu müdürleri arasından seçeceği beş, öğretim
 elemanları arasından seçeceği bir üyeden oluşur.
 
@@ -292,9 +300,9 @@ e\) Bu Kanun ile verilen diğer görevleri yapmak,
 
 İle görevlidir.
 
-**Eğitim ve Öğretim Yüksek Kurulu**
+Eğitim ve Öğretim Yüksek Kurulu
 
-**MADDE 8 —** Kurul, Başkanın başkanlığında, dekan, enstitü müdürü,
+**Madde 8 –** Kurul, Başkanın başkanlığında, dekan, enstitü müdürü,
 Başkanın görevlendireceği üç polis meslek yüksek okulu müdürü ve bölüm
 başkanlarından oluşur. Başkanın bulunmadığı hallerde Kurula akademik
 yönden en kıdemli üye başkanlık eder. Eğitim ve Öğretim Yüksek Kurulu,
@@ -313,9 +321,11 @@ eğitim-öğretim programının uygunluğu hususunu ve eğitim-öğretim
 programlarında ortaya çıkabilecek sorunları görüşüp karara bağlayan en
 yüksek eğitim ve öğretim organıdır.
 
-**Bilimsel Denetleme Kurulu**
+7940
 
-**MADDE 9 —** Kurula, her bölümdeki öğretim elemanları tarafından,
+Bilimsel Denetleme Kurulu
+
+**Madde 9 –** Kurula, her bölümdeki öğretim elemanları tarafından,
 bölümde en üst akademik kariyere sahip öğretim üyeleri arasından, bir
 yıl için gizli oyla biri asıl, diğeri yedek olmak üzere iki üye seçilir.
 Seçilen asıl üyeler arasından kıdemce en büyük olan bu Kurula başkanlık
@@ -328,10 +338,10 @@ Kurul denetim sonuçlarını her yıl bir rapor ile Başkana bildirir. Bu
 Kurul bilimsel denetleme faaliyeti için gerek görüldüğünde Genel Müdür
 ya da Başkan tarafından görevlendirilebilir.
 
-**Polis meslek yüksek okullarının kuruluş, öğrenci kaynakları ve öğretim
-süresi**
+Polis meslek yüksek okullarının kuruluş, öğrenci kaynakları ve öğretim
+süresi
 
-**MADDE 10 —** Emniyet Teşkilâtının ihtiyacı olan polis memurlarını
+**Madde 10 –** Emniyet Teşkilâtının ihtiyacı olan polis memurlarını
 yetiştirmek üzere; Maliye Bakanlığının görüşü alınarak Bakanlığın
 teklifi ve Bakanlar Kurulu kararı ile Polis Akademisine bağlı, ön lisans
 düzeyinde, mesleki eğitim-öğretim ve uygulama yapan polis meslek yüksek
@@ -355,9 +365,9 @@ istihkakları Devletçe karşılanır.
 Öğrenimlerini süresi içerisinde başarı ile tamamlayanlar, Emniyet
 Teşkilatı kadrolarına aday polis memuru olarak atanırlar.
 
-**Başkan ve dekanın görev, yetki ve sorumlulukları**
+Başkan ve dekanın görev, yetki ve sorumlulukları
 
-**MADDE 11 —** Akademi Başkanı;
+**Madde 11 –** Akademi Başkanı;
 
 a\) Öğrencilerin 3 üncü maddede belirtilen ana ilkeler doğrultusunda ve
 polislik mesleğinin gerektirdiği disiplin anlayışı içerisinde
@@ -373,16 +383,18 @@ d\) Her eğitim-öğretim yılı sonunda Akademinin eğitim-öğretim, bilimsel
 araştırma ve yayın faaliyetleri hakkında dekandan aldığı rapora, varsa
 görüşlerini de eklemek suretiyle Genel Müdürlüğe vermek,
 
-e\) Akademinin, fakültenin, enstitünün ve polis meslek yüksek okullarının
-yatırım programlarını ve bütçe tekliflerini, kadro ihtiyaçlarını Genel
-Müdürlüğe bildirmek ve verilecek emirler doğrultusunda uygulamak,
-
-––––––––––––––––––––
+–––––––––––––––––––
 
 *(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 14 üncü maddesiyle, bu
 fıkrada yer alan “genel lise, erkek teknik öğretim, kız teknik öğretim
 ve ticaret ve turizm öğretimine bağlı okul mezunları” ibaresi “lise ve
-dengi okulları bitirenler” şeklinde değiştirilmiştir.*
+dengi okulları bitirenler” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+7941
+
+e\) Akademinin, fakültenin, enstitünün ve polis meslek yüksek okullarının
+yatırım programlarını ve bütçe tekliflerini, kadro ihtiyaçlarını Genel
+Müdürlüğe bildirmek ve verilecek emirler doğrultusunda uygulamak,
 
 f\) Gerekli gördüğü hallerde Akademide görevli öğretim elemanlarının
 Akademideki görevlerine son verilmesi veya görev yerlerinin
@@ -419,10 +431,10 @@ getirilmesinde, gözetim ve denetiminin yapılmasında, takip ve kontrol
 edilmesinde, sonuçlarının alınmasında, Başkana karşı birinci derecede
 sorumludur.
 
-**Fakülte öğretim kurulu ve fakülte yönetim kurulunun kuruluş, işleyiş
-ve görevleri**
+Fakülte öğretim kurulu ve fakülte yönetim kurulunun kuruluş, işleyiş ve
+görevleri
 
-**MADDE 12 —** Fakülte öğretim kurulu, dekanın başkanlığında, dekan
+**Madde 12 –** Fakülte öğretim kurulu, dekanın başkanlığında, dekan
 yardımcıları ile bölüm başkanları ve fakültede görevli profesör, doçent
 ve yardımcı doçentlerin her birinin kendi aralarından üç yıl için
 seçecekleri bir öğretim üyesinden oluşur.
@@ -444,6 +456,8 @@ b\) Eğitim-öğretim faaliyetlerinin genel değerlendirmesini yapmak,
 c\) Dekanın uygun gördüğü konuları görüşmek ve karara bağlamak,
 
 İle görevlidir.
+
+7942
 
 Fakülte yönetim kurulu;
 
@@ -480,9 +494,9 @@ yönetime ilişkin diğer işleri görüşerek karara bağlamak,
 
 İle görevlidir.
 
-**Diğer kurullar ve genel yönetim birimleri**
+Diğer kurullar ve genel yönetim birimleri
 
-**MADDE 13 —** Akademide, akademik seviyede olmak üzere, fakülte öğretim
+**Madde 13 –** Akademide, akademik seviyede olmak üzere, fakülte öğretim
 kurulunun veya Başkanın teklifi ve Genel Müdürün onayı ile başka
 kurullar teşkil edilebilir.
 
@@ -490,13 +504,13 @@ Akademinin, bu Kanunla belirlenen ilkelere uygun olarak yönetilebilmesi
 için Başkanın önerisi ve Genel Müdürün onayı ile hizmetin gerektirdiği
 genel yönetim birimleri kurulabilir.
 
-**DÖRDÜNCÜ BÖLÜM**
+DÖRDÜNCÜ BÖLÜM
 
-**Akademi Öğretim Organları ve Görevleri**
+Akademi Öğretim Organları ve Görevleri
 
-**Bölüm ve anabilim dalı başkanlıkları**
+Bölüm ve anabilim dalı başkanlıkları
 
-**MADDE 14 —** Fakültede, Eğitim ve Öğretim Yüksek Kurulunun görüşü
+**Madde 14 –** Fakültede, Eğitim ve Öğretim Yüksek Kurulunun görüşü
 alınarak, dekanın teklifi, Başkanın uygun görmesi üzerine Genel Müdürün
 onayı ile bölüm başkanlıkları kurulabilir, birleştirilebilir veya
 kapatılabilir.
@@ -518,14 +532,16 @@ Anabilim dalı başkanları, o bilim dalına ait her düzeydeki
 eğitim-öğretim ve araştırma faaliyetlerinin düzenli ve verimli bir
 şekilde yürütülmesini sağlamakla yükümlüdür.
 
-**BEŞİNCİ BÖLÜM**
+7943
 
-**Fakülte Öğrencileri**
+BEŞİNCİ BÖLÜM
 
-**Öğrenci kaynağı, öğrencilerin istihkakları, özlük işlemleri ve mecburi
-hizmet yükümlülüğü ile evlenme yasağı**
+Fakülte Öğrencileri
 
-**MADDE 15 —** Fakültenin esas öğrenci kaynağı polis kolejidir. İhtiyaç
+Öğrenci kaynağı, öğrencilerin istihkakları, özlük işlemleri ve mecburi
+hizmet yükümlülüğü ile evlenme yasağı
+
+**Madde 15 –** Fakültenin esas öğrenci kaynağı polis kolejidir. İhtiyaç
 halinde, lise ve dengi okulları bitirenler arasından yönetmelikle
 belirtilecek şartları taşıyan öğrenciler de fakülteye alınabilirler.
 ^(1)^
@@ -578,9 +594,18 @@ evlenemezler.
 Polis koleji ile ilgili mecburi hizmet yükümlülüğüne ilişkin diğer
 mevzuat hükümleri saklıdır.
 
-**Öğrencilik sıfatının sona ermesi**
+–––––––––––––––––––
 
-**MADDE 16 —** Fakültede öğrenimde bulunan öğrencilerin aşağıdaki
+*(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 14 üncü maddesiyle, bu
+fıkrada yer alan “genel lise, erkek teknik öğretim, kız teknik öğretim
+ve ticaret ve turizm öğretimine bağlı okul mezunları” ibaresi “lise ve
+dengi okulları bitirenler” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+7944
+
+Öğrencilik sıfatının sona ermesi
+
+**Madde 16 –** Fakültede öğrenimde bulunan öğrencilerin aşağıdaki
 hallerde öğrenimlerine son verilir:
 
 a\) Bu Kanun hükümlerine göre çıkarılacak yönetmelikle belirlenecek ahlâk
@@ -598,13 +623,6 @@ e\) Sağlık kurullarınca verilecek raporlara dayalı olarak Akademide
 öğrenime devam imkanı kalmadığı Genel Müdürlük sağlık komisyonunca
 belirlenenler.
 
-––––––––––––––––––––
-
-*(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 14 üncü maddesiyle, bu
-fıkrada yer alan “genel lise, erkek teknik öğretim, kız teknik öğretim
-ve ticaret ve turizm öğretimine bağlı okul mezunları” ibaresi “lise ve
-dengi okulları bitirenler” şeklinde değiştirilmiştir.*
-
 f\) Giriş ile ilgili nitelikleri taşımadıkları öğrenim sırasında
 anlaşılanlar.
 
@@ -612,13 +630,13 @@ anlaşılanlar.
 yönetmeliğin belirleyeceği esaslar uyarınca uygun görülecek polis
 kadrolarına atanırlar.
 
-**ALTINCI BÖLÜM**
+ALTINCI BÖLÜM
 
-**Disiplin ve Ceza İşleri**
+Disiplin ve Ceza İşleri
 
-**Disiplin kurulları**
+Disiplin kurulları
 
-**MADDE 17 —** Akademide; Başkanlık Polis Disiplin Kurulu, Fakülte Polis
+**Madde 17 –** Akademide; Başkanlık Polis Disiplin Kurulu, Fakülte Polis
 Disiplin Kurulu ve Fakülte Öğrenci Disiplin Kurulu bulunur.
 
 Başkanlık Polis Disiplin Kurulu ve Fakülte Polis Disiplin Kurulunun
@@ -648,13 +666,15 @@ diğer kararlar ise fakülteler için dekanın, enstitüler için başkanın,
 polis meslek yüksek okulları için ise okul müdürlerinin onayı ile
 kesinleşir.
 
-**Soruşturma yetkisi ve doğrudan ceza verme**
+Soruşturma yetkisi ve doğrudan ceza verme
 
-**MADDE 18 —** Başkan, fakülte, enstitü ve polis meslek yüksek
+**Madde 18 –** Başkan, fakülte, enstitü ve polis meslek yüksek
 okullarında görevli ek ders görevlileri dışındaki öğretim elemanları ve
 diğer personel ile öğrenciler hakkında Akademi içinde veya dışında
 işlemiş oldukları disiplin suçlarından dolayı soruşturma yapmaya veya
 yaptırmaya yetkilidir.
+
+7945
 
 Bakan veya Genel Müdür gerekli gördüğü hallerde Akademide görevli
 emniyet hizmetleri sınıfından öğretim elemanları ile her düzeydeki
@@ -665,13 +685,13 @@ verebilir.
 Emniyet Teşkilâtı mevzuatında eğitim ve öğretim kurumu müdürlerince
 verilmesi öngörülen cezaları, Başkan da doğrudan vermeye yetkilidir.
 
-**YEDİNCİ BÖLÜM**
+YEDİNCİ BÖLÜM
 
-**Eğitim-Öğretim ve Mezuniyet**
+Eğitim-Öğretim ve Mezuniyet
 
-**Lisans eğitim-öğretimi ve süresi**
+Lisans eğitim-öğretimi ve süresi
 
-**MADDE 19 —** Fakültede lisans eğitim-öğretimi bu Kanunda belirlenen
+**Madde 19 –** Fakültede lisans eğitim-öğretimi bu Kanunda belirlenen
 amaç ve ilkelere göre aşağıdaki şekilde düzenlenir:
 
 a\) Ders programları ilk üç sınıfta polis mesleği için gerekli genel
@@ -701,9 +721,9 @@ iki yıl içerisinde öğretime devam edebileceği ve aktif polislik
 yapabileceği sağlık kurulları ve Genel Müdürlük sağlık komisyonunca
 belirlenenler Akademiye yeniden öğrenci olarak alınabilirler.
 
-**İhtisas bölümlerine ayırma ve uygulama eğitimleri**
+İhtisas bölümlerine ayırma ve uygulama eğitimleri
 
-**MADDE 20 —** Dördüncü sınıfa geçen öğrenciler, fakülte yönetim
+**Madde 20 –** Dördüncü sınıfa geçen öğrenciler, fakülte yönetim
 kurulunca, türü ve kontenjan miktarı Genel Müdürlükçe belirlenecek
 ihtisas bölümlerine ayrılır ve dördüncü sınıfı, ayrıldığı ihtisas
 bölümünde tamamlarlar.
@@ -717,9 +737,11 @@ en az bir, en çok iki ay süre ile esas ve usulleri yönetmelikle
 belirlenecek mesleki eğitim, atış tatbikatı, fizikî kondisyon
 çalışmalarına tâbi tutulurlar.
 
-**Devam-devamsızlık ve mezuniyet**
+7946
 
-**MADDE 21 —** Öğrenciler tüm derslere devam etmek zorundadırlar.
+Devam-devamsızlık ve mezuniyet
+
+**Madde 21 –** Öğrenciler tüm derslere devam etmek zorundadırlar.
 
 Öğrencilerden;
 
@@ -736,13 +758,13 @@ Fakülteyi başarı ile bitiren öğrencilere lisans diploması verilir ve
 3201 sayılı Emniyet Teşkilatı Kanunu ile tespit edilen rütbedeki amir
 sınıfına nasbedilerek ihtiyaç duyulan kadrolara atanırlar.
 
-**SEKİZİNCİ BÖLÜM**
+SEKİZİNCİ BÖLÜM
 
-**Öğretim Elemanlarına İlişkin Esaslar**
+Öğretim Elemanlarına İlişkin Esaslar
 
-**Öğretim elemanları ve görevleri**
+Öğretim elemanları ve görevleri
 
-**MADDE 22 —** Akademide öğretim elemanı olarak görevlendirilecek
+**Madde 22 –** Akademide öğretim elemanı olarak görevlendirilecek
 personel aşağıda gösterilmiştir:
 
 a\) 4.6.1937 tarihli ve 3201 sayılı Emniyet Teşkilatı Kanununun 13 üncü
@@ -781,13 +803,15 @@ ile ilgili verilecek diğer görevleri yerine getirmek,
 
 Akademinin öğretim elemanı kadroları, bu Kanuna ekli cetvelde
 gösterilmiştir. Bu Kanuna ekli, "Polis Akademisi Başkanlığı Öğretim
-Elemanı Kadrolarını Gösterir Cetvel" de 190 sayılı Kanun Hükmünde
+Elemanı Kadrolarını Gösterir Cetvel"de 190 sayılı Kanun Hükmünde
 Kararname hükümleri çerçevesinde unvan ve derece değişikliklerini
 yapmaya Bakanlar Kurulu yetkilidir.
 
-**Yabancı uyruklu öğretim elemanları**
+7947
 
-**MADDE 23 —** Akademide görevlendirilecek yabancı uyruklu öğretim
+Yabancı uyruklu öğretim elemanları
+
+**Madde 23 –** Akademide görevlendirilecek yabancı uyruklu öğretim
 elemanları, Akademinin ihtiyaç göstermesi, Genel Müdürün teklifi ve
 Maliye Bakanlığından alınacak olumlu görüş üzerine, Bakanın onayı ile
 sözleşmeli olarak çalıştırılabilirler. Bu şekilde sözleşmeli olarak
@@ -796,9 +820,9 @@ tarihli ve 2914 sayılı Yüksek Öğretim Personel Kanununun 16 ncı maddesi
 uyarınca Bakanlar Kurulunca belirlenecek esaslar çerçevesinde Bakanlıkça
 tespit edilir.
 
-**Bilimsel faaliyetler**
+Bilimsel faaliyetler
 
-**MADDE 24 —** Her öğretim dönemi sonunda anabilim dalı başkanları o
+**Madde 24 –** Her öğretim dönemi sonunda anabilim dalı başkanları o
 döneme ait eğitim-öğretim ve araştırma faaliyetleri ile gelecek yıldaki
 çalışma plânını belirten bir raporu ilgili bölüm başkanı aracılığı ile
 dekana verir. Dekan bu raporu, kendi kanaatini de ekleyerek Başkana
@@ -816,9 +840,9 @@ dalı başkanı aracılığı ile dekana sunmak zorundadır.
 enstitüler ve Genel Müdürlükte özel olarak arşivlenir. Bu yayınların bir
 nüshası da Yüksek Öğretim Kurulu Dokümantasyon Merkezine gönderilir.
 
-**Öğretim elemanlarının hak ve yükümlülükleri**
+Öğretim elemanlarının hak ve yükümlülükleri
 
-**MADDE 25 —** Öğretim elemanlarının hak ve yükümlülükleri statülerine
+**Madde 25 –** Öğretim elemanlarının hak ve yükümlülükleri statülerine
 göre aşağıda açıklanmıştır :
 
 a\) Öğretim görevlisi olarak görevlendirilen meslek mensupları:
@@ -846,6 +870,8 @@ konusunda 2547 sayılı Yüksek Öğretim Kanunu ve 2914 sayılı Yüksek
 Emniyet Teşkilâtındaki eğitim ve öğretim hizmetleri sınıfı personeline
 yapılan ek ödemeler bu grupta yer alan personele de aynen verilir.
 
+7948
+
 c\) **(Değişik: 25/6/2009-5917/30 md.)** Başkan, başkan yardımcıları,
 dekan yardımcısı, enstitü sekreteri, bölüm başkanları, şube müdürleri,
 polis meslek yüksek okulu müdürleri, müdür yardımcıları ve şube
@@ -868,9 +894,9 @@ Genel Müdür, öğretim elemanları hakkında gerekli gördüğü hallerde ek
 sicil düzenlemeye yetkilidir. Bu sicil bütün değerlendirmelerde esas
 alınır.
 
-**Öğretim elemanı yetiştirme, lisans üstü eğitim-öğretim ve enstitüler**
+Öğretim elemanı yetiştirme, lisans üstü eğitim-öğretim ve enstitüler
 
-**MADDE 26 —** Akademi, eğitim-öğretim ihtiyaçları için 2547 sayılı
+**Madde 26 – **Akademi, eğitim-öğretim ihtiyaçları için 2547 sayılı
 Yüksek Öğretim Kanununda belirtilen esas ve usullere göre yurt içinde ve
 dışında öğretim elemanı yetiştirebilir.
 
@@ -906,21 +932,23 @@ sayılı Yüksek Öğretim Kanununun yüksek öğretim kurumları ile ilgili
 hükümlerine ve buna dayalı olarak verilen diplomalar, çıkarılacak
 yönetmelikle belirlenir.
 
-**Enstitü sekreteri**
+7949
 
-**MADDE 27 —** Enstitülerdeki idari personelin ve öğrenci işlerinin tüm
+Enstitü sekreteri
+
+**Madde 27 –** Enstitülerdeki idari personelin ve öğrenci işlerinin tüm
 yönetim, denetim ve gözetiminden enstitü müdürüne karşı sorumlu kişidir.
 
 Teşkilâttaki ikinci sınıf emniyet müdürleri arasından Genel Müdürün
 teklifi, Bakanın onayı ile atanır.
 
-**DOKUZUNCU BÖLÜM**
+DOKUZUNCU BÖLÜM
 
-**Çeşitli Hükümler**
+Çeşitli Hükümler
 
-**Denetim ve sosyal hizmetler**
+Denetim ve sosyal hizmetler
 
-**MADDE 28 —** Akademi, Bakanlık ve Genel Müdürlük denetleme
+**Madde 28 – **Akademi, Bakanlık ve Genel Müdürlük denetleme
 elemanlarınca mesleki eğitim, idarî ve malî yönden yılda en az bir defa
 denetlenir. Bilimsel denetim ise 2547 sayılı Yüksek Öğretim Kanunu
 uyarınca Yüksek Öğretim Kurulu tarafından yapılır.
@@ -936,9 +964,9 @@ sahaları sağlanması, kantin, çeşitli sosyal ihtiyaçlarını karşılayacak
 Akademide, öğrencilerin şahsi ve ailevi sorunlarını çözümlemek amacıyla
 rehberlik ve psikolojik danışma merkezleri kurulur.
 
-**Döner sermaye**
+Döner sermaye
 
-**MADDE 29 —** Akademide ilgili bölümlerin isteği üzerine, Eğitim ve
+**Madde 29 –** Akademide ilgili bölümlerin isteği üzerine, Eğitim ve
 Öğretim Yüksek Kurulunun önerisi, Başkanın olumlu görüşü ve Genel
 Müdürün onayı ile döner sermaye işletmesi kurulabilir. Verilecek ilk
 sermayenin miktarı bütçede gösterilir. Genel Müdürün önerisi ve Maliye
@@ -959,16 +987,13 @@ ile ilgili yönetim işlerinin yürütülmesi usul ve esasları, Eğitim ve
 Döner sermaye işletmesi, 1050 sayılı Muhasebei Umumiye ve 2886 sayılı
 Devlet İhale Kanunlarına tâbi değildir.
 
-Personelin katkısıyla elde edilen döner sermaye gelirlerinden; o birimde
-görevli personele bunların bir yılda alacakları aylık (ek gösterge
-dahil), yan ödeme ve her türlü tazminat ve ödenek tutarının %100’ünü
-aşmamak üzere dağıtılacak ek ödemenin usul ve esasları Maliye
-Bakanlığının uygun görüşü üzerine Bakanlıkça hazırlanacak yönetmelikle
-belirlenir.
+**(Mülga beşinci fıkra: 11/10/2011-KHK-666/1 md.)**
 
-**Yönetmelikler**
+7950
 
-**MADDE 30 —** Aşağıdaki hususlar;
+Yönetmelikler
+
+**Madde 30 –** Aşağıdaki hususlar;
 
 a\) Akademinin yönetim birimlerinin kuruluş, görev, çalışma esas ve
 usulleri,
@@ -1000,27 +1025,21 @@ Bakanlıkça çıkarılacak yönetmelikle düzenlenir. Ancak akademik konularla
 ilgili yönetmeliklerde Eğitim ve Öğretim Yüksek Kurulunun da görüşü
 alınır.
 
-**MADDE 31—** 3201 sayılı Emniyet Teşkilatı Kanununun 13 üncü maddesinde
-belirtilen görev unvanlarına; ikinci meslek derecesinde, "Akademi başkan
-yardımcısı, dekan yardımcısı, polis meslek yüksek okulu müdürü", üçüncü
-meslek derecesinde, "enstitü sekreteri, polis meslek yüksek okulu müdür
-yardımcısı, öğretim görevlisi, emniyet müdürü APK uzmanı", dördüncü,
-beşinci, altıncı, yedinci, sekizinci ve dokuzuncu meslek derecelerinde,
-"öğretim görevlisi" eklenmiş, üçüncü meslek derecesinde sayılan Akademi
-Başkan yardımcısı unvanı çıkarılmıştır.
+**Madde 31 – **(3201 sayılı Emniyet Teşkilatı Kanununun 13 üncü maddesi
+ile ilgili olup yerine işlenmiştir.)
 
-**Yürürlükten kaldırılan ve değiştirilen Kanun hükümleri**
+Yürürlükten kaldırılan ve değiştirilen Kanun hükümleri
 
-**MADDE 32 —** 3201 sayılı Emniyet Teşkilâtı Kanununun 19 uncu
-maddesinin iki, üç, dört ve beşinci fıkraları ile 29.7.1993 tarihli ve
+**Madde 32 –** 3201 sayılı Emniyet Teşkilâtı Kanununun 19 uncu
+maddesinin iki, üç, dört ve beşinci fıkraları ile 29/7/1993 tarihli ve
 490 sayılı Emniyet Teşkilâtı Kanununun Bir Maddesinde Değişiklik
-Yapılmasına Dair Kanun Hükmünde Kararname ve 28.11.1984 tarihli ve 3087
+Yapılmasına Dair Kanun Hükmünde Kararname ve 28/11/1984 tarihli ve 3087
 sayılı Polis Yükseköğretim Kanunu yürürlükten kaldırılmış ve 2451 sayılı
 Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanunun ekinde
 yer alan (II) sayılı cetvele "İl Emniyet Müdürü" ibaresinden önce gelmek
 üzere "Polis Akademisi Başkanı" ibaresi eklenmiştir.
 
-**GEÇİCİMADDE 1 —** Mevcut polis okullarından polis meslek yüksek
+**Geçici Madde 1 – **Mevcut polis okullarından polis meslek yüksek
 okullarına dönüştürülmeyenlerden Genel Müdürlükçe uygun görülenler,
 hizmet içi eğitim amacıyla polis eğitim merkezi olarak kullanılabilir.
 
@@ -1030,13 +1049,15 @@ girdiği tarihi takip eden dönemde başlar.
 Polis meslek yüksek okullarında eğitim-öğretim başlayıncaya kadar mevcut
 polis okullarında eğitim-öğretime devam olunur.
 
+7951-7953
+
 Bu Kanunun yürürlüğe girdiği tarihten önce polis okuluna giriş
 sınavlarında başarılı olmuş ancak çeşitli mazeretleri nedeniyle Polis
 Okulunda öğrenime başlayamamış veya mazeretleri nedeniyle eğitimlerine
 ara verilenlerle halen Polis Okullarında öğrenime devam eden
 öğrencilerin kazanılmış hakları saklı kalır.
 
-**GEÇİCİMADDE 2 —** Bu Kanuna ekli (1) sayılı cetvellerde yer alan
+**Geçici Madde 2 – **Bu Kanuna ekli (1) sayılı cetvellerde yer alan
 kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I)
 sayılı cetvelin Emniyet Genel Müdürlüğüne ait bölümüne eklenmiştir. Bu
 Kanuna ekli (2) sayılı cetvelde yer alan kadrolar iptal edilerek 190
@@ -1047,7 +1068,7 @@ okullarının eğitim-öğretime başladığı tarihte hiç bir işleme gerek
 kalmaksızın iptal edilerek, 190 sayılı Kanun Hükmünde Kararnamenin eki
 cetvellerden çıkarılmış sayılır. ^(1)^
 
-**GEÇİCİMADDE 3 —** Bu Kanun ile yapılan yeni düzenlemeler sebebiyle
+**Geçici Madde 3 –** Bu Kanun ile yapılan yeni düzenlemeler sebebiyle
 kadro ve görev unvanları değişmeyenler, bu Kanunla ihdas edilen
 kadrolara atanmış sayılırlar.
 
@@ -1066,20 +1087,22 @@ müdürleri atanıncaya kadar, Akademi yönetim kurulu; Başkanın
 başkanlığında, eğitim ve öğretim işleriyle görevli başkan yardımcısı ile
 bölüm başkanlarından oluşur.
 
-**GEÇİCİMADDE 4 — (Mülga: 25/6/2009-5917/30 md.) **
+**Geçici Madde 4 – (Mülga: 25/6/2009-5917/30 md.)**
 
-**GEÇİCİMADDE 5 —** Bu Kanunun yürürlüğe girmesinden önce polis
+**Geçici Madde 5 – **Bu Kanunun yürürlüğe girmesinden önce polis
 enstitüsünün yüksek öğrenim kısmı ile Polis Akademisinden mezun
 olanların kazanılmış hakları saklıdır.
 
-**MADDE 33 —** Bu Kanun yayımı tarihinde yürürlüğe girer.
+**Madde 33 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-**MADDE 34 —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**Madde 34 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 ——————————
 
-\(1) Bu maddede yer alan kadrolarla ilgili olarak 9/5/2001 tarihli ve
-24397 sayılı Resmi Gazete’ye bakınız.
+\(1) Bu maddede sözü edilen kadrolar, 9/5/2001 tarihli ve 24397 sayılı
+Resmi Gazete’de yayımlanmıştır.
+
+7952-7960
 
 **4652 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -1088,10 +1111,11 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4652 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5917                                                                         25, GEÇİCİ MADDE 4                                            1/1/2010
   6114                                                                         10, 15                                                        3/3/2011
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  KHK/666                                                                      29                                                            31/12/2011 tarihinden geçerli olmak üzere 2/11/2011 tarihinde
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------------------
 
 
