@@ -1,6 +1,4 @@
-6460 sayılı Kanun ile değişik hali
-
- 
+6462 sayılı Kanun ile değişik hali
 
 []{#K29 .anchor}HAKİMLER VE SAVCILAR KANUNU ^(1)(2)^
 
@@ -254,11 +252,11 @@ olmak,
 g\) Hakimlik ve savcılık görevlerini sürekli olarak yurdun her yerinde
 yapmasına engel olabilecek vücut ve akıl hastalığı veya engelliliği,
 alışılmışın dışında çevrenin yadırgayacağı şekilde konuşma ve
-organlarının hareketini kontrol zorluğu çekmek gibi özürlü durumları
-bulunmamak,
+organlarının hareketini kontrol zorluğu çekmek gibi engeli bulunmamak,
+^(1)^
 
 h\) **(Değişik: 11/9/1987 – KHK 276/3 md.; Aynen Kabül: 24/2/1988-3409/3
-md.)** Taksirli suçlar hariç olmak üzere, (...) ^(1)^ üç aydan fazla
+md.)** Taksirli suçlar hariç olmak üzere, (...) ^(2)^ üç aydan fazla
 hapis veya affa uğramış olsa bile Devletin şahsiyetine karşı işlenen
 suçlarla zimmet, ihtilas, irtikap, rüşvet, hırsızlık, dolandırıcılık,
 sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı
@@ -267,7 +265,7 @@ alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma
 suçlarından dolayı hükümlü bulunmamak veya bu suçlardan veya taksirli
 suçlar hariç olmak üzere üç aydan fazla hürriyeti bağlayıcı cezayı
 gerektiren bir fiilden dolayı soruşturma veya kovuşturma altında
-olmamak.
+olmamak. ^(2)^
 
 I\) Yazılı yarışma sınavı ile mülakatta başarı göstermek,
 
@@ -279,7 +277,7 @@ isteyenler için; yukarıdaki (ı) bendi hariç diğer şartları taşımakla
 birlikte, mesleklerinde fiilen en az beş yıl çalışmış, giriş sınavının
 yapıldığı tarih itibariyle kırkbeş yaşını doldurmamış ve kendi
 aralarında yapılacak olan yazılı yarışma sınavında ve mülâkatta başarılı
-olmak, ^(2)\ (3)^
+olmak, ^(3)\ (4)^
 
 şarttır.
 
@@ -289,6 +287,26 @@ olmak, ^(2)\ (3)^
 alınacak aday sayısı, avukatlık mesleğinden alınacaklarla birlikte
 Türkiye Adalet Akademisinin görüşü alınmak suretiyle, kadro ve ihtiyaç
 durumuna göre Adalet Bakanlığınca tespit edilir.
+
+–––––––––––––––––
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “sakatlığı” ve “özürlü durumları” ibareleri sırasıyla
+“engelliliği” ve “engeli” şeklinde değiştirilmiştir.*
+
+*(2) Bu arada yer alan " ağır hapis veya" ibaresi; 22/12/2005 tarihli ve
+5435 sayılı Kanunun 1 inci maddesiy le madde metninden çıkarılmıştır.*
+
+*(3) 8/8/2011 tarihli ve 650 sayılı KHK’nin 15 inci maddesiyle, bu
+bentte yer alan “otuzbeş” ibaresi “kırkbeş” şeklinde değiştirilmiş ve
+metne işlenmiştir.*
+
+*(4) 24/10/2011 tarihli ve 661 sayılı KHK’nin 22 nci maddesiyle, bu
+bentte yer alan “giriş sınavının yapıldığı yılın Ocak ayının son günü”
+ibaresi “giriş sınavının yapıldığı tarih” şeklinde değiştirilmiş ve
+metne işlenmiştir.*
+
+5616-2
 
 **(İkinci fıkra İptal: Ana.Mah.‘nin 14/12/1995 tarih ve
 E.1995/19,K.1995/64 sayılı kararı ile; Yeniden düzenleme:
@@ -308,20 +326,6 @@ iddia edemezler.
 Doktora yapanlar sadece mülakata tabi tutulurlar.
 
 **(Mülga dört, beş ve altıncı fıkra: 22/12/2005 - 5435/ 43 md.)**
-
-–––––––––––––––––
-
-*(1) Bu arada yer alan " ağır hapis veya" ibaresi; 22/12/2005 tarihli ve
-5435 sayılı Kanunun 1 inci maddesiy le madde metninden çıkarılmıştır.*
-
-*(2) 8/8/2011 tarihli ve 650 sayılı KHK’nin 15 inci maddesiyle, bu
-bentte yer alan “otuzbeş” ibaresi “kırkbeş” şeklinde değiştirilmiş ve
-metne işlenmiştir.*
-
-*(3) 24/10/2011 tarihli ve 661 sayılı KHK’nin 22 nci maddesiyle, bu
-bentte yer alan “giriş sınavının yapıldığı yılın Ocak ayının son günü”
-ibaresi “giriş sınavının yapıldığı tarih” şeklinde değiştirilmiş ve
-metne işlenmiştir.*
 
 5617
 
@@ -4460,6 +4464,8 @@ Madde 16,17,17,            15/7/2006
   6352                              37                                            5/7/2011
 
   6460                              21, 33, 50                                    30/4/2013
+
+  6462                              8                                             3/5/2013
   --------------------------------- --------------------------------------------- ---------------------------------------------------
 
 
