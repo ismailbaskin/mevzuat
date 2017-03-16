@@ -1,4 +1,4 @@
-**6462 sayılı Kanun ile değişik hali**
+**6495 sayılı Kanun ile değişik hali**
 
 **TÜRK TİCARET KANUNU ^(1)^**
 
@@ -10598,6 +10598,11 @@ sebepten dolayı şirketten çıkarılması.
 aranıyorsa, bu nisabı daha da ağırlaştıracak şirket sözleşmesi
 hükümleri, ancak şirket sözleşmesinde öngörülecek çoğunlukla kabul
 edilebilir.
+
+\(3) **(Ek: 12/7/2013-6495/52 md.)** Bir ortağın şirketten çıkarılma
+sebeplerinin sonradan şirket sözleşmesine konulabilmesine dair sözleşme
+değişikliği, şirket sermayesini temsil eden tüm ortakların genel kurul
+toplantısında oy birliği ile karar almasıyla mümkündür.
 
 **IV- Genel kurul kararlarının butlanı ve iptali**
 
@@ -24570,6 +24575,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                359, 397, 400, 635                                            11/4/2013
 
   6462                                                                         1507                                                          3/5/2013
+
+  6495                                                                         621                                                           2/8/2013
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------
 
 
