@@ -1,4 +1,4 @@
-**6496 sayılı Kanun ile değişik hali**
+6107
 
 []{#K7 .anchor}**TÜRK SİVİL HAVACILIK KANUNU ^(1)\ (2)^ **
 
@@ -47,8 +47,9 @@ altındaki ülke ile Türk karasuları üzerindeki sahayı,
 b\) "Hava Aracı" terimi: havalanabilen ve havada seyredebilme
 kaabiliyetine sahip her türlü aracı,
 
-c\) "Devlet Hava Aracı" terimi: Devletin askerlik, güvenlik ve gümrük
-hizmetlerinde kullandığı araçları,
+c\) **(Değişik: 12/7/2013-6495/25 md.)** “Devlet Hava Aracı” terimi:
+Devletin askerlik, güvenlik, gümrük ve orman yangınları ile mücadele
+hizmetlerinde kullandığı hava araçları,
 
 d\) "Türk Sivil Hava Aracı" terimi: Devlet hava araçları tanımı dışında
 kalan ve mülkiyeti Türk Devletine veya kamu tüzelkişilerine veya Türk
@@ -670,6 +671,18 @@ Sivil Havacılık Genel Müdürlüğü, havaalanları ve uçuş emniyeti tesisle
 etrafında uçuş emniyetini tehlikeye düşürebilecek yapı, bina, ağaç,
 direk gibi tesisleri kaldırtabilir. ^(1)^
 
+\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 13/7/2013 tarihli ve 6496 sayılı Kanunun 27 nci maddesi ile bu
+maddenin birinci fıkrasında yer alan “Ulaştırma Bakanlığınca” ibaresi
+“Sivil Havacılık Genel Müdürlüğünce”, ikinci ve üçüncü fıkralarında yer
+alan “Ulaştırma Bakanlığı” ibareleri “Sivil Havacılık Genel Müdürlüğü”
+ve altıncı fıkrasında yer alan “Ulaştırma Bakanlığının” ibaresi “Millî
+Savunma Bakanlığının veya Sivil Havacılık Genel Müdürlüğünün” şeklinde
+değiştirilmiştir.*
+
+6114-1
+
 Sivil Havacılık Genel Müdürlüğü belirli manialara veya yerlere, hava
 seyrüseferi yapan kişilerce görülebilmesi ve tanınabilmesi için gözle
 görülebilir işaretler veya radyo veya elektrik işaretlerinin konulmasını
@@ -706,7 +719,7 @@ gücü kullanılarak yerine getirilir. ^(1)^
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-(*1) 13/7/2013 tarihli ve 6496 sayılı Kanunun 27 nci maddesi ile bu
+*(1) 13/7/2013 tarihli ve 6496 sayılı Kanunun 27 nci maddesi ile bu
 maddenin birinci fıkrasında yer alan “Ulaştırma Bakanlığınca” ibaresi
 “Sivil Havacılık Genel Müdürlüğünce”, ikinci ve üçüncü fıkralarında yer
 alan “Ulaştırma Bakanlığı” ibareleri “Sivil Havacılık Genel Müdürlüğü”
@@ -1255,63 +1268,60 @@ ilgili bakanlıklar ve Genelkurmay Başkanlığının görüşünü alır.
 
 6122
 
-             İnme mecburiyeti
+*İnme mecburiyeti*
 
-             **Madde 94 –** Can ve mal güvenliği veya kamu düzeni veya
-yurt güvenliği gerekçesi ile, yetkili makamlardan vaki olacak talimat
-karşısında hava aracının bildirilecek havaalanına inmesi zorunludur.
+**Madde 94 –** Can ve mal güvenliği veya kamu düzeni veya yurt güvenliği
+gerekçesi ile, yetkili makamlardan vaki olacak talimat karşısında hava
+aracının bildirilecek havaalanına inmesi zorunludur.
 
-             Birinci fıkra hükmünün uygulanmasında, Ulaştırma Bakanlığı
-gerektiğinde; Genelkurmay Başkanlığı, İçişleri, Dışişleri ve Gümrük ve
-Tekel bakanlıkları ile işbirliği yapar.
+Birinci fıkra hükmünün uygulanmasında, Ulaştırma Bakanlığı gerektiğinde;
+Genelkurmay Başkanlığı, İçişleri, Dışişleri ve Gümrük ve Tekel
+bakanlıkları ile işbirliği yapar.
 
 YEDİNCİ BÖLÜM
 
-Sivil Havacılık Personeli
+*Sivil Havacılık Personeli *
 
-             Yeterlik belgesi
+*Yeterlik belgesi*
 
-             **Madde 95 –** Pilotlar ile hava aracının sevk ve idaresi
-bakımından gerekli personelin, faaliyette bulunabilmeleri için,
-Ulaştırma Bakanlığından yeterlik belgesi almaları ve bu belgeleri
-belirli süreler içinde yenilemeleri zorunludur.
+**Madde 95 –** Pilotlar ile hava aracının sevk ve idaresi bakımından
+gerekli personelin, faaliyette bulunabilmeleri için, Ulaştırma
+Bakanlığından yeterlik belgesi almaları ve bu belgeleri belirli süreler
+içinde yenilemeleri zorunludur.
 
-             Ulaştırma Bakanlığı yeterlik belgesi almaları gereken
-birinci fıkrada belirtilen personel ve diğer havacılık personelinin
-kategorilerinin saptanması, belge verilmesi, geçerliliği, yenilenmesi,
-geri alınması ve sicillerin tutulması kurallarını yönetmelikle düzenler.
+Ulaştırma Bakanlığı yeterlik belgesi almaları gereken birinci fıkrada
+belirtilen personel ve diğer havacılık personelinin kategorilerinin
+saptanması, belge verilmesi, geçerliliği, yenilenmesi, geri alınması ve
+sicillerin tutulması kurallarını yönetmelikle düzenler.
 
-             Yabancı devletler tarafından verilmiş yeterlik belgeleri
+*Yabancı devletler tarafından verilmiş yeterlik belgeleri*
 
-             **Madde 96 –** Yabancı bir devletin yetkili makamları
-tarafından usulüne uygun surette düzenlenmiş veya geçerliliği onanmış
-yeterlik belgeleri, Türkiye'nin taraf olduğu uluslararası anlaşmalar
-çerçevesinde bu Kanunun uygulaması bakımından da geçerli olarak kabul
-edilir.
+**Madde 96 –** Yabancı bir devletin yetkili makamları tarafından usulüne
+uygun surette düzenlenmiş veya geçerliliği onanmış yeterlik belgeleri,
+Türkiye'nin taraf olduğu uluslararası anlaşmalar çerçevesinde bu Kanunun
+uygulaması bakımından da geçerli olarak kabul edilir.
 
-             Yeterlik belgesini düzenlemiş veya onamış bulunan devletin
-veya belge sahibinin vatandaşı olduğu devletin,Türk Sivil hava
-araçlarına veya bu Kanun hükümleri uyarınca verilmiş yeterlik
-belgelerine veya sahiplerine karşı kasıtlı işlem yapmaları durumunda,
-birinci fıkra hükmü uygulanmaz.
+Yeterlik belgesini düzenlemiş veya onamış bulunan devletin veya belge
+sahibinin vatandaşı olduğu devletin,Türk Sivil hava araçlarına veya bu
+Kanun hükümleri uyarınca verilmiş yeterlik belgelerine veya sahiplerine
+karşı kasıtlı işlem yapmaları durumunda, birinci fıkra hükmü uygulanmaz.
 
-             Yabancı bir devlet tarafından Türk vatandaşlarına verilmiş
-yeterlik belgelerinin, hangi koşullar altında geçerli sayılacağı
-yönetmelikle belirlenir.
+Yabancı bir devlet tarafından Türk vatandaşlarına verilmiş yeterlik
+belgelerinin, hangi koşullar altında geçerli sayılacağı yönetmelikle
+belirlenir.
 
-             Yeterlik belgesinin iptali ve geri alınması
+*Yeterlik belgesinin iptali ve geri alınması *
 
-             **Madde 97 –** Yeterlik belgesinin verilmesi için zorunlu
-bulunan asgari koşulların ortadan kalkması durumunda, belge iptal
-edilir.
+**Madde 97 –** Yeterlik belgesinin verilmesi için zorunlu bulunan asgari
+koşulların ortadan kalkması durumunda, belge iptal edilir.
 
-             Yeterlik belgesinin verilmesi için aranan niteliklerde
-geçici olarak değişiklik meydana gelenlerin belgeleri, durumlarının
-düzeldiği saptanıncaya kadar geri alınır.
+Yeterlik belgesinin verilmesi için aranan niteliklerde geçici olarak
+değişiklik meydana gelenlerin belgeleri, durumlarının düzeldiği
+saptanıncaya kadar geri alınır.
 
-            İdari önlem
+*İdari önlem *
 
-             **Madde 98 – (Değişik: 23/1/2008-5728/432 md.)**
+**Madde 98 – (Değişik: 23/1/2008-5728/432 md.)**
 
 Gerek bu Kanunda ve gerekse ilgili tüzük ve yönetmeliklerde yer alan ve
 can ve mal güvenliğinin korunmasına yönelik kurallara aykırı
@@ -1320,21 +1330,28 @@ başlatılmış bulunan sivil havacılık personelinin yeterlik belgelerini,
 soruşturma veya kovuşturma sonuçlanıncaya kadar geri almaya, Ulaştırma
 Bakanlığı yetkilidir.
 
+**(Ek fıkra: 15/8/2016-KHK-671/14 md.; Aynen kabul: 9/11/2016-6757/12
+md.)** 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel
+Kanunu uyarınca belirlenen yükümlülük süresini tamamlamadan bir mahkeme
+veya disiplin kurulu kararına dayanılarak Türk Silahlı Kuvvetlerinden
+ilişiği kesilenler, kalan yükümlülük süresi dolmadan yeterlik belgesinin
+sağladığı yetki ve imtiyazları kullanamazlar.
+
 Ceza Muhakemesi Kanununda yer alan koruma tedbirlerine ilişkin hükümler
 saklıdır.
 
-             Eğitim ve öğretim
+*Eğitim ve öğretim *
 
-             **Madde 99 –** Sivil havacılık sahasında eleman yetiştirmek
-veya bu sahada öğrencileri yüksek öğretime hazırlamak amacıyla;
-Ulaştırma Bakanlığına bağlı lise veya dengi okullar 1739 sayılı Milli
-Eğitim Temel Kanununun 58 inci maddesine uygun olarak açılabilir. Gerçek
-ve tüzelkişiler de aynı amaçla 625 sayılı Özel Eğitim Kurumları Kanunu
+**Madde 99 –** Sivil havacılık sahasında eleman yetiştirmek veya bu
+sahada öğrencileri yüksek öğretime hazırlamak amacıyla; Ulaştırma
+Bakanlığına bağlı lise veya dengi okullar 1739 sayılı Milli Eğitim Temel
+Kanununun 58 inci maddesine uygun olarak açılabilir. Gerçek ve
+tüzelkişiler de aynı amaçla 625 sayılı Özel Eğitim Kurumları Kanunu
 esaslarına göre özel okullar açabilirler.
 
-             Sivil havacılık sahasında meslek elemanı yetiştirmek üzere
-2547 sayılı Yükseköğretim Kanunundaki esaslara uygun olarak
-yüksekokullar kurulabilir.
+Sivil havacılık sahasında meslek elemanı yetiştirmek üzere 2547 sayılı
+Yükseköğretim Kanunundaki esaslara uygun olarak yüksekokullar
+kurulabilir.
 
 6123
 
@@ -1887,15 +1904,15 @@ edilir.
 
  
 
-            Ek sigorta yükümlülüğü
+*            Ek sigorta yükümlülüğü*
 
             **Madde 139 –** Uluslararası hatlarda işletilecek Türk sivil
 hava araçlarını gerektiğinde tabi olacakları ek sigorta veya teminat
 şartlarını saptamaya Türkiye'nin taraf olduğu uluslararası anlaşmalar
 uyarınca Ulaştırma Bakanlığı yetkilidir.
 
-            Üçüncü şahıslara verilecek zarara karşı sigorta şartlarının
-tespiti
+*            Üçüncü şahıslara verilecek zarara karşı sigorta şartlarının
+tespiti *
 
             **Madde 140 –** Üçüncü şahıslara karşı verilecek zararın
 teminatı olarak işleten tarafından yapılacak mali mesuliyet sigortasının
@@ -1905,10 +1922,10 @@ Ulaştırma bakanlıklarınca müştereken tespit edilir.
                                                              BEŞİNCİ
 KISIM
 
-                                                             Ceza
-Hükümleri
+*                                                             Ceza
+Hükümleri *
 
-            Suç oluşturan davranışlar ^(1)^
+*            Suç oluşturan davranışlar ^(1)^*
 
             **Madde 141 – (Değişik: 23/1/2008-5728/434 md.) **
 
@@ -1922,7 +1939,7 @@ bulunanlar, iki aydan iki yıla kadar hapis cezası ile cezalandırılır.
 
             **Madde 142 – (Mülga: 23/1/2008-5728/578 md.)**
 
-            Kabahat oluşturan davranışlar ^(2)^
+*            Kabahat oluşturan davranışlar ^(2)^*
 
             **Madde 143 – (Değişik: 23/1/2008-5728/435 md.) **
 
@@ -1942,12 +1959,64 @@ idarî para cezası verilir.
 Yukarıdaki fıkralarda belirtilenler dışında kalıp da Sivil Havacılık
 Genel Müdürlüğünün sivil havacılığı düzenlemek maksadıyla alacağı
 önlemlere uymayanlara, beşyüz Türk Lirasından onbin Türk Lirasına kadar
-idarî para cezası verilir. *^(3)^*
+idarî para cezası verilir. ^(3)^
 
 Bu madde hükümlerine göre idarî para cezasına karar vermeye Ulaştırma
 Bakanlığı Sivil Havacılık Genel Müdürü yetkilidir.
 
-            **Madde 144 – (Mülga: 23/1/2008-5728/578 md.)**
+––––––––––––––
+
+*(1) Bu madde başlığı “Hürriyeti bağlayıcı cezayı ve para cezasını
+gerektiren davranışlar“ iken, 23/1/2008 tarihli ve 5728 sayılı Kanunun
+434 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+
+*(2) Bu madde başlığı “Para cezasını gerektiren davranışlar“ iken,
+23/1/2008 tarihli ve 5728 sayılı Kanunun 435 inci  maddesiyle metne
+işlendiği şekilde değiştirilmiştir.*
+
+*(3) 24/10/2011 tarihli ve 661 sayılı KHK’nın 23 üncü maddesi ile bu
+fıkrada yer alan “Ulaştırma Bakanlığının” ibaresi “Sivil Havacılık Genel
+Müdürlüğünün” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+6131
+
+*İnsansız hava araçları ^(1)^*
+
+**Madde 144 – (Mülga: 23/1/2008-5728/578 md.; Yeniden düzenleme:
+15/8/2016-KHK-674/33 md.; Aynen kabul: 10/11/2016-6758/29 md.)**
+
+İnsansız hava aracı satan şirketlerin sorumlu işleticileri ve
+yöneticileri, satılan araç bilgileri ile satın alanların kimlik
+bilgilerini usulüne uygun şekilde tutmak ve azami kalkış ağırlığı beşyüz
+gram (dahil) üzerindeki insansız hava araçları ile ilgili bilgileri,
+aynı gün içinde Sivil Havacılık Genel Müdürlüğü tarafından oluşturulan
+kayıt sistemine kaydetmek zorundadır. Bu kayıtlar, suç işlenmesinin
+önlenmesi ve suç soruşturmalarında kullanılmak üzere kolluk birimleriyle
+paylaşılır. Bu yükümlülüğe aykırı hareket edenler ile yurtdışından
+bireysel olarak getirdiği veya yurtiçinde devraldığı aracı en geç üç gün
+içinde sisteme kaydettirmeyenlere beşbin Türk Lirası idari para cezası
+verilir.
+
+Kayıt esnasında gerçeğe aykırı beyanda bulunanlar veya veri girişi
+yapanlara onbin Türk Lirası idari para cezası verilir.
+
+Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca belirlenen kurallara
+aykırı olarak veya mülki idare amirlerince belirlenen alanlar dışında
+insansız hava aracı uçuran kişilere bin Türk Lirasından onbin Türk
+Lirasına kadar idari para cezası uygulanır.
+
+Yukarıda sayılanlar dışında kalıp da Sivil Havacılık Genel Müdürlüğünün
+insansız hava araçları ile ilgili koyduğu kurallara ve bu kapsamda sivil
+havacılığı düzenlemek maksadıyla alacağı önlemlere uymayanlara bin Türk
+Lirasından onbin Türk Lirasına kadar idari para cezası verilir.
+
+Belirlenen alanlar dışında insansız hava aracı uçuranlara uygulanacak
+idari para cezaları mahallin mülki idare amirince, diğer idari para
+cezaları ise Sivil Havacılık Genel Müdürü tarafından uygulanır.
+
+Bu maddenin uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığı ve
+Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca müştereken çıkarılan
+yönetmelikle düzenlenir.
 
             *Ulaştırma Bakanlığının alacağı önlemlere uymayanlara
 verilecek ceza *
@@ -1959,36 +2028,16 @@ verilecek ceza *
                                                              ALTINCI
 KISIM
 
-                                                             Çeşitli
-Hükümler
+*                                                             Çeşitli
+Hükümler *
 
-            Cebri icra
+*            Cebri icra*
 
             **Madde 146 –** Sivil hava araçları cebri icra yönünden 2004
 sayılı İcra ve İflas Kanununun hükümlerine tabi olup, anılan Kanunun 26
 ncı maddesi, bu Kanun bakımından sivil hava araçlarını da kapsar.
 
- 
-
-––––––––––––––
-
-\(1) Bu madde başlığı “Hürriyeti bağlayıcı cezayı ve para cezasını
-gerektiren davranışlar“ iken, 23/1/2008 tarihli ve 5728 sayılı Kanunun
-434 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
-\(2) Bu madde başlığı “Para cezasını gerektiren davranışlar“ iken,
-23/1/2008 tarihli ve 5728 sayılı Kanunun 435 inci  maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
-
-\(3) 24/10/2011 tarihli ve 661 sayılı KHK’nın 23 üncü maddesi ile bu
-fıkrada yer alan “Ulaştırma Bakanlığının” ibaresi “Sivil Havacılık Genel
-Müdürlüğünün” şeklinde değiştirilmiş ve metne işlenmiştir.
-
-6131
-
- 
-
-             İstatistiki bilgiler
+ *             İstatistiki bilgiler*
 
              **Madde 147 –** Türk sivil hava araçlarının malikleri ve
 işletenleri, işletmeleri ile ilgili yıllık faaliyet programlarını ve yıl
@@ -1997,7 +2046,7 @@ sonu faaliyet raporlarını Ulaştırma Bakanlığına vermeye mecburdurlar.
              Bu istatistiki bilgilerin kapsamı ve veriliş zamanları
 Ulaştırma Bakanlığınca hazırlanacak yönetmelikle düzenlenir.
 
-             Tüzük ve yönetmelikler
+*             Tüzük ve yönetmelikler*
 
              **Madde 148 –** Bu Kanunda belirtilen tüzük ve
 yönetmelikler bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay
@@ -2005,16 +2054,23 @@ içinde hazırlanır ve Resmi Gazete'de yayımlanarak yürürlüğe konulur.
 
 YEDİNCİ KISIM
 
-Son Hükümler
+*Son Hükümler*
 
-             Yürürlük
+*             Yürürlük*
 
              **Madde 149 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-             Yürütme
+*             Yürütme *
 
              **Madde 150 –** Bu Kanun hükümlerini Bakanlar Kurulu
 yürütür.
+
+––––––––––––––
+
+*(1) Bu madde başlığı 15/8/2016 tarihli ve 674 sayılı KHK’nin 33 üncü
+maddesinin hükmüyle düzenlenmiş olup, daha sonra bu hüküm 10/11/2016
+tarihli ve 6758 sayılı Kanunun 29 uncu maddesiyle aynen kabul edilerek
+kanunlaşmıştır.*
 
 6132-1/6133
 
@@ -2042,7 +2098,17 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
   6353                                                  68/A                                                          12/7/2012
 
+  6495                                                  3/c                                                           2/8/2013
+
   6496                                                  47                                                            31/7/2013
+
+  KHK/671                                               98                                                            17/8/2016
+
+  KHK/674                                               144                                                           1/9/2016
+
+  6757                                                  98                                                            24/11/2016
+
+  6758                                                  144                                                           24/11/2016
   ----------------------------------------------------- ------------------------------------------------------------- ----------------------
 
 
