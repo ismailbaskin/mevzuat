@@ -1,4 +1,5 @@
-5393 sayılı Kanunun 5998 sayılı Kanun ile Değişik Hali
+5393 sayılı Kanunun Anayasa mahkemesinin 4/2/2010 tarihli ve E.: 2008/27
+K.: 2010/29 sayılı Kararı ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -681,11 +682,9 @@ Kararlar kesinleştiği tarihten itibaren en geç yedi gün içinde mahallin
 en büyük mülkî idare amirine gönderilir. Mülkî idare amirine
 gönderilmeyen kararlar yürürlüğe girmez.
 
-Mülkî idare amiri hukuka aykırı gördüğü kararlar aleyhine idarî yargıya
-başvurabilir.
-
-Kesinleşen meclis kararlarının özetleri yedi gün içinde uygun araçlarla
-halka duyurulur.
+**(İptal beşinci fıkra: Anayasa Mahkemesi’nin 4/2/2010 tarihli ve E.:
+2008/27, K.: 2010/29 sayılı Kararı ile.)** Kesinleşen meclis
+kararlarının özetleri yedi gün içinde uygun araçlarla halka duyurulur.
 
 **İhtisas komisyonları**
 
@@ -2067,14 +2066,12 @@ Hal'lerinin Sureti İdaresi Hakkında Kanun, 2.7.1964 tarihli ve 492
 sayılı Harçlar Kanunu, 13.10.1983 tarihli ve 2918 sayılı Karayolları
 Trafik Kanunu, 3.5.1985 tarihli ve 3194 sayılı İmar Kanunu, 14.6.1989
 tarihli ve 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun
-Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, 27.5.2004
-tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine
-Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun,
+Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, (…)*^(1)^*
 10.7.2003 tarihli ve 4925 sayılı Karayolu Taşıma Kanunu, 1.5.2003
 tarihli ve 4856 sayılı Çevre ve Orman Bakanlığı Teşkilat ve Görevleri
 Hakkında Kanun ile 14.7.1965 tarihli ve 657 sayılı Devlet Memurları
 Kanununda bu Kanun hükümlerine aykırılık bulunması durumunda bu Kanun
-hükümleri uygulanır.
+hükümleri uygulanır.*^(1)^*
 
 İKİNCİ BÖLÜM
 
@@ -2140,6 +2137,14 @@ başı toplantısıdır." cümlesi ile 14 üncü maddesinin üçüncü fıkrası
 "her dönem başı toplantısında," ile 16 ncı maddesinin birinci fıkrasında
 geçen “her yılın ilk olağan toplantısında” ibareleri madde metinlerinden
 çıkarılmıştır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 11/6/2010 tarihli ve 5996 sayılı Kanunun 47 nci maddesi ile bu
+maddede yer alan “27.05.2004 tarihli ve 5179 sayılı Gıdaların Üretimi,
+Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin
+Değiştirilerek Kabulü Hakkındaki Kanun” ibareleri madde metninden
+çıkarılmıştır.*
 
 e\) 22.2.2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 6 ncı
 maddesinin birinci fıkrasının (a) bendine, "erozyonun önlenmesi,"
@@ -2321,13 +2326,17 @@ avukatlık ücreti yükletilemez.
 
   1.     5998                       24/6/2010                                     24/6/2010                                                         73, İşlenemeyen Hüküm
 
-  1.                                                                                                                                                
+  1.     5996                       13/12/2010                                    13/6/2010                                                         84
 
-  1.                                                                                                                                                
+  1.                                22/6/2011                                     22/6/2010                 4/2/2010                                23
+                                                                                                                                                    
+                                                                                                            E.: 2008/27                             
+                                                                                                                                                    
+                                                                                                            K.: 2010/29                             
 
   1.                                                                                                                                                
 
   1.                                                                                                                                                
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
-/
+
