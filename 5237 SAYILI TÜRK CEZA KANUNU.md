@@ -1,4 +1,4 @@
-6/12/2006 tarihli ve 5560 sayılı Kanunla değişik
+26/2/2008 tarihli ve 5739 sayılı Kanunla değişik
 
 TÜRK CEZA KANUNU^(1)^
 
@@ -843,11 +843,17 @@ taksir hâlinde uygulanmaz.
 para cezası veya tedbirdir.
 
 \(6) Hüküm kesinleştikten sonra Cumhuriyet savcılığınca yapılan tebligata
-rağmen otuz gün içinde seçenek yaptırımın gereklerinin yerine
-getirilmesine başlanmaması veya başlanıp da devam edilmemesi hâlinde,
+rağmen otuz gün içinde seçenek tedbirin gereklerinin yerine
+getirilmesine başlanmaması veya başlanıp da devam edilmemesi halinde,
 hükmü veren mahkeme kısa süreli hapis cezasının tamamen veya kısmen
-infazına karar verir ve bu karar derhâl infaz edilir. Bu durumda,
-beşinci fıkra hükmü uygulanmaz.
+infazına karar verir ve bu karar derhal infaz edilir. Bu durumda,
+beşinci fıkra hükmü uygulanmaz. ^(1)^
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 26/2/2008 tarihli ve 5739 sayılı Kanunun 4 üncü maddesiyle bu
+fıkrada yer alan "yaptırımın" ibaresi "tedbirin" olarak değiştirilmiş ve
+metne işlenmiştir.*
 
 \(7) Hükmedilen seçenek tedbirin hükümlünün elinde olmayan nedenlerle
 yerine getirilememesi durumunda, hükmü veren mahkemece tedbir
@@ -6345,6 +6351,7 @@ MAHKEMESİ KARARININ **
   5378                       7/7/2005                                                                                                   122
   5377                       8/7/2005                                                                                                   4, 7, 13, 30, 31, 43, 61, 66, 82, 84, 87, 103, 105, 107, 125, 145, 150, 155, 158, 168, 184, 188, 190, 191, 218, 221, 245, 252, 263, 268, 269, 288, 292, 293, 299, 302, 304, 305
   5560                       19/12/2006                                                                                                 61,73,80,87,89,142,191,221,227,234,245 ve İşlenemeyen Hüküm
+  5739                       1/3/2008                                                                                                   50
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
