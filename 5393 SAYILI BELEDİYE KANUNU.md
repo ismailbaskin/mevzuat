@@ -1,4 +1,4 @@
-**6495 sayılı Kanun ile değişik hali**
+**6525 sayılı Kanun ile değişik hali**
 
 **BELEDİYE KANUNU**
 
@@ -9,6 +9,8 @@ Kabul Tarihi : 3/7/2005
 Yayımlandığı R.Gazete : Tarih: 13/7/2005 Sayı : 25874
 
 Yayımlandığı Düstur : Tertip : 5 Cilt : 44
+
+** **
 
 ** **
 
@@ -290,11 +292,13 @@ Başkanlığınca bildirilen nüfus esas alınır.
 
 **(Ek fıkra: 12/11/2012-6360/16 md.)** Mevzuatla orman köyleri ve orman
 köylüsüne tanınan hak, sorumluluk ve imtiyazlar orman köyü iken
-mahalleye dönüşen yerler için devam eder. Bir belediyeye katılarak
-mahalleye dönüşen köy, köy bağlısı ve belediyelerce kullanılan mera,
-yaylak, kışlak gibi yerlerden bu mahalle sakinleri ve varsa diğer hak
-sahipleri 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu hükümleri
-çerçevesinde yararlanmaya devam eder.
+mahalleye dönüşen yerler için devam eder. **(Ek cümle: 20/2/2014-6525/28
+md.)** Bu hüküm, belde iken sakinleri orman köylüsüne tanınan hak,
+sorumluluk ve imtiyazlardan yararlanan mahalleye dönüştürülen beldeler
+için de geçerlidir. Bir belediyeye katılarak mahalleye dönüşen köy, köy
+bağlısı ve belediyelerce kullanılan mera, yaylak, kışlak gibi yerlerden
+bu mahalle sakinleri ve varsa diğer hak sahipleri 25/2/1998 tarihli ve
+4342 sayılı Mera Kanunu hükümleri çerçevesinde yararlanmaya devam eder.
 
 *Hemşehri hukuku*
 
@@ -504,8 +508,6 @@ görüşü ve İçişleri Bakanlığının kararıyla süresi kırkdokuz yılı 
 veya tekel oluşturmayacak şekilde ruhsat vermek suretiyle yerine
 getirebileceği gibi toplu taşıma hatlarını kiraya verme veya 67 nci
 maddedeki esaslara göre hizmet satın alma yoluyla yerine getirebilir.
-
-9474-2
 
 9475
 
@@ -843,7 +845,7 @@ tarafından yetkili mercilere suç duyurusunda bulunulur.
  *Meclisin bilgi edinme ve denetim yolları*
 ===========================================
 
-**Madde 26 -** Belediye meclisi, bilgi edinme ve denetim yetkisini
+**MADDE 26.-** Belediye meclisi, bilgi edinme ve denetim yetkisini
 faaliyet raporunu değerlendirme, denetim komisyonu, soru, genel görüşme
 ve gensoru yoluyla kullanır.
 
@@ -1812,7 +1814,8 @@ görüşülerek karara bağlanır.
 Kesinhesabın görüşülmesi ve kesinleşmesinde, bütçeye ilişkin hükümler
 uygulanır.
 
-*Bütçe sistemi*
+ *Bütçe sistemi*
+================
 
 **Madde 65-** Belediye bütçesi ile muhasebe işlemlerine ilişkin esas ve
 usûller Maliye Bakanlığının görüşü alınarak İçişleri Bakanlığı
@@ -1945,7 +1948,7 @@ ilgili mevzuatta belirtilen usûllere göre şirket kurabilir.
 
 ALTINCI KISIM
 
-*Çeşitli ve Son Hükümler*
+### *Çeşitli ve Son Hükümler*
 
 BİRİNCİ BÖLÜM
 
@@ -2561,6 +2564,8 @@ Gazete’de yayımlanmıştır.*
                                                                                                             K.: 2012/159                            
 
   1.     6495                       2/8/2013                                      2/8/2013                  28726                                   14
+
+  1.     6525                       27/2/2014                                     27/2/2014                                                         12
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
 
