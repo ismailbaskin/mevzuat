@@ -1,4 +1,4 @@
-**5346 sayılı Kanunun ilk hali**
+**5627 sayılı Kanun ile değişik hali**
 
 **YENİLENEBİLİR ENERJİ KAYNAKLARININ ELEKTRİK ENERJİSİ ÜRETİMİ AMAÇLI
 KULLANIMINA İLİŞKİN KANUN**
@@ -113,44 +113,36 @@ YEK Belgesi ile ilgili usul ve esaslar yönetmelikle düzenlenir.
 
 **Uygulama esasları**
 
-**MADDE 6 —** Bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından
-elektrik enerjisi üretim ve ticaretinde lisans sahibi tüzel kişiler
-aşağıdaki uygulama esaslarına tabidirler:
+**MADDE 6 —** **(Değişik: 18/4/2007-5627/17 md.)**
 
-a\) Bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından üretilen
-elektrik enerjisi, perakende satış lisansı sahibi tüzel kişiler
-tarafından (b), (c) ve (d) bentlerindeki hükümlere göre tesis edilen
-ikili anlaşmalar çerçevesinde satın alınır.
+Bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından elektrik
+enerjisi üretim ve ticaretinde, lisans sahibi tüzel kişiler aşağıdaki
+uygulama esaslarına tâbidirler:
+
+a\) Perakende satış lisansı sahibi tüzel kişiler, bu Kanun kapsamındaki
+yenilenebilir enerji kaynaklarından elektrik enerjisi üreten YEK Belgeli
+tesislerin işletmede on yılını tamamlamamış olanlarından, bu maddede
+belirlenen esaslara göre elektrik enerjisi satın alırlar.
 
 b\) Bu Kanun kapsamındaki uygulamalardan yararlanabilecek YEK Belgeli
-elektrik enerjisi miktarına ilişkin bilgiler, Bakanlık tarafından
-belirlenen projeksiyon çerçevesinde her yıl EPDK tarafından yayınlanır.
-Perakende satış lisansı sahibi tüzel kişilerin her biri, bir önceki
-takvim yılında satışa sundukları elektrik enerjisi miktarının, ülkede
-sattıkları toplam elektrik enerjisi miktarına oranı kadar, EPDK
-tarafından ilan edilen YEK Belgeli elektrik enerjisinden satın alırlar.
+elektrik enerjisi miktarına ilişkin bilgiler her yıl EPDK tarafından
+yayınlanır. Perakende satış lisansı sahibi tüzel kişilerin her biri, bir
+önceki takvim yılında sattıkları elektrik enerjisi miktarının ülkede
+sattıkları toplam elektrik enerjisi miktarına oranı kadar, YEK Belgeli
+elektrik enerjisinden satın alırlar.
 
-Ülkede arz edilen YEK Belgeli toplam elektrik enerjisi miktarının
-yeterli olması halinde, perakende satış lisansı sahibi tüzel kişilerin
-alım yükümlülüğü bir önceki takvim yılında sattıkları elektrik enerjisi
-miktarının yüzde sekizinden daha az olamaz.
+c\) Bu Kanun kapsamında satın alınacak elektrik enerjisi için uygulanacak
+fiyat; her yıl için, EPDK’nın belirlediği bir önceki yıla ait Türkiye
+ortalama elektrik toptan satış fiyatıdır. Ancak uygulanacak bu fiyat 5
+Euro Cent/kWh karşılığı Türk Lirasından az, 5,5 Euro Cent/kWh karşılığı
+Türk Lirasından fazla olamaz. Ancak 5,5 Euro Cent/kWh sınırının üzerinde
+serbest piyasada satış imkânı bulan yenilenebilir enerji kaynaklarına
+dayalı lisans sahibi tüzel kişiler bu imkândan yararlanırlar.
 
-c\) 2011 yılı sonuna kadar bir takvim yılı içerisinde bu Kanun kapsamında
-satın alınacak elektrik enerjisi için uygulanacak fiyat; EPDK'nın
-belirlediği bir önceki yıla ait Türkiye ortalama elektrik toptan satış
-fiyatıdır. Bu fiyatı her yılın başında en fazla % 20 oranında artırmaya
-Bakanlar Kurulu yetkilidir.
-
-d\) 2011 yılı sonundan itibaren bu fiyat uygulaması işletmede yedi yılını
-tamamlamış olan YEK Belgeli elektrik enerjisi üreten tesisler için sona
-erer. Perakende satış şirketleri, bu Kanun kapsamında almakla yükümlü
-oldukları YEK Belgeli elektrik enerjisini, öncelikle işletmede yedi
-yılını doldurmamış olanlardan (c) bendinde belirlenen fiyat uygulamasına
-göre satın alır ve aldıkları elektrik enerjisi miktarı (b) bendinde
-belirtilen oranın altında kaldığı takdirde bu orana ulaşmak için kalan
-gerekli miktarı, ikili anlaşmalar çerçevesinde Türkiye ortalama elektrik
-toptan satış fiyatından yüksek olmamak üzere piyasa koşullarında satın
-alırlar.
+Bu madde kapsamındaki uygulamalar 31/12/2011 tarihinden önce işletmeye
+giren tesisleri kapsar. Ancak Bakanlar Kurulu uygulamanın sona ereceği
+tarihi, 31/12/2009 tarihine kadar Resmî Gazetede yayımlanmak şartıyla en
+fazla 2 yıl süreyle uzatabilir.
 
 **DÖRDÜNCÜ BÖLÜM**
 
@@ -187,15 +179,21 @@ karşılamaları esastır.
 
 **Arazi ihtiyacına ilişkin uygulamalar**
 
-**MADDE 8 —** Orman veya Hazinenin özel mülkiyetinde ya da Devletin
-hüküm ve tasarrufu altında bulunan her türlü taşınmazın bu Kanun
-kapsamındaki yenilenebilir enerji kaynaklarından elektrik enerjisi
-üretimi yapmak amacıyla kullanılması halinde, bu araziler için Çevre ve
-Orman Bakanlığı veya Maliye Bakanlığı tarafından bedeli karşılığında
-izin verilir, kiralama yapılır, irtifak hakkı tesis edilir veya kullanma
-izni verilir. Yatırım döneminde izin, kira, irtifak hakkı ve kullanma
-izni bedellerine yüzde elli indirim uygulanır. Orman arazilerinde ORKÖY
-ve Ağaçlandırma Özel Ödenek Gelirleri alınmaz.
+**MADDE 8 —** **(Değişik: 18/4/2007-5627/18 md.)**
+
+Orman veya Hazinenin özel mülkiyetinde ya da Devletin hüküm ve tasarrufu
+altında bulunan her türlü taşınmazın bu Kanun kapsamındaki yenilenebilir
+enerji kaynaklarından elektrik enerjisi üretimi yapmak amacıyla
+kullanılması halinde tesis, ulaşım yolları ve şebekeye bağlantı
+noktasına kadarki enerji nakil hattı için kullanılacak arazilere ilişkin
+olarak Çevre ve Orman Bakanlığı veya Maliye Bakanlığı tarafından bedeli
+karşılığında izin verilir, kiralama yapılır, irtifak hakkı tesis edilir
+veya kullanma izni verilir. 2011 yılı sonuna kadar devreye alınacak bu
+tesislerden ulaşım yollarından ve şebekeye bağlantı noktasına kadarki
+enerji nakil hatlarından yatırım ve işletme dönemlerinin ilk on yılında
+izin, kira, irtifak hakkı ve kullanma izni bedellerine yüzde seksenbeş
+indirim uygulanır. Orman arazilerinde ORKÖY ve Ağaçlandırma Özel Ödenek
+Gelirleri alınmaz.
 
 **BEŞİNCİ BÖLÜM **
 
@@ -321,3 +319,17 @@ bedelinin enerji hissesine düşen miktarının tamamı şirket tarafından
 **Yürütme**
 
 **MADDE 15 —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+**5346 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5346 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5627                                                                         6, 8                                                          2/5/2007
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+
+
