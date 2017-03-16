@@ -1,6 +1,4 @@
-**6552 sayılı Kanun ile değişik hali**
-
- 
+ **2015/1 Numaralı Tebliğ ile değişik hali**
 
 **KAMU İHALE KANUNU**
 
@@ -209,9 +207,9 @@ alımları,
 
 *––––––––––––*
 
-*(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2013
-tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve
-28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1
+*(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2015
+tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve
+29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1
 No.’lu Kamu İhale Tebliğine bakınız.*
 
 *(2) 20/11/2008 tarihli ve 5812 sayılı Kanunun 1 inci maddesiyle; bu
@@ -538,9 +536,9 @@ fıkrada yer alan “,genel ve katma bütçeli kuruluşlarda maliye memurunun,
 diğerlerinde ise” ibaresi, “ve” şeklinde değiştirilmiş ve metne
 işlenmiştir.*
 
-*(2) Bu maddede yer alan eşik değerler ve parasal limitlerin 1/2/2013
-tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve
-28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1
+*(2) Bu maddede yer alan eşik değerler ve parasal limitlerin 1/2/2015
+tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve
+29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1
 No.’lu Kamu İhale Tebliğine bakınız.*
 
 8232
@@ -857,9 +855,9 @@ değiştirilmiştir.*
 ve 5812 sayılı Kanunun 5 inci maddesiyle “Kamu İhale Bülteninde” olarak
 değiştirilmiş ve metne işlenmiştir. *
 
-*(3) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2013
-tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve
-28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1
+*(3) Bu fıkrada yer alan eşik değerler ve parasal limitlerin 1/2/2015
+tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve
+29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1
 No.’lu Kamu İhale Tebliğine bakınız.*
 
 8234
@@ -1172,9 +1170,9 @@ alınması.
 
 *–––––––––––––––––––––*
 
-*(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2013
-tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve
-28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1
+*(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2015
+tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve
+29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1
 No.’lu Kamu İhale Tebliğine bakınız.*
 
 8238-1
@@ -1237,9 +1235,9 @@ değerlendirme yapılmak üzere ödüllü veya ödülsüz yarışma yaptırabili
 
 *–––––––––––––––––––––*
 
-*(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2013
-tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve
-28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1
+*(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2015
+tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve
+29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1
 No.’lu Kamu İhale Tebliğine bakınız.*
 
 8239
@@ -2453,7 +2451,7 @@ eklenmiş ve metne işlenmiştir.*
 
 8255
 
-j\) Kurumun gelirleri aşağıda belirtilmiştir:
+j\) Kurumun gelirleri aşağıda belirtilmiştir:^(1)^
 
 1\) **(Değişik: 30/7/2003-4964/32 md.)** Bu Kanun kapsamında yapılan
 ihalelere ilişkin düzenlenecek sözleşmelerden, bedeli yüzmilyar Türk
@@ -2499,6 +2497,13 @@ kesin hesabı Bakanlar Kurulu Kararı ile ibra edilir.
 
 Kurumun yıllık hesapları ile gelir ve harcamalarına ilişkin iş ve
 işlemleri, Sayıştay denetimine tâbidir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1)* *Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2015
+tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve
+29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1
+No.’lu Kamu İhale Tebliğine bakınız.*
 
 8256
 
@@ -2995,9 +3000,9 @@ isteklilerin katılabileceğine ilişkin düzenleme yapılabilir.
 50 ortak olduğu…” ibaresi, Anayasa Mahkemesi’nin 10/7/2013 tarihli ve
 E.: 2012/104, K.: 2013/87 sayılı Kararı ile iptal edilmiştir.*
 
-*(2) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2013
-tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve
-28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1
+*(2) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2015
+tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve
+29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1
 No.’lu Kamu İhale Tebliğine bakınız.*
 
 8258-3
@@ -3129,7 +3134,9 @@ itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve 28544
 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1 No.’lu,
 1/2/2014 tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2014
 tarihli ve 28898 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun
-2014/1 No.’lu Kamu İhale Tebliğlerine bakınız.*
+2014/1 No.’lu, 1/2/2015 tarihinden itibaren uygulanması ile ilgili
+olarak, 29/1/2015 tarihli ve 29251 sayılı Resmi Gazete’de yayımlanan
+Kamu İhale Kurumunun 2015/1 No.’lu Kamu İhale Tebliğlerine bakınız.*
 
 8258-5
 
@@ -4011,6 +4018,8 @@ takip ve tahsil edilir.
   6552                                                                                 Geçici Madde 16                                               11/9/2014
                                                                                                                                                      
                                                                                        62, Ek Madde 8                                                11/9/2014 tarihinden dört ay sonra (11/1/2015)
+
+  2015/1 Numaralı Tebliğ                                                               3, 8, 13, 21, 22, 53, 62, 67                                  1/2/2015
   ------------------------------------------------------------------------------------ ------------------------------------------------------------- ------------------------------------------------
 
 
