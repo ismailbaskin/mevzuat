@@ -1,6 +1,6 @@
 1.  #### 
 
-    #### 4/5/2007 tarihli ve 5650 sayılı Kanunla değişik
+    #### 20/2/2008 tarihli ve 5737 sayılı Kanunla değişik
 
     #### TÜRK MEDENÎ KANUNU 
 
@@ -1220,10 +1220,7 @@ harcamadıkları Vakıflar Genel Müdürlüğünce ve üst kuruluşlarınca
 denetlenir. Vakıfların üst kuruluşlarınca denetimi özel kanun
 hükümlerine tabidir.
 
-Denetimin nasıl yapılacağı, sonuçları ve bu Kanuna göre kurulmuş olsun
-veya olmasın bütün vakıfların Vakıflar Genel Müdürlüğüne ödeyecekleri
-denetim giderlerine katılma payı, vakfın safî gelirinin yüzde beşini
-geçmemek üzere tüzükle belirlenir.
+**(Mülga ikinci fıkra: 20/2/2008-5737/80 md.)**
 
 **F. Yönetimin, amacın ve malların değiştirilmesi**
 
@@ -11869,6 +11866,7 @@ MAHKEMESİ KARARININ **
   5378                       7/7/2005                                                                                                   348
   5399                       15/7/2005                                                                                                  313
   5650                       10/5/2007                                                                                                  505, 506
+  5737                       27/2/2008                                                                                                  111
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
 
 
