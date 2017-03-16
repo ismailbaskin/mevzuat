@@ -1,37 +1,37 @@
-4982 sayılı Kanunun İlk Hali
+**5432 sayılı Kanun ile değişik hali**
 
 **BİLGİ EDİNME HAKKI KANUNU**
 
-**Kanun Numarası : 4982 **
+Kanun Numarası : 4982
 
-**Kabul Tarihi : 9/10/2003 **
+Kabul Tarihi : 9/10/2003
 
-**Yayımlandığı R.Gazete : Tarih : 24/10/2003 Sayı : 25269 **
+Yayımlandığı R.Gazete : Tarih : 24/10/2003 Sayı : 25269
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 42**
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 42 **
 
 BİRİNCİ BÖLÜM
 
-Amaç, Kapsam ve Tanımlar
+*Amaç, Kapsam ve Tanımlar*
 
-**Amaç**
+*Amaç*
 
-**MADDE 1. —** Bu Kanunun amacı; demokratik ve şeffaf yönetimin gereği
+**Madde 1-** Bu Kanunun amacı; demokratik ve şeffaf yönetimin gereği
 olan eşitlik, tarafsızlık ve açıklık ilkelerine uygun olarak kişilerin
 bilgi edinme hakkını kullanmalarına ilişkin esas ve usulleri
 düzenlemektir.
 
-**Kapsam**
+*Kapsam*
 
-**MADDE 2. —** Bu Kanun; kamu kurum ve kuruluşları ile kamu kurumu
+**Madde 2-** Bu Kanun; kamu kurum ve kuruluşları ile kamu kurumu
 niteliğindeki meslek kuruluşlarının faaliyetlerinde uygulanır.
 
 1.11.1984 tarihli ve 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair
 Kanun hükümleri saklıdır.
 
-**Tanımlar**
+*Tanımlar*
 
-**MADDE 3. —** Bu Kanunda geçen;
+**Madde 3-** Bu Kanunda geçen;
 
 a\) Kurum ve kuruluş: Bu Kanunun 2 nci maddesinde geçen ve kapsama dahil
 olan bilgi edinme başvurusu yapılacak bütün makam ve mercileri,
@@ -58,13 +58,15 @@ f\) Kurul: Bilgi Edinme Değerlendirme Kurulunu,
 
 İfade eder.
 
+8618
+
 İKİNCİ BÖLÜM
 
-Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü
+*Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü*
 
-**Bilgi edinme hakkı**
+*Bilgi edinme hakkı*
 
-**MADDE 4. —** Herkes bilgi edinme hakkına sahiptir.
+**Madde 4-** Herkes bilgi edinme hakkına sahiptir.
 
 Türkiye'de ikamet eden yabancılar ile Türkiye'de faaliyette bulunan
 yabancı tüzel kişiler, isteyecekleri bilgi kendileriyle veya faaliyet
@@ -74,9 +76,9 @@ bu Kanun hükümlerinden yararlanırlar.
 Türkiye'nin taraf olduğu uluslararası sözleşmelerden doğan hak ve
 yükümlülükleri saklıdır.
 
-**Bilgi verme yükümlülüğü**
+*Bilgi verme yükümlülüğü*
 
-**MADDE 5. —** Kurum ve kuruluşlar, bu Kanunda yer alan istisnalar
+**Madde 5-** Kurum ve kuruluşlar, bu Kanunda yer alan istisnalar
 dışındaki her türlü bilgi veya belgeyi başvuranların yararlanmasına
 sunmak ve bilgi edinme başvurularını etkin, süratli ve doğru
 sonuçlandırmak üzere, gerekli idarî ve teknik tedbirleri almakla
@@ -87,11 +89,11 @@ aykırı hükümleri uygulanmaz.
 
 ÜÇÜNCÜ BÖLÜM
 
-Bilgi Edinme Başvurusu
+*Bilgi Edinme Başvurusu *
 
-**Başvuru usulü**
+*Başvuru usulü*
 
-**MADDE 6. —** Bilgi edinme başvurusu, başvuru sahibinin adı ve soyadı,
+**Madde 6-** Bilgi edinme başvurusu, başvuru sahibinin adı ve soyadı,
 imzası, oturma yeri veya iş adresini, başvuru sahibi tüzel kişi ise
 tüzel kişinin unvanı ve adresi ile yetkili kişinin imzasını ve yetki
 belgesini içeren dilekçe ile istenen bilgi veya belgenin bulunduğu kurum
@@ -102,9 +104,9 @@ diğer iletişim araçlarıyla da yapılabilir.
 
 Dilekçede, istenen bilgi veya belgeler açıkça belirtilir.
 
-**İstenecek bilgi veya belgenin niteliği**
+*İstenecek bilgi veya belgenin niteliği*
 
-**MADDE 7. —** Bilgi edinme başvurusu, başvurulan kurum ve kuruluşların
+**Madde 7-** Bilgi edinme başvurusu, başvurulan kurum ve kuruluşların
 ellerinde bulunan veya görevleri gereği bulunması gereken bilgi veya
 belgelere ilişkin olmalıdır.
 
@@ -116,26 +118,28 @@ yapılacak başvurulara olumsuz cevap verebilirler.
 bulunuyorsa, başvuru dilekçesi bu kurum ve kuruluşa gönderilir ve durum
 ilgiliye yazılı olarak bildirilir.
 
-**Yayımlanmış veya kamuya açıklanmış bilgi veya belgeler**
+*Yayımlanmış veya kamuya açıklanmış bilgi veya belgeler *
 
-**MADDE 8. —** Kurum ve kuruluşlarca yayımlanmış veya yayın, broşür,
-ilân ve benzeri yollarla kamuya açıklanmış bilgi veya belgeler, bilgi
-edinme başvurularına konu olamaz. Ancak, yayımlanmış veya kamuya
-açıklanmış bilgi veya belgelerin ne şekilde, ne zaman ve nerede
-yayımlandığı veya açıklandığı başvurana bildirilir.
+**Madde 8-** Kurum ve kuruluşlarca yayımlanmış veya yayın, broşür, ilân
+ve benzeri yollarla kamuya açıklanmış bilgi veya belgeler, bilgi edinme
+başvurularına konu olamaz. Ancak, yayımlanmış veya kamuya açıklanmış
+bilgi veya belgelerin ne şekilde, ne zaman ve nerede yayımlandığı veya
+açıklandığı başvurana bildirilir.
 
-**Gizli bilgileri ayırarak bilgi veya belge verme**
+8619
 
-**MADDE 9. —** İstenen bilgi veya belgelerde, gizlilik dereceli veya
+*Gizli bilgileri ayırarak bilgi veya belge verme*
+
+**Madde 9-** İstenen bilgi veya belgelerde, gizlilik dereceli veya
 açıklanması yasaklanan bilgiler ile açıklanabilir nitelikte olanlar
 birlikte bulunuyor ve bunlar birbirlerinden ayrılabiliyorsa, söz konusu
 bilgi veya belge, gizlilik dereceli veya açıklanması yasaklanan bilgiler
 çıkarıldıktan sonra başvuranın bilgisine sunulur. Ayırma gerekçesi
 başvurana yazılı olarak bildirilir.
 
-**Bilgi veya belgeye erişim**
+*Bilgi veya belgeye erişim*
 
-**MADDE 10. —** Kurum ve kuruluşlar, başvuru sahibine istenen belgenin
+**Madde 10-** Kurum ve kuruluşlar, başvuru sahibine istenen belgenin
 onaylı bir kopyasını verirler.
 
 Bilgi veya belgenin niteliği gereği kopyasının verilmesinin mümkün
@@ -160,9 +164,9 @@ Başvurunun yapıldığı kurum ve kuruluş, erişimine olanak sağladığı bil
 veya belgeler için başvuru sahibinden erişimin gerektirdiği maliyet
 tutarı kadar bir ücreti bütçeye gelir kaydedilmek üzere tahsil edebilir.
 
-**Bilgi veya belgeye erişim süreleri**
+*Bilgi veya belgeye erişim süreleri*
 
-**MADDE 11.—** Kurum ve kuruluşlar, başvuru üzerine istenen bilgi veya
+**Madde 11-** Kurum ve kuruluşlar, başvuru üzerine istenen bilgi veya
 belgeye erişimi onbeş iş günü içinde sağlarlar. Ancak istenen bilgi veya
 belgenin, başvurulan kurum ve kuruluş içindeki başka bir birimden
 sağlanması; başvuru ile ilgili olarak bir başka kurum ve kuruluşun
@@ -177,32 +181,38 @@ maliyet tutarının idare tarafından başvuru sahibine bildirilmesiyle
 onbeş iş günlük süre kesilir. Başvuru sahibi onbeş iş günü içinde ücreti
 ödemezse talebinden vazgeçmiş sayılır.
 
-**Başvuruların cevaplandırılması**
+*Başvuruların cevaplandırılması*
 
-**MADDE 12. —** Kurum ve kuruluşlar, bilgi edinme başvurularıyla ilgili
+**Madde 12-** Kurum ve kuruluşlar, bilgi edinme başvurularıyla ilgili
 cevaplarını yazılı olarak veya elektronik ortamda başvuru sahibine
 bildirirler. Başvurunun reddedilmesi hâlinde bu kararın gerekçesi ve
 buna karşı başvuru yolları belirtilir.
 
-**İtiraz usulü**
+*İtiraz usulü *
 
-**MADDE 13. —** Bilgi edinme istemi 16 ve 17 nci maddelerde öngörülen
-sebeplerle reddedilen başvuru sahibi, yargı yoluna başvurmadan önce
-kararın tebliğinden itibaren onbeş gün içinde Kurula itiraz edebilir.
-Kurul, bu konudaki kararını otuz iş günü içinde verir. Kurum ve
-kuruluşlar, Kurulun istediği her türlü bilgi veya belgeyi onbeş iş günü
-içinde vermekle yükümlüdürler.
+**Madde 13-** Bilgi edinme istemi (…)^(1)^reddedilen başvuru sahibi,
+yargı yoluna başvurmadan önce kararın tebliğinden itibaren onbeş gün
+içinde Kurula itiraz edebilir. Kurul, bu konudaki kararını otuz iş günü
+içinde verir. Kurum ve kuruluşlar, Kurulun istediği her türlü bilgi veya
+belgeyi onbeş iş günü içinde vermekle yükümlüdürler.
 
 Kurula itiraz, başvuru sahibinin idarî yargıya başvurma süresini
 durdurur.
 
-**Bilgi Edinme Değerlendirme Kurulu**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**MADDE 14. —** Bilgi edinme başvurusuyla ilgili yapılacak itirazlar
-üzerine, 16 ve 17 nci maddelerde öngörülen sebeplere dayanılarak verilen
-kararları incelemek ve kurum ve kuruluşlar için bilgi edinme hakkının
-kullanılmasına ilişkin olarak kararlar vermek üzere; Bilgi Edinme
-Değerlendirme Kurulu oluşturulmuştur.
+*(1) Bu arada yer alan “16 ve 17 nci maddelerde öngörülen sebeplerle”
+ibaresi, 17/11/2005 tarihli ve 5432 sayılı Kanunun 1 inci maddesiyle
+madde metninden çıkarılmıştır.*
+
+8620
+
+*Bilgi Edinme Değerlendirme Kurulu*
+
+**Madde 14-** Bilgi edinme başvurusuyla ilgili yapılacak itirazlar
+üzerine, (…)^(1)^ verilen kararları incelemek ve kurum ve kuruluşlar
+için bilgi edinme hakkının kullanılmasına ilişkin olarak kararlar vermek
+üzere; Bilgi Edinme Değerlendirme Kurulu oluşturulmuştur.
 
 Kurul; birer üyesi Yargıtay ve Danıştay genel kurullarının kendi
 kurumları içinden önerecekleri ikişer aday, birer üyesi ceza hukuku,
@@ -228,10 +238,11 @@ Kurul görevine devam eder.
 
 Kurul üyelerine 10.2.1954 tarihli ve 6245 sayılı Harcırah Kanunu
 hükümleri saklı kalmak kaydıyla fiilen görev yaptıkları her gün için
-uhdesinde kamu görevi bulunanlara (1000), uhdesinde kamu görevi
-bulunmayanlara ise (2000) gösterge rakamının memur aylık katsayısı ile
-çarpımı sonucu bulunacak miktarda huzur hakkı ödenir. Bu ödemelerde
-damga vergisi hariç herhangi bir kesinti yapılmaz.
+(3000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu
+bulunacak miktarda huzur hakkı ödenir. Bu ödemelerde damga vergisi hariç
+herhangi bir kesinti yapılmaz. **(Ek cümle: 17/11/2005-5432/2 md.)** Bir
+ayda fiilen görev yapılan gün sayısının dördü aşması halinde, aşan
+günler için huzur hakkı ödenmez.^(1)^
 
 Kurul, belirleyeceği konularda komisyonlar ve çalışma grupları
 kurabilir; ayrıca gerekli gördüğü takdirde, ilgili bakanlık ile diğer
@@ -245,41 +256,52 @@ hazırlanarak yürürlüğe konulacak bir yönetmelikle düzenlenir.
 
 DÖRDÜNCÜ BÖLÜM
 
-Bilgi Edinme Hakkının Sınırları
+*Bilgi Edinme Hakkının Sınırları *
 
-**Yargı denetimi dışında kalan işlemler**
+*Yargı denetimi dışında kalan işlemler*
 
-**MADDE 15. —** Yargı denetimi dışında kalan idarî işlemlerden kişinin
+**Madde 15-** Yargı denetimi dışında kalan idarî işlemlerden kişinin
 çalışma hayatını ve mesleki onurunu etkileyecek nitelikte olanlar, bu
 Kanun kapsamına dahildir. Bu şekilde sağlanan bilgi edinme hakkı işlemin
 yargı denetimine açılması sonucunu doğurmaz.
 
-**Devlet sırrına ilişkin bilgi veya belgeler**
+*Devlet sırrına ilişkin bilgi veya belgeler*
 
-**MADDE 16. —** Açıklanması hâlinde Devletin emniyetine, dış
-ilişkilerine, millî savunmasına ve millî güvenliğine açıkça zarar
-verecek ve niteliği itibarıyla Devlet sırrı olan gizlilik dereceli bilgi
-veya belgeler, bilgi edinme hakkı kapsamı dışındadır.
+**Madde 16-** Açıklanması hâlinde Devletin emniyetine, dış ilişkilerine,
+millî savunmasına ve millî güvenliğine açıkça zarar verecek ve niteliği
+itibarıyla Devlet sırrı olan gizlilik dereceli bilgi veya belgeler,
+bilgi edinme hakkı kapsamı dışındadır.
 
-**Ülkenin ekonomik çıkarlarına ilişkin bilgi veya belgeler**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**MADDE 17. —** Açıklanması ya da zamanından önce açıklanması hâlinde,
+*(1) 17/11/2005 tarihli ve 5432 sayılı Kanunun 2 nci maddesiyle, birinci
+fıkrada yer alan “16 ve 17 nci maddelerde öngörülen sebeplere
+dayanılarak” ibaresi, madde metninden çıkarılmış; yedinci fıkrada yer
+alan “uhdesinde kamu görevi bulunanlara (1000), uhdesinde kamu görevi
+bulunmayanlara ise (2000)" ibaresi, "(3000)" olarak değiştirilmiş ve
+metne işlenmiştir.*
+
+8621
+
+*Ülkenin ekonomik çıkarlarına ilişkin bilgi veya belgeler*
+
+**Madde 17-** Açıklanması ya da zamanından önce açıklanması hâlinde,
 ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve
 kazanca sebep olacak bilgi veya belgeler, bu Kanun kapsamı dışındadır.
 
-**İstihbarata ilişkin bilgi veya belgeler**
+*İstihbarata ilişkin bilgi veya belgeler *
 
-**MADDE 18. —** Sivil ve askerî istihbarat birimlerinin görev ve
+**Madde 18-** Sivil ve askerî istihbarat birimlerinin görev ve
 faaliyetlerine ilişkin bilgi veya belgeler, bu Kanun kapsamı dışındadır.
 
 Ancak, bu bilgi ve belgeler kişilerin çalışma hayatını ve meslek onurunu
 etkileyecek nitelikte ise, istihbarata ilişkin bilgi ve belgeler bilgi
 edinme hakkı kapsamı içindedir.
 
-**İdarî soruşturmaya ilişkin bilgi veya belgeler**
+*İdarî soruşturmaya ilişkin bilgi veya belgeler *
 
-**MADDE 19. —** Kurum ve kuruluşların yetkili birimlerince yürütülen
-idarî soruşturmalarla ilgili olup, açıklanması veya zamanından önce
+**Madde 19-** Kurum ve kuruluşların yetkili birimlerince yürütülen idarî
+soruşturmalarla ilgili olup, açıklanması veya zamanından önce
 açıklanması hâlinde;
 
 a\) Kişilerin özel hayatına açıkça haksız müdahale sonucunu doğuracak,
@@ -295,9 +317,9 @@ edilmesini güçleştirecek,
 
 Bilgi veya belgeler, bu Kanun kapsamı dışındadır.
 
-**Adlî soruşturma ve kovuşturmaya ilişkin bilgi veya belgeler**
+*Adlî soruşturma ve kovuşturmaya ilişkin bilgi veya belgeler*
 
-**MADDE 20. —** Açıklanması veya zamanından önce açıklanması hâlinde;
+**Madde 20-** Açıklanması veya zamanından önce açıklanması hâlinde;
 
 a\) Suç işlenmesine yol açacak,
 
@@ -316,9 +338,9 @@ Nitelikteki bilgi veya belgeler, bu Kanun kapsamı dışındadır.
 6.1.1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanunu ve diğer
 özel kanun hükümleri saklıdır.
 
-**Özel hayatın gizliliği**
+*Özel hayatın gizliliği*
 
-**MADDE 21. —** Kişinin izin verdiği hâller saklı kalmak üzere, özel
+**Madde 21-** Kişinin izin verdiği hâller saklı kalmak üzere, özel
 hayatın gizliliği kapsamında, açıklanması hâlinde kişinin sağlık
 bilgileri ile özel ve aile hayatına, şeref ve haysiyetine, meslekî ve
 ekonomik değerlerine haksız müdahale oluşturacak bilgi veya belgeler,
@@ -328,61 +350,63 @@ Kamu yararının gerektirdiği hâllerde, kişisel bilgi veya belgeler, kurum
 ve kuruluşlar tarafından, ilgili kişiye en az yedi gün önceden haber
 verilerek yazılı rızası alınmak koşuluyla açıklanabilir.
 
-**Haberleşmenin gizliliği**
+*Haberleşmenin gizliliği*
 
-**MADDE 22. —** Haberleşmenin gizliliği esasını ihlâl edecek bilgi veya
+**Madde 22-** Haberleşmenin gizliliği esasını ihlâl edecek bilgi veya
 belgeler, bu Kanun kapsamı dışındadır.
 
-**Ticarî sır**
+8622
 
-**MADDE 23. —** Kanunlarda ticarî sır olarak nitelenen bilgi veya
-belgeler ile, kurum ve kuruluşlar tarafından gerçek veya tüzel
-kişilerden gizli kalması kaydıyla sağlanan ticarî ve malî bilgiler, bu
-Kanun kapsamı dışındadır.
+*Ticarî sır*
 
-**Fikir ve sanat eserleri**
+**Madde 23-** Kanunlarda ticarî sır olarak nitelenen bilgi veya belgeler
+ile, kurum ve kuruluşlar tarafından gerçek veya tüzel kişilerden gizli
+kalması kaydıyla sağlanan ticarî ve malî bilgiler, bu Kanun kapsamı
+dışındadır.
 
-**MADDE 24. —** Fikir ve sanat eserlerine ilişkin olarak yapılacak bilgi
+*Fikir ve sanat eserleri*
+
+**Madde 24-** Fikir ve sanat eserlerine ilişkin olarak yapılacak bilgi
 edinme başvuruları hakkında ilgili kanun hükümleri uygulanır.
 
-**Kurum içi düzenlemeler**
+*Kurum içi düzenlemeler*
 
-**MADDE 25. —** Kurum ve kuruluşların, kamuoyunu ilgilendirmeyen ve
-sadece kendi personeli ile kurum içi uygulamalarına ilişkin düzenlemeler
+**Madde 25-** Kurum ve kuruluşların, kamuoyunu ilgilendirmeyen ve sadece
+kendi personeli ile kurum içi uygulamalarına ilişkin düzenlemeler
 hakkındaki bilgi veya belgeler, bilgi edinme hakkının kapsamı
 dışındadır. Ancak, söz konusu düzenlemeden etkilenen kurum
 çalışanlarının bilgi edinme hakları saklıdır.
 
-**Kurum içi görüş, bilgi notu ve tavsiyeler**
+*Kurum içi görüş, bilgi notu ve tavsiyeler*
 
-**MADDE 26. —** Kurum ve kuruluşların faaliyetlerini yürütmek üzere,
-elde ettikleri görüş, bilgi notu, teklif ve tavsiye niteliğindeki bilgi
-veya belgeler, kurum ve kuruluş tarafından aksi kararlaştırılmadıkça
-bilgi edinme hakkı kapsamındadır.
+**Madde 26-** Kurum ve kuruluşların faaliyetlerini yürütmek üzere, elde
+ettikleri görüş, bilgi notu, teklif ve tavsiye niteliğindeki bilgi veya
+belgeler, kurum ve kuruluş tarafından aksi kararlaştırılmadıkça bilgi
+edinme hakkı kapsamındadır.
 
 Bilimsel, kültürel, istatistik, teknik, tıbbî, malî, hukukî ve benzeri
 uzmanlık alanlarında yasal olarak görüş verme yükümlülüğü bulunan kişi,
 birim ya da kurumların görüşleri, kurum ve kuruluşların alacakları
 kararlara esas teşkil etmesi kaydıyla bilgi edinme istemlerine açıktır.
 
-**Tavsiye ve mütalaa talepleri**
+*Tavsiye ve mütalaa talepleri*
 
-**MADDE 27. —** Tavsiye ve mütalaa talepleri bu Kanun kapsamı
-dışındadır.
+**Madde 27-** Tavsiye ve mütalaa talepleri bu Kanun kapsamı dışındadır.
 
-**Gizliliği kaldırılan bilgi veya belgeler**
+ *Gizliliği kaldırılan bilgi veya belgeler*
+===========================================
 
-**MADDE 28. —** Gizliliği kaldırılmış olan bilgi veya belgeler, bu
-Kanunda belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme
+**Madde 28-** Gizliliği kaldırılmış olan bilgi veya belgeler, bu Kanunda
+belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme
 başvurularına açık hâle gelir.
 
 BEŞİNCİ BÖLÜM
 
-Çeşitli ve Son Hükümler
+*Çeşitli ve Son Hükümler*
 
-**Ceza hükümleri**
+*Ceza hükümleri*
 
-**MADDE 29. —** Bu Kanunun uygulanmasında ihmâli, kusuru veya kastı
+**Madde 29-** Bu Kanunun uygulanmasında ihmâli, kusuru veya kastı
 bulunan memurlar ve diğer kamu görevlileri hakkında, işledikleri
 fiillerin genel hükümler çerçevesinde ceza kovuşturması gerektirmesi
 hususu saklı kalmak kaydıyla, tâbi oldukları mevzuatta yer alan disiplin
@@ -391,9 +415,9 @@ cezaları uygulanır.
 Bu Kanunla erişilen bilgi ve belgeler ticarî amaçla çoğaltılamaz ve
 kullanılamaz.
 
-**Rapor düzenlenmesi**
+*Rapor düzenlenmesi *
 
-**MADDE 30. —** Kurum ve kuruluşlar, bir önceki yıla ait olmak üzere;
+**Madde 30-** Kurum ve kuruluşlar, bir önceki yıla ait olmak üzere;
 
 a\) Kendilerine yapılan bilgi edinme başvurularının sayısını,
 
@@ -410,6 +434,8 @@ başvuru sayısını,
 e\) Başvurunun reddedilmesi üzerine itiraz edilen başvuru sayısı ile
 bunların sonuçlarını,
 
+8623
+
 Gösterir bir rapor hazırlayarak, bu raporları her yıl Şubat ayının
 sonuna kadar Bilgi Edinme Değerlendirme Kuruluna gönderirler. Bağlı,
 ilgili ve ilişkili kamu kurum ve kuruluşları raporlarını bağlı, ilgili
@@ -419,18 +445,32 @@ ile birlikte her yıl Nisan ayının sonuna kadar Türkiye Büyük Millet
 Meclisine gönderir. Bu raporlar takip eden iki ay içinde Türkiye Büyük
 Millet Meclisi Başkanlığınca kamuoyuna açıklanır.
 
-**Yönetmelik**
+*Yönetmelik*
 
-**MADDE 31. —** Bu Kanunun uygulanması ile ilgili esas ve usullerin
+**Madde 31-** Bu Kanunun uygulanması ile ilgili esas ve usullerin
 belirlenmesine ilişkin yönetmelik, Kanunun yayımını takip eden altı ay
 içinde Başbakanlık tarafından hazırlanarak Bakanlar Kurulunca yürürlüğe
 konulur.
 
-**Yürürlük**
+*Yürürlük*
 
-**MADDE 32. —** Bu Kanun yayımı tarihinden itibaren altı ay sonra
+**Madde 32-** Bu Kanun yayımı tarihinden itibaren altı ay sonra
 yürürlüğe girer.
 
-**Yürütme**
+*Yürütme*
 
-**MADDE 33. —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**Madde 33-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+ 
+
+8624
+
+**4982 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+
+**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+
+**Kanun Yürürlüğe**
+
+***No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi***
+
+5432 13 ve 14 22/11/2005
