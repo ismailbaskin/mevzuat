@@ -1,6 +1,4 @@
-**6287 sayılı Kanun ile değişik hali**
-
- 
+**6518 sayılı Kanun ile değişik hali **
 
 [[]{#k46 .anchor}]{#K46 .anchor}
 
@@ -87,89 +85,86 @@ maddesiyle "ilköğretim okulu" olarak değiştirilmiş ve metne işlenmiştir.
 
 5102
 
- 
+3\. İlgi, istidat ve kabiliyetlerini geliştirerek gerekli bilgi, beceri,
+davranışlar ve birlikte iş görme alışkanlığı kazandırmak suretiyle
+hayata hazırlamak ve onların, kendilerini mutlu kılacak ve toplumun
+mutluluğuna katkıda bulunacak bir meslek sahibi olmalarını sağlamak;
 
-             3. İlgi, istidat ve kabiliyetlerini geliştirerek gerekli
-bilgi, beceri, davranışlar ve birlikte iş görme alışkanlığı kazandırmak
-suretiyle hayata hazırlamak ve onların, kendilerini mutlu kılacak ve
-toplumun mutluluğuna katkıda bulunacak bir meslek sahibi olmalarını
-sağlamak;
+Böylece bir yandan Türk vatandaşlarının ve Türk toplumunun refah ve
+mutluluğunu artırmak; öte yandan milli birlik ve bütünlük içinde
+iktisadi, sosyal ve kültürel kalkınmayı desteklemek ve hızlandırmak ve
+nihayet Türk Milletini çağdaş uygarlığın yapıcı, yaratıcı, seçkin bir
+ortağı yapmaktır.
 
-             Böylece bir yandan Türk vatandaşlarının ve Türk toplumunun
-refah ve mutluluğunu artırmak; öte yandan milli birlik ve bütünlük
-içinde iktisadi, sosyal ve kültürel kalkınmayı desteklemek ve
-hızlandırmak ve nihayet Türk Milletini çağdaş uygarlığın yapıcı,
-yaratıcı, seçkin bir ortağı yapmaktır.
+*II – Özel amaçlar:*
 
-             II – Özel amaçlar:
-
-             **Madde 3 –** Türk eğitim ve öğretim sistemi, bu genel
-amaçları gerçekleştirecek şekilde düzenlenir ve çeşitli derece ve
-türdeki eğitim kurumlarının özel amaçları, genel amaçlara ve aşağıda
-sıralanan temel ilkelere uygun olarak tespit edilir.
+**Madde 3 –** Türk eğitim ve öğretim sistemi, bu genel amaçları
+gerçekleştirecek şekilde düzenlenir ve çeşitli derece ve türdeki eğitim
+kurumlarının özel amaçları, genel amaçlara ve aşağıda sıralanan temel
+ilkelere uygun olarak tespit edilir.
 
 İKİNCİ BÖLÜM
 
-Türk Milli Eğitiminin Temel İlkeleri
+*Türk Milli Eğitiminin Temel İlkeleri*
 
-             I – Genellik ve eşitlik:
+*I – Genellik ve eşitlik: ^(1)^*
 
-             **Madde 4 –** Eğitim kurumları dil, ırk, cinsiyet ve din
+**Madde 4 –** Eğitim kurumları dil, ırk, cinsiyet, engellilik ve din
 ayırımı gözetilmeksizin herkese açıktır. Eğitimde hiçbir kişiye, aileye,
 zümreye veya sınıfa imtiyaz tanınamaz.
 
-             II – Ferdin ve toplumun ihtiyaçları:
+*II – Ferdin ve toplumun ihtiyaçları:*
 
-             **Madde 5 –** Milli eğitim hizmeti, Türk vatandaşlarının
-istek ve kabiliyetleri ile Türk toplumunun ihtiyaçlarına göre
-düzenlenir.
+**Madde 5 –** Milli eğitim hizmeti, Türk vatandaşlarının istek ve
+kabiliyetleri ile Türk toplumunun ihtiyaçlarına göre düzenlenir.
 
-             III – Yöneltme:
+*III – Yöneltme: *
 
-             **Madde 6 –** Fertler, eğitimleri süresince, ilgi, istidat
-ve kabiliyetleri ölçüsünde ve doğrultusunda çeşitli programlara veya
+**Madde 6 –** Fertler, eğitimleri süresince, ilgi, istidat ve
+kabiliyetleri ölçüsünde ve doğrultusunda çeşitli programlara veya
 okullara yöneltilerek yetiştirilirler.
 
-             **(Değişik: 16/8/1997 - 4306/3 md.)** Milli eğitim sistemi,
-her bakımdan, bu yöneltmeyi gerçekleştirecek biçimde düzenlenir. Bu
-amaçla, ortaöğretim kurumlarına, eğitim programlarının hedeflerine uygun
-düşecek şekilde hazırlık sınıfları konulabilir.
+**(Değişik: 16/8/1997 - 4306/3 md.)** Milli eğitim sistemi, her
+bakımdan, bu yöneltmeyi gerçekleştirecek biçimde düzenlenir. Bu amaçla,
+ortaöğretim kurumlarına, eğitim programlarının hedeflerine uygun düşecek
+şekilde hazırlık sınıfları konulabilir.
 
-             Yöneltmede ve başarının ölçülmesinde rehberlik
-hizmetlerinden ve objektif ölçme ve değerlendirme metotlarından
-yararlanılır.
+Yöneltmede ve başarının ölçülmesinde rehberlik hizmetlerinden ve
+objektif ölçme ve değerlendirme metotlarından yararlanılır.
 
-             IV – Eğitim hakkı:
+*IV – Eğitim hakkı:*
 
-             **Madde 7 –** İlköğretim görmek her Türk vatandaşının
-hakkıdır.
+**Madde 7 –** İlköğretim görmek her Türk vatandaşının hakkıdır.
 
-             İlköğretim kurumlarından sonraki eğitim kurumlarından
-vatandaşlar ilgi, istidat ve kabiliyetleri ölçüsünde yararlanırlar.
+İlköğretim kurumlarından sonraki eğitim kurumlarından vatandaşlar ilgi,
+istidat ve kabiliyetleri ölçüsünde yararlanırlar.
 
-             V – Fırsat ve imkan eşitliği: 
+*V – Fırsat ve imkan eşitliği: *
 
-**             Madde 8 –** Eğitimde kadın, erkek herkese fırsat ve imkan
-eşitliği sağlanır.
+**Madde 8 –** Eğitimde kadın, erkek herkese fırsat ve imkan eşitliği
+sağlanır.
 
-             Maddi imkanlardan yoksun başarılı öğrencilerin en yüksek
-eğitim kademelerine kadar öğrenim görmelerini sağlamak amacıyle parasız
+Maddi imkanlardan yoksun başarılı öğrencilerin en yüksek eğitim
+kademelerine kadar öğrenim görmelerini sağlamak amacıyle parasız
 yatılılık, burs, kredi ve başka yollarla gerekli yardımlar yapılır.
 
 Özel eğitime ve korunmaya muhtaç çocukları yetiştirmek için özel
 tedbirler alınır.
 
-             VI – Süreklilik:
+*VI – Süreklilik:*
 
-             **Madde 9 –** Fertlerin genel ve mesleki eğitimlerinin
-hayat boyunca devam etmesi
-esastır.                                         
-                         
+**Madde 9 –** Fertlerin genel ve mesleki eğitimlerinin hayat boyunca
+devam etmesi esastır.
 
-             Gençlerin eğitimi yanında, hayata ve iş alanlarına olumlu
-bir şekilde uymalarına yardımcı olmak üzere, yetişkinlerin sürekli
-eğitimini sağlamak için gerekli tedbirleri almak da bir eğitim
-görevidir.
+Gençlerin eğitimi yanında, hayata ve iş alanlarına olumlu bir şekilde
+uymalarına yardımcı olmak üzere, yetişkinlerin sürekli eğitimini
+sağlamak için gerekli tedbirleri almak da bir eğitim görevidir.
+
+–––––––––––––
+
+*(1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 11 inci maddesiyle, bu
+maddede yer alan “cinsiyet” ibaresinden sonra gelmek üzere “,
+engellilik” ibaresi eklenmiştir.*
 
 5103
 
@@ -1172,6 +1167,8 @@ V – Yürütme:
   5917                                                                              16                                                            10/7/2009
 
   6287                                                                              22, 24, 25, 26, Geçici Madde 3                                11/4/2012
+
+  6518                                                                              4                                                             19/2/2014
   --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------
 
 
