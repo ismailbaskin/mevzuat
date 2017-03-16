@@ -1,173 +1,153 @@
-**6353 sayılı Kanun ile değişik hali**
+**6496 sayılı Kanun ile değişik hali**
 
- 
+[]{#K7 .anchor}**TÜRK SİVİL HAVACILIK KANUNU ^(1)\ (2)^ **
 
-[]{#K7 .anchor}TÜRK SİVİL HAVACILIK KANUNU ^(1)\ (2)^
+**Kanun Numarası : 2920**
 
- 
+**Kabul Tarihi : 14/10/1983**
 
-          Kanun Numarası                  : 2920
+**Yayımlandığı R.Gazete : Tarih : 19/10/1983 Sayı : 18196**
 
-          Kabul Tarihi                         : 14/10/1983
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 22 Sayfa : 736 **
 
-          Yayımlandığı R.Gazete         : Tarih : 19/10/1983   Sayı :
-18196
+*Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren *
 
-          Yayımlandığı Düstur             : Tertip : 5   Cilt : 22  
-Sayfa : 736
-
-\*
-
-\* \*
-
-*Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren*
-
-*yönetmelik için, "Yönetmelikler Külliyatı"nın kanunlara göre
-düzenlenen*
+*yönetmelik için, "Yönetmelikler Külliyatı"nın kanunlara göre düzenlenen
+*
 
 *nümerik fihristine bakınız.*
 
-\*
-
-\* \*
-
 BİRİNCİ KISIM
 
-Amaç, Kapsam ve Tanımlar
+*Amaç, Kapsam ve Tanımlar *
 
-             Amaç
+*Amaç*
 
-             **Madde 1 –** Bu Kanunun amacı; devamlı ve hızlı bir
-gelişme gösteren, ileri teknolojinin uygulandığı, sürat ve emniyet
-faktörlerinin büyük önem taşıdığı sivil havacılık sahasındaki
-faaliyetlerin ulusal çıkarlarımız ve uluslararası ilişkilerimize uygun
-bir şekilde düzenlenmesini sağlamaktır.
+**Madde 1 –** Bu Kanunun amacı; devamlı ve hızlı bir gelişme gösteren,
+ileri teknolojinin uygulandığı, sürat ve emniyet faktörlerinin büyük
+önem taşıdığı sivil havacılık sahasındaki faaliyetlerin ulusal
+çıkarlarımız ve uluslararası ilişkilerimize uygun bir şekilde
+düzenlenmesini sağlamaktır.
 
-             Kapsam
+*Kapsam*
 
-             **Madde 2 –** Bu Kanun, kamu kurum ve kuruluşları ile
-gerçek ve özel hukuk tüzelkişilerinin havacılık sahasındaki
-faaliyetlerini kapsar.
+**Madde 2 –** Bu Kanun, kamu kurum ve kuruluşları ile gerçek ve özel
+hukuk tüzelkişilerinin havacılık sahasındaki faaliyetlerini kapsar.
 
-             Devlet hava araçları, açık hüküm bulunmayan hallerde bu
-Kanunun kapsamı dışındadır.
+Devlet hava araçları, açık hüküm bulunmayan hallerde bu Kanunun kapsamı
+dışındadır.
 
-             Tanımlar
+*Tanımlar*
 
-             **Madde 3 –** Bu Kanunda geçen;
+**Madde 3 –** Bu Kanunda geçen;
 
-             a) "Türk Hava Sahası" terimi: Türkiye Cumhuriyetinin
-egemenliği altındaki ülke ile Türk karasuları üzerindeki sahayı,
+a\) "Türk Hava Sahası" terimi: Türkiye Cumhuriyetinin egemenliği
+altındaki ülke ile Türk karasuları üzerindeki sahayı,
 
-             b) "Hava Aracı" terimi: havalanabilen ve havada
-seyredebilme kabiliyetine sahip her türlü aracı,
+b\) "Hava Aracı" terimi: havalanabilen ve havada seyredebilme
+kaabiliyetine sahip her türlü aracı,
 
-             c) "Devlet Hava Aracı" terimi: Devletin askerlik, güvenlik
-ve gümrük hizmetlerinde kullandığı araçları,
+c\) "Devlet Hava Aracı" terimi: Devletin askerlik, güvenlik ve gümrük
+hizmetlerinde kullandığı araçları,
 
-             d) "Türk Sivil Hava Aracı" terimi: Devlet hava araçları
-tanımı dışında kalan ve mülkiyeti Türk Devletine veya kamu
-tüzelkişilerine veya Türk vatandaşlarına ait araçları,
+d\) "Türk Sivil Hava Aracı" terimi: Devlet hava araçları tanımı dışında
+kalan ve mülkiyeti Türk Devletine veya kamu tüzelkişilerine veya Türk
+vatandaşlarına ait araçları,
 
-             e) "Havaalanı" terimi: Karada ve su üzerinde hava
-araçlarının kalkması ve inmesi için özel olarak hazırlanmış, hava
-araçlarının bakım ve diğer ihtiyaçlarının karşılanmasına, yolcu ve yük
-alınmasına ve verilmesine elverişli tesisleri bulunan yerleri,
+e\) "Havaalanı" terimi: Karada ve su üzerinde hava araçlarının kalkması
+ve inmesi için özel olarak hazırlanmış, hava araçlarının bakım ve diğer
+ihtiyaçlarının karşılanmasına, yolcu ve yük alınmasına ve verilmesine
+elverişli tesisleri bulunan yerleri,
 
-             f) "Ferry Uçuş"terimi: Bir hava aracının yolcu ve yük
-taşımaksızın; satın alınması veya kiralanmasında tescil işlemleri
-yapılmadan yurda getirilmesi maksadıyla yapılan uçuşlar ile, uçuşa
-elverişliliğine halel getirmeyen kısmi arızalı olarak yapılan uçuşları;
+f\) "Ferry Uçuş"terimi: Bir hava aracının yolcu ve yük taşımaksızın;
+satın alınması veya kiralanmasında tescil işlemleri yapılmadan yurda
+getirilmesi maksadıyla yapılan uçuşlar ile, uçuşa elverişliliğine halel
+getirmeyen kısmi arızalı olarak yapılan uçuşları;
 
-             İfade eder.
+İfade eder.
 
 ——————————
 
-*(1)    Genel Uçak İşletme Yönetmeliği (SHY-6B), 14/6/1984 tarih ve
-18431 sayılı Resmi Gazete'de yayınlanarak yürürlüğe girmiştir. *
+*(1) Genel Uçak İşletme Yönetmeliği (SHY-6B), 14/6/1984 tarih ve 18431
+sayılı Resmi Gazete'de yayınlanarak yürürlüğe girmiştir. *
 
-*(2)    Bu Kanunla Sigorta hizmetleri ile ilgili olarak Sanayi ve
-Ticaret Bakanlığına ve Sanayi ve Ticaret Bakanına verilmiş olan her
-türlü görev, yetki, sorumluluk, hak ve muafiyetten ilgili olanların
-doğrudan doğruya Başbakana, Başbakanın görevlendireceği Devlet Bakanına,
-Hazine Müsteşarlığına ve Hazine Müsteşarına intikal edeceği 9.12.1994
-tarih ve 4059 sayılı Kanunun 8 inci maddesi ile hükme bağlanmıştır.*
+*(2) Bu Kanunla Sigorta hizmetleri ile ilgili olarak Sanayi ve Ticaret
+Bakanlığına ve Sanayi ve Ticaret Bakanına verilmiş olan her türlü görev,
+yetki, sorumluluk, hak ve muafiyetten ilgili olanların doğrudan doğruya
+Başbakana, Başbakanın görevlendireceği Devlet Bakanına, Hazine
+Müsteşarlığına ve Hazine Müsteşarına intikal edeceği 9.12.1994 tarih ve
+4059 sayılı Kanunun 8 inci maddesi ile hükme bağlanmıştır.*
 
 6108
 
- 
-
 İKİNCİ KISIM
 
-Hava Seyrüseferinin Genel Hükümleri
-
- 
+*Hava Seyrüseferinin Genel Hükümleri *
 
 BİRİNCİ BÖLÜM
 
-Türk Hava Egemenliği Hükümleri
+*Türk Hava Egemenliği Hükümleri *
 
-             Türk hava egemenliği
+*Türk hava egemenliği*
 
-             **Madde 4 –** Türkiye Cumhuriyeti Türk hava sahasında tam
-ve münhasır egemenliği haizdir.
+**Madde 4 –** Türkiye Cumhuriyeti Türk hava sahasında tam ve münhasır
+egemenliği haizdir.
 
-             Türk hava sahasının kullanılması
+*Türk hava sahasının kullanılması*
 
-             **Madde 5 –** Türk hava sahası hava araçları tarafından bu
-Kanun ve ilgili diğer mevzuat hükümleri çerçevesinde kullanılır.
+**Madde 5 –** Türk hava sahası hava araçları tarafından bu Kanun ve
+ilgili diğer mevzuat hükümleri çerçevesinde kullanılır.
 
-             Türk hava sahasından yararlanacak hava araçları
+*Türk hava sahasından yararlanacak hava araçları *
 
-             **Madde 6 –** Uçuşa elverişli olmak şartıyla aşağıda
-sayılan hava araçları Türk hava sahasında uçuş yapabilirler.
+**Madde 6 –** Uçuşa elverişli olmak şartıyla aşağıda sayılan hava
+araçları Türk hava sahasında uçuş yapabilirler.
 
-             a) Türk Devlet hava araçları,
+a\) Türk Devlet hava araçları,
 
-             b) Türk uçak siciline kayıtlı Türk sivil hava araçları,
+b\) Türk uçak siciline kayıtlı Türk sivil hava araçları,
 
-             c) Türkiye'nin taraf olduğu anlaşmalar uyarınca Türk Hava
-Sahasında uçmalarına müsaade edilen hava araçları,
+c\) Türkiye'nin taraf olduğu anlaşmalar uyarınca Türk Hava Sahasında
+uçmalarına müsaade edilen hava araçları,
 
-             Yukarıda belirtilenler dışında kalan her türlü hava
-aracının Türk Hava Sahasını kullanması Ulaştırma Bakanlığının iznine
-tabidir. Ulaştırma Bakanlığı gerekli izni vermeden önce Genelkurmay
-Başkanlığı ve Dışişleri Bakanlığının görüşünü alır
+Yukarıda belirtilenler dışında kalan her türlü hava aracının Türk Hava
+Sahasını kullanması Ulaştırma Bakanlığının iznine tabidir. Ulaştırma
+Bakanlığı gerekli izni vermeden önce Genelkurmay Başkanlığı ve Dışişleri
+Bakanlığının görüşünü alır
 
-             Uçuş yasakları ve sınırlamaları
+*Uçuş yasakları ve sınırlamaları *
 
-             **Madde 7 –** Bakanlar Kurulu, Genelkurmay Başkanlığının
-olumlu görüşü üzerine; kamu düzeni ve emniyet mülahazaları ile veya
-askeri sebeplerle geçici veya devamlı bir tedbir olarak, Türk hava
-sahasının tamamını veya belirli bölümünün kullanılmasını veya muayyen
-bölgeler üzerinden uçuşu yasak edebilir veya sınırlayabilir. Uçuş
-güvenliğini sağlamak amacı ile Genelkurmay Başkanlığı ve Ulaştırma
-Bakanlığınca konulacak diğer tahditler, bu hükme tabi olmaksızın
-Ulaştırma Bakanlığınca uygulanabilir.
+**Madde 7 –** Bakanlar Kurulu, Genelkurmay Başkanlığının olumlu görüşü
+üzerine; kamu düzeni ve emniyet mülahazaları ile veya askeri sebeplerle
+geçici veya devamlı bir tedbir olarak, Türk hava sahasının tamamını veya
+belirli bölümünün kulanılmasını veya muayyen bölgeler üzerinden uçuşu
+yasak edebilir veya sınırlayabilir.Uçuş güvenliğini sağlamak amacı ile
+Genelkurmay Başkanlığı ve Ulaştırma Bakanlığınca konulacak diğer
+tahditler, bu hükme tabi olmaksızın Ulaştırma Bakanlığınca
+uygulanabilir.
 
-             Hava yolları ve havaalanlarına ait sınırlamalar
+*Hava yolları ve havaalanlarına ait sınırlamalar *
 
-             **Madde 8 –** Türk hava sahasında uçuş yapmak hakkını haiz
-hava araçları ile diğer hava araçlarının izleyecekleri uçuş yolları ve
-kullanacakları hava alanları, Genelkurmay Başkanlığı ile gerekli
-koordinasyon yapılmak suretiyle, Ulaştırma Bakanlığınca belirlenir.
+**Madde 8 –** Türk hava sahasındauçuş yapmak hakkını haiz hava araçları
+ile diğer hava araçlarının izleyecekleri uçuş yolları ve kullanacakları
+hava alanları,Genelkurmay Başkanlığı ile gerekli koordinasyon yapılmak
+suretiyle, Ulaştırma Bakanlığınca belirlenir.
 
-             Gümrüklü havaalanlarının kullanımı
+*Gümrüklü havaalanlarının kullanımı*
 
-             **Madde 9 –** Yabancı ülkelere giden veya yabancı
-ülkelerden gelen hava araçları, ancak gümrüklü havaalanlarından kalkmaya
-ve inmeye mecburdur.
+**Madde 9 –** Yabancı ülkelere giden veya yabancı ülkelerden gelen hava
+araçları, ancak gümrüklü havaalanlarından kalkmaya ve inmeye mecburdur.
 
-             İstisnai hallerde, Ulaştırma Bakanlığı, Gümrük ve Tekel
-Bakanlığı ve İçişleri Bakanlığının müştereken vereceği karar dairesinde,
-gümrüksüz bir havaalanının da kullanılmasına izin verilebilir.
+İstisnai hallerde, Ulaştırma Bakanlığı, Gümrük ve Tekel Bakanlığı ve
+İçişleri Bakanlığının müştereken vereceği karar dairesinde,gümrüksüz bir
+havaalanının da kullanılmasına izin verilebilir.
 
-             Belirlenmiş bulunan gümrüklü hava alanlarından başka bir
-yere zorunluluk nedeniyle iniş yapıldığı takdirde, hava aracı sorumlu
-pilotu, durumu derhal varsa havaalanı yöneticisine, yoksa en yakın mülki
-amire veya zabıta yetkilisine duyurmak ve yetkili makamlar el koyuncaya
-kadar hava aracını, yolcuları ve yükü ile birlikte güvence altına
-almakla yükümlüdür.
+Belirlenmiş bulunan gümrüklü hava alanlarından başka bir yere zorunluluk
+nedeniyle iniş yapıldığı takdirde, hava aracı sorumlu pilotu, durumu
+derhal varsa havaalanı yöneticisine, yoksa en yakın mülki amire veya
+zabıta yetkilisine duyurmak ve yetkili makamlar el koyuncaya kadar hava
+aracını, yolcuları ve yükü ile birlikte güvence altına almakla
+yükümlüdür.
 
 6109
 
@@ -633,156 +613,173 @@ nitelikte araç ve gereç verilmesini sağlar.
 
 6114
 
-             Kurtarma ve yardım ekibinin görevini yapmasına, kazaya
-uğramış olan ve tehlike içinde bulunan hava aracı personeli ile yerel
-kolluk kuvvetleri ve diğer yetkililer, yardımcı olmakla yükümlüdürler.
+Kurtarma ve yardım ekibinin görevini yapmasına, kazaya uğramış olan ve
+tehlike içinde bulunan hava aracı personeli ile yerel kolluk kuvvetleri
+ve diğer yetkililer, yardımcı olmakla yükümlüdürler.
 
-             Kurtarma ve yardım teşkilatının kuruluşu, görev ve
-yetkileri ve çalışma esasları yönetmelikle belirlenir.
+Kurtarma ve yardım teşkilatının kuruluşu, görev ve yetkileri ve çalışma
+esasları yönetmelikle belirlenir.
 
-             Hizmetler
+*Hizmetler *
 
-             **Madde 43 –** Ulaştırma Bakanlığı; sivil havacılık
-faaliyetlerinin güvenli, düzenli ve süratli bir biçimde yürütülmesini
-sağlamak amacı ile, havaalanlarında ve gerekli göreceği diğer yerlerde,
-Türk hava sahası ile sorumluluğu Türkiye'ye ait olan hava sahalarına
-ilişkin, meteoroloji, hava trafik ve uçuş bilgilerini doğru ve hassas
-bir şekilde toplayıp ilgililere dağıtılması için gerekli önlemleri alır.
+**Madde 43 –** Ulaştırma Bakanlığı; sivil havacılık faaliyetlerinin
+güvenli, düzenli ve süratli bir biçimde yürütülmesini sağlamak amacı
+ile, havaalanlarında ve gerekli göreceği diğer yerlerde, Türk hava
+sahası ile sorumluluğu Türkiye'ye ait olan hava sahalarına ilişkin,
+meteoroloji, hava trafik ve uçuş bilgilerini doğru ve hassas bir şekilde
+toplayıp ilgililere dağıtılması için gerekli önlemleri alır.
 
-             Hizmetin yürütülmesi ve hizmetten yararlanma şekil ve
-şartları yönetmelikle belirlenir.
+Hizmetin yürütülmesi ve hizmetten yararlanma şekil ve şartları
+yönetmelikle belirlenir.
 
-             Yer hizmetleri
+*Yer hizmetleri*
 
-             **Madde 44 –** Ulaştırma Bakanlığı, havaalanlarında, yolcu
-ve yük trafiğinin ve her türlü hizmetlerin çağdaş sivil havacılık
-ilkelerine ve ülke çıkarlarına uygun bir biçimde yürütülmesi amacı ile
-gereken önlemleri almaya veya aldırmaya yetkilidir.
+**Madde 44 –** Ulaştırma Bakanlığı, havaalanlarında, yolcu ve yük
+trafiğinin ve her türlü hizmetlerin çağdaş sivil havacılık ilkelerine ve
+ülke çıkarlarına uygun bir biçimde yürütülmesi amacı ile gereken
+önlemleri almaya veya aldırmaya yetkilidir.
 
-             Uçuş ve haberleşme hizmetleri
+*Uçuş ve haberleşme hizmetleri *
 
-             **Madde 45 –** Ulaştırma Bakanlığı, havaalanlarında, sivil
-havacılığın güvenli, süratli ve düzenli bir biçimde yürütülmesini
-sağlamak amacı ile çağdaş teknolojiye uygun olarak, her türlü trafik,
-haberleşme, işaret sistemlerini ve tesislerini doğrudan doğruya veya
-bağlı veya ilgili kuruluşlar vasıtasıyla kurmakla veya kurdurmakla
-yükümlüdür.
+**Madde 45 –** Ulaştırma Bakanlığı, havaalanlarında, sivil havacılığın
+güvenli, süratli ve düzenli bir biçimde yürütülmesini sağlamak amacı ile
+çağdaş teknolojiye uygun olarak, her türlü trafik, haberleşme, işaret
+sistemlerini ve tesislerini doğrudan doğruya veya bağlı veya ilgili
+kuruluşlar vasıtasıyla kurmakla veya kurdurmakla yükümlüdür.
 
-             Türk hava sahasında gerekli tedbirlerin alınması
+*Türk hava sahasında gerekli tedbirlerin alınması*
 
-             **Madde 46 –** Ulaştırma Bakanlığı, Türkiye'nin taraf
-olduğu uluslararası anlaşmaların hükümlerine de uymak şartı ile, Türk
-hava sahasında hava trafiğinin güvenli, süratli ve düzenli bir şekilde
-yürütülmesi, haberleşmenin ve bilgi akışının sağlanması, meteoroloji
-hizmetlerinin yürütülmesi amacı ile ve çağdaş teknolojiye uygun olarak
-gereken önlemleri alır ve işletilmesini sağlar.
+**Madde 46 –** Ulaştırma Bakanlığı,Türkiye'nin taraf olduğu uluslararası
+anlaşmaların hükümlerine de uymak şartı ile, Türk hava sahasında hava
+trafiğinin güvenli, süratli ve düzenli bir şekilde yürütülmesi,
+haberleşmenin ve bilgi akışının sağlanması, meteoroloji hizmetlerinin
+yürütülmesi amacı ile ve çağdaş teknolojiye uygun olarak gereken
+önlemleri alır ve işletilmesini sağlar.
 
-             İnşaat sınırlamaları
+*İnşaat sınırlamaları^(1)^*
 
-             **Madde 47 –** Havaalanlarının ve ilgili tesis ve
-teçhizatın çevresinde, Ulaştırma Bakanlığınca belirlenecek esaslar
-içinde ve saptanacak bir alan dahilinde izin alınmadıkça hava trafiği,
-uçuş güvenliği ve haberleşmeyi engelleyecek, seyrüseferi ve meydan
+**Madde 47 –** Havaalanlarının ve ilgili tesis ve teçhizatın çevresinde,
+Sivil Havacılık Genel Müdürlüğünce belirlenecek esaslar içinde ve
+saptanacak bir alan dahilinde izin alınmadıkça hava trafiği, uçuş
+güvenliği ve haberleşmeyi engelleyecek, seyrüseferi ve meydan
 güvenliğini tehlikeye düşürecek nitelikte ve yükseklikte bina, yapı,
 inşaat yapılması, ağaç ve direk dikilmesi, tesis kurulması yasaktır.
+^(1)^
 
-             Ulaştırma Bakanlığı, havaalanları ve uçuş emniyeti
-tesisleri etrafında uçuş emniyetini tehlikeye düşürebilecek yapı, bina,
-ağaç, direk gibi tesisleri kaldırtabilir.
+Sivil Havacılık Genel Müdürlüğü, havaalanları ve uçuş emniyeti tesisleri
+etrafında uçuş emniyetini tehlikeye düşürebilecek yapı, bina, ağaç,
+direk gibi tesisleri kaldırtabilir. ^(1)^
 
-             Ulaştırma Bakanlığı belirli manialara veya yerlere, hava
+Sivil Havacılık Genel Müdürlüğü belirli manialara veya yerlere, hava
 seyrüseferi yapan kişilerce görülebilmesi ve tanınabilmesi için gözle
 görülebilir işaretler veya radyo veya elektrik işaretlerinin konulmasını
 istemeye yetkilidir. İlgililer de istem dairesinde işlem yapmakla
-yükümlüdür.
+yükümlüdür.^(1)^
 
-             Ulaştırma Bakanlığı, ilgili kuruluşların da görüşünü alarak
-havaalanları için yukarıda değinilen hususları kapsayan planları ve
-kuralları hazırlar ve yayınlar.
+**(Değişik: 13/7/2013-6496/27 md.)** Sivil Havacılık Genel Müdürlüğü,
+ilgili kuruluşların da görüşlerini alarak havaalanları için yukarıda
+değinilen hususları kapsayan planları ve kuralları hazırlar ve yayımlar.
+Türk Silahlı Kuvvetlerine ait havaalanlarından sivil hava ulaşımına açık
+havaalanlarına ilişkin inşaat sınırlamalarına ait planların yapılması,
+yayımlanması, takip esasları ve sorumlu kuruluşlar Millî Savunma
+Bakanlığının görüşü alınarak Ulaştırma, Denizcilik ve Haberleşme
+Bakanlığınca belirlenir.
+
+**(Ek: 13/7/2013-6496/27 md.)** Sivil hava ulaşımına açık olmayan
+yalnızca askerî kullanımda olan havaalanlarında ise Millî Savunma
+Bakanlığı, ilgili kuruluşların da görüşünü alarak bu havaalanları için
+yukarıda değinilen hususları kapsayan planları ve kuralları hazırlar ve
+yayımlar. Yeni yapılacak askerî havaalanları hakkında Ulaştırma,
+Denizcilik ve Haberleşme Bakanlığının görüşü alınır.
+
+**(Değişik: 23/1/2008-5728/431 md.)** Millî Savunma Bakanlığının veya
+Sivil Havacılık Genel Müdürlüğünün yukarıdaki fıkralar hükümlerine göre
+verdiği emir ve koyduğu yasaklara aykırı hareket eden kişilere, ilgili
+valilik tarafından Kabahatler Kanununun 32 nci maddesi hükmüne göre
+idarî para cezası verilir. Valilik ayrıca ilgili kişiye emir veya
+yasağın gereğinin yerine getirilmesini sağlamaya yönelik azami bir süre
+verir. Bu süre yazısında, emir ve yasağın gereğinin ilgilisince yerine
+getirilmemesinin hukukî sonuçları açıkça belirtilir. Bu süre zarfında
+emir veya yasağın gereğinin yerine getirilmemesi hâlinde, masrafları
+yüzde yirmi zammıyla birlikte ilgilisinden tahsil edilmek üzere, kamu
+gücü kullanılarak yerine getirilir. ^(1)^
+
+\_\_\_\_\_\_\_\_\_\_\_
+
+(*1) 13/7/2013 tarihli ve 6496 sayılı Kanunun 27 nci maddesi ile bu
+maddenin birinci fıkrasında yer alan “Ulaştırma Bakanlığınca” ibaresi
+“Sivil Havacılık Genel Müdürlüğünce”, ikinci ve üçüncü fıkralarında yer
+alan “Ulaştırma Bakanlığı” ibareleri “Sivil Havacılık Genel Müdürlüğü”
+ve altıncı fıkrasında yer alan “Ulaştırma Bakanlığının” ibaresi “Millî
+Savunma Bakanlığının veya Sivil Havacılık Genel Müdürlüğünün” şeklinde
+değiştirilmiştir.*
 
 6115
 
- 
-
-            **(Değişik beşinci fıkra: 23/1/2008-5728/431 md.)**
-Ulaştırma Bakanlığının yukarıdaki fıkralar hükümlerine göre verdiği emir
-ve koyduğu yasaklara aykırı hareket eden kişilere, ilgili valilik
-tarafından Kabahatler Kanununun 32 nci maddesi hükmüne göre idarî para
-cezası verilir. Valilik ayrıca ilgili kişiye emir veya yasağın gereğinin
-yerine getirilmesini sağlamaya yönelik azami bir süre verir. Bu süre
-yazısında, emir ve yasağın gereğinin ilgilisince yerine getirilmemesinin
-hukukî sonuçları açıkça belirtilir. Bu süre zarfında emir veya yasağın
-gereğinin yerine getirilmemesi hâlinde, masrafları yüzde yirmi zammıyla
-birlikte ilgilisinden tahsil edilmek üzere, kamu gücü kullanılarak
-yerine getirilir.
-
-             **Madde 48 –** 47 nci maddede konulan sınırlamalar,
-5/6/1945 tarih ve 4749 sayılı Kanunla onaylanan Uluslararası Sivil
-Havacılık Anlaşmasının eklerinde zikredilen standart ve tavsiyelerin
-altında olamaz.
+**Madde 48 –** 47 nci maddede konulan sınırlamalar, 5/6/1945 tarih ve
+4749 sayılı Kanunla onaylanan Uluslararası Sivil Havacılık Anlaşmasının
+eklerinde zikredilen standart ve tavsiyelerin altında olamaz.
 
 BEŞİNCİ BÖLÜM
 
-Hava Araçları ve Sicillerin Tutulması
+*Hava Araçları ve Sicillerin Tutulması *
 
-             Türk sivil hava aracı
+*Türk sivil hava aracı *
 
-             **Madde 49 –** Bir sivil hava aracı aşağıda belirtilen
-durumlarda da Türk sivil hava aracı sayılır.
+**Madde 49 –** Bir sivil hava aracı aşağıda belirtilen durumlarda da
+Türk sivil hava aracı sayılır.
 
-             Türk kanunları uyarınca kurulup da;
+Türk kanunları uyarınca kurulup da;
 
-             a) Kamu kurumu niteliğindeki mesleki kuruluşlar, dernekler,
-siyasi partiler, sendikalar veya vakıfların mülkiyetinde bulunan hava
-araçları, idari organını oluşturan kişilerin çoğunluğunun Türk vatandaşı
+a\) Kamu kurumu niteliğindeki mesleki kuruluşlar, dernekler, siyasi
+partiler, sendikaler veya vakıfların mülkiyetinde bulunan hava
+araçları,idari organını oluşturan kişilerin çoğunluğunun Türk vatandaşı
 olması,
 
-             b) Türk Ticaret Siciline kaydedilmiş ticari şirketler,
-kooperatifler ve bunların birliklerinin mülkiyetinde bulunan hava
-araçları, şirketi idare ve temsil etmeye yetkili olanların çoğunluğunun
-Türk vatandaşı olması ve şirket anasözleşmesine göre oy çoğunluğunun
-Türk ortaklarda bulunması.
+b\) Türk Ticaret Siciline kaydedilmiş ticari şirketler, kooperatifler ve
+bunların birliklerinin mülkiyetinde bulunan hava araçları,şirketi idare
+ve temsil etmeye yetkili olanların çoğunluğunun Türk vatandaşı olması ve
+şirket anasözleşmesine göre oy çoğunluğunun Türk ortaklarda bulunması.
 
-             Hava araçlarının sicilinin tutulması
+*Hava araçlarının sicilinin tutulması*
 
-             **Madde 50 –** Türk sivil hava araçlarının tescili için
-Ulaştırma Bakanlığınca bir sicil tutulur. Bu sicile "Uçak sicili" adı
-verilir.
+**Madde 50 –** Türk sivil hava araçlarının tescili için Ulaştırma
+Bakanlığınca bir sicil tutulur. Bu sicile "Uçak sicili" adı verilir.
 
-             Medeni Kanunun 917 nci maddesi hükümleri, sivil uçak
-sicilleri hakkında da kıyasen uygulanır.
+Medeni Kanunun 917 nci maddesi hükümleri, sivil uçak sicilleri hakkında
+da kıyasen uygulanır.
 
-             Sicilin aleniyeti
+*Sicilin aleniyeti *
 
-             **Madde 51 – **Uçak sicili alenidir. İstemle ilgili
-olduğunu ispatlayan kişiler, bir kaydın tamamlanması için sicile ait
-olan belgeleri, henüz sonuçlanmamış tescil işlemlerini ve sicil
-dosyalarını da incelemeye ve masrafını ödemek şartı ile, sözü edilen
-belgelerin örneklerini almaya mezundur.
+**Madde 51 – **Uçak sicili alenidir. İstemle ilgili olduğunu ispatlayan
+kişiler, bir kaydın tamamlanması için sicile ait olan belgeleri, henüz
+sonuçlanmamış tescil işlemlerini ve sicil dosyalarını da incelemeye ve
+masrafını ödemek şartı ile, sözü edilen belgelerin örneklerini almaya
+mezundur.
 
-             Sicil kayıtlarının geçerliliği
+*Sicil kayıtlarının geçerliliği*
 
-             **Madde 52 –** Uçak sicilindeki bir kayda iyi niyete
-dayanarak mülkiyet, ipotek veya diğer bir ayni hakkı iktisap eden
-kişinin bu iktisabı geçerli olur.
+**Madde 52 –** Uçak sicilindeki bir kayda iyi niyete dayanarak mülkiyet,
+ipotek veya diğer bir ayni hakkı iktisap eden kişinin bu iktisabı
+geçerli olur.
 
-             Sicilde lehine bir hak tescil edilmiş olan kişiye bu hakkı
-sebebi ile bir edada bulunulması veya bu kişinin üçüncü kişiler ile
-tescilli hak üzerinde bir tasarruf muamelesinde bulunması hallerinde de,
-yukarıdaki fıkra hükmü uygulanır.
+Sicilde lehine bir hak tescil edilmiş olan kişiye bu hakkı sebebi ile
+bir edada bulunulması veya bu kişinin üçüncü kişiler ile tescilli hak
+üzerinde bir tasarruf muamelesinde bulunması hallerinde de, yukarıdaki
+fıkra hükmü uygulanır.
 
-             Hakkın iktisabı için tescil şart olan durumlarda, tescili
-isteme tarihi iyiniyete esas tutulur.
+Hakkın iktisabı için tescil şart olan durumlarda, tescili isteme tarihi
+iyiniyete esas tutulur.
 
-             Sicil kayıtlarına itiraz
+*Sicil kayıtlarına itiraz*
 
-             **Madde 53 –** Sicilin muhtevasının gerçek hukuki duruma
-uygun bulunmadığı yolundaki itirazlar sicile şerh olunabilir.
+**Madde 53 –** Sicilin muhtevasının gerçek hukuki duruma uygun
+bulunmadığı yolundaki itirazlar sicile şerh olunabilir.
 
-             Bu itirazlar, bir ihtiyati tedbir kararına veya sicilin
-tadili sonucunda hakkı muhtel olacak kişinin rizasına dayanılarak şerh
-olunur. İhtiyati tedbir kararının verilmesinde hakkın tehlikede
-olduğunun kuvvetle muhtemel bulunduğunun ispatı aranmaz.
+Bu itirazlar, bir ihtiyati tedbir kararına veya sicilin tadili sonucunda
+hakkı muhtel olacak kişinin rizasına dayanılarak şerh olunur. İhtiyati
+tedbir kararının verilmesinde hakkın tehlikede olduğunun kuvvetle
+muhtemel bulunduğunun ispatı aranmaz.
 
 6116
 
@@ -2044,6 +2041,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   KHK/661                                               143                                                           2/11/2011
 
   6353                                                  68/A                                                          12/7/2012
+
+  6496                                                  47                                                            31/7/2013
   ----------------------------------------------------- ------------------------------------------------------------- ----------------------
 
 
