@@ -1,4 +1,4 @@
-**6552 sayılı Kanun ile değişik hali**
+**6645 sayılı Kanun ile değişik hali**
 
 **SENDİKALAR VE TOPLU İŞ SÖZLEŞMESİ KANUNU**
 
@@ -2062,26 +2062,19 @@ kaydıyla emsal ücret üzerinden kıdem tazminatına hak kazanır.
 
 **GEÇİCİ MADDE 6 –** (1) **(Mülga: 10/9/2014-6552/144 md.)**
 
-\(2) En son yayımlanan 2009 istatistiği sonrasında, 15/9/2012 tarihine
-kadar kurulmuş ve Ekonomik ve Sosyal Konseye üye konfederasyonlara üye
-olmuş işçi sendikalarının bu Kanunun yürürlük tarihinden Ocak 2013
-istatistiklerinin yayımlandığı tarihe kadar yapacakları yetki tespit
-talepleri, 41 inci maddenin birinci fıkrasında yer alan işyeri veya
-işletme çoğunluğu şartlarına göre Bakanlıkça sonuçlandırılır.
+\(2) **(Değişik: 4/4/2015-6645/81 md.)** Mülga 2822 sayılı Kanunun 12 nci
+maddesine göre Bakanlıkça yayımlanan 2009 Temmuz istatistiğinde kurulu
+bulunduğu işkolunda çalışan işçilerin en az yüzde onunu üyesi bulunduran
+işçi sendikaları ile 2009 Temmuz istatistiği sonrasında 15/9/2012
+tarihine kadar kurulmuş işçi sendikalarının, bu maddenin yürürlüğünden
+önce imzaladıkları toplu iş sözleşmelerinden bir sonraki toplu iş
+sözleşmesiyle sınırlı olmak üzere yapacakları yetki tespit başvuruları
+ile kurulu bulundukları işkolundaki diğer işyeri ve işletmelerde bu
+maddenin yürürlüğe girdiği tarihten itibaren bir yıl içinde yapacakları
+yetki tespit başvuruları 41 inci maddede yer alan işyeri veya işletme
+çoğunluğu şartlarına göre sonuçlandırılır.
 
-\(3) Ocak 2013 istatistiklerinin yayımlandığı tarihe kadar, Bakanlığa
-yapılmış olan yetki tespit başvuruları ile taraf oldukları bu Kanunun
-yürürlüğünden önce imzalanmış toplu iş sözleşmesi Ocak 2013
-istatistiklerinin yayımı tarihinden sonra sona erecek olan sendikaların,
-bir sonraki toplu iş sözleşmesiyle sınırlı olmak üzere yapacakları yetki
-tespit başvuruları mülga 2822 sayılı Kanunun 12 nci maddesine göre
-Bakanlıkça yayımlanmış Temmuz 2009 istatistiklerine ve mülga 2822 sayılı
-Kanunda belirtilen hükümlere göre sonuçlandırılır.**(Ek cümle:
-10/1/2013-6385/20 md.)** Ancak, en son yayımlanan 2009 istatistiğinde
-toplu iş sözleşmesi yapma yetkisi için başvuru hakkına sahip işçi
-sendikalarının 7/11/2012 tarihinde ve sonraki bu fıkraya göre
-yapacakları yetki tespit talepleri, 41 inci maddede yer alan işyeri veya
-işletme çoğunluğu şartlarına göre sonuçlandırılır.
+\(3) **(Mülga: 4/4/2015-6645/81 md.)**
 
 11725
 
@@ -2113,6 +2106,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **6356 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   6385                                                                         GEÇİCİ MADDE 6                                                19/1/2013
   6552                                                                         26, 41, 43, EK MADDE 1, GEÇİCİ MADDE 6                        11/9/2014
+  6645                                                                         GEÇİCİ MADDE 6                                                23/4/2015
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
