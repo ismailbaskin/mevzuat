@@ -1,4 +1,4 @@
-**5395 sayılı Kanunun ilk hali**
+**5560 sayılı Kanun ile değişik hali**
 
 **ÇOCUK KORUMA KANUNU**
 
@@ -324,47 +324,11 @@ tehlikeleri önlemek için kolluk tarafından gerekli önlem alınabilir.
 
 **Kamu davasının açılmasının ertelenmesi **
 
-**MADDE 19 —** (1) Fiil için kanunda öngörülen cezanın üst sınırı üç
-aydan fazla ve iki yıla kadar (iki yıl dâhil) hapis cezasını veya adlî
-para cezasını gerektirir ise, Cumhuriyet savcısı tarafından deliller
-toplandıktan sonra şüpheli hakkında açılacak kamu davası;
+**MADDE 19 — (Değişik: 6/12/2006-5560/39 md.)**
 
-a\) Çocuğun daha önce kasıtlı bir suçtan mahkûm olmamış bulunması,
-
-b\) Yapılan soruşturmanın, kamu davası açılmasının ertelenmesi hâlinde
-şüphelinin suç işlemekten çekineceği kanaatini vermesi,
-
-c\) Kamu davası açılmasının ertelenmesinin, şüpheli ve toplum açısından
-kamu davası açılmasından daha yararlı olması,
-
-d\) Suçun işlenmesiyle mağdurun veya kamunun uğradığı zararın, aynen
-iade, suçtan önceki hâle getirme veya tazmin suretiyle tamamen
-giderilmesi,
-
-Koşullarının birlikte gerçekleşmesi hâlinde, beş yıl süreyle
-ertelenebilir. Bu fıkranın (d) bendindeki koşul çocuğun ailesinin veya
-kendisinin ekonomik durumunun elverişli olmaması hâlinde aranmayabilir.
-
-\(2) Kamu davasının açılmasının ertelenmesine ilişkin kararın
-uygulanması, çocuk hâkiminin onamasına bağlıdır. Bu husustaki karar beş
-gün içinde verilir.
-
-\(3) Erteleme süresi içinde işlediği kasıtlı bir suçtan dolayı hapis
-cezasına mahkûm olmadığı takdirde, kovuşturmaya yer olmadığına karar
-verilir. Erteleme süresi içinde işlediği kasıtlı bir suçtan dolayı hapis
-cezasına mahkûmiyet hâlinde kamu davası açılır. Erteleme süresince
-zamanaşımı işlemez.
-
-\(4) Kamu davasının açılmasının ertelenmesine ilişkin kararlar, bunlara
-mahsus bir sisteme kaydedilir. Bu kayıtlar, ancak bir soruşturma veya
-kovuşturmayla bağlantılı olarak Cumhuriyet savcısı, hâkim veya mahkeme
-tarafından istenmesi hâlinde, bu maddede belirtilen amaç için
-kullanılabilir.
-
-\(5) Fiili işlediği sırada onbeş yaşını doldurmamış çocuk bakımından,
-birinci fıkrada öngörülen hapis cezasının üst sınırı üç yıl (üç yıl
-dâhil) olarak uygulanır.
-
+\(1) Çocuğa yüklenen suçtan dolayı Ceza Muhakemesi Kanunundaki koşulların
+varlığı halinde, kamu davasının açılmasının ertelenmesi kararı
+verilebilir. Ancak, bu kişiler açısından erteleme süresi üç yıldır.
 **Adlî kontrol **
 
 **MADDE 20 —** (1) Suça sürüklenen çocuklar hakkında soruşturma veya
@@ -408,75 +372,19 @@ duruşmada hazır bulundurulmasına da gerek görülmeyebilir.
 
 **Hükmün açıklanmasının geri bırakılması **
 
-**MADDE 23 —** (1) Çocuğa yüklenen suçtan dolayı yapılan yargılama
-sonunda belirlenen ceza, en çok üç yıla kadar (üç yıl dâhil) hapis veya
-adlî para cezası ise; mahkemece, hükmün açıklanmasının geri
-bırakılmasına karar verilebilir.
+**MADDE 23 — (Değişik: 6/12/2006-5560/40 md.)**
 
-\(2) Hükmün açıklanmasının geri bırakılması kararının verilebilmesi için
-gerekli koşullar şunlardır:
-
-a\) Çocuğun daha önce kasıtlı bir suçtan mahkûm olmamış bulunması.
-
-b\) Çocuğun yeniden suç işlemeyeceği hususunda kanaat gelmiş olması.
-
-c\) Çocuk hakkında, kişilik özellikleri ile duruşmadaki tutum ve
-davranışları itibarıyla bir cezaya hükmedilmesine gerek görülmemesi.
-
-d\) Suçun işlenmesiyle mağdurun veya kamunun uğradığı zararın, aynen
-iade, suçtan önceki hâle getirme veya tazmin suretiyle tamamen
-giderilmesi. Suçun işlenmesiyle kamunun uğradığı zarar miktarının
-belirlenememesi hâlinde, mahkemece takdir edilecek bir miktarda paranın
-bir defada Maliye veznesine yatırılması. Ancak bu koşul, çocuğun
-ailesinin veya kendisinin ekonomik durumunun elverişli olmaması hâlinde
-aranmayabilir.
-
-\(3) Hükmün açıklanmasının geri bırakılması kararının verilmesi hâlinde,
-çocuk, beş yıl süreyle denetimli serbestlik tedbirine tâbi tutulur. Bu
-süre içinde çocuğun bir eğitim kurumuna devam etmesine, belli yerlere
-gitmekten yasaklanmasına, belli yerlere devam etmek hususunda yükümlü
-kılınmasına ya da takdir edilecek başka yükümlülüğü yerine getirmesine
-karar verilebilir. Denetim süresi içinde dava zamanaşımı durur.
-
-\(4) İkinci fıkranın (d) bendinde belirtilen koşulun yerine
-getirilememesi hâlinde; denetimli serbestlik süresince sanığa aşağıdaki
-yükümlülüklerden biri yüklenerek, hükmün açıklanmasının geri bırakılması
-kararı verilebilir:
-
-a\) Suçun işlenmesiyle mağdurun veya kamunun uğradığı zararın, aylık
-taksitler hâlinde ödenerek tamamen giderilmesi.
-
-b\) Suçun işlenmesiyle kamunun uğradığı zarar miktarının belirlenememesi
-hâlinde, mahkemece takdir edilecek miktarda paranın aylık taksitler
-hâlinde Maliye veznesine yatırılması.
-
-\(5) Denetimli serbestlik süresi içinde işlediği kasıtlı bir suçtan
-dolayı hapis cezasına mahkûm olmadığı ve yükümlülüklere uygun
-davranıldığı takdirde, davanın düşmesine karar verilir.
-
-\(6) Çocuğun denetimli serbestlik süresi içinde işlediği hapis cezasını
-gerektiren kasıtlı bir suç nedeniyle mahkûm olması veya yükümlülüklerine
-aykırı davranması hâlinde, mahkeme geri bıraktığı hükmü açıklar. Ancak
-mahkeme, yükümlülüklerin yerine getirilme durumunu göz önünde
-bulundurarak, çocuk hakkında belirlenen cezada yarı oranına kadar
-indirim yapabilir.
-
-\(7) Hükmün açıklanmasının geri bırakılması kararına itiraz edilebilir.
-
-\(8) Hükmün açıklanmasının geri bırakılması kararı, bunlara mahsus bir
-sisteme kaydedilir. Bu kayıtlar, ancak bir soruşturma veya kovuşturmayla
-bağlantılı olarak Cumhuriyet savcısı, hâkim veya mahkeme tarafından
-istenmesi hâlinde, bu maddede belirtilen amaç için kullanılabilir.
+\(1) Çocuğa yüklenen suçtan dolayı yapılan yargılama sonunda, Ceza
+Muhakemesi Kanunundaki koşulların varlığı halinde, mahkemece hükmün
+açıklanmasının geri bırakılmasına karar verilebilir. Ancak, bu kişiler
+açısından denetim süresi üç yıldır.
 
 **Uzlaşma **
 
-**MADDE 24 —** (1) Suça sürüklenen çocuklarla ilgili olarak uzlaşma,
-soruşturulması ve kovuşturulması şikâyete bağlı olan veya kasten işlenen
-ve alt sınırı iki yılı aşmayan hapis veya adlî para cezasını gerektiren
-ya da taksirle işlenen suçlarda uygulanır.
+**MADDE 24 — (Değişik: 6/12/2006-5560/41 md.)**
 
-\(2) Suç tarihinde onbeş yaşını doldurmayan çocuklar bakımından, birinci
-fıkrada öngörülen hapis cezasının alt sınırı üç yıl olarak uygulanır.
+\(1) Ceza Muhakemesi Kanununun uzlaşmaya ilişkin hükümleri suça
+sürüklenen çocuklar bakımından da uygulanır.
 
 **ÜÇÜNCÜ KISIM**
 
@@ -942,3 +850,17 @@ Yürürlüğe girer.
 **Yürütme**
 
 **MADDE 50 —** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+**5395 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **5395 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5560                                                                              19, 23, 24                                                    19/12/2006
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+
+
