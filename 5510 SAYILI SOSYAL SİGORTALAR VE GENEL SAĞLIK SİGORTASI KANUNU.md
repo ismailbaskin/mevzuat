@@ -1,4 +1,4 @@
-**5947 sayılı Kanun ile değişik hali**
+**5951 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -4239,8 +4239,12 @@ uygulanmaz ve bu fıkra kapsamında değerlendirilmez.
 Kamu idaresi sağlık hizmeti sunucuları ise otelcilik hizmeti ile
 dördüncü fıkrada belirtilen istisnai sağlık hizmetleri dışında,
 sağladıkları sağlık hizmetleri için genel sağlık sigortalısı ve bakmakla
-yükümlü olduğu kişilerden ilave ücret talep edemez. **(Mülga ikinci
-cümle: 21/1/2010-5947/19 md.) (…)**
+yükümlü olduğu kişilerden ilave ücret talep edemez. Aksine bir hüküm
+bulunmadığı sürece, kamu idaresi ve vakıf üniversitesi sağlık hizmeti
+sunucularında 4/11/1981 tarih ve 2547 sayılı Yüksek Öğretim Kanununda
+tanımlanan öğretim üyeleri tarafından sunulan sağlık hizmetleri için bu
+fıkra hükmü uygulanmaz, Kurum öğretim üyeleri için alınacak ilave ücret
+için bir tavan belirleyebilir.
 
 Sözleşmeli sağlık hizmeti sunucuları, Kurumca belirlenmiş standartların
 üstündeki talepleri karşılayan otelcilik hizmetleri ile hayati öneme
@@ -6387,90 +6391,6 @@ gecikme zammı, işverenden tahsil edilir.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Hazine Müsteşarlığı
 tarafından belirlenir.
 
-**EK MADDE 3 –** **(Ek: 21/1/2010-5947/14 md.)**
-
-4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları
-ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye
-Hakkında Kanunun 5 inci maddesi (altıncı fıkra kapsamında ek ödeme
-alanlar ile diğer kurumlardan vekaleten atama veya görevlendirme
-suretiyle Sağlık Bakanlığında görevlendirilenler hariç) gereğince döner
-sermaye gelirlerinden ek ödeme alan ve aynı zamanda bu Kanunun 4 üncü
-maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı
-bulunanlardan; tabip ve diş tabipleri ile tıpta uzmanlık mevzuatına göre
-uzman olanlar, sigorta priminin işveren payı dahil tamamını kendileri
-ödemek kaydıyla, 209 sayılı Kanunun ek 3 üncü maddesine göre kendilerine
-ödenen tutar üzerinden malullük, yaşlılık ve ölüm sigortasıyla sınırlı
-olacak şekilde ilave olarak sigorta primine tabi tutulur. Ancak, bu
-şekilde ilave olarak sigorta primine tabi tutulacak kazancın tutarı, bu
-haktan yararlanacakların tamamı açısından 80 inci maddenin üçüncü
-fıkrasına göre belirlenecek sigorta primine esas kazanç toplamı ile 82
-nci maddenin birinci fıkrasında belirtilen sigorta primine esas kazanç
-üst sınırı arasındaki farkı geçemez.
-
-Bu şekilde ilave prim ödemesinde bulunanlardan malullük, yaşlılık,
-vazife malullüğü veya emeklilik aylığı ya da sürekli tam iş göremezlik
-geliri bağlanmasına hak kazananlara; ilave olarak ödedikleri her yıla
-ait sigorta prim matrahının, kazancın ait olduğu yıldan itibaren söz
-konusu aylık veya geliri talep ettiği tarihe kadar geçen yıllar için her
-yıl gerçekleşen güncelleme katsayısı ile güncellenerek bulunan kazançlar
-toplamının, ilave prim ödedikleri gün sayısına bölünmesi sonucu
-bulunacak ortalama günlük kazancın otuz katının, ilave prim ödedikleri
-gün sayısının her 360 günü için % 2'si oranında bulunacak tutarda ilave
-aylık ödenir. Bu hesaplamada, 360 günden eksik süreler orantılı olarak
-dikkate alınır. Sigortalının ölmesi halinde ise, bu fıkra çerçevesinde
-hesaplanacak ilave aylık geçici 18 inci madde hükümleri saklı kalmak
-kaydıyla, geçici 4 üncü madde kapsamında bulunan sigortalıların aylığa
-müstahak dul ve yetimleri için geçici 4 üncü madde hükümlerine, diğer
-sigortalıların hak sahipleri için ise 34 ve 54 üncü madde hükümlerine
-göre ödenir. Bu şekilde ilave aylık alan kız çocuğunun 37 nci madde
-uyarınca evlenme ödeneğine hak kazanması durumda, aynı madde hükümleri
-çerçevesinde ilave evlenme ödeneği ödenir.
-
-İlave aylıklar, 55 inci maddenin ikinci fıkrası uyarınca artırılır.
-
-Bu şekilde ilave prim ödemesinde bulunanlardan 31 inci madde ve geçici 4
-üncü madde uyarınca toptan ödeme yapılan veya emeklilik kesenekleri geri
-verilenlere; ilave olarak ödedikleri sigorta primlerinin her yıla ait
-tutarı, primlerin ait olduğu yıldan itibaren yazılı istek tarihine kadar
-geçen yıllar için, her yıl gerçekleşen güncelleme katsayısı ile
-güncellenerek bulunacak tutarda ilave toptan ödeme yapılır. Sigortalının
-ölmesi halinde ise, bu fıkra çerçevesinde hesaplanacak ilave toptan
-ödeme, geçici 4 üncü madde kapsamında bulunan sigortalıların aylığa
-müstahak dul ve yetimlerine geçici 4 üncü madde hükümlerine, diğer
-sigortalıların hak sahiplerine ise 34 üncü madde hükümlerine göre
-ödenir.
-
-İlave aylıkların başlangıcı, kesilmesi ve yeniden bağlanmasında geçici 4
-üncü madde kapsamına girenler için geçici 4 üncü madde hükümleri,
-diğerleri için ise 27, 30 ve 34 üncü madde hükümleri kıyasen uygulanır.
-Ancak, geçici 4 üncü madde kapsamında veya 30 uncu maddenin üçüncü
-fıkrası kapsamında aylıklarının kesilmesi sebebiyle ilave aylıkları da
-kesilmiş olanlardan birinci fıkra kapsamında yeniden ilave sigorta primi
-ödemiş ve yeniden aylık bağlanmasına hak kazanmış olanların yeni ilave
-aylığı, eski aylığın kesildiği tarihten yeniden ilave aylık bağlanacak
-tarihe kadar 55 inci maddenin ikinci fıkrasına göre aylıklara yapılan
-artışlar uygulanarak bulunacak tutara, yeniden ilave sigorta primi
-ödediği süreler için ikinci fıkraya göre hesaplanacak ilave aylığın
-eklenmesi suretiyle tespit olunur.
-
-Birinci fıkra gereğince ilave sigorta primi kesilmesine, 209 sayılı
-Kanunun ek 3 üncü maddesine göre ek ödeme verilecek ilk aybaşında
-başlanır. Bu şekilde ilave sigorta primi alınacakların sigorta primleri
-için ayrı bir bildirge düzenlenir. Ancak, bu bildirgelerin verilme ve
-primlerin ödeme zamanının tespitinde genel hükümlere uygun olarak işlem
-tesis edilir.
-
-Malullük, yaşlılık ve ölüm sigortası için bu madde hükümlerine göre
-sigorta primi ödenen süreler, prim ödeme gün sayısı, sigortalılık süresi
-ve prime esas kazanç hesabına dahil edilemez. Ödenen prim tutarları ve
-bildirilen kazanç tutarları ise emekli ikramiyesi, iş sonu tazminatı ve
-kıdem tazminatı da dahil olmak üzere bu maddede belirtilmeyen herhangi
-bir hakkın elde edilmesinde veya hesabında dikkate alınmaz.
-
-Bu madde kapsamında ödenen sigorta primleri daha sonra geri talep
-edilemez ve bu Kanunun ihya hükümleri ilave aylıklar hakkında
-uygulanmaz.
-
 **Malûllük, yaşlılık ve ölüm sigortasına ilişkin bazı geçiş hükümleri**
 
 **GEÇİCİ MADDE 1-** **(Değişik: 17/4/2008-5754/68 md.)**
@@ -8100,10 +8020,6 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5921                                                                               Ek Madde 2                                                                 18/8/2009
 
   5951                                                                               Geçici Madde 26                                                            1/1/2010 tarihinden geçerli olmak üzere 5/2/2010
-
-  5947                                                                               73                                                                         30/1/2011
-                                                                                                                                                                
-                                                                                     Ek Madde 3                                                                 30/8/2010
   ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- ----------------------------------------------------
 
 
