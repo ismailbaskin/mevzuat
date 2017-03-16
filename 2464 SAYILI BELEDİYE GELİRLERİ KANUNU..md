@@ -1,6 +1,4 @@
-**Anayasa Mahkemesinin 29/12/2011 tarihli ve E.: 2010/62**
-
-**K.: 2011/175 sayılı Kararı ile değişik hali**
+**6487 sayılı kanun ile değişik hali**
 
 []{#K80 .anchor}**BELEDİYE GELİRLERİ KANUNU**
 
@@ -92,7 +90,7 @@ gereçler üzerindeki ilan ve reklamlar,
 10\. Sinema ve tiyatroların kendi programlarına ilişkin olarak gösterinin
 yapıldığı binanın içinde ve dış yüzünde yaptıkları ilan ve reklamlar.
 
-*Tarife ve nispet:*
+*Tarife ve nispet: ^(1)^*
 
 **Madde 15 –** İlan ve Reklam Vergisi aşağıdaki tarifeye göre alınır.
 
@@ -129,6 +127,13 @@ cep takvimleri, biblolar veya benzerlerinin her biri için: 0,01 0,25
 6\. Mahiyeti ne olursa olsun yapıştırılacak çeşitli afişler ve
 
 benzerlerinin beherinin metrekaresinden: 0,02 0,50
+
+**–––––––––––––––––––**
+
+*(1) Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili
+olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan
+10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara
+bakınız.*
 
 5257
 
@@ -231,10 +236,10 @@ sonra kalan tutar.
 3\. **(Değişik: 3/10/1984 - 3048/2 md.)** Biletle girilmesi zorunlu
 olmayan bar, pavyon, gazino, gece kulübü, taverna, diskotek, kabare,
 dansing, bilardo ve masa futbolu salonları gibi eğlence yerlerinde işin
-mahiyetine göre çalışılan her gün için Belediye Meclislerince takdir
-edilecek miktardır.
+mahiyetine göre çalışılan her gün için bu Kanunun 96 ncı maddesine göre
+tespit edilen miktardır.^(1)^
 
-*Nispet ve miktar:*
+*Nispet ve miktar: ^(6)^*
 
 **Madde 21 –** Eğlence Vergisi aşağıdaki nispet ve miktarlarda alınır.
 
@@ -281,24 +286,26 @@ günü akşamına kadar aktarılır. **(Ek cümle: 30/12/2004-5281/17 md.)**
 Maliye Bakanlığı yukarıdaki şartlara bağlı kalmaksızın, biletle girilen
 yerlere ilişkin eğlence vergisinin hesaplanması ve ödenmesine dair
 işlemlerin ödeme kaydedici cihaz kullanılarak yapılmasına ait usûl ve
-esasları belirlemeye yetkilidir.^(4)^
+esasları belirlemeye yetkilidir.^(4)(5)^
 
-*Verginin ödenmesi:*
+***(Dikkat: Bu sayfada yer alan dipnotlar için 5258-1 numaralı sayfaya
+bakınız.)***
 
-**Madde 22 –** 1. Vergi biletle girilen yerlerde bilet bedellerine
-eklenmek suretiyle hesaplanır ve belediye tarafından özel damga
-konulması sırasında ödenir. Bu
+5258-1
 
-——————————
+*(1) 24/5/2013 tarihli ve 6487 sayılı Kanunun 14 üncü maddesiyle, bu
+bentte yer alan “Belediye Meclislerince takdir edilecek miktardır.”
+ibaresi, “bu Kanunun 96 ncı maddesine göre tespit edilen miktardır.”
+şeklinde değiştirilmiştir.*
 
-*(1) Bu altbentlere Kanunla getirilmiş olan miktar aynen bırakılmış;
+*(2) Bu altbentlere Kanunla getirilmiş olan miktar aynen bırakılmış;
 9/12/1997 tarih ve 97/10349 sayılı Kararname ile 16/12/1997 tarihinden
 geçerli olarak tesbit edilen miktarlar ise, metne parantez içinde siyah
 punto ile işlenmiştir. Daha önce Kararname ile yapılan değişiklik için
 Bu Kanunun sonundaki "KARARNAMELER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne
 bakınız. *
 
-*(2) 20/12/2000 tarih ve 4611 sayılı 2001 yılı Mali Yılı Bütçe Kanununun
+*(3) 20/12/2000 tarih ve 4611 sayılı 2001 yılı Mali Yılı Bütçe Kanununun
 67 nci maddesi aşağıdaki hükmü getirmiştir. “(1) ve (2) numaralı alt
 bentleri uyarınca yerli ve yabancı film gösterimlerinden tahsil olunan
 vergi gelirlerinin % 75’i bu Kanunun yayımını izleyen ay başından
@@ -310,18 +317,29 @@ nezdindeki hesabına yatırılır. Süresinde yatırılmayan fon paylarının
 tahsilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
 hükümleri uygulanır.”*
 
-*(3) Bu alt bentte Kanunla getirilmiş olan miktarlar aynen bırakılmış;
+*(4) Bu alt bentte Kanunla getirilmiş olan miktarlar aynen bırakılmış;
 7/1/1991 tarih ve 91/1365 sayılı Kararname ile 1/1/1991 tarihinden
 geçerli olarak tesbit edilen miktarlar ise metne parantez içinde siyah
 punto ile işlenmiştir. Daha önce Kararname ile yapılan değişiklik için
 bu Kanunun sonundaki "KARARNAMELER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne
 bakınız,*
 
-*(4) 30/12/2004 tarihli ve 5281 sayılı Kanunun 17 nci maddesiyle, bu
+*(5) 30/12/2004 tarihli ve 5281 sayılı Kanunun 17 nci maddesiyle, bu
 fıkrada yer alan “ her ayın onbeşinci günü akşamına kadar“ ibaresi, “
 biletler kullanılmadan önce“ olarak değiştirilmiş ve metne işlenmiştir.*
 
+*(6) Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili
+olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan
+10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara
+bakınız.*
+
 5259
+
+*Verginin ödenmesi:*
+
+**Madde 22 –** 1. Vergi biletle girilen yerlerde bilet bedellerine
+eklenmek suretiyle hesaplanır ve belediye tarafından özel damga
+konulması sırasında ödenir. Bu
 
 suretle alınan biletlerin kullanılmadan iadesi halinde peşin olarak
 ödenen vergi geri verilir.
@@ -567,9 +585,9 @@ edilir.
 
 ––––––––––––––
 
-*(1) Bu maddenin 1/1/2013 tarihinden itibaren uygulanması ile ilgili
-olarak; 31/12/2012 tarihli ve 28514 (4.Mükerrer) sayılı Resmi Gazete'de
-yayımlanan Maliye Bakanlığının 42 Seri No.'lu Tebliğine bakınız.*
+*(1) Bu maddenin 1/1/2014 tarihinden itibaren uygulanması ile ilgili
+olarak; 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi Gazete'de
+yayımlanan Maliye Bakanlığının 43 Seri No.'lu Tebliğine bakınız.*
 
 5262
 
@@ -685,7 +703,7 @@ bentlerinde yazılı işgallerde işgal edilen yerlerin metrekare olarak
 alanı veya hayvan adedi, 3 üncü bendinde yazılı işgallerde taşıt
 adedidir.
 
-*Harcın tarifesi:*
+*Harcın tarifesi: ^(1)^*
 
 **Madde 56 –** İşgal harcı aşağıda gösterilen hadler içinde düzenlenecek
 tarifeye göre alınır.
@@ -697,9 +715,8 @@ tarifeye göre alınır.
 
                                                                           ***En az***
 
-  1\. 52 nci maddenin (1) ve (2) numaralı bentlerinde yazılı işgallerde    
+  1\. 52 nci maddenin (1) ve (2) numaralı bentlerinde yazılı işgallerde   0,5
   beher metrekare için günde:                                             
-                                                                          0,5
 
   2\. 52 nci maddenin (1) numaralı bendinde yazılı hayvan satıcılarının    
   işgallerinde;                                                           
@@ -727,6 +744,15 @@ Tarifenin (1) numaralı bendindeki harçların hesabında metrekare
 kesirleri tam sayılır ve tam günü aşan işgallerde altı saatten az
 süreler atılır, fazlası tam gün sayılır.
 
+**–––––––––––––––––––**
+
+*(1) Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili
+olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan
+10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara
+bakınız.*
+
+5262-2
+
 *Harcın ödenmesi:*
 
 **Madde 57 –** İşgal harcı belediyelerin yetkili kılacakları memur veya
@@ -742,20 +768,18 @@ kişilerce makbuz karşılığında tahsil edilir.
 belediyelerce izne bağlı işyerlerine ruhsat verilmesi, Tatil Günlerinde
 Çalışma Ruhsatı Harcına tabidir.
 
-5262-2
-
 *Mükellef:*
 
-**Madde 59 –** Tatil Günlerinde Çalışma Ruhsatı Harcının mükellefi
+**Madde 59 –**Tatil Günlerinde Çalışma Ruhsatı Harcının mükellefi
 kendisine çalışma ruhsatı verilen gerçek veya tüzelkişidir.
 
-*Harcın tarifesi:*
+*Harcın tarifesi: ^(1)^*
 
 **Madde 60 – (Değişik: 30/12/2004-5281/20 md.)**
 
 Tatil Günlerinde Çalışma Ruhsatı Harcı, işin mahiyetine göre yılda 20
-YTL’den az; 800 YTL’den çok olmamak üzere belediye meclislerince tespit
-edilir.
+TL’den az, 800 TL’den çok olmamak üzere bu Kanunun 96 ncı maddesine göre
+tespit edilir.^(2)^
 
 *Mükellefiyet dönemi ve harcın ödenmesi:*
 
@@ -773,6 +797,19 @@ alınır. Harcı ödenmemiş ruhsatlar geçerli değildir.
 **Madde 62 –** Adi Ortaklıklarda harç, ortaklık adına ortaklardan
 birinden alınır. Ortaklardan herbiri harcın ödenmesinden müteselsilen
 sorumludur.
+
+**–––––––––––––––––––**
+
+*(1) Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili
+olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan
+10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara
+bakınız.*
+
+*(2) 24/5/2013 tarihli ve 6487 sayılı Kanunun 15 inci maddesiyle, bu
+bentte yer alan “20 YTL’den az; 800 YTL’den çok olmamak üzere belediye
+meclislerince tespit edilir.” ibaresi “20 TL’den az, 800 TL’den çok
+olmamak üzere bu Kanunun 96 ncı maddesine göre tespit edilir.” şeklinde
+değiştirilmiştir.*
 
 5263
 
@@ -875,7 +912,7 @@ ALTINCI BÖLÜM
 
 **Madde 72 –** Belediye sınırları ve mücavir alanlar içinde,
 belediyelerce veya yetkili mercilerce verilen izne dayanılarak özel kişi
-ve kuruluşlarca tesis edilenmezbaha ve kanaralarda kesilen hayvanların
+ve kuruluşlarca tesis edilen mezbaha ve kanaralarda kesilen hayvanların
 kesim öncesi ve sonrası muayenesi veya belediye sınırları ve mücavir
 alanlar dışında kesilmiş olup da belediye sınırı içinde satışa arz
 edilecek etlerin sağlık bakımından muayene ve denetlenmesi, hayvan
@@ -1268,9 +1305,10 @@ işlenmiştir.*
 *(2) Bu maddenin son fıkrası, 18/5/1987 tarih ve 3365 sayılı Kanunla
 yapılan değişiklikler (2) fıkra halinde düzenlenmiştir.*
 
-*(3) Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005
-tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve
-2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.*
+*(3) Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili
+olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan
+10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara
+bakınız.*
 
 5269
 
@@ -1453,7 +1491,7 @@ görüşü alınarak İçişleri Bakanlığınca beş gruba ayrılır ve Resmi
 Gazete'de ilan olunur.
 
 Bu şekilde ayrılacak belediye grupları bu kanunun yayımı tarihinden
-itibaran her üç yılda bir yukarıdaki usule göre gözden geçirilerek
+itibaren her üç yılda bir yukarıdaki usule göre gözden geçirilerek
 yenilenir.
 
 *Vergi ve harç tarifelerinin tespiti:*
@@ -1536,7 +1574,8 @@ harcın ödenmesinden mükellefler ile birlikte müteselsilen sorumludurlar.
 
 **Madde 100 –** Yabancı devletlerin Türkiye'de bulunan elçi, konsolos ve
 maslahatgüzarları (fahri olanlar hariç) ile yabancı devletin uyruğunda
-bulunan elçi-
+bulunan elçilik ve konsolosluk memurları, bu Kanun hükümlerinden
+karşılıklı olmak şartı ile muaftırlar.
 
 ——————————
 
@@ -1546,14 +1585,11 @@ edilen kullanma ve sanayi suları..." şeklindeki ibare Anayasa
 Mahkemesinin 31/3/1987 tarih ve E.86/20, K. 87/9 sayılı kararı ile iptal
 edilmiştir.*
 
-*(2) Bu fıkrada yeralan "müzelerin giriş ücretlerinin “% 40”ı ibaresi,
+*(2) Bu fıkrada yer alan "müzelerin giriş ücretlerinin “% 40”ı ibaresi,
 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesi ile metne
 işlendiği şekilde değiştirilmiştir.*
 
 5273
-
-lik ve konsolosluk memurları, bu Kanun hükümlerinden karşılıklı olmak
-şartı ile muaftırlar.
 
 Bakanlar Kurulunca belli edilen uluslararası kuruluşlar ile bu
 kuruluşların yabancı devlet uyruğundaki memurları ve anlaşmalar
@@ -1760,25 +1796,27 @@ tarihinde bütün neticeleri ile ortadan kalkar.
 
 5280
 
-  ------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa **                                     **2464 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-                                                                                                                                                
-  **Mahkemesi’nin Kararının Numarası**                                                                                                          
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa **                                         **2464 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                    
+  **Mahkemesinin Kararının Numarası**                                                                                                               
 
-  5602                                                                            19, 20, 21                                                    21/3/2007 tarihini izleyen aybaşında
+  5602                                                                                19, 20, 21                                                    21/3/2007 tarihini izleyen aybaşında
 
-  5679                                                                            Ek Madde 2, Madde 80                                          7/6/2007
+  5679                                                                                Ek Madde 2, Madde 80                                          7/6/2007
 
-  5784                                                                            35, 37, 39                                                    26/7/2008
+  5784                                                                                35, 37, 39                                                    26/7/2008
 
-  5917                                                                            Geçici Madde 6                                                10/7/2009
+  5917                                                                                Geçici Madde 6                                                10/7/2009
 
-  6360                                                                            86                                                            6/12/2012
+  6360                                                                                86                                                            6/12/2012
 
-  Anayasa Mah.’nin 29/12/2011 tarihli ve E.: 2010/62 K.: 2011/175 sayılı Kararı   96/B                                                          19/5/2012 tarihinden başlayarak bir yıl sonra
-                                                                                                                                                
-                                                                                                                                                (19/5/2013)
-  ------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------
+  **Anayasa Mah.’nin 29/12/2011 tarihli ve E.: 2010/62 K.: 2011/175 sayılı Kararı**   96/B                                                          19/5/2012 tarihinden başlayarak bir yıl sonra
+                                                                                                                                                    
+                                                                                                                                                    (19/5/2013)
+
+  6487                                                                                20, 60, 96                                                    19/5/2013 tarihinden geçerli olmak üzere 11/6/2013
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
 
 5280-1
 
@@ -1830,6 +1868,12 @@ tarihinde bütün neticeleri ile ortadan kalkar.
   Tebliğ                      39                        29/12/2010
 
   Tebliğ                      40                        26/12/2011
+
+  Tebliğ                      42                        31/12/2012
+
+  Tebliğ                      43                        30/12/2013
+
+  10/2/2014                   2014/5896                 18/2/2014
   --------------------------- ------------------------- ------------------------------ ---------------- --------------------------------------------
 
 
