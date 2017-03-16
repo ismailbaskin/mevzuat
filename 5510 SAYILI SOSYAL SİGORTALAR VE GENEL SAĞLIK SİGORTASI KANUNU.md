@@ -1,4 +1,6 @@
-**6495 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 29/1/2014 tarihli ve **
+
+**E.: 2013/126, K.: 2014/17 sayılı Kararı ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK**
 
@@ -3989,33 +3991,6 @@ Kurumu Kanunu hükümlerine göre korunma, bakım ve rehabilitasyon
 hizmetlerinden ücretsiz faydalanan kişiler ile ana ve babası olmayan
 Türk vatandaşlarından 18 yaşını doldurmamış çocuklar,^(2)^
 
-8\) Harp malûllüğü aylığı alanlar ile Terörle Mücadele Kanunu kapsamında
-aylık alanlar,
-
-9\) 18/3/1924 tarihli ve 442 sayılı Köy Kanununun 74 üncü maddesinin
-ikinci fıkrasına göre görevlendirilen kişiler ile aynı Kanunun ek 16 ncı
-maddesine göre aylık alan kişiler,
-
-10\) 11/10/1983 tarihli ve 2913 sayılı Dünya Olimpiyat ve Avrupa
-Şampiyonluğu Kazanmış Sporculara ve Bunların Ailelerine Aylık Bağlanması
-Hakkında Kanun hükümlerine göre aylık alan kişiler,
-
-d\) Mütekabiliyet esası da dikkate alınmak şartıyla, oturma izni almış
-yabancı ülke vatandaşlarından yabancı bir ülke mevzuatı kapsamında
-sigortalı olmayan kişiler,
-
-e\) 25/8/1999 tarihli ve 4447 sayılı Kanun gereğince işsizlik ödeneği ve
-ilgili kanunları gereğince kısa çalışma ödeneğinden yararlandırılan
-kişiler,
-
-f\) Bu Kanun veya bu Kanundan önce yürürlükte bulunan sosyal güvenlik
-kanunlarına göre gelir veya aylık alan kişiler,
-
-g\) Yukarıdaki bentlerin dışında kalan ve başka bir ülkede sağlık
-sigortasından yararlanma hakkı bulunmayan vatandaşlar,
-
-genel sağlık sigortalısı sayılır.
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) 21/5/2013 tarihli ve 6486 sayılı Kanunun 1 inci maddesiyle bu alt
@@ -4029,7 +4004,7 @@ bentte yer alan “ücretsiz faydalanan kişiler” ibaresinden sonra gelmek
 üzere “ile ana ve babası olmayan Türk vatandaşlarından 18 yaşını
 doldurmamış çocuklar” ibaresi eklenmiştir.*
 
-######## 9828
+9828
 
 8\) Harp malûllüğü aylığı alanlar ile Terörle Mücadele Kanunu kapsamında
 aylık alanlar,
@@ -4337,21 +4312,29 @@ mahsus tıbbî cihaz, tıbbî sarf, iyileştirici nitelikteki tıbbî sarf
 malzemelerinin sağlanması, takılması, garanti süresi sonrası bakımı,
 onarılması ve yenilenmesi hizmetleri.
 
-**(Değişik ikinci fıkra: 17/4/2008-5754/40 md.)** Kurum, finansmanı
+**(Değişik ikinci fıkra: 6/2/2014-6518/81 md.)** Kurum, finansmanı
 sağlanacak sağlık hizmetlerinin teşhis ve tedavi yöntemleri ile (f)
 bendinde belirtilen sağlık hizmetlerinin türlerini, miktarlarını ve
-kullanım sürelerini, ödeme usûl ve esaslarını Sağlık Bakanlığının
-görüşünü alarak belirlemeye yetkilidir. Kurum, bu amaçla komisyonlar
+kullanım sürelerini, ödeme usul ve esaslarını Aile ve Sosyal Politikalar
+Bakanlığı ile Sağlık Bakanlığının görüşünü alarak belirlemeye
+yetkilidir. Ancak, Aile ve Sosyal Politikalar Bakanlığının görüşünün
+alınması (f) bendinde belirtilen ortez, protez ve diğer iyileştirici
+nitelikteki araç ve gereçlerin miktarını, standartlarını, sağlanmasını,
+uygulanmasını, kullanma sürelerini ve garanti süresi sonrası bakım,
+onarım ve yenilenmesi hususlarını kapsar. Kurum, bu amaçla komisyonlar
 kurabilir, ulusal ve uluslararası tüzel kişilerle işbirliği yapabilir.
-Komisyonların çalışma usûl ve esasları Maliye Bakanlığı ile Sağlık
-Bakanlığının görüşü alınarak Kurumca belirlenir.
+Komisyonların çalışma usul ve esasları Aile ve Sosyal Politikalar
+Bakanlığı, Maliye Bakanlığı ile Sağlık Bakanlığının görüşü alınarak
+Kurumca belirlenir.
 
 60 ıncı maddede sayılan genel sağlık sigortalısı sayılma şartlarının
 yitirilmesi halinde, devam etmekte olan tedavi nedeniyle sağlanacak
 sağlık hizmetleri kişinin iyileşmesine kadar sürer.
 
-Bu maddenin uygulanmasına ilişkin usûl ve esaslar, Sağlık Bakanlığının
-görüşü üzerine Kurum tarafından çıkarılacak yönetmelikle düzenlenir.
+**(Değişik dördüncü fıkra: 6/2/2014-6518/81 md.)** Bu maddenin
+uygulanmasına ilişkin usul ve esaslar, Aile ve Sosyal Politikalar
+Bakanlığı ve Sağlık Bakanlığının görüşü üzerine Kurum tarafından
+çıkarılacak yönetmelikle düzenlenir.
 
 **Kurumca finansmanı sağlanmayacak sağlık hizmetleri ^(1)^**
 
@@ -4755,7 +4738,7 @@ fıkrasının (c) bendinin (4) numaralı alt bendinde belirtilen kişiler ile
 bunların eşleri, (6) ve (8) numaralı alt bentlerinde sayılanlar ile
 bunların bakmakla yükümlü olduğu kişiler, (5) ve (7) numaralı alt
 bentlerinde sayılanlar, vazife malulleri ile 4 üncü maddenin dördüncü
-fıkrasının (d) ve (c) bentlerinde sayılanlar.
+fıkrasının (d) ve (e) bentlerinde sayılanlar.
 
 g\) **(Ek: 4/7/2012-6353/83 md.)** 3713 sayılı Kanunun 21 inci maddesinde
 sayılan olaylara maruz kalmaları nedeniyle yaralananların tedavileri
@@ -4980,7 +4963,7 @@ yöntemlere uygun olarak kontrol etmek ve belgelemek zorundadır.
 
 **(Ek fıkra: 4/7/2012-6353/84 md.)** 3713 sayılı Kanuna göre aylık
 bağlanmış maluller, 5434 sayılı Kanunun 56 ncımaddesi veya 2330 sayılı
-Kanunun 2 nci maddesinin birinci fıkrasının (c) ve (f) bentlerinde
+Kanunun 2 nci maddesinin birinci fıkrasının (e) ve (f) bentlerinde
 sayılanlardan 3713 sayılı Kanun kapsamına giren olaylar sebebiyle aylık
 bağlananlar ile 3713 sayılı Kanun kapsamına girmese dahi başkasının
 yardımı ve desteği olmaksızın yaşamak için gereken hareketleri
@@ -5391,12 +5374,12 @@ uyarınca yapılacak ödemeler prime esas kazancın hesabında dikkate
 alınmaz.
 
 Yalnızca genel sağlık sigortasına tâbi olanlar bakımından prime esas
-aylık kazancın tespitinde; 60 ıncı maddenin birinci fıkrasının (d)
-bendinde sayılan kişiler için 82 nci maddeye göre belirlenen prime esas
-günlük kazanç alt sınırının iki katının otuz günlük tutarı, 60 ıncı
-maddenin birinci fıkrasının (c) bendinde belirtilen kişiler için asgari
-ücret, 60 ıncı maddenin birinci fıkrasının (c) bendinde belirtilen
-kişiler için ise prime esas asgari kazanç tutarı esas alınır.
+aylık kazancın tespitinde; 60 ıncı maddenin birinci fıkrasının (d) ve
+(g) bentlerinde sayılan kişiler için 82 nci maddeye göre belirlenen
+prime esas günlük kazanç alt sınırının iki katının otuz günlük tutarı,
+60 ıncı maddenin birinci fıkrasının (c) bendinde belirtilen kişiler için
+asgari ücret, 60 ıncı maddenin birinci fıkrasının (e) bendinde
+belirtilen kişiler için ise prime esas asgari kazanç tutarı esas alınır.
 
 *(1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu
 bentte yer alan “sigortalılar” ibaresi “sigortalılar ile 375 sayılı
@@ -5483,7 +5466,7 @@ d\) **(Değişik: 13/2/2011-6111/38 md.)** 5 inci maddenin birinci
 fıkrasının (b) bendinde belirtilenler için prim oranı, prime esas
 kazançlarının % 6’sıdır. Bu prim oranının % 1’i kısa vadeli sigorta
 kolları, % 5’i genel sağlık sigortası primidir. Aynı maddenin birinci
-fıkrasının (c) bendinde belirtilen kursiyerler için prim oranı, prime
+fıkrasının (e) bendinde belirtilen kursiyerler için prim oranı, prime
 esas kazançlarının % 13,5’idir. Bu prim oranının % 1’i kısa vadeli
 sigorta kolları, % 12,5’i genel sağlık sigortası primidir.
 
@@ -5496,7 +5479,7 @@ kısa ve uzun vadeli sigorta kollarına tâbi olanlar için 82 nci maddenin
 birinci fıkrasına göre hesaplanan prime esas kazancın % 12,5’idir. Bu
 primin % 5’i sigortalı, % 7,5’i ise işveren hissesidir. Yalnızca genel
 sağlık sigortasına tâbi olanlar ile 60 ıncı maddenin birinci fıkrasının
-(c) bendi ve bu Kanunun geçici 13 üncü maddesinde belirtilenlerin genel
+(e) bendi ve bu Kanunun geçici 13 üncü maddesinde belirtilenlerin genel
 sağlık sigortası primi, prime esas kazancın % 12’sidir.
 
 g\) **(Değişik: 17/4/2008-5754/48 md.)** 4 üncü maddenin birinci
@@ -5729,7 +5712,7 @@ tahsilini durdurmaz.
 
 Kurumun denetim ve kontrolle görevlendirilmiş memurlarınca, Kuruma
 asgarî işçilik tutarının bildirilmediği tespit edilen işyerleri hakkında
-ayrıca 102 nci maddenin birinci fıkrasının (d) bendi ile (c) bendinin
+ayrıca 102 nci maddenin birinci fıkrasının (d) bendi ile (e) bendinin
 (4) numaralı alt bendi uyarınca idarî para cezası uygulanır.
 
 *––––––––––––––––––––––*
@@ -5947,7 +5930,7 @@ primi yılı merkezî yönetim bütçesinden karşılanmak üzere ilgili kamu
 idareleri,
 
 d\) **(Değişik: 17/4/2008-5754/51 md.)** 60 ıncı maddenin birinci
-fıkrasının (c) bendinde sayılan kişiler ile 5 inci maddenin (c) bendinde
+fıkrasının (e) bendinde sayılan kişiler ile 5 inci maddenin (e) bendinde
 belirtilenler için Türkiye İş Kurumu,
 
 e\) 5 inci maddenin (b) bendinde belirtilen aday çırak, çırak ve
@@ -6966,10 +6949,9 @@ idari para cezası kesinleşir.
 İdarî para cezalarının, Kuruma itiraz edilmeden veya yargı yoluna
 başvurulmadan önce tebliğ tarihinden itibaren onbeş gün içinde peşin
 ödenmesi halinde, bunun dörtte üçü tahsil edilir. Peşin ödeme idari para
-cezasına karşı yargı yoluna başvurma hakkını etkilemez. Ancak Kurumca
-veya mahkemece Kurum lehine karar verilmesi halinde, daha önce tahsil
-edilmemiş olan dörttebirlik ceza tutarı, 89 uncu maddenin ikinci fıkrası
-hükmü de dikkate alınarak tahsil edilir.
+cezasına karşı yargı yoluna başvurma hakkını etkilemez. **(İptal üçüncü
+cümle: Anayasa Mahkemesi’nin 28/11/2013 tarihli ve E.: 2013/40, K.:
+2013/139 sayılı Kararı ile.)(…)**
 
 Mahkemeye başvurulması idari para cezasının takip ve tahsilini
 durdurmaz. Tebliğ tarihinden itibaren onbeş gün içinde ödenmeyen idari
@@ -9643,8 +9625,7 @@ yakalanan veya tutuklananlardan, Türk Silahlı Kuvvetlerinin yönetime el
 koyduğu 12 Eylül 1980 tarihinden itibaren haklarında kovuşturmaya yer
 olmadığına veya beraatlerine karar verilenlerin, gözaltında  veya
  tutuklulukta geçen  süreleri  için kendilerinin  ya  da  hak
-sahiplerinin bu durumlarını belgeleyerek bu maddenin yayımı tarihinden
-itibaren altı ay içerisinde talepte bulunması kaydıyla, gözaltında veya
+sahiplerinin bu durumlarını belgeleyerek (…) ^(1)^, gözaltında veya
 tutuklulukta geçen süreleri, talep tarihinde 82 nci maddeye göre
 belirlenen prime esas günlük kazanç alt sınırının % 32’si üzerinden
 hesaplanacak primlerinin; bu durumlarından dolayı dava açıp tazminat
@@ -9654,7 +9635,7 @@ Hazinece ödenmesi suretiyle borçlandırılır. Bu şekilde borçlanılan
 süreler Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
 kapsamında prim ödeme gün sayısı olarak değerlendirilir. Ancak,
 sigortalılık başlangıç tarihinden önceki borçlanılan süreler
-sigortalılık başlangıç tarihini geriye götürmez.
+sigortalılık başlangıç tarihini geriye götürmez. ^(1)^
 
 5434 sayılı Kanuna tabi çalışmakta iken 1402 sayılı Sıkıyönetim Kanunu
 uyarınca kurulan sıkıyönetim mahkemelerinin görev alanına giren suçlar
@@ -9687,6 +9668,13 @@ ikramiyesi hesabında dikkate alınmaz.
 
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Kurum
 yetkilidir.
+
+––––––––––––––––
+
+*(1) Bu fıkrada yer alan “…bu maddenin yayımı tarihinden itibaren altı
+ay içerisinde talepte bulunması kaydıyla…” ibaresi, Anayasa
+Mahkemesi’nin 29/1/2014 tarihli ve E.: 2013/126, K.: 2014/17 sayılı
+Kararı ile iptal edilmiştir.*
 
 9878-15
 
@@ -10183,8 +10171,6 @@ yürürlüğe girer.
 
 **MADDE 109-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-9878-22
-
 **31/5/2006 TARİHLİ VE 5510 SAYILI KANUNA İŞLENEMEYEN GEÇİCİ MADDELER:**
 
 **1 – 1/3/2012 tarih ve 6283 sayılı Kanunun Geçici Maddesi:**
@@ -10357,26 +10343,32 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
 
 9880-2
 
-  ----------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
-  **Değiştiren **                                                   **5510 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-                                                                                                                                  
-  **Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**                                                                 
+  ------------------------------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
+  **Değiştiren **                                                                       **5510 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                      
+  **Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**                                                                                     
 
-  6458                                                              3, 60, 61                                                     11/4/2013
+  6458                                                                                  3, 60, 61                                                     11/4/2013
 
-  6462                                                              13, 14, 15, 19, 25, 28, Geçici Madde 4, 10, 37, 39            3/5/2013
+  6462                                                                                  13, 14, 15, 19, 25, 28, Geçici Madde 4, 10, 37, 39            3/5/2013
 
-  6486                                                              60, 61, 72, 73, Geçici Madde 49, Geçici Madde 50              29/5/2013
-                                                                                                                                  
-                                                                    81/i                                                          1/6/2013
-                                                                                                                                  
-                                                                    81/2-4-5                                                      1/1/2013 tarihinden geçerli olmak üzere 29/5/2013
+  6486                                                                                  60, 61, 72, 73, Geçici Madde 49, Geçici Madde 50              29/5/2013
+                                                                                                                                                      
+                                                                                        81/i                                                          1/6/2013
+                                                                                                                                                      
+                                                                                        81/2-4-5                                                      1/1/2013 tarihinden geçerli olmak üzere 29/5/2013
 
-  6494                                                              60                                                            7/7/2013
+  6494                                                                                  60                                                            7/7/2013
 
-  6495                                                              4, 66, GEÇİCİ MADDE 51                                        2/8/2013
-                                                                                                                                  
-                                                                    5, 47, GEÇİCİ MADDE 14, GEÇİCİ MADDE 52                       Ağustos 2013 ödeme döneminden geçerli olmak üzere 1/1/2014
-  ----------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
+  6495                                                                                  4, 66, GEÇİCİ MADDE 51                                        2/8/2013
+                                                                                                                                                      
+                                                                                        5, 47, GEÇİCİ MADDE 14, GEÇİCİ MADDE 52                       Ağustos 2013 ödeme döneminden geçerli olmak üzere 1/1/2014
+
+  6518                                                                                  63                                                            19/2/2014
+
+  Anayasa Mahkemesi’nin 28/11/2013 tarihli ve E.: 2013/40, K.: 2013/139 sayılı Kararı   102                                                           9/5/2014
+
+  Anayasa Mahkemesi’nin 29/1/2014 tarihli ve E.: 2013/126, K.: 2014/17 sayılı Kararı    GEÇİCİ MADDE 36                                               9/5/2014
+  ------------------------------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
 
 
