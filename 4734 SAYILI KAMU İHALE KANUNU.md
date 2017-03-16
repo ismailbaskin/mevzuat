@@ -1,6 +1,6 @@
-**Anayasa Mahkemesi’NİN 27/9/2012 tarihli ve **
+**6496 sayılı Kanun ile değişik hali**
 
-**E:2012/20, K:2012/132 sayılı Kararı ile değişik hali**
+ 
 
 **KAMU İHALE KANUNU**
 
@@ -198,11 +198,14 @@ m\) **(Ek: 9/7/2008-5784/28 md.)** Boru Hatları ile Petrol Taşıma A.Ş.
 (BOTAŞ) tarafından ithalat yoluyla yapılacak spot sıvılaştırılmış doğal
 gaz (LNG) alımları,
 
-n\) **(Ek: 20/11/2008-5812/1 md.;)** Uluslararası mükellefiyetlerden
-doğan veya ulusal amaçlı; savunma, güvenlik, insani yardım gibi
-durumlarda ortaya çıkabilecek acil ihtiyaçların, süratli ve etkin bir
-biçimde temini amacıyla, önceden güvenceler alınmasına olanak sağlayan
-anlaşmalar veya sözleşmeler yapmak suretiyle mal ve hizmet alımları,
+n\) **(Ek: 20/11/2008-5812/1 md.; Değişik: 13/7/2013-6496/38 md.)** Erbaş
+ve erler ile askerî malzemelerin hava yoluyla taşıtılması için Türk Hava
+Yolları Anonim Ortaklığından yapılacak hizmet alımları ile uluslararası
+mükellefiyetlerden doğan veya ulusal amaçlı; savunma, güvenlik, insani
+yardım gibi durumlarda ortaya çıkabilecek acil ihtiyaçların, süratli ve
+etkin bir biçimde temini amacıyla, önceden güvenceler alınmasına olanak
+sağlayan anlaşmalar veya sözleşmeler yapmak suretiyle mal ve hizmet
+alımları,
 
 *––––––––––––*
 
@@ -3976,6 +3979,8 @@ Diğer maddeleri 15/8/2003
   6475                                                           Geçici Madde 4                                                23/5/2013
 
   Anayasa Mahkemesi 27/9/2012 tarihli ve E:2012/20, K:2012/132   65                                                            26/7/2013
+
+  6496                                                           3                                                             31/7/2013
   -------------------------------------------------------------- ------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
 
 
