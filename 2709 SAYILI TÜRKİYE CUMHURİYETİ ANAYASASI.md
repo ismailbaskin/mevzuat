@@ -1,4 +1,4 @@
-**29/10/2005 tarihli ve 5428 sayılı Kanun ile değişik hali**
+**13/10/2006 tarihli ve 5551 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -1346,7 +1346,8 @@ milletvekilinden oluşur.
 
 *B. Milletvekili seçilme yeterliliği *
 
-**Madde 76 – **Otuz yaşını dolduran her Türk milletvekili seçilebilir.
+**Madde 76 – **Yirmibeş yaşını dolduran her Türk milletvekili
+seçilebilir. ^(2)^
 
 En az ilkokul mezunu olmayanlar, kısıtlılar, yükümlü olduğu askerlik
 hizmetini yapmamış olanlar, kamu hizmetinden yasaklılar, taksirli suçlar
@@ -1356,7 +1357,7 @@ dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi
 yüz kızartıcı suçlarla, kaçakçılık, resmî ihale ve alım satımlara fesat
 karıştırma, Devlet sırlarını açığa vurma, terör eylemlerine katılma ve
 bu gibi eylemleri tahrik ve teşvik suçlarından biriyle hüküm giymiş
-olanlar, affa uğramış olsalar bile milletvekili seçilemezler. ^(2)^
+olanlar, affa uğramış olsalar bile milletvekili seçilemezler. ^(3)^
 
 Hâkimler ve savcılar, yüksek yargı organları mensupları, yükseköğretim
 kurumlarındaki öğretim elemanları, Yükseköğretim Kurulu üyeleri, kamu
@@ -1410,7 +1411,11 @@ maddenin birinci fıkrasına "Vatandaşlar" ibaresinden sonra gelmek üzere
 yabancılar"; ikinci fıkrasına, "sonucu" ibaresinden sonra gelmek üzere
 "gecikmeksizin" ibaresi eklenmiş ve metne işlenmiştir.*
 
-*(2) 27/12/2002 tarihli ve 4777 sayılı Kanunun 1 inci maddesiyle, bu
+*(2) 13/10/2006 tarihli ve 5551 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan "Otuz" ibaresi "Yirmibeş" olarak değiştirilmiş ve metne
+işlenmiştir.*
+
+*(3) 27/12/2002 tarihli ve 4777 sayılı Kanunun 1 inci maddesiyle, bu
 fıkrada yer alan “ideolojik veya anarşik eylemlere” ibaresi “terör
 eylemlerine” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
@@ -3852,6 +3857,11 @@ halkoylamasına sunulması halinde oylanır.
 Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması
 halinde tümüyle oylanır.
 
+**9- 13/10/2006 tarihli ve 5551 sayılı Kanunun 2 nci Maddesi:**
+
+**Madde 2 –** Bu Kanun yayımı tarihinde yürürlüğe girer ve
+halkoylamasına sunulması halinde oylanır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
@@ -3888,6 +3898,8 @@ halinde tümüyle oylanır.
   5370                   133, İşlenemeyen Hüküm                                                                                                                                                                  23/6/2005
 
   5428                   130, 160, 161, 162, 163, İşlenemeyen Hüküm                                                                                                                                              9/11/2005
+
+  5551                   76, İşlenemeyen Hüküm                                                                                                                                                                   17/10/2006
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
