@@ -1,8 +1,8 @@
-31/5/2006 tarihli ve 5510 sayılı Kanunun İlk Hali
+**Anayasa Mahkemesi Kararı ile değişik hali**
 
  
 
-**SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU**
+**SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
 **Kanun Numarası : 5510**
 
@@ -105,6 +105,16 @@ maddenin birinci fıkrasının (a) ve (c) bentleri kapsamındaki
 sigortalılar için, 15 Ocak tarihinden ertesi yılın 15 Ocak tarihine
 kadar geçen, diğer sigortalılar için ise 1 Ocak ilâ 31 Aralık tarihleri
 arasında geçen ve 360 gün olarak değerlendirilen süreyi,
+
+–––––––––––––––
+
+*(1) Anayasa Mahkemesi’nin 26/12/2006 tarihli ve 26388 sayılı Resmi
+Gazete’de yayımlanan 15/12/2006 tarihli ve E.: 2006/11, K.: 2006/36
+sayılı (Yürürlüğü Durdurma) Kararı ile bu Kanunun çeşitli maddelerinin
+yürürlüğü durdurulmuş, ilgili maddelerin iptaline ilişkin Anayasa
+Mahkemesi’nin 15/12/2006 tarihli ve E.: 2006/111, K.: 2006/112 sayılı
+Kararı ise 30/12/2006 tarihli ve 26392 sayılı (5.Mükerrer) sayılı Resmi
+Gazete’de yayımlanmıştır.*
 
 16\) Gelir: İş kazası veya meslek hastalığı halinde sigortalıya veya
 sigortalının ölümü halinde hak sahiplerine, yapılan sürekli ödemeyi,
@@ -3687,7 +3697,7 @@ tamamı işveren tarafından ödenir.
 c\) Kısa vadeli sigorta kolları prim oranı, yapılan işin iş kazası ve
 meslek hastalığı bakımından gösterdiği tehlikenin ağırlığına göre % 1
 ilâ % 6,5 oranları arasında olmak üzere, 83 üncü maddeye göre Kurumca
-belirlenir. Bu primin tamamını işveren öder.
+belirlenir. Bu primin tamamını işveren öder. ^(1)^
 
 d\) 5 inci maddenin birinci fıkrasının (b) bendinde belirtilen öğrenciler
 ile (e) bendinde belirtilen kursiyerler için prim oranı prime esas
@@ -3744,6 +3754,17 @@ aşarsa, aşan kısmın tamamı, sigortalının talebi üzerine en geç talep
 tarihini takip eden ay içinde hissesi oranında sigortalıya defaten geri
 ödenir. Geri verilen primler için ayrıca gecikme cezası ve gecikme zammı
 ile faiz ödenmez.
+
+*––––––––––––––––––*
+
+*(1) Bu bent; Anayasa Mahkemesi’nin 15/12/2006 tarihli, E.:2006/111,
+K.:2006/112 sayılı Kararı ile Kanunun 4 üncü maddesinin birinci
+fıkrasının (c) bendi kapsamındaki sigortalılar yönünden iptal edilmiş
+olup, İptal Kararının Resmi Gazete’de yayımlanacağı güne kadar,
+15/12/2006 tarihli ve E:2006/111, K:2006/36 (Yürürlüğü Durdurma) sayılı
+Karar ile Yürürlüğü Durdurulmuştur, sözkonusu iptal kararı için
+30/12/2006 tarihli ve 26392(5. Mükerrer) sayılı Resmi Gazete’ye
+bakınız.*
 
 **Kısa vadeli sigorta kolları prim tarifesi ve işkollarının ve işlerin
 tehlike sınıf ve derecelerinin belirlenmesi**
