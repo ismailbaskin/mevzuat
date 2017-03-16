@@ -1,4 +1,6 @@
-6302 sayılı Kanun ile değişik hali 
+1435
+
+ 
 
  
 
@@ -525,6 +527,18 @@ belgesine göre tapu sicili kayıtlarını elbirliği mülkiyeti şeklinde
 tescil ederek güncelleştirir. Tapu müdürlüğünün bu yetki kapsamındaki
 başvuruları her türlü gider, vergi, resim veya harçtan muaftır.
 
+*Rücu istemi*
+
+**Ek Madde 2 –** **(Ek: 10/9/2014-6552/84 md.)**
+
+Tapu ve kadastro işlemleri ile ilgili olarak, Devletin kusursuz
+sorumluluğu sebebiyle yapılan ödemeler dolayısıyla, ihmali bulunan
+personel aleyhine başlatılacak rücu istemleri, ödeme tarihinden itibaren
+iki yıl, her hâlde zarara yol açan işlemin gerçekleştirildiği tarihten
+itibaren on yılın geçmesiyle zamanaşımına uğrar. Ağır kusura dayalı
+sorumluluğu bulunan personel için 11/1/2011 tarihli ve 6098 sayılı Türk
+Borçlar Kanununun 73 üncü maddesi hükümleri saklıdır.
+
 **Geçici Madde 1 – (2644 sayılı Kanunun numarasız Muvakkat maddesi olup
 teselsül için numaralandırılmıştır.)**
 
@@ -583,101 +597,75 @@ bitimine kadar geçerlidir.
 
 1443
 
-**2644 SAYILI KANUNDA EK VE DEĞİŞİKLİK YAPAN MEVZUATIN**
+**2644 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-**YÜRÜRLÜKTEN KALDlRDIĞI KANUN VE HÜKÜMLERİ**
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-***Yürürlükten Kaldırılan Mevzuatın** *
+  ------------------------------------------ ------------------------------------------------------------- ---------------------------------------------------
+  **Değiştiren **                            **2644 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş **
+                                                                                                           
+  **Kanunun/KHK’nin/ İptal Eden Anayasa **                                                                 **Tarihi**
+                                                                                                           
+  **Mahkemesi**                                                                                            
+                                                                                                           
+  **Kararının Numarası**                                                                                   
 
-**Yürürlükten Kaldırılan**
+  4541                                       –                                                             15/4/1944
 
-***Kanun veya Kanun Hükümleri Tarihi Sayısı Maddesi***
+  4753                                       –                                                             15/6/1945
 
-Şehir ve kasabalarda muhtarlığın ilgasına dair 2295 numa-ralı kanun ve
-Memurin Kanununun 47 inci maddesine bir fıkra eklenmesine dair 960
-numaralı Kanun ile 1111 numa-ralı Askerlik ve 2613 numaralı Askerlik ve
-2613 numaralı Kadastro ve Tahriri ve 2644 numaralı Tapu Kanunlarının
-27/11/1984 tarih ve 4541 sayılı Kanunda yazılı muhtarlığa ait vazifeler
-hakkında hükümleri 10/4/1944 4541 24
+  5516                                       –                                                             23/1/1950
 
-716 sayılı Borçlanma Kanununun 3 üncü maddesi ve 2490 sayılı Artırma,
-Eksiltme ve İhale Kanununun 56 ncı maddesinin 2 nci fıkrası ve 2510
-sayılı İskan Kanununun 17 nci maddesine bağlı toprak tevzi cetveli ve bu
-maddenin sanatkarlara yarım istihkak toprak verileceğine dair olan
-fıkrası ile 20. ve 21 inci maddeleri ve 22/12/1934 tarih ve 2644 sayılı
-Tapu Kanununun 6 ncı maddesi hükümleri ve arazi dağıtılması hakkındaki
-diğer makamların yetkileri 11/6/1945 4753 64
+  5520                                       –                                                             31/1/1950
 
-22/12/1934 tarih ve 2644 sayılı Tapu Kanununun 15 inci
+  5887                                       –                                                             29/3/1952
 
-maddesinin birinci fıkrası 18/1/1950 5516 12
+  6217                                       –                                                             9/1/1954
 
-22/12/1934 tarih ve 2644 sayılı Tapu Kanununun 29
+  79                                         –                                                             23/10/1962
 
-uncu maddesi 25/2/1952 5887 126-c
+  2421                                       –                                                             8/3/1981
 
-743 sayılı Türk Kanunu Medenisinin 442, 445, 446 ve 540 ıncı maddeleri
-ile 2644 sayılı Tapu Kanununun 5 inci maddesi 4/11/1990 3678 31
+  3000                                       –                                                             1/5/1984
 
-22/12/1934 tarih ve 2644 sayılı Tapu Kanununun 7 nci maddesi 16/2/1995
-4070 15
+  3029                                       –                                                             23/6/1984
+
+  3163                                       –                                                             22/3/1985
+
+  3278                                       –                                                             6/5/1986
+
+  3678                                       –                                                             23/11/1990
+
+  4358                                       –                                                             4/4/1998
+
+  4916                                       –                                                             19/7/2003
+
+  5444                                       35 ve Geçici Madde 2                                          26/7/2005 tarihinden geçerli olmak üzere 7/1/2006
+  ------------------------------------------ ------------------------------------------------------------- ---------------------------------------------------
 
 1444-1458
 
-**2644 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+  ------------------------------------------ ------------------------------------------------------------- ----------------------
+  **Değiştiren **                            **2644 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş **
+                                                                                                           
+  **Kanunun/KHK’nin/ İptal Eden Anayasa **                                                                 **Tarihi**
+                                                                                                           
+  **Mahkemesi**                                                                                            
+                                                                                                           
+  **Kararının Numarası**                                                                                   
 
-**YÜRÜRLÜĞE GİRİŞ TARİHİNİ **
+  **57**                                     **35, 36 ve Geçici Madde 3**                                  **15/7/2008**
 
-**GÖSTERİR LİSTE**
+  **5831**                                   **26**                                                        **27/1/2009**
 
-**Kanun Yürürlüğe**
+  **6302**                                   **35, Ek Madde 1**                                            **18/5/2012**
 
-***No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi***
+  **6302**                                   **36**                                                        **18/8/2012**
 
-4541 – 15/4/1944
+  **6552**                                   **Ek Madde 2**                                                **11/9/2014**
+  ------------------------------------------ ------------------------------------------------------------- ----------------------
 
-4753 – 15/6/1945
-
-5516 – 23/1/1950
-
-5520 – 31/1/1950
-
-5887 – 29/3/1952
-
-6217 – 9/1/1954
-
-79 – 23/10/1962
-
-2421 – 8/3/1981
-
-3000 – 1/5/1984
-
-3029 – 23/6/1984
-
-3163 – 22/3/1985
-
-3278 – 6/5/1986
-
-3678 – 23/11/1990
-
-4358 – 4/4/1998
-
-4916 – 19/7/2003
-
-5444 35 ve Geçici Madde 2 26/7/2005 tarihinden
-
-geçerli olmak üzere 7/1/2006
-
-**Değiştiren Kanun Yürürlüğe**
-
-***No. 2644 sayılı Kanunun değişen maddeleri giriş tarihi***
-
-5782. 35, 36 ve Geçici Madde 3 15/7/2008
-
-5831 26 27/1/2009
-
-6302 35, Ek Madde 1 18/5/2012
-
-36 18/8/2012
+ 
