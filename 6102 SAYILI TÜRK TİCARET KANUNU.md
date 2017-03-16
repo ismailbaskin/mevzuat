@@ -1,4 +1,4 @@
-**6495 sayılı Kanun ile değişik hali**
+10975
 
 **TÜRK TİCARET KANUNU ^(1)^**
 
@@ -711,11 +711,11 @@ tacirin sicil numarası, ticaret unvanı, işletmesinin merkezi ile tacir
 internet sitesi oluşturma yükümlülüğüne tabi ise tescil edilen internet
 sitesinin adresi de gösterilir. Tüm bu bilgiler şirketin internet
 sitesinde de yayımlanır. Bu sitede ayrıca, anonim şirketlerde yönetim
-kurulu başkan ve üyelerinin adlarıve soyadlarıile taahhüt edilen ve
-ödenen sermaye miktarı, limited şirketlerde müdürlerin adlarıve
-soyadlarıile taahhüt edilen ve ödenen sermaye miktarı, sermayesi paylara
-bölünmüş komandit şirketlerde yöneticilerin adlarıve soyadlarıile
-taahhüt edilen ve ödenen sermaye miktarıyayımlanır.
+kurulu başkan ve üyelerinin adları ve soyadları ile taahhüt edilen ve
+ödenen sermaye miktarı, limited şirketlerde müdürlerin adları ve
+soyadları ile taahhüt edilen ve ödenen sermaye miktarı, sermayesi
+paylara bölünmüş komandit şirketlerde yöneticilerin adları ve soyadları
+ile taahhüt edilen ve ödenen sermaye miktarı yayımlanır.
 
 10984
 
@@ -729,7 +729,11 @@ ettirir.
 \(2) Her tacir kullanacağı ticaret unvanını ve bunun altına atacağı
 imzayı notere onaylattırdıktan sonra sicil müdürlüğüne verir. Tacir
 tüzel kişi ise, unvanla birlikte onun adına imzaya yetkili kimselerin
-imzaları da notere onaylattırılarak sicil müdürlüğüne verilir.
+imzaları da notere onaylattırılarak sicil müdürlüğüne verilir. **(Ek
+cümle: 15/7/2016-6728/66 md.)** Gerçek kişi tacir ile tüzel kişi tacir
+adına imza atmaya yetkili kişi, ticaret unvanını ve bunun altına atacağı
+imzayı, noter onayı şartı aranmaksızın ticaret sicili müdürü yahut
+yardımcısı huzurunda yazılı beyanda bulunmak suretiyle de verebilir.
 
 \(3) Merkezi Türkiye’de bulunan ticari işletmelerin şubeleri de
 bulundukları yerin ticaret siciline tescil ve ilan olunur. Ticaret
@@ -3371,7 +3375,8 @@ değiştirme planının düzenlendiği tarihte gerçek değer ödenir.
 
 **MADDE 184**- (1) Tür değiştirmede, yeni türün kuruluşuna ilişkin
 hükümler uygulanır; ancak, sermaye şirketlerinde ortakların asgari
-sayısına ve ayni sermaye konulmasına ilişkin hükümler uygulanmaz.
+sayısına, ayni sermaye konulmasına ve kurucuların şirket sözleşmesini
+imzalamalarına ilişkin hükümler uygulanmaz. ^(1)^
 
 \(2) Bilanço günüyle tür değiştirme raporunun düzenlendiği tarih arasında
 altı aydan fazla zaman geçmişse veya son bilançonun çıkarıldığı tarihten
@@ -3398,6 +3403,13 @@ a\) Şirketin tür değiştirmeden önceki ve sonraki ticaret unvanını,
 merkezini ve yeni türe ilişkin ibareyi,
 
 b\) Yeni türün şirket sözleşmesini,
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 68 inci maddesi ile bu
+fıkrada yer alan “ve ayni sermaye konulmasına” ibaresi “, ayni sermaye
+konulmasına ve kurucuların şirket sözleşmesini imzalamalarına” şeklinde
+değiştirilmiştir.*
 
 11020
 
@@ -3459,8 +3471,9 @@ hususunda bilgilendirir.
 
 **8. Tür değiştirme kararı ve tescil**
 
-**MADDE 189**- (1) Yönetim organı tür değiştirme planını genel kurula
-sunar. Tür değiştirme kararı aşağıdaki nisaplarla alınır:
+**MADDE 189**- (1) Yönetim organı tür değiştirme planı ile yeni türün
+şirket sözleşmesini genel kurula sunar. Tür değiştirme kararı aşağıdaki
+nisaplarla alınır: ^(2)^
 
 a\) Kanunun 421 inci maddesinin beşinci fıkrasının (b) bendi hükmü saklı
 olmak şartıyla anonim ve sermayesi paylara bölünmüş komandit
@@ -3473,7 +3486,11 @@ ortakların onayıyla;
 
 *(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle, bu
 fıkrada yer alan “küçük” ibaresi “küçük ve orta”şeklinde
-değiştirilmiştir.*
+değiştirilmiştir. *
+
+*(2) 15/7/2016 tarihli ve 6728 sayılı Kanunun 68 inci maddesi ile bu
+fıkrada yer alan “tür değiştirme planını” ibaresi “tür değiştirme planı
+ile yeni türün şirket sözleşmesini”şeklinde değiştirilmiştir. *
 
 11021
 
@@ -3973,7 +3990,11 @@ sınırlanmamış olan şirkettir.
 **I - Şekil**
 
 **MADDE 212**- (1) Kollektif şirket sözleşmesi yazılı şekle tabidir;
-ayrıca, sözleşmedeki imzaların noterce onaylanması şarttır.
+ayrıca, sözleşmedeki imzaların noterce onaylanması veya şirket
+sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda
+imzalanması şarttır. **(Ek cümle: 15/7/2016-6728/67 md.)**Şirketin
+kuruluşunda, şirket sözleşmesini ihtiva eden kâğıtlardan değerli kâğıt
+bedeli alınmaz. ^(1)^
 
 **II - Zorunlu kayıtlar **
 
@@ -4010,6 +4031,15 @@ ilişkin hükümleri uygulanır.
 
 \(2) 12 nci madde hükmü saklıdır.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1)* *15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu
+fıkraya “onaylanması” ibaresinden sonra gelmek üzere “veya şirket
+sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda
+imzalanması” ibaresi eklenmiştir.*
+
+11028-1
+
 **C) Tescil**
 
 **I - Yükümlülük**
@@ -4019,7 +4049,11 @@ noterlikçe onaylı bir suretini onay tarihinden itibaren onbeş gün içinde
 şirket merkezinin bulunduğu yerdeki ticaret siciline vererek şirketin
 tescilini istemek zorundadır. Suret, sicil müdürlüğünce saklanır ve 213
 üncü madde gereğince sözleşmeye konması zorunlu olan kayıtlar ile
-kanunun emreylediği diğer hususlar tescil ve ilan olunur.
+kanunun emreylediği diğer hususlar tescil ve ilan olunur. **(Ek cümle:
+15/7/2016-6728/67 md.)** Şirket sözleşmesinin ticaret sicili müdürü veya
+yardımcısı huzurunda imzalanması hâlinde de sureti ticaret sicili
+müdürlüğü tarafından saklanarak yukarıda öngörülen tescil ve ilan
+sağlanır.
 
 **II - Yükümlülüğün yerine getirilmemesi **
 
@@ -5437,19 +5471,22 @@ hakkı saklıdır.
 
 **MADDE 335**- (1) Şirket, kurucuların, kanuna uygun olarak düzenlenmiş
 bulunan, sermayenin tamamını ödemeyi, şartsız taahhüt ettikleri,
-imzalarının noterce onaylandığı esas sözleşmede, anonim şirket kurma
-iradelerini açıklamalarıyla kurulur.
+imzalarının noterce onaylandığı veya ticaret sicili müdürü yahut
+yardımcısı huzurunda imzaladığı esas sözleşmede, anonim şirket kurma
+iradelerini açıklamalarıyla kurulur. **(Ek cümle: 15/7/2016-6728/67
+md.)** Şirketin kuruluşunda, esas sözleşmeyi ihtiva eden kâğıtlardan
+değerli kâğıt bedeli alınmaz. ^(1)^
 
 \(2) 355 inci maddenin birinci fıkrası hükmü saklıdır.
 
 **II - Kuruluş belgeleri**
 
-**MADDE 336**- (1) Esas sözleşme, kurucular beyanı, değerleme raporları,
-ayın ve işletme devralınmasına ilişkin olanlar da dâhil olmak üzere,
-kurulmakta olan şirketle, kurucular ve diğer kişilerle yapılan ve
-kuruluşla ilgili olan sözleşmeler (…) ^(1)^ kuruluş belgeleridir.
-Bunlar, sicil dosyasına konulur ve birer nüshaları şirket tarafından beş
-yıl süreyle saklanır. ^(1)^
+**MADDE 336**- (1) Esas sözleşme, (…) ^(3)^ değerleme raporları, ayın ve
+işletme devralınmasına ilişkin olanlar da dâhil olmak üzere, kurulmakta
+olan şirketle, kurucular ve diğer kişilerle yapılan ve kuruluşla ilgili
+olan sözleşmeler (…) ^(2)^ kuruluş belgeleridir. Bunlar, sicil dosyasına
+konulur ve birer nüshaları şirket tarafından beş yıl süreyle saklanır.
+^(2)(3)^
 
 **III - Kurucular**
 
@@ -5472,9 +5509,17 @@ saklıdır.
 
 ––––––––––––––
 
-*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu
+fıkraya “onaylandığı” ibaresinden sonra gelmek üzere “veya ticaret
+sicili müdürü yahut yardımcısı huzurunda imzaladığı” ibaresi
+eklenmiştir.*
+
+*(2) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
 fıkrada yer alan “ile işlem denetçisi raporu,” ibaresi madde metninden
 çıkarılmıştır.*
+
+*(3) 15/7/2016 tarihli ve 6728 sayılı Kanunun 73 üncü maddesiyle, bu
+fıkrada yer alan “kurucular beyanı” ibaresi yürürlükten kaldırılmıştır.*
 
 11049
 
@@ -5496,7 +5541,9 @@ ettiremez.
 **1. İçerik**
 
 **MADDE 339**- (1) Esas sözleşmenin yazılı şekilde yapılması ve bütün
-kurucuların imzalarının noterce onaylanması şarttır.
+kurucuların imzalarının noterce onaylanması veya esas sözleşmenin
+ticaret sicili müdürü yahut yardımcısı huzurunda imzalanması şarttır.
+^(1)^
 
 \(2) Esas sözleşmeye aşağıdaki hususlar yazılır:
 
@@ -5548,6 +5595,13 @@ hükümleri o kanuna özgülenmiş olarak hüküm doğururlar.
 **V** - **Taahhüdün onaylanması**
 
 **MADDE 341- (Mülga: 26/6/2012-6335/42 md.)**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu
+fıkraya “onaylanması” ibaresinden sonra gelmek üzere “veya esas
+sözleşmenin ticaret sicili müdürü yahut yardımcısı huzurunda
+imzalanması” ibaresi eklenmiştir.*
 
 11050
 
@@ -5603,9 +5657,11 @@ bildiren bir sicil müdürlüğü yazısının sunulması üzerine, sadece şirk
 öder.
 
 \(2) Şirket, 335 inci maddenin birinci fıkrasında öngörülen noter onayı
-tarihinden itibaren, üç ay içinde tüzel kişilik kazanamadığı takdirde,
-bu hususu doğrulayan bir sicil müdürlüğü yazısının sunulması üzerine,
-bedeller banka tarafından sahiplerine geri verilir.
+veya şirket sözleşmesinin ticaret sicili müdürü yahut yardımcısı
+huzurunda imzalanma tarihinden itibaren, üç ay içinde tüzel kişilik
+kazanamadığı takdirde, bu hususu doğrulayan bir sicil müdürlüğü
+yazısının sunulması üzerine, bedeller banka tarafından sahiplerine geri
+verilir. ^(2)^
 
 **3. Halka arzedilecek paylar**
 
@@ -5624,6 +5680,11 @@ sahiplerine ödenir.
 *(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
 fıkrada yer alan “,işlem denetçisi” ibaresi madde metninden
 çıkarılmıştır.*
+
+*(2) 15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu
+fıkraya “noter onayı” ibaresinden sonra gelmek üzere “veya şirket
+sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda
+imzalanma” ibaresi eklenmiştir.*
 
 11051
 
@@ -5658,38 +5719,13 @@ kararlaştırmış olsa bile kurucu intifa sahipleri esas sözleşmede
 
 **X - Kurucular beyanı**
 
-**MADDE 349**- (1) Kurucular tarafından, kuruluşa ilişkin bir beyan
-imzalanır. Beyan, dürüst bir şekilde bilgi verme ilkesine göre, doğru ve
-eksiksiz olarak hazırlanır. Beyanda, ayni sermaye konuluyor, bir ayın ya
-da işletme devralınıyorsa, bunlara verilecek karşılığın uygunluğuna; bu
-tür sermayenin ve devralmanın gerekliliğine, bunların şirkete olan
-yararlarına ilişkin belgeli, gerekçeli ve kesin ifadeli açıklamalar yer
-alır. Ayrıca, şirket tarafından iktisap edilen menkul kıymetlerle,
-bunların iktisap fiyatları, söz konusu menkul kıymetleri çıkaranların
-son üç yıllık, gereğinde konsolide finansal tablolarının değerlemelerine
-ve çözümlenmelerine ilişkin bilgiler, şirketin yüklendiği önemli
-taahhütler, makina ve benzerleri malların ve herhangi bir aktif değerin
-alımına ilişkin bağlantılar, fiyatlar, komisyonlar ile her türlü
-borçlar, emsalleriyle karşılaştırılarak, açıklanır.
-
-\(2) Ayrıca, kuruculara tanınan menfaatler gerekçeleriyle beyanda yer
-alır. Kimlerin halka arz amacıyla ne miktarda pay taahhüt ettiği, pay
-taahhüdünde bulunanların birbirleri ile ilişkileri; bunlar bir şirketler
-topluluğuna dâhil bulunuyorlarsa, topluluk ile ilişkileri, (…) ^(1)^
-diğer hizmet verenlere ödenen ücretler, emsalleriyle karşılaştırma
-yapılarak, beyanda açıklanır. ^(1)^
+**MADDE 349**- **(Mülga: 15/7/2016-6728/73 md.)**
 
 **XI - Halka arz taahhüdü**
 
 **MADDE 350**- (1) 346 ncı madde uyarınca, halka arzedilmek üzere pay
 taahhüdünde bulunulduğu takdirde, halka arz, kurucular, yönetim kurulu
 veya yetkili herhangi bir organ tarafından onaylanmış kabul edilir.
-
-––––––––––––––
-
-*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
-fıkrada yer alan “kuruluşu inceleyen işlem denetçisine ve” ibaresi madde
-metninden çıkarılmıştır.*
 
 11052
 
@@ -6027,6 +6063,18 @@ tarafından ister temsil edilsin ister edilmesin, tek pay sahipli anonim
 olması sözleşmenin yazılı şekilde yapılmasına bağlıdır. Bu şart piyasa
 şartlarına göre günlük, önemsiz ve sıradan işlemlere ilişkin
 sözleşmelerde uygulanmaz.  
+
+\(7) **(Ek: 10/9/2014 - 6552/131 md.)** Yönetim kurulu, yukarıda
+belirtilen temsilciler dışında, temsile yetkili olmayan yönetim kurulu
+üyelerini veya şirkete hizmet akdi ile bağlı olanları sınırlı yetkiye
+sahip ticari vekil veya diğer tacir yardımcıları olarak atayabilir. Bu
+şekilde atanacak olanların görev ve yetkileri, 367 nci maddeye göre
+hazırlanacak iç yönergede açıkça belirlenir. Bu durumda iç yönergenin
+tescil ve ilanı zorunludur. İç yönerge ile ticari vekil ve diğer tacir
+yardımcıları atanamaz. Bu fıkra uyarınca yetkilendirilen ticari vekil
+veya diğer tacir yardımcıları da ticaret siciline tescil ve ilan edilir.
+Bu kişilerin, şirkete ve üçüncü kişilere verecekleri her tür zarardan
+dolayı yönetim kurulu müteselsilen sorumludur.
 
 **3. İmza şekli**
 
@@ -7830,17 +7878,15 @@ bir şekilde verme ilkesine göre hazırlanır.
 a\) Nakdî sermaye konuluyorsa; artırılan kısmın tamamen taahhüt edildiği,
 kanun veya esas sözleşme gereğince ödenmesi gerekli tutarın ödendiği;
 ayni sermaye konuluyor veya bir ayın devralınıyorsa bunlara verilecek
-karşılığın uygun olduğu ve 349 uncu maddede yer alan hususların somut
-olayda mevcut bulunması hâlinde bunlara ilişkin açıklamalar; devralınan
-ayni sermaye, aynın türü, değerlendirmenin yöntemi, isabeti ve
-haklılığı; bir borcun takası söz konusu ise, bu borcun varlığı,
-geçerliliği ve takas edilebilirliği; sermayeye dönüştürülen fonun veya
-yedek akçenin serbestçe tasarruf olunabilirliği; gerekli organların ve
-kurumların onaylarının   alındığı;   kanuni   ve   idari 
- gerekliliklerin   yerine   getirildiği;   rüçhan  hakları
-sınırlandırılmış veya kaldırılmışsa bunun sebepleri, miktarı ve oranı;
-kullanılmayan rüçhan haklarının kimlere, niçin, ne fiyatla verildiği
-hakkında belgeli ve gerekçeli açıklamalar yer alır.
+karşılığın uygun olduğu (…) ^(1)^ devralınan ayni sermaye, aynın türü,
+değerlendirmenin yöntemi, isabeti ve haklılığı; bir borcun takası söz
+konusu ise, bu borcun varlığı, geçerliliği ve takas edilebilirliği;
+sermayeye dönüştürülen fonun veya yedek akçenin serbestçe tasarruf
+olunabilirliği; gerekli organların ve kurumların onaylarının   alındığı;
+  kanuni   ve   idari   gerekliliklerin   yerine   getirildiği;   rüçhan
+ hakları sınırlandırılmış veya kaldırılmışsa bunun sebepleri, miktarı ve
+oranı; kullanılmayan rüçhan haklarının kimlere, niçin, ne fiyatla
+verildiği hakkında belgeli ve gerekçeli açıklamalar yer alır. ^(1)^
 
 b\) İç kaynaklardan yapılan sermaye artırımının hangi kaynaklardan
 karşılandığı, bu kaynakların gerçekliği ve şirket malvarlığı içinde
@@ -7849,13 +7895,18 @@ varoldukları konusunda garanti verilir.
 c\) Şartlı sermaye artırımının ve uygulamasının kanuna uygunluğu
 belirtilir.
 
-d\) (…) ^(1)^ hizmet sunanlara ve diğer kimselere ödenen ücretler,
+d\) (…) ^(2)^ hizmet sunanlara ve diğer kimselere ödenen ücretler,
 sağlanan menfaatler hakkında, emsalleriyle karşılaştırma yapılarak,
-bilgi verilir. ^(1)^
+bilgi verilir. ^(2)^
 
 ––––––––––––––
 
-*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 73 üncü maddesiyle, bu
+bentte yer alan yer alan “ve 349 uncu maddede yer alan hususların somut
+olayda mevcut bulunması hâlinde bunlara ilişkin açıklamalar” ibaresi
+yürürlükten kaldırılmıştır.*
+
+*(2) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
 bentte yer alan “Sermaye artırımını inceleyen işlem denetçisi ile”
 ibaresi madde metninden çıkarılmıştır.*
 
@@ -9288,10 +9339,10 @@ aksi kararlaştırılmamışsa pay sahipleri arasında, ödedikleri sermayeler
 ve imtiyaz hakları oranında dağıtılır. Tasfiye payında imtiyazın varlığı
 hâlinde esas sözleşmedeki düzenleme uygulanır.
 
-\(2) Alacaklılara üçüncü kez yapılan çağrı tarihinden itibaren bir yıl
+\(2) Alacaklılara üçüncü kez yapılan çağrı tarihinden itibaren altı ay
 geçmedikçe kalan varlık dağıtılamaz. Şu kadar ki, hâl ve duruma göre
-alacaklılar için bir tehlike mevcut olmadığı takdirde mahkeme bir yıl
-geçmeden de dağıtmaya izin verebilir.
+alacaklılar için bir tehlike mevcut olmadığı takdirde mahkeme altı ay
+geçmeden de dağıtmaya izin verebilir. ^(1)^
 
 \(3) Esas sözleşme ve genel kurul kararında aksine hüküm bulunmadıkça,
 dağıtma para olarak yapılır.
@@ -9306,6 +9357,10 @@ olanlar da dâhil, belgeler 82 nci madde uyarınca saklanır.
 **MADDE 545**- (1) Tasfiyenin sona ermesi üzerine şirkete ait ticaret
 unvanının sicilden silinmesi tasfiye memurları tarafından sicil
 müdürlüğünden istenir. İstem üzerine silinme tescil ve ilan edilir.
+
+\(2) **(Ek fıkra: 15/7/2016-6728/69 md.)** Bu Kanun hükümlerine göre
+tasfiye olunan şirketlerde, 2004 sayılı Kanunun 44 üncü ve 337/a maddesi
+hükümleri uygulanmaz.
 
 **IV - Uygulanacak diğer hükümler**
 
@@ -9328,6 +9383,12 @@ memurları,  yönetim kurulu  üyeleri, pay sahipleri veya alacaklılar,
 şirket merkezinin bulunduğu yerdeki asliye ticaret  mahkemesinden, bu ek
 işlemler sonuçlandırılıncaya kadar, şirketin yeniden tescilini
 isteyebilirler.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 68 inci maddesi ile bu
+fıkrada yer alan “bir yıl” ibareleri “altı ay” şeklinde
+değiştirilmiştir.*
 
 11102
 
@@ -9577,7 +9638,7 @@ olmamak üzere adli para cezasıyla cezalandırılır.
 
 \(5) Bu Kanunun;
 
-a\) 349 uncu maddesine aykırı beyanda bulunan kurucular,
+a\) **(Mülga: 15/7/2016-6728/73 md.)**
 
 b\) 358 inci maddesine aykırı olarak pay sahiplerine borç verenler,
 
@@ -9652,6 +9713,8 @@ temsiline ilişkin görev ve yetkileri, şirketten ayrılmaları, komandit
 \(2) Birinci fıkrada gösterilen hususların dışında, Kanunda aksine hüküm
 bulunmadıkça anonim şirket hükümleri uygulanır.
 
+11106-1
+
 **C) Kuruluş**
 
 **I - Esas sözleşme**
@@ -9660,7 +9723,10 @@ bulunmadıkça anonim şirket hükümleri uygulanır.
 
 **MADDE 566**- (1) Esas sözleşme yazılı şekilde düzenlenir, kurucularla
 komandite ortakların tümü tarafından imzalanır; imzaların noterce
-onaylanması gerekir.
+onaylanması veya esas sözleşmenin ticaret sicili müdürü yahut yardımcısı
+huzurunda imzalanması gerekir. **(Ek cümle: 15/7/2016-6728/67 md.)**
+Şirketin kuruluşunda, esas sözleşmeyi ihtiva eden kâğıtlardan değerli
+kâğıt bedeli alınmaz. ^(1)^
 
 \(2) İzin alınmasına ilişkin 333 üncü madde uygulanmaz.
 
@@ -9678,6 +9744,13 @@ sermaye koyanların tümü kurucu sayılır.
 komandite olması şarttır. Kurucu sıfatını haiz olan komanditerlerin
 sahip oldukları payların her birinin tutarının esas sözleşmeye yazılması
 gerekir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu
+fıkraya “onaylanması” ibaresinden sonra gelmek üzere “veya esas
+sözleşmenin ticaret sicili müdürü yahut yardımcısı huzurunda
+imzalanması” ibaresi eklenmiştir.*
 
 11107
 
@@ -9757,7 +9830,10 @@ sonucunu doğuracak şekilde esas sermaye payını iktisap edemez.
 **I - Şekil**
 
 **MADDE 575**- (1) Şirket sözleşmesinin yazılı şekilde yapılması ve
-kurucuların imzalarının noterce onaylanması şarttır.
+kurucuların imzalarının noterce onaylanması veya şirket sözleşmesinin
+ticaret sicili müdürü yahut yardımcısı huzurunda imzalanması şarttır.
+**(Ek cümle: 15/7/2016-6728/67 md.)** Şirketin kuruluşunda, şirket
+sözleşmesini ihtiva eden kâğıtlardan değerli kâğıt bedeli alınmaz. ^(1)^
 
 **II - İçerik**
 
@@ -9829,6 +9905,13 @@ hükümler.
 **MADDE 578**- (1) Ayni sermaye, ayınların veya işletmelerin
 devralınması ve özel menfaatler hakkında anonim şirketlere ilişkin
 hükümler uygulanır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu
+fıkraya “onaylanması” ibaresinden sonra gelmek üzere “veya şirket
+sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda
+imzalanması” ibaresi eklenmiştir.*
 
 11109
 
@@ -9906,12 +9989,20 @@ yoluyla uygulanır.
 
 \(1) Şirket, kurucuların, kanuna uygun olarak düzenlenmiş bulunan,
 sermayenin tamamını ödemeyi şartsız olarak taahhüt ettikleri,
-imzalarının noterce onaylandığı şirket sözleşmesinde limited şirket
+imzalarının noterce onaylandığı veya ticaret sicili müdürü yahut
+yardımcısı huzurunda imzaladığı şirket sözleşmesinde limited şirket
 kurma iradelerini açıklamalarıyla kurulur. Esas sermaye pay bedellerinin
 ödenmesi, ödeme yeri, ifa borcu, ifa etmemenin sonuçları, bedelleri
 tamamen ödenmemiş payların devri hususlarında bu Kanunun anonim
 şirketlere ilişkin hükümleri kıyasen uygulanır. 588 inci maddenin
-birinci fıkra hükümleri saklıdır.
+birinci fıkra hükümleri saklıdır.^(1)^
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu
+fıkraya “onaylandığı” ibaresinden sonra gelmek üzere “veya ticaret
+sicili müdürü yahut yardımcısı huzurunda imzaladığı” ibaresi
+eklenmiştir.*
 
 11110
 
@@ -9928,8 +10019,7 @@ belgeler eklenir:
 
 a\) Şirket sözleşmesinin onaylanmış bir örneği.
 
-b\) Ekleri ile birlikte 349 uncu maddeye göre düzenlenmiş kurucular
-beyanı (…) ^(1)^ .
+b\) **(Mülga: 15/7/2016-6728/73 md.)**
 
 c\) Yerleşim yerleri de gösterilerek şirketi temsile yetkili kişileri ve
 denetçinin seçimini gösterir belge.
@@ -9949,11 +10039,12 @@ d\) Şirketin ne suretle temsil edileceği.
 **2. Tescil ve ilan**
 
 **MADDE 587**- (1) Şirket sözleşmesinin tamamı, kurucuların imzalarının
-noterce onaylanmasını izleyen otuz gün içinde, şirketin merkezinin
-bulunduğu yer ticaret siciline tescil ve Türkiye Ticaret Sicili
-Gazetesinde ilan olunur. Tescil ve ilan edilen şirket sözleşmesine,
-aşağıda sayılanlar dışında, 36 ncı maddenin birinci fıkrası hükmü
-uygulanmaz:
+noterce onaylanmasını veya şirket sözleşmesinin ticaret sicili müdürü
+yahut yardımcısı huzurunda imzalandığı tarihi izleyen otuz gün içinde,
+şirketin merkezinin bulunduğu yer ticaret siciline tescil ve Türkiye
+Ticaret Sicili Gazetesinde ilan olunur. Tescil ve ilan edilen şirket
+sözleşmesine, aşağıda sayılanlar dışında, 36 ncı maddenin birinci
+fıkrası hükmü uygulanmaz: ^(1)^
 
 a\) Şirket sözleşmesinin tarihi.
 
@@ -9994,10 +10085,10 @@ ortaklara ne şekilde bildirimde bulunacakları.
 
 –––––––––––––––––
 
-*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
-fıkrada yer alan “ve Bakanlıkça istenilmesi hâlinde 351 inci madde
-uyarınca hazırlanmış işlem denetçisi raporu” ibaresi madde metninden
-çıkarılmıştır.*
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu
+fıkraya “onaylanmasını” ibaresinden sonra gelmek üzere “veya şirket
+sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda
+imzalandığı tarihi” ibaresi eklenmiştir.*
 
 *(2) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
 bentte yer alan “, denetçinin yeminli mali müşavir veya serbest
@@ -10728,6 +10819,11 @@ ortak ile şirket arasında yapılan sözleşmenin geçerli olması,
 sözleşmenin yazılı şekilde yapılmasına bağlıdır. Bu zorunluluk, piyasa
 şartlarına göre günlük, önemsiz ve sıradan işlemlere ilişkin
 sözleşmelere uygulanmaz.
+
+\(3) **(Ek: 10/9/2014 - 6552/132 md.)** Müdürler tarafından şirkete
+hizmet akdi ile bağlı olanların sınırlı yetkiye sahip ticari vekil veya
+diğer tacir yardımcıları olarak atanması hususunda 367 nci madde ile 371
+inci maddenin yedinci fıkrası kıyasen limited şirketlere de uygulanır.
 
 **V - Görevden alma, yönetim ve temsil yetkisinin geri alınması ve
 sınırlandırılması**
@@ -12763,6 +12859,8 @@ ibraz edildiğini, gününü işaret etmek suretiyle doğrulamaktan kaçınırsa
 bu durum bir protesto ile belirlenir. Bu takdirde süre protesto gününden
 itibaren işlemeye başlar.
 
+11148
+
 **ÜÇÜNCÜ BÖLÜM**
 
 **Çek**
@@ -12790,15 +12888,77 @@ e\) Düzenlenme tarihini ve yerini,
 
 f\) Düzenleyenin imzasını,
 
+g\) **(Ek: 15/7/2016-6728/70 md.)** Banka tarafından verilen seri
+numarasını,
+
+h\) **(Ek: 15/7/2016-6728/70 md.)** Karekodu,
+
 içerir.
 
-11148
+\(2) **(Ek fıkra : 15/7/2016-6728/70 md.)** Çek alacaklıları, ellerinde
+bulunan çek ile çek hesabı sahibine ve bu çeki düzenleyenlere ilişkin
+verilere karekod aracılığıyla erişim sağlayabilir. Karekod ile;
+
+a\) Çek hesabı sahibinin adı, soyadı veya ticaret unvanı,
+
+b\) Çek hesabı sahibinin tacir olması hâlinde, ticaret siciline tescil
+edilen yetkililerinin adı, soyadı veya ticaret unvanı,
+
+c\) Çek hesabı sahibinin, çek hesabı bulunan toplam banka sayısı,
+
+d\) Çek hesabı sahibine ait bankalara ibraz edilmemiş çek adedi ve
+tutarı,
+
+e\) Düzenlenerek bankalara teslim edilen çeklerin adedi ve tutarı,
+
+f\) Son beş yıl içerisinde ibrazında ödenen çeklerin adedi ve tutarı,
+
+g\) İbraz edilen ilk çekin ibraz tarihi,
+
+h\) İbraz edilen son çekin ibraz tarihi,
+
+ı) İbrazında ödenen son çekin ibraz tarihi,
+
+i\) Son beş yılda “karşılıksızdır” işlemi gören ve halen ödenmemiş
+çeklerin adedi ve tutarları,
+
+j\) Son beş yılda “karşılıksızdır” işlemi gören ve sonradan ödenen
+çeklerin adedi ve tutarı,
+
+k\) Son beş yılda “karşılıksızdır” işlemi gören son çekin ibraz tarihi,
+
+l\) Çek hesabı sahibi hakkında çek hesabı açma yasağı bulunup
+bulunmadığı, varsa yasaklama kararının tarihi,
+
+m\) Her bir çek yaprağı ile ilgili olarak tedbir kaydı olup olmadığı,
+
+n\) Çek hesabı sahibi tacirse, iflasına karar verilip verilmediği,
+iflasına karar verilmişse kararın tarihi,
+
+çek hesabı sahibi ya da cirantanın rızası aranmaksızın üçüncü kişilerin
+erişimine sunulur.
+
+11148-1
+
+\(3) **(Ek fıkra : 15/7/2016-6728/70 md.)** İkinci fıkrada belirtilen
+verilere ulaşılmasını sağlayacak karekod okutma ve bilgi paylaşım
+sistemi 5411 sayılı Kanunun ek 1 inci madde hükmü uyarınca kurulan
+Türkiye Bankalar Birliği Risk Merkezi tarafından oluşturulur. Risk
+Merkezi sistemdeki verileri, 5411 sayılı Kanunun ek 1 inci maddesinin on
+birinci fıkrası uyarınca bilgi alışverişini gerçekleştirdiği şirket ile
+paylaşmaya yetkilidir. Bu yetki kullanıldığı takdirde sistem bilgilerin
+paylaşıldığı şirket nezdinde kurulabilir.
+
+\(4) **(Ek fıkra : 15/7/2016-6728/70 md.)** Çekte yer alacak MERSİS
+numarası ile karekodun tanım ve içerikleri ile bu maddenin uygulanmasına
+ilişkin usul ve esaslar Gümrük ve Ticaret Bakanlığı ile Hazine
+Müsteşarlığının müştereken çıkaracağı tebliğle belirlenir.
 
 **II - Unsurların bulunmaması**
 
 **MADDE 781**- (1) 780 inci maddede gösterilen unsurlardan birini
-içermeyen bir senet, ikinci ve üçüncü fıkralarda yazılı hâller dışında
-çek sayılmaz.
+içermeyen bir senet, ikinci, üçüncü ve dördüncü fıkralarda yazılı hâller
+dışında çek sayılmaz. ^(1)^
 
 \(2) Çekte açıklık yoksa, muhatabın ticaret unvanı yanında gösterilen yer
 ödeme yeri sayılır. Muhatabın ticaret unvanı yanında birden fazla yer
@@ -12808,6 +12968,19 @@ yerde ödenir.
 
 \(3) Düzenlenme yeri gösterilmemiş olan çek, düzenleyenin adı yanında
 yazılı olan yerde düzenlenmiş sayılır.
+
+\(4) **(Ek : 15/7/2016-6728/71 md.)** Yabancı banka tarafından bastırılan
+çeklerde, 780 inci maddenin birinci fıkrasının (g) bendinde belirtilen
+banka tarafından verilen seri numarası ve/veya (h) bendinde belirtilen
+karekodun bulunmaması senedin çek olarak geçerliliğini etkilemez.
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 71 inci maddesi ile bu
+fıkrada yer alan “ikinci ve üçüncü” ibaresi “ikinci, üçüncü ve dördüncü”
+şeklinde değiştirilmiştir. *
+
+11148 -2
 
 **B) Münferit unsurlar**
 
@@ -24176,10 +24349,11 @@ yönetiminde yer almayan işletme sahipleri, işletmeye borç verenler ve
 kredi derecelendirme kuruluşları gibi dış kullanıcılar için genel amaçlı
 finansal tablo düzenleyen işletmeler.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) Bu fıkrada yer alan faiz oranları ile ilgili olarak 29/12/2012
-tarihli ve 28512 sayılı Resmi Gazete’de yayınlanan Türkiye Cumhuriyeti
+*(1) Bu fıkrada yer alan faiz oranları ve alacağın tahsili masrafları
+için talep edilebilecek asgari giderim tutarı ilgili olarak 2/1/2017
+tarihli ve 29936 sayılı Resmi Gazete’de yayımlanan Türkiye Cumhuriyet
 Merkez Bankası Tebliğine bakınız.*
 
 11307
@@ -24285,13 +24459,19 @@ dikkate alınır.
 
 \(4) **(Mülga: 4/7/2012-6353/64 md.)**
 
-**GEÇİCİ MADDE 7**- **(Ek: 26/6/2012-6335/38 md.)**
+**GEÇİCİ MADDE 7**- **(Ek: 26/6/2012-6335/38 md.)** ^(1)^
 
-\(1) Bu Kanunun yürürlüğe girdiği tarihten itibaren iki yıl içinde
-aşağıdaki hâlleri tespit edilen ya da bildirilen anonim ve limited
-şirketler ile kooperatiflerin tasfiyeleri ve ticaret sicilinden
-kayıtlarının silinmesi, ilgili kanunlardaki tasfiye usulüne uyulmaksızın
-bu madde uyarınca yapılır.
+\(1) 1/7/2015 tarihine kadar aşağıdaki hâlleri tespit edilen ya da
+bildirilen anonim ve limited şirketler ile kooperatiflerin tasfiyeleri
+ve ticaret sicilinden kayıtlarının silinmesi, ilgili kanunlardaki
+tasfiye usulüne uyulmaksızın bu madde uyarınca yapılır. ^(1)^
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 10/9/2014 tarihli 6552 sayılı Kanunun 133 üncü maddesiyle, bu
+maddenin birinci fıkrasında yer alan “Bu Kanunun yürürlüğe girdiği
+tarihten itibaren iki yıl içinde” ibaresi “1/7/2015 tarihine kadar”
+olarak değiştirilmiştir.*
 
 11308-1
 
@@ -24300,8 +24480,8 @@ Maddelerinde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname
 gereğince, sermayelerini anılan Kanun Hükmünde Kararname ile öngörülen
 tutarlara çıkarmamış anonim şirketler ile limited şirketler.
 
-b\) Bu Kanunun yürürlük tarihinden önce veya yürürlük tarihinden itibaren
-iki yıl içinde münfesih olan anonim ve limited şirketler.
+b\) Bu Kanunun yürürlük tarihinden önce veya 1/7/2015 tarihine kadar
+münfesih olan anonim ve limited şirketler. ^(1)^
 
 c\) Kooperatifler Kanunu hükümlerine göre herhangi bir nedenle dağılmış
 olan kooperatifler.
@@ -24358,6 +24538,12 @@ yöneticiler ile üçüncü şahısların bu görevi kabul ettiklerine ilişkin
 yazılı beyan da bildirime eklenir. Üçüncü şahısların tasfiye memuru
 olarak tescil edilebilmeleri ortakların veya yöneticilerin hiçbirinin
 tasfiye memuru olarak bildirilmemiş olmasına bağlıdır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 10/9/2014 tarihli 6552 sayılı Kanunun 133 üncü maddesiyle, bu
+bentte yer alan “yürürlük tarihinden itibaren iki yıl içinde” ibaresi
+“1/7/2015 tarihine kadar” olarak değiştirilmiştir.*
 
 11308-2
 
@@ -24484,6 +24670,25 @@ yayımlanmasına özgülemek zorundadır.
 tarihten önce açılmış olan davalarda uygulanmaz. Bu davalar, açıldıkları
 tarihte yürürlükte bulunan Kanun hükümlerine tabidir.
 
+11308-4
+
+**GEÇİCİ MADDE 10** – **(Ek: 10/9/2014-6552/134 md.)**
+
+14/2/2014 tarihine kadar Türk Ticaret Kanunu hükümlerine göre yapılması
+gereken sermaye artırımlarını herhangi bir nedenle yapmamış olan
+şirketler hakkında asgari sermaye şartını bu maddenin yayımı tarihinden
+itibaren üç ay içinde yapmaları hâlinde fesih işlemi uygulanmaz. Sermaye
+artırımında bulunmaması nedeniyle ticaret sicili kaydı silinenlerin de
+bu süre içinde sermaye artırımı için başvurmaları hâlinde kayıtları
+resen yeniden oluşturulur.
+
+**GEÇİCİ MADDE 11** – **(Ek: 15/7/2016-6728/72 md.)**
+
+\(1) 31/12/2016 tarihinden sonra bankalarca çek hesabı sahiplerine 780
+inci maddeye bu Kanunla eklenen hüküm gereğince bulunması gereken
+karekod ve seri numarası unsurlarını içermeyen çek yaprağı verilemez.
+31/12/2016 tarihinden önce basılan çeklerde bu unsurlar aranmaz.
+
 11309
 
 **Yürürlük ^(1)^**
@@ -24547,36 +24752,40 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **6102 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **6102 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                               **Yürürlüğe Giriş Tarihi**
 
-  6273                                                                         814                                                           3/2/2012
+  6273                                                                         814                                                                                                                       3/2/2012
 
-  6335                                                                         4,5,24,25,26,27,33,35,38,39,51,64,65,84,88,138,139,145,147,   1/7/2012
-                                                                                                                                             
-                                                                               148,149,156,157,166,169,170,171,174,175,186,187,188,193,      
-                                                                                                                                             
-                                                                               207,210,310,336,341,343,349,351,353,354,358,359,376,395,      
-                                                                                                                                             
-                                                                               398,397,400,401,403,404,407,408,422,431,457,458,461,462,      
-                                                                                                                                             
-                                                                               469,470,471,472,473,478,479,505,524,525,526,528,552,553,      
-                                                                                                                                             
-                                                                               554,562,563,585,586,587,605,615,616,628,635,642,644,832,      
-                                                                                                                                             
-                                                                               1522,1523,1524,1526,1527,Geçici Madde 1,2,3,5,6,7,8,9,        
-                                                                                                                                             
-                                                                               1534 ve ibare değişiklikleri                                  
+  6335                                                                         4,5,24,25,26,27,33,35,38,39,51,64,65,84,88,138,139,145,147,                                                               1/7/2012
+                                                                                                                                                                                                         
+                                                                               148,149,156,157,166,169,170,171,174,175,186,187,188,193,                                                                  
+                                                                                                                                                                                                         
+                                                                               207,210,310,336,341,343,349,351,353,354,358,359,376,395,                                                                  
+                                                                                                                                                                                                         
+                                                                               398,397,400,401,403,404,407,408,422,431,457,458,461,462,                                                                  
+                                                                                                                                                                                                         
+                                                                               469,470,471,472,473,478,479,505,524,525,526,528,552,553,                                                                  
+                                                                                                                                                                                                         
+                                                                               554,562,563,585,586,587,605,615,616,628,635,642,644,832,                                                                  
+                                                                                                                                                                                                         
+                                                                               1522,1523,1524,1526,1527,Geçici Madde 1,2,3,5,6,7,8,9,                                                                    
+                                                                                                                                                                                                         
+                                                                               1534 ve ibare değişiklikleri                                                                                              
 
-  6353                                                                         Geçici Madde 6                                                12/7/2012
+  6353                                                                         Geçici Madde 6                                                                                                            12/7/2012
 
-  6455                                                                         64                                                            1/1/2013 tarihinden geçerli olmak üzere 11/4/2013
-                                                                                                                                             
-                                                                               359, 397, 400, 635                                            11/4/2013
+  6455                                                                         64                                                                                                                        1/1/2013 tarihinden geçerli olmak üzere 11/4/2013
+                                                                                                                                                                                                         
+                                                                               359, 397, 400, 635                                                                                                        11/4/2013
 
-  6462                                                                         1507                                                          3/5/2013
+  6462                                                                         1507                                                                                                                      3/5/2013
 
-  6495                                                                         621                                                           2/8/2013
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------
+  6495                                                                         621                                                                                                                       2/8/2013
+
+  6552                                                                         371,629, Geçici Madde 7, Geçici Madde 10                                                                                  11/9/2014
+
+  6728                                                                         40, 184, 189, 212, 215, 335, 336, 339, 345, 349, 457, 543, 545, 562, 586, 566, 575, 585, 587, 780, 781, Geçici Madde 11   9/8/2016
+  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------
 
 
