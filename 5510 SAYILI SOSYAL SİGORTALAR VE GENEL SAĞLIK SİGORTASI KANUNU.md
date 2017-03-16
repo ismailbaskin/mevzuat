@@ -1,4 +1,4 @@
-**5997 sayılı kanun ile değişik hali**
+**6009 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -6496,6 +6496,81 @@ Bu madde kapsamında ödenen sigorta primleri daha sonra geri talep
 edilemez ve bu Kanunun ihya hükümleri ilave aylıklar hakkında
 uygulanmaz.
 
+**EK MADDE 4 –** **(Ek: 23/7/2010-6009/57 md.)**
+
+Kamu idarelerinde çalışanlardan bu Kanunun 66 ncı maddesinin birinci
+fıkrasının (a) bendi kapsamına girenler için acil hallerle sınırlı olmak
+üzere sadece kendilerinin, aynı fıkranın (b) bendi ile söz konusu
+maddenin sekizinci fıkrası kapsamına girenlerin ise kendilerinin ve
+yurtdışında birlikte yaşadıkları bakmakla yükümlü olduğu kişilerin kamu
+kurumları tarafından yurtdışında sağlık hizmetlerinden yararlandırılması
+aşağıda belirtilen temel ilkelere göre yürütülür.
+
+1\) Eşlerin aylıksız izinli olması veya aylıksız izin süresini
+borçlanması, bu Kanunun geçici 4 üncü maddesi kapsamına girenler
+açısından isteğe bağlı iştirakçiliğin devam etmesi, sosyal güvenlik
+mevzuatı kapsamında eşin kendi adına aylık veya gelir bağlanmış olması,
+bakmakla yükümlü olunan aile ferdi sıfatını ortadan kaldırmaz.
+
+2\) Çocuklar için yetim aylığı bağlanmış olması bakmakla yükümlü olunan
+aile ferdi sıfatını ortadan kaldırmaz.
+
+3\) Kamu kurumlarınca bedeli ödenecek sağlık hizmetlerinin kapsamı, bu
+Kanunun 66 ncı maddesine göre Sosyal Güvenlik Kurumu Başkanlığı
+tarafından ödenen sağlık hizmetleri ile sınırlıdır. Ancak, bulunulan
+ülke mevzuatı gereğince zorunlu olarak yaptırılması gereken kontrol ve
+muayeneler ile aşı gibi Türkiye’de Sağlık Bakanlığı tarafından doğrudan
+ve ücretsiz olarak yürütülmesi sebebiyle 66 ncı madde kapsamında
+herhangi bir belirleme yapılmamış sağlık hizmetlerine ilişkin giderler
+Türkiye’deki uygulamanın sınırlılıkları dahilinde ayrıca ödenir.
+
+4\) 68 inci maddede belirtilen tutar veya oranları geçmemek kaydıyla,
+Dışişleri Bakanlığı ve Maliye Bakanlığı tarafından tespit edilecek
+tutar, oran ve usule göre katılım payı alınır. Alınan katılım payları,
+ilgisine göre genel bütçeye ya da ilgili kurum bütçesine gelir
+kaydedilir.
+
+5\) Tıbbi lüzum üzerine yaptırılan diş tedavileri sonucu doğan giderler;
+
+a\) Diş çekimi, kanal tedavisi, diş dolguları ve travma sonucu oluşan
+çene defektlerine yapılan cerrahi müdahalelerle, protez tamirlerine ait
+tedavi bedelleri aynen,
+
+b\) Diğer diş tedavilerine ait giderler ise, bedeli ödenecek her bir diş
+tedavisi kalemi için faturada yer alan tutarı geçmemek kaydıyla, Sosyal
+Güvenlik Kurumu tarafından aynı tedavi için tespit edilen birim
+fiyatların % 100 oranında artırılması suretiyle bulunacak miktar
+üzerinden,
+
+ödenir.
+
+6\) Gözlük camı ve çerçeveye ilişkin tedavi bedeli, bedeli ödenebilecek
+her bir kalem için faturada yer alan tutarı geçmemek kaydıyla, Sosyal
+Güvenlik Kurumu tarafından tespit edilen birim fiyatların % 100 oranında
+artırılması suretiyle bulunacak miktar üzerinden ödenir.
+
+7\) Sürekli görev yaptıkları memuriyet merkezinde tedavileri
+sağlanamadığı için aynı ülke içinde başka bir yere tedavi amacıyla sevk
+edilenlerin, yurtdışı gündeliklerine dair karar ekinde yer alan cetvelde
+belirlenen miktar kadar gündelik ve fiilen kullandıkları taşıtlara
+ilişkin gider belgelendirilmiş olması kaydıyla ödenir. Kendi araçlarını
+kullanmış olanlara yapılacak ödeme, o ülkede aynı yer için geçerli olan
+genel ulaşım türü esas alınarak belirlenir.
+
+8\) Yurtdışında sağlık hizmetinden ve yol giderlerinden yararlanacak
+olanların hastalanmaları halinde tedavilerinin sağlanabilmesi için,
+gerekli olması halinde tedaviye mahalli usule göre lüzum gösterilmiş
+olması zorunludur.
+
+9\) Kamu kurumlarınca bedeli ödenecek tutarın yurtdışına transferi
+halinde, yılın ilk günündeki kurlar esas alınır.
+
+Kapsama dahil kişilerin sağlık hizmetlerinden yararlanmasına ilişkin
+usul ve esaslar ile bu maddenin uygulanmasına ilişkin diğer hususlar,
+Maliye Bakanlığının koordinatörlüğünde, Dışişleri Bakanlığı, Milli
+Savunma Bakanlığı, Sağlık Bakanlığı ve Sosyal Güvenlik Kurumu Başkanlığı
+tarafından müştereken çıkarılacak bir yönetmelikle belirlenir.
+
 **Malûllük, yaşlılık ve ölüm sigortasına ilişkin bazı geçiş hükümleri**
 
 **GEÇİCİ MADDE 1-** **(Değişik: 17/4/2008-5754/68 md.)**
@@ -6669,13 +6744,6 @@ olarak yeniden çalışmaya başlayanlar ile bunların dul ve yetimleri
 hakkında bu Kanunla yürürlükten kaldırılan hükümleri de dahil 5434
 sayılı Kanun hükümlerine göre işlem yapılır.
 
-––––––––––––––––
-
-*(1) Bu madde başlığı “Önceki mevzuat hükümlerinin uygulanması, Devlet
-katkısı ve geçici iş göremezlik ödeneği” iken, 17/4/2008 tarihli ve 5754
-sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
-
 Bu madde kapsamına girenlerin aylıklarının bağlanması, artırılması,
 azaltılması, kesilmesi, yeniden bağlanması, toptan ödemeleri, ilgi
 devamı, ihya ve borçlanmaları, diğer ödemeler ve yardımlar ile emeklilik
@@ -6713,6 +6781,13 @@ sayılı Kanun ile ilgilendirilenler aynı statüde çalışmaya devam
 ettikleri sürece, bu Kanunun 4 üncü maddesinin birinci fıkrasının (c)
 bendine göre sigortalı sayılırlar ve bunlar hakkında bu madde hükümleri
 uygulanır.
+
+––––––––––––––––
+
+*(1) Bu madde başlığı “Önceki mevzuat hükümlerinin uygulanması, Devlet
+katkısı ve geçici iş göremezlik ödeneği” iken, 17/4/2008 tarihli ve 5754
+sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
 Bu Kanunun yürürlüğe girdiği tarihten önce iştirakçi olup, bu Kanunun
 yürürlüğe girdiği tarih itibarıyla bu Kanunun 4 üncü maddesinin birinci
@@ -6772,31 +6847,30 @@ oldukları tarihten itibaren 5434 sayılı Kanunun bu Kanunla yürürlükten
 kaldırılan ek 68 inci maddesinde belirtilen şartlar da dikkate alınarak,
 emsali belediye başkanının almakta olduğu makam tazminatı ve buna bağlı
 olarak temsil veya görev tazminatı tutarı, almakta oldukları emeklilik
-veya yaşlılık aylıklarına ilâve edilmek suretiyle ödenir.
-
-Bu Kanunun yürürlük tarihinden önce seçimler neticesinde belediye
-başkanı olarak görev yapmış olup, bu Kanuna göre sigortalı iken yaşlılık
-aylığı bağlananlardan; 5434 sayılı Kanunun bu Kanunla yürürlükten
-kaldırılan 39 uncu maddesine göre aylık bağlanması şartlarını haiz
-olanlara bu Kanunun geçici 2 nci ve geçici 4 üncü maddeleri hükümleri de
-dikkate alınarak bu fıkrada belirtilen şartlar dahilinde söz konusu
-tazminatlar aylıklarına ilâve edilmek suretiyle ödenir. Bu Kanunun
+veya yaşlılık aylıklarına ilâve edilmek suretiyle ödenir. Bu Kanunun
 yürürlük tarihinden önce seçimler neticesinde belediye başkanı olarak
-görev yapmış  olanlardan ölenlerin  bu  Kanunun 32 nci maddesinde
-belirtilen şartlara sahip olmaları halinde, 5434 sayılı Kanunun bu
-Kanunla yürürlükten kaldırılan ek 68 inci maddesinde belirtilen şartlar
-da dikkate alınarak, hak sahiplerine bu Kanunun 34 üncü, geçici 1 inci,
-geçici 2 nci ve geçici 4 üncü maddeleri hükümlerine göre söz konusu
-tazminatlar bu Kanunun yürürlük tarihinden önce ölenler için bu Kanunun
-yürürlük tarihinden itibaren, bu Kanunun yürürlük tarihinden sonra
-ölenler için ise ölüm tarihinden itibaren ölüm aylıklarına eklenmek
-suretiyle ödenir. Bu Kanunun yürürlüğe girdiği tarihten önce seçimler
-neticesinde belediye başkanı olarak görev yapmış olanlardan; malûllük
-aylığı almakta olanlar ile malûllük aylığına hak kazanacaklar 5434
-sayılı Kanunun bu Kanunla yürürlükten kaldırılan 39 uncu maddesinde
-belirtilen aylık bağlamaya ilişkin şartlar dikkate alınmaksızın yukarıda
-belirtilen tazminat haklarından yararlandırılır. Bu fıkraya göre
-tazminat tutarları ödendikçe Hazineden tahsil edilir.
+görev yapmış olup, bu Kanuna göre sigortalı iken yaşlılık aylığı
+bağlananlardan; 5434 sayılı Kanunun bu Kanunla yürürlükten kaldırılan 39
+uncu maddesine göre aylık bağlanması şartlarını haiz olanlara bu Kanunun
+geçici 2 nci ve geçici 4 üncü maddeleri hükümleri de dikkate alınarak bu
+fıkrada belirtilen şartlar dahilinde söz konusu tazminatlar aylıklarına
+ilâve edilmek suretiyle ödenir. Bu Kanunun yürürlük tarihinden önce
+seçimler neticesinde belediye başkanı olarak görev yapmış  olanlardan
+ölenlerin  bu  Kanunun 32 nci maddesinde belirtilen şartlara sahip
+olmaları halinde, 5434 sayılı Kanunun bu Kanunla yürürlükten kaldırılan
+ek 68 inci maddesinde belirtilen şartlar da dikkate alınarak, hak
+sahiplerine bu Kanunun 34 üncü, geçici 1 inci, geçici 2 nci ve geçici 4
+üncü maddeleri hükümlerine göre söz konusu tazminatlar bu Kanunun
+yürürlük tarihinden önce ölenler için bu Kanunun yürürlük tarihinden
+itibaren, bu Kanunun yürürlük tarihinden sonra ölenler için ise ölüm
+tarihinden itibaren ölüm aylıklarına eklenmek suretiyle ödenir. Bu
+Kanunun yürürlüğe girdiği tarihten önce seçimler neticesinde belediye
+başkanı olarak görev yapmış olanlardan; malûllük aylığı almakta olanlar
+ile malûllük aylığına hak kazanacaklar 5434 sayılı Kanunun bu Kanunla
+yürürlükten kaldırılan 39 uncu maddesinde belirtilen aylık bağlamaya
+ilişkin şartlar dikkate alınmaksızın yukarıda belirtilen tazminat
+haklarından yararlandırılır. Bu fıkraya göre tazminat tutarları
+ödendikçe Hazineden tahsil edilir.
 
 Bu Kanunun yürürlüğe girdiği tarihten önceki dönemlere ait 5434 sayılı
 Kanundan kaynaklanan alacakların takip ve tahsil işlemleri 5434 sayılı
@@ -8186,6 +8260,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                     Geçici Madde 4, Geçici Madde 12/4,12/5, Geçici Madde 18       1/10/2008 tarihinden geçerli olmak üzere 19/6/2010
                                                                                                                                   
                                                                     Geçici Madde 27                                               1/4/2002 tarihinden geçerli olmak üzere 19/6/2010
+
+  6009                                                              Ek Madde 4                                                    15/1/2010 tarihinden geçerli olmak üzere 1/8/2010
   ----------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
 
 
