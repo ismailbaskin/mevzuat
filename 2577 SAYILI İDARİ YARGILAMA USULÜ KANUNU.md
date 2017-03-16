@@ -1,6 +1,4 @@
-**Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113,**
-
-**K.: 2012/108 sayılı Kararı ile değişik hali**
+**6494 sayılı Kanun ile değişik hali**
 
 []{#K10 .anchor}**İDARİ YARGILAMA USULÜ KANUNU ^(1)(2)^**
 
@@ -85,7 +83,7 @@ sayılı Kanunun 15 inci maddesiyle değiştirilmiştir. *
 bendin sonuna “ile gerçek kişilere ait Türkiye Cumhuriyeti kimlik
 numarası,*^”^ *ibaresi eklenmiştir.*
 
-5468/5468-2
+5468*/*5468-2
 
 c\) Davaya konu olan idari işlemin yazılı bildirim tarihi,
 
@@ -171,12 +169,12 @@ tebligat re'sen genel bütçeden yapılır.
 gösterilmeyen hallerde Danıştayda ve idare mahkemelerinde altmış ve
 vergi mahkemelerinde otuz gündür.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\(1) *2/7/2012 tarihli ve 6352 sayılı Kanunun 52 nci maddesi ile bu
+*(1)* *2/7/2012 tarihli ve 6352 sayılı Kanunun 52 nci maddesi ile bu
 fıkrada yer alan “bulunmayan yerlerde” ibaresinden sonra gelmek üzere
 “büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına
-bakılmaksızın” ibaresi eklenmiştir. *
+bakılmaksızın” ibaresi eklenmiştir.*
 
 5469
 
@@ -852,7 +850,7 @@ mahalli idarelerin organları ile bu organların üyelerinin geçici bir
 tedbir olarak görevden uzaklaştırılmalarıyla ilgili davalarda yetkili
 mahkeme ilgilinin görevli bulunduğu yer idare mahkemesidir.
 
-4**.(Ek: 2/7/2012- 6352/60 md.)** Özel kanunlardaki hükümler saklı
+4**. (Ek: 2/7/2012- 6352/60 md.)** Özel kanunlardaki hükümler saklı
 kalmak kaydıyla, hâkim ve savcıların mali ve sosyal haklarına ve
 sicillerine ilişkin konularla, müfettiş hal kâğıtlarına karşı açacakları
 ve idare mahkemelerinin görevine giren davalarda yetkili mahkeme, hâkim
@@ -904,7 +902,7 @@ a\) Uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümleri tarh
 ve tahakkuk ettiren, zam ve cezaları kesen,
 
 b\) **(Ek : 10/6/1994 - 4001/17 md.)** Gümrük Kanununa göre alınması
-gereken vergilerle Vergi Usul Kanunu ğereğince şikayet yoluyla vergi
+gereken vergilerle Vergi Usul Kanunu gereğince şikayet yoluyla vergi
 düzeltme taleplerinin reddine ilişkin işlemlerde; vergi, resim, harç ve
 benzeri mali yükümleri tarh ve tahakkuk ettiren,
 
@@ -1285,15 +1283,15 @@ Gazete'de yayımlanır.
 
 *Temyiz veya itiraz istemlerinde yürütmenin durdurulması:*
 
-**Madde 52 – 1. (Değişik: 5/4/1990 - 3622/21 md.)** Temyiz veya itiraz
-yoluna başvurulmuş olması, hakim, mahkeme veya Danıştay kararlarının
-yürütülmesini durdurmaz. Ancak, bu kararların teminat karşılığında
-yürütülmesinin durdurulmasına temyiz istemini incelemeye yetkili
-Danıştay dava dairesi, kurulu veya itirazı incelemeye yetkili bölge
-idare mahkemesince karar verilebilir. **(Ek Cümle: 10/6/1994 - 4001/22
-md.)** Davanın reddine ilişkin kararların temyizi halinde, dava konusu
-işlem hakkında yürütmenin durdurulması kararı verilebilmesi 27 nci
-maddede öngörülen koşulun varlığına bağlıdır.
+**Madde 52 –** 1. **(Değişik: 5/4/1990 - 3622/21 md.)** Temyiz veya
+itiraz yoluna başvurulmuş olması, hakim, mahkeme veya Danıştay
+kararlarının yürütülmesini durdurmaz. Ancak, bu kararların teminat
+karşılığında yürütülmesinin durdurulmasına temyiz istemini incelemeye
+yetkili Danıştay dava dairesi, kurulu veya itirazı incelemeye yetkili
+bölge idare mahkemesince karar verilebilir. **(Ek Cümle: 10/6/1994 -
+4001/22 md.)** Davanın reddine ilişkin kararların temyizi halinde, dava
+konusu işlem hakkında yürütmenin durdurulması kararı verilebilmesi 27
+nci maddede öngörülen koşulun varlığına bağlıdır.
 
 2\. İptal davalarında teminat istenmeyebilir.
 
@@ -1514,18 +1512,16 @@ yapılacak tebliğlere ait ücretler ilgililer tarafından peşin olarak
 
 *Çalışmaya ara verme:*
 
-**Madde 61 –** 1. **(Değişik: 5/4/1990 - 3622/25 md.) (Değişik birinci
-cümle: 8/8/2011-KHK-650/11 md.; İptal cümle:** **Anayasa Mahkemesi’nin
-18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile. ) (…)
-^(1)^**Ancak, yargı çevresine dahil olduğu bölge idare mahkemesinin
-bulunduğu il merkezi dışında kalan idare ve vergi mahkemeleri çalışmaya
-ara vermeden yararlanamazlar. Bu mahkemeler, 62 nci maddedeki
-sınırlamaya tabi olmaksızın görevlerine devam ederler. ^(1)^
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra
-yürürlüğe girmiştir.*
+**Madde 61 – 1. (Değişik: 5/4/1990 - 3622/25 md.) (Değişik birinci
+cümle: 8/8/2011-KHK-650/11 md.; İptal cümle: Anayasa Mahkemesi’nin
+18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.;
+Yeniden düzenleme birinci cümle: 27/6/2013-6494/18 md. )** Bölge idare,
+idare ve vergi mahkemeleri her yıl bir eylülde başlamak üzere, yirmi
+temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler. Ancak, yargı
+çevresine dahil olduğu bölge idare mahkemesinin bulunduğu il merkezi
+dışında kalan idare ve vergi mahkemeleri çalışmaya ara vermeden
+yararlanamazlar. Bu mahkemeler, 62 nci maddedeki sınırlamaya tabi
+olmaksızın görevlerine devam ederler.
 
 5484-1
 
@@ -1683,7 +1679,7 @@ K.1995/49 sayılı Kararı ile.)**
 
 **GÖSTERİR LİSTE**
 
-  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ---------------------------------------------
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------------------------
   **Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2577 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
 
   3622                                                                                 –                                                             10/4/1990
@@ -1706,9 +1702,11 @@ K.1995/49 sayılı Kararı ile.)**
 
   6459                                                                                 16, Geçici Madde 7                                            30/4/2013
 
-  Anayasa                                                                              61 inci maddenin birinci fıkrasının birinci cümlesi           1/1/2013 tarihinden başlayarak altı ay sora
+  Anayasa                                                                              61 inci maddenin birinci fıkrasının birinci cümlesi           1/1/2013 tarihinden başlayarak altı ay sonra
                                                                                                                                                      
   Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                         (1/7/2013)
-  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ---------------------------------------------
+
+  6494                                                                                 61                                                            7/7/2013
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------------------------
 
 
