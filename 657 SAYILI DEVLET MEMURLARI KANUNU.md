@@ -1,4 +1,6 @@
-** 6528 sayılı Kanun ile değişik hali**
+** Anayasa Mahkemesi’nin 27/3/2014 tarihli ve**
+
+**E.: 2013/101, K.: 2014/63 sayılı Kararı ile değişik hali**
 
  
 
@@ -1625,29 +1627,25 @@ ibareleri madde metninden çıkarılmıştır.*
 
 4191
 
- 
+12 – a) Memuriyete girmeden önce veya memurlukları sırasında ortaokul ve
+dengi veya lise ve dengi öğrenim üzerine hizmet içi eğitim sayılmayan ve
+öğrenim süreleri en az aralıksız 1 veya 2 öğrenim yılı olan ve
+kurumlarınca açılan mesleki kursları bitirenler hakkında; 1 yıllık
+öğrenim için 1 kademe, 2 yıldan az olmayan öğrenim için 1 derece
+yükselmesi uygulanır.
 
-             12 – a) Memuriyete girmeden önce veya memurlukları
-sırasında ortaokul ve dengi veya lise ve dengi öğrenim üzerine hizmet
-içi eğitim sayılmayan ve öğrenim süreleri en az aralıksız 1 veya 2
-öğrenim yılı olan ve kurumlarınca açılan mesleki kursları bitirenler
-hakkında; 1 yıllık öğrenim için 1 kademe, 2 yıldan az olmayan öğrenim
-için 1 derece yükselmesi uygulanır.
+b\) Lise ve dengi okulları bitirdikten sonra memurlukları sırasında Milli
+Eğitim Bakanlığınca belli edilen ve kurumlarınca düzenlenen bir yıl
+süreli mesleki hizmet içi eğitim kurslarını tamamlayanların bulundukları
+derece ve kademelere bir kademe ilave edilir.
 
-             b) Lise ve dengi okulları bitirdikten sonra memurlukları
-sırasında Milli Eğitim Bakanlığınca belli edilen ve kurumlarınca
-düzenlenen bir yıl süreli mesleki hizmet içi eğitim kurslarını
-tamamlayanların bulundukları derece ve kademelere bir kademe ilave
-edilir.
+c\) Memuriyetleri sırasında Türkiye ve Ortadoğu Amme İdaresi Enstitüsünü
+bitirenlere her başarılı öğrenim yılı için öğrenim süreleri kadar (2
+yılı geçmemek şartiyle) her yıl için bir kademe ilerlemesi uygulanır.
 
-             c) Memuriyetleri sırasında Türkiye ve Ortadoğu Amme İdaresi
-Enstitüsünü bitirenlere her başarılı öğrenim yılı için öğrenim süreleri
-kadar (2 yılı geçmemek şartiyle) her yıl için bir kademe ilerlemesi
-uygulanır.
-
-             d) **(İptal: Ana. Mah.'nin 16/4/2003 tarih ve E.: 2003/22,
-K.: 2003/34 sayılı kararı ile.;Yeniden düzenleme: 17/9/2004 – 5234/1
-md.)** Memuriyette iken veya memuriyetten ayrılarak (87 nci maddeye tâbi
+d\) **(İptal: Anayasa Mahkemesi'nin 16/4/2003 tarih ve E.: 2003/22, K.:
+2003/34 sayılı kararı ile.;Yeniden düzenleme: 17/9/2004 – 5234/1 md.)**
+Memuriyette iken veya memuriyetten ayrılarak (87 nci maddeye tâbi
 kurumlarda çalışanlar dahil) üst öğrenimi bitirenler, aynı üst öğrenimi
 tahsile ara vermeden başlayan ve normal süresi içinde bitirdikten sonra
 memuriyete giren emsallerinin ulaştıkları derece ve kademeyi aşmamak
@@ -1656,18 +1654,17 @@ memuriyette geçirdikleri başarılı hizmet sürelerinin tamamı her yıl bir
 kademe, her üç yıl bir derece hesabıyla ilave edilmek suretiyle
 bulunacak derece ve kademeye yükseltilirler.
 
-**            **    B) Öğrenim durumları itibariyle (A) bendinde
-gösterilen yükselinebilecek derece ve kademelerden farklı olanlar
-aşağıda gösterilmiştir.
+B\) Öğrenim durumları itibariyle (A) bendinde gösterilen yükselinebilecek
+derece ve kademelerden farklı olanlar aşağıda gösterilmiştir.
 
-             1 – Lise ve lise dengi mesleki veya teknik öğretim
-görenlerden, öğrenim eksikliğini giderecek hizmet içi eğitimden geçerek,
-Devlet Personel Başkanlığı tarafından hazırlanacak yönetmelikte
-belirlenecek esaslara göre yapılacak özel yükselme sınavlarında başarı
-gösterenler 1 inci derecenin son kademesine kadar yükselebilirler.
+1 – Lise ve lise dengi mesleki veya teknik öğretim görenlerden, ögrenim
+eksikliğini giderecek hizmet içi eğitimden geçerek, Devlet Personel
+Başkanlığı tarafından hazırlanacak yönetmelikte belirlenecek esaslara
+göre yapılacak özel yükselme sınavlarında başarı gösterenler 1 inci
+derecenin son kademesine kadar yükselebilirler.
 
-             2 – (A) bendinin 12 nci fıkrasının (a) şıkkında
-gösterilenler 3 üncü derecenin son kademesine kadar yükselebilirler.
+2 – (A) bendinin 12 nci fıkrasının (a) şıkkında gösterilenler 3 üncü
+derecenin son kademesine kadar yükselebilirler.
 
 3 – **(Değişik: 23/12/1988 - KHK - 351/3 md.)** Emniyet Hizmetleri
 Sınıfı mensuplarından:^(1)^
@@ -1694,162 +1691,130 @@ toplamı memuriyette geçmiş sayılarak bu süreler her yılı bir kademe
 ilerlemesi ve her üç yıl için bir derece yükselmesi verilmek suretiyle
 değerlendirilir.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+–––––––––––––––––––––
 
-(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 43 üncü maddesi ile bu
-    altbende (c) sırası eklenmiş ve mevcut (c) sırası (d) sırası olarak
-    teselsül ettirilmiştir.
-
- 
+*(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 43 üncü maddesi ile bu
+altbende (c) sırası eklenmiş ve mevcut (c) sırası (d) sırası olarak
+teselsül ettirilmiştir.*
 
 4192
 
- 
+2 – Sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfına girenlerden
+memurluğa girmeden önce yurt içinde veya yurt dışında mesleklerini
+serbest olarak veya resmi veya özel kurumlarda yapanlarla, memurluktan
+ayrıldıktan sonra bu işlerde çalışarak yeniden memurluğa girmek
+isteyenlerin sağlık hizmetlerinde geçen süresinden, bu kanun ve bu
+kanunun 87 nci maddesinde sözü edilen kurumlarda geçen süreleri ile 196
+ncı maddede belirtilen şekilde tespit edilecek mahrumiyet bölgelerinde
+en az 3 yıl çalışanların veya çalışacak olanların sürelerinin tamamı ve
+geri kalan sürelerinin 3/4 ü toplamı memurlukta geçmiş sayılarak bu
+sürelerin her yılı için bir kademe ilerlemesi ve her üç yılı için bir
+derece yükselmesi verilmek suretiyle değerlendirilir.
 
-             2 – Sağlık hizmetleri ve yardımcı sağlık hizmetleri
-sınıfına girenlerden memurluğa girmeden önce yurt içinde veya yurt
-dışında mesleklerini serbest olarak veya resmi veya özel kurumlarda
-yapanlarla, memurluktan ayrıldıktan sonra bu işlerde çalışarak yeniden
-memurluğa girmek isteyenlerin sağlık hizmetlerinde geçen süresinden, bu
-kanun ve bu kanunun 87 nci maddesinde sözü edilen kurumlarda geçen
-süreleri ile 196 ncı maddede belirtilen şekilde tespit edilecek
-mahrumiyet bölgelerinde en az 3 yıl çalışanların veya çalışacak
-olanların sürelerinin tamamı ve geri kalan sürelerinin 3/4 ü toplamı
-memurlukta geçmiş sayılarak bu sürelerin her yılı için bir kademe
-ilerlemesi ve her üç yılı için bir derece yükselmesi verilmek suretiyle
-değerlendirilir.
+3 – Avukatlık hizmetleri sınıfına girenlerin memuriyete girmeden önce
+veya memurluktan ayrılarak (…) ^(1)^ avukatlıkla geçirdikleri sürelerin
+3/4 ü memuriyette geçmiş sayılarak, bu sürelerin her yılı bir kademe
+ilerlemesine ve her üç yılı bir derece yükselmesine esas olacak şekilde
+değerlendirilir. ^(1)^
 
-             3 – Avukatlık hizmetleri sınıfına girenlerin memuriyete
-girmeden önce veya memurluktan ayrılarak serbest avukatlıkla
-geçirdikleri sürelerin 3/4 ü memuriyette geçmiş sayılarak, bu sürelerin
-her yılı bir kademe ilerlemesine ve her üç yılı bir derece yükselmesine
-esas olacak şekilde değerlendirilir.
-
-             4 – Basın Kartları Yönetmeliğine göre, basın kartına sahip
-olmak suretiyle gazetecilik yaparak memurluğa girenlerin; meslekleriyle
-ilgili görevlerde istihdam edilmeleri şartiyle, fiilen gazetecilik
-yaparak geçirdikleri sürenin 3/4 ü fiilen memuriyette geçmiş sayılarak,
-bu sürenin her yılı bir kademe ilerlemesi ve her üç yılı bir derece
+4 – Basın Kartları Yönetmeliğine göre, basın kartına sahip olmak
+suretiyle gazetecilik yaparak memurluğa girenlerin; meslekleriyle ilgili
+görevlerde istihdam edilmeleri şartiyle, fiilen gazetecilik yaparak
+geçirdikleri sürenin 3/4 ü fiilen memuriyette geçmiş sayılarak, bu
+sürenin her yılı bir kademe ilerlemesi ve her üç yılı bir derece
 yükselmesi verilmek suretiyle değerlendirilir.
 
-             5 – Özel okullarda öğretmenlik veya yöneticilik yaptıktan
-sonra Milli Eğitim Bakanlığı emrinde memuriyet kabul edenlerin özel
-okullarda geçen hizmet sürelerinin 2/3 ünün her yılı bir kademe
-ilerlemesine ve her üç yılı bir derece yükselmesine esas olacak şekilde
+5 – Özel okullarda öğretmenlik veya yöneticilik yaptıktan sonra Milli
+Eğitim Bakanlığı emrinde memuriyet kabul edenlerin özel okullarda geçen
+hizmet sürelerinin 2/3 ünün her yılı bir kademe ilerlemesine ve her üç
+yılı bir derece yükselmesine esas olacak şekilde değerlendirilir.
+
+Yukarıdaki fıkralara göre, değerlendirilecek hizmet süresinden sadece
+özel sektörde geçen süre 12 yılı geçemez.
+
+Ancak, T. C. Emekli Sandığı ve Sosyal Sigortalar kanunlarına tabi
+görevlerde bulunmuş olanların kazanılmış hakları saklıdır.
+
+Yapılacak intibak neticesinde ilgililerin girecekleri dereceler öğrenim
+durumlarına göre yükselebilecekleri derecenin son kademe aylığını
+geçemez.
+
+6 – Bu kanunun 4 üncü ve 237 nci maddesinin (e) fıkrasına göre sözleşme
+ile istihdam edilenlerin, memuriyete geçirilmeleri halinde, sözleşmeli
+olarak geçirdikleri hizmet süreleri, her yıl için bir kademe ilerlemesi
+ve her üç yıl için bir derece yükselmesi verilmek suretiyle
 değerlendirilir.
 
-             Yukarıdaki fıkralara göre, değerlendirilecek hizmet
-süresinden sadece özel sektörde geçen süre 12 yılı geçemez.
-
-             Ancak, T. C. Emekli Sandığı ve Sosyal Sigortalar
-kanunlarına tabi görevlerde bulunmuş olanların kazanılmış hakları
-saklıdır.
-
-             Yapılacak intibak neticesinde ilgililerin girecekleri
-dereceler öğrenim durumlarına göre yükselebilecekleri derecenin son
-kademe aylığını geçemez.
-
-             6 – Bu kanunun 4 üncü ve 237 nci maddesinin (e) fıkrasına
-göre sözleşme ile istihdam edilenlerin, memuriyete geçirilmeleri
-halinde, sözleşmeli olarak geçirdikleri hizmet süreleri, her yıl için
-bir kademe ilerlemesi ve her üç yıl için bir derece yükselmesi verilmek
-suretiyle değerlendirilir.
-
-             7 – 2834 ve 2836 sayılı kanunlara göre kurulmuş olan Tarım
-Kredi ve Tarım Satış Kooperatiflerinde çalışanlardan sonradan memuriyete
+7 – 2834 ve 2836 sayılı kanunlara göre kurulmuş olan Tarım Kredi ve
+Tarım Satış Kooperatiflerinde çalışanlardan sonradan memuriyete
 girenlerin bu kooperatiflerde geçen hizmetlerinin 12 yılı geçmemek üzere
 her yıl için bir kademe ilerlemesi ve her üç yılı için bir derece
 yükselmesi verilmek suretiyle değerlendirilir.
 
-             D) Memur iken, girişteki öğrenim derecelerinden bir üst
-derecedeki öğrenimi tamamlayanlar, bu üst öğrenim derecesi için 36 ncı
-maddede yazılı memuriyete giriş derecelerinde boş kadro bulunduğu
-takdirde bu kanunun 68 inci maddesinde yazılı derece yükselmesinde süre
-kaydı aranmaksızın bu derecedeki görevlere atanabilirler. 68 inci
-maddenin (A) bendinin (b) ve (c) fıkralarındaki hükümler saklıdır.
+D\) Memur iken, girişteki öğrenim derecelerinden bir üst derecedeki
+öğrenimi tamamlayanlar, bu üst öğrenim derecesi için 36 ncı maddede
+yazılı memuriyete giriş derecelerinde boş kadro bulunduğu takdirde bu
+kanunun 68 inci maddesinde yazılı derece yükselmesinde süre kaydı
+aranmaksızın bu derecedeki görevlere atanabilirler. 68 inci maddenin (A)
+bendinin (b) ve (c) fıkralarındaki hükümler saklıdır.
 
-            E) Sınıfların  giriş  derecelerinin  ileri  kademelerinden 
-işe  başlayanlarla  yukarıdaki   fıkralar   uyarınca   kendilerine  
-kademe ilerlemesi uygulananların,   kademe ilerlemesine   tekabül  
-eden  süreleri   68  inci  maddede  derece  yükselmesi  için  gerekli
+–––––––––––––––
+
+*(1) Anayasa Mahkemesi’nin 27/3/2014 tarihli ve E.: 2013/101, K.:
+2014/63 sayılı Kararı ile bu bentte yer alan “serbest” ibaresi iptal
+edilmiştir.*
 
 4193
 
- 
-
-[[]{#OLE_LINK7 .anchor}]{#OLE_LINK8 .anchor}olduğu öngörülen sürelerin
+E\) Sınıfların giriş derecelerinin ileri kademelerinden işe başlayanlarla
+yukarıdaki fıkralar uyarınca kendilerine kademe ilerlemesi
+uygulananların, kademe ilerlemesine tekabül eden süreleri 68 inci
+maddede derece yükselmesi için gerekli olduğu öngörülen sürelerin
 hesabında ayrıca değerlendirilir. Artan süreler üst derece ve kademedeki
 kanuni bekleme süresinde geçmiş sayılır.
 
-                F) **(Değişik birinci fıkra: 24/11/1994 - 4049/8 md.)**
-Bu kanunla tespit edilen çeşitli hizmet sınıfları mensuplarından
-Cumhurbaşkanlığı Genel Sekreterliğinde ve Türkiye Büyük Millet Meclisi
-Başkanlığı İdari Teşkilatında asli ve sürekli görevlerde bulunanların
-kadro, unvan, derece ile intibak ve diğer haklarının tespit ve
-kullanılması ile ilgili yetkiler Cumhurbaşkanlığı Genel Sekreterliği ile
-Türkiye Büyük Millet Meclisi Başkanlık Divanına aittir.^(1)(2)^
+[[]{#OLE_LINK8 .anchor}]{#OLE_LINK7 .anchor} F) **(Değişik birinci
+fıkra: 24/11/1994 - 4049/8 md.)** Bu kanunla tespit edilen çeşitli
+hizmet sınıfları mensuplarından Cumhurbaşkanlığı Genel Sekreterliğinde
+ve Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatında asli ve
+sürekli görevlerde bulunanların kadro, ünvan, derece ile intibak ve
+diğer haklarının tespit ve kullanılması ile ilgili yetkiler
+Cumhurbaşkanlığı Genel Sekreterliği ile Türkiye Büyük Millet Meclisi
+Başkanlık Divanına aittir.^(1)(2)^
 
-             Bu kanunla tespit edilen çeşitli hizmet sınıflarına dahil
-olup da MİT Müsteşarlığı emrinde çalışan MİT mensuplarının atama, derece
-yükselmesi ve kademe ilerlemesi ve disiplin hükümleri ile ilgili
-yetkilerin kullanılmasının düzenlenmesi Başbakana aittir.
+Bu kanunla tespit edilen çeşitli hizmet sınıflarına dahil olup da MİT
+Müsteşarlığı emrinde çalışan MİT mensuplarının atama, derece yükselmesi
+ve kademe ilerlemesi ve disiplin hükümleri ile ilgili yetkilerin
+kullanılmasının düzenlenmesi Başbakana aittir.
 
-             Milli İstihbarat hizmetleri sınıfına yapılan atamalarda bu
-maddenin (A) bendinin (8/a- b) fıkralarındaki derece ve kademe
-ilerlemesi ile ilgili hükümleri uygulanır.
+Milli İstihbarat hizmetleri sınıfına yapılan atamalarda bu maddenin (A)
+bendinin (8/a- b) fıkralarındaki derece ve kademe ilerlemesi ile ilgili
+hükümleri uygulanır.
 
-             G) Bu maddede sayılan sınıfların ve fıkraların kapsamının
-tayininde, benzeri veya eşdeğer öğrenim veya hizmetler; ilgili Bakanlık
-veya kuruluşun teklifi üzerine alakalı öğretim kurumu ile Milli Eğitim
+G\) Bu maddede sayılan sınıfların ve fıkraların kapsamının tayininde,
+benzeri veya eşdeğer öğrenim veya hizmetler; ilgili Bakanlık veya
+kuruluşun teklifi üzerine alakalı öğretim kurumu ile Milli Eğitim
 Bakanlığının muadelet tevsiki ve Maliye Bakanlığı ile Devlet Personel
 Başkanlığının mütalaası alınarak Bakanlar Kurulunca tespit olunur.
 
-             *Yükselinebilecek derecenin üstünde bir dereceye yükselme:*
-^(3)^
+*Yükselinebilecek derecenin üstünde bir dereceye yükselme:* ^(3)^
 
-**             Madde 37 – (Yeniden düzenleme 29/11/1984 - KHK - 243/2
-md.)**
+**Madde 37 – (Yeniden düzenleme 29/11/1984 - KHK - 243/2 md.)**
 
-             Bu kanun hükümlerine göre öğrenim durumları, hizmet
-sınıfları ve görev unvanları itibariyle azami yükselebilecekleri
-derecelerin dördüncü kademesinden aylık almaya hak kazanan ve son sekiz
-yıllık süre içinde herhangi bir disiplin cezası almayanların kazanılmış
-hak aylıkları kadro şartı aranmaksızın bir üst dereceye yükseltilir.
+Bu kanun hükümlerine göre öğrenim durumları, hizmet sınıfları ve görev
+unvanları itibariyle azami yükselebilecekleri derecelerin dördüncü
+kademesinden aylık almaya hak kazanan ve son sekiz yıllık süre içinde
+herhangi bir disiplin cezası almayanların kazanılmış hak aylıkları kadro
+şartı aranmaksızın bir üst dereceye yükseltilir.
 
-             Kademe:
+*Kademe:*
 
-             **Madde 38 – (Mülga: 13/2/2011-6111/117 md.)**
+**Madde 38 – (Mülga: 13/2/2011-6111/117 md.)**
 
-             Sınıf dışında kadro ihdas edilemiyeceği:
+*Sınıf dışında kadro ihdas edilemiyeceği:*
 
-             **Madde 39 –** Bu kanuna tabi kurumlarda sınıflar dışında
-memurluk kadroları ihdas edilemez.
-
-             Memuriyete girişte yaş:
-
-**             Madde 40 – (Değişik: 31/7/1970 - 1327/11 md.)**
-
-             Genel olarak 18 yaşını tamamlıyanlar Devlet memuru
-olabilirler.
-
-             Bir meslek veya sanat okulunu bitirenler en az 15 yaşını
-doldurmuş olmak ve Türk Medeni Kanununun 12 nci maddesine göre kazai
-rüşt kararı almak şartiyle Devlet memurluklarına atanabilirler.
-
-             Sınıflandırmada öğrenim unsuru:
-
-**             Madde 41 – (Değişik: 30/5/1974 - KHK - 12/1 md.; Aynen
-kabul: 15/5/1975 - 1897/1 md.)**
-
-             Genel olarak ortaokulu bitirenler memur olabilirler.
-Ortaokul mezunlarından istekli bulunmadığı takdirde ilkokulu
-bitirenlerin de alınması caizdir. Bir sınıfta belli görevlere
-atanabilmek veya bu görevlerde belli derecelere yükselebilmek için,
-kuruluş kanunları veya bu kanun ve kuruluş kanunlarına dayanılarak
-çıkarılacak yönetmelikler ile işin gereğine göre daha yüksek öğrenim
-dereceleri veya muayyen fakülte, okul veya öğrenim dallarını veya meslek
-içi veya meslekle ilgili eğitim programlarını bitirmiş olmak veya
-yabancı dil bilmek gibi şartlar konulabilir.
+**Madde 39 –** Bu kanuna tabi kurumlarda sınıflar dışında memurluk
+kadroları ihdas edilemez.
 
 –––––––––––
 
@@ -1870,285 +1835,210 @@ yukarı olanlardan son sicil notu olumlu bulunanların” ibaresi “son sekiz
 yıllık süre içinde herhangi bir disiplin cezası almayanların” olarak
 değiştirilmiş ve metne işlenmiştir.*
 
- 
-
-* *
-
 4194
 
- 
+*Memuriyete girişte yaş:*
 
-             Yetişme ve deneme süresi:
+**Madde 40 – (Değişik: 31/7/1970 - 1327/11 md.)**
 
-**             Madde 42 – (Mülga: 31/7/1970 - 1327/13 md.)**
+Genel olarak 18 yaşını tamamlıyanlar Devlet memuru olabilirler.
 
-             Göstergeler:
+Bir meslek veya sanat okulunu bitirenler en az 15 yaşını doldurmuş olmak
+ve Türk Medeni Kanununun 12 nci maddesine göre kazai rüşt kararı almak
+şartiyle Devlet memurluklarına atanabilirler.
 
-**             Madde 43 – (Değişik: 12/2/1982 - 2595/1 md.)**
+*Sınıflandırmada öğrenim unsuru:*
 
-             Bu Kanuna tabi kurumların kadrolarında bulunan personelin
-aylık ve ek göstergeleri aşağıda gösterildiği şekilde tespit edilir:
+**Madde 41 – (Değişik: 30/5/1974 - KHK - 12/1 md.; Aynen kabul:
+15/5/1975 - 1897/1 md.)**
 
-             A) Aylık Göstergesi: Bütün sınıflar itibariyle her derece
-ve kademenin aylıklarının hesaplanmasına esas teşkil edecek Aylık
-Gösterge Tablosu aşağıdaki I Numaralı Cetvelde gösterilmiştir.
+Genel olarak ortaokulu bitirenler memur olabilirler. Ortaokul
+mezunlarından istekli bulunmadığı takdirde ilkokulu bitirenlerin de
+alınması caizdir. Bir sınıfta belli görevlere atanabilmek veya bu
+görevlerde belli derecelere yükselebilmek için, kuruluş kanunları veya
+bu kanun ve kuruluş kanunlarına dayanılarak çıkarılacak yönetmelikler
+ile işin gereğine göre daha yüksek öğrenim dereceleri veya muayyen
+fakülte, okul veya öğrenim dallarını veya meslek içi veya meslekle
+ilgili eğitim programlarını bitirmiş olmak veya yabancı dil bilmek gibi
+şartlar konulabilir.
 
-**                                                               I
-Numaralı Cetvel**
+[[]{#ole_link8 .anchor}]{#ole_link7 .anchor} *Yetişme ve deneme süresi:*
 
-**                                               AYLIK GÖSTERGE TABLOSU
-(1) **
+**Madde 42 – (Mülga: 31/7/1970 - 1327/13 md.)**
 
-                                                                   
-Kademeler              
+*Göstergeler:*
 
-*      Dereceler              1            2             3           
-4            5            6             7            8             9*
+**Madde 43 – (Değişik: 12/2/1982 - 2595/1 md.)**
 
-           1                     1320      1380      1440      
-1500        –             –            –             –            –
+Bu Kanuna tabi kurumların kadrolarında bulunan personelin aylık ve ek
+göstergeleri aşağıda gösterildiği şekilde tespit edilir:
 
-           2                     1155      1210      1265       1320    
-1380       1440         –             –            –
+A\) Aylık Göstergesi: Bütün sınıflar itibariyle her derece ve kademenin
+aylıklarının hesaplanmasına esas teşkil edecek Aylık Gösterge Tablosu
+aşağıdaki I Numaralı Cetvelde gösterilmiştir.
 
-           3                     1020      1065      1110       1155    
-1210       1265      1320       1380         –
+**I Numaralı Cetvel**
 
-           4                       915        950        985      
-1020     1065       1110      1155       1210      1265
+**AYLIK GÖSTERGE TABLOSU ^(1)^ **
 
-           5                       835        865        895        
-915       950         985      1020       1065      1110
+Kademeler
 
-           6                       760        785        810        
-835       865         895        915         950        985
+*Dereceler 1 2 3 4 5 6 7 8 9*
 
-           7                       705        720        740        
-760       785         810        835         865        895
+1 1320 1380 1440 1500 – – – – –
 
-           8                       660        675        690        
-705       720         740        760         785        810
+2 1155 1210 1265 1320 1380 1440 – – –
 
-           9                       620        630        645        
-660       675         690        705         720        740
+3 1020 1065 1110 1155 1210 1265 1320 1380 –
 
-         10                       590        600        610        
-620       630         645        660         675        690
+4 915 950 985 1020 1065 1110 1155 1210 1265
 
-         11                       560        570        580        
-590       600         610        620         630        645
+5 835 865 895 915 950 985 1020 1065 1110
 
-         12                       545        550        555        
-560       570         580        590         600        610
+6 760 785 810 835 865 895 915 950 985
 
-         13                       530        535        540        
-545       550         555        560         570        580
+7 705 720 740 760 785 810 835 865 895
 
-         14                       515        520        525        
-530       535         540        545         550        555
+8 660 675 690 705 720 740 760 785 810
 
-         15                       500        505        510        
-515       520         525        530         535        540
+9 620 630 645 660 675 690 705 720 740
 
- 
+10 590 600 610 620 630 645 660 675 690
 
-             B) **(Değişik: 9/4/1990 - KHK - 418/2 md.; iptal: Ana.
-Mah.'nin 5/2/1992 tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile;
-yeniden düzenleme: 18/5/1994 - KHK - 527/2 md.)** Ek Gösterge: Bu Kanuna
-tabi kurumların kadrolarında bulunan personelin aylıkları; hizmet
-sınıfları, görev türleri ve aylık alınan dereceler dikkate alınarak bu
-kanuna ekli I ve II sayılı cetvellerde gösterilen ek gösterge
-rakamlarının eklenmesi suretiyle hesaplanır. II sayılı cetvelde yer alan
-unvanlarda değişiklik yapmaya ve yeni unvanlar ilave etmeye Bakanlar
-Kurulu yetkilidir.
+11 560 570 580 590 600 610 620 630 645
 
-             Bu ek göstergeler, ilgililerin belirtilen sınıf ve
-görevlerde bulundukları sürece ödemelere esas alınıp, terfi bakımından
-kazanılmış hak sayılmaz. Kurumların 1,2,3 ve 4 üncü dereceli kadrolarına
-atananlara uygulanacak ek göstergeler, ilgililerin daha önce bulunmuş
-oldukları kariyerleri ile ilgili sınıf  veya ekli I sayılı Cetvelin
-Genel İdare Hizmetleri Sınıfı (g) bölümünde belirtilen görevlerde
-kazanılmış hak aylık derecelerine göre alabilecekleri ek göstergelerden
-düşük olamaz.
+12 545 550 555 560 570 580 590 600 610
 
-**             (Değişik: 23/2/1995 - KHK - 547/7 md.)**
+13 530 535 540 545 550 555 560 570 580
 
-             Başbakanlık Yüksek Denetleme Kurulu Başkan ve Üyelikleri,
-Milli Eğitim Bakanlığı Talim ve Terbiye Kurulu Başkan ve
-üyelikleri,Bayındırlık ve İskan Bakanlığı Yüksek Fen Kurulu Başkan ve
-Üyelikleri, Müşavir ve 1'inci dereceden uzman ünvanlı kadrolara
-atananlara bu kadrolarda bulundukları sürece daha önce almış oldukları
-en yüksek ek gösterge üzerinden ödeme yapılır.
+14 515 520 525 530 535 540 545 550 555
 
-             Kadroları Milli İstihbarat Hizmetleri Sınıfına dahil
-olanlara, bu maddede gösterilen emsallerini geçmemek üzere Başbakan
-tarafından tespit edilecek ek gösterge rakamları uygulanır.
-
- 
+15 500 505 510 515 520 525 530 535 540
 
 ——————————
 
-(1)    Bu tablodaki gösterge rakamları 10/4/1989 tarih ve 366 sayılı
-KHK'nin 1 inci maddesi ile değiştirilmiş ve metne işlenmiştir.
+*(1)Bu tablodaki gösterge rakamları 10/4/1989 tarih ve 366 sayılı
+KHK'nin 1 inci maddesi ile değiştirilmiş ve metne işlenmiştir.*
 
 4195-4197
 
- 
+B\) **(Değişik: 9/4/1990 - KHK - 418/2 md.; iptal: Ana. Mah.'nin 5/2/1992
+tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile; yeniden düzenleme:
+18/5/1994 - KHK - 527/2 md.)** Ek Gösterge: Bu Kanuna tabi kurumların
+kadrolarında bulunan personelin aylıkları; hizmet sınıfları, görev
+türleri ve aylık alınan dereceler dikkate alınarak bu kanuna ekli I ve
+II sayılı cetvellerde gösterilen ek gösterge rakamlarının eklenmesi
+suretiyle hesaplanır. II sayılı cetvelde yer alan unvanlarda değişiklik
+yapmaya ve yeni unvanlar ilave etmeye Bakanlar Kurulu yetkilidir.
 
-             Çalışma yaş hadleri:
+Bu ek göstergeler, ilgililerin belirtilen sınıf ve görevlerde
+bulundukları sürece ödemelere esas alınıp, terfi bakımından kazanılmış
+hak sayılmaz. Kurumların 1,2,3 ve 4 üncü dereceli kadrolarına atananlara
+uygulanacak ek göstergeler, ilgililerin daha önce bulunmuş oldukları
+kariyerleri ile ilgili sınıf veya ekli I sayılı Cetvelin Genel İdare
+Hizmetleri Sınıfı (g) bölümünde belirtilen görevlerde kazanılmış hak
+aylık derecelerine göre alabilecekleri ek göstergelerden düşük olamaz.
 
-**             Madde 44 – (Mülga: 31/7/1970 - 1327/15 md.)**
+**(Değişik: 23/2/1995 - KHK - 547/7 md.)**
 
-             *Memurun başka sınıfta ve derecesinin altında bir görevde
+Başbakanlık Yüksek Denetleme Kurulu Başkan ve Üyelikleri,Milli Eğitim
+Bakanlığı Talim ve Terbiye Kurulu Başkan ve üyelikleri,Bayındırlık ve
+İskan Bakanlığı Yüksek Fen Kurulu Başkan ve Üyelikleri, Müşavir ve
+1'inci dereceden uzman ünvanlı kadrolara atananlara bu kadrolarda
+bulundukları sürece daha önce almış oldukları en yüksek ek gösterge
+üzerinden ödeme yapılır.
+
+Kadroları Milli İstihbarat Hizmetleri Sınıfına dahil olanlara, bu
+maddede gösterilen emsallerini geçmemek üzere Başbakan tarafından tespit
+edilecek ek gösterge rakamları uygulanır.
+
+*Çalışma yaş hadleri:*
+
+**Madde 44 – (Mülga: 31/7/1970 - 1327/15 md.)**
+
+*Memurun başka sınıfta ve derecesinin altında bir görevde
 çalıştırılmıyacağı:*
 
-**             Madde 45 – (Değişik: 30/5/1974 - KHK/12; Aynen kabul:
-15/5/1975 - 1897/1 md.) **
+**Madde 45 – (Değişik: 30/5/1974 - KHK/12; Aynen kabul: 15/5/1975 -
+1897/1 md.) **
 
-             Hiç bir memur sınıfının dışında ve sınıfının içindeki
-derecesinin altında bir derecenin görevinde çalıştırılamaz.
+Hiç bir memur sınıfının dışında ve sınıfının içindeki derecesinin
+altında bir derecenin görevinde çalıştırılamaz.
 
-             **(Değişik: 12/2/1982 - 2595/2 md.)** 5 inci ve daha aşağı
-derecelerdeki kadrolara, derece yükselmesi için gerekli nitelikleri haiz
-memur bulunmaması hallerinde, 36 ncı maddede belirtilen öğrenim
-durumları itibariyle tespit olunan yükselinebilecek dereceyi aşmamak ve
-karşılık gösterilecek kadro derecesi kazanılmış hak aylık derecelerinin
-üç üst derecesinden fazla olmamak kaydıyla, bu dereceler karşılık
-gösterilerek, kendi derecesi ile aynı sınıftan memur atanması mümkündür.
+**(Değişik: 12/2/1982 - 2595/2 md.)** 5 inci ve daha aşağı derecelerdeki
+kadrolara, derece yükselmesi için gerekli nitelikleri haiz memur
+bulunmaması hallerinde, 36 ncı maddede belirtilen öğrenim durumları
+itibariyle tespit olunan yükselinebilecek dereceyi aşmamak ve karşılık
+gösterilecek kadro derecesi kazanılmış hak aylık derecelerinin üç üst
+derecesinden fazla olmamak kaydıyla, bu dereceler karşılık gösterilerek,
+kendi derecesi ile aynı sınıftan memur atanması mümkündür.
 
-             Bu gibiler, işgal ettikleri kadroda kazanılmış derece ve
-kademelerinin aylığını almaya devam ederler ve kazanılmış aylıklarındaki
-kademe ilerlemesi ve derece yükselmesi genel esaslara göre yapılır.
-Karşılık gösterilen kadrolar, ilgililer için kazanılmış hak teşkil
-etmez.
+Bu gibiler, işgal ettikleri kadroda kazanılmış derece ve kademelerinin
+aylığını almaya devam ederler ve kazanılmış aylıklarındaki kademe
+ilerlemesi ve derece yükselmesi genel esaslara göre yapılır. Karşılık
+gösterilen kadrolar, ilgililer için kazanılmış hak teşkil etmez.
 
- 
+4198
 
-                                                                    
 KISIM - III
 
-                                                        Devlet
-Memurluğuna Alınma
+*Devlet Memurluğuna Alınma*
 
- 
-
-                                                                     
 BÖLÜM:1
 
-                                                                          
-Usul
+*Usul*
 
- 
+*Atama yapılacak boş kadroların bildirilmesi:*
 
-             Atama yapılacak boş kadroların bildirilmesi:
+**Madde 46 – (Değişik: 12/5/1982 - 2670/12 md.)**
 
-**             Madde 46 – (Değişik: 12/5/1982 - 2670/12 md.)**
+Bakanlıklar ile diğer kamu kurum ve kuruluşları (Milli İstihbarat
+Teşkilatı Müsteşarlığı hariç), personel atamasına lüzum gördükleri boş
+kadroların sayılarını, sınıf ve derecelerini belirterek Devlet Personel
+Başkanlığına bildirirler.
 
-             Bakanlıklar ile diğer kamu kurum ve kuruluşları (Milli
-İstihbarat Teşkilatı Müsteşarlığı hariç), personel atamasına lüzum
-gördükleri boş kadroların sayılarını, sınıf ve derecelerini belirterek
-Devlet Personel Başkanlığına bildirirler.
+*Duyurma:*
 
-             Duyurma:
+**Madde 47 – (Değişik: 12/5/1982 - 2670/13 md.)**
 
-**             Madde 47 – (Değişik: 12/5/1982 - 2670/13 md.)**
-
-             Devlet Personel Başkanlığı atama yapılacak boş kadroların
-sınıf ve derecelerini, kadroların bulundukları kurum ve yerlerini,
-kadrolara alınacak personel sayılarını, alınacak personelin genel ve
-özel şartlarını, en son başvurma tarihini, başvurulacak mercileri, sınav
+Devlet Personel Başkanlığı atama yapılacak boş kadroların sınıf ve
+derecelerini, kadroların bulundukları kurum ve yerlerini, kadrolara
+alınacak personel sayılarını, alınacak personelin genel ve özel
+şartlarını, en son başvurma tarihini, başvurulacak mercileri, sınav
 yerlerini ve zamanlarını ve gerek görülen diğer bilgileri başvurma
 süresinin bitiminden en az 15 gün önce Resmi Gazete, radyo, televizyon
 ve ülke çapında tirajı yüksek gazetelerden asgari biri ve uygun
 görülecek diğer araçlar ile duyurur.
 
-             Sınavsız atama yapılacak yerlere kadro adedinden fazla
-istekli bulunduğu takdirde açılacak sınavın gün ve yeri yukarıdaki
-şartlara uygun olarak ayrıca duyurulur.
+Sınavsız atama yapılacak yerlere kadro adedinden fazla istekli bulunduğu
+takdirde açılacak sınavın gün ve yeri yukarıdaki şartlara uygun olarak
+ayrıca duyurulur.
 
-4198
-
- 
-
-                                                                    
 BÖLÜM : 2
 
-                                                                        
-Şartlar
+*Şartlar*
 
- 
+*Genel ve özel şartlar:*
 
-             Genel ve özel şartlar:
+**Madde 48 – (Değişik: 12/5/1982 - 2670/14 md.)**
 
-**             Madde 48 – (Değişik: 12/5/1982 - 2670/14 md.)**
+Devlet memurluğuna alınacaklarda aşağıdaki genel ve özel şartlar aranır.
 
-             Devlet memurluğuna alınacaklarda aşağıdaki genel ve özel
-şartlar aranır.
+A\) Genel şartlar:
 
-             A) Genel şartlar:
+1\. Türk Vatandaşı olmak,^(1)^
 
-             1. Türk Vatandaşı olmak,^(1)^
+2\. Bu Kanunun 40 ncı maddesindeki yaş şartlarını taşımak,
 
-             2. Bu Kanunun 40 ncı maddesindeki yaş şartlarını taşımak,
+3\. Bu Kanunun 41 nci maddesindeki öğrenim şartlarını taşımak,
 
-             3. Bu Kanunun 41 nci maddesindeki öğrenim şartlarını
-taşımak,
-
-             4. Kamu haklarından mahrum bulunmamak,
-
- 
-
-**             **
-
-**             (Dikkat! devamı 4199 uncu sayfadadır.)**
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
-
-** **
+4\. Kamu haklarından mahrum bulunmamak,
 
 ———————————
 
-(1)    Bulgaristan'dan Türkiye'ye mecburi göç eden Türk soyundan
-olanlarda bu şartın aranmıyacağı 27/6/1989 tarih ve 375 sayılı KHK'nin
-geçici 5 inci maddesi ile hükme bağlanmıştır.
+*(1) Bulgaristan'dan Türkiye'ye mecburi göç eden Türk soyundan olanlarda
+bu şartın aranmıyacağı 27/6/1989 tarih ve 375 sayılı KHK'nin geçici 5
+inci maddesi ile hükme bağlanmıştır.*
 
 4199
 
@@ -13773,6 +13663,8 @@ fıkraları                                
   Anayasa Mahkemesi’nin 14/11/2013 tarihli ve E.: 2013/15, K.: 2013/131 sayılı Kararı    57                                                                     28/2/2014
 
   6528                                                                                   36, 152, I sayılı Cetvel                                               14/3/2014
+
+  Anayasa Mahkemesi’nin 27/3/2014 tarihli ve E.: 2013/101, K.: 2014/63 sayılı Kararı     36                                                                     22/7/2014
   -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- --------------------------------------
 
 
