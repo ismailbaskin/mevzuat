@@ -1,4 +1,4 @@
-**7/5/2004 tarihli ve 5170 sayılı Kanun ile değişik hali**
+**21/6/2005 tarihli ve 5370 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -2603,12 +2603,23 @@ düzenlenir.
 **Madde 132** - Türk Silahlı Kuvvetleri ve emniyet teşkilatına bağlı
 yükseköğretim kurumları özel kanunlarının hükümlerine tabidir.
 
-*F. Radyo ve televizyon kuruluşları ve kamuyla ilişkili haber ajansları*
+*F. Radyo ve Televizyon Üst Kurulu, radyo ve televizyon kuruluşları ve
+kamuyla ilişkili haber ajansları ^(1)^*
 
 **Madde 133 – (Değişik: 8/7/1993-3913/1 md.)**
 
 Radyo ve televizyon istasyonları kurmak ve işletmek kanunla düzenlenecek
 şartlar çerçevesinde serbesttir.
+
+**(Ek fıkra: 21/6/2005-5370/1 md.)** Radyo ve televizyon faaliyetlerini
+düzenlemek ve denetlemek amacıyla kurulan Radyo ve Televizyon Üst Kurulu
+dokuz üyeden oluşur. Üyeler, siyasi parti gruplarının üye sayısı
+oranında belirlenecek üye sayısının ikişer katı olarak gösterecekleri
+adaylar arasından, her siyasi parti grubuna düşen üye sayısı esas
+alınmak suretiyle Türkiye Büyük Millet Meclisi Genel Kurulunca seçilir.
+Radyo ve Televizyon Üst Kurulunun kuruluşu, görev ve yetkileri,
+üyelerinin nitelikleri, seçim usulleri ve görev süreleri kanunla
+düzenlenir.
 
 Devletçe kamu tüzelkişiliği olarak kurulan tek radyo ve televizyon
 kurumu ile kamu tüzelkişilerinden yardım gören haber ajanslarının
@@ -2628,7 +2639,9 @@ Kültür, Dil ve Tarih Yüksek Kurumu" kurulur.
 
 *(1) Bu madde başlığı “F. Radyo ve Televizyon İdaresi ve kamuyla
 ilişkili haber ajansları” iken, 8/7/1993 tarihli ve 3913 sayılı Kanunun
-1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+1 inci maddesiyle F. Radyo ve televizyon kuruluşları ve kamuyla ilişkili
+haber ajansları şeklinde, daha sonra 21/6/2005 tarihli ve 5370 sayılı
+Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.*
 
 Türk Dil Kurumu ile Türk Tarih Kurumu için Atatürk'ün vasiyetnamesinde
 belirtilen mali menfaatler saklı olup kendilerine tahsis edilir.
@@ -3800,6 +3813,11 @@ oylamasına sunulması halinde tümüyle oylanır.
 **Madde 11 —** Bu Kanun yayımı tarihinde yürürlüğe girer ve
 halkoylamasına sunulması halinde tümüyle oylanır.
 
+**7- 21/6/2005 tarihli ve 5370 sayılı Kanunun 2 nci Maddesi:**
+
+**Madde 2** — Bu Kanun yayımı tarihinde yürürlüğe girer ve
+halkoylamasına sunulması halinde oylanır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
@@ -3832,6 +3850,8 @@ halkoylamasına sunulması halinde tümüyle oylanır.
   5170                   10, 15, 17, 30, 38, 87, 87, 90, 131, 143, 160,                                                                                                                                          22/5/2004
                                                                                                                                                                                                                  
                          İşlenemeyen Hüküm                                                                                                                                                                       
+
+  5370                   133, İşlenemeyen Hüküm                                                                                                                                                                  23/6/2005
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
