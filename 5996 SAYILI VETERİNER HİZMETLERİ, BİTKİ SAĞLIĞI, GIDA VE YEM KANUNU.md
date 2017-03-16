@@ -1,6 +1,6 @@
- **Anayasa Mahkemesinin 20/3/2013 tarihli ve**
+10559
 
-**E: 2012/76, K: 2013/44 sayılı Kararı ile değişik hali**
+ 
 
 **VETERİNER HİZMETLERİ, BİTKİ SAĞLIĞI, GIDA VE YEM KANUNU**
 
@@ -727,21 +727,8 @@ depolayanlar ve dağıtanlar Bakanlıktan izin almak zorundadır. Üreme
 \(5) Bakanlık, hayvan gen kaynaklarının korunmasına yönelik tedbirleri
 alır, uygular veya uygulatır.
 
-\(6) Gerçek veya tüzel kişiler, hayvan gen kaynaklarının korunması,
-ıslahı, geliştirilmesi, yaygınlaştırılması ve pazarlama amacına yönelik
-özel hukuk hükümlerine tabi birlikler şeklinde organizasyonlar
-kurabilir. Bu organizasyonlar, 24/4/1969 tarihli ve 1163 sayılı
-Kooperatifler Kanununa göre kurulan kooperatiflere sağlanan her türlü
-vergi ve harç muafiyetinden aynı koşullarla yararlanır. Bakanlık, hayvan
-gen kaynaklarının korunması, ıslahı, geliştirilmesi, yaygınlaştırılması
-ve belgelendirme gibi konularda bu organizasyonlarla işbirliği yapabilir
-ve bunların bu Kanun kapsamındaki faaliyetlerini kontrol eder.
-Birlikler; merkez birliği şeklinde örgütlenebilir ve ihtiyaç duyduğu
-yerlerde şube açabilir, asli görevlerini yürütmek üzere teknik ve sağlık
-personeli çalıştırabilir. Bakanlık; birliklere teknik hizmetler, sağlık
-hizmetleri ve eğitim konusunda gerektiğinde aynî ve nakdî destek
-verebilir, birliklerin personel ve tesislerinden yararlanma talebinde
-bulunabilir.^(1)^
+\(6) **(İptal: Anayasa Mahkemesi’nin 20/3/2013 tarihli ve E:2012/76, K:
+2013/44 sayılı Kararı ile.; ^(1)^ Mülga: 28/1/2015-6589/8 md.)**
 
 \(7) Bakanlık, hayvan ırklarının tescili ile ilgili iş ve işlemleri
 belirler ve yürütür. Tescil edilen hayvanların sınaî mülkiyet hakları
@@ -750,14 +737,10 @@ temsilcilerine aittir.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1)7/11/2013 tarihli ve 28814 sayılı Resmi Gazete’de yayımlanan Anayasa
-Mahkemesinin 20/3/2013 tarihli ve E:2012/76, K: 2013/44 numaralı Kararı
-ile bu fıkra iptal edilmiş ve kararın Resmî Gazete’de yayımlanmasından
-başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.*
+*(1) Sözkonusu İptal Kararı Resmi Gazete’de yayımlandığı 7/11/2013
+tarihinden başlayarak bir yıl sonra yürürlüğe girmiştir.*
 
 10570
-
- 
 
 \(8) Damızlık, yarış ve gösteri amaçlı hayvanların belgelendirilmesi
 zorunludur. Belgelen-dirmeye ilişkin esaslar, iş ve işlemler ile belge
@@ -809,6 +792,348 @@ zorunludur.
 \(15) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça
 çıkarılacak yönetmelik ile belirlenir.
 
+**Islah amaçlı yetiştirici birlikleri**
+
+**MADDE 10/A- (Ek: 28/1/2015-6589/1 md.)**
+
+\(1) Hayvan gen kaynaklarının korunması, araştırılması, tespiti, ıslahı,
+geliştirilmesi, yaygınlaştırılması ve pazarlanması konularında faaliyet
+göstermek amacıyla gerçek veya tüzel kişi yetiştiriciler tarafından,
+tüzel kişiliği haiz ve özel hukuk hükümlerine tabi ıslah amaçlı
+yetiştirici birliği kurulabilir.
+
+10570-1
+
+\(2) Islah amaçlı yetiştirici birliği, koyun ve keçi türlerinde
+müştereken, diğer hayvan cinslerinde ise aynı türden hayvana veya arılı
+kovana sahip en az yedi yetiştiricinin bir araya gelmesiyle kurulur. İl
+düzeyinde ıslah amacına yönelik aynı türden yalnızca bir birlik
+kurulabilir. Kurucu üyelerce hazırlanıp imzalanan ve Bakanlık tarafından
+yayımlanan tip ana sözleşmeye aykırı hükümler içermeyen ana sözleşme
+Bakanlık il müdürlüğüne verilir. Birliğin kuruluşuna izin verilmesi
+hâlinde ana sözleşme, kurucu üyelerin başvurusu üzerine birliğin
+bulunduğu yer ticaret sicilinde tescil ve ilan olunur. Birlik, ticaret
+siciline tescil ile tüzel kişilik kazanır ve tescilden itibaren üç ay
+içinde ilk genel kurul toplantısını yapar. İlk toplantıda birlik asıl
+üye sayısının yönetim ve denetleme kurullarını oluşturacak sayının
+altında olduğunun tespiti hâlinde, toplantı tarihinden itibaren bir ay
+içinde ikinci genel kurul toplantısı yapılır. Bu toplantıda da yeterli
+asıl üye sayısına ulaşılamaması hâlinde birlik, Bakanlık il müdürlüğünün
+onayı ile dağılır. Birlikler, ihtiyaç duyulan yerlerde Bakanlığın
+izniyle şube veya irtibat bürosu açabilir; birliğin görevlerini yürütmek
+üzere ihtiyaç duyduğu sayıda personel çalıştırabilir.
+
+\(3) Ana sözleşmede aşağıda belirtilen hususlara yer verilir:
+
+a\) Birliğin adı, amacı ve görevleri
+
+b\) Üyeliğe ilişkin şartlar ve üyeliğin sonlandırılması
+
+c\) Gelir, gider ve diğer mali hükümler
+
+ç) Sorumluluklar
+
+d\) Yönetim, sevk ve idare
+
+e\) Temsil ve tescil
+
+f\) Dağılma ve tasfiye
+
+g\) Denetim
+
+ğ) Diğer konular
+
+\(4) Birlikler, merkez birliği şeklinde örgütlenebilir ve faaliyet alanı
+ile ilgili bir merkez birliği kurabilir. Merkez birliklerinin kuruluşu
+ve dağılması birliklerde uygulanan esaslara tabi olmakla birlikte,
+kuruluş ve dağılma onayı Bakanlık tarafından verilir. Merkez birliği en
+az yedi il birliğinden oluşur. Merkez birliği genel kurulu, üye
+birliklerin asıl üye sayısına göre yönetmelikle belirlenecek oranlarda
+seçilecek delegelerden oluşur.
+
+\(5) Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça
+çıkarılan yönetmelikle belirlenir.
+
+**Islah amaçlı yetiştirici birliklerinin organları, yetki ve
+sorumlulukları**
+
+**MADDE 10/B- (Ek: 28/1/2015-6589/2 md.)**
+
+\(1) Birlik; aşağıda belirtilen genel kurul, yönetim kurulu ve denetleme
+kurulundan oluşur.
+
+a\) Genel kurul, birliği temsil eden en yetkili organdır. Genel kurul
+olağan ve gerektiğinde olağanüstü olarak toplanır. Olağan toplantının
+dört yılda bir, mali toplantının iki yılda bir yapılması zorunludur.
+Genel kurul, asıl üye tam sayısının salt çoğunluğu ile toplanır. Genel
+kurulda toplantı için gerekli çoğunluk sağlanamadığı takdirde, çoğunluk
+aranmaksızın en geç otuz gün içinde ikinci toplantı yapılır. Ana
+sözleşmede nitelikli çoğunluk gerektiren hüküm bulunmadıkça toplantıya
+katılanların salt çoğunluğu ile karar alınır. Birlik, yönetim kurulu
+kararıyla doğrudan veya denetleme kurulu, gerektiğinde tasfiye kurulu ya
+da asıl üyelerin en az onda birinin noter onaylı talebiyle yönetim
+kurulu tarafından olağanüstü genel kurul toplantısına çağrılabilir.
+Ancak Bakanlık, genel kurul yukarıda belirtildiği şekilde toplanamadığı
+takdirde veya kamu yararı ve hizmet gereklerini dikkate alarak genel
+kurulu toplantıya çağırma yetkisine sahiptir. Genel kurul, aşağıda
+belirlenen yetkilerini devir ve terk edemez:
+
+10570-2
+
+1\) Ana sözleşmeyi değiştirmek
+
+2\) Yönetim kurulu ve denetleme kurulu üyeleriyle gerektiğinde tasfiye
+kurulunu seçmek
+
+3\) İşletme hesabıyla bilanço ve gerektiğinde gelir gider farkının
+bölüşülmesi hakkında karar almak
+
+4\) Yönetim kurulu ve denetleme kurulunu ibra etmek
+
+5\) Kanun veya ana sözleşme ile genel kurulun yetkisine bırakılmış olan
+konular hakkında karar vermek
+
+6\) Alım, satım ve kiralama hizmetlerinde takip edilecek usul ile
+alınacak ürünün niteliğini, azami fiyatını, satılacak ya da kiralanacak
+ürün ve hizmetlerin asgari fiyatını belirlemek
+
+b\) Yönetim kurulu, birliğin faaliyetlerini yöneten ve birliği temsil
+eden icra organıdır. Yönetim kurulu, genel kurul tarafından en az beş en
+fazla yedi asıl ve aynı sayıda yedek üyeden oluşmak üzere, dört yıl için
+seçilir. Bunların ve yedeklerinin asıl üye olması şarttır. Yönetim
+kurulu üyeliğine seçilen tüzel kişiler, temsilcilerinin isimlerini
+birliğe bildirir. Yönetim kurulu üyelerine genel kurulca aylık brüt
+asgari ücretin iki katını geçmemek üzere belirlenen huzur hakkı ve
+yolluk dışında hiçbir ad altında başkaca ödeme yapılmaz. Yönetim kurulu
+üyelerinde aşağıdaki şartlar aranır:
+
+1\) Türk vatandaşı olmak
+
+2\) Farklı hayvan türünde başka bir birliğin yönetim kurulu üyesi olmamak
+
+3\) Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin
+işleyişine karşı suçlar, nitelikli cinsel saldırıda bulunma, çocukların
+cinsel istismarı, zimmet, irtikap, rüşvet, hırsızlık, dolandırıcılık,
+sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat
+karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan
+malvarlığı değerlerini aklama veya kaçakçılık suçlarından mahkûm olmamak
+
+c\) Denetleme kurulu, genel kurul namına birliğin bütün işlem ve
+hesaplarını tetkik eder. Genel kurul, asıl üyeler arasından denetleme
+organı olarak dört yıl için üç asıl ve üç yedek üyeyi seçer. Denetleme
+kurulu üyelerinde, yönetim kurulu üyelerinde aranan şartlar aranır.
+Denetleme kurulu üyelerine genel kurulca aylık brüt asgari ücretin iki
+katını geçmemek üzere belirlenen huzur hakkı ve yolluk dışında hiçbir ad
+altında başkaca ödeme yapılmaz
+
+\(2) Üyelerin yönetim kuruluna üyelik şartlarını taşıyıp taşımadıkları,
+denetçiler tarafından araştırılır. Bakanlıkça yapılan denetimler
+sonucunda şartları taşımadıkları hâlde seçildiği veya seçilme
+yeterliliğini sonradan kaybettiği anlaşılanların üyelikleri yönetim
+kurulunca sonlandırılır.
+
+\(3) Yönetim kurulu, birliği temsil ve birlik adına imza atmaya yetkili
+şahısları, kararla tespit eder ve bu kararın noterlikçe onaylanmış bir
+sureti, imzalarla birlikte tescil edilmek üzere Ticaret Sicili
+Müdürlüğüne verilir. Gerektiğinde aynı usule göre hareket edilerek imza
+yetkisine sahip kişiler değiştirilebilir. Mali ve birliği taahhüt altına
+alan konularda, birlik adına yapılacak yazışmalarda yönetim kurulu
+başkanı ve birliği temsile yetki verilen yönetim kurulu üyelerinden en
+az birisinin imzası gereklidir. Yönetim kurulu kararıyla, başkanın
+temsil yetkisi il birliklerinde sorumlu müdüre, merkez birliklerinde ise
+genel sekretere devredilebilir. Yetki devri yapılan sorumlu müdür veya
+genel sekreter yönetim ve denetleme kurulu üyesi olamaz.
+
+\(4) Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça
+çıkarılan yönetmelikle belirlenir.
+
+10570-3
+
+**Islah amaçlı yetiştirici birliklerinin görevleri**
+
+**MADDE 10/C- (Ek: 28/1/2015-6589/3 md.)**
+
+\(1) Islah amaçlı yetiştirici birlikleri aşağıda belirtilen görevleri
+yürütürler:
+
+a\) Üyeleri arasında dayanışmayı sağlamak
+
+b\) Üyelerin mesleki eğitimlerini sağlamak, bilgi ve becerilerini
+artırmak amacıyla kurs, seminer ve benzeri organizasyonları düzenlemek,
+eğitim çalışmaları ve araştırmalar yapmak veya yaptırmak, her türlü
+basılı yayım ve diğer yollarla üyeleri arasında iletişim ve haberleşmeyi
+sağlamak
+
+c\) Bakanlıkça merkez birliğine verilen yetkiler doğrultusunda,
+Bakanlığın kontrol ve denetiminde ön soy kütüğü, soy kütüğü, döl
+kontrolü ve/veya ıslah programları faaliyetlerini yürütmek
+
+ç) Üyelerin hayvanlarına suni tohumlama hizmetleri vermek, suni
+tohumlama ile ilgili sperma ve benzeri malzemeleri temin etmek,
+depolamak, dağıtmak ve pazarlamak
+
+d\) Yetiştiricilerin damızlık materyal, alet ve ekipman, kaba yem, kesif
+yem, yem bitkileri tohumlukları ve benzeri ihtiyaçlarını sağlamak,
+depolamak, dağıtmak ve pazarlamak
+
+e\) Yurt içinden veya gerekli hâllerde yurt dışından sağlanan erkek ve
+dişi hayvan, sperma, yumurta, embriyo, larva, ana arı ya da diğer
+biyolojik materyali kullanarak ıslah programları ile bütünleşen her
+türlü faaliyet için gerekli kadro ve ekipleri oluşturmak, gerekli
+hâllerde sperma, yumurta, embriyo, larva, ana arı ve benzeri ıslah
+materyallerini üretmek için Bakanlık izniyle ya da Bakanlıktan ruhsatlı
+üretim merkezleri ve laboratuvarlar kurmak ve araştırma kurumlarıyla iş
+birliği yapmak
+
+f\) Hayvanların bakım ve beslenmesi ile ilgili her türlü girdi temini ile
+teknik ve idari tedbirleri almak veya aldırmak
+
+g\) Üyelerce yetiştirilen damızlık hayvanların satışını yapmak,
+satışlarını organize etmek, bunun için müzayede düzenlemek, fuar, sergi
+ve panayırlar kurmak ve kurulanlara katılmak, yarışmalar tertiplemek,
+ödüller vermek ve yetiştirilen ırkları tanıtmak
+
+ğ) Yetiştiricilerin ürünlerinin değer fiyatına satışını sağlayacak her
+türlü pazarlama organizasyonları ve ürün işleme tesislerini kurmak,
+kiralamak ve işletmek
+
+h\) Hayvanlar ve işletmeleri ile ilgili her türlü sigorta hizmetlerini
+yapmak veya yaptırmak
+
+ı) Kredi temini konusunda çalışmalarda bulunmak
+
+i\) Kuruluş amacı ile ilgili ihtiyaç duyulan araştırmaları yapmak veya
+yaptırmak
+
+j\) Hayvancılığın geliştirilmesi amacıyla gerekli tesisleri kurmak, ortak
+olmak, işletmek, gerektiğinde bu işler için tüm hisseleri birliğe ait
+olmak üzere şirket ve/veya iktisadi işletme kurmak
+
+k\) Merkez birliğinin birliğe tahsis etmiş olduğu sayıda genetik
+materyali temin etmek ve üye işletmelerde kullanmak veya kullandırmak
+
+1\) Kayıt sistemi ve verim kayıtları için gerekli girdileri merkez
+birliği aracılığı ile tedarik etmek, kullanmak ve/veya kullandırmak
+
+m\) Faaliyet alanı ile ilgili olarak üyelerinin ihtiyaçlarına yönelik iş
+ve işlemler ile danışmanlık ve projelendirme hizmetlerini vermek
+
+\(2) Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça
+çıkarılan yönetmelikle belirlenir.
+
+10570-4
+
+**Islah amaçlı yetiştirici birliklerine üyelik**
+
+**MADDE 10/Ç- (Ek: 28/1/2015-6589/4 md.)**
+
+\(1) Birlik, Bakanlıkça belirlenen kriterler doğrultusunda asgari sayıda
+hayvan, kovan gibi varlığa sahip kendi türünün ıslah programına ve/veya
+soy kütüğü sistemlerine dâhil olan asıl üyeler ile bu şartlara sahip
+olmayan ya da asıl üye olmaksızın birlik imkânlarından kısıtlı olarak
+yararlanmak isteyen aday üyelerden oluşur. Aday üyeler genel kurula
+katılamaz ve oy kullanamaz.
+
+\(2) Asıl üyelerden giriş aidatı ve yıllık aidat alınır. Giriş aidatı ve
+yıllık aidat Bakanlıkça belirlenen üst sınırı geçmemek kaydıyla genel
+kurul kararı ile tespit olunur. Ayrıca üyelere verilecek hizmetler
+karşılığında genel kurulca belirlenecek hizmet bedeli alınabilir.
+Birlikler için uygulanan giriş aidatı, yıllık aidat ve hizmet
+bedelleriyle ilgili hükümler merkez birlikleri için de geçerlidir.
+
+\(3) Üyelik şartları ve üyeliğin kaybedilmesi ile giriş ve yıllık aidat
+üst sınırları Bakanlıkça çıkarılan yönetmelikle belirlenir.
+
+**Islah amaçlı yetiştirici birliklerinin gelir ve muafiyetleri**
+
+**MADDE 10/D- (Ek: 28/1/2015-6589/5 md.)**
+
+\(1) Birliğin gelirleri, üyelerin birliğe girerken ödemiş oldukları giriş
+aidatları, yıllık aidatlar, hizmet bedelleri, bağış, yardım ve diğer
+gelirlerden oluşur.
+
+\(2) Birlik, alacaklılarına karşı tüm mal varlığı ve aktifleriyle
+sorumludur.
+
+\(3) Birlik, 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanununa göre
+kurulan kooperatiflere sağlanan her türlü vergi ve harç muafiyetinden
+aynı koşullarla yararlanır.
+
+**Islah amaçlı yetiştirici birliklerinin denetimi**
+
+**MADDE 10/E- (Ek: 28/1/2015-6589/6 md.)**
+
+\(1) Bakanlık, hayvan gen kaynaklarının korunması, ıslahı,
+geliştirilmesi, yaygınlaştırılması ile pazarlanması faaliyetlerinde, ön
+soy kütüğü, soy kütüğü gibi kayıt işlemlerinde ve belgelendirme
+konularında birliklerle iş birliği ve birliklere yetki devri yapabilir.
+Bakanlık, birliklere teknik hizmetler ile sağlık ve eğitim hizmetleri
+konusunda gerektiğinde personel ile ayni ve nakdî destek verebilir,
+bunların bu Kanun kapsamındaki faaliyetlerini kontrol eder ve gerekli
+görmesi hâlinde denetler. Bakanlık, birliklerin ve merkez birliklerinin
+genel kurullarında temsilci bulundurur.
+
+\(2) Bakanlık, birlikleri ve merkez birliklerini idari, mali, hukuki ve
+teknik yönler ile hayvan sağlığı yönünden Bakanlık müfettiş ve
+kontrolörleri aracılığıyla denetler. Ayrıca, denetim sonuçları Bakanlığa
+bildirilmek şartıyla merkez birlikleri de kendi denetleme kurulları
+aracılığıyla üye birliklerini denetleyebilir. Merkez birlikleri ve
+birlikler, denetim sonuçlarına göre bu Kanun hükümleri çerçevesinde
+Bakanlıkça verilen talimatlara uymak zorundadırlar.
+
+\(3) Yapılan denetimler sonucunda, merkez birliklerinin, birliklerin ve
+bunların iştiraklerinin yönetim kurulu üyeleri ile üst düzey
+yöneticilerinin, Bakanlıkça verilen talimatlar ile hukuka açıkça aykırı
+eylem ve işlemlerinin tespit edilmesi durumunda, Bakanlık, kamu yararı
+ve hizmet gerekleri dikkate alınarak gecikmesinde sakınca görülen
+hâllerde ileride telafisi güç veya imkânsız zararlara yol açılmasının
+engellenmesi amacıyla bu kişileri belirli bir süre ile görevden
+uzaklaştırabilir veya görevlerine tedbiren son verebilir. Bu durumda
+Bakanlık, bir yıl içinde olağanüstü genel kurul toplantısının yapılması
+için gerekli tedbirleri alır.
+
+10570-5
+
+\(4) Birliklere kredi veren kurum ve kuruluşlar, verilen kredilerin
+gayesine uygun olarak kullanılıp kullanılmadığını, plan ve projesine
+uygunluğu, teknik özellikleri ve kalite açısından denetleyebilir.
+
+\(5) Birliklerde görevli bulunanlar bu kuruluşlara ait mal, para ve para
+hükmündeki kâğıtları ve gizli de olsa bunlarla ilgili defter ve
+belgeleri istenildiğinde müfettişlere, kontrolörlere, denetimle
+görevlendirilen personele ve kredi kuruluşlarının denetim görevlilerine
+göstermek, sayılmasına ve incelenmesine yardımda bulunmak, istenilen
+bilgileri gerçeğe uygun ve eksiksiz olarak vermek ve doğru beyanda
+bulunmakla yükümlü oldukları gibi Bakanlıkça kendilerinden istenilen her
+türlü bilgi, belge ve kayıtları, tanınan süre içinde tam olarak vermek
+zorundadır.
+
+\(6) Yönetim kurulu üyeleri ve birlik çalışanları, kendi kusurlarından
+ileri gelen zararlardan sorumludurlar. Bunlar, suç teşkil eden fiil ve
+hareketleri ile birliğin para ve malları, bilanço, tutanak, rapor ve
+başka evrak, defter ve belgeleri üzerinde işledikleri suçlardan dolayı
+kamu görevlisi gibi cezalandırılır.
+
+\(7) Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça
+çıkarılan yönetmelikle belirlenir.
+
+**Islah amaçlı yetiştirici birliklerinin dağılması ve tasfiyesi**
+
+**MADDE 10/F- (Ek: 28/1/2015-6589/7 md.)**
+
+\(1) Birlik; ana sözleşme gereğince, genel kurul kararıyla, iflasın
+açılmasıyla, birlik asıl üye sayısının, yönetim ve denetim kurullarını
+oluşturacak sayının altına düşmesi hâllerinde Bakanlık il müdürlüğünün
+onayı ile dağılır. Kuruluş amacına ulaşma imkânının kalmadığının
+Bakanlıkça tespiti hâlinde ise Bakanlık ilgili genel müdürlüğünün onayı
+ile dağılır.
+
+\(2) Birliklerin dağılması, Ticaret Siciline tescil ile ilan ettirilir.
+
+\(3) Islah amaçlı yetiştirici birliklerinin kuruluşu, organları, çalışma
+usul ve esasları ile dağılma ve tasfiyesine ilişkin olarak bu Kanunda
+hüküm bulunmayan hâllerde Kooperatifler Kanunu hükümleri uygulanır.
+
 **DÖRDÜNCÜ BÖLÜM**
 
 **Veteriner Hizmetleri ile İlgili Faaliyet Onayları**
@@ -823,15 +1148,13 @@ hastalıkları teşhis, analiz ve üretim laboratuvarları ile deney hayvanı
 üretici ve tedarikçileri Bakanlıktan onay almak ve istenen kayıtları
 tutmakla yükümlüdür.
 
-10571
-
- 
-
 \(2) Birinci fıkra kapsamındaki muayenehane, klinik ve polikliniklerin
 açılması için yalnızca veteriner hekimlere onay verilir.
 
 \(3) Bu maddenin uygulanması ile ilgili usul ve esaslar Bakanlıkça
 çıkarılacak yönetmelik ile belirlenir.
+
+10571
 
   
 
@@ -1608,7 +1931,14 @@ suların üretimi, uygun şekilde ambalajlanması, satışı, ithalat ve
 ihracatına ilişkin usul ve esaslar ile içme-kullanma sularının teknik ve
 hijyenik şartlara uygunluğu, kalite standartlarının sağlanması, kalite
 standartlarının izlenmesi ve denetimi ile ilgili usul ve esaslar Sağlık
-Bakanlığınca belirlenir.
+Bakanlığınca belirlenir.**(Ek iki cümle: 2/1/2014-6514/53 md.)** Bu
+esaslara uygunluk bakımından belediye veya il özel idarelerinin
+sorumluluğunda bulunan içme sularının Türkiye Halk Sağlığı Kurumu
+tarafından yapılacak veya yaptırılacak her türlü tetkik ve tahlil
+bedelleri ilgili belediye veya il özel idaresince karşılanır.
+Belediyelerce ödenecek tetkik ve tahlil bedelleri, Sağlık Bakanlığı ve
+bağlı kuruluşlarına belediyelerce tahakkuk ettirilecek su kullanım
+bedellerinden mahsup edilir.
 
 **Takviye edici gıdalar ve özel tıbbî amaçlı diyet gıdalar**
 
@@ -1760,7 +2090,7 @@ modelleri Bakanlıkça belirlenir.
 \(8) Bakanlık, kesimhanelerde, kesim öncesi ve sonrası muayeneler ile et
 parçalama işlemi yapılan yerlerde muayeneleri ve diğer resmî kontrolleri
 yapmak üzere, resmî veteriner hekim veya yetkilendirilmiş veteriner
-hekim görevlendirir.
+hekim görevlendirir.^(1)\ ^
 
 \(9) Bakanlık, yıllık ve çok yıllık ulusal kontrol planlarını hazırlar,
 belirlenen canlı hayvan ve hayvansal ürünler ile diğer ürünlerde, katkı,
@@ -1799,6 +2129,14 @@ a\) Canlı hayvan ve ürünün piyasaya arzı, taşınması, ülkeye girişi ve
 b\) Canlı hayvan ve ürün piyasaya arz edilmiş ise, satışının
 durdurulması, bunların sahibi veya işletmecisi tarafından piyasadan
 toplanması.
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **
+
+*(1) Bu fıkrada yer alan ‘…veya yetkilendirilmiş veteriner hekim…’
+ibaresi Anayasa Mahkemesi’nin 26/5/2016 tarihli ve E.: 2015/72, K.:
+2016/44 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de
+yayımlandığı 21/9/2016 tarihinden başlayarak altı ay sonra yürürlüğe
+girmesi hüküm altına alınmıştır.*
 
 10585
 
@@ -2645,6 +2983,13 @@ sorumlular tarafından ödenmesi için bir aylık ödeme süresi verilir.
 idari para cezaları, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının
 Tahsil Usulü Hakkında Kanun hükümlerine göre takip ve tahsil edilir.
 
+\(6) **(Ek: 2/1/2014-6514/54 md.)** 27 nci madde uyarınca Sağlık
+Bakanlığının denetim alanındaki sular bakımından bu Kanunda belirtilen
+idari yaptırımları uygulamaya halk sağlığı müdürü yetkilidir. Bu sularla
+ilgili iş ve işlemler Türkiye Halk Sağlığı Kurumunca yapılır.
+
+ 
+
 **DOKUZUNCU KISIM **
 
 **Çeşitli Hükümler**
@@ -2723,7 +3068,14 @@ işbirliğini gerektiren hususlarda Bakanlık yetkilidir.
 \(3) Türk Silahlı Kuvvetleri bünyesinde veteriner hizmetleri ile gıda,
 denetim ve kontrol faaliyetleri bu Kanun çerçevesinde Bakanlıkla
 işbirliği içerisinde Türk Silahlı Kuvvetlerinin ilgili birimleri
-tarafından yapılır.
+tarafından yapılır. **(Ek cümleler: 2/1/2017 - KHK - 680/76 md.)**
+Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca ihtiyaç
+duyulan veteriner hizmetleri ile gıda, denetim ve kontrol hizmetleri
+Gıda, Tarım ve Hayvancılık Bakanlığı tarafından, bunun mümkün olmadığı
+mahallerde ise Milli Savunma Bakanlığının ilgili birimlerince ücretsiz
+olarak karşılanır. Buna ilişkin usul ve esaslar Gıda, Tarım ve
+Hayvancılık Bakanlığı, İçişleri Bakanlığı ve Milli Savunma Bakanlığı
+tarafından müştereken belirlenir.
 
 **İKİNCİ BÖLÜM**
 
@@ -2847,6 +3199,18 @@ uzman heyetçe morfolojik yönden muayene edilmesi ve her bir at için
 beşbin Türk Lirası idarî para cezasının yatırılması kaydıyla Bakanlıkça
 belirlenen diğer belgeleri de göz önünde bulundurularak soy kütüğüne
 kaydedilir.
+
+**Mevcut ıslah amaçlı hayvan yetiştirici birliklerinin uyumu**
+
+**GEÇİCİ MADDE 2- (Ek: 28/1/2015-6589/9 md.)**
+
+\(1) Bu maddenin yürürlüğe girdiği tarihte kurulu bulunan ıslah amaçlı
+hayvan yetiştirici birlikleri ile merkez birlikleri, faaliyetlerine
+devam eder. Ancak bu birlikler ve merkez birlikleri, ana sözleşmelerini
+Bakanlıkça çıkarılan yönetmelikle belirlenen usul ve esaslara uygun hâle
+getirmek zorundadırlar. Birlikler dokuz ay içinde, merkez birlikleri ise
+on iki ay içinde ana sözleşmelerini yönetmelikle uyumlu hâle
+getirmedikleri takdirde kendiliğinden dağılmış sayılırlar.
 
 **Yürürlük**
 
@@ -3135,10 +3499,6 @@ MESLEK MENSUPLARI**
 
  
 
- 
-
- 
-
  **5996 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
@@ -3146,16 +3506,25 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  -------------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**       **5996 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe GirişTarihi**
-  Anayasa Mahkemesinin 20/3/2013 tarihli ve E: 2012/76, K: 2013/44 sayılı Kararı   10                                                            7/11/2014
-  -------------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------
+  ----------------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**          **5996 sayılı Kanunun değişen veya iptal edilen maddeleri**    **Yürürlüğe Giriş Tarihi**
 
- 
+  Anayasa Mahkemesinin 20/3/2013 tarihli ve E: 2012/76, K: 2013/44 sayılı Kararı      10                                                             7/11/2013 tarihinden başlayarak bir yıl sonra
+                                                                                                                                                     
+                                                                                                                                                     **(7/11/2014)**
 
- 
+  6514                                                                                27, 42                                                         **18/1/2014**
 
- 
+  6589                                                                                10, 10/A, 10/B, 10/C, 10/Ç, 10/D, 10/E, 10/F, GEÇİCİ MADDE 2   7/1/2014 tarihinden geçerli olmak üzere yayımı tarihinde
+                                                                                                                                                     
+                                                                                                                                                     **(17/2/2015)**
+
+  Anayasa Mahkemesi’nin 26/5/2016 tarihli ve E.: 2015/72, K.: 2016/44 sayılı Kararı   31                                                             21/9/2016 tarihinden başlayarak altı ay sonra
+                                                                                                                                                     
+                                                                                                                                                     **(21/3/2017)**
+
+  KHK/680                                                                             45                                                             6/1/2017
+  ----------------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------------------------------------
 
  
 
