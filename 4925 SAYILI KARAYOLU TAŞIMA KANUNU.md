@@ -1,6 +1,6 @@
-6495 sayılı Kanun ile değişik hali
+6518 sayılı Kanun ile değişik hali
 
-KARAYOLU TAŞIMA KANUNU ^(1)^
+KARAYOLU TAŞIMA KANUNU ^(1)(2)^
 
 Kanun Numarası : 4925
 
@@ -59,13 +59,19 @@ doğal afet durumlarında uygulanacak hükümler saklıdır.
 *(1) Bu Kanunda, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu
 hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun
 hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm
-altına alınmıştır.*
+altına alınmıştır. *
+
+*(2) 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunun 84 üncü
+maddesiyle; bu Kanunda belediyenin sorumlu ve yetkili kılındığı görev ve
+hizmetlerle sınırlı olarak, 5393 sayılı Belediye Kanunu hükümlerine
+aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı
+hüküm altına alınmıştır.*
 
 8528
 
 *Tanımlar*
 
-Madde 3 - Bu Kanunda geçen;
+**Madde 3 -** Bu Kanunda geçen;
 
 Bakanlık : Ulaştırma Bakanlığını,
 
@@ -174,24 +180,24 @@ aynı varış yerine önceden gruplandırılmış yolcuların taşınmasını,
 
 *Genel kural*
 
-Madde 4 - Taşımalar; ekonomik, seri, elverişli, güvenli, çevreye kötü
-etkisi en az ve kamu yararını gözetecek tarzda serbest rekabet ortamında
-gerçekleştirilir.
+**Madde 4 -** Taşımalar; ekonomik, seri, elverişli, güvenli, çevreye
+kötü etkisi en az ve kamu yararını gözetecek tarzda serbest rekabet
+ortamında gerçekleştirilir.
 
 *Yetki belgesi alma zorunluluğu ve taşıma hizmeti*
 
-Madde 5 - Taşımacılık, acentelik ve taşıma işleri komisyonculuğu ile
+**Madde 5 -** Taşımacılık, acentelik ve taşıma işleri komisyonculuğu ile
 nakliyat ambarı ve kargo işletmeciliği yapılabilmesi için Bakanlıktan
 yetki belgesi alınması zorunludur.
 
 Taşımacılık, acentelik ve taşıma işleri komisyonculuğu ile nakliyat
 ambarı ve kargo işletmeciliği yetki belgesi alınabilmesi için taşıma
 işleri işletmecilerinin meslekî saygınlık, malî yeterlilik ve meslekî
-yeterliliğe sahip olması gerekmektedir. (Ek cümle: 23/1/2008 – 5728/516
-md.) **Ayrıca, karayoluyla yük ve yolcu taşımacılığı faaliyetlerinde
-kullanılan ticari araçlarda çalışan şoförlerin, sürücü mesleki
-yeterlilik belgesi almaları zorunludur.** Bu maddeye ilişkin usul ve
-esaslar yönetmelikle belirlenir. 18.1.1954 tarihli ve 6224 sayılı
+yeterliliğe sahip olması gerekmektedir. **(Ek cümle: 23/1/2008 –
+5728/516 md.)** Ayrıca, karayoluyla yük ve yolcu taşımacılığı
+faaliyetlerinde kullanılan ticari araçlarda çalışan şoförlerin, sürücü
+mesleki yeterlilik belgesi almaları zorunludur. Bu maddeye ilişkin usul
+ve esaslar yönetmelikle belirlenir. 18.1.1954 tarihli ve 6224 sayılı
 Yabancı Sermayeyi Teşvik Kanunu hükümleri saklıdır.
 
 8530
@@ -219,10 +225,10 @@ engellenemez.
 
 *Taşımacının sorumluluğu*
 
-Madde 6 - Yolcu ve eşya taşımaları, kanunlara ve taşımacı ile yolcu ve
-gönderen arasındaki sözleşmelere uygun olarak yapılır. Yolcu taşımaları
-biletsiz veya taşıma sözleşmesiz, eşya taşımaları taşıma senetsiz
-yapılamaz.
+**Madde 6 -** Yolcu ve eşya taşımaları, kanunlara ve taşımacı ile yolcu
+ve gönderen arasındaki sözleşmelere uygun olarak yapılır. Yolcu
+taşımaları biletsiz veya taşıma sözleşmesiz, eşya taşımaları taşıma
+senetsiz yapılamaz.
 
 Taşımacı, acentesinin acentelik sıfatıyla yapmış olduğu bu Kanun
 kapsamındaki faaliyet ve işlemlerden müteselsilen sorumludur.
@@ -236,9 +242,9 @@ amacıyla yürürlüğe konulan mevzuat hükümlerine uymak zorundadır.
 
 *Taşımacının yükümlülüğü*
 
-Madde 7 - Taşımacı, yolcuların sağlıklı, rahat ve güvenli bir yolculuk
-yapmasını sağlayacak tedbirleri almak, yolcu ve eşyayı taahhüt ettiği
-yere kadar götürmekle yükümlüdür.
+**Madde 7 -** Taşımacı, yolcuların sağlıklı, rahat ve güvenli bir
+yolculuk yapmasını sağlayacak tedbirleri almak, yolcu ve eşyayı taahhüt
+ettiği yere kadar götürmekle yükümlüdür.
 
 İlgili mevzuat hükümlerine uygun bir taşıtı, nitelikli şoför ve hizmetli
 personeli sefere göndermek, şoförlerin sürücü belgelerinin bulunup
@@ -272,17 +278,17 @@ almak zorundadırlar.
 
 *Gönderenin sorumluluğu*
 
-Madde 8 - Gönderen, eşyanın varış noktası, cinsi, miktarı ve nitelikleri
-ile diğer önemli bilgileri tam ve doğru olarak taşımacıya bildirmek
-zorundadır. Yanlış ve eksik bildirmelerden doğacak her türlü sorumluluk
-gönderene aittir. Taşımacı, bir ihbar veya şüphe halinde yetkili ve
-görevlilerin huzurunda eşyayı kontrol ettirebilir.
+**Madde 8 -** Gönderen, eşyanın varış noktası, cinsi, miktarı ve
+nitelikleri ile diğer önemli bilgileri tam ve doğru olarak taşımacıya
+bildirmek zorundadır. Yanlış ve eksik bildirmelerden doğacak her türlü
+sorumluluk gönderene aittir. Taşımacı, bir ihbar veya şüphe halinde
+yetkili ve görevlilerin huzurunda eşyayı kontrol ettirebilir.
 
 *Acente, taşıma işleri komisyonculuğu, nakliyat ambarı ve kargo
 işletmeciliği yapanların sorumluluğu*
 
-Madde 9 - Acenteler ve taşıma işleri komisyoncuları bu sıfatla yapmış
-oldukları faaliyet ve işlemlerden taşımacı ile müştereken ve
+**Madde 9 -** Acenteler ve taşıma işleri komisyoncuları bu sıfatla
+yapmış oldukları faaliyet ve işlemlerden taşımacı ile müştereken ve
 müteselsilen sorumludur. Nakliyat ambarı ve kargo işletmeciliği
 yapanlar, eşyayı teslim aldığı andan teslim edinceye kadar, eşyanın
 tamamı ve kısmen kaybından ve vuku bulacak hasarından, korunması ve
@@ -292,7 +298,7 @@ sorumludur.
 
 *Taşıma yasağı*
 
-Madde 10 - Acentelik ve taşıma işleri komisyonculuğu yetki belgesine
+**Madde 10 -** Acentelik ve taşıma işleri komisyonculuğu yetki belgesine
 sahip olanlar taşımacı yetki belgesi almadan kendi nam ve hesaplarına
 taşıma yapamaz ve yaptıramazlar.
 
@@ -303,9 +309,10 @@ Yolcu taşımacılığında komisyonculuk yapılamaz.
 
 *Ücret ve zaman tarifeleri ^(1)^*
 
-Madde 11 - Düzenli yolcu ve eşya taşımaları, nakliyat ambarı ve kargo
-işletmeciliği ücret tarifeleri, yetki belgesi sahiplerince geçerlilik
-süresi de belirtilmek suretiyle hazırlanır ve Bakanlığa bildirilir.
+**Madde 11 -** Düzenli yolcu ve eşya taşımaları, nakliyat ambarı ve
+kargo işletmeciliği ücret tarifeleri, yetki belgesi sahiplerince
+geçerlilik süresi de belirtilmek suretiyle hazırlanır ve Bakanlığa
+bildirilir.
 
 Ücret tarifelerine uyulması ve bu tarifelerin görülebilecek şekilde
 işyeri, terminal ve bilet satış yerlerine asılması ve taşıtlarda
@@ -350,7 +357,7 @@ BİRİNCİ BÖLÜM
 
 *Uluslararası taşımaların kapsamı*
 
-Madde 12 - Uluslararası yolcu ve eşya taşımaları;
+**Madde 12 -** Uluslararası yolcu ve eşya taşımaları;
 
 a\) Türkiye'ye karayoluyla veya demiryoluyla herhangi bir hudut
 kapısından giren veya Türkiye'nin herhangi bir limanına denizyolu ile
@@ -368,11 +375,11 @@ Kapsar.
 
 *Taşıma yetkisi*
 
-Madde 13 - 12 nci maddenin (a) bendindeki taşımaları, uluslararası ikili
-ve çok taraflı karayolu taşıma anlaşmalarına göre taşıma yapmaya yetkili
-veya Bakanlıkça izin verilmiş yabancı plâkalı taşıtlar ile uluslararası
-taşımalar için Bakanlıktan yetki belgesi almış taşımacılara ait
-taşıtlarla yapılabilir.
+**Madde 13 -** 12 nci maddenin (a) bendindeki taşımaları, uluslararası
+ikili ve çok taraflı karayolu taşıma anlaşmalarına göre taşıma yapmaya
+yetkili veya Bakanlıkça izin verilmiş yabancı plâkalı taşıtlar ile
+uluslararası taşımalar için Bakanlıktan yetki belgesi almış taşımacılara
+ait taşıtlarla yapılabilir.
 
 12 nci maddenin (b) bendindeki taşımalar, Bakanlıktan uluslararası
 taşımacı yetki belgesi almış taşımacılar tarafından yapılır. Yabancı
@@ -399,15 +406,15 @@ arasında taşıma yapamazlar.
 
 *Yasak haller*
 
-Madde 14 - Zorunlu hallerde sınır mülkî idare amirince verilecek izin
-dışında, ilgili kanunlara ve taşımacı ile yolcu ve gönderen arasındaki
-sözleşmelere aykırı olarak, yolcu ve eşya sınır kapılarına taşınamaz,
-buralarda aktarmaları yapılamaz, eşya depolanamaz ve yolcular sınır
-kapısından yaya geçerek başka bir taşıta binemezler.
+**Madde 14 -** Zorunlu hallerde sınır mülkî idare amirince verilecek
+izin dışında, ilgili kanunlara ve taşımacı ile yolcu ve gönderen
+arasındaki sözleşmelere aykırı olarak, yolcu ve eşya sınır kapılarına
+taşınamaz, buralarda aktarmaları yapılamaz, eşya depolanamaz ve yolcular
+sınır kapısından yaya geçerek başka bir taşıta binemezler.
 
 *Taşımaların düzenlenmesi*
 
-Madde 15 - Türkiye'ye veya Türkiye üzerinden karayoluyla yapılacak
+**Madde 15 -** Türkiye'ye veya Türkiye üzerinden karayoluyla yapılacak
 transit taşımalarda, yurt içi taşımaları aksatmamak ve Türkiye üzerinden
 yapılan uluslararası taşımaları daha düzenli ve süratli kılmak amacıyla,
 gerektiğinde diğer taşıma sistemleri ile birlikte ve tamamlayıcı olmak
@@ -419,7 +426,7 @@ taşıtlar Bakanlıkça verilecek izne tâbidir.
 
 *Geçiş ücretleri*
 
-Madde 16 - Karayolunun bakımı, korunması ile karayolu ve taşımanın
+**Madde 16 -** Karayolunun bakımı, korunması ile karayolu ve taşımanın
 yönetimine ilişkin giderlere katkıda bulunmak üzere yabancı plâkalı
 araçlardan geçiş ücretleri alınır.
 
@@ -442,7 +449,7 @@ BİRİNCİ BÖLÜM
 
 *Sorumluluk*
 
-Madde 17 - Şehirlerarası ve uluslararası yolcu taşımacıları;
+**Madde 17 -** Şehirlerarası ve uluslararası yolcu taşımacıları;
 duraklamalar dahil olmak üzere yolcunun kalkış noktasından, varış
 noktasına kadar geçecek süre içinde meydana gelecek bir kaza nedeniyle
 yolcunun ölümü, yaralanması ya da eşyasının zarara uğramasından dolayı
@@ -450,7 +457,7 @@ sorumludur.
 
 *Zorunlu karayolu taşımacılık malî sorumluluk sigortası*
 
-Madde 18 - Taşımacılar, yolcuya gelebilecek bedenî zararlar için bu
+**Madde 18 -** Taşımacılar, yolcuya gelebilecek bedenî zararlar için bu
 Kanunun 17 nci maddesinden doğan sorumluluklarını sigorta ettirmek
 zorundadır. Ancak, Hazine Müsteşarlığının bağlı olduğu Bakanlık gerekli
 gördüğü takdirde, tespit edeceği yabancı ülkelerde ortaya çıkabilecek
@@ -481,10 +488,11 @@ branşında ruhsatı bulunan sigorta şirketleri tarafından yapılır.
 
 *Hak sahiplerinin çokluğu ve zorunlu malî sorumluluk sigortası*
 
-Madde 19 - Hak sahiplerinin tazminat alacakları, sigorta sözleşmesinde
-öngörülen teminattan fazla ise hak sahiplerinden her birinin sigortacıya
-karşı yöneltebileceği tazminat talebi, teminat tutarının tazminat
-alacakları toplamına olan oranına göre indirime tâbi tutulur.
+**Madde 19 -** Hak sahiplerinin tazminat alacakları, sigorta
+sözleşmesinde öngörülen teminattan fazla ise hak sahiplerinden her
+birinin sigortacıya karşı yöneltebileceği tazminat talebi, teminat
+tutarının tazminat alacakları toplamına olan oranına göre indirime tâbi
+tutulur.
 
 Başka tazminat taleplerinin bulunduğunu bilmeksizin hak sahiplerinden
 birine veya birkaçına kendilerine düşecek olandan fazla ödemede bulunan
@@ -498,7 +506,7 @@ sorumluluk sigortasına müracaat edilir.
 
 *Tazminatın azaltılması veya kaldırılması sonucunu doğuran haller*
 
-Madde 20 - Sigorta sözleşmesinden veya sigorta sözleşmesine ilişkin
+**Madde 20 -** Sigorta sözleşmesinden veya sigorta sözleşmesine ilişkin
 kanun hükümlerinden doğan ve tazminat yükümlülüğünün kaldırılması veya
 miktarının azaltılması sonucunu doğuran haller hak sahiplerine karşı
 ileri sürülemez.
@@ -509,12 +517,12 @@ sağlayabileceği oranda taşımacıya rücu edebilir.
 
 *Doğrudan doğruya talep hakkı*
 
-Madde 21 - Hak sahipleri, sorumluluk sigortasında öngörülen sınırlar
+**Madde 21 -** Hak sahipleri, sorumluluk sigortasında öngörülen sınırlar
 içinde doğrudan doğruya sigortacıya karşı talepte bulunabilirler.
 
 *Kaza sonucu ihbar ve zararların ödenmesi*
 
-Madde 22 - Sorumluluk sigortası tazminatına yol açan olay, sigorta
+**Madde 22 -** Sorumluluk sigortası tazminatına yol açan olay, sigorta
 ettiren veya hak sahibi tarafından öğrenildiği tarihten itibaren otuz iş
 günü, olay yurt dışında meydana gelmişse altmış işgünü içinde sigorta
 şirketine ihbar edilir.
@@ -531,8 +539,8 @@ sigortası sınırları içinde kalan miktarı hak sahibine ödemek zorundadır.
 
 *Sigortanın ispatı*
 
-Madde 23 - Sigorta şirketleri, şekli ve kapsamı Bakanlığın uygun görüşü
-ve Hazine Müsteşarlığının bağlı bulunduğu Bakanlığın onayı ile
+**Madde 23 -** Sigorta şirketleri, şekli ve kapsamı Bakanlığın uygun
+görüşü ve Hazine Müsteşarlığının bağlı bulunduğu Bakanlığın onayı ile
 belirlenip Türkiye Sigorta ve Reasürans Şirketleri Birliğince
 bastırılacak sorumluluk sigortası belgesini, poliçe ile birlikte sigorta
 ettirene vermek zorundadır. Poliçede araçların plâka numaraları
@@ -548,10 +556,11 @@ teminatı sağlanıncaya kadar trafikten men edilir.
 
 *Zamanaşımı*
 
-Madde 24 - Bu Kanuna göre yapılan sorumluluk sigortası sözleşmelerinden
-doğan her türlü tazminat davası, hak sahibinin zararı ve tazminat
-yükümlüsünü öğrendiği tarihten itibaren iki yıl ve her halde zarara
-neden olan olay tarihinden itibaren on yıl sonra zamanaşımına uğrar.
+**Madde 24 -** Bu Kanuna göre yapılan sorumluluk sigortası
+sözleşmelerinden doğan her türlü tazminat davası, hak sahibinin zararı
+ve tazminat yükümlüsünü öğrendiği tarihten itibaren iki yıl ve her halde
+zarara neden olan olay tarihinden itibaren on yıl sonra zamanaşımına
+uğrar.
 
 Dava, cezayı gerektiren bir fiilden doğmakta ve (…)^(1)^ Türk Ceza
 Kanununda bu fiil için daha uzun bir zamanaşımı süresi öngörülmekte ise
@@ -568,12 +577,12 @@ uğrar.
 
 *Yetkili mahkeme ve icra daireleri*
 
-Madde 25 - Sigorta sözleşmesinden doğan anlaşmazlıklar, tazminat ve rücu
-talepleri nedeni ile açılacak davalarda ve icra takiplerinde yetkili
-mahkeme veya icra daireleri; sigorta şirketinin veya şubesinin, sigorta
-sözleşmesini yapan acentenin, sigortalının, hak sahibinin, rücu edilenin
-ikametgâhındaki veya zarara yol açan olayın meydana geldiği yerdeki
-mahkeme ve icra daireleridir.
+**Madde 25 -** Sigorta sözleşmesinden doğan anlaşmazlıklar, tazminat ve
+rücu talepleri nedeni ile açılacak davalarda ve icra takiplerinde
+yetkili mahkeme veya icra daireleri; sigorta şirketinin veya şubesinin,
+sigorta sözleşmesini yapan acentenin, sigortalının, hak sahibinin, rücu
+edilenin ikametgâhındaki veya zarara yol açan olayın meydana geldiği
+yerdeki mahkeme ve icra daireleridir.
 
 –––––––––––––––––––
 
@@ -784,12 +793,12 @@ kaydedilir.
 
 Madde 34 - Bu Kanunun yürürlüğe girmesinden itibaren altı ay içinde;
 
-a\) Taşımacılık, acente ve taşıma işleri komisyonculuğu ile nakliyat
-ambarı ve kargo işletmeciliği yapmak isteyen gerçek ve tüzel kişilerde
-aranacak şartlar, verilecek yetki belgeleri ve taşıt belgeleri, her
-belge türü için gerekli olan taşıt kapasiteleri, taşıtların yaşı,
-nitelikleri, istiap hadleri ve terminal hizmetlerinde öngörülecek
-hususları,
+a\) (Değişik: 6/2/2014-6518/60 md.) Taşımacılık faaliyeti yapmak isteyen
+gerçek ve tüzel kişilerde aranacak şartlar, verilecek yetki belgeleri,
+mesleki yeterlilik belgeleri ve taşıt kartları ile diğer belge ve
+hizmetlerin ücret, süre, kapsam, tür ve şekilleri, her belge türü için
+gerekli olan taşıt kapasiteleri, taşıtların yaşı, nitelikleri, istiap
+hadleri ve terminal hizmetlerinde öngörülecek hususları,
 
 b\) Belgelerin geçerlilik süreleri, geri alınması ve uygulanacak idarî
 müeyyideleri,
@@ -827,7 +836,43 @@ işlenmiştir.*
 *Yetki devri^(1)^*
 
 Madde 35 – (İptal: Anayasa Mahkemesinin 8/11/2012 tarihli ve E:2012/27,
-K:2012/173 sayılı Kararı ile.)
+K:2012/173 sayılı Kararı ile.;Değişik: 6/2/2014-6518/61 md.)
+
+Bakanlık, düzenleme ve kural ihdası ile 27 nci maddede belirtilen
+hususlar hariç olmak üzere gerektiğinde teknik ve idari kapasite,
+teşkilat imkânları, hizmetin hızlı, etkin, yaygın olarak üretilmesi
+ilkelerini gözeterek; bu Kanun gereğince yerine getirmekle yükümlü
+olduğu görev ve yetkilerinin bir kısmını aşağıda belirtilen usul ve
+esaslar çerçevesinde yürütmek hususunda kamu kurum ve kuruluşları ile
+Türkiye Odalar ve Borsalar Birliği, Türkiye Esnaf ve Sanatkârları
+Konfederasyonu ve bunlara bağlı federasyon, birlik ve odaları
+yetkilendirebilir.
+
+a\) Yetkilendirme, düzenlenecek bir protokol veya sözleşme ile yapılır.
+Bu protokol veya sözleşmede yetkilendirmenin konusu, süresi ve
+mutabakata varılan hususlar açıkça belirtilir.
+
+b\) Yetkilendirme, yetkilendirmenin konusu ve niteliği gözetilmek
+suretiyle en az bir yıl en fazla beş yıl süreyle yapılabilir.
+Yetkilendirme, süresinin bitiminde yenilenebilir.
+
+c\) Bakanlık tarafından, yetkilendirmenin konusuna, niteliğine ve
+özelliğine göre aynı konuda birden fazla kamu kurum ve kuruluşu veya
+birlik ya da oda yetkilendirilebilir.
+
+d\) Yetkilendirme kapsamında üretilecek hizmetler için alınacak veya
+ödenecek ücretler Bakanlık tarafından onaylanır.
+
+e\) Yetkilendirilenler ilgili mevzuata ve Bakanlıkça yayımlanan idari
+düzenlemelere uymakla yükümlüdürler. Bakanlık, yetkilendirilmenin
+kullanımı ile ilgili olarak gerektiğinde her türlü denetimi yapar.
+
+f\) Yetkilendirilenlerin ilgili mevzuata ve Bakanlıkça yayımlanan idari
+düzenlemelere uymaması hâlinde yapılmış olan yetkilendirme, Bakanlık
+tarafından iptal edilir.
+
+g\) Yetkilendirme, Bakanlığın görev, sorumluluk ve yetkilerini ortadan
+kaldırmaz.
 
 *Bu Kanunda hüküm bulunmayan hallerde uygulanacak mevzuat*
 
@@ -911,6 +956,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                                                                                    (28/12/2013)
 
   6495                                                                            26, 33, İşlenemeyen hüküm                                        2/8/2013
+
+  6518                                                                            34, 35                                                           19/2/2014
   ------------------------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------
 
 
