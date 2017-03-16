@@ -1,4 +1,4 @@
-**6461 sayılı Kanun ile değişik hali**
+**6462 sayılı Kanun ile değişik hali**
 
 **KAMU İHALE KANUNU**
 
@@ -2152,13 +2152,13 @@ gerekir.
 24/10/2011-KHK-661/57 md.)** Kurul üyelerinin görev süresi dört yıldır.
 Bir üye bir defadan fazla seçilebilir. Kurul üyelerinin görev süresi
 dolmadan görevlerine son verilemez. Ancak üyeler, ciddi bir hastalık
-veya sakatlık nedeniyle iş görememeleri veya atamaya ilişkin şartları
+veya engellilik nedeniyle iş görememeleri veya atamaya ilişkin şartları
 kaybetmeleri halinde atandıkları usule göre süresi dolmadan görevden
 alınır. Üyeler görevi kötüye kullanmaktan veya yüz kızartıcı bir suçtan
 mahkûm olmaları halinde ise Başbakan onayıyla görevden alınır. Görevden
 alma nedeniyle veya süresi dolmadan herhangi bir sebeple boşalan Kurul
 üyeliklerine bir ay içerisinde yukarıda belirtilen esaslara göre yeniden
-atama yapılır.**(Mülga son cümle: 20/11/2008-5812/20 md.)**
+atama yapılır.**(Mülga son cümle: 20/11/2008-5812/20 md.) ^(1)^**
 
 Kurumun genel yönetim ve temsili ile Kurulca alınan kararların
 yürütülmesi başkana aittir. Başkanın izin, hastalık, yurt içi veya yurt
@@ -2176,6 +2176,12 @@ yerine getireceklerine, bu Kanun hükümlerine ve ilgili mevzuata aykırı
 hareket etmeyeceklerine ve ettirmeyeceklerine dair yemin ederler. Yemin
 için yapılan başvuru Yargıtay’ca acele işlerden sayılır. Kurul üyeleri
 yemin etmedikçe göreve başlayamazlar.
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “sakatlık” ibaresi “engellilik” şeklinde
+değiştirilmiştir.*
 
 8252-1
 
@@ -3734,6 +3740,8 @@ Diğer maddeleri 15/8/2003
   2013/1 Numaralı Tebliğ             3, 8, 13, 21, 22, 53, 62, 67                                  1/2/2013
 
   6461                               3                                                             1/5/2013
+
+  6462                               53                                                            3/5/2013
   ---------------------------------- ------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------
 
 
