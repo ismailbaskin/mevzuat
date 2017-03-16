@@ -1,6 +1,6 @@
 1.  #### 
 
-    #### Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2005/114, K.: 2009/105 sayılı Kararı ile değişik
+    #### Anayasa Mahkemesi’nin 17/3/2011 tarihli ve E.: 2009/58, K.: 2011/52 sayılı Kararıyla değişik 
 
     #### TÜRK MEDENÎ KANUNU 
 
@@ -1509,8 +1509,8 @@ kararına karşı mahkemeye başvurabilir. İtiraz, evrak üzerinde incelenip
 kesin karara bağlanır.
 
 Ancak, mutlak butlan sebeplerinden birinin bulunduğuna ilişkin ret
-kararlarına karşı açılan davalar, basit yargılama usulüyle ve Cumhuriyet
-savcısının hazır bulunmasıyla görülür.
+kararlarına karşı açılan davalar, basit yargılama usulüyle (…) ^(1)^
+görülür. ^(1)^
 
 **B. Evlenme töreni ve tescil **
 
@@ -1562,6 +1562,12 @@ Evlenmenin geçerli olması dinî törenin yapılmasına bağlı değildir.
 
 **MADDE 144.-** Evlenme işlemi, evlenme kütüğü, evlenmeye ilişkin
 yazışma ve evlenme ile ilgili diğer konular yönetmelikle düzenlenir.
+
+––––––––––––––
+
+*(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 31 inci maddesiyle, bu
+fıkrada yer alan “ve Cumhuriyet savcısının hazır bulunmasıyla” ibaresi
+yürürlükten kaldırılmıştır.*
 
 DÖRDÜNCÜ AYIRIM
 
@@ -8372,11 +8378,11 @@ bulunduran kişi, o taşınmazın tamamı, bir parçası veya bir payı
 isteyebilir.
 
 Aynı koşullar altında, maliki tapu kütüğünden anlaşılamayan veya yirmi
-yıl önce ölmüş ya da hakkında gaiplik kararı verilmiş bir kimse adına
+yıl önce (…)^(1)^ hakkında gaiplik kararı verilmiş bir kimse adına
 kayıtlı bulunan taşınmazın tamamının veya bölünmesinde sakınca olmayan
 bir parçasının zilyedi de, o taşınmazın tamamı, bir parçası veya bir
 payı üzerindeki mülkiyet hakkının tapu kütüğüne tesciline karar
-verilmesini isteyebilir.
+verilmesini isteyebilir. ^(1)^
 
 Tescil davası, Hazineye ve ilgili kamu tüzel kişilerine veya varsa
 tapuda malik gözüken kişinin mirasçılarına karşı açılır.
@@ -8432,6 +8438,13 @@ yaptırabilir.
 Bir taşınmazın mülkiyetinde eşler arasındaki mal rejimi dolayısıyla
 meydana gelen değişiklikler, eşlerden birinin istemiyle tapu kütüğüne
 doğrudan tescil olunur.
+
+––––––––––––––––
+
+*(1) Bu fıkrada yer alan “… ölmüş ya da …” sözcüklerinin,  23/7/2011
+tarihli ve 28003 sayılı Resmi Gazetede yayımlanan, Anayasa Mahkemesi’nin
+17/3/2011 tarihli ve E.: 2009/58, K.: 2011/52 sayılı Kararıyla yürürlüğü
+durdurulmuş olup mezkur sözcükler yine aynı kararla iptal edilmiştir.*
 
 **C. Taşınmaz mülkiyetinin kaybı**
 
@@ -11911,6 +11924,14 @@ MAHKEMESİ KARARININ **
                                                                                                 E.:2005/114                             
                                                                                                                                         
                                                                                                 K.:2009/105                             
+
+  6217                       14/4/2011                                                                                                  138
+
+                                                                                                17/3/2011                               713
+                                                                                                                                        
+                                                                                                E.: 2009/58                             
+                                                                                                                                        
+                                                                                                K.: 2011/52                             
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
 
 
