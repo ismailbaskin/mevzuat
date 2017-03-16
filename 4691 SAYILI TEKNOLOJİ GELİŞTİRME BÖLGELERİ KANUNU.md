@@ -1,4 +1,4 @@
-4691 sayılı Kanunun ilk hali
+5035 sayılı Kanun ile değişik hali
 
 TEKNOLOJİ GELİŞTİRME BÖLGELERİ KANUNU
 
@@ -234,23 +234,11 @@ Yönetici Şirket, bu Kanunun uygulanması ile ilgili işlemlerde her türlü
 vergi, resim ve harçtan muaftır. Atık su arıtma tesisi işleten
 Bölgelerden, belediyelerce atık su bedeli alınmaz.
 
-Bölgede yer alan gelir ve kurumlar vergisi mükelleflerinin, münhasıran
-bu Bölgedeki yazılım ve AR-GE'ye dayalı üretim faaliyetlerinden elde
-ettikleri kazançları, faaliyete geçilmesinden itibaren beş yıl süre ile
-gelir ve kurumlar vergisinden müstesnadır. Bakanlar Kurulu, seçilen,
-hedef alınan, belirli teknolojik alanlar ve ürünler için on yıla kadar
-süreyi uzatabilir.
+**(Mülga üçüncü fıkra: 25/12/2003-5035/49 md.)**
 
-Bölgede çalışan araştırmacı, yazılımcı ve AR-GE personelinin bu
-görevleri ile ilgili ücretleri, Bölgenin kuruluş tarihinden itibaren on
-yıl süre ile her türlü vergiden istisnadır.
+**(Mülga dördüncü fıkra: 25/12/2003-5035/49 md.)**
 
-Gelir ve kurumlar vergisi mükelleflerince bu bölgelerde AR-GE
-faaliyetlerinde bulunan kişi, kurum veya kuruluşlara makbuz karşılığı
-sponsor olarak yapılan bağış ve yardımlar toplamı 193 sayılı Gelir
-Vergisi Kanununun 89 uncu maddesinin (2) numaralı bendi ile 5422 sayılı
-Kurumlar Vergisi Kanununun 14 üncü maddesinin (6) numaralı bendinde
-belirtilen oran ve esaslar dahilinde indirime tâbi tutulur.
+**(Mülga beşinci fıkra: 25/12/2003-5035/49 md.)**
 
 **Yönetmelikler**
 
@@ -276,6 +264,22 @@ Bakanlıkça onaylanmış teknoparklar, bu Kanun hükümlerine uymak kaydıyla,
 bu Kanunun yürürlüğe girmesiyle Bölge olarak kabul edilir ve Kanunun
 sağladığı tüm muafiyet ve desteklerden istifade ederler.
 
+**GEÇİCİ MADDE 2 –** **(Ek: 25/12/2003-5035/44 md.)**
+
+Yönetici şirketlerin bu Kanun uygulaması kapsamında elde ettikleri
+kazançlar ile bölgede faaliyet gösteren gelir ve kurumlar vergisi
+mükelleflerinin, münhasıran bu bölgedeki yazılım ve AR-GE
+faaliyetlerinden elde ettikleri kazançları 31.12.2013 tarihine kadar
+gelir ve kurumlar vergisinden müstesnadır.
+
+Bölgede çalışan araştırmacı, yazılımcı ve AR-GE personelinin bu
+görevleri ile ilgili ücretleri 31.12.2013 tarihine kadar her türlü
+vergiden müstesnadır. Yönetici şirket, ücreti gelir vergisi
+istisnasından yararlanan kişilerin bölgede fiilen çalışıp çalışmadığını
+denetler. Bölgede fiilen çalışmayanlara istisna uygulandığının tespit
+edilmesi halinde, ziyaa uğratılan vergi ve buna ilişkin cezalardan
+yönetici şirket de ayrıca sorumludur.
+
 **Yürürlük**
 
 **MADDE 11 —** Bu Kanun yayımı tarihinde yürürlüğe girer.
@@ -283,3 +287,17 @@ sağladığı tüm muafiyet ve desteklerden istifade ederler.
 **Yürütme**
 
 **MADDE 12 —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+**4691 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- --------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4691 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5035                                                                         8, GEÇİCİ MADDE 2                                             1/1/2004 tarihinden geçerli olmak üzere 2/1/2004
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- --------------------------------------------------
+
+
