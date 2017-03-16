@@ -1,4 +1,4 @@
-**6415 sayılı Kanun ile değişik hali**
+**6459 sayılı Kanun ile değişik hali**
 
 []{#K93 .anchor}**TERÖRLE MÜCADELE KANUNU **
 
@@ -117,8 +117,11 @@ almış kamu görevlilerinin hüviyetlerini açıklayanlar veya yayınlayanlar
 veya bu yolla kişileri hedef gösterenler bir yıldan üç yıla kadar hapis
 cezası ile cezalandırılır.^(1)^
 
-Terör örgütlerinin bildiri veya açıklamalarını basanlara veya
-yayınlayanlara bir yıldan üç yıla kadar hapis cezası verilir.^(1)^
+**(Değişik ikinci fıkra: 11/4/2013-6459/7 md.)** Terör örgütlerinin;
+cebir, şiddet veya tehdit içeren yöntemlerini meşru gösteren veya öven
+ya da bu yöntemlere başvurmayı teşvik eden bildiri veya açıklamalarını
+basanlar veya yayınlayanlar bir yıldan üç yıla kadar hapis cezası ile
+cezalandırılır.
 
 Bu Kanunun 14 üncü maddesine aykırı olarak muhbirlerin hüviyetlerini
 açıklayanlar veya yayınlayanlar bir yıldan üç yıla kadar hapis cezası
@@ -127,9 +130,8 @@ ile cezalandırılır.^(1)^
 **(Değişik dördüncü fıkra: 29/6/2006-5532/5 md.)** Yukarıdaki fıkralarda
 belirtilen fiillerin basın ve yayın yoluyla işlenmesi hâlinde, basın ve
 yayın organlarının suçun işlenişine iştirak etmemiş olan (…)^(2)^ yayın
-sorumluları hakkında da bin günden onbin güne kadar adlî para cezasına
-hükmolunur. Ancak, yayın sorumluları hakkında, bu cezanın üst sınırı
-beşbin gündür.
+sorumluları hakkında da bin günden beşbin güne kadar adlî para cezasına
+hükmolunur. **(Mülga son cümle: 11/4/2013-6459/7 md.) (…) ^(3)^**
 
 **(Ek fıkra: 29/6/2006-5532/5 md.; Mülga: 2/7/2012-6352/105 md.) **
 
@@ -142,7 +144,10 @@ işlenmiştir. *
 
 *(2) Bu fıkrada yer alan "sahipleri ve" ibaresi, Anayasa Mahkemesinin
 18/6/2009 tarihli ve E.:2006/121, K.:2009/90 sayılı Kararı ile iptal
-edilmiştir.*
+edilmiştir. *
+
+*(3) 11/4/2013 tarihli ve 6459 sayılı Kanunun 7 nci maddesiyle, bu
+fıkrada yer alan “onbin” ibaresi “beş bin” olarak değiştirilmiştir.*
 
 7217
 
@@ -157,29 +162,51 @@ olanlar Türk Ceza Kanununun 314 üncü maddesi hükümlerine göre
 cezalandırılır. Örgütün faaliyetini düzenleyenler de örgütün yöneticisi
 olarak cezalandırılır.
 
-Terör örgütünün propagandasını yapan kişi, bir yıldan beş yıla kadar
-hapis cezası ile cezalandırılır. Bu suçun basın ve yayın yolu ile
-işlenmesi hâlinde, verilecek ceza yarı oranında artırılır. Ayrıca, basın
-ve yayın organlarının suçun işlenişine iştirak etmemiş olan (…)^(1)^
-yayın sorumluları hakkında da bin günden onbin güne kadar adlî para
-cezasına hükmolunur. Ancak, yayın sorumluları hakkında, bu cezanın üst
-sınırı beşbin gündür. Aşağıdaki fiil ve davranışlar da bu fıkra
-hükümlerine göre cezalandırılır:
+**(Değişik ikinci fıkra: 11/4/2013-6459/8 md.)** Terör örgütünün; cebir,
+şiddet veya tehdit içeren yöntemlerini meşru gösterecek veya övecek ya
+da bu yöntemlere başvurmayı teşvik edecek şekilde propagandasını yapan
+kişi, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. Bu
+suçun basın ve yayın yolu ile işlenmesi hâlinde, verilecek ceza yarı
+oranında artırılır. Ayrıca, basın ve yayın organlarının suçun
+işlenmesine iştirak etmemiş olan yayın sorumluları hakkında da bin
+günden beş bin güne kadar adli para cezasına hükmolunur. Aşağıdaki fiil
+ve davranışlar da bu fıkra hükümlerine göre cezalandırılır:
 
 a\) Terör örgütünün propagandasına dönüştürülen toplantı ve gösteri
 yürüyüşlerinde, kimliklerin gizlenmesi amacıyla yüzün tamamen veya
 kısmen kapatılması.
 
-b\) Terör örgütünün üyesi veya destekçisi olduğunu belli edecek şekilde,
-örgüte ait amblem ve işaretlerin taşınması, slogan atılması veya ses
-cihazları ile yayın yapılması ya da terör örgütüne ait amblem ve
-işaretlerin üzerinde bulunduğu üniformanın giyilmesi.
+b\) Toplantı ve gösteri yürüyüşü sırasında gerçekleşmese dahi, terör
+örgütünün üyesi veya destekçisi olduğunu belli edecek şekilde;
+
+1\. Örgüte ait amblem, resim veya işaretlerin asılması ya da taşınması,
+
+2\. Slogan atılması,
+
+3\. Ses cihazları ile yayın yapılması,
+
+4\. Terör örgütüne ait amblem, resim veya işaretlerin üzerinde bulunduğu
+üniformanın giyilmesi.
 
 İkinci fıkrada belirtilen suçların; dernek, vakıf, siyasî parti, işçi ve
 meslek kuruluşlarına veya bunların yan kuruluşlarına ait bina, lokal,
 büro veya eklentilerinde veya öğretim kurumlarında veya öğrenci
 yurtlarında veya bunların eklentilerinde işlenmesi halinde bu fıkradaki
 cezanın iki katı hükmolunur.
+
+**(Ek fıkra: 11/4/2013-6459/8 md.)** Terör örgütüne üye olmamakla
+birlikte örgüt adına;
+
+a\) İkinci fıkrada tanımlanan suçu,
+
+b\) 6 ncı maddenin ikinci fıkrasında tanımlanan suçu,
+
+c\) 6/10/1983 tarihli ve 2911 sayılı Toplantı ve Gösteri Yürüyüşleri
+Kanununun 28 inci maddesinin birinci fıkrasında tanımlanan kanuna aykırı
+toplantı ve gösteri yürüyüşüne katılma suçunu,
+
+işleyenler hakkında, 5237 sayılı Kanunun 220 nci maddesinin altıncı
+fıkrasında tanımlanan suçtan dolayı ayrıca ceza verilmez.
 
 *Terörün finansmanı*
 
@@ -201,12 +228,6 @@ artırılır.
 Bu Kanun kapsamına giren suçların bir tüzel kişinin faaliyeti
 çerçevesinde işlenmesi halinde, Türk Ceza Kanununun 60 ıncı maddesine
 göre bunlara özgü güvenlik tedbirlerine hükmolunur.
-
-——————————
-
-*(1) Bu fıkrada yer alan "sahipleri ve" ibaresi, Anayasa Mahkemesinin
-18/6/2009 tarihli ve E.:2006/121, K.:2009/90 sayılı Kararı ile iptal
-edilmiştir.*
 
 7218
 
@@ -1103,6 +1124,7 @@ Diğerleri 16/11/1995
   6352                                                                         2, 6, 9,10, 13                                                                           5/7/2012
   6353                                                                         21, Ek Madde 1, Geçici Madde 11, 12                                                      12/7/2012
   6415                                                                         8                                                                                        16/2/2013
+  6459                                                                         6, 7                                                                                     30/4/2013
   ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- ----------------------------
 
 
