@@ -1,4 +1,4 @@
-31/3/2011 tarihli ve 6217 sayılı Kanunla Değişik Hali
+8/8/2011 tarihli ve 650 sayılı KHK ile Değişik Hali
 
 **CEZA MUHAKEMESİ KANUNU**
 
@@ -6182,8 +6182,9 @@ yükletilir.
 
 **Adlî tatil**
 
-**MADDE 331. -**(1) Ceza işlerini gören makam ve mahkemeler her yıl
-ağustosun birinden eylülün beşine kadar tatil olunur.
+**MADDE 331.** – **(Değişik: 8/8/2011-KHK-650/24 md.)** (1) Ceza
+işlerini gören makam ve mahkemeler her yıl bir eylülde başlamak üzere,
+yirmi temmuzdan otuzbir ağustosa kadar çalışmaya ara verirler.
 
 \(2) Soruşturma ile tutuklu işlere ilişkin kovuşturmaların ve ivedi
 sayılacak diğer hususların tatil süresi içinde ne suretle yerine
@@ -6254,7 +6255,7 @@ değiştirilmiş ve metne işlenmiştir.*
 
   1.     6217                       14/4/2011                                     14/4/2011                                                         161, 173, 272
 
-  1.                                                                                                                                                
+  1.     KHK/650                    1/1/2012                                      26/8/2011                                                         331
 
   1.                                                                                                                                                
 
