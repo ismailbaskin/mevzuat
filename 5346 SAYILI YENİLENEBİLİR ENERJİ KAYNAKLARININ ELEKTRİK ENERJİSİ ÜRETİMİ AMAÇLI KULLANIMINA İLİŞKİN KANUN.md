@@ -1,4 +1,4 @@
-**5627 sayılı Kanun ile değişik hali**
+**5784 sayılı Kanun ile değişik hali**
 
 **YENİLENEBİLİR ENERJİ KAYNAKLARININ ELEKTRİK ENERJİSİ ÜRETİMİ AMAÇLI
 KULLANIMINA İLİŞKİN KANUN**
@@ -179,21 +179,36 @@ karşılamaları esastır.
 
 **Arazi ihtiyacına ilişkin uygulamalar**
 
-**MADDE 8 —** **(Değişik: 18/4/2007-5627/18 md.)**
+**MADDE 8 —** **(Değişik: 9/7/2008-5784/23 md.)**
 
-Orman veya Hazinenin özel mülkiyetinde ya da Devletin hüküm ve tasarrufu
-altında bulunan her türlü taşınmazın bu Kanun kapsamındaki yenilenebilir
-enerji kaynaklarından elektrik enerjisi üretimi yapmak amacıyla
-kullanılması halinde tesis, ulaşım yolları ve şebekeye bağlantı
-noktasına kadarki enerji nakil hattı için kullanılacak arazilere ilişkin
-olarak Çevre ve Orman Bakanlığı veya Maliye Bakanlığı tarafından bedeli
-karşılığında izin verilir, kiralama yapılır, irtifak hakkı tesis edilir
-veya kullanma izni verilir. 2011 yılı sonuna kadar devreye alınacak bu
-tesislerden ulaşım yollarından ve şebekeye bağlantı noktasına kadarki
-enerji nakil hatlarından yatırım ve işletme dönemlerinin ilk on yılında
-izin, kira, irtifak hakkı ve kullanma izni bedellerine yüzde seksenbeş
-indirim uygulanır. Orman arazilerinde ORKÖY ve Ağaçlandırma Özel Ödenek
-Gelirleri alınmaz.
+Orman vasıflı olan veya Hazinenin özel mülkiyetinde ya da Devletin hüküm
+ve tasarrufu altında bulunan taşınmazlardan bu Kanun kapsamındaki
+yenilenebilir enerji kaynaklarından elektrik enerjisi üretimi yapılmak
+amacıyla tesis, ulaşım yolları ve şebekeye bağlantı noktasına kadarki
+enerji nakil hattı için kullanılacak olanlar hakkında Çevre ve Orman
+Bakanlığı veya Maliye Bakanlığı tarafından bedeli karşılığında izin
+verilir, kiralama yapılır, irtifak hakkı tesis edilir veya kullanma izni
+verilir.
+
+Bu maddenin birinci fıkrasında belirtilen amaçlarda kullanılacak olan
+taşınmazların 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu kapsamında
+bulunan mera, yaylak, kışlak ile kamuya ait otlak ve çayır olması
+halinde, 4342 sayılı Mera Kanunu hükümleri uyarınca bu taşınmazlar,
+tahsis amacı değiştirilerek Hazine adına tescil edilir. Bu taşınmazlara
+ilişkin olarak, Maliye Bakanlığı tarafından bedeli karşılığında kiralama
+yapılır veya irtifak hakkı tesis edilir.
+
+31/12/2012 tarihine kadar devreye alınacak bu tesislerden, ulaşım
+yollarından ve şebekeye bağlantı noktasına kadarki enerji nakil
+hatlarından yatırım ve işletme dönemlerinin ilk on yılında izin, kira,
+irtifak hakkı ve kullanma izni bedellerine yüzde seksenbeş indirim
+uygulanır. Orman Köylüleri Kalkındırma Geliri, Ağaçlandırma ve Erozyon
+Kontrolü Geliri alınmaz.
+
+Bu Kanun kapsamındaki hidroelektrik üretim tesislerinin rezervuar
+alanında bulunan Hazinenin özel mülkiyetindeki ve Devletin hüküm ve
+tasarrufu altındaki taşınmaz mallar için Maliye Bakanlığı tarafından
+bedelsiz olarak kullanma izni verilir.
 
 **BEŞİNCİ BÖLÜM **
 
@@ -330,6 +345,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5346 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5627                                                                         6, 8                                                          2/5/2007
+  5784                                                                         8                                                             26/7/2008
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
