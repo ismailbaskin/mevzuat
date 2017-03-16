@@ -1,4 +1,4 @@
-**27/12/2002 tarihli ve 4777 sayılı Kanun ile değişik hali**
+**7/5/2004 tarihli ve 5170 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -146,6 +146,9 @@ kullanılır.
 inanç, din, mezhep ve benzeri sebeplerle ayırım gözetilmeksizin kanun
 önünde eşittir.
 
+**(Ek fıkra: 7/5/2004-5170/1 md.)** Kadınlar ve erkekler eşit haklara
+sahiptir. Devlet, bu eşitliğin yaşama geçmesini sağlamakla yükümlüdür.
+
 Hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.
 
 Devlet organları ve idare makamları bütün işlemlerinde kanun önünde
@@ -211,12 +214,11 @@ kısmen veya tamamen durdurulabilir veya bunlar için Anayasada öngörülen
 güvencelere aykırı tedbirler alınabilir.
 
 Birinci fıkrada belirlenen durumlarda da, savaş hukukuna uygun fiiller
-sonucu meydana gelen ölümler ile, ölüm cezalarının infazı dışında,
-kişinin yaşama hakkına, maddi ve manevi varlığının bütünlüğüne
-dokunulamaz; kimse din, vicdan, düşünce ve kanaatlerini açıklamaya
-zorlanamaz ve bunlardan dolayı suçlanamaz; suç ve cezalar geçmişe
-yürütülemez; suçluluğu mahkeme kararı ile saptanıncaya kadar kimse suçlu
-sayılamaz.
+sonucu meydana gelen ölümler (…) ^(1)^ dışında, kişinin yaşama hakkına,
+maddi ve manevi varlığının bütünlüğüne dokunulamaz; kimse din, vicdan,
+düşünce ve kanaatlerini açıklamaya zorlanamaz ve bunlardan dolayı
+suçlanamaz; suç ve cezalar geçmişe yürütülemez; suçluluğu mahkeme kararı
+ile saptanıncaya kadar kimse suçlu sayılamaz. ^(1)^
 
 *V. Yabancıların durumu*
 
@@ -239,13 +241,22 @@ tutulamaz.
 Kimseye işkence ve eziyet yapılamaz; kimse insan haysiyetiyle
 bağdaşmayan bir cezaya veya muameleye tabi tutulamaz.
 
-Mahkemelerce verilen ölüm cezalarının yerine getirilmesi hali ile meşru
-müdafaa hali, yakalama ve tutuklama kararlarının yerine getirilmesi, bir
-tutuklu veya hükümlünün kaçmasının önlenmesi, bir ayaklanma veya isyanın
-bastırılması, sıkıyönetim veya olağanüstü hallerde yetkili merciin
-verdiği emirlerin uygulanması sırasında silah kullanılmasına kanunun
-cevaz verdiği zorunlu durumlarda meydana gelen öldürme fiilleri, birinci
-fıkra hükmü dışındadır.
+(…) ^(2)^ ile meşru müdafaa hali, yakalama ve tutuklama kararlarının
+yerine getirilmesi, bir tutuklu veya hükümlünün kaçmasının önlenmesi,
+bir ayaklanma veya isyanın bastırılması, sıkıyönetim veya olağanüstü
+hallerde yetkili merciin verdiği emirlerin uygulanması sırasında silah
+kullanılmasına kanunun cevaz verdiği zorunlu durumlarda meydana gelen
+öldürme fiilleri, birinci fıkra hükmü dışındadır. ^(2)^
+
+––––––––––––––––––––––
+
+*(1) 7/5/2004 tarihli ve 5170 sayılı Kanunun 2 nci maddesiyle, bu
+fıkrada yer alan "ile, ölüm cezalarının infazı" ibaresi madde metninden
+çıkartılmıştır.*
+
+*(2) 7/5/2004 tarihli ve 5170 sayılı Kanunun 3 üncü maddesiyle, bu
+fıkrada yer alan "Mahkemelerce verilen ölüm cezalarının yerine
+getirilmesi hali ile" ibaresi metinden çıkarılmıştır.*
 
 *II. Zorla çalıştırma yasağı*
 
@@ -539,11 +550,11 @@ bağlı kurumların araç ve imkanlarından eşitlik esasına göre yararlanır.
 
 *C. Basın araçlarının korunması*
 
-**Madde 30-** Kanuna uygun şekilde basın işletmesi olarak kurulan
-basımevi ve eklentileri, Devletin ülkesi ve milletiyle bölünmez
-bütünlüğü, Cumhuriyetin temel ilkeleri ve millî güvenlik aleyhinde
-işlenmiş bir suçtan mahkûm olma hali hariç, suç aleti olduğu
-gerekçesiyle zapt ve müsadere edilemez ve işletilmekten alıkonulamaz.
+**Madde 30- (Değişik: 7/5/2004-5170/4 md.)**
+
+Kanuna uygun şekilde basın işletmesi olarak kurulan basımevi ve
+eklentileri ile basın araçları, suç aleti olduğu gerekçesiyle zapt ve
+müsadere edilemez veya işletilmekten alıkonulamaz.
 
 *D. Kamu tüzel kişilerinin elindeki basın dışı kitle haberleşme
 araçlarından yararlanma hakkı*
@@ -664,12 +675,10 @@ bulgular, delil olarak kabul edilemez.
 
 Ceza sorumluluğu şahsidir.
 
-**(Ek fıkra: 3/10/2001-4709/15 md.)** Hiç kimse, yalnızca sözleşmeden
-doğan bir yükümlülüğü yerine getirememesinden dolayı özgürlüğünden
-alıkonulamaz.
+**(Ek fıkra: 3/10/2001-4709/15 md.; Mülga: 7/5/2004-5170/5 md.) **
 
-**(Ek fıkra: 3/10/2001-4709/15 md.)** Savaş, çok yakın savaş tehdidi ve
-terör suçları halleri dışında ölüm cezası verilemez.
+**(Ek fıkra: 3/10/2001-4709/15 md.; Değişik: 7/5/2004-5170/5 md.)** Ölüm
+cezası ve genel müsadere cezası verilemez.
 
 Genel müsadere cezası verilemez.
 
@@ -677,7 +686,9 @@ Genel müsadere cezası verilemez.
 uygulayamaz. Silahlı Kuvvetlerin iç düzeni bakımından bu hükme kanunla
 istisnalar getirilebilir.
 
-Vatandaş, suç sebebiyle yabancı bir ülkeye geri verilemez.
+**(Değişik son fıkra: 7/5/2004-5170/5 md.)** Uluslararası Ceza Divanına
+taraf olmanın gerektirdiği yükümlülükler hariç olmak üzere vatandaş, suç
+sebebiyle yabancı bir ülkeye verilemez.
 
 *XIV. İspat hakkı*
 
@@ -1565,7 +1576,7 @@ benzeri ödemelerin kesilmesini gerektirmez. ^(2)^
 
 *II. Türkiye Büyük Millet Meclisinin görev ve yetkileri*
 
-*A. Genel olarak ^(3)^*
+*A. Genel olarak ^(3)(4)^*
 
 **Madde 87 – **Türkiye Büyük Millet Meclisinin görev ve yetkileri, kanun
 koymak, değiştirmek ve kaldırmak; Bakanlar Kurulunu ve bakanları
@@ -1574,9 +1585,8 @@ denetlemek; Bakanlar Kuruluna belli konularda kanun hükmünde kararname
 ve kabul etmek; para basılmasına ve savaş ilânına karar vermek;
 milletlerarası anıtlaşmaların onaylanmasını uygun bulmak, (…) ^(3)^
 Türkiye Büyük Millet Meclisi üye tamsayısının beşte üç çoğunluğunun
-kararı ile genel ve özel af ilanına, mahkemelerce verilip kesinleşen
-ölüm cezalarının yerine getirilmesine karar vermek ve Anayasanın diğer
-maddelerinde öngörülen yetkileri kullanmak ve görevleri yerine
+kararı ile genel ve özel af ilanına (…)^(4)^ karar vermek ve Anayasanın
+diğer maddelerinde öngörülen yetkileri kullanmak ve görevleri yerine
 getirmektir.
 
 *B.Kanunların teklif edilmesi ve görüşülmesi*
@@ -1630,7 +1640,11 @@ konulamaz.
 Türk kanunlarına değişiklik getiren her türlü andlaşmaların yapılmasında
 birinci fıkra hükmü uygulanır. Usulüne göre yürürlüğe konulmuş
 milletlerarası andlaşmalar kanun hükmündedir. Bunlar hakkında Anayasaya
-aykırılık iddiası ile Anayasa Mahkemesine başvurulamaz.
+aykırılık iddiası ile Anayasa Mahkemesine başvurulamaz. **(Ek cümle:
+7/5/2004-5170/7 md.)** Usulüne göre yürürlüğe konulmuş temel hak ve
+özgürlüklere ilişkin milletlerarası andlaşmalarla kanunların aynı konuda
+farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda
+milletlerarası andlaşma hükümleri esas alınır.
 
 –––––––––––––––––
 
@@ -1648,6 +1662,10 @@ hüküm giyenler hariç olmak üzere," ibaresi kaldırılmış; "genel ve özel
 af ilanına" ibaresinden önce gelmek üzere "Türkiye Büyük Millet Meclisi
 üye tamsayısının beşte üç çoğunluğunun kararı ile" ibaresi eklenmiş ve
 metne işlenmiştir.*
+
+*(4) 7/5/2004 tarihli ve 5170 sayılı Kanunun 6 ncı maddesiyle, bu
+maddede yer alan ", mahkemelerce verilip kesinleşen ölüm cezalarının
+yerine getirilmesine" ibaresi madde metninden çıkartılmıştır.*
 
 *E. Kanun hükmünde kararname çıkarma yetkisi verme*
 
@@ -2570,12 +2588,12 @@ geliştirilmesini ve üniversitelere tahsis edilen kaynakların etkili bir
 biçimde kullanılmasını sağlamak ve öğretim elemanlarının yetiştirilmesi
 için planlama yapmak maksadı ile Yükseköğretim Kurulu kurulur.
 
-Yükseköğretim Kurulu, üniversiteler, Bakanlar Kurulu ve Genelkurmay
-Başkanlığınca seçilen ve sayıları, nitelikleri ve seçilme usulleri
-kanunla belirlenen adaylar arasından rektörlük ve öğretim üyeliğinde
-başarılı hizmet yapmış profesörlere öncelik vermek sureti ile
-Cumhurbaşkanınca atanan üyeler ve Cumhurbaşkanınca doğrudan doğruya
-seçilen üyelerden kurulur.
+**(Değişik ikinci fıkra: 7/5/2004-5170/8 md.)** Yükseköğretim Kurulu,
+üniversiteler ve Bakanlar Kurulunca seçilen ve sayıları, nitelikleri,
+seçilme usulleri kanunla belirlenen adaylar arasından rektörlük ve
+öğretim üyeliğinde başarılı hizmet yapmış profesörlere öncelik vermek
+sureti ile Cumhurbaşkanınca atanan üyeler ve Cumhurbaşkanınca doğrudan
+doğruya seçilen üyelerden kurulur.
 
 Kurulun teşkilatı, görev, yetki, sorumluluğu ve çalışma esasları kanunla
 düzenlenir.
@@ -2772,30 +2790,7 @@ yargılama usulleri kanunla düzenlenir.
 
 *F. Devlet Güvenlik Mahkemeleri*
 
-**Madde 143 – **Devletin ülkesi ve milletiyle bölünmez bütünlüğü, hür
-demokratik düzen ve nitelikleri Anayasada belirtilen Cumhuriyet aleyhine
-işlenen ve doğrudan doğruya Devletin iç ve dış güvenliğini ilgilendiren
-suçlara bakmakla görevli Devlet Güvenlik Mahkemeleri kurulur. **(Ek
-cümle: 18/6/1999-4388/1 md.)** Ancak, sıkıyönetim ve savaş haline
-ilişkin hükümler saklıdır.
-
-**(Değişik fıkra: 18/6/1999-4388/1 md.)** Devlet Güvenlik Mahkemesinde
-bir başkan, iki asıl ve bir yedek üye ile Cumhuriyet başsavcısı ve
-yeteri kadar Cumhuriyet savcısı bulunur.
-
-**(Değişik fıkra: 18/6/1999-4388/1 md.)** Başkan, iki asıl ve bir yedek
-üye ile Cumhuriyet başsavcısı, birinci sınıfa ayrılmış hâkim ve
-Cumhuriyet savcıları arasından; Cumhuriyet savcıları ise, diğer
-Cumhuriyet savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca
-özel kanununda gösterilen usule göre dört yıl için atanırlar; süresi
-bitenler yeniden atanabilirler.
-
-Devlet Güvenlik Mahkemeleri kararlarının temyiz mercii Yargıtaydır.
-
-Devlet Güvenlik Mahkemelerinin işleyişi, görev ve yetkileri ve yargılama
-usulleri ile ilgili diğer hükümler, kanunda gösterilir.
-
-**(Mülga son fıkra: 18/6/1999-4388/1 md.)**
+**Madde 143 – (Mülga: 7/5/2004-5170/9 md.)**
 
 *G. Hâkim ve savcıların denetimi*
 
@@ -3180,9 +3175,7 @@ Sayıştayın kuruluşu, işleyişi, denetim usulleri, mensuplarının
 nitelikleri, atanmaları, ödev ve yetkileri, hakları ve yükümlülükleri ve
 diğer özlük işleri, Başkan ve üyelerinin teminatı kanunla düzenlenir.
 
-Silahlı Kuvvetler elinde bulunan Devlet mallarının Türkiye Büyük Millet
-Meclisi adına denetlenmesi usulleri, Millî Savunma hizmetlerinin
-gerektirdiği gizlilik esaslarına uygun olarak kanunla düzenlenir.
+**(Mülga son fıkra: 7/5/2004-5170/10 md.)**
 
 DÖRDÜNCÜ KISIM
 
@@ -3802,6 +3795,11 @@ yapılacak ilk ara seçimde uygulanmaz.
 **Madde 3-** Bu Kanun yayımı tarihinde yürürlüğe girer ve halk
 oylamasına sunulması halinde tümüyle oylanır.
 
+**6- 7/5/2004 tarihli ve 5170 sayılı Kanunun 11 inci Maddesi:**
+
+**Madde 11 —** Bu Kanun yayımı tarihinde yürürlüğe girer ve
+halkoylamasına sunulması halinde tümüyle oylanır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
@@ -3830,6 +3828,10 @@ oylamasına sunulması halinde tümüyle oylanır.
   4720                   86                                                                                                                                                                                      1/12/2001
 
   4777                   76, 78, İşlenemeyen Hükümler                                                                                                                                                            31/12/2002
+
+  5170                   10, 15, 17, 30, 38, 87, 87, 90, 131, 143, 160,                                                                                                                                          22/5/2004
+                                                                                                                                                                                                                 
+                         İşlenemeyen Hüküm                                                                                                                                                                       
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
