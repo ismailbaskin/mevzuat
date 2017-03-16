@@ -1,27 +1,24 @@
-[]{#1 .anchor}**Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17,
-K.: 2010/44 sayılı Kararı ile değişik hali**
+**6327 sayılı Kanun ile değişik hali**
 
-BİREYSEL EMEKLİLİK TASARRUF VE
+[]{#K90 .anchor}**BİREYSEL EMEKLİLİK TASARRUF VE**
 
-YATIRIM SİSTEMİ KANUNU
+**YATIRIM SİSTEMİ KANUNU**
 
- 
+**Kanun Numarası : 4632**
 
-        Kanun Numarası : 4632
+**Kabul Tarihi : 28/3/2001**
 
-          Kabul Tarihi  : 28/3/2001
+**Yayımlandığı R. Gazete : Tarih : 7/4/2001 Sayı : 24366**
 
-          Yayımlandığı R. Gazete  : Tarih : 7/4/2001   Sayı : 24366
+**Yayımlandığı Düstur : Tertip : 5, Cilt : 40**
 
-          Yayımlandığı : Tertip : 5   Cilt : 40
+BİRİNCİ BÖLÜM
 
-BİRİNCİBÖLÜM
+*Amaç, Kapsam ve Tanımlar*
 
-Amaç, Kapsam ve Tanımlar
+*Amaç ve kapsam*
 
-**Amaç ve kapsam**
-
-**MADDE 1 —** Bu Kanunun amacı, kamu sosyal güvenlik sisteminin
+**Madde 1 –** Bu Kanunun amacı, kamu sosyal güvenlik sisteminin
 tamamlayıcısı olarak, bireylerin emekliliğe yönelik tasarruflarının
 yatırıma yönlendirilmesi ile emeklilik döneminde ek bir gelir sağlanarak
 refah düzeylerinin yükseltilmesi, ekonomiye uzun vadeli kaynak yaratarak
@@ -40,9 +37,9 @@ hususlara ilişkin esas ve usulleri düzenlemektir.
 Bu Kanunda hüküm bulunmayan hallerde sermaye piyasası ve sigortacılık
 mevzuatının ilgili hükümleri ve genel hükümler uygulanır.
 
-**Tanımlar**
+*Tanımlar*
 
-**MADDE 2 —** Bu Kanunda geçen deyimlerden;
+**Madde 2 –** Bu Kanunda geçen deyimlerden;
 
 a\) Bakan veya Bakanlık : Hazine Müsteşarlığının bağlı olduğu Bakan veya
 Bakanlığı,
@@ -64,12 +61,14 @@ g\) Fon : Emeklilik yatırım fonunu,
 h\) Portföy yöneticisi : Kuruldan portföy yöneticiliği yetki belgesi
 almış ve Kurulca uygun görülen portföy yönetim şirketini,
 
-ı)Saklayıcı : Emeklilik yatırım fonu portföyündeki varlıkların
+ı) Saklayıcı : Emeklilik yatırım fonu portföyündeki varlıkların
 saklandığı ve Kurulca uygun görülen saklama kuruluşunu,
 
 j\) Bireysel emeklilik hesabı : Emeklilik sözleşmesi çerçevesinde
 katılımcı ad ve hesabına ödenen katkılar ve bu katkılara ilişkin her
 türlü getirinin katılımcı bazında izlendiği hesabı,
+
+7876
 
 k\) Birikim : Bireysel emeklilik hesabındaki katkılar ile bunların
 getirilerinin toplamını,
@@ -80,13 +79,13 @@ bunları emeklilik şirketi adına yapan kişileri,
 
 İfade eder.
 
-İKİNCİBÖLÜM
+İKİNCİ BÖLÜM
 
-Bireysel Emeklilik Danışma Kurulu
+*Bireysel Emeklilik Danışma Kurulu*
 
-**Yapısı ve görevleri**
+*Yapısı ve görevleri*
 
-**MADDE 3 —** Bireysel emeklilik politikalarını belirlemek ve bunların
+**Madde 3 –** Bireysel emeklilik politikalarını belirlemek ve bunların
 gerçekleştirilmesi için alınması gerekli önlemler konusunda önerilerde
 bulunmak üzere Bireysel Emeklilik Danışma Kurulu kurulmuştur. Bireysel
 Emeklilik Danışma Kurulu, Hazine Müsteşarının başkanlığında Maliye
@@ -102,48 +101,55 @@ Müsteşarlıkça bir yönetmelikle düzenlenir.
 
 ÜÇÜNCÜ BÖLÜM
 
-Emeklilik Sözleşmesi
+*Emeklilik Sözleşmesi*
 
-**Emeklilik sistemine katılma ve emeklilik sözleşmesi**
+*Emeklilik sistemine katılma ve emeklilik sözleşmesi*
 
-**MADDE 4 —** Bireysel emeklilik sistemine medeni hakları kullanma
-ehliyetini haiz kişiler katılabilir. Sisteme katılacak kişiler şirket
-ile emeklilik sözleşmesi imzalamak zorundadırlar.
+**Madde 4 – (Değişik: 13/6/2012-6327/16 md.)**
 
-Emeklilik sözleşmesi katılımcının sisteme girmesine, sistemden
-ayrılmasına, emekli olmasına, katkıların ödenmesine, bu katkıların
-bireysel emeklilik hesaplarında izlenmesine, fonlarda yatırıma
-yönlendirilmesine ve katılımcı veya lehdarına yapılacak ödemelere
-ilişkin esaslar ile tarafların diğer hak ve yükümlülüklerini düzenleyen,
-esas olarak katılımcı ve şirketin taraf olarak yer aldığı bir
-sözleşmedir. Emeklilik sözleşmesinde bulunacak hususlara ilişkin esas ve
-usuller Kurulun uygun görüşü alınarak Müsteşarlıkça belirlenir.
+Bireysel emeklilik sistemine fiil ehliyetine sahip kişiler katılabilir.
+Sisteme katılmak için şirket ile emeklilik sözleşmesi akdedilir.
+Emeklilik sözleşmesi; şirket nezdinde bireysel emeklilik hesabı
+açılması, hesaba katkı payı ödenmesi, ödenen katkı paylarının tercih
+edilen fonlarda yatırıma yönlendirilmesi ve hesapta biriken paraların
+hak sahiplerine ödenmesine ilişkin esas ve usuller ile tarafların bu
+kapsamdaki diğer hak ve yükümlülüklerini düzenleyen sözleşmedir.
+Emeklilik sözleşmesi, katılımcı ile bireysel emeklilik sözleşmesi
+şeklinde veyahut bir istihdam ilişkisine dayalı olarak veya katılımcı
+adına bir kuruluş ile grup emeklilik sözleşmesi şeklinde yapılabilir.
+Emeklilik sözleşmesine ve emeklilik sözleşmesinde bulunacak hususlara
+ilişkin esas ve usuller Kurulun görüşü alınarak Müsteşarlık tarafından
+belirlenir.
 
-**Katılımcının ve şirketin hak ve yükümlülükleri**
+*Katılımcının ve şirketin hak ve yükümlülükleri*
 
-**MADDE 5 —** Katılımcı, emeklilik sözleşmesinde belirtilen esaslar
-dahilinde, şirket nezdinde açılacak bireysel emeklilik hesabına katkı
-yapar. Katılımcı, emeklilik sözleşmesinde yer alacak şartlar
-çerçevesinde, katkı payının aynı şirkete ait birden fazla fon arasında
-paylaştırılmasına karar verebilir. Katılımcı, bireysel emeklilik
-hesabındaki birikimlerinin başka bir emeklilik şirketine aktarılmasını
-talep edebilir. Bu halde şirket bildirimden itibaren en geç yedi iş günü
-içerisinde talebi yerine getirmekle ve birikimlerle birlikte bu hesaba
-ilişkin bilgi ve belgeleri aktarmakla yükümlüdür. **(Değişik beşinci
-cümle: 3/6/2007-5684/41 md.)** Başka bir şirkete aktarım talebinde
-bulunulabilmesi için şirkette en az bir yıl süreyle kalınmış olması
-gereklidir. Aktarıma, aktarım talebine ve aktarımda süre
-kısıtlamalarının istisnalarına ilişkin esas ve usuller Kurulun uygun
-görüşü alınarak Müsteşarlık tarafından belirlenir.
-
-**(Değişik ikinci fıkra: 3/6/2007-5684/41 md.)** Şirket, katkı
+**Madde 5 – (Değişik birinci fıkra: 13/6/2012-6327/17 md.)** Emeklilik
+sözleşmesinde belirtilen esaslar dahilinde, şirket nezdinde katılımcı
+adına açılan bireysel emeklilik hesabına katkı yapılır. Şirket, katkı
 paylarını, en geç şirkete intikalini takip eden ikinci iş gününde
-yatırıma yönlendirmek zorundadır. Bu maddede öngörülen paylaştırma,
-aktarım ve yatırıma yönlendirme yükümlülüklerini belirlenen süreler
-içinde gereği gibi yerine getirmeyen şirkete, aktarımlarda katılımcının
-dahil olduğu; yatırıma yönlendirmede ise dahil olacağı fonun ilgili
-döneme ait pozitif getirisinin iki katı tutarında gecikme cezası
-uygulanır ve bu tutar katılımcının hesabına ilâve edilir.
+yatırıma yönlendirmek zorundadır. Katılımcı, emeklilik sözleşmesinde yer
+alan şartlar çerçevesinde, katkı payını birden fazla fon arasında
+paylaştırabilir. Katılımcı, bireysel emeklilik hesabındaki
+birikimlerinin başka bir emeklilik şirketine aktarılmasını talep
+edebilir. Aktarım talebinde bulunulması halinde şirket, bildirimin
+ulaşmasından itibaren en geç on iş günü içinde talebi yerine getirmekle
+ve birikimlerle birlikte hesaba ilişkin bilgi ve belgeleri aktarmakla
+yükümlüdür. Başka bir şirkete aktarım talebinde bulunulabilmesi için
+şirkette en az bir yıl süreyle kalınmış olması gereklidir. Müsteşarlık,
+bu süreyi üç yılı aşmamak üzere yeniden belirlemeye yetkilidir.
+Aktarıma, aktarım talebine ve şirkette kalınması gereken süreye ilişkin
+esas ve usuller Kurulun görüşü alınarak Müsteşarlık tarafından
+belirlenir.
+
+7877
+
+**(Değişik ikinci fıkra: 13/6/2012-6327/17 md.)** Bu maddede öngörülen
+paylaştırma, aktarım ve yatırıma yönlendirme yükümlülüklerini belirlenen
+süreler içinde gereği gibi yerine getirmeyen şirket, fon birim pay
+fiyatı değişikliklerini dikkate alarak bu işlemden dolayı varsa
+katılımcının birikiminde oluşan parasal kaybı hesaplar ve katılımcının
+hesabına öder. Katılımcının hesabının bulunmadığı durumlarda ise ödeme
+doğrudan katılımcıya yapılır.
 
 **(Değişik üçüncü fıkra: 3/6/2007-5684/41 md.)** Grup emeklilik
 sözleşmesinin akdedilmesine taraf olan dernek, vakıf, tüzel kişiliği
@@ -154,24 +160,23 @@ hesaplarında ayrı olarak takip edilir ve bu hesaplardaki birikimlere
 ilişkin hakların kullanımı ve yükümlülükler Müsteşarlıkça belirlenen
 esas ve usûller çerçevesince grup emeklilik sözleşmesinde belirlenir.
 Katılımcının bu birikimlere hak kazanma süresi her halde katılımcının
-grup emeklilik sözleşmesine giriş tarihinden itibaren beş yılı aşamaz.
+grup emeklilik sözleşmesine giriş tarihinden itibaren yedi yılı aşamaz.
+^(1)^
 
-**Emekli olma ve emeklilik seçenekleri**
+*Emekli olma ve emeklilik seçenekleri*
 
-**MADDE 6 —** Katılımcı, sisteme giriş tarihinden itibaren en az on yıl
-sistemde bulunmak koşulu ile 56 yaşını tamamladıktan sonra emekli olmaya
-hak kazanır. Emekliliğe hak kazanan katılımcı, bireysel emeklilik
-hesabındaki birikimlerinin bir kısmının veya tamamının defaten
+**Madde 6 – (Değişik birinci fıkra: 13/6/2012-6327/18 md.)** Katılımcı,
+sisteme giriş tarihinden itibaren en az on yıl sistemde bulunmak koşulu
+ile ellialtı yaşını tamamladıktan sonra emekli olmaya hak kazanır.
+Emekliliğe hak kazanan katılımcı, bireysel emeklilik hesabındaki
+birikimlerinin bir program dahilinde ödenmesini, tamamının defaten
 ödenmesini ya da yapacağı yıllık gelir sigortası sözleşmesi çerçevesinde
-kendisine maaş bağlanmasını talep edebilir. Şirket, katılımcının kısmen
-veya tamamen ödeme talebini, katılımcının emeklilik sözleşmesi gereği
-hak sahibi olduğu tarihten itibaren yedi iş günü içerisinde yerine
-getirmekle yükümlüdür. Katılımcının bu madde kapsamında birikimlerin
-ödenmesini talep etmesi veya başka bir şirket veya hayat sigorta şirketi
-ile yıllık gelir sigortası sözleşmesi yapması halinde, hesabındaki
-birikimler herhangi bir kesinti yapılmadan yazılı bildirimden itibaren
-en geç yedi iş günü içerisinde kendisine ödenir veya ilgili şirkete
-aktarılır.
+kendisine maaş bağlanmasını talep edebilir. Katılımcının bu madde
+kapsamında birikimlerin ödenmesini talep etmesi veya başka bir şirket
+veya hayat sigorta şirketi ile yıllık gelir sigortası sözleşmesi yapması
+halinde şirket, katılımcının hesabındaki birikimleri bildirimin
+ulaşmasından itibaren en geç on iş günü içinde katılımcıya öder veya
+ilgili şirkete aktarır.
 
 Yıllık gelir sigortası, toplu veya belirli süreler içinde yapılan
 katkılara göre sigortalının yaşaması halinde hemen veya belli bir süre
@@ -185,19 +190,32 @@ ve kapsamının, tarafların hak ve yükümlülüklerinin, ödeme dönemlerinin,
 sözleşme süresi ve sözleşmeyi sona erdiren hallerin ve ilgili diğer
 hususların belirtilmesi zorunludur.
 
-Emeklilik sözleşmesi süresi içerisinde, katılımcının vefat etmesi
-halinde lehdarı, sürekli iş göremezlik durumunun ortaya çıkması halinde
-ise katılımcı, bireysel emeklilik hesabındaki birikimlerin kendisine
-ödenmesini talep edebilir. Katılımcının emekliliğe hak kazanmadan
-sistemden ayrılma talebinde bulunması halinde ise, bireysel emeklilik
-hesabındaki birikimler emeklilik sözleşmesi hükümleri çerçevesinde
-kendisine ödenir.
+**(Değişik üçüncü fıkra: 13/6/2012-6327/18 md.)** Emeklilik sözleşmesi
+süresi içinde, katılımcının vefat etmesi halinde lehdarı, malûliyet
+durumunun ortaya çıkması halinde ise katılımcı, bireysel emeklilik
+hesabındaki birikimlerin kendisine ödenmesini talep edebilir.
+Katılımcının emekliliğe hak kazanmadan sistemden ayrılma talebinde
+bulunması halinde şirket, bildirimin ulaşmasından itibaren yirmi iş günü
+içinde katılımcının birikimlerini tamamen öder. Ancak Müsteşarlıkça
+belirlenen hallerde katılımcıya sistemden ayrılmadan kısmen ödeme de
+yapılabilir. Kısmen ödemeye konu olabilecek birikim oranı ile bu madde
+kapsamında şirketlerce yapılacak ödemelere ilişkin diğer esas ve usuller
+Müsteşarlık tarafından belirlenir.
 
-Şirket, bu maddede öngörülen aktarma ve ödeme yükümlülüklerini yedi iş
-günü içerisinde yerine getirmezse, yedinci iş gününün sonunda ihtara
-gerek kalmaksızın kendiliğinden mütemerrit hale gelir. Bu halde
-uygulanacak aylık temerrüt faizi, katılımcının dahil olduğu fonun son
-aylık getirisinin iki katından aşağı olamaz.
+*––––––––––––––––––*
+
+*(1) 13/6/2012 tarihli ve 6327 sayılı Kanunun 17 nci maddesiyle, bu
+fıkranın son cümlesinde yer alan “beş” ibaresi “yedi” olarak
+değiştirilmiştir.*
+
+7878
+
+**(Değişik dördüncü fıkra: 13/6/2012-6327/18 md.)** Bu maddede öngörülen
+aktarma ve ödeme yükümlülüklerini belirlenen süreler içinde gereği gibi
+yerine getirmeyen şirket, fon birim pay fiyatı değişikliklerini dikkate
+alarak bu işlemden dolayı varsa katılımcının birikiminde oluşan parasal
+kaybı hesaplayarak katılımcının hesabına öder. Katılımcının hesabının
+bulunmadığı durumlarda ise ödeme katılımcının kendisine yapılır.
 
 Emeklilik sözleşmesi veya yıllık gelir sigortası sözleşmesi hükümlerine
 göre, hak sahiplerine ödenmesi gereken tutar, ödemeyi gerektiren
@@ -209,20 +227,25 @@ Cumhuriyet Merkez Bankasına aktarılır. Türkiye Cumhuriyet Merkez
 Bankasına yatırılan bu paralar iki yıl içinde sahipleri tarafından
 aranmadığı takdirde Hazineye gelir kaydedilir.
 
-**(Değişik son fıkra: 3/6/2007-5684/41 md.)** Emeklilik planlarına
-ilişkin uygulama esasları ile yıllık gelir sigortasına ilişkin tarife ve
-teknik esaslar serbestçe belirlenir. Bakan, gerekli gördüğü hallerde
-uygulama esasları ile tarife ve teknik esasları Müsteşarlığın onayına
-tâbi kılabilir. Bu madde kapsamında hak sahiplerinin bulunması için
-şirket ve Türkiye Cumhuriyet Merkez Bankası tarafından yapılması gereken
+**(Değişik fıkra: 3/6/2007-5684/41 md.)** Emeklilik planlarına ilişkin
+uygulama esasları ile yıllık gelir sigortasına ilişkin tarife ve teknik
+esaslar serbestçe belirlenir. Bakan, gerekli gördüğü hallerde uygulama
+esasları ile tarife ve teknik esasları Müsteşarlığın onayına tâbi
+kılabilir. Bu madde kapsamında hak sahiplerinin bulunması için şirket ve
+Türkiye Cumhuriyet Merkez Bankası tarafından yapılması gereken
 araştırmalara, söz konusu tutarın on yıllık süre içerisinde şirketçe ve
 iki yıllık süre içerisinde Türkiye Cumhuriyet Merkez Bankasınca
 değerlendirilmesine ilişkin esas ve usûller Kurulun uygun görüşü
 alınarak Müsteşarlık tarafından belirlenir.
 
-**Giriş aidatı, yönetim ve fon işletim giderleri**
+**(Ek fıkra: 13/6/2012-6327/18 md.)** Müsteşarlık, 5 inci madde ile bu
+maddede belirtilen işlem sürelerini, sunulan fonların içerdiği yatırım
+araçlarının vade yapısı ve fiyatlama sürelerini dikkate alarak altı aya
+kadar uzatmaya yetkilidir.
 
-**MADDE 7 —** Şirket, katılımcının sisteme ilk kez katılması sırasında
+*Giriş aidatı, yönetim ve fon işletim giderleri*
+
+**Madde 7 –** Şirket, katılımcının sisteme ilk kez katılması sırasında
 ve yeni bir bireysel emeklilik hesabı açtırması halinde giriş aidatı
 talep edebilir. Söz konusu giriş aidatları bireysel emeklilik hesabına
 ödenen katkılardan ayrı olarak azamî bir yıl içerisinde taksitler
@@ -237,15 +260,17 @@ belirlenir.
 
 DÖRDÜNCÜ BÖLÜM
 
-Emeklilik Şirketine İlişkin Düzenlemeler
+*Emeklilik Şirketine İlişkin Düzenlemeler*
 
-**Kuruluş esasları ve kuruluş izni**
+*Kuruluş esasları ve kuruluş izni*
 
-**MADDE 8 —** Emeklilik şirketi, bu Kanuna göre kurulan ve bireysel
+**Madde 8 –** Emeklilik şirketi, bu Kanuna göre kurulan ve bireysel
 emeklilik sisteminde faaliyet göstermek üzere bu Kanun ile ihdas edilen
 emeklilik branşında ruhsat almış şirketi ifade eder. Şirket, 21.12.1959
 tarihli ve 7397 sayılı Sigorta Murakabe Kanunu hükümlerine göre hayat ve
 ferdi kaza sigortaları branşlarında da ruhsat alabilir.
+
+7878-1
 
 Şirketin emeklilik branşı dışında başka bir branşta da faaliyet
 göstermesi halinde her bir branşa ait hesaplar ayrı tutulur.
@@ -270,7 +295,8 @@ yazılı olması,
 
 e\) Ana sözleşmesinin bu Kanun hükümlerine uygun olması,
 
-f)İş planı ve sistem tasarımı ile yapılabilirlik raporlarının sunulması,
+f\) İş planı ve sistem tasarımı ile yapılabilirlik raporlarının
+sunulması,
 
 g\) Kurucularının;
 
@@ -279,23 +305,36 @@ para ve sermaye piyasalarında faaliyet gösteren diğer kurumlarda
 doğrudan ve dolaylı yüzde on veya daha fazla bir oranda pay sahibi
 olmaması,
 
-2.İlgili mevzuat çerçevesinde faaliyetlerinin tamamen veya belirli
+2\. İlgili mevzuat çerçevesinde faaliyetlerinin tamamen veya belirli
 faaliyet alanları itibariyle sürekli veya başvuru tarihinden önceki bir
 yıl içerisinde bir ay veya daha fazla süreyle geçici süreyle durdurulma
 kararı verilmemiş olması,
 
-3\. **(Değişik: 23/1/2008-5728/485 md.)** Müflis veya konkordato ilan
+3\. **(Değişik: 23/1/2008 – 5728/485 md.)** Müflis veya konkordato ilan
 etmiş olmaması, Türk Ceza Kanununun 53 üncü maddesinde belirtilen
 süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya
 daha fazla süreyle hapis cezasına ya da devletin güvenliğine karşı
-suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli
-savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk,
+suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, (…)^(1)^
 zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni
 kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına
 fesat karıştırma, bilişim sistemini engelleme, bozma, verileri yok etme
 veya değiştirme, banka veya kredi kartlarının kötüye kullanılması,
-suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi
-kaçakçılığı veya haksız mal edinme suçlarından mahkûm olmaması,
+suçtan kaynaklanan malvarlığı değerlerini aklama, terörün
+finansmanı,kaçakçılık, vergi kaçakçılığı veya haksız mal edinme
+suçlarından mahkûm olmaması, ^(1)(2)^
+
+–––––––––––
+
+*(1) Bu alt bentte yer alan “… milli savunmaya karşı suçlar, devlet
+sırlarına karşı suçlar ve casusluk, … ” bölümü, Anayasa Mahkemesi’nin
+25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile iptal
+edilmiştir.*
+
+*(2) 13/6/2012 tarihli ve 6327 sayılı Kanunun 19 uncu maddesiyle, bu alt
+bentte yer alan “malvarlığı değerlerini aklama,” ibaresinden sonra
+gelmek üzere “terörün finansmanı,” ibaresi eklenmiştir.*
+
+7879
 
 4\. Emeklilik şirketi olmanın gerektirdiği malî güç ve itibara sahip
 olması,
@@ -312,17 +351,17 @@ Kuruluş izni için gerekli sermaye tutarı, Devlet İstatistik Enstitüsü
 Toptan Eşya Fiyat Endeksinin iki katının gerektirdiği miktar ve
 sınırları aşmamak üzere Müsteşarlık tarafından artırılabilir.
 
-**Faaliyet ruhsatı**
+*Faaliyet ruhsatı*
 
-**MADDE 9 —** Kuruluş izni alan şirketin faaliyete geçebilmesi için
+**Madde 9 –** Kuruluş izni alan şirketin faaliyete geçebilmesi için
 emeklilik branşında faaliyet ruhsatı alması zorunludur. Emeklilik branşı
 faaliyet ruhsatı Müsteşarlık tarafından verilir. Faaliyet ruhsatı almak
 üzere Müsteşarlığa yapılan başvurularda;
 
-a)İki yıl içinde en az yüzbin katılımcıya hizmet verecek biçimde gerekli
-her türlü planlamanın yapılmış olması,
+a\) İki yıl içinde en az yüzbin katılımcıya hizmet verecek biçimde
+gerekli her türlü planlamanın yapılmış olması,
 
-b)İş planı ve sistem tasarımında öngörülen düzenlemelerin yapılmış
+b\) İş planı ve sistem tasarımında öngörülen düzenlemelerin yapılmış
 olması,
 
 c\) Fiziksel mekan, teknik ve idarî alt yapı ile insan kaynakları
@@ -344,10 +383,10 @@ Kuruluş izni ve faaliyet ruhsatı başvurularında istenecek bilgi ve
 belgeler ile diğer esas ve usuller Kurulun uygun görüşü alınarak
 Müsteşarlıkça belirlenir.
 
-**Emeklilik ile ilgili kavramların kullanımı, ilan, reklam ve
-açıklanacak bilgiler**
+*Emeklilik ile ilgili kavramların kullanımı, ilan, reklam ve açıklanacak
+bilgiler*
 
-**MADDE 10 —** Kanunla kurulmuş sosyal güvenlik kurumları, 17.7.1964
+**Madde 10 –** Kanunla kurulmuş sosyal güvenlik kurumları, 17.7.1964
 tarihli ve 506 sayılı Kanunun geçici 20 nci maddesi kapsamında kurulan
 sandıklar ve 13.7.1967 tarihli ve 903 sayılı Kanun ile değişik 743
 sayılı Türk Kanunu Medenîsi hükümleri kapsamında kurulan vakıflar hariç
@@ -364,9 +403,11 @@ emeklilik sisteminde katılımcılara veya kamuya açıklanacak bilgiler,
 açıklanma dönemleri ve süreleri ile ilan ve reklamlara ilişkin esas ve
 usuller Kurulun uygun görüşü alınarak Müsteşarlıkça belirlenir.
 
-**Şirketin sorumlulukları ve bireysel emeklilik aracıları**
+7880
 
-**MADDE 11 —** Şirket;
+*Şirketin sorumlulukları ve bireysel emeklilik aracıları*
+
+**Madde 11 –** Şirket;
 
 a\) Emeklilik sözleşmelerine ilişkin Müsteşarlığın belirleyeceği esaslara
 göre bankalardan hizmet almakla,
@@ -380,15 +421,6 @@ kararlarına göre fon portföyünü yönetmesini sağlamakla,
 
 d\) Katılımcılarının bireysel emeklilik hesaplarına ait günlük bilgilere
 erişimine olanak sağlamakla,
-
-*––––––––––––––*
-
-*(1) 1/12/2010 tarihli ve 27772 sayılı Resmi Gazete’de yayımlanan
-Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44
-sayılı Kararı ile, bu alt bentte yer alan “ … milli savunmaya karşı
-suçlar, devlet sırlarına karşı suçlar ve casusluk, …” ibaresi iptal
-edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 1/12/2010 tarihinden
-başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.*
 
 e\) Fon portföyünde yer alan varlıklar, fonun performansı, malî tabloları
 gibi konularda katılımcılara düzenli bilgi verilmesini sağlamakla,
@@ -406,18 +438,52 @@ sürekliliğini ve fon varlıklarının korunmasını sağlamak üzere,
 kayıtların ve varlıkların saklanması konusunda gerekli tedbirleri
 almakla,
 
+ı) **(Ek: 13/6/2012-6327/20 md.)** Katılımcıların hak ve menfaatleri ile
+bireysel emeklilik sisteminin işleyişini tehlikeye sokabilecek
+hareketlerden kaçınmakla, mevzuat ve işletme planı esaslarına uygun
+faaliyette bulunmakla, uygun tavsiyede bulunmakla, iyiniyet kurallarına
+uygun hareket etmekle ve bireysel emeklilik aracılarının bu esaslara
+uygun hareket etmesini sağlayacak tedbirleri almakla
+
 Sorumludur.
 
-Bireysel emeklilik aracıları, Müsteşarlık nezdinde tutulan Bireysel
-Emeklilik Aracıları Siciline kaydolmak zorundadır. Bireysel emeklilik
-aracılarında aranacak nitelik ve şartlara, kuruluşlarına,
-faaliyetlerine, yapamayacakları işlere, sicile ilişkin işlemlere,
-tutacakları defterlere ve diğer hususlara ilişkin esas ve usuller
-Müsteşarlıkça düzenlenir.
+**(Değişik ikinci fıkra: 13/6/2012-6327/20 md.)** Bireysel emeklilik
+aracıları, Müsteşarlıkça belirlenen esaslar dahilinde emeklilik gözetim
+merkezince tutulan Bireysel Emeklilik Aracıları Siciline kaydolmak
+zorundadır. Bireysel emeklilik aracılarında aranacak nitelik ve
+şartlara, faaliyetlerine, yapamayacakları işlere, sicile kaydetme ve
+silmeye ve diğer hususlara ilişkin esas ve usuller Müsteşarlıkça
+düzenlenir.
 
-**Şirketin teşkilât ve organları**
+**(Ek fıkra: 13/6/2012-6327/20 md.)** Bireysel emeklilik aracıları;
 
-**MADDE 12 —** Şirketin yönetim kurulu beş kişiden az olamaz. Şirket
+a\) Mesleğin icaplarına, iyiniyet kurallarına ve mevzuata uygun
+faaliyette bulunmakla,
+
+b\) Katılımcıların hak ve menfaatleri ile bireysel emeklilik sisteminin
+işleyişini tehlikeye sokabilecek hareketlerden kaçınmakla,
+
+c\) Katılımcının yaşı ve beklentilerine göre, sistemin uzun vadeli
+yapısını ve vergi düzenlemelerini de göz önünde bulundurarak katılımcıya
+uygun tavsiyede bulunmakla,
+
+d\) Meslekî yeterliliğe ilişkin tamamlayıcı eğitim programına katılmakla,
+
+sorumludur.
+
+7880-1
+
+**(Ek fıkra: 13/6/2012-6327/20 md.)** Müsteşarlıkça, bu madde hükmüne
+aykırı hareket ettiği belirlenen bireysel emeklilik aracısının işlenen
+fiilin ağırlığına göre satış yetkisi geçici süreyle durdurulur yahut
+lisansı iptal edilir. Aracılarda aranan nitelik ve şartları kaybeden
+bireysel emeklilik aracılarının lisansları Müsteşarlıkça iptal edilir.
+Lisansı iptal edilen aracıların kayıtları Bireysel Emeklilik Aracıları
+Sicilinden silinir.
+
+*Şirketin teşkilât ve organları*
+
+**Madde 12 –** Şirketin yönetim kurulu beş kişiden az olamaz. Şirket
 genel müdürü ve yokluğunda vekili yönetim kurulunun doğal üyesidir.
 Yönetim kurulu üyelerinin salt çoğunluğunun bu maddede genel müdür için
 öngörülen meslekî deneyim süresi hariç diğer şartları haiz olması
@@ -440,7 +506,7 @@ itibaren on iş günü içerisinde Müsteşarlıkça olumsuz görüş
 bildirilmediği takdirde yapılabilir. Herhangi bir nedenle görevden
 ayrılan genel müdür ve genel müdür yardımcılarının, görevden ayrılma
 nedenleri şirket ve görevden ayrılan tarafından, ayrılış tarihinden
-itibaren on işgünü içerisinde Müsteşarlığa bildirilir.
+itibaren on iş günü içerisinde Müsteşarlığa bildirilir.
 
 Bu Kanun hükümlerine aykırı hareketlerinden dolayı hapis veya bir
 defadan fazla ağır para cezası ile cezalandırılanlar ile durumları bu
@@ -457,10 +523,12 @@ müteakip Müsteşarlığın talebi üzerine geçici olarak imza yetkilerinin
 kaldırılması zorunludur. Bu kimseler Müsteşarlığın izni olmadıkça imza
 yetkisini haiz personel olarak hiç bir şirkette çalıştırılamazlar.
 
-**Anasözleşme değişiklikleri, hisse ve malvarlıklarının devri ve şirket
-birleşmeleri**
+7881
 
-**MADDE 13 —** Şirketlerin anasözleşmelerinin değiştirilmesinde
+*Anasözleşme değişiklikleri, hisse ve malvarlıklarının devri ve şirket
+birleşmeleri*
+
+**Madde 13 –** Şirketlerin anasözleşmelerinin değiştirilmesinde
 Müsteşarlığın uygun görüşü aranır. Müsteşarlıkça uygun görülmeyen
 değişiklik tasarıları genel kurulda görüşülemez. Sicil memuru,
 Müsteşarlığın uygun görüşü olmaksızın anasözleşme değişikliklerini
@@ -475,20 +543,20 @@ düşmesi sonucunu doğuran hisse devirleri Bakanlığın iznine tâbidir. Oy
 hakkı edinilmesi ile hisselerin rehnedilmesinde de bu hüküm uygulanır.
 Yönetim ve denetim kurullarına üye belirleme imtiyazı veren veya intifa
 hakkı tanınan hisse senetlerinin devri, yukarıdaki oransal sınırlara
-bakılmaksızın Bakanlığın iznine tâbidir.
+bakılmaksızın Müsteşarlığın iznine tâbidir. ^(1)^
 
 Şirketin tüm aktif ve pasiflerini diğer bir emeklilik şirketine
 devretmesi ya da bir veya birkaç emeklilik şirketi ile birleşmesi
-Bakanlığın iznine tâbidir.
+Müsteşarlığın iznine tâbidir. ^(1)^
 
 Şirket sermayesinin yüzde on ve daha fazlasına sahip olan tüzel
 kişilerin sermayesinin doğrudan veya dolaylı olarak bu maddenin ikinci
 fıkrasında belirtilen oranlar veya esaslar dahilinde el değiştirmesi
-Bakanlığın iznine tâbidir. İzin devralan ortağın kurucularda aranan
+Müsteşarlığın iznine tâbidir. İzin devralan ortağın kurucularda aranan
 şartları taşıması kaydıyla verilebilir. Bu fıkra hükmü tüzel kişi
 ortağın yönetim ve denetimini belirleyen sermaye paylarının bir başka
 tüzel kişiye ait olması halinde, gerçek kişi ortak ya da ortaklara
-ulaşıncaya kadar uygulanır.
+ulaşıncaya kadar uygulanır. ^(1)^
 
 Bu madde hükümlerine aykırı olarak yapılan tescil işlemleri hükümsüzdür.
 
@@ -498,28 +566,46 @@ halinde temettü hakkı hariç ortağa ait hakların kullanımına, dolaylı pay
 sahipliğine, şirketlerin birleşmesine ve diğer hususlara ilişkin esas ve
 usuller Kurulun uygun görüşü alınarak Müsteşarlıkça belirlenir.
 
-**Malî bünyenin güçlendirilmesi**
+*Malî bünyenin güçlendirilmesi ve şirket uygulamalarının iyileştirilmesi
+^(2)^*
 
-**MADDE 14 —** Şirketin sözleşmelerden doğan yükümlülüklerini yerine
-getiremediğinin veya malî bünyesinin katılımcıların hak ve menfaatlerini
-tehlikeye düşürecek düzeyde zayıflamakta olduğunun tespiti hallerinde
-Bakan, şirketin yönetim kurulundan;
+**Madde 14 – (Değişik birinci fıkra: 13/6/2012-6327/22 md.)** Şirketin,
+katılımcıların hak ve menfaatlerini tehlikeye sokabilecek uygulamalar
+yaptığının, sözleşmelerden doğan yükümlülüklerini yerine getiremediğinin
+veya malî bünyesinin katılımcıların hak ve menfaatlerini tehlikeye
+düşürecek düzeyde zayıflamakta olduğunun tespiti hallerinde Bakan,
+şirketin yönetim kurulundan;
 
-a\) Sermayenin artırılmasını, ödenmemiş kısmının ödenmesini, sermayeye
+a\) Şirketin iş süreçlerinin, teknik altyapısının ve uygulamalarının
+iyileştirilmesine yönelik gerekli tedbirlerin alınmasını,
+
+b\) Sermayenin artırılmasını, ödenmemiş kısmının ödenmesini, sermayeye
 mahsuben ödeme yapılması için ortaklara çağrıda bulunulmasını veya kâr
 dağıtımının durdurulmasını,
 
-b)İştiraklerin ve sabit değerlerin kısmen veya tamamen elden
+c\) İştiraklerin ve sabit değerlerin kısmen veya tamamen elden
 çıkarılmasını veya elden çıkarılmasının durdurulmasını, yeni iştirak ve
 sabit değerler edinilmemesini,
 
-c\) Serbest varlıkların gösterilecek bir bankada bloke edilmesini ve bu
+d\) Serbest varlıkların gösterilecek bir bankada bloke edilmesini ve bu
 varlıklar üzerinde izinsiz tasarruf edilmemesini,
 
-d)Şirketin malî bünyesini düzeltmeye yönelik diğer tedbirlerin
+e\) Şirketin malî bünyesini düzeltmeye yönelik diğer tedbirlerin
 alınmasını,
 
-İsteyebilir.
+isteyebilir.
+
+––––––––––––––––––––––
+
+*(1) 13/6/2012 tarihli ve 6327 sayılı Kanunun 21 inci maddesiyle, bu
+maddenin ikinci, üçüncü ve dördüncü fıkralarında yer alan “Bakanlığın”
+ibareleri “Müsteşarlığın” olarak değiştirilmiştir.*
+
+*(2) Bu madde başlığı “Malî bünyenin güçlendirilmesi” iken,13/6/2012
+tarihli ve 6327 sayılı Kanunun 22 nci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+7882
 
 Şirket, alınması talep edilen tedbirlerin bildiriminden itibaren on iş
 günü içerisinde iyileştirme planını hazırlayıp Müsteşarlığa göndermek
@@ -542,19 +628,21 @@ esaslar dahilinde diğer şirketlere devretmeye,
 
 d\) Faaliyet ruhsatlarını iptal etmeye,
 
-e)İflasını istemeye,
+e\) İflasını istemeye,
 
 f\) Gerekli görülen diğer tedbirleri almaya,
 
 Yetkilidir.
 
-BEŞİNCİBÖLÜM
+BEŞİNCİ BÖLÜM
 
-Emeklilik Yatırım Fonuna İlişkin Düzenlemeler
+*Emeklilik Yatırım Fonuna İlişkin*
 
-**Emeklilik yatırım fonu ve fon içtüzüğü**
+*Düzenlemeler*
 
-**MADDE 15 —** Fon, şirket tarafından emeklilik sözleşmesi çerçevesinde
+*Emeklilik yatırım fonu ve fon içtüzüğü*
+
+**Madde 15 –** Fon, şirket tarafından emeklilik sözleşmesi çerçevesinde
 alınan ve katılımcılar adına bireysel emeklilik hesaplarında izlenen
 katkıların, riskin dağıtılması ve inançlı mülkiyet esaslarına göre
 işletilmesi amacıyla oluşturulan malvarlığıdır. Fonun tüzel kişiliği
@@ -570,16 +658,18 @@ Kurul tarafından belirlenir.
 Fon içtüzüğü, katılımcı ile şirket, saklayıcı ve portföy yöneticisi
 arasında fon portföyünün inançlı mülkiyet esaslarına göre saklanmasını
 ve vekalet akdi hükümlerine göre yönetimini konu alan ve genel işlem
-şartlarını içeren iltihaki bir sözleşmedir. Kurul tarafından uygun
-görülen fon içtüzüğünün notere onaylattırılmasından sonra, izin belgesi
-ile birlikte altı iş günü içerisinde şirketin merkezinin bulunduğu yerin
-ticaret siciline tescil için başvurulur ve Türkiye Ticaret Sicili
+şartlarını içeren iltihaki bir sözleşmedir. **(Değişik ikinci cümle:
+13/6/2012-6327/23 md.)** Kurul tarafından uygun görülen fon içtüzüğü,
+izin belgesi tarihini takip eden altı iş günü içinde şirketin merkezinin
+bulunduğu yerin ticaret siciline tescil edilir ve Türkiye Ticaret Sicili
 Gazetesinde ilan olunur. Fon içtüzüğüne yönelik esas ve usuller
 Müsteşarlığın uygun görüşü alınarak Kurul tarafından belirlenir.
 
-**Fonun faaliyete geçmesine ilişkin esaslar**
+7883
 
-**MADDE 16 —** Şirket, fon kuruluş izni tarihinden itibaren en geç altı
+*Fonun faaliyete geçmesine ilişkin esaslar*
+
+**Madde 16 –** Şirket, fon kuruluş izni tarihinden itibaren en geç altı
 ay içerisinde Kurul tarafından belirlenen belgelerle birlikte katılma
 belgelerinin kayda alınması talebiyle Kurula başvurmak zorundadır. Bu
 süre içerisinde Kurula başvuru yapılmaması halinde, fon içtüzüğü şirket
@@ -603,7 +693,7 @@ d\) Fonlara ilişkin insan kaynaklarının belirlenmiş olması,
 e\) En az bir portföy yöneticisi ile portföy yönetim sözleşmesinin
 imzalanmış olması,
 
-f)Şirketin bu Kanunda öngörülen kuruluş şartlarını kaybetmemiş olması,
+f\) Şirketin bu Kanunda öngörülen kuruluş şartlarını kaybetmemiş olması,
 
 Zorunludur.
 
@@ -617,23 +707,30 @@ içtüzüğünde öngörülen tutara karşılık gelen payları aşması halinde
 pay sayısının artırılması ve artırılan payların Kurul kaydına alınması
 talebiyle Kurula başvurulur.
 
-Fonun Kurulca kayda alınması sırasında, fonun ihraç değerinin en fazla
-binde biri oranında ücret alınır.
+**(Değişik üçüncü fıkra: 13/6/2012-6327/24 md.)** Kurul tarafından,
+Müsteşarlığın uygun görüşü alınmak kaydıyla, üçer aylık dönemlerin son
+iş günü itibarıyla fon net varlık değerinin yüzbinde beşini aşmamak
+üzere kayda alma ücreti alınır ve üçer aylık dönemleri izleyen on iş
+günü içinde tahsil edilir.
 
 Şirkete ve katılımcılara ait fondaki pay adedi, fon miktarı, fonun
 faaliyet ilke ve esasları, örgüt yapısı, muhasebe, belge ve kayıt
 düzeni, katılımcıların bilgilendirilmesi ve bunlara ilişkin esas ve
 usuller Müsteşarlığın uygun görüşü alınarak Kurul tarafından belirlenir.
 
-**Fonun malvarlığına, fon portföyüne ve fon varlıklarının saklanmasına
-ilişkin ilkeler**
+*Fonun malvarlığına, fon portföyüne ve fon varlıklarının saklanmasına
+ilişkin ilkeler*
 
-**MADDE 17 —** Fonun malvarlığı, şirketin bu Kanundan, 28.7.1981 tarihli
+**Madde 17 –** Fonun malvarlığı, şirketin bu Kanundan, 28.7.1981 tarihli
 ve 2499 sayılı Sermaye Piyasası Kanunundan, emeklilik sözleşmesinden,
 fon içtüzüğünden ve ilgili mevzuattan doğan yükümlülüklerini yerine
 getirmesi ve sorumluluğunu karşılaması dışında hiçbir amaçla
-kullanılamaz. Fon malvarlığı rehnedilemez, teminat gösterilemez, üçüncü
-şahıslar tarafından haczettirilemez ve iflas masasına dahil edilemez.
+kullanılamaz. **(Değişik son cümle: 13/6/2012-6327/25 md.)** Fon
+malvarlığı rehnedilemez, portföye ilişkin olarak yapılan işlemler
+haricinde teminat gösterilemez, üçüncü şahıslar tarafından
+haczettirilemez ve iflas masasına dahil edilemez.
+
+7884
 
 **(Ek fıkra: 3/6/2007-5684/41 md.)** Bireysel emeklilik hesabındaki fon
 paylarından, katılımcının sistemde bulunduğu ay sayısı ile asgarî ücret
@@ -645,22 +742,30 @@ olan kısmı haczedilemez, rehnedilemez, iflas masasına dahil edilemez. Bu
 fıkradaki hükümlerin uygulanmasında rehin, haciz veya iflas tarihinde
 geçerli brüt asgarî ücret tutarı esas alınır.
 
-Şirket, emeklilik sözleşmelerinde belirtilmek koşuluyla, para ve sermaye
-piyasası araçlarından oluşan farklı portföy yapılarına sahip Kurul
-tarafından belirlenen türlerden olmak üzere en az üç fon kurmak
-zorundadır. **(Değişik son cümle: 3/6/2007-5684/41 md.)** Fon portföy
-sınırlamalarına ilişkin ilkeler ile fon portföyündeki varlıkların
-değerlendirilmesine ilişkin esas ve usûller Müsteşarlığın uygun görüşü
-alınarak Kurul tarafından belirlenir.
+**(Değişik üçüncü fıkra: 13/6/2012-6327/25 md.)** Şirket, Kurul
+tarafından belirlenen türlerden olmak üzere para ve sermaye piyasası
+araçlarından, kıymetli madenlerden veya Kurul tarafından belirlenen
+diğer yatırım araçlarından oluşan farklı portföy yapılarına sahip en az
+üç fon kurmak zorundadır. Fon kuruluşuna, şirketlerin katılımcılarına
+diğer şirketlerin fonlarını sunmasına ve fon portföy sınırlamalarına
+ilişkin ilkeler ile fon portföyündeki varlıkların değerlendirilmesine
+ilişkin esas ve usuller Müsteşarlığın uygun görüşü alınarak Kurul
+tarafından belirlenir.
+
+**(Ek fıkra: 13/6/2012-6327/25 md.)** Kurul, fon payı alım satımının
+Türkiye Cumhuriyet Merkez Bankası tarafından günlük alım satım kurları
+ilan edilen yabancı paralar üzerinden yapılmasına izin verebilir. Bu
+kapsamda yapılacak izin başvurularının değerlendirilmesinde
+Müsteşarlığın ve Türkiye Cumhuriyet Merkez Bankasının görüşü alınır.
 
 Fon portföyündeki varlıklar saklayıcı nezdinde saklanır. Katılımcıların
 sahip oldukları ve fondaki katkılarını gösteren pay adedi de, saklayıcı
 nezdinde katılımcı bazında ve katılımcıların erişebileceği şekilde
 izlenir.
 
-**Fon portföyünün yönetimi**
+*Fon portföyünün yönetimi*
 
-**MADDE 18 —** Fon portföyü, portföy yöneticileri tarafından yönetilir.
+**Madde 18 –** Fon portföyü, portföy yöneticileri tarafından yönetilir.
 Portföy yöneticileri, portföyü bu Kanun, 2499 sayılı Sermaye Piyasası
 Kanunu, fon içtüzüğü, emeklilik sözleşmesi ve ilgili mevzuat hükümlerine
 göre yönetmekle yükümlüdür. Alınacak portföy yönetim hizmetine ilişkin
@@ -679,36 +784,36 @@ portföy yöneticilerinin değişmesini isteyebilir. Portföy yönetim
 sözleşmesine ilişkin esas ve usuller Müsteşarlığın uygun görüşü alınarak
 Kurul tarafından belirlenir.
 
-**Fonların birleştirilmesi ve devri**
+*Fonların birleştirilmesi ve devri*
 
-**MADDE 19 —** Aynı şirkete ait fonlar, şirketin talebi üzerine veya
+**Madde 19 –** Aynı şirkete ait fonlar, şirketin talebi üzerine veya
 re’sen Kurul tarafından birleştirilebilir. Fon, ancak başka bir
 emeklilik yatırım fonu ile birleştirilebilir. Söz konusu birleştirmelere
 yönelik esas ve usuller Müsteşarlığın uygun görüşü alınarak Kurul
 tarafından belirlenir.
 
+7884-1
+
 Fon süresiz olarak kurulur. Kurul;
 
-a)Şirketin bir yıl öncesinden fesih ihbarında bulunması,
+a\) Şirketin bir yıl öncesinden fesih ihbarında bulunması,
 
-b)Şirketin fon kurmaya ilişkin şartlarını kaybetmesi,
+b\) Şirketin fon kurmaya ilişkin şartlarını kaybetmesi,
 
-c)Şirketin malî bünyesinin zayıflaması nedeniyle bu Kanunun 14 üncü
+c\) Şirketin malî bünyesinin zayıflaması nedeniyle bu Kanunun 14 üncü
 maddesi kapsamına alınması,
 
 Hallerinde, fon malvarlığını bir başka şirkete Müsteşarlığın uygun
 görüşünü alarak devredebilir. Devir işlemlerine ilişkin esas ve usuller
 Müsteşarlığın uygun görüşü alınarak Kurul tarafından belirlenir.
 
-ALTINCI BÖLÜM
+*ALTINCI BÖLÜM*
 
-Denetim ve Bağımsız Dış Denetim
+*Denetim ve Bağımsız Dış Denetim*
 
-**Denetim**
+*Denetim*
 
-**MADDE 20 —** Şirketin, fonların ve portföy yöneticileri ile
-saklayıcıların bu Kanun kapsamındaki faaliyetleri en az yılda bir kez
-Müsteşarlık ve Kurul tarafından denetlenir.
+**Madde 20 – (Mülga birinci fıkra: 13/6/2012-6327/26 md.)**
 
 Şirketin bu Kanun çerçevesinde yürütülen emeklilik faaliyetleri ile
 sigortacılık faaliyetleri Müsteşarlığın denetimine tâbidir. Şirketin
@@ -717,9 +822,9 @@ işlemleri ise Kurulun denetimine tâbidir. Denetimlere ilişkin raporlar,
 konularına göre Müsteşarlık veya Kurul tarafından değerlendirilir ve
 sonuçlandırılır.
 
-**Emeklilik gözetim merkezi**
+*Emeklilik gözetim merkezi*
 
-**MADDE 20/A — (Ek: 3/6/2007-5684/42 md.)**
+**Madde 20/A – (Ek: 3/6/2007-5684/42 md.)**
 
 Müsteşarlık, bireysel emeklilik sisteminin güvenli ve etkin biçimde
 işletilmesini sağlamak, katılımcıların hak ve menfaatlerini korumak
@@ -744,28 +849,23 @@ getirilmesini teminen talep edilen bilgi ve belgeleri emeklilik gözetim
 merkezine aktarır. Emeklilik gözetim merkezinin çalışma esas ve usûlleri
 Müsteşarlık tarafından belirlenir.
 
-**Bağımsız dış denetim**
+7885
 
-**MADDE 21 —** Şirketin malî yönden bağımsız dış denetiminin, bağımsız
-denetleme kuruluşları tarafından yılda en az bir kez yapılması
-zorunludur. Şirketin bağımsız dış denetimine ilişkin esas ve usuller
-Müsteşarlıkça belirlenir. Müsteşarlık, 1.6.1989 tarihli ve 3568 sayılı
-Serbest Muhasebecilik, Serbest Muhasebeci Malî Müşavirlik ve Yeminli
-Malî Müşavirlik Kanununa göre denetlemeye yetkili olanlar tarafından
-kurulacak kuruluşların kuruluş şartlarını ve çalışma esaslarını Türkiye
-Serbest Muhasebeci Malî Müşavirler ve Yeminli Malî Müşavirler Odaları
-Birliğinin görüşünü alarak belirler ve listeler halinde yayınlar.
-Fonların hesap ve işlemleri ayrıca, üçer aylık dönemler itibariyle
-bağımsız dış denetime tâbidir. Fonların bağımsız dış denetimine ilişkin
-esas ve usuller ise Kurul tarafından belirlenir.
+*Bağımsız dış denetim*
 
-YEDİNCİBÖLÜM
+**Madde 21 – (Değişik: 13/6/2012-6327/27 md.)**
 
-Ceza Hükümleri
+Şirketin yıl sonu malî tablolarının bağımsız denetim kuruluşları
+tarafından denetlenmesi zorunludur. Fonların hesap ve işlemleri ayrıca
+yılda en az bir defa bağımsız dış denetime tabidir.
 
-**İdarî yaptırımlar ^(1)^**
+YEDİNCİ BÖLÜM
 
-**MADDE 22 — (Değişik: 23/1/2008-5728/486 md.)**
+*Ceza Hükümleri*
+
+*İdarî yaptırımlar ^(1)^*
+
+**Madde 22 – (Değişik: 23/1/2008 – 5728/486 md.)**
 
 Konularına göre Müsteşarlık veya Kurul kararıyla ve gerekçesi
 belirtilmek suretiyle bu Kanuna tâbi gerçek ve tüzel kişilere, bu
@@ -777,8 +877,9 @@ halinde üçbin Türk Lirası,
 b\) 5 inci maddesinde öngörülen aktarma yükümlülüğüne aykırılık halinde
 ikibin Türk Lirası,
 
-c\) 5 inci maddesinde öngörülen yatırıma yönlendirme yükümlülüğüne
-aykırılık halinde ikibin Türk Lirası,
+c\) **(Değişik: 13/6/2012-6327/28 md.)** 5 inci maddesinde öngörülen
+paylaştırma ve yatırıma yönlendirme yükümlülüğüne aykırılık halinde
+ikibin Türk Lirası,
 
 d\) 6 ncı maddesinde öngörülen ödeme veya aktarma yükümlülüğüne aykırılık
 halinde ikibin Türk Lirası,
@@ -786,12 +887,6 @@ halinde ikibin Türk Lirası,
 e\) 6 ncı maddesinin son fıkrasında öngörülen tasdik yükümlülüğünün
 yerine getirilmeden sözleşmelerin uygulamaya konulması halinde üçbin
 Türk Lirası,
-
-–––––––––––––––––––
-
-*(1) Bu madde başlığı “İdarî suç ve cezalar” iken, 23/1/2008 tarihli ve
-5728 sayılı Kanunun 486 ncı maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
 
 f\) 7 nci maddesinde öngörülen katılımcı tarafından ödenecek giderler
 veya ücretler konusunda bilgilendirme yükümlülüğüne aykırılık halinde
@@ -806,8 +901,9 @@ reklam faaliyetinde bulunulması halinde onbeşbin Türk Lirası,
 ı) 10 uncu maddesinin ikinci fıkrasında öngörülen katılımcılara bilgi
 verilmesi yükümlülüğüne aykırılık halinde ikibin Türk Lirası,
 
-j\) 11 inci maddesinin birinci fıkrasında öngörülen sorumlulukların
-yerine getirilmemesi halinde üçbin Türk Lirası,
+j\) **(Değişik: 13/6/2012-6327/28 md.)** 11 inci maddesinin birinci ve
+üçüncü fıkralarında öngörülen sorumlulukların yerine getirilmemesi
+halinde üçbin Türk Lirası,
 
 k\) 11 inci maddesinin ikinci fıkrası hükümlerine aykırı olarak aracılık
 faaliyetinde bulunulması veya aracılık hizmeti sağlanması hallerinde
@@ -819,6 +915,14 @@ onbeşbin Türk Lirası,
 
 m\) 12 nci maddesinin ikinci fıkrasında öngörülen bildirim yükümlülüğünün
 yerine getirilmemesi halinde üçbin Türk Lirası,
+
+–––––––––––––
+
+*(1) Bu madde başlığı “İdarî suç ve cezalar” iken, 23/1/2008 tarihli ve
+5728 sayılı Kanunun 486 ncı maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+7886
 
 n\) 12 nci maddesinin üçüncü fıkrası hükümlerine aykırı olarak belirtilen
 kişilerin yasaklanan görevlerde çalıştırılması halinde onbeşbin Türk
@@ -860,9 +964,9 @@ gecikmesinde sakınca bulunan hallerde Müsteşarlığın talebi üzerine
 valiliklerce bunların işyerleri geçici olarak kapatılır; ilan ve
 reklamları durdurulur ya da toplatılır.
 
-**Ceza sorumluluğu ^(1)^**
+*Ceza sorumluluğu ^(1)^*
 
-**MADDE 23 — (Değişik: 23/1/2008-5728/487 md.)**
+**Madde 23 – (Değişik: 23/1/2008 – 5728/487 md.)**
 
 Bu Kanuna göre gereken izinleri almaksızın emeklilik faaliyetinde
 bulunan veya ticaret unvanları ve her türlü belgeleri ve ilan ve
@@ -882,17 +986,19 @@ bulunan şirkete ait para veya diğer varlıkları zimmetine geçirirlerse,
 Türk Ceza Kanununun, zimmet suçuna ilişkin hükümlerine göre verilecek
 ceza beşte bir oranında artırılır.
 
+–––––––––––––
+
+*(1) Bu madde başlığı “Adlî suç ve cezalar” iken, 23/1/2008 tarihli ve
+5728 sayılı Kanunun 487 nci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+7887
+
 Bu Kanunda gösterilen yetkili mercilerin ve denetim görevlilerinin
 istedikleri bilgi ve belgeleri vermeyen ya da denetim görevlilerinin
 görevlerini yapmalarına engel olan gerçek kişilerle tüzel kişilerin
 görevli ve ilgilileri bir yıldan üç yıla kadar hapis ve yüz günden az
 olmamak üzere adlî para cezası ile cezalandırılır.
-
-–––––––––––––––––––
-
-*(1) Bu madde başlığı “Adlî suç ve cezalar” iken, 23/1/2008 tarihli ve
-5728 sayılı Kanunun 487 nci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
 
 Bu Kanuna tâbî gerçek ve tüzel kişilerin bu Kanunda gösterilen merciler
 ile denetim görevlilerine, mahkemelere ve diğer resmi dairelere hitaben
@@ -934,9 +1040,11 @@ sırları kendileri ya da başkaları için yarar sağlamak amacıyla
 açıklarlarsa, haklarında Türk Ceza Kanununun 239 uncu maddesine göre
 verilecek ceza yarı oranında artırılır.
 
-**Soruşturma ve kovuşturma usulü ^(1)^**
+7888
 
-**MADDE 24 — (Değişik: 23/1/2008-5728/488 md.)**
+*Soruşturma ve kovuşturma usulü ^(1)^*
+
+**Madde 24 – (Değişik: 23/1/2008 – 5728/488 md.)**
 
 Bu Kanunda belirtilen suçlara ilişkin soruşturma ve kovuşturma
 yapılması, konularına göre Müsteşarlık veya Kurul tarafından Cumhuriyet
@@ -948,24 +1056,101 @@ yetkilidir. Bu fıkra uyarınca yapılan soruşturmalar neticesinde açılan
 kamu davalarında, Müsteşarlık veya Kurulun başvuruda bulunması hâlinde,
 bunlar başvuru tarihinde katılan sıfatını kazanırlar.
 
-**Genel hükümlerin saklılığı**
+*Genel hükümlerin saklılığı*
 
-**MADDE 25 —** Bu Kanuna göre suç teşkil eden hareket ve fiiller başka
+**Madde 25 –** Bu Kanuna göre suç teşkil eden hareket ve fiiller başka
 kanunlara göre de cezayı gerektirdiği takdirde failleri hakkında en ağır
 cezayı gerektiren kanun maddesi uygulanır.
 
-SEKİZİNCİBÖLÜM
+SEKİZİNCİ BÖLÜM
 
-Diğer Hükümler
+*Diğer Hükümler*
 
-**Yönetmelikler**
+*Yönetmelikler*
 
-**MADDE 26 —** Bu Kanunda Bakanlığın, Müsteşarlığın ve Kurulun
+**Madde 26 –** Bu Kanunda Bakanlığın, Müsteşarlığın ve Kurulun
 belirlemeye yetkili kılındığı hususlar yönetmeliklerle düzenlenir. Bu
 Kanun kapsamında çıkarılacak yönetmelikler, Kanunun yayımı tarihinden
 itibaren en geç altı ay içerisinde çıkarılır.
 
-**GEÇİCİMADDE 1 —** Bu Kanunda belirtilen yönetmelik ve tebliğler
+*Devlet katkısı *
+
+**Ek Madde 1 – (Ek: 13/6/2012-6327/29 md.)**
+
+İşveren tarafından ödenenler hariç katılımcı adına bireysel emeklilik
+hesabına ödenen katkı paylarının yüzde yirmibeşine karşılık gelen tutar,
+şirketler tarafından emeklilik gözetim merkezine iletilen bilgiler esas
+alınarak Devlet katkısı olarak emeklilik gözetim merkezince hesaplanır.
+Devlet katkısı, Müsteşarlık bütçesine konulan ödenekten katılımcıların
+ilgili hesaplarına şirketler aracılığıyla aktarılmak üzere emeklilik
+gözetim merkezine ödenir. Şu kadar ki, bir katılımcı için bir takvim
+yılında ödenen ve Devlet katkısı tutarının hesaplanmasına esas teşkil
+eden katkı paylarının toplamı ilgili takvim yılına ait hesaplamaya
+ilişkin dönemin sona erdiği tarihte geçerli brüt asgari ücretin
+hesaplama dönemine isabet eden toplam tutarını aşamaz. Bu ödenekten
+bütçenin diğer kalemlerine hiçbir şekilde aktarma yapılamaz. Devlet
+katkısı, katkı payı ödemelerinden ayrı olarak takip edilir ve
+Müsteşarlıkça belirlenen yatırım araçlarında yatırıma yönlendirilir.
+
+Katılımcılardan bu maddenin yürürlüğe girdiği tarihten sonra;
+
+a\) En az üç yıl sistemde kalanlar Devlet katkısı ve varsa getirilerinin
+yüzde onbeşine,
+
+b\) En az altı yıl sistemde kalanlar Devlet katkısı ve varsa
+getirilerinin yüzde otuzbeşine,
+
+c\) En az on yıl sistemde kalanlar Devlet katkısı ve varsa getirilerinin
+yüzde altmışına,
+
+hak kazanır. Bu sürelerin hesabında emeklilik sözleşmesi esas alınır.
+
+Bireysel emeklilik sisteminden emeklilik hakkı kazananlar ile bu
+sistemden vefat veya malûliyet nedeniyle ayrılanlar Devlet katkısı ve
+varsa getirilerinin tamamına hak kazanır. Devlet katkısı ve
+getirilerinden hak kazanılan tutarlar sistemden ayrılma veya emeklilik
+durumunda katılımcıya ödenir.
+
+–––––––––––––
+
+*(1) Bu madde başlığı “Kovuşturma usulü” iken, 23/1/2008 tarihli ve 5728
+sayılı Kanunun 488 inci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
+
+7888-1
+
+Vefat veya malûliyet hariç sistemden emekli olmadan ayrılan
+katılımcıların Devlet katkısına ilişkin hesabındaki varsa hak
+kazanılmayan birikim tutarı genel bütçeye gelir kaydedilir veya
+katılımcılara yapılacak Devlet katkısı ödemesine mahsup edilebilir. Hak
+kazanılmayan tutarlarla ilgili mahsuplaşma işlemleri ile bu işlemlerin
+gerçekleştirilme sürelerine ilişkin esas ve usuller Maliye Bakanlığının
+görüşü alınarak Müsteşarlıkça belirlenir. Devlet katkısının
+hesaplanmasına, ilgili hesaba ve hak sahiplerine ödenmesine, yatırıma
+yönlendirilmesine, ödeme ve yatırıma yönlendirme işlemlerinin yerine
+getirileceği sürelere ve bu madde uyarınca yapılacak diğer işlemlere
+ilişkin esas ve usuller Müsteşarlıkça belirlenir.
+
+Devlet katkısı ve getirilerinden hak sahiplerince aranmayan kısımların
+zamanaşımına uğramasına ilişkin olarak 6 ncı madde hükmü uygulanır.
+
+Katılımcıların Devlet katkısına esas teşkil eden katkı paylarının doğru
+hesaplanmasından şirketler sorumludur. Haksız olarak yapıldığı tespit
+edilen Devlet katkısı ve getirisi, ödeme tarihinden itibaren 21/7/1953
+tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun
+51 inci maddesinde belirtilen gecikme zammı oranına göre hesaplanan
+faiziyle birlikte müteakip dönem yapılan Devlet katkısı ödemesine mahsup
+edilir. Tespit tarihinden itibaren dört ay içinde mahsup edilemeyen
+tutarlar için emeklilik gözetim merkezi tarafından şirkete yapılacak
+tebligat ile bir aylık ödeme süresi verilir. Süresinde ödenmeyen Devlet
+katkısı ve getirisi ile dördüncü fıkraya göre süresinde iade edilmeyen
+tutarlar 6183 sayılı Kanun hükümlerine göre tahsil edilmek üzere
+emeklilik gözetim merkezi tarafından ilgili vergi dairesine bildirilir.
+
+Devlet katkısı ve getirileri haczedilemez, rehnedilemez, iflas masasına
+dâhil edilemez.
+
+**Geçici Madde 1 –** Bu Kanunda belirtilen yönetmelik ve tebliğler
 yürürlüğe girinceye kadar, yürürlükteki mevzuatın bu Kanuna aykırı
 olmayan hükümleri uygulanır.
 
@@ -986,12 +1171,6 @@ faaliyet ruhsatı verilmesinde aranılacak şartlara, portföy devri
 yükümlülüklerine ve diğer hususlara ilişkin esas ve usuller
 Müsteşarlıkça belirlenir.
 
-–––––––––––––––––––
-
-*(1) Bu madde başlığı “Kovuşturma usulü” iken, 23/1/2008 tarihli ve 5728
-sayılı Kanunun 488 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
-
 Bu maddenin ikinci fıkrası kapsamında emeklilik şirketine dönüşen
 şirketler ile hayat branşında faaliyet gösteren ve yeni poliçe akdetme
 yetkisi olan sigorta şirketlerinden kurulacak emeklilik şirketine asgari
@@ -1006,6 +1185,8 @@ vergi, resim ve harçtan müstesna olup, intibak ettirilen ve emeklilik
 sözleşmesi imzalamış katılımcılardan sisteme giriş aidatı alınmaz ve
 masraf kesintileri yapılmaz.
 
+7889
+
 Bu Kanunun yayımı tarihinden önce 7397 sayılı Kanuna göre tasdik edilmiş
 hayat sigortası tarifeleri ile bunlara ilişkin tablo, ilan, reklam ve
 broşürlerde bu Kanunun 10 uncu maddesinde öngörülen kavramların yer
@@ -1016,33 +1197,67 @@ artırılabilir. Söz konusu değişikliklerin yapılmaması halinde, bu
 tarifelere istinaden yeni sözleşme akdedilemez ve bunlara ilişkin tablo,
 ilan, reklam ve broşürler kullanılamaz.
 
-**(Ek fıkra: 3/6/2007-5684/41 md.)** Yetkili organlarınca karar alınması
-kaydıyla, üyelerine veya çalışanlarına emekliliğe yönelik taahhütte
-bulunan dernek, vakıf, sandık, tüzel kişiliği haiz meslek kuruluşu veya
-sair ticaret şirketindeki emekliliğe yönelik birikimler ve taahhütlere
-ilişkin tutarlar kısmen veya tamamen bu fıkranın yürürlüğe girmesinden
-itibaren beş yıl içinde yapılmak kaydıyla ve Müsteşarlıkça belirlenecek
-esaslar çerçevesinde bireysel emeklilik sistemine veya yıllık gelir
-sigortalarına aktarılabilir. Birikimlerin veya taahhütlere ilişkin
-tutarların ödenmesine yönelik gayrimenkul satışları dahil olmak üzere
-aktarımlarla ilgili işlemler, her türlü vergi, resim ve harçtan muaftır.
-Bu muafiyet, doğabilecek gelir vergisi yükümlülüğünü de kapsar. Bu fıkra
-kapsamında yıllık gelir sigortalarına intibak ettirilenlerden veya
-emeklilik sözleşmesi akdetmiş olan katılımcılardan giriş aidatı alınmaz
-ve aktarılan tutar üzerinden herhangi bir kesinti yapılmaz.
+**(Ek fıkra: 3/6/2007-5684/41 md.; Değişik beşinci fıkra:
+13/6/2012-6327/30 md.)** Yetkili organlarınca karar alınması kaydıyla,
+üyelerine veya çalışanlarına emekliliğe yönelik taahhütte bulunan
+dernek, vakıf, sandık, tüzel kişiliği haiz meslek kuruluşu veya sair
+ticaret şirketleri nezdinde 16/4/2012 tarihi itibarıyla mevcut bulunan
+emeklilik taahhüt planları kapsamındaki yurt içi ya da yurt dışındaki
+birikimler ve taahhütlere ilişkin tutarlar (plan esaslarına göre aktarım
+tarihine kadar mutat yapılan ödemeler nedeniyle oluşanlar dahil),
+31/12/2015 tarihine kadar kısmen veya tamamen bireysel emeklilik
+sistemine aktarılabilir. Belirlenmiş katkı esasına göre yürütülen
+emeklilik taahhüt planlarından yapılan aktarımlarda ilgili kuruluşun
+yetkili organlarınca karar alınması şartı aranmayabilir.
 
-**(Ek fıkra: 3/6/2007-5684/41 md.)** Üyelerine veya çalışanlarına
+**(Ek fıkra: 3/6/2007-5684/41 md. ; Değişik altıncı fıkra:
+13/6/2012-6327/30 md.)** Beşinci fıkra kapsamında bireysel emeklilik
+sistemine aktarılan tutarlar gelir vergisinden müstesnadır. Aktarım
+yapan üyelerin sistemde kazanacakları süreye ve üyelerden sosyal
+güvenlik sistemi ve tabi olduğu vakıf senedi kapsamında emeklilik hakkı
+kazanmış olanların aktarım sonrası sistemde emeklilik hakkı kazanacağı
+yaşa ilişkin esas ve usuller Müsteşarlıkça belirlenir.
+
+**(Ek fıkra: 13/6/2012-6327/30 md.)** Bireysel emeklilik sistemine
+aktarılan tutarlar, gelir ve kurumlar vergisi mükelleflerince daha önce
+gider kaydedilmemişse, aktarıldığı yılın ticari kazancının tespitinde
+dikkate alınır.
+
+**(Ek fıkra: 13/6/2012-6327/30 md.)** Beşinci fıkrada belirtilen
+aktarımın yapılması amacıyla gerçekleştirilen taşınmaz veya iştirak
+hissesi satışından doğacak kazancın, bu kapsamda aktarılan kısma isabet
+eden tutarı kurumlar vergisinden müstesnadır.
+
+**(Ek fıkra: 13/6/2012-6327/30 md.)** Beşinci fıkra kapsamında yapılan
+işlemler her türlü harçtan, düzenlenen kâğıtlar damga vergisinden, lehe
+alınan paralar banka ve sigorta muameleleri vergisinden müstesnadır. Şu
+kadar ki, bu istisna aktarılacak tutarla sınırlı olarak uygulanır.
+
+**(Ek fıkra: 13/6/2012-6327/30 md.)** Bu madde kapsamında emeklilik
+sözleşmesi akdetmiş olan katılımcılardan, aktarıma ilişkin olarak giriş
+aidatı dahil herhangi bir kesinti yapılmaz.
+
+**(Ek fıkra: 13/6/2012-6327/30 md.)** Bu kapsamda aktarılan tutarlar
+aktarım sonrasında 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi
+Kanununun bireysel emeklilik sistemine ilişkin hükümleri çerçevesinde
+vergilendirilir. Bu madde kapsamında yapılacak aktarıma ve bireysel
+emeklilik sisteminde hak kazanılacak süreye ilişkin usul ve esasları
+belirlemeye Müsteşarlık yetkilidir.
+
+**(Ek fıkra: 13/6/2012-6327/30 md.)** Üyelerine veya çalışanlarına
 emekliliğe yönelik taahhütte bulunan dernek, vakıf, sandık, tüzel
 kişiliği haiz meslek kuruluşu veya sair ticaret şirketinin emekliliğe
 yönelik faaliyetlerinin aktüeryal denetimini Müsteşarlık yapar.
 
-**Yürürlük**
+*Yürürlük*
 
-**MADDE 27 —** Bu Kanun yayımı tarihinden altı ay sonra yürürlüğe girer.
+**Madde 27 –** Bu Kanun yayımı tarihinden altı ay sonra yürürlüğe girer.
 
-**Yürütme**
+*Yürütme*
 
-**MADDE 28 —** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**Madde 28 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+7890
 
 **4632 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -1053,9 +1268,18 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4632 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+
   5684                                                                         2, 5, 6, 17, 18, 20/A, Geçici Madde 1                         14/6/2007
+
   5728                                                                         8, 22, 23, 24                                                 8/2/2008
+
   Anayasa Mah.’nin E.: 2008/17, K.: 2010/44 sayılı Kararı                      8                                                             1/12/2011
+
+  6327                                                                         Geçici Madde 1                                                29/6/2012
+                                                                                                                                             
+                                                                               4, 5, 6, 8, 11, 13, 14, 15, 17, 20, 21, 22,                   1/1/2013
+                                                                                                                                             
+                                                                               Ek Madde 1                                                    
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
