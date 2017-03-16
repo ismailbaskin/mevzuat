@@ -1,4 +1,6 @@
-**6494 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 10/7/2013 tarihli ve **
+
+**E.: 2012/107 K.: 2013/90 sayılı Kararı ile değişik hali**
 
 []{#K10 .anchor}**İDARİ YARGILAMA USULÜ KANUNU ^(1)(2)^**
 
@@ -711,10 +713,9 @@ kez yürütmenin durdurulması isteminde bulunulamaz.
 idare mahkemeleri, idare ve vergi mahkemelerinin esasa ve yürütmenin
 durdurulmasına ilişkin kararlarının icaplarına göre idare,gecikmeksizin
 işlem tesis etmeye veya eylemde bulunmaya mecburdur.Bu süre hiçbir
-şekilde kararın idareye tebliğinden başlayarak otuz günü
-geçemez.Ancak,haciz veya ihtiyati haciz uygulamaları ile ilgili
-davalarda verilen kararlar hakkında,bu kararların kesinleşmesinden sonra
-idarece işlem tesis edilir.
+şekilde kararın idareye tebliğinden başlayarak otuz günü geçemez.
+**(İptal cümle: Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107
+K.: 2013/90 sayılı Kararı ile)**
 
 2\. **(Değişik: 2/7/2012 - 6352/58 md.)** Konusu belli bir miktar paranın
 ödenmesini gerektiren davalarda hükmedilen miktar ile her türlü
@@ -902,7 +903,7 @@ a\) Uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümleri tarh
 ve tahakkuk ettiren, zam ve cezaları kesen,
 
 b\) **(Ek : 10/6/1994 - 4001/17 md.)** Gümrük Kanununa göre alınması
-gereken vergilerle Vergi Usul Kanunu gereğince şikayet yoluyla vergi
+gereken vergilerle Vergi Usul Kanunu ğereğince şikayet yoluyla vergi
 düzeltme taleplerinin reddine ilişkin işlemlerde; vergi, resim, harç ve
 benzeri mali yükümleri tarh ve tahakkuk ettiren,
 
@@ -1707,6 +1708,10 @@ K.1995/49 sayılı Kararı ile.)**
   Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                         (1/7/2013)
 
   6494                                                                                 61                                                            7/7/2013
+
+  Anayasa                                                                              28                                                            22/11/2013
+                                                                                                                                                     
+  Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107 K.: 2013/90 sayılı Kararı                                                                          
   ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------------------------
 
 
