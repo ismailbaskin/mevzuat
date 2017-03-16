@@ -1,4 +1,4 @@
-**6353 sayılı Kanun ile değişik hali**
+**6415 sayılı Kanun ile değişik hali**
 
 []{#K93 .anchor}**TERÖRLE MÜCADELE KANUNU **
 
@@ -181,19 +181,10 @@ büro veya eklentilerinde veya öğretim kurumlarında veya öğrenci
 yurtlarında veya bunların eklentilerinde işlenmesi halinde bu fıkradaki
 cezanın iki katı hükmolunur.
 
-*Terörün finansmanı^(2)^*
+*Terörün finansmanı*
 
-**Madde 8- (Yeniden düzenleme: 29/6/2006-5532/7 md.)**
-
-Her kim tümüyle veya kısmen terör suçlarının işlenmesinde
-kullanılacağını bilerek ve isteyerek fon sağlar veya toplarsa, örgüt
-üyesi olarak cezalandırılır. Fon, kullanılmamış olsa dahi, fail aynı
-şekilde cezalandırılır.
-
-Bu maddenin birinci fıkrasında geçen fon; para veya değeri para ile
-temsil edilebilen her türlü mal, hak, alacak, gelir ve menfaat ile
-bunların birbirine dönüştürülmesinden hasıl olan menfaat ve değeri ifade
-eder.
+**Madde 8- (Yeniden düzenleme: 29/6/2006-5532/7 md.;
+Mülga:7/2/2013-6415/18 md.)**
 
 *Nitelikli hal *
 
@@ -215,11 +206,7 @@ göre bunlara özgü güvenlik tedbirlerine hükmolunur.
 
 *(1) Bu fıkrada yer alan "sahipleri ve" ibaresi, Anayasa Mahkemesinin
 18/6/2009 tarihli ve E.:2006/121, K.:2009/90 sayılı Kararı ile iptal
-edilmiştir. *
-
-\(2) *Bu madde başlığı “Devletin bölünmezliği aleyhine propaganda” iken,
-29/6/2006 tarihli ve 5532 sayılı Kanunun 7 inc i maddesiyle metne
-işlendiği şekilde değiştirilmiştir.*
+edilmiştir.*
 
 7218
 
@@ -330,6 +317,8 @@ Yedinci Bölümünde tanımlanan suçlarda, Ceza Muhakemesi Kanununda
 Çocuklar, bu madde hükümleri uyarınca kurulan mahkemelerde yargılanamaz;
 bu mahkemelere özgü soruşturma ve kovuşturma hükümleri çocuklar
 bakımından uygulanmaz.
+
+7218-2
 
 7219
 
@@ -1047,6 +1036,8 @@ değişiklik sebebiyle mahkumiyet sürelerinin yeniden belirlenmesine ve
 13.7.1965 tarihli ve 647 sayılı Kanunun 4 üncü ve 6 ncı maddelerinden
 yararlanma durumları hakkında gerekli karar verilir.
 
+7226-2
+
 7227-7231
 
 **3713 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
@@ -1089,29 +1080,29 @@ Diğerleri 16/11/1995
 
 4963 – 7/8/2003
 
-**Değiştiren Kanun Yürürlüğe**
+7232
 
-***No. 3713 sayılı Kanunun değişen maddeleri giriş tarihi***
+**3713 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-5218 17 21/7/2004
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL **
 
-5460 21 28/2/2006
+**EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
-5532 1,3,4,5,6,7,8,8/A,8/B,9,10,12,13,15,16,17,18,19,20,21 ve Ek Madde 2
-18/7/2006
+**GÖSTERİR LİSTE**
 
-5673 Ek Madde 1 2/6/2007
+  ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **3713 sayılı Kanunun değişen veya iptal edilen maddeleri**                              **Yürürlüğe Giriş Tarihi**
+  5218                                                                         17                                                                                       21/7/2004
+  5460                                                                         21                                                                                       28/2/2006
+  5532                                                                         1, 3, 4, 5, 6, 7, 8, 8/A, 8/B, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21 ve Ek Madde 2   18/7/2006
+  5673                                                                         Ek Madde 1                                                                               2/6/2007
+  5739                                                                         13                                                                                       1/3/2008
+  5763                                                                         Ek Madde 1                                                                               26/5/2008
+  (5754 sayılı Kanun ile değişik) 5510                                         21                                                                                       1/10/2008
+  6008                                                                         5, 9, 13                                                                                 25/7/2010
+  6352                                                                         2, 6, 9,10, 13                                                                           5/7/2012
+  6353                                                                         21, Ek Madde 1, Geçici Madde 11, 12                                                      12/7/2012
+  6415                                                                         8                                                                                        16/2/2013
+  ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- ----------------------------
 
-5739 13 1/3/2008
 
-5763 Ek Madde 1 26/5/2008
-
-(5754 sayılı Kanun ile
-
-değişik) 5510 21 1/10/2008
-
-6008 5, 9, 13 25/7/2010
-
-6352 2, 6, 9,10, 13 5/7/2012
-
-6353 21, Ek Madde 1, Geçici Madde 11, 12 12/7/2012
