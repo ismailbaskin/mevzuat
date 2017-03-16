@@ -1,4 +1,4 @@
-8/12/2010 tarihli ve 6086 sayılı Kanunla değişik
+31/3/2011 tarihli ve 6217 sayılı Kanunla değişik
 
 TÜRK CEZA KANUNU^(1)^
 
@@ -3784,7 +3784,8 @@ göre hüküm vermeden önce uyuşturucu veya uyarıcı madde kullanan kişi
 hakkında, tedaviye ve denetimli serbestlik tedbirine; kullanmamakla
 birlikte, kullanmak için uyuşturucu veya uyarıcı madde satın alan, kabul
 eden veya bulunduran kişi hakkında, denetimli serbestlik tedbirine karar
-verebilir.
+verebilir**. (Ek cümle: 31/3/2011-6217/20 md.)** Bu karar, durma
+kararının hukuki sonuçlarını doğurur.
 
              (3) Hakkında tedaviye ve denetimli serbestlik tedbirine
 karar verilen kişi, belirlenen kurumda uygulanan tedavinin ve denetimli
@@ -6418,6 +6419,7 @@ MAHKEMESİ KARARININ **
   5918                       9/7/2009                                                                                                   13, 55, 165, 254, 282
   6008                       25/7/2010                                                                                                  79
   6086                       19/12/2010                                                                                                 257
+  6217                       14/4/2011                                                                                                  191
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
