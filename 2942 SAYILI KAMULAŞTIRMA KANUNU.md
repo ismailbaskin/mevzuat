@@ -1,6 +1,6 @@
-**6495 sayılı Kanun ile değişik hali **
+**6552 sayılı Kanun ile değişik hali **
 
- 
+** **
 
 []{#K18 .anchor}KAMULAŞTIRMA KANUNU
 
@@ -93,7 +93,7 @@ taksitlerle ödemek suretiyle kamulaştırma yapabilirler.
 
  
 
-           Bakanlar Kurulunca kabul olunan, büyük enerji ve sulama
+          Bakanlar Kurulunca kabul olunan, büyük enerji ve sulama
 projeleri ile iskan projelerinin gerçekleştirilmesi, yeni ormanların
 yetiştirilmesi, kıyıların korunması ve turizm amacıyla yapılacak
 kamulaştırmalarda, bir gerçek veya özel hukuk tüzelkişisine ödenecek
@@ -105,74 +105,82 @@ birlikte ödenmek üzere eşit taksitlere bağlanır. Taksitlere, peşin ödeme
 gününü takip eden günden itibaren, Devlet borçları için öngörülen en
 yüksek faiz haddi uygulanır.
 
-           Kamulaştırılan topraktan, o toprağı doğrudan doğruya işleten
-küçük çiftçiye ait olanların bedeli, her halde peşin ödenir.
+Kamulaştırılan topraktan, o toprağı doğrudan doğruya işleten küçük
+çiftçiye ait olanların bedeli, her halde peşin ödenir.
 
-           **(Ek : 24/4/2001 - 4650/1 md.)** İdarelerce yeterli ödenek
-temin edilmeden kamulaştırma işlemlerine başlanılamaz.
+**(Ek : 24/4/2001 - 4650/1 md.)** İdarelerce yeterli ödenek temin
+edilmeden kamulaştırma işlemlerine başlanılamaz.
 
-           İrtifak hakkı kurulması
+İrtifak hakkı kurulması
 
-           **Madde 4 –** Taşınmaz malın mülkiyetinin kamulaştırılması
-yerine, amaç için yeterli olduğu takdirde taşınmaz malın belirli kesimi,
-yüksekliği, derinliği veya kaynak üzerinde kamulaştırma yoluyla irtifak
-hakkı kurulabilir.
+**Madde 4 –** Taşınmaz malın mülkiyetinin kamulaştırılması yerine, amaç
+için yeterli olduğu takdirde taşınmaz malın belirli kesimi, yüksekliği,
+derinliği veya kaynak üzerinde kamulaştırma yoluyla irtifak hakkı
+kurulabilir.
 
-           Kamu yararı kararı verecek merciler
+**(Ek fıkra : 10/9/2014 - 6552/99 md.)** Ancak, maliklerinin mülkiyet
+hakkının kullanılmasının engellenmemesi, can ve mal güvenliği bakımından
+gerekli önlemlerin alınması kaydıyla, kamu yararına dayalı olarak
+taşınmazların üstünde teleferik ve benzeri ulaşım hatları ile her türlü
+köprü, taşınmazların altında metro ve benzeri raylı taşıma sistemleri
+yapılabilir. Taşınmazların mülkiyet hakkının kullanımının engellenmemesi
+hâlinde, taşınmazlara ilişkin herhangi bir kamulaştırma yapılmaz.
+Taşınmaz sahiplerine bu işlemler nedeniyle kamulaştırma, tazminat ve
+benzeri nam altında herhangi bir ücret ödenmez. Yapılan yatırım
+nedeniyle taşınmaz maliklerinden değer artış bedeli alınamaz.
 
-           **Madde 5 –** Kamu yararı kararı verecek merciler şunlardır:
+Kamu yararı kararı verecek merciler
 
-           a) Kamu idareleri ve kamu tüzelkişileri;
+**Madde 5 –** Kamu yararı kararı verecek merciler şunlardır:
 
-           1. 3 üncü maddenin ikinci fıkrasında sayılan amaçlarla
-yapılacak kamulaştırmalarda ilgili bakanlık,
+a\) Kamu idareleri ve kamu tüzelkişileri;
 
-           2. Köy yararına kamulaştırmalarda köy ihtiyar kurulu,
+1\. 3 üncü maddenin ikinci fıkrasında sayılan amaçlarla yapılacak
+kamulaştırmalarda ilgili bakanlık,
 
-           3. Belediye yararına kamulaştırmalarda belediye encümeni,
+2\. Köy yararına kamulaştırmalarda köy ihtiyar kurulu,
 
-           4. İl özel idaresi yararına kamulaştırmalarda il daimi
-encümeni,
+3\. Belediye yararına kamulaştırmalarda belediye encümeni,
 
-           5. Devlet yararına kamulaştırmalarda il idare kurulu,
+4\. İl özel idaresi yararına kamulaştırmalarda il daimi encümeni,
 
-           6. Yükseköğretim Kurulu yararına kamulaştırmalarda
-Yükseköğretim Kurulu,
+5\. Devlet yararına kamulaştırmalarda il idare kurulu,
 
-           7. Üniversite, Türkiye Radyo - Televizyon Kurumu, Atatürk
-Kültür, Dil ve Tarih Yüksek Kurumu yararına kamulaştırmalarda yönetim
-kurulları,
+6\. Yükseköğretim Kurulu yararına kamulaştırmalarda Yükseköğretim Kurulu,
 
-           8. Aynı ilçe sınırları içinde birden çok köy ve belediye
-yararına kamulaştırmalarda ilçe idare kurulu,
+7\. Üniversite, Türkiye Radyo - Televizyon Kurumu, Atatürk Kültür, Dil ve
+Tarih Yüksek Kurumu yararına kamulaştırmalarda yönetim kurulları,
 
-           9. Bir il sınırları içindeki birden çok ilçeye bağlı köyler
-ve belediyeler yararına kamulaştırmalarda il idare kurulu,
+8\. Aynı ilçe sınırları içinde birden çok köy ve belediye yararına
+kamulaştırmalarda ilçe idare kurulu,
 
-           10. Ayrı illere bağlı birden çok kamu tüzelkişileri yararına
+9\. Bir il sınırları içindeki birden çok ilçeye bağlı köyler ve
+belediyeler yararına kamulaştırmalarda il idare kurulu,
+
+10\. Ayrı illere bağlı birden çok kamu tüzelkişileri yararına
 kamulaştırmalarda Bakanlar Kurulu,
 
-           11. Birden çok il sınırları içindeki Devlet yararına
-kamulaştırmalarda Bakanlar Kurulu.
+11\. Birden çok il sınırları içindeki Devlet yararına kamulaştırmalarda
+Bakanlar Kurulu.
 
-           b) Kamu kurumları yararına kamulaştırmalarda yönetim kurulu
-veya idare meclisi, bunların olmaması halinde yetkili idare organları,
+b\) Kamu kurumları yararına kamulaştırmalarda yönetim kurulu veya idare
+meclisi, bunların olmaması halinde yetkili idare organları,
 
-           c) Gerçek kişiler yararına kamulaştırmalarda bu kişilerin,
-özel hukuk tüzelkişileri yararına kamulaştırmalarda ise; yönetim
-kurulları veya idare meclislerinin, yoksa yetkili yönetim organlarının
-başvuruları üzerine gördükleri hizmet bakımından denetimine bağlı
-oldukları köy, belediye, özel idare veya bakanlık.
+c\) Gerçek kişiler yararına kamulaştırmalarda bu kişilerin, özel hukuk
+tüzelkişileri yararına kamulaştırmalarda ise; yönetim kurulları veya
+idare meclislerinin, yoksa yetkili yönetim organlarının başvuruları
+üzerine gördükleri hizmet bakımından denetimine bağlı oldukları köy,
+belediye, özel idare veya bakanlık.
 
-           Onay mercii
+Onay mercii
 
-           **Madde 6 –** Kamu yararı kararı;
+**Madde 6 –** Kamu yararı kararı;
 
-           a) Köy ihtiyar kurulları ve belediye encümenleri kararları,
-ilçelerde kaymakamın, il merkezlerinde valinin,
+a\) Köy ihtiyar kurulları ve belediye encümenleri kararları, ilçelerde
+kaymakamın, il merkezlerinde valinin,
 
-           b) İlçe idare kurulları, il daimi encümenleri ve il idare
-kurulları kararları, valinin,
+b\) İlçe idare kurulları, il daimi encümenleri ve il idare kurulları
+kararları, valinin,
 
 6205
 
@@ -962,13 +970,13 @@ madde çerçevesinde takdir olunan bedeli zilyedine ödenir.
 
 DÖRDÜNCÜ KISIM
 
-*Kamulaştırmada Boşaltma, Vazgeçme ve Geri Alma*
+Kamulaştırmada Boşaltma, Vazgeçme ve Geri Alma
 
 BİRİNCİ BÖLÜM
 
-*Boşaltma *
+Boşaltma
 
-*Taşınmaz malın boşaltılması *
+Taşınmaz malın boşaltılması
 
 **Madde 20 – (Değişik ibare: 24/4/2001 - 4650/12 md.)** Bu Kanun
 uyarınca lehine kamulaştırma yapılan idare adına tapu dairesince tescil
@@ -991,9 +999,9 @@ gerekmez.
 
 İKİNCİ BÖLÜM
 
-*Kamulaştırmadan Vazgeçme ve Geri Alma *
+Kamulaştırmadan Vazgeçme ve Geri Alma
 
-*İdarenin tek taraflı vazgeçmesi *
+İdarenin tek taraflı vazgeçmesi
 
 **Madde 21 –** İdare kamulaştırmanın her safhasında kamulaştırma kararı
 veren ve onaylayan yetkili merciin kararı ile kamulaştırmadan tek
@@ -1002,23 +1010,28 @@ sırasında vazgeçme halinde dava giderleri ile harç, harcanan emek ve
 işin önemi gözetilerek mahkemece maktuen takdir olunacak avukatlık
 ücreti idareye yükletilir.
 
-*Vazgeçme, iade ve devir ^(2)^*
+Vazgeçme, iade ve devir ^(2)^
 
 **Madde 22 – (Değişik birinci fıkra: 24/4/2001 - 4650/13 md.)**
-Kamulaştırmanın ve bedelinin kesinleşmesinden sonra taşınmaz malların
+Kamulaştırmanın (…)^(3)^ kesinleşmesinden sonra taşınmaz malların
 kamulaştırma amacına veya kamu yararına yönelik herhangi bir ihtiyaca
 tahsisi lüzumu kalmaması halinde, keyfiyet idarece mal sahibi veya
-mirasçılarına 7201 sayılı Tebligat Kanunu hükümlerine göre duyurulur. Bu
-duyurma üzerine mal sahibi veya mirasçıları, aldığı kamulaştırma
-bedelini üç ay içinde ödeyerek taşınmaz malını geri alabilir. **(Ek
-cümle: 14/2/2013 - 6427/3 md.; Değişik: 12/7/2013-6495/26 md.)**
-Kamulaştırmayı yapan idarece kamulaştırma amacına uygun tesisat, yapı
-veya donatı yapıldıktan ve en az 5 yıl kullanıldıktan sonra bu ihtiyacın
-ortadan kalkması nedeniyle kamulaştırma amacında kullanılamayan
-taşınmazlar önceki mal sahibi veya mirasçılarına iade edilmez. Bu
-taşınmazların kamulaştırma amacı dışında idarece tasarruf edilmesi
-hâlinde, önceki mal sahibi veya mirasçıları tarafından idareden herhangi
-bir hak, bedel veya tazminat talebinde bulunulamaz.
+mirasçılarına 7201 sayılı Tebligat Kanunu hükümlerine göre duyurulur.
+**(Değişik ikinci ve üçüncü cümleler: 10/9/2014 - 6552/100 md.)** Bu
+duyurma üzerine mal sahibi veya mirasçıları, kamulaştırma bedelini
+aldıkları günden itibaren işleyecek kanuni faiziyle birlikte üç ay
+içinde ödeyerek taşınmaz malı geri alabilir. İade işleminin
+kamulaştırmanın ve bedelinin kesinleşmesinden sonra bir yıl içinde
+gerçekleşmesi hâlinde kamulaştırma bedelinin faizi alınmaz. **(Mülga
+dördüncü cümle: 10/9/2014-6552/100 md.)**
+
+**(Ek fıkra: 10/9/2014-6552/100 md.)** Bu madde hükümlerine göre
+taşınmaz malı geri almayı kabul etmeyen mal sahibi veya mirasçılarının
+23 üncü maddeye göre geri alma hakları da düşer.
+
+**(Ek fıkra: 10/9/2014-6552/100 md.)** Bu madde hükümleri,
+kamulaştırmanın kesinleşmesi tarihinden itibaren beş yıl geçmiş olması
+hâlinde uygulanmaz.
 
 Ancak, kamulaştırılan taşınmaz mala kamulaştırmayı yapan idare dışında
 başka bir idare, kamulaştırma yoluyla gerçekleştirebileceği bir kamu
@@ -1026,30 +1039,42 @@ hizmeti amacıyla istekli olduğu takdirde, yukarıdaki fıkra hükmü
 uygulanmayarak bu Kanunun 30 uncu veya 1050 sayılı Muhasebei Umumiye
 Kanununun 23 üncü maddesine göre işlem yapılır.
 
-*Mal sahibinin geri alma hakkı *
+Mal sahibinin geri alma hakkı
 
 **Madde 23 –** Kamulaştırma bedelinin kesinleşmesi tarihinden itibaren
-beş yıl içinde, kamulaştırmayı yapan idarece veya 22 nci maddenin ikinci
-fıkrası uyarınca devir veya tahsis yapılan idarece; kamulaştırma ve
-devir amacına uygun hiç bir işlem veya tesisat yapılmaz veya kamu
-yararına yönelik bir ihtiyaca tahsis edilmeyerek taşınmaz mal olduğu
-gibi bırakılırsa, mal sahibi veya mirasçıları kamulaştırma bedelini
-aldıkları günden itibaren işleyecek kanuni faiziyle birlikte ödeyerek,
-taşınmaz malını geri alabilir.
+beş yıl içinde, kamulaştırmayı yapan idarece veya 22 nci maddenin
+dördüncü fıkrası uyarınca devir veya tahsis yapılan idarece;
+kamulaştırma ve devir amacına uygun hiç bir işlem veya tesisat yapılmaz
+veya kamu yararına yönelik bir ihtiyaca tahsis edilmeyerek taşınmaz mal
+olduğu gibi bırakılırsa, mal sahibi veya mirasçıları kamulaştırma
+bedelini aldıkları günden itibaren işleyecek kanuni faiziyle birlikte
+ödeyerek, taşınmaz malını geri alabilir.^(4)^
 
-*——————————*
+——————————
 
-*(1) Bu fıkrada yer alan; “16, 17 ve 19 uncu maddelere dayanılarak”
+\(1) Bu fıkrada yer alan; “16, 17 ve 19 uncu maddelere dayanılarak”
 ibaresi, 24/4/2001 tarihli ve 4650 sayılı Kanunun 12 nci maddesiyle “Bu
-Kanun uyarınca” şeklinde değiştirilmiş ve metne işlenmiştir.*
+Kanun uyarınca” şeklinde değiştirilmiş ve metne işlenmiştir.
 
-*(2) Bu madde başlığı “Tarafların anlaşmasıyla vazgeçme ve devir”iken,
+\(2) Bu madde başlığı “Tarafların anlaşmasıyla vazgeçme ve devir”iken,
 12/7/2013 tarihli ve 6495 sayılı Kanunun 26 ncı maddesiyle metne
-işlendiği şekilde değiştirilmiştir.*
+işlendiği şekilde değiştirilmiştir.
+
+\(3) 10/9/2014 tarihli ve 6552 sayılı Kanunun 100 üncü maddesiyle bu
+fıkrada yer alan; “ve bedelinin” ibaresi metinden çıkarılmıştır.
+
+\(4) 10/9/2014 tarihli ve 6552 sayılı Kanunun 100 üncü maddesiyle bu
+fıkrada yer alan; “ikinci” ibaresi “dördüncü” şeklinde değiştirilmiştir.
 
 6214
 
 Doğmasından itibaren bir yıl içinde kullanılmayan geri alma hakkı düşer.
+
+**(Ek fıkra: 10/9/2014-6552/100 md.)** Birinci ve ikinci fıkrada
+belirtilen süreler geçtikten sonra kamulaştırılan taşınmaz malda hakları
+bulunduğu iddiasıyla eski malikleri veya mirasçıları tarafından idareden
+herhangi bir sebeple hak, bedel veya tazminat talebinde bulunulamaz ve
+dava açılamaz.
 
 Aynı amacın gerçekleşmesi için birden fazla taşınmaz mal birlikte
 kamulaştırıldığı takdirde bu taşınmaz malların durumunun bir bütün
@@ -1062,13 +1087,13 @@ yapılacak kamulaştırmalarda bu madde hükmü uygulanmaz.
 
 BEŞİNCİ KISIM
 
-*Hasar, Doğacak Hak ve Borçlar, Trampa Yolu ile ve Acele Kamulaştırma *
+Hasar, Doğacak Hak ve Borçlar, Trampa Yolu ile ve Acele Kamulaştırma
 
 BİRİNCİ BÖLÜM
 
-*Hasar *
+Hasar
 
-*Kamulaştırma bedelinden düşülebilecek hasar *
+Kamulaştırma bedelinden düşülebilecek hasar
 
 **Madde 24 –** 21, 22 ve 23 üncü maddeler uyarınca kamulaştırılmasından
 vazgeçilen veya geri alınan taşınmaz mal üzerindeki bina, sabit tesisler
@@ -1082,9 +1107,9 @@ anlaşmazlıklar adli yargıda çözümlenir.
 
 İKİNCİ BÖLÜM
 
-*Tebliğ ile Doğacak Haklar ve Borçlar*
+Tebliğ ile Doğacak Haklar ve Borçlar
 
-*Hakların sınırlandırılması ve mülkiyetin idareye geçmesi*
+Hakların sınırlandırılması ve mülkiyetin idareye geçmesi
 
 **Madde 25 – (Değişik: 24/4/2001 - 4650/14 md.)**
 
@@ -1111,9 +1136,9 @@ beş yılı geçemez.
 
 ÜÇÜNCÜ BÖLÜM
 
-*Trampa Yolu ve Acele Kamulaştırma*
+Trampa Yolu ve Acele Kamulaştırma
 
-*Trampa yolu ile kamulaştırma*
+Trampa yolu ile kamulaştırma
 
 **Madde 26 –** Mal sahibinin kabul etmesi halinde kamulaştırma bedeli
 yerine, idarenin kamu hizmetine tahsis edilmemiş olan taşınmaz
@@ -1594,6 +1619,17 @@ işlemleri nedeniyle, kamulaştırılan taşınmazların eski malikleri veya
 mirasçıları tarafından bu taşınmazların geri alınması, bedel veya
 tazminat talebiyle açılan ve henüz kesinleşmeyen davalarda da uygulanır.
 
+**Geçici Madde 9 – (Ek: 10/9/2014-6552/101 md.)**
+
+Bu maddeyi ihdas eden Kanunla değiştirilen veya eklenen bu Kanunun 22
+nci maddesinin birinci, ikinci ve üçüncü fıkra hükümleri ile 23 üncü
+maddesinin üçüncü fıkrası hükmü; bu maddenin yürürlüğe girdiği tarihten
+önce gerçekleştirilen kamulaştırma işlemleri nedeniyle, kamulaştırılan
+taşınmaz malların eski malikleri veya mirasçıları tarafından bu taşınmaz
+malların geri alınması, bedel veya tazminat talebiyle açılan ve henüz
+kesinleşmeyen davalarda da uygulanır. Bu maddenin uygulanması nedeniyle
+reddedilen davaların yargılama giderleri davalı idare tarafından ödenir.
+
 **Madde 42 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 **Madde 43 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
@@ -1640,6 +1676,8 @@ Kanun hükümleri, diğerlerinde önceki hükümler uygulanır.
   **6487**                                                                         **Geçici Madde 6 ve 7**                                       **11/6/2013**
 
   **6495**                                                                         **22, 25, Geçici Madde 8**                                    **2/8/2013**
+
+  **6552 **                                                                        **4, 22, 23, Geçici Madde 9**                                 **11/9/2014**
   -------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
