@@ -1,4 +1,4 @@
-**5198 sayılı Kanun ile değişik hali**
+**5538 sayılı Kanun ile değişik hali**
 
 **KAMU GÖREVLİLERİ SENDİKALARI KANUNU**
 
@@ -787,10 +787,13 @@ gönderilir. Kamu işvereni, sendikaya üye olan ve üyelik ödentisi kesilen
 kamu görevlilerinin listesini her ayın son haftasında, işyerinde
 herkesin görebileceği yerde ilan eder.
 
-Aylık üyelik ödenti tutarı; 15 inci derecenin birinci kademesinden aylık
-alan Devlet memurunun aylık, taban aylığı, her türlü zam ve tazminatlar
-ile ödenekler toplamının net tutarının binde beşinden az, otuzda
-birinden fazla olmamak üzere sendika tüzüğünde belirtilir.
+**(Değişik ikinci fıkra: 1/7/2006-5538/14 md.)** Aylık üyelik ödenti
+tutarı; kamu görevlisinin kadro ya da pozisyonuna bağlı ve her ay mutat
+olarak ödenmekte olan damga vergisine tâbi aylık brüt gelirleri
+toplamına, sendika tüzüğünde belirtilen oran uygulanmak suretiyle
+hesaplanır. Ödenti tutarı, 15 inci derecenin birinci kademesinden aylık
+alan Devlet memurunun damga vergisine tâbi brüt gelirleri toplamının
+binde dördünden az, otuzda birinden fazla olamaz.
 
 Sendika tüzüğüne, üyelik ödentisi dışında her ne ad altında olursa
 olsun, üyelerden başka bir kesinti yapılmasını öngören hükümler
@@ -1267,6 +1270,18 @@ b\) 30 uncu maddenin ikinci fıkrasının (b) bendi gereğince Çalışma ve
 Sosyal Güvenlik Bakanlığınca yapılacak tespit ise 30 Ağustos 2004
 tarihine kadar Resmî Gazetede yayımlanır.
 
+Tüzük değişikliği
+
+**GEÇİCİ MADDE 10 –** **(Ek: 1/7/2006-5538/15 md.)**
+
+İlgili sendika tüzüklerinde bu maddenin yayımından önce farklı
+yöntemlerle belirlenmiş olan ödenti tutarları, ilk genel kurulda tüzük
+değişikliği yapılmak kaydıyla, sendika yönetim kurulu tarafından bu
+maddenin yayımı tarihinden itibaren en geç bir ay içinde bu Kanuna uygun
+olarak yeniden düzenlenir ve Maliye Bakanlığına bildirilir; bildirim
+tarihini takip eden aybaşından itibaren üyelik ödentilerinin
+hesaplanmasında uygulanır.
+
 **Yürürlük**
 
 **MADDE 45** - Bu Kanun yayımını takip eden 30 uncu günün sonunda
@@ -1309,6 +1324,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4688 sayılı Kanunun değişen veya iptal edilen maddeleri**    **Yürürlüğe Giriş Tarihi**
   5198                                                                         14, 16, 18, 25, 30, 35, GEÇİCİ MADDE 9, İŞLENEMEYEN HÜKÜMLER   6/7/2007
+  5538                                                                         25, GEÇİCİ MADDE 10                                            12/7/2006
   ---------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------
 
 
