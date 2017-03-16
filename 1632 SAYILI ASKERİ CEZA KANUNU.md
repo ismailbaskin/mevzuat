@@ -1,6 +1,4 @@
-**Anayasa Mahkemesi’nin 18/7/2012 tarihli ve **
-
-**E.: 2011/113 K.: 2012/108 sayılı Kararı ile değişik hali**
+1105
 
 []{#K36 .anchor}**ASKERİ CEZA KANUNU ^(1)(2)^**
 
@@ -611,32 +609,40 @@ Genel cezaevlerinde ceza sürelerini tamamlayan askerlik yükümlüleri,
 geri kalan askerlik hizmetlerini tamamlamak üzere askeri makamlara
 teslim edilirler.
 
-Yargı organlarınca haklarında tutuklama kararı verilen asker kişiler, bu
-sıfatlarını korudukları sürece askeri tutukevine konulurlar.
+**(Değişik dördüncü fıkra: 24/11/2016-6763/1 md.)** Asker kişiler
+hakkında yargı organlarınca Türk Ceza Kanununun İkinci Kitap Dördüncü
+Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan suçlar
+ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına
+giren suçlar sebebiyle verilen tutuklama kararları, 13/12/2004 tarihli
+ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun
+111 inci maddesinde belirtilen kurumlarda yerine getirilir. Asker
+kişiler hakkında diğer suçlardan verilen tutuklama kararları, asker
+kişiler bu sıfatlarını korudukları sürece askerî tutukevinde yerine
+getirilir.
+
+——————————
+
+\(1) Bu maddenin başlığı 22/3/2000 tarih ve 4551 sayılı Kanunun 10 uncu
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
+
+\(2) Bu maddenin başlığı 22/3/2000 tarih ve 4551 sayılı Kanunun 11 inci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
+
+\(3) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu
+maddenin birinci fıkrasının (A) bendinde yer alan “uzman jandarma ve
+uzman erbaşlar” ibaresi “uzman jandarma, uzman erbaş ve sözleşmeli erbaş
+ve erler” şeklinde değiştirilmiş ve metne işlenmiştir.
+
+1112
 
 Savaş ve sıkıyönetim hallerinde askeri mahkemelerce tutuklanan sivil
 kişiler, askeri ceza ve tutukevlerine konulurlar. Bu hallerin bitiminde
 tutuklular, Adalet Bakanlığı ile Milli Savunma Bakanlığı arasında
 varılacak mutabakat üzerine sivil tutukevlerine nakledilirler.
 
-——————————
-
-*(1) Bu maddenin başlığı 22/3/2000 tarih ve 4551 sayılı Kanunun 10 uncu
-maddesiyle metne işlendiği şekilde değiştirilmiştir.*
-
-*(2) Bu maddenin başlığı 22/3/2000 tarih ve 4551 sayılı Kanunun 11 inci
-maddesiyle metne işlendiği şekilde değiştirilmiştir.*
-
-*(3) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu
-maddenin birinci fıkrasının (A) bendinde yer alan “uzman jandarma ve
-uzman erbaşlar” ibaresi “uzman jandarma, uzman erbaş ve sözleşmeli erbaş
-ve erler” şeklinde değiştirilmiş ve metne işlenmiştir.*
-
-1112
-
 İKİNCİ FASIL
 
-*Cürme teşebbüs*
+Cürme teşebbüs
 
 *Teşebbüs :*
 
@@ -649,7 +655,7 @@ ceza verilir, veya verilebilir.
 
 ÜÇÜNCÜ FASIL
 
-*Cürümde ve kabahatte iştirak*
+Cürümde ve kabahatte iştirak
 
 *İştirak :*
 
@@ -669,7 +675,7 @@ fiile mütaallik olduğu kendisince malum ise.
 
 DÖRDÜNCÜ FASIL
 
-*Cürümde tekerrür*
+Cürümde tekerrür
 
 *Tekerrür :*
 
@@ -739,48 +745,36 @@ YEDİNCİ FASIL
 
 *Cezaların tecili*
 
-*Cezaların tecili ve hürriyeti bağlayıcı cezalar yerine uygulanabilecek
-ceza ve tedbirler ^(1)^*
+*Erteleme ^(1)^*
 
-**Madde 47 – (Değişik: 13/5/1940 - 3823/1 md.)**
+**Madde 47 – (Değişik: 23/6/2016 - 6722/9 md.) **
 
-Türk Ceza Kanununun birinci kitabının müstakil faslında yazılı olan
-cezaların tecili hakkındaki kaideler aşağıdaki hükümler nazara alınmak
-şartiyle askeri şahıslar hakkında da tatbik olunur.
+Türk Ceza Kanununun hapis cezasının ertelenmesine ilişkin hükümleri,
+askeri suçlar hakkında da uygulanır.
 
-A\) **(Değişik : 22/3/2000 - 4551/12 md.; İptal birinci ve ikinci cümle:
-Anayasa Mahkemesi’nin 17/1/2013 tarihli ve E.: 2012/80, K.: 2013/16
-sayılı Kararı ile.)** Ancak fiili işlediği zaman onsekiz yaşını
-doldurmamış çocuklarla, hüküm zamanında yetmiş yaşına girmiş olanların
-mahkum oldukları bir seneden az hapis cezaları tecil olunabilir.*^(2)^*
+Ancak aşağıdaki hâllerde hapis cezaları ertelenmez:
+
+A\) Sırf askeri suçlardan dolayı yapılan yargılama sonunda hükmolunan
+netice cezanın üç ay veya daha fazla süreli hapis cezası olması.
+
+B\) Fiilin, disiplini ağır şekilde ihlal etmesi veya birliğin güvenliğini
+tehlikeye düşürmesi ya da birliğin muharebe hazırlığını veya etkinliğini
+zafiyete uğratması ya da büyük bir zarar meydana getirmesi.
+
+C\) Fiilin savaş veya seferberlikte işlenmesi.
+
+D\) Daha önce sırf askeri bir suçtan dolayı mahkûm olunması.
 
 ——————————
 
-*(1)Bu maddenin başlığı 22/3/2000 tarih ve 4551 sayılı Kanunun 12 inci
+*(1) Bu maddenin başlığı 23/6/2016 tarihli ve 6722 sayılı Kanunun 9 uncu
 maddesiyle metne işlendiği şekilde değiştirilmiştir.*
-
-*(2) Bu bendin birinci ve ikinci cümleleri; Anayasa Mahkemesi’nin
-5/7/2012 tarihli ve E.: 2012/9, K.: 2012/103 sayılı Kararı ile “ izin
-tecavüzü suçu” yönünden iptal edilmiştir.*
 
 1114
 
-B\) Türk Ceza Kanunu mucibince bir kabahat fiilinden dolayı mahkum olan
-ve cezası tecil edilen kimse bir sene içinde ve yine mezkür kanuna
-tevfikan hapis cezasile mahkum olan ve cezası tecil edilen bir kimse beş
-sene içinde; askeri bir suçtan dolayı hapis veya daha ağır bir cezaya
-mahkum olur ve bu askeri cürüm Türk Ceza Kanunu mucibince cezayi mucip
-fiillerden bulunmazsa, ikinci mahkumiyet evvelki cezanın teciline mani
-olmaz.
-
-C\) Evvelki mahkumiyet askeri bir suç için verilmiş bir ceza olur ve bu
-askeri suç Türk Ceza Kanunu mucibince cezayi mucib bir fiil bulunmazsa
-ikinci fiilden dolayı Türk Ceza Kanunu mucibince verilecek cezanın
-teciline birinci fiil mani olamaz.
-
 SEKİZİNCİ FASIL
 
-*Müşterek hükümler*
+Müşterek hükümler
 
 *Askeri suçlarda şikayet ve izin:*
 
@@ -800,9 +794,8 @@ Aşağıdaki fıkralarda yazılı hükümler mahfuz olmak üzere askeri suçlard
 dava ve cezanın düşmesi hususlarında Türk Ceza Kanununun birinci
 kitabının 9 uncu babı hükümleri tatbik olunur.
 
-A\) Yoklama kaçağı, bakaya, saklı ve firar fiilleri hakkında dava müruru
-zamanı, bütün askeri mükellefiyetlerin veya bizzat girmiş oldukları
-taahhüdün bitmesinden itibaren işlemeğe başlar.
+A\) **(İptal: Anayasa Mahkemesi’nin 28/3/2013 tarihli ve E.: 2012/143,
+K.: 2013/48 sayılı Kararı ile.)** **^(3)^**
 
 B\) Hıyanet cürümlerile maznun ve mahkum olanlar hakkıda müruru zaman
 yoktur.
@@ -850,6 +843,9 @@ iptal edilmiştir.*
 fiilleri hakkında dava müruru zamanı, bütün askeri mükellefiyetlerin …
 bitmesinden itibaren işlemeğe başlar” ibaresi,  “firar suçu” yönünden
 iptal edilmiştir. *
+
+*(3) Sözkonusu İptal Kararı 10/10/2013 tarihli ve 28791 sayılı Resmi
+Gazete’de yayımlanmıştır.*
 
 1115
 
@@ -1223,14 +1219,14 @@ c\) Suçlu mükerrir ise;
 
 *Yabancı memlekete firar edenlerin cezaları:*
 
-**Madde 67 – (Değişik : 22/1/2004-5080/1 md.)**
+**Madde 67 – (Değişik : 22/1/2004-5080/1 md.) **
 
 Aşağıda yazılı fiilleri işleyen asker kişiler, yabancı ülkeye kaçmış
 sayılarak bir seneden beş seneye kadar hapis cezası ile
 cezalandırılırlar:
 
 A\) Herhangi bir nedenle izinli olsa dahi, yabancı ülkeye gitme müsaadesi
-bulunmaksızın ülke sınırları dışında üç günü geçirenler.
+bulunmaksızın ülke sınırları dışında üç günü geçirenler.^(1)\ ^
 
 B\) Ülke sınırları dışındaki bir askerî birlik veya görev yerinden, deniz
 veya hava aracından kaçıp da bu durumda üç günü geçirenler.
@@ -1260,7 +1256,7 @@ maddedeki suçu seferberlikte işleyenlere beş seneden, savaş halinde
 işleyenlere ise yedi seneden aşağı olmamak üzere ağır hapis cezası
 verilir.
 
-*Mehil içinde yakalananların cezası ^(1)^*
+*Mehil içinde yakalananların cezası ^(2)^*
 
 **Madde 68 – (Değişik : 22/3/2000 - 4551/15 md.)** 66 ve 67 nci
 maddelerde yazılı olan süreler içinde yakalananlara iki aydan altı aya
@@ -1305,7 +1301,12 @@ kadar arttırılır.
 
 ——————————
 
-*(1) Bu madde başlığı 22/3/2000 tarih ve 4551 sayılı Kanunun 15 inci
+*(1) Bu bent, Anayasa Mahkemesi’nin 14/7/2016 tarihli ve E: 2016/11, K:
+2016/132 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de
+yayımlandığı 23/9/2016 tarihinden başlayarak dokuz ay sonra yürürlüğe
+girmesi hüküm altına alınmıştır.*
+
+*(2) Bu madde başlığı 22/3/2000 tarih ve 4551 sayılı Kanunun 15 inci
 maddesiyle metne işlendiği şekilde değiştirilmiştir.*
 
 1121
@@ -2310,7 +2311,7 @@ mucibince cezalandırılır. (T.C.K.B: F:4)
 
 ONUNCU FASIL
 
-*Askeri disiplini bozan sair fiiller *
+*Askeri disiplini bozan sair fiiller*
 
 *Madununa nezarete ihmal edenler, madunun suçları hakkında takibatta
 bulunmayanlar : ^(2)^*
@@ -2377,14 +2378,27 @@ kadar hapis cezası ile cezalandırılırlar.
 
 Bu cürünler, seferberlikte işlenirse ceza iki misli olarak hükmolunur.
 
-*Müsaadesiz hayri cemiyetlere girenler :*
+*Uyuşturucu veya uyarıcı maddelere ilişkin suçlar:^(2)^*
 
 **Madde 149 – (Mülga : 16/6/1964 - 477/60 md. delaletiyle 64 md. ile)
-(22/3/2000 - 4551/38 md.)**
+(22/3/2000 - 4551/38 md.) (Yeniden düzenleme: 23/6/2016 - 6722/10 md.)
+**
+
+Kıta, karargâh veya askeri kurumlarda ya da görev esnasında veya görev
+yerlerinde;
+
+A\) Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma ve alenen
+özendirme,
+
+B\) Kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek
+veya bulundurmak ya da uyuşturucu veya uyarıcı madde kullanmak,
+
+suçlarını işleyen askeri şahıslar hakkında, Türk Ceza Kanununun bu
+suçlara ilişkin hükümleri uygulanır.
 
 ON BİRİNCİ FASIL
 
-*Askerlik haysiyetine ve şerefine dokunan suçlar ve cezaları *
+*Askerlik haysiyetine ve şerefine dokunan suçlar ve cezaları*
 
 *Şeref ve haysiyete dokunan fiiller ve cezaları : *
 
@@ -2402,6 +2416,9 @@ ON BİRİNCİ FASIL
 
 *(1) Bu madde başlığı, 22/3/2000 tarih ve 4551 sayılı Kanunla metne
 işlendiği şekilde değiştirilmiştir.*
+
+*(2) Bu maddenin başlığı 23/6/2016 tarihli ve 6722 sayılı Kanunun 10
+uncu maddesiyle metne işlendiği şekilde yeniden düzenlenmiştir.*
 
 1135
 
@@ -2581,7 +2598,7 @@ DÖRDÜNCÜ BAP
 
 BEŞİNCİ BAP
 
-*Disiplin cezalarının verilmesi ve infazı *
+*Disiplin cezalarının verilmesi ve infazı*
 
 I - CEZANIN VERİLMESİ
 
@@ -2661,7 +2678,7 @@ ALTINCI BAP
 YEDİNCİ BAP ^(2)^
 
 *Amir tarafından cezanın değiştirilmesi veya kaldırılması hakkında
-müracaatlar *
+müracaatlar*
 
 *Cezanın kaldırılması ve değiştirilmesi :*
 
@@ -2840,31 +2857,36 @@ Kuvvetlerinden çıkarma” fer’i cezası,
 
 Olarak değiştirilmiştir.
 
-**Ek Madde 8 – (Ek: 31/3/2005 – 5329/1 md.)**
+**Ek Madde 8 – (Ek: 31/3/2005 – 5329/1 md.)** **(Değişik: 23/6/2016 -
+6722/11 md.)**
 
-26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun genel hükümleri bu
-Kanunda yer verilen suçlar hakkında da uygulanır. Ancak, bu Kanunun
-fer'î askerî cezalara ve cezaların ertelenmesine ilişkin hükümleri ile
-zamanaşımına ilişkin 49 uncu maddesinin (A) bendi hükümleri saklıdır.
+Askeri mahkemeler ve adli yargı mahkemeleri tarafından verilen kısa
+süreli hapis cezaları; 16/6/1927 tarihli ve 1076 sayılı Yedek Subaylar
+ve Yedek Askeri Memurlar Kanunu hükümlerine göre askerlik hizmetini
+yerine getiren yükümlüler ile yükümlü erbaş ve erler hakkında Türk Ceza
+Kanununun 50 nci maddesinin birinci fıkrasında belirtilen seçenek
+yaptırımlara, diğer askeri şahıslar hakkında ise aynı fıkranın (a), (b)
+ve (d) bentlerinde belirtilen seçenek yaptırımlara çevrilebilir. Ancak
+aşağıdaki hâllerde kısa süreli hapis cezaları seçenek yaptırımlara
+çevrilemez:
 
-Sırf askerî suçlar ile bu Kanunun Üçüncü Babının Dördüncü Faslında
-yazılı suçlar hakkında, (…)*^(2)^* ön ödeme hükümleri
-uygulanmaz.^(1)(2)\ ^
+A\) Sırf askeri suçlardan dolayı yapılan yargılama sonunda hükmolunan
+netice cezanın dört ay veya daha fazla süreli hapis cezası olması.
 
-Kamu görevinin üstlenilmesinden yoksun bırakılma veya bu hak ve yetkinin
-kullanılmasının yasaklanmasına dair güvenlik tedbirleri, Türk Silâhlı
-Kuvvetleri mensupları hakkında, öngörülen süre kadar açığa çıkarılma
-şeklinde uygulanır. Yedek subaylar ile erbaş ve erler hakkında bu
-tedbirin uygulanması, askerlik hizmetlerinin tamamlanmasından sonra
-yerine getirilir.
+B\) Fiilin, disiplini ağır şekilde ihlal etmesi veya birliğin güvenliğini
+tehlikeye düşürmesi ya da birliğin muharebe hazırlığını veya etkinliğini
+zafiyete uğratması ya da büyük bir zarar meydana getirmesi.
 
-Yedek subaylar hariç olmak üzere subay, astsubay, uzman jandarma, uzman
-erbaş ve sözleşmeli erbaş ve erler ve Millî Savunma Bakanlığı ile Türk
-Silâhlı Kuvvetleri kadro ve kuruluşunda çalışan sivil personel hakkında,
-askerî ve adliye mahkemelerince verilen kısa süreli hapis cezaları Türk
-Ceza Kanununun 50 nci maddesinin birinci fıkrasının (a), (b) ve (d)
-bentlerinde yazılı olanlar dışındaki seçenek yaptırımlara çevrilemez.
-^(3)^
+C\) Fiilin savaş veya seferberlikte işlenmesi.
+
+1076 sayılı Kanun hükümlerine göre askerlik hizmetini yerine getiren
+yükümlüler ile yükümlü erbaş ve erler hakkında verilen kısa süreli hapis
+cezasına seçenek yaptırımların yerine getirilmesi askerlik hizmetlerinin
+sonuna bırakılır.
+
+**(Ek fıkra: 24/11/2016-6763/2 md.)** Sırf askerî suçlar ile hapis
+cezasının üst sınırı üç ayı geçen askerî suçlar hakkında, önödeme
+hükümleri uygulanmaz.
 
 **Ek Madde 9 – (Ek: 31/3/2005 – 5329/1 md.)**
 
@@ -2883,23 +2905,6 @@ olunur.
 
 **(İptal: Anayasa Mahkemesi’nin 17/1/2013 tarihli ve E.: 2012/80, K.:
 2013/16 sayılı Kararı ile.) **
-
-––––––––––––––
-
-*(1) Bu fıkrada yer alan “…Sırf askerî suçlar ile bu Kanunun Üçüncü
-Babının Dördüncü Faslında yazılı suçlar hakkında, kısa süreli hapis
-cezasına seçenek yaptırımlar ile …” ibaresi; Anayasa Mahkemesinin
-5/7/2012 tarihli ve E.: 2012/9, K.: 2012/103 sayılı Kararı ile “ izin
-tecavüzü suçu” yönünden iptal edilmiştir.*
-
-*(2) Anayasa Mahkemesinin 17/1/2013 tarihli ve E.: 2012/80, K.: 2013/16
-sayılı Kararı ile bu fıkrada yer alan “…kısa süreli hapis cezasına
-seçenek yaptırımlar ile…” ibaresi iptal edilmiştir.*
-
-*(3) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu
-fıkrada yer alan “uzman jandarma ve uzman erbaşlar” ibaresi “uzman
-jandarma, uzman erbaş ve sözleşmeli erbaş ve erler” şeklinde
-değiştirilmiş ve metne işlenmiştir.*
 
 1146-1
 
@@ -2974,7 +2979,7 @@ yürürlükten kaldırılmıştır.
 
 **YÜRÜRLÜKTEN KALDIRDIĞI KANUN VE**
 
-**HÜKÜMLERİ GÖSTERİR **
+**HÜKÜMLERİ GÖSTERİR**
 
 **LİSTE**
 
@@ -3097,7 +3102,7 @@ ları tarihte
 
 **1632 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL **
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL**
 
 **EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
@@ -3134,5 +3139,21 @@ ları tarihte
                                                                                                                                              
   Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                 (1/7/2013)
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------
+
+1148-2
+
+  ---------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**               **1632 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+
+  **Anayasa Mahkemesi’nin 28/3/2013 tarihli ve E.: 2012/143, K.: 2013/48 sayılı Kararı**   **49**                                                        **10/10/2013**
+
+  **6722**                                                                                 **47, 149, Ek Madde 8**                                       **14/7/2016**
+
+  **Anayasa Mahkemesi’nin 14/7/2016 tarihli ve E: 2016/11, K: 2016/132 sayılı Kararı**     **67**                                                        **23/9/2016 tarihinden başlayarak dokuz ay sonra**
+                                                                                                                                                         
+                                                                                                                                                         **(23/6/2017)**
+
+  **6763**                                                                                 **39, Ek Madde 8**                                            **2/12/2016**
+  ---------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
 
 
