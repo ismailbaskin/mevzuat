@@ -1,4 +1,4 @@
-**6354 sayılı Kanun ile değişik hali**
+**6487 sayılı Kanun ile değişik hali**
 
 ^ ^
 
@@ -1923,25 +1923,27 @@ kurum hesabına gönderilenlere ise ilgili kurumun bütçesinden ödenir.
 Akraba Topluluklarındaki Yüksek Öğretim Kurumlarından resmi davet alan
 öğretim elemanlarına 3 yılı aşmamak ve bütün özlük hakları saklı kalmak
 üzere üniversite yönetim kurulunun kararı ve Milli Eğitim Bakanlığının
-onayı ile aylıklı izin verilebilir.
+onayı ile aylıklı izin verilebilir. **(Ek cümle: 24/5/2013- 6487/17
+md.)** Uluslararası andlaşmalarla kurulan üniversitelerde bu süre beş
+yıla kadar uzatılabilir.
 
              *Kurumlararası yardımlaşma:*
 
              **Madde 40 – **
 
-             a. Yükseköğretim kurumlarında görevli öğretim üyeleri ile
-ders vermekle görevli öğretim yardımcıları bağlı bulundukları fakülte
-veya yüksekokulda haftalık ders yükünü dolduramadıkları takdirde, kendi
-üniversitelerinin diğer birimlerinde veya o şehirdeki yükseköğretim
-kurumlarında ders yükünü doldurmak üzere rektör tarafından
-görevlendirilebilirler. Ders yükü içindeki çalışmalar karşılığında ek
-ders ücreti ödenmez. Haftalık ders yükünün üstünde başka bir
-yükseköğretim kurumunda görevlendirilen öğretim elemanlarına görev
-aldıkları kurum bütçesinden ek ders ücreti ödenir.
+58. Yükseköğretim kurumlarında görevli öğretim üyeleri ile ders vermekle
+    görevli öğretim yardımcıları bağlı bulundukları fakülte veya
+    yüksekokulda haftalık ders yükünü dolduramadıkları takdirde, kendi
+    üniversitelerinin diğer birimlerinde veya o şehirdeki yükseköğretim
+    kurumlarında ders yükünü doldurmak üzere rektör tarafından
+    görevlendirilebilirler. Ders yükü içindeki çalışmalar karşılığında
+    ek ders ücreti ödenmez. Haftalık ders yükünün üstünde başka bir
+    yükseköğretim kurumunda görevlendirilen öğretim elemanlarına görev
+    aldıkları kurum bütçesinden ek ders ücreti ödenir.
 
-             b. **(Değişik: 9/4/1990 - KHK - 418/26 md.; İptal: Ana.
-Mah'nin 5/2/1992 tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile;
-Yeniden düzenleme: 18/5/1994 - KHK - 527/18 md.)** Öğretim üyeleri,
+             b. **(Değişik: 9/4/1990 – KHK – 418/26 md.; İptal: Ana.
+Mah’nin 5/2/1992 tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile;
+Yeniden düzenleme: 18/5/1994 – KHK – 527/18 md.)** Öğretim üyeleri,
 ihtiyacı olan üniversitenin isteği ve kendi arzusu üzerine ve ilgili
 yönetim kurullarının görüşü, rektörün önerisi ile Yükseköğretim Kurulu
 tarafından,istekte bulunan üniversitenin birimlerinde en az bir
@@ -1973,7 +1975,7 @@ göre iki katı ek ders ücreti ödenir.
 
             *Öğretim üyesi ihtiyacının karşılanması: *
 
-**Madde 41 – (Değişik: 17/8/1983 - 2880/22 md.) **
+**Madde 41 – (Değişik: 17/8/1983 – 2880/22 md.) **
 
 Yükseköğretim Kurulunca; bu kanun kapsamındaki Devlet yükseköğretim
 kurumlarının, çeşitli bilim ve sanat dallarındaki öğretim üyesi
@@ -2009,9 +2011,9 @@ görevlendirilemezler ve diğer kamu kuruluşlarında çalıştırılamazlar.
 
              **Madde 42 – **Kurumlariçi Bilimsel Denetim:
 
-             a. Öğretim elemanlarının bilimsel yönden denetlenmeleri,
-onların eğitim - öğretim, bilimsel araştırma, yayım, seminer, klinik ve
-uygulama faaliyetleri üzerinde olur.
+58. Öğretim elemanlarının bilimsel yönden denetlenmeleri, onların eğitim
+    – öğretim, bilimsel araştırma, yayım, seminer, klinik ve uygulama
+    faaliyetleri üzerinde olur.
 
  
 
@@ -2029,19 +2031,18 @@ uygulama faaliyetleri üzerinde olur.
 
  
 
-–––––––––––––––––––
-
-*(1) Bu maddenin birinci fıkrasının ikinci cümlesi Anayasa Mahkemesi’nin
-28/4/2011 tarihli ve E.: 2009/56, K.: 2011/71 sayılı Kararı ile iptal
-edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 6/7/2011 tarihinden
-başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.*
+(58) *Bu maddenin birinci fıkrasının ikinci cümlesi Anayasa
+    Mahkemesi’nin 28/4/2011 tarihli ve E.: 2009/56, K.: 2011/71 sayılı
+    Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı
+    6/7/2011 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm
+    altına alınmıştır.*
 
 5369
 
  
 
             b. Her öğretim yılı sonunda, bölüm başkanı bölümün geçmiş
-yıldaki eğitim - öğretim ve araştırma faaliyeti ile,gelecek yıldaki
+yıldaki eğitim – öğretim ve araştırma faaliyeti ile,gelecek yıldaki
 çalışma planını belirten bir raporu bağlı bulunduğu dekana sunar. Dekan
 bu rapora kendi kanaatini de ekleyerek, rektöre gönderir. Rektör rapor
 ve görüşleri değerlendirerek, gerekli tedbirleri alır ve yetersizlik ile
@@ -2056,7 +2057,7 @@ yöneticisinin aracılığıyla rektörlüğe sunmak zorundadır. Yayımlanmayan
 eserlerin daktilo ile yazılmış birer kopyası verilir. 5846 sayılı Fikir
 ve Sanat Eserleri Kanununun eser sahibine tanıdığı haklar saklıdır.
 
-             d. **(Değişik: 17/8/1983 - 2880/23 md.)** Öğretim
+             d. **(Değişik: 17/8/1983 – 2880/23 md.)** Öğretim
 elemanlarının bilimsel yayınları için üniversitelerde ve Yükseköğretim
 Kurulunda özel arşiv tutulur.
 
@@ -2071,13 +2072,13 @@ BÖLÜM
              **Madde 43 – **Yükseköğretim, harca tabi olup bu kanunda
 belirlenen amaç ve ana ilkelere göre aşağıdaki şekilde düzenlenir.
 
-             a. Yükseköğretim kurumlarında, kuruluş özelliklerine ve
-ihtiyaçlarına göre yapılan eğitim - öğretim ve buna dayalı olarak
-verilen diplomalarla ilgili esaslar her üniversitece hazırlanacak
-öğretim ve sınav yönetmeliğinde belirtilir.
+58. Yükseköğretim kurumlarında, kuruluş özelliklerine ve ihtiyaçlarına
+    göre yapılan eğitim – öğretim ve buna dayalı olarak verilen
+    diplomalarla ilgili esaslar her üniversitece hazırlanacak öğretim ve
+    sınav yönetmeliğinde belirtilir.
 
-             b. **(Değişik: 17/8/1983 - 2880/24 md.)** Aynı meslek ve
-bilim dallarında, eğitim - öğretim yapan üniversitelerde, eğitim -
+             b. **(Değişik: 17/8/1983 – 2880/24 md.)** Aynı meslek ve
+bilim dallarında, eğitim – öğretim yapan üniversitelerde, eğitim –
 öğretim, metod, kapsam, öğretim süresi ve yıl içindeki değerlendirme
 esasları bakımından eşdeğer olması ve öğrenimden sonra kazanılan
 unvanların aynı ve elde edilen hakların eşdeğer sayılması hususu
@@ -2086,7 +2087,7 @@ için belirtilen esasların tespiti Milli Eğitim Bakanlığı ile de
 işbirliği yapılarak, Yükseköğretim Kurulunca düzenlenir.
 
              c. Yükseköğretim kurumları, örgün, yaygın ve açık öğretim
-yöntemleri ile her türlü eğitim - öğretim yapabilirler.
+yöntemleri ile her türlü eğitim – öğretim yapabilirler.
 
          d.**(Ek: 21/4/2005 – 5335/10 md.)**Yükseköğretim kurumları,
 yurt dışındaki yükseköğretim kurumları ve diğer kuruluşlarla işbirliği
@@ -2102,10 +2103,8 @@ alınacak öğrenim ücretleri, gelir ve giderleri ile harcama usûl ve
 esasları Maliye Bakanlığının olumlu görüşü üzerine Yükseköğretim Kurulu
 tarafından çıkarılacak yönetmelikle düzenlenir. ^(1)^
 
-––––––––––––––––
-
-*(1) Bu paragraf, 21/4/2005 tarihli ve 5335 sayılı Kanunun 10 uncu 
-maddesiyle eklenen (d) bendinin hükmüdür. *
+(58) *Bu paragraf, 21/4/2005 tarihli ve 5335 sayılı Kanunun 10 uncu 
+    maddesiyle eklenen (d) bendinin hükmüdür. *
 
             
 
@@ -2152,7 +2151,7 @@ ilgili programın tamamlanmasına yönelik önceden kazanılmış
 yeterliliklerin tanınması; farklı diploma programlarından bazı derslerin
 alınmasıyla yandal veya çift anadal yapılması; diploma alınabilmesi
 için, uygulama, teorik, uzaktan veya açıköğretim özellikleri ile bu
-maddenin (c) fıkrasında belirlenen sürelerde diploma alamayan öğrenciler
+maddenin © fıkrasında belirlenen sürelerde diploma alamayan öğrenciler
 bakımından, müfredat değişikliği veya isimleri değişmemekle birlikte
 ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte
 aradan uzun bir sürenin geçmesi nedeniyle, daha önce başarılı olunan
@@ -2176,11 +2175,9 @@ etmek için kayıt yaptırabilir. Bu durumda, ders ve sınavlara katılma ile
 tez hazırlama hariç, öğrencilere tanınan diğer haklardan
 yararlandırılmaksızın öğrencilik statüleri devam eder.
 
-–––––––––––––––––
-
-*(1) Bu madde başlığı “Öğretim süresi:”iken, 13/2/2011 tarihli ve 6111
-sayılı Kanunun 171 inci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
+(58) *Bu madde başlığı “Öğretim süresi:”iken, 13/2/2011 tarihli ve 6111
+    sayılı Kanunun 171 inci maddesiyle metne işlendiği şekilde
+    değiştirilmiştir.*
 
 5370-1
 
@@ -2242,7 +2239,7 @@ bir ödeme talep edilemez.
 Birinci ve ikinci öğretim programlarındaki bir dersin hem örgün öğretim
 yoluyla hem de uzaktan öğretim yoluyla verilmesinin senato tarafından
 uygun görülmesi halinde; dersi uzaktan öğretim yoluyla almayı tercih
-eden öğrencilerden, bu Kanunun 46 ncı maddesinin (c) fıkrasına göre
+eden öğrencilerden, bu Kanunun 46 ncı maddesinin © fıkrasına göre
 belirlenen kredi başına öğrenci katkı payı veya öğrenim ücreti alınır.
 Dersin uzaktan öğretim yoluyla verilmesinde görev alan öğretim elemanı
 ve diğer personele, dersi uzaktan öğretim yoluyla almayı tercih eden
@@ -2268,7 +2265,7 @@ tarafından çıkarılacak bir yönetmelikle düzenlenir.
 
 *Yükseköğretime giriş ve yerleştirme: ^(1)^*
 
-**Madde 45 – (Değişik: 30/3/2012 - 6287/14 md.) **
+**Madde 45 – (Değişik: 30/3/2012 – 6287/14 md.) **
 
 Yükseköğretime giriş ve yerleştirme aşağıdaki şekilde yapılır:
 
@@ -2314,11 +2311,9 @@ edilen uluslararası bilimsel yarışmalarda ödül kazanan öğrenciler,
 ilgili dallarda eğitim yapmak kaydıyla yükseköğretim kurumlarına
 yerleştirilebilir.
 
-–––––––––––––––
-
-*(1) Bu maddenin başlığı “Yükseköğretime giriş” iken 30/3/2012 tarihli
-ve 6287 sayılı Kanunun 14 üncü maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
+(58) *Bu maddenin başlığı “Yükseköğretime giriş” iken 30/3/2012 tarihli
+    ve 6287 sayılı Kanunun 14 üncü maddesiyle metne işlendiği şekilde
+    değiştirilmiştir.*
 
 5370-3
 
@@ -2353,37 +2348,35 @@ Yükseköğretim Kurulunun görüşü ve Milli Eğitim Bakanlığının önerisi
 ücretinden muaf tutulacaklar ile yabancı uyruklu öğrencilerden alınacak
 asgari öğrenim ücretlerinin tutarı Bakanlar Kurulu kararıyla belirlenir.
 
-c\. Bu maddenin (ç), (d) ve (e) fıkralarında belirtilen durumlarda her
-bir ders için kredi başına ödenecek katkı payı veya öğrenim ücreti
+c\. Bu maddenin (ç), (d) ve © fıkralarında belirtilen durumlarda her bir
+ders için kredi başına ödenecek katkı payı veya öğrenim ücreti
 tutarları, her bir dersin kredisinin ilgili dönemde alınması gereken
 toplam ders kredisine oranlanması sonucu bulunacak katsayının ilgili
 dönem için belirlenen öğrenci katkı payı veya öğrenim ücreti ile
 çarpılarak, ilgili yükseköğretim kurumunca dönem başlarında hesaplanır.
 
-ç. 44 üncü maddenin (c) fıkrasındaki süreler içinde aynı yükseköğretim
+Ç. 44 üncü maddenin © fıkrasındaki süreler içinde aynı yükseköğretim
 kurumundaki öğrenimi sırasında bir derse üçüncü defa kayıt yaptırılması
 halinde, ilgili dönem için öngörülen katkı payı ya da öğrenim ücretinin
-yanı sıra bu maddenin (c) fıkrasına göre hesaplanan kredi başına
-ödenecek katkı payı veya öğrenim ücreti; dersin alınacağı dönem için
-belirlenen kredi başına katkı payı veya öğrenim ücretinin yüzde elli
-fazlası, dördüncü defa kayıt yaptırılması halindeyüzde yüz, beşinci veya
-daha fazla defa kayıt yaptırılması halinde ise yüzde üçyüz fazlası ile
+yanı sıra bu maddenin © fıkrasına göre hesaplanan kredi başına ödenecek
+katkı payı veya öğrenim ücreti; dersin alınacağı dönem için belirlenen
+kredi başına katkı payı veya öğrenim ücretinin yüzde elli fazlası,
+dördüncü defa kayıt yaptırılması halindeyüzde yüz, beşinci veya daha
+fazla defa kayıt yaptırılması halinde ise yüzde üçyüz fazlası ile
 hesaplanır.
 
-d\. 44 üncü maddenin (c) fıkrasındaki süreler içinde öğrenimin
+d\. 44 üncü maddenin © fıkrasındaki süreler içinde öğrenimin
 tamamlanamaması halinde, her bir ilave ders için kredi başına ödenecek
 öğrenci katkı payı veya öğrenim ücreti; dersin alınacağı dönem için bu
-maddenin (c) fıkrasına göre belirlenecek olan kredi başına katkı payı
-veya öğrenim ücretinin yüzde yüzü, ikinci defa kayıt yaptırılması
-halinde yüzde ikiyüzü, üçüncü defa kayıt yaptırılması halinde yüzde
-üçyüzü, dördüncü ve daha fazla defa kayıt yaptırılması halinde ise yüzde
+maddenin © fıkrasına göre belirlenecek olan kredi başına katkı payı veya
+öğrenim ücretinin yüzde yüzü, ikinci defa kayıt yaptırılması halinde
+yüzde ikiyüzü, üçüncü defa kayıt yaptırılması halinde yüzde üçyüzü,
+dördüncü ve daha fazla defa kayıt yaptırılması halinde ise yüzde
 dörtyüzü olarak hesaplanır.
 
-–––––––––––––––––
-
-*(1) Bu madde başlığı “Cari Hizmet Maliyeti” iken, 13/2/2011 tarihli ve
-6111 sayılı Kanunun 172 nci maddesiyle metne işlendiği şekilde
-değiştirilmiştir. *
+(58) *Bu madde başlığı “Cari Hizmet Maliyeti” iken, 13/2/2011 tarihli ve
+    6111 sayılı Kanunun 172 nci maddesiyle metne işlendiği şekilde
+    değiştirilmiştir. *
 
  
 
@@ -2391,19 +2384,18 @@ değiştirilmiştir. *
 
  
 
-e\. 44 üncü maddenin (c) fıkrasında belirlenen süreler içerisinde yandal
+e\. 44 üncü maddenin © fıkrasında belirlenen süreler içerisinde yandal
 veya çift anadal öğreniminin tamamlanamaması nedeniyle ilave ders
 alınması halinde, her bir ders için kredi başına ödenecek öğrenci katkı
-payı veya öğrenim ücreti; dersin alınacağı dönem için (c) fıkrasına göre
+payı veya öğrenim ücreti; dersin alınacağı dönem için © fıkrasına göre
 hesaplanan kredi başına katkı payı veya öğrenim ücretinin yüzde yüzü,
 ikinci defa kayıt yaptırılması halinde yüzde ikiyüzü, üç ve daha fazla
 defa kayıt yaptırılması halinde ise yüzde üçyüzü olarak hesaplanır.
 
-f\. Lisansüstü öğrenimin, 44 üncü maddenin (c) fıkrasındaki süreler
-içinde tamamlanamaması halinde, tez aşamasında ödenecek öğrenci katkı
-payı veya öğrenim ücreti, lisansüstü öğrenim için belirlenen dönemlik
-katkı payı veya öğrenim ücretine (d) fıkrasındaki oranlar uygulanarak
-hesaplanır.
+f\. Lisansüstü öğrenimin, 44 üncü maddenin © fıkrasındaki süreler içinde
+tamamlanamaması halinde, tez aşamasında ödenecek öğrenci katkı payı veya
+öğrenim ücreti, lisansüstü öğrenim için belirlenen dönemlik katkı payı
+veya öğrenim ücretine (d) fıkrasındaki oranlar uygulanarak hesaplanır.
 
 g\. Öğrenci katkı payı ve öğrenim ücretleri, ilgili dönem başlarında
 ödenir. Süresi içinde katkı payı veya öğrenim ücretini ödemeyenler ve
@@ -2413,7 +2405,7 @@ yararlanamaz. Ödeme güçlüğü bulunan birinci öğretim öğrencilerinin
 ödemesi gereken katkı payının tamamı, talepleri halinde Yüksek Öğrenim
 Kredi ve Yurtlar Kurumunca katkı kredisi olarak verilebilir.
 
-ğ. İkinci öğretimde alınacak öğrenim ücreti, öğrenci cari hizmet
+Ğ. İkinci öğretimde alınacak öğrenim ücreti, öğrenci cari hizmet
 maliyetinin yarısından az olamaz. İkinci öğretimde alınacak ücretlerin
 Bakanlar Kurulunca belirlenecek miktarı öğrencilerin başta beslenme
 olmak üzere barınma, sağlık, spor, kültür ve diğer sosyal hizmetlerinde
@@ -2478,16 +2470,16 @@ Yükseköğretim Kurulu tarafından belirlenir.
 
              **Madde 47 – **Faaliyetlerin Düzenlenmesi:
 
-             a. **(Değişik: 17/8/1983 - 2880/28 md.)** Yükseköğretim
-kurumları,Yükseköğretim Kurulunun yapacağı plan ve programlar uyarınca,
-öğrencilerin beden ve ruh sağlığının korunması, barınma, beslenme,
-çalışma,  dinlenme ve  boş  zamanlarını  değerlendirme gibi sosyal
-ihtiyaçlarını karşılamak ve bu amaçla bütçe imkanları nispetinde okuma
-salonları, yataklı sağlık merkezleri, mediko - sosyal merkezleri,
-öğrenci kantin ve lokantaları açmak,toplantı, sinema ve tiyatro
-salonları, spor salon ve sahaları, kamp yerleri sağlamakla ve bunlardan
-öğrencilerin en iyi şekilde yararlanmaları için gerekli önlemleri
-almakla görevlidirler.
+58. **(Değişik: 17/8/1983 – 2880/28 md.)** Yükseköğretim
+    kurumları,Yükseköğretim Kurulunun yapacağı plan ve programlar
+    uyarınca, öğrencilerin beden ve ruh sağlığının korunması, barınma,
+    beslenme, çalışma,  dinlenme ve  boş  zamanlarını  değerlendirme
+    gibi sosyal ihtiyaçlarını karşılamak ve bu amaçla bütçe imkanları
+    nispetinde okuma salonları, yataklı sağlık merkezleri, mediko –
+    sosyal merkezleri, öğrenci kantin ve lokantaları açmak,toplantı,
+    sinema ve tiyatro salonları, spor salon ve sahaları, kamp yerleri
+    sağlamakla ve bunlardan öğrencilerin en iyi şekilde yararlanmaları
+    için gerekli önlemleri almakla görevlidirler.
 
              b. Yükseköğretim kurumları, özel ve kamu kuruluşları ile
 işbirliği yaparak mezunlarına iş bulmakta yardımcı olurlar.
@@ -2505,7 +2497,7 @@ ile laboratuvar, sınav ve diploma masrafları burs kapsamına girer.
              *Ders kitapları ve eğitim-öğretim araçlarının basılıp
 çoğaltılması* ^(1)^
 
-*            * **Madde 48 – (Değişik: 26/6/2001 - 4689/1 md.)**
+*            * **Madde 48 – (Değişik: 26/6/2001 – 4689/1 md.)**
 
              Üniversitelerde ders kitapları, bilgisayar ve elektronik
 ortamlarda hazırlanan eğitim-öğretim ve uzaktan öğretim ilkelerine göre
@@ -2524,19 +2516,17 @@ her türlü materyalle ilgili olarak uygulanacak esaslar ve ödenecek telif
 hakları Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulunca
 belirlenir.
 
-——————————
-
-*(1)  Bu maddenin başlığı, “Ders kitapları ve teksirlerin basılması”
-iken, 26/6/2001 tarih ve 4689 sayılı Kanunun 1 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.*
+(58) *Bu maddenin başlığı, “Ders kitapları ve teksirlerin basılması”
+    iken, 26/6/2001 tarih ve 4689 sayılı Kanunun 1 inci maddesiyle metne
+    işlendiği şekilde değiştirilmiştir.*
 
 5373
 
  
 
-             *Yabancı dil hazırlık eğitim - öğretimi: *
+             *Yabancı dil hazırlık eğitim – öğretimi: *
 
-*            * **Madde 49 – **Eğitim - öğretimini kısmen veya tamamen
+*            * **Madde 49 – **Eğitim – öğretimini kısmen veya tamamen
 bir yabancı dilden yapan Yükseköğretim Kurumları, kaydını yaptıran
 öğrencileri, öğrenimde kullanılacak yabancı dilde bir yeterlilik
 sınavına tabi tutarlar. Yetersiz bulunan öğrenciler için esasları
@@ -2552,10 +2542,11 @@ devamlı şekilde alınır.
 
              **Madde 50 – **Usul ve şartları;
 
-             a. Lisans düzeyinde öğrenim gördükten sonra, yükseköğretim
-kurumlarında yüksek lisans, doktora ya da tıpta uzmanlık öğrenimi yapmak
-isteyenler, yükseköğretim kurumlarınca usulüne göre açılacak sınavla ve
-Üniversitelerarası Kurulca tespit edilecek esaslara göre seçilirler.
+58. Lisans düzeyinde öğrenim gördükten sonra, yükseköğretim kurumlarında
+    yüksek lisans, doktora ya da tıpta uzmanlık öğrenimi yapmak
+    isteyenler, yükseköğretim kurumlarınca usulüne göre açılacak sınavla
+    ve Üniversitelerarası Kurulca tespit edilecek esaslara göre
+    seçilirler.
 
              b. Yükseköğretim kurumları, lisans üstü öğretim konusundaki
 istekleri karşılamak üzere gerekli planlamayı yapar ve önlemleri alır.
@@ -2583,12 +2574,12 @@ Memurlar ve Diğer Görevliler
 
 *            * **Madde 51 – **
 
-             a. Yükseköğretim üst kuruluşlarında başkana,
-üniversitelerde rektöre bağlı, merkez yönetim örgütünün başında bir
-genel sekreter ve hizmetlerin gerekli kıldığı daire başkanları,
-müdürler, danışmanlar, hukuk müşavirleri, uzmanlar ile büro ve iç hizmet
-görevlerini yapmak üzere, 657 sayılı Devlet Memurları Kanununa tabi
-memurlar ve diğer görevliler bulunur.
+58. Yükseköğretim üst kuruluşlarında başkana, üniversitelerde rektöre
+    bağlı, merkez yönetim örgütünün başında bir genel sekreter ve
+    hizmetlerin gerekli kıldığı daire başkanları, müdürler, danışmanlar,
+    hukuk müşavirleri, uzmanlar ile büro ve iç hizmet görevlerini yapmak
+    üzere, 657 sayılı Devlet Memurları Kanununa tabi memurlar ve diğer
+    görevliler bulunur.
 
              Daire başkanlıkları ve müdürlükler üst kuruluşlarda
 kurulların, üniversitelerde yönetim kurulunun kararı ile genel hükümlere
@@ -2613,13 +2604,13 @@ bulundukları kurumun kurullarında raportörlük yaparlar.
 
 *            * **Madde 52 – **Atama esasları:
 
-             a. **(Değişik: 17/8/1983 - 2880/29 md.)** (…) ^(1)^ Genel
-Sekreter ile daire başkanları, müdürler, hukuk müşavirleri ve uzmanlar,
-yükseköğretim üst kuruluşlarında ilgili kuruluşların görüşü alınarak
-Yükseköğretim Üst Kuruluşunun Başkanı; üniversitelerde ise yönetim
-kurulunun görüşü alınarak rektör tarafından atanır. Fakülte, enstitü ve
-yüksekokul sekreterinin atanması, ilgilidekan ve müdürün önerisi üzerine
-rektör tarafından yapılır.
+58. **(Değişik: 17/8/1983 – 2880/29 md.)** (…) ^(1)^ Genel Sekreter ile
+    daire başkanları, müdürler, hukuk müşavirleri ve uzmanlar,
+    yükseköğretim üst kuruluşlarında ilgili kuruluşların görüşü alınarak
+    Yükseköğretim Üst Kuruluşunun Başkanı; üniversitelerde ise yönetim
+    kurulunun görüşü alınarak rektör tarafından atanır. Fakülte, enstitü
+    ve yüksekokul sekreterinin atanması, ilgilidekan ve müdürün önerisi
+    üzerine rektör tarafından yapılır.
 
              b. Üst kuruluşların ve üniversitelerin genel
 sekreterlerinin üniversite lisans diplomasına,fakülte sekreterleri ile
@@ -2660,21 +2651,21 @@ Ceza İşleri
 
              **Madde 53 – **
 
-**            ** a. Yükseköğretim Kurul Başkanı Yükseköğretim Kurulu ile
-üniversite rektörlerinin, rektör üniversitenin, dekan fakültenin,
-enstitü ve yüksekokul müdürleri enstitü ve yüksekokulların, bu
-birimlerin genel sekreter veya sekreterleri de sekreterlik personelinin
-disiplin amirleridir. Üniversite ve bağlı birimlerinin yönetim kurulları
-aynı zamanda disiplin kurulu olarak görev yaparlar. Disiplin
-kurullarında profesörlerle ilgili hususların görüşülmesinde doçent ve
-yardımcı doçentler, doçentlerle ilgili hususların görüşülmesinde de
-yardımcı doçentler disiplin kurullarına alınmazlar.
+58. Yükseköğretim Kurul Başkanı Yükseköğretim Kurulu ile üniversite
+    rektörlerinin, rektör üniversitenin, dekan fakültenin, enstitü ve
+    yüksekokul müdürleri enstitü ve yüksekokulların, bu birimlerin genel
+    sekreter veya sekreterleri de sekreterlik personelinin disiplin
+    amirleridir. Üniversite ve bağlı birimlerinin yönetim kurulları aynı
+    zamanda disiplin kurulu olarak görev yaparlar. Disiplin kurullarında
+    profesörlerle ilgili hususların görüşülmesinde doçent ve yardımcı
+    doçentler, doçentlerle ilgili hususların görüşülmesinde de yardımcı
+    doçentler disiplin kurullarına alınmazlar.
 
              b. Öğretim elemanları,memur ve diğer personelin disiplin
 işlemleri, disiplin amirlerinin yetkileri, devlet memurlarına uygulanan
 usul ve esaslara göre Yükseköğretim Kurulunca düzenlenir.
 
-             c. **(Değişik: 14/4/1982 - 2653/3 md.)** Ceza soruşturması
+             c. **(Değişik: 14/4/1982 – 2653/3 md.)** Ceza soruşturması
 usulü:
 
              Yükseköğretim üst kuruluşları başkan ve üyeleri ile
@@ -2684,11 +2675,10 @@ Kanununa tabi memurlarının görevleri dolayısıyla ya da görevlerini
 yaptıkları sırada işledikleri ileri sürülen suçlar hakkında aşağıdaki
 hükümler uygulanır:
 
-––––––––––––––
-
-*(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu
-maddenin birinci fıkrasının (a) bendinde yer alan “Öğrenci Seçme ve
-Yerleştirme Merkezi Başkanı,” ibaresi madde metninden çıkarılmıştır.*
+(58) *17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu
+    maddenin birinci fıkrasının (a) bendinde yer alan “Öğrenci Seçme ve
+    Yerleştirme Merkezi Başkanı,” ibaresi madde metninden
+    çıkarılmıştır.*
 
  
 
@@ -2696,7 +2686,7 @@ Yerleştirme Merkezi Başkanı,” ibaresi madde metninden çıkarılmıştır.*
 
  
 
-             (1) İlk soruşturma:
+(58) İlk soruşturma:
 
              Yükseköğretim Kurulu Başkanı için, kendisinin katılmadığı,
 Milli Eğitim Bakanının başkanlığındaki bir toplantıda, Yükseköğretim
@@ -2711,8 +2701,8 @@ unvanına veya daha üst akademik unvana sahip olmaları şarttır.
 
              (2) Son soruşturmanın açılıp açılmamasına;
 
-             a) Yükseköğretim Kurulu Başkan ve üyeleri ile Yükseköğretim
-Denetleme Kurulu Başkan ve üyeleri hakkında Danıştayın 2 nci Dairesi,
+58) Yükseköğretim Kurulu Başkan ve üyeleri ile Yükseköğretim Denetleme
+    Kurulu Başkan ve üyeleri hakkında Danıştayın 2 nci Dairesi,
 
              b) Üniversite rektörleri, rektör yardımcıları ile üst
 kuruluş genel sekreterleri hakkında, Yükseköğretim Kurulu üyelerinden
@@ -2799,18 +2789,18 @@ Memurin Muhakematı Hakkında Kanun hükümleri uygulanır.
 
              **Madde 54 –** Soruşturma, yetkiler ve cezalar:
 
-             a. Yükseköğretim kurumları içinde veya dışında
-yükseköğretim öğrenciliği sıfatına, onur ve şerefine aykırı harekette
-bulunan, öğrenme ve öğretme hürriyetini, doğrudan doğruya veya dolaylı
-olarak kısıtlayan, kurumların sükün, huzur ve çalışma düzenini bozan,
-boykot, işgal ve engelleme gibi eylemlere katılan, bunları teşvik ve
-tahrik eden, yükseköğretim mensuplarının şeref ve haysiyetine veya
-şahıslarına tecavüz eden veya saygı dışı davranışlarda bulunan ve
-anarşik veya ideolojik olaylara katılan veya bu olayları tahrik ve
-teşvik eden öğrencilere; eylem başka bir suçu oluştursa bile ayrıca
-uyarma, kınama, bir haftadan bir aya kadar veya bir veya iki yarıyıl
-için kurumdan uzaklaştırma veya yükseköğretim kurumundan çıkarma
-cezaları verilir.
+58. Yükseköğretim kurumları içinde veya dışında yükseköğretim
+    öğrenciliği sıfatına, onur ve şerefine aykırı harekette bulunan,
+    öğrenme ve öğretme hürriyetini, doğrudan doğruya veya dolaylı olarak
+    kısıtlayan, kurumların sükün, huzur ve çalışma düzenini bozan,
+    boykot, işgal ve engelleme gibi eylemlere katılan, bunları teşvik ve
+    tahrik eden, yükseköğretim mensuplarının şeref ve haysiyetine veya
+    şahıslarına tecavüz eden veya saygı dışı davranışlarda bulunan ve
+    anarşik veya ideolojik olaylara katılan veya bu olayları tahrik ve
+    teşvik eden öğrencilere; eylem başka bir suçu oluştursa bile ayrıca
+    uyarma, kınama, bir haftadan bir aya kadar veya bir veya iki yarıyıl
+    için kurumdan uzaklaştırma veya yükseköğretim kurumundan çıkarma
+    cezaları verilir.
 
              b. Bir fakülte, enstitü veya yüksekokulun içinde veya
 dışında öğrencilerin işlemiş oldukları disiplin suçlarından dolayı
@@ -2856,7 +2846,7 @@ Mali Hükümler
 *            * **Madde 55 – **Yükseköğretim üst kuruluşları,
 yükseköğretim kurumları ve bunlara bağlı birimlerin gelir kaynakları;
 
-             a. Her yıl bütçeye konulacak ödenekler,
+58. Her yıl bütçeye konulacak ödenekler,
 
              b. Kurumlarca yapılacak yardımlar,
 
@@ -2872,7 +2862,7 @@ yükseköğretim kurumları ve bunlara bağlı birimlerin gelir kaynakları;
 
              *Mali kolaylıklar: *
 
-**Madde 56 – (Değişik: 17/8/1983 - 2880/30 md.) **
+**Madde 56 – (Değişik: 17/8/1983 – 2880/30 md.) **
 
 İşlem ve usuller:
 
@@ -2882,12 +2872,12 @@ damga resmi ve harçlardan muaftır. Bağış ve vasiyetlerin
 kullanılmasında, bağış ve vasiyet yapanların koydukları ve kanunlara
 göre geçerli sayılan kayıtlara ve şartlara uyulur.
 
-b\) **(Değişik: 3/4/1991 - 3708/3 md.)** Üniversiteler ve yüksek
+b\) **(Değişik: 3/4/1991 – 3708/3 md.)** Üniversiteler ve yüksek
 teknoloji enstitüleri genel bütçeye dahil kamu kurum ve kuruluşlarına
 tanınan mali muafiyetler, istisnalar ve diğer mali kolaylıklardan aynen
 yararlanırlar.
 
-**(Değişik: 30/3/2012 - 6487/15 md.)** Gelir veya kurumlar vergisi
+**(Değişik: 30/3/2012 – 6487/15 md.)** Gelir veya kurumlar vergisi
 mükellefleri tarafından üniversitelere, yüksek teknoloji enstitüleri ile
 gelirlerinin en az dörtte üçünü münhasıran devlet üniversitelerinin
 faaliyetlerinin devam ettirilmesi ve desteklenmesini amaç edinmek üzere
@@ -2899,7 +2889,7 @@ Bu hükmün uygulanmasına ilişkin usul ve esasları belirlemeye Maliye
 Bakanlığı yetkilidir.
 
 c\) Yükseköğretim üst kuruluşları, yükseköğretim kurumları ve bunlara
-bağlı kuruluşlar ve birimler tarafından eğitim - öğretim ve araştırma
+bağlı kuruluşlar ve birimler tarafından eğitim – öğretim ve araştırma
 amacı ile yurt içinde bulunmamak veya üretimi yapılmamak kaydıyla ithal
 edilen makine, alet, cihaz, ecza, malzeme ve yayınlar ile bağış yoluyla
 yurt dışından gelen aynı cins malzemeler, gümrük vergisi ile buna bağlı
@@ -2915,11 +2905,9 @@ kuruluşların başkanları; birmilyon liradan fazlası için üst kuruluşlarda
 başkanın, üniversitelerde rektörün önerisi ve Sayıştay Başkanlığının
 görüşü üzerine Maliye Bakanlığı karar verir.
 
-——————————
-
-\(1) İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri,
-6/5/1986 tarih ve 3283 sayılı Kanunun 1 nci maddesi ile yürürlükten
-kaldırılmıştır.
+(58) İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri,
+    6/5/1986 tarih ve 3283 sayılı Kanunun 1 nci maddesi ile yürürlükten
+    kaldırılmıştır.
 
 5378
 
@@ -2953,17 +2941,17 @@ rektördür. Bu yetki uygun görülen ölçüde gerektiğinde yardımcılara,
 dekanlara, enstitü ve yüksekokul müdürlerine, üst kuruluşlara bağlı
 birim başkanlarına ve üst kuruluş ve üniversite genel sekreterlerine
 devredilebilir. **(Ek cümle: 1/3/2006-5467/4 md.)** Vakıf
-üniversitelerinde itâ amiri mütevellî heyet başkanıdır.
+üniversitelerinde itâ amiri 39önüştürü heyet başkanıdır.
 
              *Döner sermaye :* ^(2)^
 
 *            * **Madde 58 – (Değişik: 21/1/2010-5947/5 md.)**
 
-a\) Yükseköğretim kurumlarında üniversite yönetim kurulunun önerisi ve
-Yükseköğretim Kurulunun onayı ile döner sermaye işletmesi kurulabilir.
-Kurulacak döner sermaye işletmesinin başlangıç sermayesine ilgili
-yükseköğretim kurumu bütçesinde bu amaç için ödenek öngörülmek şartıyla
-katkı sağlanabilir.
+58) Yükseköğretim kurumlarında üniversite yönetim kurulunun önerisi ve
+    Yükseköğretim Kurulunun onayı ile döner sermaye işletmesi
+    kurulabilir. Kurulacak döner sermaye işletmesinin başlangıç
+    sermayesine ilgili yükseköğretim kurumu bütçesinde bu amaç için
+    ödenek öngörülmek şartıyla katkı sağlanabilir.
 
 Döner sermaye işletmesi faaliyetlerinden elde edilen gelirler, birimler
 itibarıyla ayrı hesaplarda izlenir.
@@ -2988,8 +2976,6 @@ teknoloji ürünü olan tıbbi cihazların hizmet alımı yoluyla temini veya
 kiralanması için döner sermaye kaynaklarından gelecek yıllara yaygın
 yüklenmelere girişilebilir.
 
-–––––––––––––––
-
 (1)  Bu maddede geçen “katma bütçelerin” ibaresi ile ilgili olarak,
 10/12/2003 tarihli ve 5018 sayılı Kanunun, 12 ve 81 inci maddeleri ile
 Kanuna bağlı (II) sayılı cetvele bakınız.
@@ -3009,18 +2995,18 @@ ve 4684 sayılı Kanunla metinden çıkarılmıştır.*
 
 b\) Döner sermaye gelirlerinden tahsil edilen kısmın, tıp ve diş
 hekimliği fakülteleri sağlık uygulama ve araştırma merkezleri ile açık
-öğretim hizmeti veren yükseköğretim kurumları için asgari yüzde 35'i,
+öğretim hizmeti veren yükseköğretim kurumları için asgari yüzde 35’i,
 ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu, sürekli
 eğitim merkezleri ile bünyesinde atölye veya laboratuar bulunan
 yükseköğretim kurumları için asgari yüzde 30’u, diğer yükseköğretim
-kurumları için ise asgari yüzde 15'i, ilgili yükseköğretim kurumunun
+kurumları için ise asgari yüzde 15’i, ilgili yükseköğretim kurumunun
 ihtiyacı olan mal ve hizmet alımları, her türlü bakım, onarım,
 kiralama,  devam  etmekte  olan   projelerin  tamamlanmasına  yönelik 
 inşaat  işleri  ve   diğer ihtiyaçlar ile yönetici payları için
-kullanılır. Bu oranları yüzde 75'ine kadar artırmaya üniversite yönetim
+kullanılır. Bu oranları yüzde 75’ine kadar artırmaya üniversite yönetim
 kurulu yetkilidir. ^(1)^
 
-Döner sermaye gelirlerinden tahsil edilen kısmın en az yüzde 5'i,
+Döner sermaye gelirlerinden tahsil edilen kısmın en az yüzde 5’i,
 üniversite bünyesinde yürütülen bilimsel araştırma projelerinin
 finansmanı için kullanılır. Bu tutar döner sermaye muhasebe birimince,
 tahsilatı takip eden ayın yirmisine kadar ilgili yükseköğretim kurumu
@@ -3049,43 +3035,41 @@ görevlilerine aylık (ek gösterge dahil), yan ödeme, ödenek (geliştirme
 ödeneği hariç) ve her türlü tazminat (28/3/1983 tarihli ve 2809 sayılı
 Kanunun geçici 3 üncü maddesinin beşinci fıkrası uyarınca ödenen
 tazminat dahil, makam, temsil ve görev tazminatı ile yabancı dil
-tazminatı hariç) toplamından oluşan ek ödeme matrahının yüzde 800'ünü,
-araştırma görevlilerine ise yüzde 500'ünü; bu yerlerde görevli olmakla
+tazminatı hariç) toplamından oluşan ek ödeme matrahının yüzde 800’ünü,
+araştırma görevlilerine ise yüzde 500’ünü; bu yerlerde görevli olmakla
 birlikte gelire katkısı olmayan öğretim üyesi ve öğretim görevlilerine
-yüzde 600'ünü, araştırma görevlilerine ise yüzde 300'ünü,  ^(1)^
+yüzde 600’ünü, araştırma görevlilerine ise yüzde 300’ünü,  ^(1)^
 
 2\) Diğer öğretim elemanlarına ve 657 sayılı Devlet Memurları Kanununa
 tabi personel (…) ^(2)^ ile aynı Kanunun 4 üncü maddesinin (B) bendine
 göre sözleşmeli olarak çalışan personele ek ödeme matrahının; uzman
 tabipler için yüzde 600’ünü, hastaneler başmüdürü ve eczacılar için
-yüzde 250'sini, başhemşireler için yüzde 200'ünü, diğer öğretim
-elemanları ile diğer personel için yüzde 150'sini, işin ve hizmetin
+yüzde 250’sini, başhemşireler için yüzde 200’ünü, diğer öğretim
+elemanları ile diğer personel için yüzde 150’sini, işin ve hizmetin
 özelliği dikkate alınarak yoğun bakım, doğumhane, yeni doğan, süt
 çocuğu, yanık, diyaliz, ameliyathane, enfeksiyon, özel bakım gerektiren
 ruh sağlığı, organ ve doku nakli, acil servis ve benzeri sağlık
-hizmetlerinde çalışan personel için yüzde 200'ünü geçmeyecek şekilde
+hizmetlerinde çalışan personel için yüzde 200’ünü geçmeyecek şekilde
 aylık ek ödeme yapılır. Sözleşmeli personele yapılacak ek ödeme matrahı,
 sözleşmeli personelin çalıştığı birim ve bulunduğu pozisyon unvanı
 itibarıyla aynı veya benzer unvanlı memur kadrosunda çalışan, hizmet
 yılı ve öğrenim durumu aynı olan emsali personel dikkate alınarak
 belirlenir. Emsali bulunmayan sözleşmeli personelin ek ödeme matrahı ise
-brüt sözleşme ücretlerinin yüzde 25'ini geçemez.**(Ek cümle:
+brüt sözleşme ücretlerinin yüzde 25’ini geçemez.**(Ek cümle:
 11/10/2011-KHK-666/5 md.)** Bu fıkra uyarınca yapılacak ödeme sigorta
 prim kesintisine tabi tutulmaz. ^(1)(2)(3)^
 
-––––––––––––––––––
-
 *(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (b)
 fıkrasında yer alan “ile sağlık uygulama ve araştırma merkezleri için
-asgari yüzde 35'i, ziraat ve veteriner fakülteleri, sivil havacılık
+asgari yüzde 35’i, ziraat ve veteriner fakülteleri, sivil havacılık
 yüksekokulu ile bünyesinde atölye veya laboratuar bulunan yükseköğretim
-kurumları için asgari yüzde 25'i, diğer yükseköğretim kurumları için ise
-asgari yüzde 15'i,” ibaresi “sağlık uygulama ve araştırma merkezleri ile
+kurumları için asgari yüzde 25’i, diğer yükseköğretim kurumları için ise
+asgari yüzde 15’i,” ibaresi “sağlık uygulama ve araştırma merkezleri ile
 açık öğretim hizmeti veren yükseköğretim kurumları için asgari yüzde
-35'i, ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu,
+35’i, ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu,
 sürekli eğitim merkezleri ile bünyesinde atölye veya laboratuar bulunan
 yükseköğretim kurumları için asgari yüzde 30’u, diğer yükseköğretim
-kurumları için ise asgari yüzde 15'i,” şeklinde; “yüzde 50'sine kadar”
+kurumları için ise asgari yüzde 15’i,” şeklinde; “yüzde 50’sine kadar”
 ibaresi “yüzde 75’ine kadar” şeklinde, aynı fıkranın ikinci paragrafında
 yer alan “yüzde 5’i” ibaresi “en az yüzde 5’i” şeklinde değiştirilmiş;
 (c) fıkrasının (1) numaralı bendinde yer alan “makam” ibaresinden önce
@@ -3131,10 +3115,10 @@ bünyesinde atölye veya laboratuvar bulunan kurumları ile sürekli eğitim
 merkezleri, açık öğretim hizmeti veren yükseköğretim kurumları ile
 düzenli döner sermaye geliri olan yükseköğretim kurumlarında üretilen
 mal ve hizmetlerden elde edilen döner sermaye gelirlerine katkısı
-bulunan öğretim elemanlarına yapılacak ek ödemeler hakkında da (c)
-fıkrası hükümleri uygulanır. ^(1)(2)^
+bulunan öğretim elemanlarına yapılacak ek ödemeler hakkında da © fıkrası
+hükümleri uygulanır. ^(1)(2)^
 
-e\) Yükseköğretim kurumlarının (c) ve (d) fıkraları kapsamına girenler
+e\) Yükseköğretim kurumlarının © ve (d) fıkraları kapsamına girenler
 haricindeki diğer birimlerinde döner sermaye işletmesi hesabına yapılan
 iş veya hizmetler karşılığında tahsil edilen gelirlerden kanuni
 kesintiler ile varsa yapılan iş veya hizmetle bağlantılı giderler
@@ -3174,26 +3158,24 @@ Bu fıkra kapsamında bulunan yöneticilere, mesai saatleri içerisinde
 verdikleri mesleki hizmetlerinden dolayı ayrıca ek ödeme yapılmaz. Mesai
 saatleri dışında döner sermaye gelirlerine katkıları bulunması hâlinde
 alabilecekleri toplam ek ödeme tutarı, hiçbir şekilde yönetici payı
-dahil ilgisine göre (c) ve (d) fıkralarında belirtilen esaslara göre
+dahil ilgisine göre © ve (d) fıkralarında belirtilen esaslara göre
 hesaplanacak tutarı geçemez. ^(1)\ ^
-
-––––––––––––
 
 \(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (d)
 fıkrasında yer alan “kurumlarında üretilen” ibaresi “kurumları ile
 sürekli eğitim merkezleri, açık öğretim hizmeti veren yükseköğretim
 kurumları ile düzenli döner sermaye geliri olan yükseköğretim
-kurumlarında üretilen” şeklinde değiştirilmiş; (e) fıkrasının birinci
+kurumlarında üretilen” şeklinde değiştirilmiş; © fıkrasının birinci
 paragrafında yer alan “hizmeti veren” ibaresinden önce gelmek üzere
 “veya hizmet bedelinin peşin tahsil edilmesi halinde hizmetin
 gerçekleşme oranına bağlı olarak aylara bölünerek” ibaresi eklenmiş, (f)
-fıkrasının üçüncü paragrafında yer alan “(c), (d) ve (e)” ibaresi “(c)
-ve (d)” şeklinde değiştirilmiş ve metne işlenmiştir.
+fıkrasının üçüncü paragrafında yer alan “©, (d) ve ©” ibaresi “© ve (d)”
+şeklinde değiştirilmiş ve metne işlenmiştir.
 
 \(2) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, d)
-fıkrasındayeralan “personele” ibaresi “öğretimelemanlarına” şeklinde,
-(e) fıkrasındayeralan “, memurlaravesözleşmelipersoneleödenir.” ibaresi
-“ödenir.” şeklindedeğiştirilmişvemetneişlenmiştir.
+fıkrasındayeralan “personele” ibaresi “öğretimelemanlarına” şeklinde, ©
+fıkrasındayeralan “, memurlaravesözleşmelipersoneleödenir.” İbaresi
+“ödenir.” Şeklindedeğiştirilmişvemetneişlenmiştir.
 
 5379
 
@@ -3203,14 +3185,14 @@ g\) Bu madde uyarınca 11/10/1983 tarihli ve 2914 sayılı Yüksek Öğretim
 Personel Kanununa tabi personele yapılan ödemeler, 27/1/2000 tarihli ve
 4505 sayılı Sosyal Güvenlikle İlgili Bazı Kanunlarda Değişiklik
 Yapılması ve Temsil Tazminatı Ödenmesi Hakkında Kanunun 5 inci
-maddesinin (c) fıkrası ile 4/7/2001 tarihli ve 631 sayılı Memurlar ve
+maddesinin © fıkrası ile 4/7/2001 tarihli ve 631 sayılı Memurlar ve
 Diğer Kamu Görevlilerinin Mali ve Sosyal Haklarında Düzenlemeler ile
 Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması
 Hakkında Kanun Hükmünde Kararnamenin 16 ncı maddesi hükümlerinin
 uygulanmasında dikkate alınmaz.
 
 **(Ek paragraf: 23/7/2010-6009/52 md.; Değişik ikinci paragraf:
-11/10/2011-KHK-666/5 md.)** Bu maddenin (c) ve (f) fıkraları kapsamında
+11/10/2011-KHK-666/5 md.)** Bu maddenin © ve (f) fıkraları kapsamında
 bulunanlar dışındaki 657 sayılı Devlet Memurları Kanununa tabi memurlar
 ile aynı Kanunun 4 üncü maddesinin (B) fıkrasına göre sözleşmeli olarak
 çalışan personele 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu
@@ -3233,14 +3215,14 @@ belirlenir. Bu yönetmelikte belirlenen temel ilkeler çerçevesinde
 üniversite yönetim kurulları gerekli düzenlemeleri yapmaya yetkilidir.
 
 **(Değişik üçüncü paragraf: 11/10/2011-KHK-666/5 md.)** Üniversitelerin
-(c) ve (f) fıkraları kapsamındaki personeline bu madde uyarınca her ay
+© ve (f) fıkraları kapsamındaki personeline bu madde uyarınca her ay
 yapılacak ek ödemenin net tutarı, 375 sayılı Kanun Hükmünde Kararnamenin
 ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı
 itibarıyla belirlenmiş olan ek ödemenin net tutarından az olamaz. Bu
 kapsamda ek ödemeden yararlanan personele, ayrıca 375 sayılı Kanun
 Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ödeme yapılmaz.
 
-ı) Döner sermaye işletmelerinin faaliyet alanları, gelir ve giderleri,
+I\) Döner sermaye işletmelerinin faaliyet alanları, gelir ve giderleri,
 sermaye limitleri ile işletmelerin yönetimine ilişkin esas ve usuller
 Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulunca
 çıkarılacak yönetmelikle belirlenir.
@@ -3258,7 +3240,7 @@ Hükümler
 
              *Siyasi partilere üyelik ve görev alma: ^(1)^*
 
-*            * **Madde 59 – (Değişik: 2/7/1997 - 4278/1 md.)**
+*            * **Madde 59 – (Değişik: 2/7/1997 – 4278/1 md.)**
 Yükseköğretim kurumlarının öğretim elemanları, siyasi partilere üye
 olabilirler; yükseköğretim kurumlarındaki görevlerini aksatmamak ve bir
 ay içinde kurumlarına bildirmek kaydıyla, siyasi partilerin merkez
@@ -3279,13 +3261,13 @@ propagandası yapamazlar.
 
 *            * **Madde 60 – **
 
-**            ** a. **(Değişik: 1/11/1990 - 3676/1 md.)** Bir süre
-öğretim üyesi olarak çalıştıktan sonra Bakanlar Kuruluna veya Yasama
-Organı Üyeliğine seçilenler, bu görevlerde geçirdikleri süreler hesaba
-katılmak ve buna göre aylık dereceleri yükseltilmek, meslek unvan ve
-sıfatlarını kazanma ile ilgili hükümler saklı kalmak şartıyla
-başvurmaları halinde bu Kanun hükümlerine göre ayrıldıkları
-yükseköğretim kurumuna kadro koşulu aranmaksızın dönerler.
+58. **(Değişik: 1/11/1990 – 3676/1 md.)** Bir süre öğretim üyesi olarak
+    çalıştıktan sonra Bakanlar Kuruluna veya Yasama Organı Üyeliğine
+    seçilenler, bu görevlerde geçirdikleri süreler hesaba katılmak ve
+    buna göre aylık dereceleri yükseltilmek, meslek unvan ve sıfatlarını
+    kazanma ile ilgili hükümler saklı kalmak şartıyla başvurmaları
+    halinde bu Kanun hükümlerine göre ayrıldıkları yükseköğretim
+    kurumuna kadro koşulu aranmaksızın dönerler.
 
 **(Ek bent:17/9/2004-5234/2 md.)**Bunlardan emekli iken yüksek öğretim
 kurumlarına dönenlerin veya yüksek öğretim kurumlarına döndükten sonra
@@ -3294,13 +3276,13 @@ Bunlara yüksek öğretim kurumlarınca, ders yükü zorunluluğu aranmadan ek
 ders ücreti ve sınav ücreti ile döner sermaye payı ödenir; bu ödemelerin
 dışında aylık, ödenek, tazminat ve benzeri herhangi bir ödeme yapılmaz.
 
-             b. **(Değişik: 1/11/1990 - 3676/1 md.)** Yükseköğretim
+             b. **(Değişik: 1/11/1990 – 3676/1 md.)** Yükseköğretim
 kurumlarından, mahkeme veya disiplin kararları ile çıkarılanlar hariç
 olmak üzere herhangi bir nedenle kendi isteği ile ayrılan öğretim
 üyeleri başvuruları üzerine bu Kanun hükümleri çerçevesinde kadro koşulu
 aranmaksızın tekrar ayrıldıkları yükseköğretim kurumlarına dönebilirler.
 
-             c. **(Ek: 14/4/1982 - 2653/5 md.)** Yükseköğretim Kurulu
+             c. **(Ek: 14/4/1982 – 2653/5 md.)** Yükseköğretim Kurulu
 veya Yükseköğretim Denetleme Kurulu Başkan ve üyeliklerine, rektör ve
 dekanlıklara yükseköğretim kurumları ile bir kamu görevinde iken
 seçilenlerden, süresinin tamamlayarak yeniden seçilmemeleri sebebiyle
@@ -3312,8 +3294,6 @@ kurumlarına boş kadro koşulu aranmaksızın dönüşleri yapılır.
  
 
  
-
-——————————
 
 \(1) Madde başlığı 2/7/1997 tarih ve 4278 sayılı Kanunun 1 inci
 maddesiyle değiştirilmiş ve metne işlenmiştir.
@@ -3329,7 +3309,7 @@ maddesiyle değiştirilmiş ve metne işlenmiştir.
 
              *Oylama: *
 
-             **Madde 61 – **Bu kanunda sözü geçen juri ve kurullarda,
+             **Madde 61 – **Bu kanunda sözü geçen 44önü ve kurullarda,
 her üye oyunu kabul veya ret yoluyla vermekle görevlidir. Çekimser oy
 kullanılamaz.
 
@@ -3380,12 +3360,13 @@ başından ayrılabilir.
 
              **Madde 65 – **
 
-             a. Aşağıdaki hususlar Yükseköğretim Kurulu tarafından
-çıkarılacak yönetmeliklerle düzenlenir:
+58. Aşağıdaki hususlar Yükseköğretim Kurulu tarafından çıkarılacak
+    yönetmeliklerle düzenlenir:
 
-             (1) Yükseköğretim Kurulunun teşkilatı, çalışma usulleri,
-üyelerinin seçimi ve yetkisinde olan seçim ve atamalarla ilgili
-hususlar,
+<!-- -->
+
+(58) Yükseköğretim Kurulunun teşkilatı, çalışma usulleri, üyelerinin
+    seçimi ve yetkisinde olan seçim ve atamalarla ilgili hususlar,
 
              (2) Yükseköğretim Denetleme Kurulunun kuruluş ve
 işleyişi,denetleme usul ve esasları ile ilgili hususlar,
@@ -3423,9 +3404,9 @@ uygulanacak esaslar,
              (11) Öğretim elemanları; memur ve diğer personel ile
 öğrencilerin sicilleri ile ilgili hususlar,
 
-             (12) **(Değişik: 17/8/1983 - 2880/33 md.)** Vakıflarca
+             (12) **(Değişik: 17/8/1983 – 2880/33 md.)** Vakıflarca
 kurulacak yükseköğretim kurumlarının eğitim ve öğretim alanları
-gözönünde tutularak gerekli yapı ve tesisler, araç - gereç, öğretim,
+gözönünde tutularak gerekli yapı ve tesisler, araç – gereç, öğretim,
 yönetim kadrosu ve diğer akademik konular, 
 
  
@@ -3443,7 +3424,7 @@ hususlar.
                 b. Aşağıdaki hususlar Üniversitelerarası Kurul
 tarafından çıkarılacak yönetmeliklerle düzenlenir:
 
-                (1) Lisansüstü öğretim esasları,
+(58) Lisansüstü öğretim esasları,
 
                 (2) Bu Kanunun uygulanması ile ilgili diğer akademik
 hususlar.
@@ -3458,10 +3439,10 @@ kanunların bu kanuna aykırı hükümleri yürürlükten kaldırılmıştır.
 ile ek ve değişiklikleri,
 
                 6594 sayılı Karadeniz Teknik Üniversitesi adıyla
-Trabzon'da Bir Üniversite Kurulması Hakkında Kanun ile ek ve
+Trabzon’da Bir Üniversite Kurulması Hakkında Kanun ile ek ve
 değişiklikleri,
 
-                6595 sayılı Ege Üniversitesi adıyla İzmir'de Bir
+                6595 sayılı Ege Üniversitesi adıyla İzmir’de Bir
 Üniversite Kurulması Hakkında Kanun ile ek ve değişiklikleri,
 
                 6990 sayılı Atatürk Üniversitesi Kanunu ile ek ve
@@ -3486,7 +3467,7 @@ Kanun ile ek ve değişiklikleri,
                 1873 sayılı Dört Üniversite Kurulması Hakkındaki Kanun
 ile ek ve değişiklikleri,
 
-                1487 sayılı Boğaziçi Üniversitesi Adıyla İstanbul'da Bir
+                1487 sayılı Boğaziçi Üniversitesi Adıyla İstanbul’da Bir
 Üniversite Kurulması Hakkında Kanun ile ek ve değişiklikleri,
 
                 5239 sayılı Ankara Üniversitesi Kuruluş Kadroları Kanunu
@@ -3506,7 +3487,7 @@ yüksekokul müdürleri ile bunların yardımcıları ve bölüm başkanları,
 gerektiğinde bu Kanunda belirtilen süreleri dolmadan tayinlerindeki
 usule uygun olarak görevlerinden alınabilirler.
 
-                **Ek Madde 2 – (Ek: 17/8/1983 - 2880/32 md.; Değişik :
+                **Ek Madde 2 – (Ek: 17/8/1983 – 2880/32 md.; Değişik :
 18/6/2008-5772/7 md.)**
 
    Vakıflar; kazanç amacına yönelik olmamak şartıyla ve mali ve idari
@@ -3528,37 +3509,37 @@ duyulması esastır.
 
  
 
-             **Ek Madde 3 – (Ek: 17/8/1983 - 2880/32 md.)**
+             **Ek Madde 3 – (Ek: 17/8/1983 – 2880/32 md.)**
 
              Vakıf veya birden fazla vakfın yetkili yönetim organlarının
 yükseköğretim kurumu kurma ile ilgili karar veya kararları Vakıflar
 Genel Müdürlüğünün olumlu yazısı ile birlikte ve aşağıdaki belgelerle
 Yükseköğretim Kurulu Başkanlığına sunulur:
 
-             a) Kurulacak yükseköğretim kurumunun bina, araç, gereç ve
-diğer maddi yapıları ve malzemelerinin hazır bulunduğunu veya bunların
-sağlanması için yeteri kadar bir meblağın tahsis edildiğini gösterir
-belge,
+58) Kurulacak yükseköğretim kurumunun bina, araç, gereç ve diğer maddi
+    yapıları ve malzemelerinin hazır bulunduğunu veya bunların
+    sağlanması için yeteri kadar bir meblağın tahsis edildiğini gösterir
+    belge,
 
              b) Kurulacak yükseköğretim kurumunun bir yıllık her çeşit
-işletme ve diğer cari masraflarının en az% 20'sini karşılayacak bir
+işletme ve diğer cari masraflarının en az% 20’sini karşılayacak bir
 paranın, malın, ekonomik değeri olan bir hakkın veya gelirin mevcut
 olduğunu ve buna tahsis edildiğini gösterir belge,
 
              c) Kurulacak yükseköğretim kurumunun ve bunlara bağlı
-birimlerin adlarını bildiren belge ile Kurumun eğitim - öğretim, mali ve
+birimlerin adlarını bildiren belge ile Kurumun eğitim – öğretim, mali ve
 idari konularda uygulayacağı esasları gösteren taahhüt belgesi.
 
-             d) Vakıf yükseköğretim kurumunun eğitim - öğretim
+             d) Vakıf yükseköğretim kurumunun eğitim – öğretim
 fonksiyonunu yerine getiremeyeceğinin anlaşılması halinde, bu madde ile
 yükseköğretim kurumuna tahsis edilenlere yapılacak işlemi gösterir
 belge.
 
-             **(Değişik : 7/6/1989 - KHK-369/4 md.; Aynen Kabul:
-23/11/1989 - 3589/4 md.; İptal : Ana Mah’nin 30/5/1990 tarih ve E. :
+             **(Değişik : 7/6/1989 – KHK-369/4 md.; Aynen Kabul:
+23/11/1989 – 3589/4 md.; İptal : Ana Mah’nin 30/5/1990 tarih ve E. :
 1990/2, K. : 1990/10 sayılı Kararıyla)**(1)
 
-             **(Ek:3/4/1991-3708/5 md.; İptal: Ana. Mah'nin29/6/1992
+             **(Ek:3/4/1991-3708/5 md.; İptal: Ana. Mah’nin29/6/1992
 tarih ve E. 1991/21, K. 1992/42 Sayılı Kararıyla.)**
 
              **Ek Madde 4 – (Ek: 17/8/1883-2880/32 md.)**
@@ -3568,7 +3549,7 @@ vakıflar tarafından açılamaz.
 
              **Ek Madde 5 – (Ek :17/8/1983 -2880/32 md.) **
 
-**             (Değişik: 28/12/1999 - 4498/1 md.)** Vakıflarca kurulacak
+**             (Değişik: 28/12/1999 – 4498/1 md.)** Vakıflarca kurulacak
 yükseköğretim kurumlarının, vakıf yönetim organı dışında en az yedi
 kişiden oluşan bir mütevelli heyeti bulunur. Mütevelli heyet üyeleri,
 vakıf yönetim organı tarafından dört yıl için seçilir, süresi biten
@@ -3585,7 +3566,7 @@ yöneticilerine uygun gördüğü ölçüde yetkilerini devredebilir.
 Yükseköğretim kurumunda görevlendirilecek yöneticiler ve öğretim
 elemanları ile diğer personelin sözleşmelerini yapar, atamalarını ve
 görevden alınmalarını onaylar, yükseköğretim kurumunun bütçesini onaylar
-ve uygulamaları izler, ayrıca vakıfca hazırlanan yönetmelik hükümlerine
+ve uygulamaları izler, ayrıca 47önüştü hazırlanan yönetmelik hükümlerine
 göre diğer görevleri yürütür.
 
  
@@ -3594,104 +3575,97 @@ göre diğer görevleri yürütür.
 
  
 
-——————————
-
-*(1)    Söz konusu Anayasa Mahkemesi Kararı, Resmi Gazete’de
-yayımlandığı 9/2/1991 tarihinden başlayarak bir yıl sonra yürürlüğe
-girmiştir.*
+(58) *Söz konusu Anayasa Mahkemesi Kararı, Resmi Gazete’de yayımlandığı
+    9/2/1991 tarihinden başlayarak bir yıl sonra yürürlüğe girmiştir.*
 
 5383
 
- 
+Mütevelli heyetin toplantı nisabı ve karar alınması ile ilgili
+hususlarda bu Kanunun 61 inci maddesi hükmü uygulanır.
 
-             Mütevelli heyetin toplantı nisabı ve karar alınması ile
-ilgili hususlarda bu Kanunun 61 inci maddesi hükmü uygulanır.
+**Ek Madde 6 – (Ek: 17/8/1983 – 2880/32 md.)**
 
-             **Ek Madde 6 – (Ek: 17/8/1983 - 2880/32 md.)**
+Kurulacak yükseköğretim kurumu, vakıf tüzelkişiliği dışında ayrı bir
+tüzelkişiliğe sahip olur ve bu kurumun gelirleri, geçici olarak dahi hiç
+bir suretle vakıf mamelekine veya hesaplarına intikal edemez. Vakıf
+yükseköğretim kurumuna doğrudan doğruya bağış ve yardım yapılabilir.
 
-             Kurulacak yükseköğretim kurumu, vakıf tüzelkişiliği dışında
-ayrı bir tüzelkişiliğe sahip olur ve bu kurumun gelirleri, geçici olarak
-dahi hiç bir suretle vakıf mamelekine veya hesaplarına intikal edemez.
-Vakıf yükseköğretim kurumuna doğrudan doğruya bağış ve yardım
-yapılabilir.
+**Ek Madde 7 – (Ek:17/8/1983 – 2880/32 md.; Değişik:3/4/1991 – 3708/6
+md.)** Vakıflarca kurulacak yükseköğretim kurumları, bu Kanunun 56 ncı
+maddesinde yer alan mali kolaylıklardan, muafiyetlerden ve istisnalardan
+aynen istifade ederler ve bunlar emlak vergisinden muaf tutulurlar.
 
-             **Ek Madde 7 – (Ek:17/8/1983 - 2880/32 md.;
-Değişik:3/4/1991 - 3708/6 md.)** Vakıflarca kurulacak yükseköğretim
-kurumları, bu Kanunun 56 ncı maddesinde yer alan mali kolaylıklardan,
-muafiyetlerden ve istisnalardan aynen istifade ederler ve bunlar emlak
-vergisinden muaf tutulurlar.
+**(Ek fıkra: 3/4/2013-6456/24 md.)** Vakıflar tarafından kurulan
+yükseköğretim kurumları kamulaştırma yoluyla taşınmaz edinemez.
 
-             **Ek Madde 8 – (Ek: 17/8/1983 - 2880/32 md.)**
+**Ek Madde 8 – (Ek: 17/8/1983 – 2880/32 md.)**
 
-             Vakıfca kurulacak yükseköğretim kurumlarındaki akademik
-organlar, Devlet yükseköğretim kurumlarındaki akademik organlar gibi
-düzenlenir ve onların görevlerini yerine getirir. Öğretim elemanlarının
-nitelikleri Devlet yükseköğretim kurumlarındaki öğretim elemanlarının
-niteliklerinin aynıdır. Devlet yükseköğretim kurumlarında çalışmaları
-yasaklanmış veya disiplin yoluyla bu kurumlardan çıkarılmış kişiler,
-vakıf yükseköğretim kurumlarında görev alamazlar.
+Vakıfca kurulacak 48önüştürülmel kurumlarındaki akademik organlar,
+Devlet yükseköğretim kurumlarındaki akademik organlar gibi düzenlenir ve
+onların görevlerini yerine getirir. Öğretim elemanlarının nitelikleri
+Devlet yükseköğretim kurumlarındaki öğretim elemanlarının niteliklerinin
+aynıdır. Devlet yükseköğretim kurumlarında çalışmaları yasaklanmış veya
+disiplin yoluyla bu kurumlardan çıkarılmış kişiler, vakıf yükseköğretim
+kurumlarında görev alamazlar.
 
-             **Ek Madde 9 – (Ek: 17/8/1983 - 2880/32 md.)** Vakıf
-yükseköğretim kurumlarının eğitim - öğretim esasları, öğretim süreleri
-ve öğrenci hakları ile ilgili hususlar bu Kanun hükümlerine tabidir.
+**Ek Madde 9 – (Ek: 17/8/1983 – 2880/32 md.)** Vakıf yükseköğretim
+kurumlarının eğitim – öğretim esasları, öğretim süreleri ve öğrenci
+hakları ile ilgili hususlar bu Kanun hükümlerine tabidir.
 
-             *Öğrencilerden alınacak ücretler mütevelli heyet tarafından
-tespit edilir. *
+*Öğrencilerden alınacak ücretler mütevelli heyet tarafından tespit
+edilir. *
 
-*            * **Ek Madde 10 – (Ek: 17/8/1983 - 2880/32 md.) **
+**Ek Madde 10 – (Ek: 17/8/1983 – 2880/32 md.) **
 
-             Vakıflar tarafından kurulacak yükseköğretim kurumları
-çalışmalarını Devlet
+Vakıflar tarafından kurulacak yükseköğretim kurumları çalışmalarını
+Devlet
 
 yükseköğretim kurumları gibi, her ders yılı sonunda Yükseköğretim
 Kuruluna sunarlar. Bu kurumlar mali, idari ve ekonomik konularda
 Yüksekögretim Kurulunun gözetim ve denetimine tabidirler.
 
-             **Ek Madde 11 – (Ek: 17/8/1983 - 2880/32 md.) **
+**Ek Madde 11 – (Ek: 17/8/1983 – 2880/32 md.) **
 
-             Vakıflarca kurulacak yükseköğretim kurumlarında, beklenen
-eğitim – öğretim düzeyinin yetersizliğinin Yükseköğretim Kurulunca
-tespit edilmesi ve durumun düzeltilmesi için gerekli uyarı ve önerilerin
-sonuçsuz kalması halinde bu kurumun faaliyeti Yükseköğretim Kurulunca
-durdurulur.
+Vakıflarca kurulacak yükseköğretim kurumlarında, beklenen eğitim –
+öğretimdüzeyinin yetersizliğinin Yükseköğretim Kurulunca tespit edilmesi
+ve durumun düzeltilmesi için gerekli uyarı ve önerilerin sonuçsuz
+kalması halinde bu kurumun faaliyeti Yükseköğretim Kurulunca durdurulur.
 
-             **Ek Madde 12 – (Ek: 17/8/1983 - 2880/32 md.) **
+**Ek Madde 12 – (Ek: 17/8/1983 – 2880/32 md.) **
 
-**            ** Vakıf tarafından kurulacak yükseköğretim kurumunda
-akademik kurul, senatoların; yönetim kurulu, üniversite yönetim
-kurulunun; en yüksek düzeyindeki yönetici, rektörlerin yetkisini
-kullanır ve görevlerini yapar.
+Vakıf tarafından kurulacak yükseköğretim kurumunda akademik kurul,
+senatoların; yönetim kurulu, üniversite yönetim kurulunun; en yüksek
+düzeyindeki yönetici, rektörlerin yetkisini kullanır ve görevlerini
+yapar.
 
-             **Ek Madde 13 – (Ek: 17/8/1983 - 2880/32 md.; Mülga:
-3/4/1991 - 3708/8 md.) ^(1)^**
+**Ek Madde 13 – (Ek: 17/8/1983 – 2880/32 md.; Mülga: 3/4/1991 – 3708/8
+md.) ^(1)^**
 
-             **Ek Madde 14 – (Ek: 17/8/1983 - 2880/32 md.) **
+**Ek Madde 14 – (Ek: 17/8/1983 – 2880/32 md.) **
 
-             Vakıflarca kurulacak yükseköğretim kurumlarının eğitim ve
-öğretim alanları gözönünde tutularak yapı ve tesisler, araç - gereç,
-öğretim, yönetim kadrosu ve diğer akademik konular Yükseköğretim
-Kurulunca belirlenir.
+Vakıflarca kurulacak yükseköğretim kurumlarının eğitim ve öğretim
+alanları gözönünde tutularak yapı ve tesisler, araç – gereç, öğretim,
+yönetim kadrosu ve diğer akademik konular Yükseköğretim Kurulunca
+belirlenir.
 
-             **Ek Madde 15 – (Ek: 17/8/1983 - 2880/32 md.) **
+**Ek Madde 15 – (Ek: 17/8/1983 – 2880/32 md.) **
 
-             Vakıf tüzelkişiliğinin herhangi bir şekilde nihayete ermesi
-halinde, vakıf yükseköğretim kurumu tüzelkişiliği devam eder ve vakıf
-tarafından yükseköğretim kurumu tüzelkişiliğine tahsis edilen her türlü
-taşınır ve taşınmaz mal, araç-gereç, malzeme, para ve ekonomik değeri
-olan haklar yükseköğretim kurumunun mülkiyetine geçer.
+Vakıf tüzelkişiliğinin herhangi bir şekilde nihayete ermesi halinde,
+vakıf yükseköğretim kurumu tüzelkişiliği devam eder ve vakıf tarafından
+yükseköğretim kurumu tüzelkişiliğine tahsis edilen her türlü taşınır ve
+taşınmaz mal, araç-gereç, malzeme, para ve ekonomik değeri olan haklar
+yükseköğretim kurumunun mülkiyetine geçer.
 
-             Bu durumda vakıf yükseköğretim kurumu mütevelli heyeti
-üyeleri ile yükseköğretim kurumu yöneticilerinin seçilmesi yetkisi,
-Yükseköğretim Kurulunun olumlu görüşü üzerine Vakıflar Genel
-Müdürlüğünce bir başka vakfa devredilir.
+Bu durumda vakıf 48önüştürülmel kurumu mütevelli heyeti üyeleri ile
+yükseköğretim kurumu yöneticilerinin seçilmesi yetkisi, Yükseköğretim
+Kurulunun olumlu görüşü üzerine Vakıflar Genel Müdürlüğünce bir başka
+vakfa devredilir.
 
-——————————
-
-*(1)  Bu maddenin 3589 sayılı Kanun ile değişik hükmü; Anayasa
-Mahkemesinin 30/5/1990 tarih ve E : 1990/2, K : 1990/10 sayılı Kararıyla
-9/1/1992 tarihinden geçerli olmak üzere iptal edilmiş ise de iptal hükmü
-yürürlüğe girmeden önce 3/4/1991 tarih ve 3708 sayılı Kanun ile
-yürürlükten kaldırılmıştır.*
+(58) *Bu maddenin 3589 sayılı Kanun ile değişik hükmü; Anayasa
+    Mahkemesinin 30/5/1990 tarih ve E : 1990/2, K : 1990/10 sayılı
+    Kararıyla 9/1/1992 tarihinden geçerli olmak üzere iptal edilmiş ise
+    de iptal hükmü yürürlüğe girmeden önce 3/4/1991 tarih ve 3708 sayılı
+    Kanun ile yürürlükten kaldırılmıştır.*
 
 5384
 
@@ -3703,10 +3677,10 @@ kurumun idaresi Yükseköğretim Kurulunca eğitim ve öğretimi sürdürmek
 veya tamamlamak üzere uygun bir Devlet yükseköğretim kurumunun
 vesayetine verilir.
 
-             **Ek Madde 16 - (Ek : 10/12/1988 - 3511/2 md.; İptal: Ana,
+             **Ek Madde 16 – (Ek : 10/12/1988 – 3511/2 md.; İptal: Ana,
 Mah.nin 7/3/1989 tarih ve E. :1989/1, K. :1989/12 sayılı kararıyla.
-Yeniden Düzenleme 12/1/1990 - KHK-398/3 md.; Değiştirilerek Kabul:
-7/3/1990 - 3614/3 md.) **
+Yeniden Düzenleme 12/1/1990 – KHK-398/3 md.; Değiştirilerek Kabul:
+7/3/1990 – 3614/3 md.) **
 
              Açıköğretim uygulayan üniversiteler yurt içinde hizmet
 birimleri açabilirler. Aynı üniversiteler, yurt dışında yaşayan T.C.
@@ -3717,7 +3691,7 @@ merkez tesis edebilirler.
              Açıköğretim hizmeti veren üniversitelerde rektörlük ile bu
 tür hizmetleri veren fakülte, enstitü, yüksekokul, konservatuvar, meslek
 yüksekokulu, merkez ve benzeri kuruluşlarda, hizmetin özelliğinin
-gerektirdiği birimlerin kurulması veya değiştirilmesi, diger ülkelerin
+gerektirdiği birimlerin kurulması veya değiştirilmesi, 49önüş ülkelerin
 açıköğretim kuruluşları ile eğitim ve öğretim alanlarında işbirliği
 yapılması üniversite yönetim kurulunun kararı ile gerçekleştirilir.
 
@@ -3728,12 +3702,12 @@ yüksekokul ve meslek yüksekokullarında örgün öğretim yapan bölümlerin
 yanı sıra, açıköğretim yapan bölümler kurulması, üniversite senatosunun
 teklifi ve Yükseköğretim Kurulunun onayı ile olur.
 
-**             Ek Madde 17 – (Ek: 25/10/l990 - 3670/12 md.)**
+**             Ek Madde 17 – (Ek: 25/10/l990 – 3670/12 md.)**
 
 **            ** Yürürlükteki kanunlara aykırı olmamak kaydı ile;
 yükseköğretim kurumlarında kılık ve kıyafet serbesttir.
 
-             **Ek Madde 18 – (Değişik : 26/6/2001 - 4689/3 md.)**
+             **Ek Madde 18 – (Değişik : 26/6/2001 – 4689/3 md.)**
 
 **            ** Vakıflar tarafından kurulmuş yükseköğretim kurumlarının
 giderlerine katkıda bulunmak amacıyla; bütçede yer alan ödenekle sınırlı
@@ -3808,11 +3782,11 @@ alınarak yapılan değerlendirmede, bu esasa göre sıralanan tüm Devlet
 getirmeleri gerekmektedir. Buna göre, ikinci fıkrada belirtilen
 miktarın;
 
-             – (a), (b), (c), (d), (e) ve (f) bentlerinde sayılan tüm
+             – (a), (b), (c), (d), © ve (f) bentlerinde sayılan tüm
 şartları yerine getiren vakıf yükseköğretim kurumlarına tamamına kadar,
 
              – Asgari şartlardan (a), (b), (c) ve (d) bentlerinin yanı
-sıra (e) veya (f) bentlerinden birini yerine getiren vakıf yükseköğretim
+sıra © veya (f) bentlerinden birini yerine getiren vakıf yükseköğretim
 kurumlarına % 80’ine kadar,
 
              – Sadece asgari şartları yerine getiren vakıf yükseköğretim
@@ -3837,29 +3811,27 @@ yükseköğretim kurumlarından her türlü belge ve bilgiyi istemeye ve
 gerektiğinde merkez denetim elemanları vasıtasıyla denetim ve inceleme
 yaptırmaya Maliye Bakanlığı yetkilidir. ^(2)^
 
-             **Ek Madde 19 – (Ek : 3/4/1991 - 3708/7 md.;
-İptal:Ana.Mah.'nin 29/6/1992 tarih ve **
+             **Ek Madde 19 – (Ek : 3/4/1991 – 3708/7 md.;
+İptal:Ana.Mah.’nin 29/6/1992 tarih ve **
 
 **E. 1991/21, K. 1992/42 sayılı Kararıyla)**
 
-             **Ek Madde 20 – (Ek: 3/4/1991 - 3708/7 md.)**
+             **Ek Madde 20 – (Ek: 3/4/1991 – 3708/7 md.)**
 
-             a) Hacettepe Çocuk Sağlığı Enstitüsü Vakfı, Hacettepe Tıp
-Merkezi Vakfı ve Hacettepe Üniversitesi Vakfı tarafından müştereken
-kurulmuş olan yükseköğretim kurumuna kamu tüzel kişiliğine sahip olmak
-üzere "Bilkent Üniversitesi" adı verilmiştir.
+58) Hacettepe Çocuk Sağlığı Enstitüsü Vakfı, Hacettepe Tıp Merkezi Vakfı
+    ve Hacettepe Üniversitesi Vakfı tarafından müştereken kurulmuş olan
+    yükseköğretim kurumuna kamu tüzel kişiliğine sahip olmak üzere
+    “Bilkent Üniversitesi” adı verilmiştir.
 
-             b) **(İptal: Ana. Mah.'nin29/6/1992 tarih ve E. 1991/21, K.
+             b) **(İptal: Ana. Mah.’nin29/6/1992 tarih ve E. 1991/21, K.
 1992/42 sayılı Kararıyla.)**
-
-——————————
 
 \(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu
 bentte yer alan “Öğrenci Seçme ve Yerleştirme Merkezince” ibaresi
 “Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca” olarak değiştirilmiş
 ve metne işlenmiştir.
 
-(2)  Değişik bu maddenin üçüncü fıkrasının (c)bendi 1/1/2002 tarihinde,
+(2)  Değişik bu maddenin üçüncü fıkrasının ©bendi 1/1/2002 tarihinde,
 diğer hükümleri 1/1/2001 tarihinde yürürlüğe girmektedir.
 
  
@@ -3870,10 +3842,10 @@ diğer hükümleri 1/1/2001 tarihinde yürürlüğe girmektedir.
 
 **Ek Madde 21 – (Mülga: 31/3/2012-6287/17 md.)**
 
-             **Ek Madde 22 – (Ek: 19/11/1992 - 3843/18 md.; Mülga:
+             **Ek Madde 22 – (Ek: 19/11/1992 – 3843/18 md.; Mülga:
 21/1/2010-5947/19 md.) **
 
-**             Ek Madde 23 – (Ek: 7/6/1995 - 4111/2 md.) **
+**             Ek Madde 23 – (Ek: 7/6/1995 – 4111/2 md.) **
 
 **            ** Yükseköğretim kurumlarında pratik, uygulamalı dersler
 ve staj; öğrencinin tercih edeceği ilgili kamu kurum ve kuruluşları ile
@@ -3882,7 +3854,7 @@ bunlara muadil özel kuruluşlarda yapılabilir.
              Bu süre zarfında öğrenci, Yükseköğretim kurumları öğrenci
 disiplin kurallarına tabidir.
 
-             **Ek Madde 24 – (Ek : 29/6/2001 - 4702/4 md.)**
+             **Ek Madde 24 – (Ek : 29/6/2001 – 4702/4 md.)**
 
 **            ** Mesleki ve teknik eğitim bölgesinde, çağdaş bilim ve
 teknolojideki değişme ve gelişmelere uygun olarak ekonominin gereksinim
@@ -3911,7 +3883,7 @@ uygulamalarda görevlendirilen öğretmenlere, uzman kişilere, emekli
 öğretim elemanlarına ve emekli öğretmenlere 2914 sayılı Yükseköğretim
 Personel Kanununda belirtilen miktarda saat başına ders ücreti ödenir.
 
-**            Ek Madde 25 – (Ek : 14/7/2004 - 5217/5 md.)**^(1)^
+**            Ek Madde 25 – (Ek : 14/7/2004 – 5217/5 md.)**^(1)^
 
 Bu Kanunun 55 inci maddesine göre yükseköğretim kurumları adına tapuda
 kayıtlı taşınmazların kiralanması, satılması ve işletilmesi suretiyle
@@ -3934,7 +3906,7 @@ taşınmaz mallar üzerinde ilgili yüksek öğretim kurumlarının teklifi
 üzerine, öğrenci yurt binası ve müştemilatı yaptırılmak üzere mülkiyetin
 gayri aynî hak tesis edilebilir.
 
-**             Ek Madde 26 – (Ek : 17/9/2004 - 5234/2 md.)**
+**             Ek Madde 26 – (Ek : 17/9/2004 – 5234/2 md.)**
 
 Üniversite veya yüksek teknoloji enstitülerinin açmış oldukları yaz
 okullarına katılacak öğrencilerden, toplam ikiyüzseksen ders saatine
@@ -3973,7 +3945,7 @@ birinde açtırılacak hesaba yatırılır. Bu tutarlar, Rektörlükçe en geç
 onbeş gün içinde ilgili bütçe dairesi başkanlığının hesabına yatırılır.
 Yatırılan miktar Maliye Bakanlığınca ilgili bütçenin mevcut veya yeniden
 açılacak tertiplerine bir yandan gelir, diğer yandan özel ödenek
-kaydedilir. Kaydolunan özel ödeneğin en fazla % 70'i yaz okullarında
+kaydedilir. Kaydolunan özel ödeneğin en fazla % 70’i yaz okullarında
 ders vermekle görevlendirilen öğretim elemanlarına ders ve sınav ücreti
 olarak ödenebilir; kalan kısmı ise üniversite veya yüksek teknoloji
 enstitüsünün mal ve hizmet alımlarında kullanılır. Özel ödeneğin
@@ -4005,7 +3977,7 @@ tahsil etmeksizin yaz okulu açılması halinde bu madde uygulanmaz.
 Bu maddenin uygulanmasına ilişkin esas ve usuller, Maliye Bakanlığının
 uygun görüşü üzerine Yükseköğretim Kurulunca tespit edilir.
 
-**Ek Madde 27 – (Ek : 17/9/2004 - 5234/2 md.)**
+**Ek Madde 27 – (Ek : 17/9/2004 – 5234/2 md.)**
 
 Üniversite veya yüksek teknoloji enstitülerinde hukuk, uluslararası
 ilişkiler, iktisat, işletme, bilgi teknolojileri ve ileri teknolojiler
@@ -4025,7 +3997,7 @@ bankalarından birinde açtırılacak hesaba yatırılır. Bu tutarlar,
 Rektörlükçe en geç onbeş gün içinde ilgili bütçe dairesi başkanlığının
 hesabına yatırılır.
 
-Toplanan öğretim ücretlerinin % 30'undan az olmamak üzere üniversite
+Toplanan öğretim ücretlerinin % 30’undan az olmamak üzere üniversite
 veya yüksek teknoloji enstitüsü yönetim kurulunca belirlenecek kısmı,
 bilimsel araştırma projelerinde kullanılmak üzere yüksek öğretim
 kurumlarında yer alan mevcut veya yeniden açılacak tertiplere ödenek
@@ -4153,7 +4125,7 @@ tarihinden başlayarak dokuz ay içinde yeniden düzenlenip, yürürlüğe
 konur. Bu düzenleme sonuçlanıncaya kadar mevcut tüzük ve yönetmeliklerin
 bu Kanuna aykırı olmayan hükümlerine uygulanmasına devam edilir. Ancak,
 sınıf ve ders geçme ile ilgili yürürlükteki sınav ve değerlendirme
-mevzuatı 1981 - 1982 eğitim - öğretim yılı sonuna kadar uygulanır.
+mevzuatı 1981 – 1982 eğitim – öğretim yılı sonuna kadar uygulanır.
 
 5384-7
 
@@ -4166,7 +4138,7 @@ unvanları eşdeğer olarak devam eder.
 Kurulu tarafından yeni kadrolar tespit edilinceye kadar Yükseköğretim
 Kurulunun izni olmadıkça mevcut boş kadrolara atama yapılamaz.
 
-**Geçici Madde 8 – (Değişik: 27/5/1988 - 3455/1 md.) **
+**Geçici Madde 8 – (Değişik: 27/5/1988 – 3455/1 md.) **
 
 Bu Kanunun yayımı tarihine kadar, eski mevzuat hükümlerine göre
 doçentlik ve profesörlük unvanını almak üzere başvurmuş ve başvurusu
@@ -4190,7 +4162,7 @@ istedikleri takdirde önceki mevzuatlarına göre yürütülür.
 
  
 
-             **(Değişik: 14/6/1989 - 3576/1 md.)** Bu Kanunun yayımı
+             **(Değişik: 14/6/1989 – 3576/1 md.)** Bu Kanunun yayımı
 tarihinden önce yukarıdaki hükümlere göre profesörlüğe yükseltilmiş
 olanlar ve bu Kanunun yayımı tarihinden itibaren 3l.12. 1989 tarihine
 kadar, kadro şartı aranmaksızın profesörlüğe yükseltilecek olanlar ile
@@ -4234,7 +4206,7 @@ veya öğretim yardımcısı kadrolarına atanabilirler.
 tarihte, yükseköğretim kurumlarında kayıtlı bulunan öğrencilerden, bu
 kanunun 44 ncü maddesinde öngörülen süreleri tamamlamış veya aşmış
 olanların yükseköğretim kurumlarıyla ilişikleri kesilmez. Ancak, bu gibi
-öğrenciler bundan sonraki eğitim - öğretim sürelerinde her eğitim -
+öğrenciler bundan sonraki eğitim – öğretim sürelerinde her eğitim –
 öğretim yılında başarılı olmak mecburiyetindedirler. Aksi halde öğretim
 kurumlarıyla ilişkileri kesilir.
 
@@ -4248,11 +4220,11 @@ uygulanmasına devam olunur.
 doktora veya tıpta uzmanlık yetkisine sahip olup da bu kanun
 kapsamındaki yükseköğretim kurumlarına kadrolu olarak;
 
-             a. Asistan unvanı ile çalışmaların bir yıl zarfında, bu
-kanun hükümlerine uygun olmak kaydı ile yardımcı doçentliğe başvurmaları
-sağlanarak yükseltilmeleri ve atanmaları yapılır ve bulundukları
-kurumları ile ilişkileri kesilir. Bu süre içinde yardımcı doçent
-olamayanların üniversite ile ilişkileri kesilir.
+58. Asistan unvanı ile çalışmaların bir yıl zarfında, bu kanun
+    hükümlerine uygun olmak kaydı ile yardımcı doçentliğe başvurmaları
+    sağlanarak yükseltilmeleri ve atanmaları yapılır ve bulundukları
+    kurumları ile ilişkileri kesilir. Bu süre içinde yardımcı doçent
+    olamayanların üniversite ile ilişkileri kesilir.
 
              b. Asistan dışında başka bir unvan ile öğretim yardımcısı
 olarak çalışanlardan, ya bu unvanlarının gereği görevlerini sürdürmeleri
@@ -4278,15 +4250,15 @@ yapılmasına devam olunur. Yapılacak intibak sonucunda, bu öğretim
 elemanlarının girebilecekleri derece ve kademelerde alacakları aylık
 tutarı ile her türlü tazminat ve yanödemeler toplamı, mevcut statülerine
 göre aldıkları ücretten az olduğu takdirde aradaki fark, kadroya
-bakılmaksızın bu kanunun yürürlüğe girdiği tarihten itibaren 1981 - 1982
-eğitim - öğretim yılı sonunakadar tazminat şeklinde ödenir.
+bakılmaksızın bu kanunun yürürlüğe girdiği tarihten itibaren 1981 – 1982
+eğitim – öğretim yılı sonunakadar tazminat şeklinde ödenir.
 
              **Geçici Madde 18 – **Bu kanunun yürürlüğe girdiği tarihte,
 Orta Doğu Teknik Üniversitesinde yardımcı profesör unvanı ile öğretim
 görevi yapmakta olanlar, bu kanundaki şartları haiz iseler, yardımcı
 doçent sayılırlar.
 
-             **Geçici Madde 19 – (Değişik: 24/9/1882 - 2708/1 md.) **
+             **Geçici Madde 19 – (Değişik: 24/9/1882 – 2708/1 md.) **
 
              6 Kasım 1981 tarihinde Boğaziçi Üniversitesi ile Orta Doğu
 Teknik Üniversitesinde 657 sayılı Devlet Memurları Kanunu hükümlerine
@@ -4311,7 +4283,7 @@ fark, kademe ilerlemesi, derece yükselmesi, katsayı artışı vesair
 ödemelerdeki artış ve ilavelerle giderilinceye kadar tazminat olarak
 ödenmeye devam olunur.
 
-             **(Ek: 17/8/1983 - 2880/34 md.)** 30/9/1982 tarihinde 506
+             **(Ek: 17/8/1983 – 2880/34 md.)** 30/9/1982 tarihinde 506
 sayılı Sosyal Sigortalar Kanununa göre yaşlılık aylığı bağlanmasına hak
 kazanan personelden 30/9/1983 tarihine kadar Sosyal Sigortalar Kurumuna
 başvurarak ayrılanlar hakkında , 30/9/1982 tarihindeki kazanılmış
@@ -4324,7 +4296,7 @@ Sosyal Sigortalar Kanununa tabi olarak geçmiş sayılır.
 haddi 1982 yılı için 70, 1983 yılı için 69, 1984 yılı için 68 yaşını
 doldurdukları tarihtir.
 
-             **Geçici Madde 21 – (Mülga : 27/5/1988 - 3455/3 md.)**
+             **Geçici Madde 21 – (Mülga : 27/5/1988 – 3455/3 md.)**
 
 **             Geçici Madde 22 – **Bu kanunun yürürlüğe girdiği tarihten
 itibaren bir yıl içinde bu kanun kapsamına giren öğretim üyelerinin
@@ -4337,7 +4309,7 @@ ilişikleri kesilir.
 
  
 
-             **Geçici Madde 23 – (Değişik: 24/9/1982 - 2708/2 md.) **
+             **Geçici Madde 23 – (Değişik: 24/9/1982 – 2708/2 md.) **
 
 **            ** T.C. Emekli Sandığı Kanununa göre emeklilik aylığı
 bağlanmış olup da 6 Kasım 1981 tarih itibariyle bu Kanunda belirtilen
@@ -4364,8 +4336,8 @@ konulur. Bu ödeneklerin üniversiteler arasında dağılımında, gelişmekte
 olan veya ihtiyaç içinde bulunan yörelerdeki üniversitelere öncelik
 verilir.
 
-             **Geçici Madde 27 – **"Üniversitelerarası Öğrenci Seçme ve
-Yerleştirme Merkezi" Yükseköğretim Kurulunun kurulmasını müteakip
+             **Geçici Madde 27 – **“Üniversitelerarası Öğrenci Seçme ve
+Yerleştirme Merkezi” Yükseköğretim Kurulunun kurulmasını müteakip
 yönetimi ile taşınır ve taşınmaz malları, her türlü hak ve
 yükümlülükleri, personeli ve kadrosuyla birlikte Yükseköğretim Kuruluna
 devredilir ve bağlanır.
@@ -4373,29 +4345,29 @@ devredilir ve bağlanır.
              **Geçici Madde 28 – **Bu kanunun yürürlüğe girdiği tarihte
 mevcut olan akademi, fakülte, enstitü ve yüksekokulların durumları, bu
 kanuna göre Yükseköğretim Kurulunun kurulmasını müteakip, bu kurulca
-incelenerek, bunların üniversiteye donüştürülmeleri veya üniversitelere
+incelenerek, bunların üniversiteye 59önüştürülmeleri veya üniversitelere
 veya bakanlıklara bağlanmaları, üniversitelerin içerisinde fakülte,
 enstitü veya yüksekokul halinde teşekkül ettirilmeleri veya
 kaldırılmaları hususları tespit edilerek, gerekli yasal düzenlemeler
 yapılmak üzere bu kanunun yürürlüğe girdiği tarihten itibaren altı ay
-içerisinde Milli Eğitim Bakanlığına sunulur. Bu kuruluşların 1982 - 1983
-eğitim-öğretim yılında yeni hüviyetleri ile eğitim - öğretime
+içerisinde Milli Eğitim Bakanlığına sunulur. Bu kuruluşların 1982 – 1983
+eğitim-öğretim yılında yeni hüviyetleri ile eğitim – öğretime
 başlamaları için gerekli önlemler alınır.
 
              **Geçici Madde 29 – (29/2/1984 tarih ve 2984 sayılı Kanunla
 eklenen numarasız Geçici madde olup, teselsül için
 numaralandırılmıştır.)**
 
-             1976 - 1977 eğitim - öğretim yılı başından 1963 - 1964
-eğitim - öğretim yılı sonuna kadar yükseköğretim kurumlarının hazırlık
-sınıfı, önlisans ve lisans, eğitim - öğretim programları ile
+             1976 – 1977 eğitim – öğretim yılı başından 1963 – 1964
+eğitim – öğretim yılı sonuna kadar yükseköğretim kurumlarının hazırlık
+sınıfı, önlisans ve lisans, eğitim – öğretim programları ile
 yüksekokulların (2809 sayılı Kanunla adı ve yapısı değiştirilen
 yükseköğretim kurumlarının öğrencileri dahil) herhangi bir sınıfından
 kaydı silinen veya silinme durumuna gelen veya kendi isteği ile ayrılan
 öğrencilerin bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde
-ilgili üniversiteye başvurmaları halinde, ayrılmış bulundukları eğitim -
+ilgili üniversiteye başvurmaları halinde, ayrılmış bulundukları eğitim –
 öğretim programlarına bıraktıkları yerden devam etmek üzere bu Kanun
-hükümleri çerçevesinde kayıtları yenilenir. Ancak, 1983 - 1984 eğitim -
+hükümleri çerçevesinde kayıtları yenilenir. Ancak, 1983 – 1984 eğitim –
 öğretim yılı sonunda ilişkileri kesilenler ise ilişkileri kesildiği
 tarihten itibaren bir hafta içerisinde kayıtlarını yenileyebilmek için
 müracaat edebilirler.
@@ -4404,8 +4376,8 @@ müracaat edebilirler.
 daha önce başardıkları dersler dikkate alınarak, Yükseköğretim Kurulunun
 belirleyeceği esaslar içerisinde ilgili üniversite tarafından yapılır.
 Bu suretle öğrencinin intibak ettirildiği sınıf ve sömestreden önceki
-eğitim - öğretim süreleri, ayrıldığı sınıf ve sömestredeki normal
-öğrencinin o sınıf veya sömestreye gelinceye kadar geçirdiği eğitim -
+eğitim – öğretim süreleri, ayrıldığı sınıf ve sömestredeki normal
+öğrencinin o sınıf veya sömestreye gelinceye kadar geçirdiği eğitim –
 öğretim süresine eşit kabul edilir. Bundan sonra o sınıf veya sömestrede
 okuyan öğrencilerin tabi oldukları mevzuata uyarak öğrenimlerine devam
 ederler.
@@ -4417,11 +4389,11 @@ ederler.
              Bu Kanun hükümlerine göre ilgili üniversitelere başvuran
 öğrencilerin hangi ders yılında öğrenime başlayacakları, Kanunun
 yürürlüğe girdiği tarihten itibaren 6 ay içinde ilgili üniversitelerce
-öğrencilere bildirilir. Ancak ilişiği 1983 - 1984öğretim yılı içinde
+öğrencilere bildirilir. Ancak ilişiği 1983 – 1984öğretim yılı içinde
 kesilen veya kesilme durumuna gelen öğrencilerin bir hafta içinde
 müracaatları halinde, müracaatlarını müteakip bir hafta içinde durumları
-karara bağlanır ve öğrenimlerine imkan sağlanır. İlişiği 1983 - 1984
-eğitim - öğretim yılı sonunda kesilenler için ise üniversiteler, ilişik
+karara bağlanır ve öğrenimlerine imkan sağlanır. İlişiği 1983 – 1984
+eğitim – öğretim yılı sonunda kesilenler için ise üniversiteler, ilişik
 kesilme tarihinden itibaren iki hafta içinde hangi ders yılında öğrenime
 başlayacaklarına karar verilir.
 
@@ -4439,7 +4411,7 @@ ve bu öğrencilerin hangi ders yılında öğrenime başlayacakları
 edilir.
 
              Yukarıdaki hükümlere göre kayıtları yenilenen öğrenciler,
-izlemiş oldukları eğitim - öğretim programları açık öğretim
+izlemiş oldukları eğitim – öğretim programları açık öğretim
 programlarında mevcut olduğu takdirde, kendi istekleri ile bu
 programlara veya eşdeğer program yürüten üniversiteye naklen
 yazılabilirler. Belirli dallarda öğrencilerin isteği de gözönünde
@@ -4461,7 +4433,7 @@ içerisinde yükseköğretim Kurulu tarafından çıkarılır.
 sınıfında tek dersten başarısız duruma düşmüş öğrenciler devam şartı
 aranmaksızın sınavlara katılabilirler.
 
-             **Geçici Madde 30 – (12/8/1986- KHK - 260/6 md. ile gelen
+             **Geçici Madde 30 – (12/8/1986- KHK – 260/6 md. İle gelen
 Geçici Madde hükmü olup madde numarası teselsül ettirilmiştir.)**
 
              Bu Kanun Hükmünde Kararnamenin yürürlüğe girmesinden önce
@@ -4484,12 +4456,12 @@ rektörlüklerinteklifi üzerine Yükseköğretim Kurulunca yapılır.
 
  
 
-**             Geçici Madde 30 – (Ek: 10/12/1988 - 3511/3 md.) **
+**             Geçici Madde 30 – (Ek: 10/12/1988 – 3511/3 md.) **
 
 **            ** Bu Kanunun yayımı tarihine kadar disiplin suçu dışında
 kalan sebeplerle kurumlarıyla ilişkisi kesilmiş veya kesilme durumuna
 gelmiş olanlara bu Kanunun yayımı tarihinden itibaren üç ay içinde; 1988
-- 1989 eğitim-öğretim yılı sonunda ilişiği kesilecek olanlara
+– 1989 eğitim-öğretim yılı sonunda ilişiği kesilecek olanlara
 ilişkilerinin kesildiği tarihten itibaren üç ay içinde ilgili
 yükseköğretim kurumlarına müracaat etmeleri şartıyla, ilişiklerinin
 kesilmesine sebep olan her ders için açılacak ilk sınav döneminde bir
@@ -4512,7 +4484,7 @@ dersten son sınıfta bekleyenler, bu dersin açılacak yarı yıl sınavlarına
 öğrenim harçlarını ödemek kaydıyla, 1992 yılı sonuna kadar girebilirler.
 Bu öğrenciler, öğrencilik haklarından yararlanamazlar.
 
-             **Geçici Madde 31 – (Ek:10/12/1988 - 3511/3 md.)**
+             **Geçici Madde 31 – (Ek:10/12/1988 – 3511/3 md.)**
 
              Fakültelerde ve/veya ilgili enstitülerdelisans üstü eğitime
 başlamış ancak daha sonra çeşitli sebeplerle yönetmeliklerde öngörülen
@@ -4521,7 +4493,7 @@ sınavı ve tez sınavı gibi) başarı ile tamamlayamayarak kayıtları
 silinenlere bu aşamalarda, bu Kanunun yayımı tarihinden itibaren 3 ay
 içinde başvurmaları halinde bir hak verilir.
 
-             **Geçici Madde 32 – (Ek: 10/12/1988 - 3511/3 md.) **
+             **Geçici Madde 32 – (Ek: 10/12/1988 – 3511/3 md.) **
 
 **            ** Gülhane Askeri Tıp Akademisinde okurken bu Kanunun
 yayımı tarihine kadar disiplin suçu dışında kalan sebeplerle ilişkisi
@@ -4529,37 +4501,37 @@ kesilmiş olanlara da, bu Kanunun yayımı tarihinden itibaren 3 ay içinde
 üniversitelerdeki tıp fakültelerine başvurmaları halinde geçici 30 uncu
 madde hükümleri uygulanır.
 
-             **Geçici Madde 33 – (Ek: 10/12/1988 - 3511/3 md.) **
+             **Geçici Madde 33 – (Ek: 10/12/1988 – 3511/3 md.) **
 
 **            ** Üniversite senatoları 44 üncü maddede öngörülen
 yönetmeliği, bu Kanunun yürürlüğe girmesinden itibaren bir ay içinde
 düzenleyerek yayımlarlar.
 
-             **Geçici Madde 34 – (Ek: 22/8/l989 - KHK - 378/12 md.)**
+             **Geçici Madde 34 – (Ek: 22/8/l989 – KHK – 378/12 md.)**
 
              Lisansüstü eğitim-öğretim maksadıyla halen yurt dışında
 bulunan araştırma görevlileri hakkında da bu Kanun Hükmünde
-Kararname'nin 6 ncı maddesi hükümleri uygulanır.
+Kararname’nin 6 ncı maddesi hükümleri uygulanır.
 
-             **Geçici Madde 34 – (Ek:1/11/1990 - 3676/2 md.) **
+             **Geçici Madde 34 – (Ek:1/11/1990 – 3676/2 md.) **
 
              Bu Kanunun yayımı tarihinde Türkiye Büyük Millet Meclisi
 üyesi bulunan doçentlerin, üyeliklerinin sona ermesini izleyen bir yıl
 içinde, ayrıldıkları yükseköğretim kurumuna başvurmaları halinde geçici
 8 inci maddenin 4 üncü fıkrası hükmünden yararlanma hakları saklıdır.
 
-             **Geçici Madde 35 – (Ek:1/11/1990 - 3676/3 md.) **
+             **Geçici Madde 35 – (Ek:1/11/1990 – 3676/3 md.) **
 
              Bu Kanunun yayımı tarihine kadar profesörlüğe atanmış veya
 yüksetilmiş olanlar, 2547 sayılı Kanunun 36 ncı maddesinin birinci
 fıkrasında bulunan 5 yıl kısmi statüye geçememe hükmüne tabi
 değildirler.
 
-             **Geçici Madde 36 – (Ek: 29/5/1991 - 3747/6 md.)**
+             **Geçici Madde 36 – (Ek: 29/5/1991 – 3747/6 md.)**
 
 **            ** 2547 sayılı Kanunun geçici 8 inci maddesi ile verilen,
 kadro şartı aranmaksızın profesörlüğe yükseltilme hakkından yararlanmak
-üzere 31 Aralık 1989'dan önce müracaat edenlerden bu Kanuna göre
+üzere 31 Aralık 1989’dan önce müracaat edenlerden bu Kanuna göre
 profesörlük için yeniden müracaat ederek talepleri üniversite yönetim
 kurulunca olumlu karşılananlar ilgili birimlerdeki profesörlük kadrosuna
 öncelikle atanırlar.
@@ -4568,7 +4540,7 @@ kurulunca olumlu karşılananlar ilgili birimlerdeki profesörlük kadrosuna
 
  
 
-             **Geçici Madde 37 – (Ek: 29/5/1991 - 3747/6 md.)**
+             **Geçici Madde 37 – (Ek: 29/5/1991 – 3747/6 md.)**
 
 **            ** 1985/1986 eğitim-öğretim yılından bu Kanunun yayımı
 tarihine kadar disiplin suçu dışında kalan sebeplerle kurumlarıyla
@@ -4605,7 +4577,7 @@ dışında kalan sebeplerle ilişkisi kesilmiş olanlara da bu Kanunun yayımı
 tarihinden itibaren iki ay içinde üniversitelerdeki tıp fakültelerine
 başvurmaları halinde bu madde hükümleri uygulanır.
 
-             **Geçici Madde 38 – (Ek:29/5/1991 - 3747/6 md.)**
+             **Geçici Madde 38 – (Ek:29/5/1991 – 3747/6 md.)**
 Fakültelerde veya ilgili enstitülerde lisansüstü eğitime başlamış, ancak
 daha sonra çeşitli sebeplerle yönetmeliklerde öngörülen süreler içinde
 gerekli aşamaları (Lisansüstü ders sınavı, yeterlik sınavı ve tez sınavı
@@ -4613,13 +4585,13 @@ gibi) başarı ile tamamlayamayarak kayıtları silinmiş olanlara bu
 aşamalarda, bu Kanunun yayımı tarihinden itibaren iki ay içinde
 başvurmaları halinde bir hak verilir.
 
-             **Geçici Madde 39 – (Ek:29/5/1991 - 3747/6 md.) **
+             **Geçici Madde 39 – (Ek:29/5/1991 – 3747/6 md.) **
 
              Üniversite harçlarını ödemeyenlerden bu Kanunun yayımı
 tarihinden itibaren üç ay içinde borçlarını ödemeleri halinde gecikme
 zammı ve faizi alınmaz.
 
-             **Geçici Madde 40 – (Ek: 21/5/1992 - 3804/1 md.)**
+             **Geçici Madde 40 – (Ek: 21/5/1992 – 3804/1 md.)**
 
 **            ** Halen eğitim ve öğretim yapan kurumlarda 1980-1981
 eğitim-öğretim yılından bu Kanunun yayımı tarihine kadar her ne sebeple
@@ -4644,7 +4616,7 @@ ederler. Durumları 44 üncü maddedeki sınırlara uymayanların öğrenciliğe
 intibakları ile ilgili esaslar Yükseköğretim Kurulu tarafından tesbit
 edilir.
 
-             **Geçici Madde 41 – (Ek: 17/2/1993 - 3865/2 md.)** Bu
+             **Geçici Madde 41 – (Ek: 17/2/1993 – 3865/2 md.)** Bu
 Kanunun 30 uncu maddesinde öğretim üyeleri için öngörülen emeklilik
 yaşı, 1992 yılında kurulan veya daha sonra kurulacak olan yeni
 üniversiteler veya Yüksek Teknoloji Enstitülerinde görev almaları
@@ -4654,7 +4626,7 @@ yaşı, 1992 yılında kurulan veya daha sonra kurulacak olan yeni
 
  
 
-             **Geçici Madde 42 – (Ek: 6/5/1993 - 3908/2 md.) **
+             **Geçici Madde 42 – (Ek: 6/5/1993 – 3908/2 md.) **
 
 **            ** 1992-1993 eğitim-öğretim yılı dahil olmak üzere öğrenci
 katkı payını ödeyemedikleri için okudukları yükseköğretim kurumları ile
@@ -4678,7 +4650,7 @@ Belirlenen Tıp Fakültesince intibakları yapılır ve bu öğrenciler 2547
 sayılı Kanunun geçici 40 ncı maddesi ve bu Kanun hükümlerinden diğer
 öğrenciler gibi yararlanırlar.
 
-             **Geçici Madde 43 – (Ek: 7/6/1995 - 4111/3 md.)**
+             **Geçici Madde 43 – (Ek: 7/6/1995 – 4111/3 md.)**
 
 **            ** 44 üncü maddede yapılan değişiklikten yararlanmak üzere
 (hazırlık ve ara sınıflar dahil bütün sınıflarda), 1981-1982
@@ -4692,7 +4664,7 @@ ilan edilir ve uygulanır. Bu sınavlarda başarılı olanlar kayıtları
 yeniden açılmak suretiyle 44 üncü maddedeki sınırlar içinde
 öğrenimlerine devam ederler.
 
-             Yüksek lisans (master - doktora) öğrenimini görürken, her
+             Yüksek lisans (master – doktora) öğrenimini görürken, her
 ne sebeple olursa olsun (kendi isteği ile ayrılanlar dahil) 1981 -1982
 eğitim-öğretim yılından başlamak üzere bu Kanunun yayımı tarihine kadar
 ilişiği kesilen veya yönetmeliklerinde öngörülen süreler içerisinde
@@ -4716,7 +4688,7 @@ yararlanırlar.
 tarihinden itibaren üç ay içerisinde ilgili Yükseköğretim Kurumuna
 başvurmaları şarttır.
 
-             **Geçici Madde 44 – (Ek: 14/5/1997 - 4249/3 md.)**
+             **Geçici Madde 44 – (Ek: 14/5/1997 – 4249/3 md.)**
 
              Devamlı statüye atanmış olup kısmi statüye geçmek için vaki
 talepleri redredilmiş bulunan profesör ve doçentler, üniversitede bu
@@ -4728,7 +4700,7 @@ statüye geçme talebinde bulunabilirler.
 
  
 
-             **Geçici Madde 45 – (Ek: 14/8/1997 - 4305/1 md.)**
+             **Geçici Madde 45 – (Ek: 14/8/1997 – 4305/1 md.)**
 
              1994-1995 eğitim-öğretim yılından başlamak üzere Gülhane
 Askeri Tıp Akademisinde okurken bu Kanunun yayımı tarihine kadar her ne
@@ -4753,7 +4725,7 @@ yükseköğretim kurumunca ilan edilir ve uygulanır. Bu sınavlarda başarılı
 olmayanlara başarılı olamadıkları dersler için bir bütünleme hakkı
 verilir. Bütünleme sınavları ilk sınavı izleyen iki ay içinde yapılır.
 
-             **Geçici Madde 46 – (Ek: 22/6/2000 - 4584/2 md.)**
+             **Geçici Madde 46 – (Ek: 22/6/2000 – 4584/2 md.)**
 
              Yükseköğretim kurumlarında; hazırlık ve ara sınıflar dahil
 bütün sınıflarda ön lisans ve lisans düzeyinde öğrenim yapan
@@ -4823,7 +4795,7 @@ sayılı Kanunun geçici 40 ıncı maddesinin ilgili hükümlerinden diğer
 yayımı tarihinden itibaren iki ay içerisinde ilgili yükseköğretim
 kurumuna başvurmaları şarttır.
 
-**             Geçici Maddde 47 – (Ek: 22/6/2000 - 4584/2 md.)**
+**             Geçici Maddde 47 – (Ek: 22/6/2000 – 4584/2 md.)**
 
              1988-1989 öğretim yılından 2000 yılı sonuna kadar,
 lisansüstü öğrenim görürken, her ne sebeple olursa olsun kurumları ile
@@ -4882,7 +4854,7 @@ yürürlük tarihinden itibaren kurumlarına iki ay içerisinde müracaatları
 
  
 
-**             Geçici Madde 48 – (Ek: 22/6/2000 - 4584/2 md.)**
+**             Geçici Madde 48 – (Ek: 22/6/2000 – 4584/2 md.)**
 
              1989-1990 eğitim-öğretim yılı başından, bu Kanunun
 yürürlüğe girdiği tarihe kadar, yükseköğretim kurumlarının hazırlık
@@ -4894,7 +4866,7 @@ cezaları, bütün sonuçları ile kaldırılmıştır. Bunların sicil
 dosyalarındaki cezai kayıtlar, ilgililerin müracaatı aranmaksızın
 dosyalarından çıkarılır.
 
-             **Geçici Madde 49 – (Ek: 21/2/2001 - 4629/5 md.)**
+             **Geçici Madde 49 – (Ek: 21/2/2001 – 4629/5 md.)**
 
 **            ** Yükseköğretim Kurulu Öğrenci Seçme ve Yerleştirme
 Merkezi Fonunun her türlü gelir ve gideri, nakit bakiyesi, demirbaşları,
@@ -4907,7 +4879,7 @@ devredilmiştir. ÖSYM Döner Sermaye İşletmesi için ilk sermaye olarak
 
 **            ** Yükseköğretim kurumlarının hazırlık ve diğer bütün
 sınıflarında ön lisans ve lisans düzeyinde öğrenim yapan öğrencilerden,
-29.6.2000 tarihinden bu Kanunun yürürlüğe girdiği tarihe kadar -kendi
+29.6.2000 tarihinden bu Kanunun yürürlüğe girdiği tarihe kadar –kendi
 isteği ile ilişiği kesilenler dahil- her ne sebeple olursa olsun
 ilişikleri kesilmiş öğrencilere ilişiklerinin kesilmesine neden olan
 bütün dersler için bir öğretim yılı devam ve üç sınav hakkı verilir.
@@ -4992,13 +4964,13 @@ yurt dışına gönderilenler ile 35 inci maddeye göre yurt içinde başka bir
 üniversitelerinde görev yapanlardan bu maddenin yürürlüğe girdiği tarihe
 kadar;
 
-             a) Lisansüstü eğitim-öğretim amacıyla yurt dışında
-kalmaları gereken süre içerisinde öğrenimlerini tamamlayamamaları
-nedeniyle kadroları ile ilişikleri kesilenlerden veya ilişiği kesilmeyip
-devam edenler ile başka bir kamu kurumuna naklen atananlardan,
+58) Lisansüstü eğitim-öğretim amacıyla yurt dışında kalmaları gereken
+    süre içerisinde öğrenimlerini tamamlayamamaları nedeniyle kadroları
+    ile ilişikleri kesilenlerden veya ilişiği kesilmeyip devam edenler
+    ile başka bir kamu kurumuna naklen atananlardan,
 
              b) Eğitimin herhangi bir aşamasında, her ne sebeple olursa
-olsun Türkiye'ye çağrılmış olanlardan,
+olsun Türkiye’ye çağrılmış olanlardan,
 
              c) Lisansüstü eğitim-öğretim amacıyla yurt içindeki başka
 bir üniversitede kalmaları gereken süre içerisinde öğrenimlerini
@@ -5022,7 +4994,7 @@ bulunması üzerine müracaat tarihinden itibaren üç ay içerisinde,
 (öncelikle daha önce kadrolarının bulunduğu kurumlar olmak üzere)
 Kurulun belirleyeceği yükseköğretim kurumlarındaki durumlarına uygun
 öğretim elemanı kadrolarından birine atanabilirler.  Bunlardan durumları
-yukarıdaki (a), (b), (c), (d) ve (e) bentlerine uyanlar için kullanılmak
+yukarıdaki (a), (b), (c), (d) ve © bentlerine uyanlar için kullanılmak
 üzere yılda bir defa yapılmasına ilişkin sınırlamaya tâbi olmaksızın 78
 sayılı Kanun Hükmünde Kararnamenin ek 1 inci maddesi hükmü uyarınca
 Bakanlar Kurulu kararıyla ihtiyaca göre öğretim elemanları kadrolarında
@@ -5100,11 +5072,12 @@ senedi hükümleri dikkate alınmaksızın ve ilgililere ödeme yapma sonucu
 doğurmaksızın, kendilerine döviz olarak yapılmış olan her türlü
 masraflar için;
 
-             a) Bunlardan 657 sayılı Devlet Memurları Kanununun ek 34
-üncü maddesinin yürürlüğe girdiği 5/8/1996 tarihinden sonra yüklenme
-senedi ile muteber imzalı müteselsil kefalet senedi alınanlar hakkında,
-anılan maddenin ikinci fıkrası hükümlerine göre bu Kanunun yayımı
-tarihinden önceki süreler için faiz uygulanmaksızın hesaplama yapılır.
+58) Bunlardan 657 sayılı Devlet Memurları Kanununun ek 34 üncü
+    maddesinin yürürlüğe girdiği 5/8/1996 tarihinden sonra yüklenme
+    senedi ile muteber imzalı müteselsil kefalet senedi alınanlar
+    hakkında, anılan maddenin ikinci fıkrası hükümlerine göre bu Kanunun
+    yayımı tarihinden önceki süreler için faiz uygulanmaksızın hesaplama
+    yapılır.
 
  
 
@@ -5159,28 +5132,30 @@ hesabına aktarılır.
 
 **          Geçici Madde 56- (Ek: 22/10/2008-5806/1 md.)**
 
-           (1) Yükseköğretim kurumlarında hazırlık dâhil bütün
-sınıflarda intibak, ön lisans, lisans tamamlama, lisans, pedagojik
-formasyon, lisansüstü, tıpta uzmanlık ve sanatta yeterlik öğrenimi gören
-öğrencilerden; 7/6/1995 tarihinden bu Kanunun yürürlüğe girdiği tarihe
-kadar, kendi isteğiyle ilişikleri kesilenler dâhil her ne sebeple olursa
-olsun ilişiği kesilenler, bu Kanunun yürürlüğe girdiği tarihten itibaren
-iki aylık başvuru süresi içerisinde ilişiği kesilenler ile 1980
-sonrasında bu içerikte çıkarılan kanunların kapsamına girmekle birlikte
-sağlanan haklardan yararlanmak üzere başvurmayan veya başvurdukları
-halde yararlanamamış olanlar, 2547 sayılı Yükseköğretim Kanununun 35
-inci maddesi uyarınca bir yükseköğretim kurumu adına yurt içinde başka
-bir yükseköğretim kurumunda lisansüstü öğrenim yapanlardan başarısız
-olmaları nedeniyle ilişiği kesilenler, bu Kanunun yürürlüğe girdiği
-tarihten itibaren iki ay içinde ilişiklerinin kesildiği kuruma başvuruda
-bulunmaları şartıyla bu maddede belirtilen haklardan yararlanırlar.
-Başvuruda bulunanlar, ilgili yükseköğretim kurumları tarafından, iki
-aylık başvuru süresinin dolması beklenmeden de bu haklardan
-yararlandırılabilir. Bu Kanunun yürürlüğe girdiği tarihte
-askerlikgörevini yapmakta olanlar terhislerini, gözaltında, tutuklu veya
-hükümlü olup da ceza infaz kurumunda bulunanlar ise bu hallerinin sona
-ermesini takip eden iki ay içinde ilgili yükseköğretim kurumuna
-başvurmaları halinde bu maddede belirtilen haklardan yararlandırılır.
+(58) Yükseköğretim kurumlarında hazırlık dâhil bütün sınıflarda intibak,
+    ön lisans, lisans tamamlama, lisans, pedagojik formasyon,
+    lisansüstü, tıpta uzmanlık ve sanatta yeterlik öğrenimi gören
+    öğrencilerden; 7/6/1995 tarihinden bu Kanunun yürürlüğe girdiği
+    tarihe kadar, kendi isteğiyle ilişikleri kesilenler dâhil her ne
+    sebeple olursa olsun ilişiği kesilenler, bu Kanunun yürürlüğe
+    girdiği tarihten itibaren iki aylık başvuru süresi içerisinde
+    ilişiği kesilenler ile 1980 sonrasında bu içerikte çıkarılan
+    kanunların kapsamına girmekle birlikte sağlanan haklardan
+    yararlanmak üzere başvurmayan veya başvurdukları halde
+    yararlanamamış olanlar, 2547 sayılı Yükseköğretim Kanununun 35 inci
+    maddesi uyarınca bir yükseköğretim kurumu adına yurt içinde başka
+    bir yükseköğretim kurumunda lisansüstü öğrenim yapanlardan başarısız
+    olmaları nedeniyle ilişiği kesilenler, bu Kanunun yürürlüğe girdiği
+    tarihten itibaren iki ay içinde ilişiklerinin kesildiği kuruma
+    başvuruda bulunmaları şartıyla bu maddede belirtilen haklardan
+    yararlanırlar. Başvuruda bulunanlar, ilgili yükseköğretim kurumları
+    tarafından, iki aylık başvuru süresinin dolması beklenmeden de bu
+    haklardan yararlandırılabilir. Bu Kanunun yürürlüğe girdiği tarihte
+    askerlikgörevini yapmakta olanlar terhislerini, gözaltında, tutuklu
+    veya hükümlü olup da ceza infaz kurumunda bulunanlar ise bu
+    hallerinin sona ermesini takip eden iki ay içinde ilgili
+    yükseköğretim kurumuna başvurmaları halinde bu maddede belirtilen
+    haklardan yararlandırılır.
 
 5388-10
 
@@ -5201,9 +5176,9 @@ etmez.
              (3) Birinci fıkra kapsamına girenlerden ön lisans ve lisans
 düzeyinde ilişiği kesilenlere;
 
-             a) Devam şartını yerine getirmedikleri dersler için bir
-eğitim-öğretim yılı, dönemlik dersler için bir dönem devam etme hakkı ve
-dört sınav hakkı,
+58) Devam şartını yerine getirmedikleri dersler için bir eğitim-öğretim
+    yılı, dönemlik dersler için bir dönem devam etme hakkı ve dört sınav
+    hakkı,
 
              b) Devam şartını yerine getirip başarısız olanlara,
 başarısız oldukları dersler için dört sınav hakkı; istemeleri halinde
@@ -5225,9 +5200,9 @@ dersten not yükseltmek için iki sınav hakkı,
              (4) Birinci fıkra kapsamına girenlerden lisansüstü düzeyde
 ilişiği kesilenlere;
 
-             a) Devam şartını yerine getirmedikleri dersler için bir
-eğitim-öğretim yılı, dönemlik dersler için bir dönem devam etme hakkı ve
-üç sınav hakkı,
+58) Devam şartını yerine getirmedikleri dersler için bir eğitim-öğretim
+    yılı, dönemlik dersler için bir dönem devam etme hakkı ve üç sınav
+    hakkı,
 
              b) Devam şartını yerine getirip başarısız olanlara,
 başarısız oldukları dersler için üç sınav hakkı; istemeleri halinde bu
@@ -5263,9 +5238,9 @@ muadil başka dersler belirlenir.
 
              (7) Birinci fıkra kapsamına girenlerden;
 
-             a) Pedagojik formasyon programını tamamlayamayanlar için üç
-sınav hakkı verilir; yapamadıkları uygulamalar için ilgili yükseköğretim
-kurumu tarafından devam imkanı sağlanır,
+58) Pedagojik formasyon programını tamamlayamayanlar için üç sınav hakkı
+    verilir; yapamadıkları uygulamalar için ilgili yükseköğretim kurumu
+    tarafından devam imkanı sağlanır,
 
              b) Açık öğretim sistemi ile öğrenim yapılan ön lisans,
 lisans tamamlama ve lisans programlarından kaydı silinenlere yeniden
@@ -5420,8 +5395,8 @@ izin verilebilir.
 **Geçici Madde 60 –** **(Ek: 11/10/2011-KHK-662/95 md.)**
 
 Bir derse ikiden fazla kayıt yaptırılması, ilave ders alınması veya 44
-üncü maddenin (c) fıkrasındaki süreler içinde öğrenimin tamamlanamaması
-hallerinde, 46 ncı maddenin (ç), (d), (e) ve (f) fıkraları uyarınca her
+üncü maddenin © fıkrasındaki süreler içinde öğrenimin tamamlanamaması
+hallerinde, 46 ncı maddenin (ç), (d), © ve (f) fıkraları uyarınca her
 bir ders için kredi başına ödenecek öğrenci katkı payı veya öğrenim
 ücretinin artırımlı olarak uygulanmasını öngören hükümler, 2014-2015
 eğitim-öğretim yılından itibaren uygulanmaya başlanır. Söz konusu
@@ -5453,9 +5428,7 @@ adayların merkezi sınavlardan almış olduğu puanlara ilave edilecek
 ortaöğretim başarı puanları Yükseköğretim Kurulunca belirlenmiş olan
 usul ve esaslara göre hesaplanır.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
+*(1)Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
 sayılı Kararı ile bu madde iptal edilmiş olup iptal hükmünün, kararın
 Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay
 sonra yürürlüğe girmesi hüküm altına alınmıştır.*
@@ -5479,15 +5452,15 @@ göre, takip eden eğitim-öğretim yılında öğrenimlerine başlayabilirler.
 
              **Madde 67 – **Bu kanunun;
 
-             a. 5 nci madde (ı) fıkrasında yer alan ve beden eğitimi
-veya güzel sanat dallarından biri ile yabancı dilin zorunlu ders olarak
-programlanması ve icra edilmesine dair hükmü 1983 - 1984 eğitim-öğretim
-yılında,
+58. 5 nci madde (ı) fıkrasında yer alan ve beden eğitimi veya güzel
+    sanat dallarından biri ile yabancı dilin zorunlu ders olarak
+    programlanması ve icra edilmesine dair hükmü 1983 – 1984
+    eğitim-öğretim yılında,
 
              b. 30 ncu maddesi 1985 yılında,
 
              c. 46 ncı maddenin öğrencilerden harç alınmasına ilişkin
-hükümleri 1982-1983 eğitim - öğretim yılında,
+hükümleri 1982-1983 eğitim – öğretim yılında,
 
              d. Diğer hükümleri yayımı tarihinde yürürlüğe girer.
 
@@ -5507,8 +5480,7 @@ hükümleri 1982-1983 eğitim - öğretim yılında,
 
  
 
-**             1) 14/4/1982 Tarihli ve 2653 Sayılı Kanunun geçici
-maddeleri. **
+58) **14/4/1982 Tarihli ve 2653 Sayılı Kanunun geçici maddeleri. **
 
              **Geçici Madde 1 – **Bu Kanunun yürürlüğe girdiği tarihten
 önce açılmış kamu davaları ile sonuçlanmış soruşturma işlemleri geçerli
@@ -5533,13 +5505,13 @@ faaliyetleri yürütür.
 
              Bu yönetmelik yürürlüğe girinceye kadar Yükseköğretim
 Kurulunun yukarıda sayılan işleri için 7 Haziran 1980 gün ve 17010
-sayılı Resmi Gazete'de yayınlanan "Üniversitelerarası Giriş Sınavı Kayıt
-ücretleri Fonu Alım - Satım, Kiralama, Harcama ve İhale Yönetmeliği"
-uygulanır. Anılan yönetmelikteki "İta Amiri" ifadesi yerine
-"Yükseköğretim Kurulu Başkanı" Üniversitelerarası Öğrenci Seçme ve
-Yerleştirme Merkezi Yönetim Kurulu" ifadesi yerine "Yükseköğretim
-Kurulu" "fon" ifadesi yerine de "Yükseköğretim Kurulu bütçe ödenekleri
-ve diğer mali olanakları" ifadeleri kullanılır.
+sayılı Resmi Gazete’de yayınlanan “Üniversitelerarası Giriş Sınavı Kayıt
+ücretleri Fonu Alım – Satım, Kiralama, Harcama ve İhale Yönetmeliği”
+uygulanır. Anılan yönetmelikteki “İta Amiri” ifadesi yerine
+“Yükseköğretim Kurulu Başkanı” Üniversitelerarası Öğrenci Seçme ve
+Yerleştirme Merkezi Yönetim Kurulu” ifadesi yerine “Yükseköğretim
+Kurulu” “fon” ifadesi yerine de “Yükseköğretim Kurulu bütçe ödenekleri
+ve diğer mali olanakları” ifadeleri kullanılır.
 
 5390
 
@@ -5551,8 +5523,8 @@ maddeleri. **
 **             Geçici Madde 1 – **Bu Kanunun yayımı tarihinden evvel
 izlemiş olduğu eğitim-öğretim programlarını;
 
-             a) Sınıf geçme sistemi uygulanan yükseköğretim kurumlarında
-son sınıfa geçmiş olanlarla,
+58) Sınıf geçme sistemi uygulanan yükseköğretim kurumlarında son sınıfa
+    geçmiş olanlarla,
 
             b) Ders geçme veya borçlu sınıf geçme sistemi uygulanan
 yükseköğretim kurumlarında toplam derslerin dörtte üçünün sınavlarını
@@ -5560,7 +5532,7 @@ başarmış olanlara,
 
              1977 yılından bu Kanunun yayımlandığı tarihe kadar
 başaramadıkları dersler dolayısıyla yükseköğretim kurumları ile ilişkisi
-kesilen veya kesilme durumuna gelenlere, eğitim - öğretim programlarının
+kesilen veya kesilme durumuna gelenlere, eğitim – öğretim programlarının
 tümünü izleyerek tamamlamış olmak şartıyla, 1985 yılı sonuna kadar
 açılacak sınav dönemlerinde her ders için iki sınav hakkı tanınır.
 Ancak, bunlar, askerlik tecil işlemi hariç öğrencilik haklarından
@@ -5606,26 +5578,26 @@ birlikte nakledilebilirler.
 maddeleri.**
 
              **Geçici Madde 1 – **Bu Kanunun yürürlüğe girmesinden önce,
-mezun olmak üzere takip ettiği eğitim - öğretim programının biri hariç
+mezun olmak üzere takip ettiği eğitim – öğretim programının biri hariç
 diğer derslerini başarılı olarak tamamlayan, ancak başaramadıkları tek
 ders sebebiyle ilişkileri kesilen öğrenciler de kurumlarına üç ay içinde
 müracaatları halinde bu Kanun hükümlerinden yararlandırırlar.
 
              **Geçici Madde 2 – **Bu Kanunun yürürlüğe girmesinden önce
-1984 - 1985 yıllarında kaydı silinen veya silinme durumuna gelmiş olan
+1984 – 1985 yıllarında kaydı silinen veya silinme durumuna gelmiş olan
 ve Geçici 1 inci madde kapsamı dışında bulunan öğrencilerden:
 
 5391
 
  
 
-             A) Birinci sınıf veya birinci ve ikinci yarı yıl
-öğrencileri, takip etmekte oldukları bütün dersleri verip de sadece
-veremedikleri tek dersleri kalmışsa, ilgili oldukları öğretim kurumuna
-üç ay içinde müracaatları halinde bu tek dersin açılacak ilk yarı yıl
-veya yıl sonu sınavına ve bütünlemesine bir defaya mahsus olmak üzere
-girerler. Bu dersin uygulamalı olması halinde öğrenciler sadece
-uygulamalara devam etmek zorundadırlar.
+58) Birinci sınıf veya birinci ve ikinci yarı yıl öğrencileri, takip
+    etmekte oldukları bütün dersleri verip de sadece veremedikleri tek
+    dersleri kalmışsa, ilgili oldukları öğretim kurumuna üç ay içinde
+    müracaatları halinde bu tek dersin açılacak ilk yarı yıl veya yıl
+    sonu sınavına ve bütünlemesine bir defaya mahsus olmak üzere
+    girerler. Bu dersin uygulamalı olması halinde öğrenciler sadece
+    uygulamalara devam etmek zorundadırlar.
 
              B) Birinci sınıf dışında diğer sınıflardan ara sınavları
 dahil her yarı yıl veya tam yıl sınavlarında yalnız üç dersten başarısız
@@ -5634,12 +5606,12 @@ kesilmiş olanlara, başarısız oldukları o üç dersi sadece bir defaya
 mahsus olmak üzere bu Kanun hükümlerine göre üç ay içinde kurumlarına
 müracaatları halinde alma hakkı tanınır.
 
-**             4) 15/9/1987 tarih ve 292 sayılı KHK. nin geçici
+**             4) 15/9/1987 tarih ve 292 sayılı KHK. Nin geçici
 maddesi:**
 
-             **Geçici Madde – (Mülga: 17/2/1993 - 3865/1 md.)**
+             **Geçici Madde – (Mülga: 17/2/1993 – 3865/1 md.)**
 
-**             5) 2/12/1987 tarih ve 301 sayılı KHK. nin geçici
+**             5) 2/12/1987 tarih ve 301 sayılı KHK. Nin geçici
 maddeleri:**
 
 **             Geçici Madde 1 – **Bu Kanun Hükmünde Kararnamenin
@@ -5713,7 +5685,7 @@ Kanunun yürürlüğe girdiği tarihten itibaren geçersiz olurlar.
 **             9) 3/4/1991 tarih ve 3708 sayılı Kanunun Geçici
 Maddeleri: **
 
-**             Geçici Madde 1 ve 2 – (İptal: Ana.Mah.'nin 29/6/1992
+**             Geçici Madde 1 ve 2 – (İptal: Ana.Mah.’nin 29/6/1992
 tarih ve E. 1991/21,K. 1992/42 Sayılı Kararıyla.)**
 
 **             10) 1/7/1992 tarih ve 3826 sayılı Kanunun Geçici
@@ -5738,7 +5710,7 @@ Maddesi: **
 **             Geçici Madde 1 – (İptal: Ana. Mah.’nin 13/9/2000 tarihli
 ve E.: 2000/14, K.: 2000/21 sayılı kararı ile.)**
 
-**             12) 29/6/2001 - 4702 sayılı Kanunun Geçici Maddesi :**
+**             12) 29/6/2001 – 4702 sayılı Kanunun Geçici Maddesi :**
 
 **             Geçici Madde 1 –** Bu Kanunla ilgili yönetmelikler,
 Kanunun yayımı tarihinden itibaren bir yıl içerisinde çıkarılır. Bu
@@ -5783,21 +5755,21 @@ LİSTE
           \_\_\_\_\_\_\_\_\_\_        \_\_\_\_\_\_\_\_ 
  \_\_\_\_\_\_\_\_
 
-657 sayılı Kanunun 125 inci maddesinin (E) ben-
+657 sayılı Kanunun 125 inci maddesinin © ben-
 
-di (d) fıkrasındaki "...kesintisiz 10 gün, veya..."
+di (d) fıkrasındaki “...kesintisiz 10 gün, veya...”
 
 ibaresi,                                                                                    
 29/11/1984         KHK-243         26
 
 657 sayılı Kanunun değişik 209 ve 210 uncu
 
-maddelerinin birinci fıkralarında geçen "...aile
+maddelerinin birinci fıkralarında geçen “...aile
 
-yardımı ödeneğine müstehak."ibareleri,                                 
+yardımı ödeneğine müstehak.”ibareleri,                                 
 29/11/1984         KHK-243         31
 
-241 sayılı KHK'nin 37 nci maddesinin (a) ve
+241 sayılı KHK’nin 37 nci maddesinin (a) ve
 
 (b)
 fıkraları,                                                                            
@@ -5815,9 +5787,9 @@ fıkrası ile 116 ncı
 maddesi                                                      
 29/11/1984         KHK-243         56
 
-2547 sayılı Yükseköğretim Kanunu'nun 23 üncü
+2547 sayılı Yükseköğretim Kanunu’nun 23 üncü
 
-maddesinin (c) fıkrası ile 25 inci maddesinin (b)
+maddesinin © fıkrası ile 25 inci maddesinin (b)
 
 fıkrasının 2 nci
 bendi                                                                
@@ -5829,7 +5801,7 @@ Geçici 21 inci
 maddesi                                                             
 27/5/1988         34553
 
-29/11/1984 tarih ve 243 sayılı KHK'nin Değişik Geçici
+29/11/1984 tarih ve 243 sayılı KHK’nin Değişik Geçici
 
 1 inci maddesi,
 
@@ -5844,7 +5816,7 @@ maddesi                                    �
 2547 sayılı Kanunun Ek 13 üncü maddesi                                 
 3/4/1991         3708                   8
 
-2547 sayılı Kanunun 45 inci maddesinin (c) bendi ile
+2547 sayılı Kanunun 45 inci maddesinin © bendi ile
 
 46 ncı maddesinin 4 üncü
 fıkrası                                               29/5/1991        
@@ -5853,7 +5825,7 @@ fıkrası                                   �
 292 sayılı Kanun Hükmünde Kararname                                 
 17/2/1993         3865                   1
 
-2547 sayılı Kanunun 50 nci maddesinin (c) bendi                     
+2547 sayılı Kanunun 50 nci maddesinin © bendi                     
 1/8/1996         4160                   5
 
 5394
@@ -5998,7 +5970,7 @@ maddesi                                    �
                          d) 4, 5, 11, 23, 24, 25, 26, 29 ve 40 ıncı
 maddeleri        Yayımınıizleyenaybaşında
 
-                         e) 39 uncu maddesi 1990 - 1991 öğrenim
+                         e) 39 uncu maddesi 1990 – 1991 öğrenim
 döneminde
 
                              uygulanmaya başlanmak üzere, bu konuda
@@ -6098,7 +6070,7 @@ Maddesi                                    �
                             Kanunun ek 18 inci maddesinin üçüncü
 fıkrasının
 
-                            (c)bendi 1/1/2002 tarihinde, diğer hükümleri
+                            ©bendi 1/1/2002 tarihinde, diğer hükümleri
 1/1/2001 tarihinde
 
                          c) Diğer
@@ -6190,6 +6162,10 @@ TARİHİNİ GÖSTERİR LİSTE**
   6353                                       Ek Madde 29, Geçici Madde 62 ve 63                            12/7/2012
 
   6354                                       58                                                            12/7/2012
+
+  6456                                       Ek Madde 7                                                    18/4/2013
+
+  6487                                       39                                                            11/6/2013
   ------------------------------------------ ------------------------------------------------------------- -----------------------------------------------------
 
 
