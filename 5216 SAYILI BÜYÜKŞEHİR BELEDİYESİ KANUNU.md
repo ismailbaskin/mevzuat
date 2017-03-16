@@ -1,4 +1,5 @@
-**5216 sayılı Kanunun 6215 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun Anayasa Mahkemesinin 4//2010 tarihli ve E.:2008/28
+K.:2010/30 sayılı Kararı ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU*^(1)^***
 
@@ -467,8 +468,8 @@ belediye meclisi kararları, kesinleştiği tarihten itibaren en geç yedi
 gün içinde mahallin en büyük mülkî idare amirine gönderilir. Mülkî idare
 amirine gönderilmeyen kararlar yürürlüğe girmez.
 
-Mülkî idare amiri hukuka aykırı gördüğü kararlar aleyhine (…) idarî
-yargı mercilerine başvurabilir.*^(2)^*
+**(İptal: Anayasa Mahkemesi’nin 4/2/2010 tarihli ve E.: 2008/28, K.:
+2010/30 sayılı Kararı ile.)**
 
 **(Mülga: 6/3/2008-5747/ 3 md.)**
 
@@ -486,9 +487,9 @@ onaylanmış sayılır.
 
 **İhtisas komisyonları**
 
-**MADDE 15.-** Büyükşehir belediye meclisi, (…)*^(3)^* üyeleri arasından
+**MADDE 15.-** Büyükşehir belediye meclisi, (…)*^(2)^* üyeleri arasından
 seçilecek en az beş, en çok dokuz kişiden oluşan ihtisas komisyonları
-kurabilir. *^(3)^*
+kurabilir.*^(2)^*
 
 İhtisas komisyonları, her siyasî parti grubunun ve bağımsız üyelerin
 büyükşehir belediye meclisindeki üye sayısının meclis üye tam sayısına
@@ -521,12 +522,8 @@ bedeli karşılığında verilir.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
-fıkrada yer alan "on gün içinde” ibaresi madde metninden çıkarılmıştır.*
-
-*(2) 6/3/2008 tarihli ve 5747 sayılı Kanunun 3 üncü maddesi ile bu
-fıkrada yer alan "on gün içinde" ibaresi madde metninden çıkarılmıştır.*
-
-*(3) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
+fıkrada yer alan "on gün içinde” ibaresi madde metninden çıkarılmıştır.
+(2) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
 fıkrada yer alan "her dönem başı toplantısında,"* *ibaresi madde
 metninden çıkarılmıştır.*
 
@@ -1237,6 +1234,12 @@ aktarılır.
   5951                       5/2/2010                                                                 5/2/2010                                                          Geçici Madde 5
 
   6215                       12/4/2011                                                                12/4/2011                                                         26
+
+                             22/6/2011                                                                22/6/2010                 4//2010 tarihli ve                      14
+                                                                                                                                                                        
+                                                                                                                                E.:2008/28 K.:2010/30 sayılı Karar      
+
+                                                                                                                                                                        
   -------------------------- ------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
 
 
