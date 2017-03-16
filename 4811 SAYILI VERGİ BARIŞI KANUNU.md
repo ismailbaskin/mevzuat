@@ -1,4 +1,4 @@
-4811 sayılı Kanunun İlk Hali
+4811 sayılı Kanunun 4833 sayılı Kanun ile Değişik Hali
 
 **VERGİ BARIŞI KANUNU**
 
@@ -126,7 +126,7 @@ kurumların Gelir Vergisi Kanununun 94 üncü maddesinin birinci fıkrasının
 (6) numaralı bendinin (b) alt bendi uyarınca yapacakları gelir vergisi
 tevkifatının ödeme süresinin belirlenmesini müteakip bu vergilerde (1)
 numaralı fıkrada belirlenen taksit sürelerinde, bazı taksitlerin
-süresinin geçmiş olması halinde kalan taksit süresinde ödenir.
+süresinin geçmiş olması halinde kalan taksit süresinde ödenir. *^(1)^*
 
 6\. Bu Kanun kapsamında ödenecek olan motorlu taşıtlar vergisi ve bu
 vergiye gecikme zammı yerine bu Kanunun yürürlüğe girdiği tarihe kadar
@@ -198,6 +198,19 @@ bunlara uygulanan gecikme zamlarının tamamının tahsilinden vazgeçilir.
 Bu hüküm, (1) veya (2) numaralı fıkranın (a) bendinde belirtilen safhada
 olan vergi ziyaı cezalarında, ilk tarhiyata esas olan ceza tutarına göre
 uygulanır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 29/3/2003 tarihli ve 4833 sayılı 2003 Mali Yılı Bütçe Kanununun 51
+inci maddesi ile bu fıkrada geçen, “... Şubat 2003 ayının son günü ...”
+ibaresinin “... Mayıs 2003 ayının son günü...” olarak “... bu vergiler
+de (1) numaralı fıkranın (a) bendi hükmü ile belirlenen sürelerde dokuz
+eşit taksitte...” ibaresinin “... bu vergiler de ilk taksiti Haziran
+2003 ayından başlamak üzere 24 ayda ve 24 eşit taksitte ...” olarak,
+“... müteakip bu vergilerde (1) numaralı fıkrada belirlenen taksit
+sürelerinde ...” ibaresinin “... müteakip bu vergiler de bu fıkrada
+belirlenen taksit sürelerinde ...” olarak uygulanacağı hüküm altına
+alınmıştır.*
 
 5\. Bu Kanunun yürürlüğe girdiği tarih itibarıyla; uzlaşma hükümlerinden
 yararlanılmak üzere başvuruda bulunulmuş, uzlaşma günü verilmemiş veya
@@ -893,3 +906,29 @@ mükelleflere başvuru süresi tespit etmeye yetkilidir.
 **Yürütme**
 
 **MADDE 23. -** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+         **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **4811 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                                    
+                                                                                  **Resmi Gazete Tarihi**                                           
+
+  1.     4833                       31/3/2003                                     31/3/2003                                                         2
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+
+  1.                                                                                                                                                
+  ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+
+
