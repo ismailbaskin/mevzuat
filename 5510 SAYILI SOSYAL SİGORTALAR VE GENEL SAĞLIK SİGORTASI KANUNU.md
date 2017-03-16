@@ -1,4 +1,4 @@
-**5838 sayılı Kanun ile değişik hali**
+**5917 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -3996,34 +3996,47 @@ alınacak olanlar şunlardır:
 
 a\) Ayakta tedavide hekim ve diş hekimi muayenesi.
 
-b\) Ortez, protez, iyileştirme araç ve gereçleri.
+b\) **(Değişik: 25/6/2009-5917/40 md.)** Vücut dışı protez ve ortezler
 
 c\) Ayakta tedavide sağlanan ilaçlar.
 
-**(Değişik ikinci fıkra: 17/4/2008-5754/43 md.)** Katılım payı, birinci
-fıkranın (a) bendindeki sağlık hizmetleri için 2 Yeni Türk Lirası olarak
+d\) **(Ek: 25/6/2009-5917/40 md.)** Kurumca belirlenecek hastalık
+gruplarına göre yatarak tedavide finansmanı sağlanan sağlık hizmetleri.
+
+**(Değişik fıkra: 25/6/2009-5917/40 md.)** Katılım payı, birinci
+fıkranın (a) bendindeki sağlık hizmetleri için 2 Türk Lirası olarak
 uygulanır. Katılım payı, (b) ve (c) bentlerindeki sağlık hizmetleri için
 gereksiz kullanımı azaltma, sağlık hizmetlerinin niteliği itibarıyla
 hayati öneme sahip olup olmaması, kişilerin prime esas kazançlarının,
 gelir ve aylıklarının tutarı ve benzeri ölçütler dikkate alınarak % 10
-ilâ % 20 oranları arasında olmak üzere Kurumca belirlenir. Birinci
-fıkranın (a) bendindeki sağlık hizmetleri için belirlenen katılım payı
-tutarı, 4/1/1961 tarihli ve 213 sayılı Vergi Usûl Kanunu uyarınca
-belirlenen yeniden değerleme oranı kadar her yıl artırılır. Birinci
-fıkranın (a) bendi gereği katılım payını; birinci basamak hizmet
-sunucularında yapılan muayenelerinde almamaya ya da daha düşük
-tutarlarda belirlemeye veya tekrar birinci fıkranın (a) bendi için
-belirlenen tutara getirmeye, ikinci ve üçüncü basamak sağlık hizmet
-sunucularında yapılan muayenelerde ise önceki basamaklardan sevkli
-olarak başvurulup başvurulmadığı dikkate alınmak suretiyle yarısına
-kadar indirmeye veya beş katına kadar artırmaya, gerektiğinde bu
-tutarları kanuni tutarlarına getirmeye veya indirmeye Kurum yetkilidir.
+ilâ % 20 oranları arasında olmak üzere Kurumca belirlenir. Kurum,
+birinci fıkranın (a) bendi gereği belirlediği katılım payını; birinci
+basamak sağlık hizmeti sunucularında yapılan muayenelerde almamaya ya da
+daha düşük tutarlarda belirlemeye veya tekrar birinci fıkranın (a) bendi
+için belirlenen tutara getirmeye, ikinci ve üçüncü basamak sağlık hizmet
+sunucularında yapılan muayenelerde ise müracaat edilen sağlık hizmeti
+sunucusunun yer aldığı basamak, sağlık hizmeti sunucusunun resmi ve özel
+sağlık hizmeti sunucusu niteliğinde olup olmaması, önceki basamaklardan
+sevkli olarak başvurulup başvurulmadığı gibi hususları göz önünde
+bulundurarak on katına kadar artırmaya ve sağlık hizmeti sunucuları için
+farklı belirlemeye yetkilidir. Birinci fıkranın (a) bendindeki sağlık
+hizmetleri için belirlenen katılım payı tutarı, 4/1/1961 tarihli ve 213
+sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranı
+kadar her yıl artırılır. Birinci fıkranın (d) bendinde belirtilen sağlık
+hizmetleri bedelinin yüzde birine kadar katılım payı alınabilir. Yüzde
+birine kadar tespit edilen katılım payını almamaya, yarısına kadar
+indirmeye veya bir katına kadar artırmaya, gerektiğinde bu tutarları
+kanuni tutarlarına getirmeye veya indirmeye Kurum yetkilidir.
 
-**(Mülga üçüncü fıkra: 17/4/2008-5754/43 md.)**
+**(Mülga fıkra: 17/4/2008-5754/43 md.)**
 
-Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin birinci
-fıkranın (b) bendi gereği ödeyecekleri katılım payının tutarı, sağlık
-hizmetinin alındığı tarihteki asgarî ücretin % 75'ini geçemez.
+**(Değişik fıkra: 25/6/2009-5917/40 md.)** Genel sağlık sigortalısı ve
+bakmakla yükümlü olduğu kişilerin birinci fıkranın (b) bendi gereği
+ödeyecekleri katılım payının tutarı, sağlık hizmetinin alındığı
+tarihteki asgarî ücretin % 75’ini, (d) bendi gereği ödeyecekleri katılım
+payının tutarı ise bir takvim yılında asgari ücret tutarını geçmemek
+kaydıyla her bir yatarak tedavi için asgari ücretin dörtte birini
+geçemez.
 
 63 üncü maddenin birinci fıkrasının (e) bendi gereğince sağlanan ve bir
 hastalığın tedavisinin başka tıbbî bir yöntemle mümkün olmaması
@@ -4039,11 +4052,12 @@ payları, talepleri halinde, 29/5/1986 tarihli ve 3294 sayılı Sosyal
 Yardımlaşma ve Dayanışmayı Teşvik Kanunu hükümlerine göre kendilerine
 geri ödenir.
 
-Katılım paylarını, gelir veya aylık alan kişilerin gelir veya
-aylıklarından, çalışanların ücret veya maaşlarından mahsup edilmek
-suretiyle tahsile ve katılım paylarının ödenme usûlünü belirlemeye Kurum
-yetkilidir. Sözleşmeli sağlık hizmeti sunucularına, tahsil ettikleri
-katılım payı düşüldükten sonra kalan tutar ödenir.
+**(Değişik fıkra: 25/6/2009-5917/40 md.)** Katılım paylarını, gelir veya
+aylık alan kişilerin gelir veya aylıklarından, çalışanların ücret veya
+maaşlarından mahsup edilmek suretiyle veya eczaneler ile diğer kurum ve
+kuruluşlar aracılığı ile tahsile ve katılım paylarının ödenme usulünü
+belirlemeye Kurum yetkilidir. Sözleşmeli sağlık hizmeti sunucularına,
+tahsil ettikleri katılım payı düşüldükten sonra kalan tutar ödenir.
 
 **(Değişik sekizinci fıkra: 17/4/2008-5754/43 md.)** Katılım paylarının
 hesaplanmasında 72 nci maddeye göre tespit edilen sağlık hizmeti
@@ -5813,6 +5827,16 @@ kişilere verilmesini kararlaştırmaya yetkilidir. Elektronik ortamda
 hazırlanacak bilgi ve belgeler adli ve idari makamlar nezdinde resmi
 belge olarak geçerlidir.
 
+**(Ek fıkra: 25/6/2009-5917/41 md.)** Kurum, genel sağlık
+sigortalılarının bakmakla yükümlü oldukları kişilerin genel sağlık
+sigortasından yararlanmalarına esas bilgilerinin, sağlayacağı elektronik
+alt yapı üzerinden girilmesini kamu idarelerinden, işverenlerden ve bu
+Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendine tabi
+sigortalılardan isteme yetkisine sahiptir. Bu Kanunun 3 üncü maddesinin
+birinci fıkrasının (10) numaralı bendinde belirtilen şartlara uygun
+olarak veya Kurumca belirlenecek sürede bilgi girişlerini yapmayanlar
+hakkında bu Kanunun 102 nci maddesine göre idari para cezası uygulanır.
+
 Belge veya bilgileri internet, elektronik ve benzeri ortamda göndermekle
 zorunlu tutulan gerçek ve tüzel kişilerin, Kurumun bilgi işlem
 sistemlerinin herhangi bir nedenle hizmet dışı kalması sonucu belge ve
@@ -6038,6 +6062,12 @@ veya Kurumca internet, elektronik veya benzeri ortamda göndermekle
 zorunlu tutulduğu halde anılan ortamda göndermeyenler hakkında, her bir
 sigortalı veya sandık iştirakçisi için asgari ücret tutarında idari para
 cezası uygulanır.
+
+k\) **(Ek: 25/6/2009-5917/42 md.)** 100 üncü maddesinin altıncı fıkrasına
+göre genel sağlık sigortalılarının bakmakla yükümlü oldukları kişilere
+ait bilgi girişlerini süresinde yapmayanlar ile bakmakla yükümlü olunan
+kişi olmayanlara ait bilgi girişi yapanlara asgari ücretin yarısı
+tutarında idari para cezası uygulanır.
 
 Mahkeme kararına, Kurumun denetim ve kontrol ile görevlendirilmiş
 memurlarınca yapılan tespitler veya diğer kamu idarelerinin denetim
@@ -7905,6 +7935,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                      93, 97, 100                                                                28/2/2009
                                                                                                                                                                 
                                                                                      102 ve Ek Madde 1                                                          1/8/2009
+
+  5917                                                                               68, 100, 102                                                               10/7/2009
   ---------------------------------------------------------------------------------- -------------------------------------------------------------------------- ----------------------------------------------------
 
 
