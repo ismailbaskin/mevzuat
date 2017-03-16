@@ -1,4 +1,6 @@
-**6353 sayılı Kanun ile değişik hali **
+10757
+
+** **
 
  
 
@@ -12,7 +14,9 @@ Kabul Tarihi                    : 11/1/2011
 
 Yayımlandığı R.Gazete    : Tarih: 4/2/2011 Sayı : 27836
 
- Yayımlandığı Düstur         : Tertip : 5  Cilt : 50 
+ Yayımlandığı Düstur         : Tertip : 5  Cilt : 50  Sayfa:
+
+ 
 
 1.   
     =
@@ -8247,6 +8251,18 @@ miktarın artmasına veya adi kefaletin müteselsil kefalete dönüşmesine ya
 da kefil yararına olan güvencelerin önemli ölçüde azalmasına sebep
 olmayan değişiklikler için eşin rızası gerekmez.
 
+**(Ek fıkra: 28/3/2013-6455/77 md.)** Ticaret siciline kayıtlı ticari
+işletmenin sahibi veya ticaret şirketinin ortak ya da yöneticisi
+tarafından işletme veya şirketle ilgili olarak verilecek kefaletler,
+mesleki faaliyetleri ile ilgili olarak esnaf ve sanatkârlar siciline
+kayıtlı esnaf veya sanatkârlar tarafından verilecek kefaletler,
+27/12/2006 tarihli ve 5570 sayılı Kamu Sermayeli Bankalar Tarafından
+Yürütülen Faiz Destekli Kredi Kullandırılmasına Dair Kanun kapsamında
+kullanılacak kredilerde verilecek kefaletler ile tarım kredi, tarım
+satış ve esnaf ve sanatkârlar kredi ve kefalet kooperatifleri ile kamu
+kurum ve kuruluşlarınca kooperatif ortaklarına kullandırılacak
+kredilerde verilecek kefaletler için eşin rızası aranmaz.
+
 10857
 
  
@@ -9224,7 +9240,11 @@ yürürlükten kaldırılmıştır.
 
  
 
- 10870
+ 
+
+ 
+
+10870
 
 **6098 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
@@ -9253,8 +9273,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6111                                                                         15                                                            1/7/2012
   6217                                                                         İşlenemeyen Hüküm                                             14/4/2011
   6353                                                                         İşlenemeyen Hüküm                                             12/7/2012
+  6455                                                                         584                                                           11/4/2013
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
- 
 
- 
