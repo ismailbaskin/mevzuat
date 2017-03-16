@@ -1,5 +1,3 @@
-**6287 sayılı Kanun ile değişik hali **
-
 [[]{#k18 .anchor}]{#K18 .anchor}
 
 İLKÖĞRETİM VE EĞİTİM KANUNU ^(1)^
@@ -153,8 +151,8 @@ kazandırmak amacıyle gerçek ve tüzel kişilerle, belediyeler, özel
 idareler ve Devlet tarafından açılabilir.
 
              **Madde 12 –** Mecburi ilköğrenim çağında bulundukları
-halde zihnen, bedenen, ruhan ve sosyal bakımdan özürlü olan çocukların
-özel eğitim ve öğretim görmeleri sağlanır.
+halde zihnen, bedenen, ruhan ve sosyal bakımdan engelli olan çocukların
+özel eğitim ve öğretim görmeleri sağlanır.^(1)^
 
              **Madde 13 –** Okul öncesi kurumlarında mecburi öğrenim
 çağına gelmemiş olan çocuklar eğitilir.
@@ -167,6 +165,11 @@ daha iyi bir iş ve üretim unsuru olarak yetiştirilmeleri amaciyle
 
              Bu kurumlar gerçek ve tüzel kişilerle belediyeler, özel
 idareler ve Devlet tarafından açılabilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
+maddede yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.*
 
 3581
 
@@ -1064,6 +1067,8 @@ bugünkü rayice göre ortalama maliyetini gösterir plan
 
 Toplam 2 388 17 702 20 090 1 828 040 000
 
+3592-2
+
 3593
 
 NOT:
@@ -1132,6 +1137,8 @@ bölgelerinde ihdas edilecek olan bölge okullariyle seyyar okul ve
   5728                                       56, 57, 59                                                   8/2/2008
 
   6287                                       3, 7, 9, 14, Ek Madde 4, Geçici Madde 11                     11/4/2012
+
+  6462                                       12                                                           3/5/2013
   ------------------------------------------ ------------------------------------------------------------ ---------------------------------------------------
 
 
