@@ -1,4 +1,4 @@
-**5411 sayılı Kanunun ilk hali**
+**5472 sayılı Kanun ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -516,10 +516,11 @@ kaldırılması, faaliyet izninin kaldırılması hükmündedir.
 
 **Yurt içinde şube açma**
 
-**MADDE 13 —** Kurulca belirlenecek esaslara ve bu Kanunda yer alan
-kurumsal yönetim hükümleri ile koruyucu hükümlere uyulmuş olması ve
-Kuruma bildirilmesi şartıyla bankalarca yurt içinde şube açılması
-serbesttir.
+**MADDE 13 — (Değişik: 8/3/2006-5472/1 md.)**
+
+Bu Kanunda yer alan kurumsal yönetim hükümleri ile koruyucu hükümler
+dikkate alınarak, Kurulca belirlenecek esaslara uyulması ve Kuruma
+bildirilmesi kaydıyla yurt içinde şube açılması serbesttir.
 
 **Sınır ötesi faaliyetler**
 
@@ -2419,9 +2420,10 @@ Kurum; her türlü faaliyetinde, kuruluş kanununda verilen yetkiler saklı
 kalmak kaydıyla kalkınma plânı, programlar ve hükûmet programında yer
 alan ilke, strateji ve politikalara uyar.
 
-Kurum, bu Kanun ve ilgili diğer mevzuat hükümleri çerçevesinde kendisine
-verilen yetkilerini, düzenleyici işlemler tesis ederek veya özel
-nitelikli kararlar alarak kullanır. Kurum, Kurul kararıyla bu Kanunun
+**(Değişik birinci cümle: 8/3/2006- 5472/1 md.)** Kurum, bu Kanun ve
+ilgili diğer mevzuat hükümleri çerçevesinde kendisine verilen
+yetkilerini, Kurulca tesis edilecek düzenleyici işlemler veya alınacak
+özel nitelikli kararlar ile kullanır. Kurum, Kurul kararıyla bu Kanunun
 uygulanmasına ilişkin yönetmelikler ve tebliğler çıkarmaya yetkilidir.
 
 Kurum, iç düzenlemeleri dışındaki düzenleyici işlemlerini yürürlüğe
@@ -2916,12 +2918,14 @@ içerisinde iflas talebi hakkında karar verilir.
 Yönetim ve denetimi Fona intikal eden banka hakkında iflas kararı
 verilmesi hâlinde Fon, iflas masasına 2004 sayılı İcra ve İflas
 Kanununun 206 ncı maddesinde yer alan üçüncü sıradaki tüm imtiyazlı
-alacaklılardan önce gelmek üzere imtiyazlı alacaklı sıfatıyla iştirak
-eder. Fon, bu Kanunun uygulanması ile sınırlı olmak üzere 2004 sayılı
-İcra ve İflas Kanununun 166 ncı, 218 inci, 219 uncu, 223 üncü, 234 üncü,
-236 ncı, 249 uncu, 251 inci ve 254 üncü maddelerindeki yetki ve görevler
-hariç olmak üzere iflas dairesi, alacaklılar toplantısı ve iflas idaresi
-görev ve yetkilerine sahip olarak bankayı tasfiye eder.
+alacaklılardan önce, ancak Devletin ve sosyal güvenlik kuruluşlarının
+6183 sayılı Kanun kapsamındaki alacaklarından sonra, gelmek üzere
+imtiyazlı alacaklı sıfatıyla iştirak eder. Fon, bu Kanunun uygulanması
+ile sınırlı olmak üzere 2004 sayılı İcra ve İflas Kanununun 166 ncı, 218
+inci, 219 uncu, 223 üncü, 234 üncü, 236 ncı, 249 uncu, 251 inci ve 254
+üncü maddelerindeki yetki ve görevler hariç olmak üzere iflas dairesi,
+alacaklılar toplantısı ve iflas idaresi görev ve yetkilerine sahip
+olarak bankayı tasfiye eder. ^(1)^
 
 İflasına hükmolunan bankanın Fona olan borçları, masanın nakit durumuna
 göre 2004 sayılı İcra ve İflas Kanununun 232 nci maddesinde gösterilen
@@ -2939,6 +2943,13 @@ Bu Kanunun 12 nci maddesi hükümlerine göre faaliyet izni kaldırılan
 yabancı banka şubeleri hakkında da bu madde hükümleri uygulanır. Bu
 şubelerin mevcut ve alacaklarının yurt dışına transferine ilişkin
 esaslar Fon tarafından belirlenir.
+
+––––––––––––––––––––––
+
+*(1) 8/3/2006 tarihli ve 5472 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan "tüm imtiyazlı alacaklılardan önce" ibaresinden sonra
+gelmek üzere ", ancak Devletin ve sosyal güvenlik kuruluşlarının 6183
+sayılı Kanun kapsamındaki alacaklarından sonra" ibaresi eklenmiştir.*
 
 Fon, iflas ve/veya tasfiye masasının aktifindeki paralarla, iflas
 ve/veya tasfiye idaresi sıfatıyla tahsil ettiği paraları muhafaza ve
@@ -3007,8 +3018,9 @@ uygulanan bankanın faaliyet izninin kaldırılması durumunda bu Kanunun
 uygulanmaz. Bu Kanunun 106 ncı maddesine göre iflas masaları kurulması
 hâlinde, Fon ödediği tutar kadar iflas masasına 2004 sayılı İcra ve
 İflas Kanununun 206 ncı maddesinde yer alan üçüncü sırasındaki tüm
-imtiyazlı alacaklılardan önce gelmek üzere imtiyazlı alacaklı sıfatıyla
-iştirak eder.
+imtiyazlı alacaklılardan önce , ancak Devletin ve sosyal güvenlik
+kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra
+gelmek üzere imtiyazlı alacaklı sıfatıyla iştirak eder. ^(1)^
 
 Fon, hisselerinin çoğunluğu veya tamamı kendisine intikal eden bankanın;
 
@@ -3037,6 +3049,14 @@ tahvilini sağlamaya,
 
 c\) Sahip olduğu aktifleri iskonto uygulayarak veya sair suretlerle
 üçüncü kişilere satmaya ve gerekli göreceği her türlü tedbiri almaya,
+
+––––––––––––––––––––––
+
+*(1) 8/3/2006 tarihli ve 5472 sayılı Kanunun 1 inci maddesiyle, bu
+fıkranın son cümlesinde yer alan yer alan "tüm imtiyazlı alacaklılardan
+önce" ibaresinden sonra gelmek üzere ", ancak Devletin ve sosyal
+güvenlik kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından
+sonra" ibaresi eklenmiştir.*
 
 d\) Hisselerini bu Kanunun 7 ve 8 inci maddelerindeki hükümlere istinaden
 Kuruldan izin alınmak kaydıyla ve Fon Kurulu tarafından belirlenecek
@@ -3830,15 +3850,13 @@ beklenmeksizin karar verilir.
 
 **Fonun bütçesi**
 
-**MADDE 129 —** Fon gelirlerinin, giderlerini karşılaması esastır. Fonun
-bütçesi 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda belirlenen
-usûl ve esaslara göre hazırlanır ve kabul edilir.
+**MADDE 129 —** **(Değişik: 8/3/2006-5472/1 md.)**
 
-Fonun bütçe yılı takvim yılıdır.
+Fon giderlerinin, Fon gelirleri ile karşılanması esastır. Fonun bütçe
+yılı, takvim yılıdır.
 
-Fon, bu Kanun ile 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda
-belirtilen usûl ve esaslar çerçevesinde kendisine tahsis edilen
-kaynaklarını görev ve yetkilerinin gerektirdiği ölçüde, serbestçe
+Fon, bu Kanunda belirtilen usûl ve esaslar çerçevesinde kendisine tahsis
+edilen kaynaklarını görev ve yetkilerinin gerektirdiği ölçüde, serbestçe
 kullanır.
 
 Fon mevcudunun kullanılış usûl ve esasları ile bu Kanunla Fona verilen
@@ -3848,9 +3866,7 @@ karşılanır.
 
 Fonun giderleri Fon Kurulu kararıyla yürürlüğe giren, stratejik plânları
 ve performans hedefleri ile kurumsal, işlevsel ve ekonomik sınıflandırma
-sistemine göre hazırlanan yıllık bütçeye göre yapılır. Bütçe, eylül ayı
-sonuna kadar doğrudan Türkiye Büyük Millet Meclisine, birer örneği de
-ilişkili Bakana, Hazine Müsteşarlığına ve Maliye Bakanlığına gönderilir.
+sistemine göre hazırlanan yıllık bütçeye göre yapılır
 
 **Fonun gelirleri**
 
@@ -4143,14 +4159,56 @@ bir işleme gerek kalmaksızın en fazla bir ay içinde tamamlanır.
 Bu hüküm uyarınca yapılacak satışlara ilişkin diğer esas ve usûller Fon
 tarafından çıkarılacak yönetmelikle tespit edilir.
 
-Bu maddede yer alan hükümler çerçevesinde varlıkları ticarî ve iktisadî
-bütünlük kapsamında satılan şirketlerin kamu kurum, kuruluşları ve üst
-kurullara olan ve satış tarihine kadar tahakkuk etmiş borçları satış
-bedelinden garameten tahsil edilir. Garame ile dağıtım sonrasında bakiye
-borç kalması, lisans, ruhsat, imtiyaz sözleşmesi, geçici frekans ve
-kanal kullanımı ve benzeri hakların devri ve yeni alıcısı tarafından
-işletilmesi için gereken ve kamu kurum ve kuruluşları ve üst kurullarca
-yapılması gereken devrin tescil ve nakli işlemine engel teşkil etmez.
+**(Değişik sekizinci fıkra: 8/3/2006-5472/1 md.)** Gerçek ve tüzel
+kişilerin sahip olduğu varlıkların, bu maddede yer alan hükümler
+çerçevesinde ticari ve iktisadi bütünlük kapsamında veya bu Kanunda yer
+alan hükümler çerçevesinde ayrı ayrı cebri icra yoluyla satışlarından
+elde edilen bedelden; satış tarihine kadar tahakkuk etmiş olmak
+şartıyla, sırasıyla Fon Kurulu tarafından karar verilmesi halinde
+şirketlerin teknik bilgi, yazılım, donanım, ekipman, mal ve hizmet
+alımından doğan geçmiş dönem borçları, kişilerin Devlete ve sosyal
+güvenlik kuruluşlarına olan 6183 sayılı Kanun kapsamındaki borçları ile
+GSM imtiyaz sözleşmesinden doğan Hazine payı borçları ödendikten sonra
+kalan kısım, kişilerin diğer kamu kurum ve kuruluşları ile üst kurullara
+olan borçlarına garameten taksim edilerek ödenir. Bu hükme göre yapılan
+dağıtım sonrasında bakiye borç kalması; lisans, ruhsat, imtiyaz
+sözleşmesi, geçici frekans ve kanal kullanımı ve benzeri hakların devri
+ve yeni alıcısı tarafından işletilmesi için gerekli olan ve kamu kurum
+ve kuruluşları ile üst kurullarca yapılması gereken devrin tescil ve
+nakli işlemine engel teşkil etmez.
+
+**(Ek fıkra: 8/3/2006-5472/1 md.)** Bu Kanunla yürürlükten kaldırılan
+4389 sayılı Bankalar Kanununun 15 inci maddesinin (7) numaralı fıkrası
+ile bu madde kapsamında olan şirketler ile sermayesinin % 50'sinden
+fazlasını temsil eden hisselere Fonun, Fon Bankasının veya Fon
+iştiraklerinin sahip olduğu şirketler, yönetim kurulları tarafından
+alacaklılarına ve borçlularına Fonun belirlediği esaslar çerçevesinde
+yapılacak ilânı müteakiben düzenlenen bilançoları esas alınarak Fon
+Kurulu kararı ile İcra ve İflas Kanunu, Türk Ticaret Kanunu hükümlerine
+tabi olmaksızın tasfiye olunur. Tasfiyeye ilişkin Fon Kurulu kararı
+şirketin infisah ettirilmesi anlamında olup, bu şirketler Fonun yazılı
+bildirimi üzerine ilgili sicilden başkaca bir işleme gerek kalmaksızın
+terkin olunur. Tasfiye kararı aleyhine ilgililer tarafından açılacak
+davalar Fonun merkezinin bulunduğu yer idare mahkemelerinde görülür. Fon
+Kurulu tarafından tasfiyesine karar verilen şirketlerin iflas ve ihyası
+istenemez. Yapılan ilân neticesinde kayıt altına alınan alacaklar Fon
+tarafından bu Kanun, 6183 sayılı Kanun ve İcra ve İflas Kanununun 206
+ncı maddesine uygun olarak düzenlenecek sıra cetveli ile tasfiye kararı
+verilen şirketin alacaklılarına dağıtılır. Bu madde hükümlerine uygun
+olarak tasfiye olunan şirketlerin hâkim ortakları ve yöneticileri ile
+üçüncü şahıslar aleyhine açılan şahsi sorumluluk, iflas ve alacak
+davaları kanunî halef; ceza davaları kanunî müdahil sıfatıyla Fon
+tarafından devam ettirilir. Bu davalar sonucunda herhangi bir tahsilat
+yapılması halinde başkaca bir işleme gerek kalmaksızın tahsil edilen
+meblağ düzenlenmiş sıra cetveline uygun olarak dağıtılır. Dağıtım
+sonrasında alacağını tamamen alamamış olan alacaklılara talepleri
+halinde şirketin tasfiye edildiğine ve dağıtılacak tasfiye bakiyesi
+bulunmadığına dair bir belge verilir. Bu belge İcra ve İflas Kanununun
+105 inci maddesi hüküm ve sonuçlarını doğurur. Alacaklılara sıra
+cetveline uygun olarak yapılacak dağıtım sonrası tasfiye bakiyesi
+kalması halinde bu bakiye şirket hissedarlarına hisseleri oranında
+ödenir. Tasfiyenin usûl ve esasları Fon Kurulu tarafından çıkarılacak
+yönetmelikle belirlenir.
 
 Bu Kanunun 71 inci maddesinin birinci fıkrasının (e) bendi hükmü
 uyarınca faaliyet izni kaldırılan veya Fona devredilen bankalar ile
@@ -4195,21 +4253,19 @@ ettikleri gerçek ve/veya tüzel kişilerin; bu fıkrada belirtilen şahıslar
 dışındaki ve/veya bunlar tarafından kurulan şirketlere bankacılık
 mevzuatına ve/veya teamüllerine uyulmadan ve/veya teminatsız ve/veya
 yetersiz teminat ile kredi kullandırılan ve/veya genellikle faaliyet
-yeri olarak aynı
-
-adresi kullanan ve/veya yapılan sözleşmelere cayma hakkı ve/veya borcun
-nakli gibi hükümler koymak suretiyle kullandıkları kredileri ve/veya
-banka kaynaklarını bankanın yönetim ve denetimini doğrudan ve/veya
-dolaylı olarak tek başına ve/veya birlikte elinde bulunduran gerçek ve
-tüzel kişilere ve/veya bunların ve/veya bankanın iştiraklerine ve/veya
-doğrudan veyahut dolaylı bağı bulunan şahıs ve şirketlere yukarıdaki
-fıkralarda sayılan gerçek veya tüzel kişilere aktarılmasını sağlayan
-gerçek veya tüzel kişilerin kullanmış oldukları krediler ve/veya banka
-kaynakları bankanın yönetim ve denetimini doğrudan ve/veya dolaylı
-olarak, tek başına veya birlikte elinde bulunduran ortaklar tarafından
-kullanılmış banka kaynağı sayılır ve bu şahıslar ile edindikleri ve/veya
-üçüncü kişilere edindirdikleri para, her türlü mal, alacak ve haklar
-hakkında bu madde hükümleri uygulanır.
+yeri olarak aynı adresi kullanan ve/veya yapılan sözleşmelere cayma
+hakkı ve/veya borcun nakli gibi hükümler koymak suretiyle kullandıkları
+kredileri ve/veya banka kaynaklarını bankanın yönetim ve denetimini
+doğrudan ve/veya dolaylı olarak tek başına ve/veya birlikte elinde
+bulunduran gerçek ve tüzel kişilere ve/veya bunların ve/veya bankanın
+iştiraklerine ve/veya doğrudan veyahut dolaylı bağı bulunan şahıs ve
+şirketlere yukarıdaki fıkralarda sayılan gerçek veya tüzel kişilere
+aktarılmasını sağlayan gerçek veya tüzel kişilerin kullanmış oldukları
+krediler ve/veya banka kaynakları bankanın yönetim ve denetimini
+doğrudan ve/veya dolaylı olarak, tek başına veya birlikte elinde
+bulunduran ortaklar tarafından kullanılmış banka kaynağı sayılır ve bu
+şahıslar ile edindikleri ve/veya üçüncü kişilere edindirdikleri para,
+her türlü mal, alacak ve haklar hakkında bu madde hükümleri uygulanır.
 
 Bu Kanunun 71 inci maddesinin birinci fıkrasının (e) bendi hükmü
 uyarınca faaliyet izni kaldırılan veya Fona devredilen bankanın hâkim
@@ -4287,7 +4343,6 @@ ve lisans hakları, kamu imtiyaz sözleşmelerinden doğan televizyon
 kanalı, elektrik santralı gibi bir tesisin kurulması ve işletilmesi
 yetkilerini veren lisans, ruhsat ve işletme hakları ile bu tesisleri
 lisans hakkına dayanarak veya lisans hakkı bulunmadan kuran ve işleten
-
 şirketlere ait hisse senetleri, hak ve alacakların üzerindeki tasarruf
 yetkisinin tamamen veya kısmen kaldırılmasına, belirtilen tüm mal,
 kıymetli evrak, nakit ve diğer değerlerin zaptına ve/veya resmî
@@ -4362,7 +4417,7 @@ veya yapılacak olmasına sebebiyet veren kişiler ile bunların eş ve
 çocuklarına ait her türlü mal, hak ve alacaklar hakkında da bu madde
 hükümleri uygulanır.
 
-**Fon alacaklarının yasal teminatı**
+**Fon alacaklarının yasal teminatı ^(1)^**
 
 **MADDE 136 —** Fon alacaklarının tahsilini teminen, Fon tarafından bu
 Kanun hükümleri çerçevesinde açılan ve/veya takip edilen dava ve
@@ -4371,8 +4426,9 @@ ihtiyatî haciz veya tedbir konulan para, her türlü mal, hak ve
 alacaklar, bu davalara konu alacakların yasal teminatını oluşturur ve
 karar kesinleşinceye veya takip sonuçlanıncaya kadar devam eder.
 Mahkemece karara bağlanan alacaklar, tedbir konulan para, mal, her türlü
-hak ve alacakların bedelinden, imtiyazlı alacak olarak öncelikle tahsil
-olunur.
+hak ve alacakların bedelinden, Devletin ve sosyal güvenlik
+kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra
+gelmek üzere, imtiyazlı alacak olarak öncelikle tahsil olunur.
 
 **İspat külfeti**
 
@@ -4439,6 +4495,14 @@ vergi, resim, harç, fonlar ve 2548 sayılı Ceza Evleriyle Mahkeme
 Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara
 Ödettirilecek Yiyecek Bedelleri Hakkında Kanunun 1 inci maddesi
 hükmünden istisnadır.
+
+––––––––––––––––
+
+*(1) 8/3/2006 tarihli ve 5472 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin son cümlesinde yer alan "her türlü hak ve alacakların
+bedelinden," ibaresinden sonra gelmek üzere "Devletin ve sosyal güvenlik
+kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra
+gelmek üzere," ibaresi eklenmiştir.*
 
 Borçlu tarafından ödenmesi gereken tahsil harcı dahil her türlü vergi,
 resim, harç ve masraflar bu alacaktan mahsup edilemez. Bu işlemlerden
@@ -5533,6 +5597,36 @@ Söz konusu sandıklar ve sandık iştirakçilerini istihdam eden kuruluşlar
 ile kurum bu madde uygulamasına ilişkin tüm işlemler nedeniyle doğacak
 her türlü vergi, resim ve harçtan muaftır.
 
+**GEÇİCİ MADDE 24 –** **(Ek: 8/3/2006-5472/2 md.)**
+
+Banka tarafından yetkili mercilere beyan edilen sigortaya tabi mevduat
+tutarı ile Fon tarafından tespit edilen mevduat tutarı arasında bir fark
+bulunması nedeniyle bu maddenin yayımı tarihinden önce haklarında Fon
+tarafından takibat başlatılmış kişilerin ve bankaların (iflas kararı
+verilmiş olanlar dahil), Fona olan borçlarından dolayı bu Kanun
+hükümlerine göre cebri icra yoluyla varlıklarının satışından elde edilen
+bedelin, bu Kanunun 134 üncü maddesinin sekizinci fıkrası uyarınca
+yapılan garameten dağıtımı sonrasında Fon payına düşen kısmı, yukarıdaki
+nedene dayanılarak Fon tarafından haklarında takibat başlatılmış
+kişilerin ve bankanın Devlete ve sosyal güvenlik kuruluşlarına olan 6183
+sayılı Kanun kapsamındaki borçlarına ödenmek üzere bir hesapta toplanır.
+Bankanın ve bu madde kapsamındaki kişilerin, Devlete ve sosyal güvenlik
+kuruluşlarına olan 6183 sayılı Kanun kapsamındaki borçlarının
+ödenmesinden sonra kalan tutar, Fon alacağına mahsup edilir. Bu madde
+hükmü, maddenin yürürlüğe girdiği tarihten önce yapılan satışlar için de
+uygulanır.
+
+**GEÇİCİ MADDE 25 –** **(Ek: 8/3/2006-5472/2 md.)**
+
+Bu maddenin yürürlüğe girdiği tarihten önce Fon tarafından satış ilânı
+verilmiş, satışı gerçekleşmiş ancak ihale bedelinin alacaklılara
+dağıtımı sonuçlanmamış satışlar ile 31/12/2006 tarihine kadar ilân
+edilecek satışlar kapsamında yapılacak teslimlerde, 3065 sayılı Katma
+Değer Vergisi Kanununun 17 nci maddesinin (4) numaralı fıkrasının (m)
+bendi uyarınca istisna uygulanacak kısmın hesaplanmasında, 5411 sayılı
+Kanunun bu maddenin yürürlüğe girdiği tarihten önceki hükümlerine göre
+Fona intikal etmesi gereken tutar esas alınır.
+
 **Yürürlük**
 
 **MADDE 170 —** Bu Kanunun; 90 ve 91 inci maddeleri bu Kanunun yayımı
@@ -5877,3 +5971,17 @@ KURUMU: TASARRUF MEVDUATI SİGORTA FONU
 Destek Personeli 35
 
 **TOPLAM 155**
+
+**5411 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5411 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5472                                                                         13, 106, 107, 129, 136, Geçici Madde 24 ve 25                 14/3/2006
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+
+
