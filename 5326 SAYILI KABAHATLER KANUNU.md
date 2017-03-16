@@ -1,4 +1,4 @@
-**6009 sayılı Kanun ile değişik hali**
+**6111 sayılı Kanun ile değişik hali**
 
 **KABAHATLER** **KANUNU**
 
@@ -322,6 +322,18 @@ c\) Ellibin Türk Lirasından az idarî para cezasını gerektiren
 kabahatlerde üç,
 
 yıldır.
+
+**(Ek cümle: 13/2/2011-6111/22 md.)** Ancak 1111 sayılı Askerlik Kanunu,
+2839 sayılı Milletvekili Seçimi Kanunu, 2918 sayılı Karayolları Trafik
+Kanunu, 2972 sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve
+İhtiyar Heyetleri Seçimi Hakkında Kanun, 3376 sayılı Anayasa
+Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun, 4925 sayılı
+Karayolu Taşıma Kanunu, 5490 sayılı Nüfus Hizmetleri Kanunu ve 6001
+sayılı Karayolları Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında
+Kanunda belirtilen ve idari para cezasını gerektiren fiilin işlendiği
+tarihi takip eden takvim yılının son günü bitimine kadar idari para
+cezası verilerek tebliğ edilmediği takdirde idari yaptırım kararı
+verilemez, verilmiş olanlar düşer.
 
 \(3) Nispî idarî para cezasını gerektiren kabahatlerde zamanaşımı süresi
 sekiz yıldır.
@@ -878,6 +890,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5560                                                                         3, 17, 20, 27, 28, GEÇİCİ MADDE 1                             19/12/2006
   5918                                                                         43/A                                                          9/7/2009
   6009                                                                         21                                                            1/8/2010
+  6111                                                                         20                                                            25/2/2011
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
