@@ -1,61 +1,48 @@
-**6519 sayılı Kanun ile değişik hali**
+3759
 
- 
+[]{#K41 .anchor}**ASKERİ MAHKEMELER KURULUŞU VE**
 
-[]{#K41 .anchor}ASKERİ MAHKEMELER KURULUŞU VE
+**YARGILAMA USULÜ KANUNU^(1)^**
 
-YARGILAMA USULÜ KANUNU^(1)^
+**Kanun Numarası : 353**
 
-** **
+**Kabul Tarihi : 25/10/1963**
 
-          Kanun Numarası  : 353
+**Yayımlandığı R. Gazete :Tarih :26/10/1963 Sayı: 11541 (Mükerrer)**
 
-          Kabul Tarihi  : 25/10/1963
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 2 Sayfa : 2123**
 
-          Yayımlandığı R. Gazete  :Tarih :26/10/1963  Sayı: 11541
-(Mükerrer)
+BİRİNCİ KISIM
 
-          Yayımlandığı Düstur : Tertip : 5   Cilt : 2   Sayfa : 2123
+*Genel Esaslar*
 
-** **
+BİRİNCİ BÖLÜM
 
-** **
+*Kuruluş:*
 
-                                                                 BİRİNCİ
-KISIM
+**Madde 1 – (Değişik birinci fıkra: 25/7/2016-KHK-668/4 md.; Aynen
+kabul: 8/11/2016-6755/4 md.)** Türk Milleti adına yargı yetkisini
+kullanacak askeri mahkemeler, askeri birliklerin teşkilat yapıları ve
+bulundukları yerlerin coğrafi durumu ile mahkemelerin iş yoğunluğu
+gözönünde tutulmak suretiyle, Kuvvet Komutanlıklarının görüşü alınarak
+Milli Savunma Bakanlığınca kurulur ve aynı yolla kaldırılır.
 
-                                                                   Genel
-Esaslar
+**(Mülga ikinci fıkra:** **25/7/2016-KHK-668/4 md.;Aynen kabul:
+8/11/2016-6755/4 md.)**
 
-                                                               BİRİNCİ
-BÖLÜM
+Bir garnizonda aynı Kuvvetten nezdinde askeri mahkeme kurulması gereken
+birden fazla kıta komutanlığı bulunursa Genelkurmay Başkanlığının uygun
+göreceği bir kıta komutanlığı nezdinde Milli Savunma Bakanlığınca yeteri
+kadar askeri mahkeme kurulması ile yetinilebilir.
 
-             *Kuruluş:*
+Askeri Ceza Kanununun 55, 56, 57, 58 ve 59 uncu maddeleri ile 148 inci
+maddesinin (B) fıkrasında yazılı suçları işliyenlerin yargılanmaları
+Milli Savunma Bakanlığının önceden tesbit ve Resmi Gazete ile
+yayınlayacağı askeri mahkemelerde yapılır.
 
-             **Madde 1 – (Değişik birinci fıkra: 21/1/1981 - 2376/1
-md.)** Türk Milleti adına yargı yetkisini kullanacak askeri mahkemeler;
-kolordu, ordu, (deniz ve havada eşidi) ve kuvvet komutanlıkları ile
-Genelkurmay Başkanlığı nezdinde Milli Savunma Bakanlığınca kurulur.
+*Mahkeme kuruluşu:*
 
-             Kuvvet Komutanlıklarının yapacakları teklif veya
-Genelkurmay Başkanlığının, doğrudan doğruya göstereceği lüzum üzerine,
-diğer kıta komutanlıkları veya askeri kurum amirlikleri nezdinde de
-Milli Savunma Bakanlığınca askeri mahkeme kurulabilir ve aynı yolla
-kaldırılabilir.
-
-             Bir garnizonda aynı Kuvvetten nezdinde askeri mahkeme
-kurulması gereken birden fazla kıta komutanlığı bulunursa Genelkurmay
-Başkanlığının uygun göreceği bir kıta komutanlığı nezdinde Milli Savunma
-Bakanlığınca yeteri kadar askeri mahkeme kurulması ile yetinilebilir.
-
-             Askeri Ceza Kanununun 55, 56, 57, 58 ve 59 uncu maddeleri
-ile 148 inci maddesinin (B) fıkrasında yazılı suçları işliyenlerin
-yargılanmaları Milli Savunma Bakanlığının önceden tesbit ve Resmi Gazete
-ile yayınlayacağı askeri mahkemelerde yapılır.
-
-             Mahkeme kuruluşu:
-
-             **Madde 2 – (Değişik: 19/6/2010-6000/1 md.)**
+**Madde 2 – (Değişik: 19/6/2010-6000/1 md.)**
 
 Askerî mahkemeler, bu Kanunda aksi yazılı olmadıkça üç askeri hakimden
 kurulur.
@@ -63,21 +50,15 @@ kurulur.
 Askerî mahkeme kurulunda bulunanların en kıdemlisi, mahkeme başkanlığı
 görevini yapar.
 
-             *Subay üyelerin nitelikleri:*
+*Subay üyelerin nitelikleri:*
 
-**             Madde 3 – (Mülga: 19/6/2010-6000/7 md.)**
-
- 
-
- 
-
- 
+**Madde 3 – (Mülga: 19/6/2010-6000/7 md.)**
 
 ——————————
 
-(1)  Bu Kanunda geçen "ilk tahkikat" ibaresi 4/6/1985 tarih ve 3206
+*(1) Bu Kanunda geçen "ilk tahkikat" ibaresi 4/6/1985 tarih ve 3206
 sayılı Kanunun 83 üncü maddesi ile "hazırlık tahkikatı" olarak
-değiştirilmiştir.
+değiştirilmiştir.*
 
 3760
 
@@ -290,8 +271,9 @@ soruşturma izni verilmesine veya verilmemesine karar verir. Soruşturma
 izni verilmiş bulunanlar izin vermeye yetkili merci tarafından
 soruşturmanın emniyeti ve sıhhatli olarak devam etmesi amacıyla geçici
 süre ile görevden uzaklaştırılabilir. Anılan kararlara karşı ilgililer
-on gün içinde Cumhurbaşkanlığına itiraz edebilirler. İtiraz üzerine
-Cumhurbaşkanı tarafından verilen karar kesindir.
+on gün içinde Cumhurbaşkanlığına itiraz edebilirler. **(İptal son cümle:
+Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E.: 2014/89, K.: 2015/3
+sayılı Kararı ile.) (…)**
 
 3762-1
 
@@ -319,7 +301,8 @@ hâkim kararı alınması gereken hususlarda yetkili mahkemelere başvurur.
 Kurul, yaptığı soruşturma sonucunu bir rapor ile tespit ederek izin
 vermeye yetkili mercie sunar. İzin vermeye yetkili merci kamu davasının
 açılmasına gerek görmezse kovuşturma yapılmasına yer olmadığına karar
-verir. Bu karar kesindir.
+verir. **(İptal son cümle: Anayasa Mahkemesi’nin 14/1/2015 tarihli ve
+E.: 2014/89, K.: 2015/3 sayılı Kararı ile.) (…)**
 
 İzin vermeye yetkili merci kamu davasının açılmasına gerek görürse,
 soruşturma dosyasını Yüce Divan sıfatıyla yargılama yapmak üzere Anayasa
@@ -1160,88 +1143,81 @@ ermesi:
 
 3772
 
- 
+*Yakalama:*
 
-             Yakalama:
+**Madde 79 – (Değişik: 29/6/2006-5530/23 md.)**
 
-             **Madde 79 – (Değişik: 29/6/2006-5530/23 md.)**
+Aşağıda belirtilen hallerde, asker kişi herkes tarafından geçici olarak
+yakalanabilir:
 
-**            ** Aşağıda belirtilen hallerde, asker kişi herkes
-tarafından geçici olarak yakalanabilir:
+a\) Kişiye suçu işlerken rastlanması.
 
-             a) Kişiye suçu işlerken rastlanması.
+b\) Suçüstü bir fiilden dolayı; izlenen kişinin kaçması olasılığının
+bulunması veya hemen kimliğini belirleme olanağının bulunmaması.
 
-             b) Suçüstü bir fiilden dolayı; izlenen kişinin kaçması
-olasılığının bulunması veya hemen kimliğini belirleme olanağının
-bulunmaması.
+Tutuklama kararı veya yakalama emri düzenlenmesini gerektiren ve
+gecikmesinde sakınca bulunan hallerde; askerî savcıya derhal başvurma
+olanağı bulunmadığı takdirde, amiri, üstü, askerî karakol, nöbetçi,
+devriye, askerî inzibat ve kolluk görevlisi asker kişiyi yakalama
+yetkisine sahiptir.
 
-             Tutuklama kararı veya yakalama emri düzenlenmesini
-gerektiren ve gecikmesinde sakınca bulunan hallerde; askerî savcıya
-derhal başvurma olanağı bulunmadığı takdirde, amiri, üstü, askerî
-karakol, nöbetçi, devriye, askerî inzibat ve kolluk görevlisi asker
-kişiyi yakalama yetkisine sahiptir.
+Birinci fıkra hükmü, resmî elbiseli subay, astsubay ve askerî öğrenciler
+hakkında ancak ağır ceza mahkemesinin görevine giren suçlarda
+uygulanabilir.
 
-             Birinci fıkra hükmü, resmî elbiseli subay, astsubay ve
-askerî öğrenciler hakkında ancak ağır ceza mahkemesinin görevine giren
-suçlarda uygulanabilir.
+*Yakalanan kimsenin sorguya çekilmesi ve gözaltı:^(1)^*
 
-             *Yakalanan kimsenin sorguya çekilmesi ve gözaltı:^(1)^*
+**Madde 80–** **(Değişik: 29/6/2006-5530/24 md.)**
 
-**             Madde 80–** **(Değişik: 29/6/2006-5530/24 md.)**
+Yakalanan kişi serbest bırakılmaz ise hemen en yakın askerî inzibat
+karakoluna veya askerî makama teslim olunur veya yetkili askerî inzibat
+gelinceye kadar olay yerinde tutulur. **(Ek cümle: 24/11/2016-6763/8
+md.)** Suçun Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü,
+Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan suçlar ile 12/4/1991
+tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan
+olması durumunda, yakalanan kişi Cumhuriyet savcısının talimatı ile adli
+kolluk görevlilerine teslim edilir.
 
-**            ** Yakalanan kişi serbest bırakılmaz ise hemen en yakın
-askerî inzibat karakoluna veya askerî makama teslim olunur veya yetkili
-askerî inzibat gelinceye kadar olay yerinde tutulur.
+Yakalanan kişi ve olay hakkında askerî savcı ve Cumhuriyet savcısına
+hemen bilgi verilerek emri doğrultusunda işlem yapılır. Kişinin
+yakalandığı bir yakınına veya belirlediği bir kişiye gecikmeksizin haber
+verilir.
 
-             Yakalanan kişi ve olay hakkında askerî savcı ve Cumhuriyet
-savcısına hemen bilgi verilerek emri doğrultusunda işlem yapılır.
-Kişinin yakalandığı bir yakınına veya belirlediği bir kişiye
-gecikmeksizin haber verilir.
+Yakalanan kişi askerî savcı veya Cumhuriyet savcısı tarafından
+bırakılmazsa soruşturmanın tamamlanması için gözaltına alınmasına karar
+verilir.
 
-             Yakalanan kişi askerî savcı veya Cumhuriyet savcısı
-tarafından bırakılmazsa soruşturmanın tamamlanması için gözaltına
-alınmasına karar verilir.
+Gözaltı süresi, yakalama yerine en yakın askerî mahkeme veya sulh
+hâkimine gönderilmesi için zorunlu süre hariç yakalama anından itibaren
+yirmidört saati geçemez. Yakalama yerine en yakın askerî mahkeme veya
+sulh hâkimine gönderilme için zorunlu süre oniki saatten fazla olamaz.
 
-             Gözaltı süresi, yakalama yerine en yakın askerî mahkeme
-veya sulh hâkimine gönderilmesi için zorunlu süre hariç yakalama anından
-itibaren yirmidört saati geçemez. Yakalama yerine en yakın askerî
-mahkeme veya sulh hâkimine gönderilme için zorunlu süre oniki saatten
-fazla olamaz.
-
-             Toplu olarak işlenen suçlarda, suçun niteliği, delillerin
+Toplu olarak işlenen suçlarda, suçun niteliği, delillerin
 toplanmasındaki güçlük veya şüpheli sayısının çokluğu nedeniyle; askerî
 savcı veya Cumhuriyet savcısı gözaltı süresinin, her defasında bir günü
 geçmemek üzere, üç gün süreyle uzatılmasına yazılı olarak emir
 verebilir. Gözaltı süresinin uzatılması emri gözaltına alınana derhâl
 tebliğ edilir.
 
-             Yakalama işlemine, gözaltına alma ve gözaltı süresinin
-uzatılmasına ilişkin askerî savcı veya Cumhuriyet savcısının yazılı
-emrine karşı, yakalanan kişi, müdafi veya kanunî temsilcisi, eşi ya da
-birinci veya ikinci derecede kan hısımı, hemen serbest bırakılmayı
-sağlamak için askerî mahkemeye veya sulh ceza hâkimine başvurabilir.
-Askerî mahkeme veya sulh ceza hâkimi incelemeyi evrak üzerinde yaparak
-derhâl ve nihayet yirmidört saat dolmadan başvuruyu sonuçlandırır.
-Yakalamanın veya gözaltına alma veya gözaltı süresini uzatmanın yerinde
-olduğu kanısına varılırsa başvuru reddedilir. 
+Yakalama işlemine, gözaltına alma ve gözaltı süresinin uzatılmasına
+ilişkin askerî savcı veya Cumhuriyet savcısının yazılı emrine karşı,
+yakalanan kişi, müdafi veya kanunî temsilcisi, eşi ya da birinci veya
+ikinci derecede kan hısımı, hemen serbest bırakılmayı sağlamak için
+askerî mahkemeye veya sulh ceza hâkimine başvurabilir. Askerî mahkeme
+veya sulh ceza hâkimi incelemeyi evrak üzerinde yaparak derhâl ve
+nihayet yirmidört saat dolmadan başvuruyu sonuçlandırır. Yakalamanın
+veya gözaltına alma veya gözaltı süresini uzatmanın yerinde olduğu
+kanısına varılırsa başvuru reddedilir. 
 
-             Dördüncü ve beşinci fıkralarda yazılı süreler içinde
-şüpheli, sorguya çekilmek üzere  askerî mahkeme önüne çıkarılır; askerî
-mahkeme önüne çıkarılma imkânı olmaması halinde, en yakın sulh hâkimine
-gönderilir. Bu süreler geçtikten sonra mahkeme veya hâkim kararı
-olmaksızın hürriyetinden yoksun kılınamaz.
+Dördüncü ve beşinci fıkralarda yazılı süreler içinde şüpheli, sorguya
+çekilmek üzere  askerî mahkeme önüne çıkarılır; askerî mahkeme önüne
+çıkarılma imkânı olmaması halinde, en yakın sulh hâkimine gönderilir. Bu
+süreler geçtikten sonra mahkeme veya hâkim kararı olmaksızın
+hürriyetinden yoksun kılınamaz.
 
-             Askerî mahkeme veya sulh hâkimi, yakalanma veya gözaltına
-almayı gerektiren bir hal görmez veya bu sebepler ortadan kalkmış
-bulunursa gözaltına alınan kişinin serbest bırakılmasını emreder.
-
- 
-
- 
-
- 
-
- 
+Askerî mahkeme veya sulh hâkimi, yakalanma veya gözaltına almayı
+gerektiren bir hal görmez veya bu sebepler ortadan kalkmış bulunursa
+gözaltına alınan kişinin serbest bırakılmasını emreder.
 
 ——————————
 
@@ -3181,7 +3157,13 @@ md.)**
 Bu Kanunda aksine hüküm bulunmayan hâllerde Ceza Muhakemesi Kanununun
 (…)^(1)^, değerlendirme raporu yetkisine ilişkin 166 ve istinafa ilişkin
 272 ilâ 285 inci maddeleri hükümleri hariç olmak üzere diğer hükümleri
-askerî yargıda da uygulanır. ^(1)^
+askerî yargıda da uygulanır. **(Ek cümleler: 3/11/2016-6754/20 md.)**
+Bilirkişiler, bilirkişilik bölge kurulları tarafından hazırlanan
+listelerden seçilir ve bunlar hakkında Bilirkişilik Kanunu ve Ceza
+Muhakemesi Kanununun ilgili hükümleri uygulanır. Ancak yurt dışında
+kurulan askerî mahkemeler ve savcılıklar tarafından yapılan bilirkişi
+seçim ve görevlendirmelerinde, Bilirkişilik Kanununun 10 uncu maddesi
+ile listeye ilişkin hükümleri uygulanmaz. ^(1)^
 
 Bu Kanunun uygulanmasında, atıf yapılan hükümlerde yer alan, Adalet
 Bakanı, Millî Savunma Bakanını; Yargıtay, Askerî Yargıtayı; mahkeme,
@@ -3198,6 +3180,32 @@ Bu Kanunda ve askeri yargı ile ilgili diğer kanunlarda yazılı "başkatip"
 ünvanı "yazı işleri müdürü", "nezdinde" kelimesi ise "teşkilatında"
 olarak değiştirilmiştir. Ünvan değişikliği sebebiyle ilgililerin yeniden
 atanmaları gerekmez.
+
+––––––––––––––
+
+*(1) Bu fıkrada yer alan “…adlî kontrole ilişkin 109 ilâ…” ibaresi,
+28/12/2013 tarihli ve 28865 sayılı Resmi Gazete’de yayımlanan Anayasa
+Mahkemesi’nin 22/5/2013 tarihli ve E.: 2012/149, K.: 2013/63 sayılı
+Kararı ile iptal edilmiştir.*
+
+3796
+
+*Hükmün açıklanmasının geri bırakılması:*
+
+**Ek Madde 4- (Ek: 23/6/2016 - 6722/14 md.) **
+
+5271 sayılı Ceza Muhakemesi Kanununun hükmün açıklanmasının geri
+bırakılmasına ilişkin hükümleri, aşağıdaki hâller hariç askeri suç ve
+cezalar hakkında da uygulanır:
+
+A\) Sırf askeri bir suçtan dolayı altı ay veya daha fazla süreli hapis
+cezasına hükmedilmesi.
+
+B\) Fiilin, disiplini ağır şekilde ihlal etmesi veya birliğin güvenliğini
+tehlikeye düşürmesi ya da birliğin muharebe hazırlığını veya etkinliğini
+zafiyete uğratması ya da büyük bir zarar meydana getirmesi.
+
+C\) Fiilin savaş veya seferberlikte işlenmesi.
 
 Geçici hükümler:
 
@@ -3223,77 +3231,66 @@ Görevsizlik kararı ile gönderilir.
 Duruşma safhasında olan dosyalar için yeniden iddianame düzenlenmeden,
 dava dosyası görevli mahkemeye verilir.
 
-––––––––––––––
+Nezdinde askeri mahkeme kurulan kıta komutanı veya askeri kurum amiri
+ile askeri mahkemece de yukardaki fıkra hükümleri uygulanır.
 
-*(1) Bu fıkrada yer alan “…adlî kontrole ilişkin 109 ilâ…” ibaresi,
-28/12/2013 tarihli ve 28865 sayılı Resmi Gazete’de yayımlanan Anayasa
-Mahkemesi’nin 22/5/2013 tarihli ve E.: 2012/149, K.: 2013/63 sayılı
-Kararı ile iptal edilmiştir.*
+**Ek Geçici Madde 1 – (Ek: 21/1/1981 - 2376/9 md.) **
 
-3796
+Bu Kanunun birinci maddesiyle, Askeri Mahkemeler Kuruluşu ve Yargılama
+Usulü Kanununun 1 nci maddesinde yapılan değişiklikten önce kurulmuş
+olan tümen askeri mahkemelerinin, kaldırılmadıkça kuruluşları aynen
+devam eder.
 
- 
+**Ek Geçici Madde 2 – (Ek: 21/1/1981 - 2376/9 md.)**
 
-             Nezdinde askeri mahkeme kurulan kıta komutanı veya askeri
-kurum amiri ile askeri mahkemece de yukardaki fıkra hükümleri uygulanır.
+Bu Kanunun 8 nci maddesiyle, Askeri Mahkemeler Kuruluşu ve Yargılama
+Usulü Kanununa eklenen Ek 1 nci Madde hükümleri, bu Kanunun yürürlüğe
+girdiği tarihten önce açılmış kamu davaları hakkında da uygulanır.
 
-             **Ek Geçici Madde 1 – (Ek: 21/1/1981 - 2376/9 md.) **
+**Ek Geçici Madde 3 – (Ek: 16/10/1981 - 2538/2 md.) **
 
-             Bu Kanunun birinci maddesiyle, Askeri Mahkemeler Kuruluşu
-ve Yargılama Usulü Kanununun 1 nci maddesinde yapılan değişiklikten önce
-kurulmuş olan tümen askeri mahkemelerinin, kaldırılmadıkça kuruluşları
-aynen devam eder.
-
-             **Ek Geçici Madde 2  – (Ek: 21/1/1981 - 2376/9 md.)**
-
-             Bu Kanunun 8 nci maddesiyle, Askeri Mahkemeler Kuruluşu ve
-Yargılama Usulü Kanununa eklenen Ek 1 nci Madde hükümleri, bu Kanunun
-yürürlüğe girdiği tarihten önce açılmış kamu davaları hakkında da
+Bu Kanunun değiştirilen 2 nci maddesinin mahkeme kuruluşuna ilişkin
+hükümleri duruşması halen devam etmekte olan davalar hakkında da
 uygulanır.
 
-             **Ek Geçici Madde 3 – (Ek: 16/10/1981 - 2538/2 md.) **
+**Ek Geçici Madde 4 – (Ek: 9/10/1996 - 4191/27 md.) **
 
-             Bu Kanunun değiştirilen 2 nci maddesinin mahkeme kuruluşuna
-ilişkin hükümleri duruşması halen devam etmekte olan davalar hakkında da
+Bu Kanunun yürürlüğe girmesinden önce başlamış bulunan soruşturmalar
+hakkında, 353 sayılı Kanunun 23 üncü maddesi gereğince yetkisizlik
+kararı verilemez.
+
+3797
+
+**Ek Geçici Madde 5 – (Ek: 9/10/1996 - 4191/27 md.)**
+
+Bu Kanunun 25 inci maddesiyle değiştirilen 353 sayılı Kanunun ek 1 inci
+maddesi hükmü, bu Kanunun yürürlüğe girdiği tarihten önce açılmış kamu
+davaları hakkında da uygulanır.
+
+**Ek Geçici Madde 6-** **(Ek: 29/6/2006-5530/63 md.)**
+
+353 sayılı Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun, bu
+Kanun ile değiştirilen ve yürürlükten kaldırılan hükümlerinin, yürürlüğe
+konulmasına ve uygulanmasına ilişkin, bu Kanunun yürürlüğe giriş tarihi
+esas alınarak 23/5/2005 tarihli ve 5320 sayılı Ceza Muhakemesi Kanununun
+Yürürlük ve Uygulama Şekli Hakkında Kanunda belirtilen esaslar
 uygulanır.
 
-             **Ek Geçici Madde 4 – (Ek: 9/10/1996 - 4191/27 md.) **
+Bu Kanun hükümleri, yürürlüğe girdiği tarihten itibaren kesin hükme
+bağlanmış olanlar hariç, bütün soruşturma ve kovuşturmalarda uygulanır.
 
-             Bu Kanunun yürürlüğe girmesinden önce başlamış bulunan
-soruşturmalar hakkında, 353 sayılı Kanunun 23 üncü maddesi gereğince
-yetkisizlik kararı verilemez.
+Bu Kanunun yürürlüğe girdiği tarihten önce, askerî mahkemelerce karar
+verilmiş ve henüz kesinleşmemiş olan dava dosyalarından görevli yargı
+yeri değişenler hakkında, askerî savcının yazılı görüşü alınmak
+suretiyle, mahkemesince duruşma yapılmaksızın görevsizlik kararı
+verilir. Bu karara karşı, teşkilâtında askerî mahkeme kurulan kıt’a
+komutanı veya askerî kurum amiri, askerî savcı, sanık ve varsa müdafi
+bir hafta içinde itiraz edebilir. İtirazlar en yakın askerî mahkemede
+incelenir. Bu dosyalardan temyiz ve itiraz edilmek suretiyle Askerî
+Yargıtay Başsavcılığında ve Askerî Yargıtayda inceleme aşamasında olan
+dosyalar mahkemesine iade edilir.
 
-             **Ek Geçici Madde 5 – (Ek: 9/10/1996 - 4191/27 md.)**
-
-             Bu Kanunun 25 inci maddesiyle değiştirilen 353 sayılı
-Kanunun ek 1 inci maddesi hükmü, bu Kanunun yürürlüğe girdiği tarihten
-önce açılmış kamu davaları hakkında da uygulanır.
-
-            **Ek Geçici Madde 6-** **(Ek: 29/6/2006-5530/63 md.)**
-
-**            ** 353 sayılı Askeri Mahkemeler Kuruluşu ve Yargılama
-Usulü Kanununun, bu Kanun ile değiştirilen ve yürürlükten kaldırılan
-hükümlerinin, yürürlüğe konulmasına ve uygulanmasına ilişkin, bu Kanunun
-yürürlüğe giriş tarihi esas alınarak 23/5/2005 tarihli ve 5320 sayılı
-Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunda
-belirtilen esaslar uygulanır.
-
-             Bu Kanun hükümleri, yürürlüğe girdiği tarihten itibaren
-kesin hükme bağlanmış olanlar hariç, bütün soruşturma ve kovuşturmalarda
-uygulanır.
-
-             Bu Kanunun yürürlüğe girdiği tarihten önce, askerî
-mahkemelerce karar verilmiş ve henüz kesinleşmemiş olan dava
-dosyalarından görevli yargı yeri değişenler hakkında, askerî savcının
-yazılı görüşü alınmak suretiyle, mahkemesince duruşma yapılmaksızın
-görevsizlik kararı verilir. Bu karara karşı, teşkilâtında askerî mahkeme
-kurulan kıt’a komutanı veya askerî kurum amiri, askerî savcı, sanık ve
-varsa müdafi bir hafta içinde itiraz edebilir. İtirazlar en yakın askerî
-mahkemede incelenir. Bu dosyalardan temyiz ve itiraz edilmek suretiyle
-Askerî Yargıtay Başsavcılığında ve Askerî Yargıtayda inceleme aşamasında
-olan dosyalar mahkemesine iade edilir.
-
-             **Ek Geçici Madde 7-** **(Ek: 19/6/2010-6000/6 md.)**
+**Ek Geçici Madde 7-** **(Ek: 19/6/2010-6000/6 md.)**
 
 Bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihten önce kurulla
 bakılmakta olan davalarda, davanın tek hakim tarafından yürütülmesi
@@ -3303,16 +3300,14 @@ Bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihten önce kurulla
 verilerek kesinleşmiş kararlar hakkında, bu maddeyi ihdas eden Kanunun
 yürürlüğe girdiği tarihten sonra da yine kurulla karar verilir.
 
-**             Madde 260 –** Bu kanunun kuruluşa dair hükümleri ile
-geçici birinci maddesi yayımı tarihinde; usule dair ve diğer hükümleri
-ise bu kanuna göre kurulacak askeri mahkemelerin fiilen göreve
-başladıkları tarihte yürürlüğe girer.
+**Madde 260 –** Bu kanunun kuruluşa dair hükümleri ile geçici birinci
+maddesi yayımı tarihinde; usule dair ve diğer hükümleri ise bu kanuna
+göre kurulacak askeri mahkemelerin fiilen göreve başladıkları tarihte
+yürürlüğe girer.
 
-             **Madde 261 –** Bu Kanunu Bakanlar Kurulu yürütür.
+**Madde 261 –** Bu Kanunu Bakanlar Kurulu yürütür.
 
- 
-
-3797-3811
+3799-3811
 
 **353 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -3372,6 +3367,20 @@ başladıkları tarihte yürürlüğe girer.
   Anayasa Mahkemesi’nin 22/5/2013 tarihli ve E.: 2012/149, K.: 2013/63 sayılı Kararı   Ek Madde 1                                                   28/12/2013
 
   6519                                                                                 15/A                                                         22/2/2014
+
+  Anayasa                                                                              15/A                                                         24/6/2015
+                                                                                                                                                    
+  Mahkemesi’nin 14/1/2015 tarihli ve E.: 2014/89, K.: 2015/3 sayılı Kararı                                                                          
+
+  6722                                                                                 Ek Madde 4                                                   14/7/2016
+
+  KHK/668                                                                              1                                                            27/7/2016
+
+  6754                                                                                 Ek Madde 1                                                   24/11/2016
+
+  6755                                                                                 1                                                            24/11/2016
+
+  6763                                                                                 80                                                           2/12/2016
   ------------------------------------------------------------------------------------ ------------------------------------------------------------ -----------------------------------------------
 
 
