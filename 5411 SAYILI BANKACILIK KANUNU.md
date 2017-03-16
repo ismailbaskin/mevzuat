@@ -1,4 +1,4 @@
-**Anayasa Mahkemesi’nin 22/2/2206 tarihli ve E.: 2006/20, K.: 2006/25
+**Anayasa Mahkemesi’nin 9/3/2006 tarihli ve E.: 2006/33, K.: 2006/36
 sayılı Kararı ile değişik hali**
 
 **BANKACILIK KANUNU**
@@ -3834,14 +3834,8 @@ Kurulu kararlarına karşı açılacak davalar ilk derece mahkemesi olarak
 Danıştayda görülür. Fon Kurulu kararlarına karşı yapılan başvurular
 acele işlerden sayılır.
 
-Fon Kurulu kararlarına karşı açılacak idarî davalarda yürütmenin
-durdurulması talepleri için ayrıca duruşma yapılır. Bu halde 2577 sayılı
-İdari Yargılama Usulü Kanununun 17 nci maddesinin (5) numaralı
-fıkrasındaki otuz günlük süre uygulanmaz. Yürütmenin durdurulması
-talepleri, Fonun savunması alınmadan karara bağlanamaz. İlgili taraflar
-yürütmenin durdurulması talebinin kendisine tebliğ tarihinden itibaren
-yedi gün içinde savunmasını vermek zorundadır. Aksi halde savunma
-beklenmeksizin karar verilir.
+**(İptal ikinci fıkra: Anayasa Mahkemesi’nin 9/3/2006 tarihli ve E.:
+2006/33, K.: 2006/36 sayılı Kararı ile.)**
 
 **Fonun bütçesi**
 
@@ -5978,6 +5972,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5411 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5472                                                                         13, 106, 107, 129, 136, Geçici Madde 24 ve 25                 14/3/2006
   Anayasa Mah.nin E.: 2006/20, K.: 2006/25 sayılı Kararı                       105                                                           10/1/2007
+  Anayasa Mah.’nin E.: 2006/33, K.: 2006/36 sayılı Kararı                      128                                                           10/1/2007
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
