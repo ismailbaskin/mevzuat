@@ -1,4 +1,4 @@
-**6552 sayılı Kanun ile değişik hali**
+5467/5468-1
 
 []{#K10 .anchor}**İDARİ YARGILAMA USULÜ KANUNU ^(1)(2)^**
 
@@ -827,13 +827,19 @@ hakkında karar veren daire, mahkeme veya hakim tarafından çözümlenir.
 dava dairelerince verilmişse konusuna göre İdari veya Vergi Dava
 Daireleri Kurullarına, bölge idare mahkemesi kararlarına karşı en yakın
 bölge idare mahkemesine, idare ve vergi mahkemeleri ile tek hakim
-tarafından verilen kararlara karşı bölge idare mahkemesine, çalışmaya
-ara verme süresi içinde ise idare ve vergi mahkemeleri tarafından
-verilen kararlara en yakın nöbetçi mahkemeye veya kararı veren hakimin
-katılmadığı nöbetçi mahkemeye, kararın tebliğini izleyen günden itibaren
-yedi gün içinde bir defaya mahsus olmak üzere itiraz edilebilir. İtiraz
-edilen merciler, dosyanın kendisine gelişinden itibaren yedi gün içinde
-karar vermek zorundadır. İtiraz üzerine verilen kararlar kesindir.
+tarafından verilen kararlara karşı bölge idare mahkemesine **(…) ^(1)^**
+kararın tebliğini izleyen günden itibaren yedi gün içinde bir defaya
+mahsus olmak üzere itiraz edilebilir. İtiraz edilen merciler, dosyanın
+kendisine gelişinden itibaren yedi gün içinde karar vermek zorundadır.
+İtiraz üzerine verilen kararlar kesindir.
+
+------------------
+
+*(1) 1/7/2016 tarihli ve 6723 sayılı Kanunun 13 üncü maddesiyle, bu
+fıkrada yer alan “, çalışmaya ara verme süresi içinde ise idare ve vergi
+mahkemeleri tarafından verilen kararlara en yakın nöbetçi mahkemeye veya
+kararı veren hâkimin katılmadığı nöbetçi mahkemeye,” ibaresi madde
+metninden çıkarılmıştır.*
 
 5475
 
@@ -846,7 +852,7 @@ verilen kararlar onbeş gün içinde yazılır ve imzalanır.
 10\. **(Ek: 2/7/2012 - 6352/57 md.)** Aynı sebeplere dayanılarak ikinci
 kez yürütmenin durdurulması isteminde bulunulamaz.
 
-*Kararların sonuçları:*
+*Kararların sonuçları: ^(1)(2)^*
 
 **Madde 28 –** 1.**(Değişik:10/6/1994-4001/13 md.)** Danıştay, bölge
 idare mahkemeleri, idare ve vergi mahkemelerinin esasa ve yürütmenin
@@ -855,22 +861,12 @@ işlem tesis etmeye veya eylemde bulunmaya mecburdur. Bu süre hiçbir
 şekilde kararın idareye tebliğinden başlayarak otuz günü geçemez.
 **(İptal cümle: Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107
 K.: 2013/90 sayılı Kararı ile.)(…) (Ek cümleler: 21/2/2014-6526/18 md.;
-Değişik üçüncü ve dördüncü cümleler: 10/9/2014-6552/97 md.)** Ancak,
-23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama
-Usulüne İlişkin Kanuna ekli (1) ve (2) sayılı cetvellerde gösterilen
-unvanları taşıyan görevler ile farklı atama usullerine tabi olsalar dâhi
-daire başkanı ve üstü görevlere, sivil memurlar hariç kolluk
-teşkilatlarının kadrolarına; açıktan, naklen veya vekâleten yapılan
-atama ve bu görevlerden alınma, bu görevlerle ilgili yer değiştirme,
-görev ve unvan değişikliği işlemleri hakkında verilen mahkeme
-kararlarının gereği, ilgilinin kazanılmış hak aylık derecesine uygun
-başka bir kadroya atanması suretiyle iki yıl içinde yerine getirilir. Bu
-görevliler hakkındaki mezkur işlemlerin uygulanması, telafisi güç veya
-imkânsız zararları doğuran hâllerden sayılmaz. **(Ek cümle:
-10/9/2014-6552/97 md.)** Bu fıkranın üçüncü cümlesinde belirtilen
-işlemlerle ilgili mahkeme kararlarının yerine getirilmemesi ceza
-soruşturması ve kovuşturmasına konu edilemez; ancak disiplin hükümleri
-saklıdır.
+Değişik üçüncü ve dördüncü cümleler: 10/9/2014-6552/97 md.; İptal üçüncü
+cümle: Anayasa Mahkemesi’nin** **25/11/2015 tarihli ve E.: 2014/86, K.:
+2015/109 sayılı Kararı ile.)** **(…)^(1)^ (İptal dördüncü cümle: Anayasa
+Mahkemesi’nin 2/10/2014 tarihli ve E.: 2014/149, K.: 2014/151 sayılı
+Kararı ile.) ^(2)^ (Ek cümle: 10/9/2014-6552/97 md.) (…) ^(1)^** ancak
+disiplin hükümleri saklıdır. ^(1)^
 
 2\. **(Değişik: 2/7/2012 - 6352/58 md.)** Konusu belli bir miktar paranın
 ödenmesini gerektiren davalarda hükmedilen miktar ile her türlü
@@ -909,6 +905,30 @@ için faiz işlemez.
 mahkemelerince verilen kararlar yeterince açık değilse, yahut birbirine
 aykırı hüküm fıkralarını taşıyorsa, taraflardan her biri kararın
 açıklanmasını veya aykırılığın giderilmesini isteyebilir.
+
+––––––––––––
+
+*(1) Bu maddenin birinci fıkrasının üçüncü cümlesinin “23/4/1981 tarihli
+ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin
+Kanuna ekli (1) ve (2) sayılı cetvellerde gösterilen unvanları taşıyan
+görevler ile farklı atama usullerine tabi olsalar dâhi daire başkanı ve
+üstü görevlere, sivil memurlar hariç kolluk teşkilatlarının kadrolarına;
+açıktan, naklen veya vekâleten yapılan atama ve bu görevlerden alınma,
+bu görevlerle ilgili yer değiştirme, görev ve unvan değişikliği
+işlemleri hakkında verilen mahkeme kararlarının gereği, ilgilinin
+kazanılmış hak aylık derecesine uygun başka bir kadroya atanması
+suretiyle iki yıl içinde yerine getirilir.” bölümü, aynı fıkranın
+dördüncü cümlesi ve son cümlesinin “Bu fıkranın üçüncü cümlesinde
+belirtilen işlemlerle ilgili mahkeme kararlarının yerine getirilmemesi
+ceza soruşturması ve kovuşturmasına konu edilemez;” bölümü; 1/1/2015
+tarihli ve 29223 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin
+2/10/2014 tarihli ve E.: 2014/149, K.: 2014/151 sayılı Kararı ile iptal
+edilmiştir.*
+
+*(2) 8/1/2016 tarihli ve 29587 sayılı Resmi Gazete’de yayımlanan Anayasa
+Mahkemesi’nin 25/11/2015 tarihli ve E.: 2014/86, K.: 2015/109 sayılı
+Kararı ile bu maddenin birinci fıkrasının üçüncü ve dördüncü cümleleri
+iptal edilmiştir.*
 
 5476
 
@@ -949,8 +969,12 @@ giderleri, adli yardım hallerinde ve duruşma sırasında tarafların
 mahkemenin sukünunu ve inzibatını bozacak hareketlerine karşı yapılacak
 işlemler ile elektronik işlemlerde Hukuk Usulü Muhakemeleri Kanunu
 hükümleri uygunlanır. **(Ek cümle: 5/4/1990 - 3622/11 md.;
-Değişik:10/6/1994-4001/14 md.)** Ancak, davanın ihbarı ve bilirkişi
-seçimi Danıştay, mahkeme veya hakim tarafından re'sen yapılır.^(1)^
+Değişik:10/6/1994-4001/14 md.)** Ancak, davanın ihbarı (…) ^(2)^
+Danıştay, mahkeme veya hakim tarafından re'sen yapılır. **(Ek cümle:
+3/11/2016-6754/22 md.)** Bilirkişiler, bilirkişilik bölge kurulları
+tarafından hazırlanan listelerden seçilir ve bilirkişiler hakkında
+Bilirkişilik Kanunu ve 12/1/2011 tarihli ve 6100 sayılı Hukuk
+Muhakemeleri Kanununun ilgili hükümleri uygulanır. ^(1)(2)^
 
 2\. Bu Kanun ve yukarıdaki fıkra uyarınca Hukuk Usulü Muhakemeleri
 Kanununa atıfta bulunulan haller saklı kalmak üzere, vergi
@@ -985,6 +1009,9 @@ mahkemesidir.
 *(1) 2/7/2012 tarihli 6352 sayılı Kanunun 59 uncu maddesi ile bu fıkrada
 yer alan “işlemlerde” ibaresi “işlemler ile elektronik işlemlerde”
 şeklinde değiştirilmiştir.*
+
+*(2) 3/11/2016 tarihli ve 6754 sayılı Kanunun 22 nci maddesiyle, bu
+fıkrada yer alan “ve bilirkişi seçimi” ibaresi metinden çıkarılmıştır.*
 
 5477
 
@@ -1217,9 +1244,9 @@ kesindir.
 
 ÜÇÜNCÜ BÖLÜM
 
-*Kararlara Karşı Başvuru Yolları *
+*Kararlara Karşı Başvuru Yolları*
 
-*İstinaf: ^(1)^*
+*İstinaf: ^(1)\*\*\*^*
 
 **Madde 45 – (Değişik: 18/6/2014-6545/19 md.)**
 
@@ -1257,7 +1284,7 @@ kararının kaldırılmasına karar vererek dosyayı ilgili mahkemeye
 gönderir. Bölge idare mahkemesinin bu fıkra uyarınca verilen kararları
 kesindir.
 
-6\. Bölge idare mahkemelerinin 46 ncımaddeye göre temyize açık olmayan
+6\. Bölge idare mahkemelerinin 46 ncı maddeye göre temyize açık olmayan
 kararları kesindir.
 
 7\. İstinaf başvurusuna konu edilen kararı veren ya da karara katılan
@@ -1267,7 +1294,7 @@ incelenmesinde bulunamaz.
 8\. İvedi yargılama usulüne tabi olan davalarda istinaf yoluna
 başvurulamaz.
 
-*Temyiz:*
+*Temyiz:* \*\*\*
 
 **Madde 46 – (Değişik: 18/6/2014-6545/20 md.)**
 
@@ -1281,7 +1308,11 @@ a\) Düzenleyici işlemlere karşı açılan iptal davaları.
 ––––––––––––––––––––
 
 *(1) Bu madde başlığı “İtiraz:” iken, 18/4/2014 tarihli ve 6545 sayılı
-Kanunun 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+Kanunun 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir. *
+
+**\*\*\* Bu maddenin uygulanması ile ilgili olarak 2577 sayılı Kanuna
+18/6/2014 tarihli ve 6545 sayılı Kanunun 27 nci maddesiyle eklenen
+Geçici Madde 8 ‘e bakınız.**
 
 5480-1
 
@@ -1334,16 +1365,20 @@ m\) Düzenleyici ve denetleyici kurullar tarafından görevli oldukları
 piyasa veya sektörle ilgili olarak alınan kararlara karşı açılan
 davalar.
 
-*Temyiz edilemeyecek kararlar:*
+*Temyiz edilemeyecek kararlar:\*\*\**
 
 **Madde 47 – (Mülga: 18/6/2014-6545/103 md.)**
 
-*Temyiz dilekçesi:*
+*Temyiz dilekçesi:\*\*\**
 
 **Madde 48 – (Değişik: 5/4/1990 - 3622/17 md.)**
 
-1\. Temyiz istemleri Danıştay Başkanlığına hitaben yazılmış dilekçeler
-ile yapılır.
+1.  Temyiz istemleri Danıştay Başkanlığına hitaben yazılmış dilekçeler
+    ile yapılır.
+
+**\*\*\* Bu maddenin uygulanması ile ilgili olarak 2577 sayılı Kanuna
+18/6/2014 tarihli ve 6545 sayılı Kanunun 27 nci maddesiyle eklenen
+Geçici Madde 8 ‘e bakınız.**
 
 5480-2
 
@@ -1430,7 +1465,7 @@ anlaşıldığı hâllerde, 2 ve 6 ncı fıkralarda sözü edilen kararlar,
 dosyanın gönderildiği Danıştayın ilgili dairesi ve kurulunca, kesin
 olarak verilir.
 
-*Temyiz incelemesi üzerine verilecek kararlar: ^(1)^*
+*Temyiz incelemesi üzerine verilecek kararlar: ^(1)\*\*\*^*
 
 **Madde 49 – (Değişik: 18/6/2014-6545/22 md.)**
 
@@ -1465,7 +1500,7 @@ uygulanır.
 5\. Temyize konu edilen kararı veren ya da karara katılan hâkim aynı
 davanın temyiz incelemesinde görev alamaz.
 
-*Temyizen verilen karar üzerine yapılacak işlem:*
+*Temyizen verilen karar üzerine yapılacak işlem:\*\*\**
 
 **Madde 50 – (Değişik: 18/6/2014-6545/23 md.)**
 
@@ -1495,9 +1530,13 @@ zorunludur.
 6545 sayılı Kanunun 22 nci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
+**\*\*\* Bu maddenin uygulanması ile ilgili olarak 2577 sayılı Kanuna
+18/6/2014 tarihli ve 6545 sayılı Kanunun 27 nci maddesiyle eklenen
+Geçici Madde 8 ‘e bakınız.**
+
 5482
 
-*Kanun yararına temyiz: ^(1)(2)^*
+*Kanun yararına temyiz: ^(1)(2)\*\*\*^*
 
 **Madde 51 –** 1. **(Değişik: 5/4/1990 - 3622/20 md.)** İdare ve vergi
 mahkemeleri ile bölge idare mahkemelerinin kesin olarak verdiği kararlar
@@ -1514,7 +1553,7 @@ kesinleşmiş olan merci kararının hukuki sonuçlarını kaldırmaz. ^(2)^
 3\. Bozma kararının bir örneği ilgili bakanlığa gönderilir ve Resmi
 Gazete'de yayımlanır.
 
-*Temyiz veya istinaf istemlerinde yürütmenin durdurulması: ^(3)^*
+*Temyiz veya istinaf istemlerinde yürütmenin durdurulması: ^(3)\*\*\*^*
 
 **Madde 52 –** 1. **(Değişik: 5/4/1990 - 3622/21 md.)** Temyiz veya
 istinaf yoluna başvurulmuş olması, hakim, mahkeme veya Danıştay
@@ -1533,7 +1572,7 @@ maddede öngörülen koşulun varlığına bağlıdır. ^(3)^
 
 4\. Kararın bozulması, kararın yürütülmesini kendiliğinden durdurur.
 
-*Yargılamanın yenilenmesi:*
+*Yargılamanın yenilenmesi:\*\*\**
 
 **Madde 53 – 1. (Değişik birinci cümle: 5/4/1990 - 3622/22 md.)**
 Danıştay ile bölge idare, idare ve vergi mahkemelerinden verilen
@@ -1565,6 +1604,10 @@ birinci fıkrasında yer alan “itiraz yoluna” ibaresi “istinaf yoluna”
 cümlesinde yer alan “kararların temyizi” ibaresi “kararlara karşı temyiz
 ya da istinaf yoluna başvurulması” şeklinde değiştirilmiştir.*
 
+**\*\*\* Bu maddenin uygulanması ile ilgili olarak 2577 sayılı Kanuna
+18/6/2014 tarihli ve 6545 sayılı Kanunun 27 nci maddesiyle eklenen
+Geçici Madde 8 ‘e bakınız.**
+
 5482-1
 
 b\) Karara esas olarak alınan belgenin, sahteliğine hükmedilmiş veya
@@ -1588,7 +1631,7 @@ karara bağlanmış bulunması,
 g\) Çekinmeye mecbur olan başkan, üye veya hakimin katılmasıyla karar
 verilmiş olması,
 
-h\) **(Değişik: 10/6/1994 - 4001/23 md.)** Tarafları,konusu ve sebebi
+h\) **(Değişik: 10/6/1994 - 4001/23 md.)** Tarafları, konusu ve sebebi
 aynı olan bir dava hakkında verilen karara aykırı yeni bir kararın
 verilmesine neden olabilecek kanuni bir dayanak yokken, aynı mahkeme
 yahut başka bir mahkeme tarafından önceki ilamın hükmüne aykırı bir
@@ -1606,11 +1649,11 @@ karara bağlanır.
 yenilenmesi süresi, (1) numaralı fıkranın (h) bendinde yazılı sebep için
 on yıl, (1) numaralı fıkranın (ı) bendinde yazılı sebep için Avrupa
 İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren bir yıl
-ve diğer sebepler için altmış gündür. Bu süreler,dayanılan sebebin
+ve diğer sebepler için altmış gündür. Bu süreler, dayanılan sebebin
 istemde bulunan yönünden gerçekleştiği tarihi izleyen günden
 başlatılarak hesaplanır.^(1)^
 
-*Kararın düzeltilmesi: *
+*Kararın düzeltilmesi: \*\*\**
 
 **Madde 54 – (Mülga: 18/6/2014-6545/103 md.)**
 
@@ -1619,9 +1662,13 @@ başlatılarak hesaplanır.^(1)^
 *(1) 3 numaralı fıkra, 10/6/1994 tarihli ve 4001 sayılı Kanunun 23 üncü
 maddesi hükmüdür.*
 
+**\*\*\* Bu maddenin uygulanması ile ilgili olarak 2577 sayılı Kanuna
+18/6/2014 tarihli ve 6545 sayılı Kanunun 27 nci maddesiyle eklenen
+Geçici Madde 8 ‘e bakınız.**
+
 5483
 
-*Yargılamanın yenilenmesi usulü: ^(1)^*
+*Yargılamanın yenilenmesi usulü: ^(1)\*\*\*^*
 
 **Madde 55 –** 1. İsteğin ilişkin olduğu konu, diğer bir daire veya
 mahkemenin görevine girmiş ise karar bu daire veya mahkemece verilir.
@@ -1630,7 +1677,7 @@ mahkemenin görevine girmiş ise karar bu daire veya mahkemece verilir.
 kanunda yazılı sebepler varsa davaya yeniden bakılarak karar verilir.
 
 3\. **(Değişik: 10/6/1994-4001/25 md.)** Yargılamanın yenilenmesi
-(…)^(1)^ istemleri,kanunda yazılı sebeplere dayanmıyor ise, istemin
+(…)^(1)^ istemleri, kanunda yazılı sebeplere dayanmıyor ise, istemin
 reddine karar verilir. ^(1)^
 
 4\. Yargılamanın yenilenmesi (…)^(1)^ istemlerinde duruşma yapılması,
@@ -1679,7 +1726,11 @@ sayılı Kanunun 26 ncı maddesiyle metne işlendiği şekilde, aynı maddenin
 beşinci fıkrasında yer alan “53, 54 ve bu” ibaresi “Bu madde ile 53
 üncü” şeklinde değiştirilmiş; üçüncü ve dördüncü fıkralarında yer alan
 “ve kararın düzeltilmesi” ibareleri ile beşinci fıkrasında yer alan “ve
-kararın düzeltilmesinde” ibaresi madde metninden çıkarılmıştır.*
+kararın düzeltilmesinde” ibaresi madde metninden çıkarılmıştır. *
+
+**\*\*\* Bu maddenin uygulanması ile ilgili olarak 2577 sayılı Kanuna
+18/6/2014 tarihli ve 6545 sayılı Kanunun 27 nci maddesiyle eklenen
+Geçici Madde 8 ‘e bakınız.**
 
 5484
 
@@ -1754,16 +1805,20 @@ Yeniden düzenleme birinci cümle: 27/6/2013-6494/18 md. )** Bölge idare,
 idare ve vergi mahkemeleri her yıl bir eylülde başlamak üzere, yirmi
 temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler. Ancak, yargı
 çevresine dahil olduğu bölge idare mahkemesinin bulunduğu il merkezi
-dışında kalan idare ve vergi mahkemeleri çalışmaya ara vermeden
-yararlanamazlar. Bu mahkemeler, 62 nci maddedeki sınırlamaya tabi
-olmaksızın görevlerine devam ederler.
+dışında kalan ve sadece bir idare veya bir vergi mahkemesi bulunan
+yerlerdeki idari yargı mercileri çalışmaya ara vermeden yararlanamazlar.
+Bu mahkemeler, 62 nci maddedeki sınırlamaya tabi olmaksızın görevlerine
+devam ederler. ^(1)^
 
-2\. Ara verme süresi içinde; bölge idare mahkemesi başkanının önerisi
-üzerine, Hakimler ve Savcılar Yüksek Kurulunca, her bölge idare
-mahkemesi merkezinde idare ve vergi mahkemesi başkan ve üyeleri
-arasından görevlendirilecek üç hakimin katıldığı bir nöbetçi mahkeme
-kurulur. Nöbetçi kalanlardan en kıdemli başkan, yoksa en kıdemli üye
-nöbetçi mahkemenin başkanlığını yapar.
+2\. **(Değişik: 1/7/2016 - 6723/14 md.)** Çalışmaya ara verme süresi
+içinde; bölge idare mahkemesi başkanının önerisi üzerine, Hâkimler ve
+Savcılar Yüksek Kurulunca, birden fazla idari yargı mercii olan yerlerde
+idare veya vergi mahkemeleri başkan ve üyeleri arasından
+görevlendirilecek yeteri kadar hâkimin katıldığı bir nöbetçi mahkeme
+kurulur. Bölge idare mahkemeleri için ise bölge idare mahkemesi
+başkanının önerisi üzerine, Hâkimler ve Savcılar Yüksek Kurulunca, tüm
+daire başkan ve üyeleri arasından görevlendirilecek yeterli sayıda
+nöbetçi daire kurulur.
 
 3\. **(Değişik: 10/6/1994 - 4001/27 md.)** Çalışmaya ara vermeden
 yararlanamayanlar ve nöbetçi kalanların yıllık izin hakları saklıdır.
@@ -1791,7 +1846,7 @@ olmak üzere, önceki yılda uygulanan parasal sınırların, o yıl için 213
 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca
 Maliye Bakanlığınca her yıl tespit ve ilan edilen yeniden değerleme
 oranında artırılması suretiyle uygulanır. Bu şekilde belirlenen
-sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz. ^(1)^
+sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz. ^(2)^
 
 **Ek Madde 2 – (Ek: 5/4/1990 - 3622/26 md.)**
 
@@ -1807,7 +1862,12 @@ işlemeye başlar. Karar dosya üzerinden verilir.
 
 –––––––––––––––
 
-*(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 28 inci maddesiyle, bu
+*(1) 1/7/2016 tarihli ve 6723 sayılı Kanunun 14 üncü maddesiyle, bu
+fıkranın ikinci cümlesinde yer alan “idare ve vergi mahkemeleri” ibaresi
+“ve sadece bir idare veya bir vergi mahkemesi bulunan yerlerdeki idari
+yargı mercileri” şeklinde değiştirilmiştir.*
+
+*(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 28 inci maddesiyle, bu
 fıkrada yer alan “Kanunun 17 nci maddesindeki” ibaresi “Kanunda
 öngörülen” şeklinde ve “onmilyon lirayı” ibaresi “bin Türk lirasını”
 şeklinde değiştirilmiştir.*
@@ -1866,18 +1926,35 @@ mahkemece verilen kararlar, Danıştayda temyiz edilebilir.
 fıkrasına eklenen hüküm, kanun yolu aşaması dâhil, yürürlük tarihinde
 derdest olan davalarda da uygulanır.
 
-**Geçici Madde 8** – **(Ek: 18/6/2014-6545/27 md.)**
+**Geçici Madde 8** – **(Ek: 18/6/2014-6545/27 md.) **
 
-1\. Bu Kanunla idari yargıda kanun yollarına ilişkin getirilen hükümler,
-2576 sayılı Kanunun, bu Kanunla değişik 3 üncü maddesine göre kurulan
-bölge idare mahkemelerinin tüm yurtta göreve başlayacakları tarihten
-sonra verilen kararlar hakkında uygulanır. Bu tarihten önce verilmiş
-kararlar hakkında, kararın verildiği tarihte yürürlükte bulunan kanun
-yollarına ilişkin hükümler uygulanır.
+1\. İvedi yargılama usulü hariç olmak üzere bu Kanunla idari yargıda
+kanun yollarına ilişkin getirilen hükümler, 2576 sayılı Kanunun, bu
+Kanunla değişik 3 üncü maddesine göre kurulan bölge idare mahkemelerinin
+tüm yurtta göreve başlayacakları tarihten sonra verilen kararlar
+hakkında uygulanır. Bu tarihten önce verilmiş kararlar hakkında, kararın
+verildiği tarihte yürürlükte bulunan kanun yollarına ilişkin hükümler
+uygulanır. ^(1)^
 
 2\. Bölge idare mahkemelerinin faaliyete geçme tarihine kadar idare ve
 vergi mahkemeleri tarafından verilen kararlara yapılan itirazlarda bu
 Kanunla düzenlenen istinaf kanun yolu için öngörülen harçlar alınır.
+
+3\. **(Ek: 27/3/2015-6637/19 md.)** İvedi yargılama usulüne ilişkin olmak
+üzere, 18/6/2014 tarihli ve 6545 sayılı Kanunun yürürlüğe girmesinden
+sonra on beş gün içinde temyiz kanun yoluna başvurulmadığı için temyiz
+talebi reddedilen kararlara karşı, bu fıkrayı ihdas eden Kanunun yayımı
+tarihinden itibaren on beş gün, bu fıkrayı ihdas eden Kanunun yayımı
+tarihinden önce aynı gerekçeyle temyiz talebi reddedilmekle birlikte bu
+fıkrayı ihdas eden Kanunun yayımı tarihinden sonra tebliğ edilen
+kararlara karşı da bu kararların tebliğ tarihinden itibaren on beş gün
+içinde yeniden temyiz yoluna başvurulabilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 6637 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan “Bu
+Kanunla idari yargıda” ibaresi “İvedi yargılama usulü hariç olmak üzere
+bu Kanunla idari yargıda” şeklinde değiştirilmiştir.*
 
 5484-3
 
@@ -1970,11 +2047,34 @@ K.1995/49 sayılı Kararı ile.)**
 
 5484-5
 
-  ------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2577 sayılı Kanunun değişen veya iptal edilen maddeleri**                            **Yürürlüğe Giriş Tarihi**
-  6526                                                                                 27, 28                                                                                 6/3/2014
-  6545                                                                                 15, 17, 20, 20/A, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, Ek Madde 1, Geçici Madde 8   28/6/2014
-  6552                                                                                 20/B, 28                                                                               11/9/2014
-  ------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------- ----------------------------
+  ------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının **            **2577 sayılı Kanunun değişen veya iptal edilen maddeleri**                            **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                                               
+  **Numarası**                                                                                                                                                                 
+
+  6526                                                                                  27, 28                                                                                 6/3/2014
+
+  6545                                                                                  15, 17, 20, 20/A, 45, 46, 48, 47, 49, 50, 51, 52, 54, 55, Ek Madde 1, Geçici Madde 8   28/6/2014
+
+  6552                                                                                  20/B, 28                                                                               11/9/2014
+
+  Anayasa Mahkemesi’nin 2/10/2014 tarihli ve                                            28                                                                                     9/10/2014
+                                                                                                                                                                               
+  E.: 2014/149, K.: 2014/14(Yürürlüğü                                                                                                                                          
+                                                                                                                                                                               
+  Durdurma) sayılı Kararı                                                                                                                                                      
+
+  Anayasa Mahkemesi’nin 2/10/2014 tarihli ve                                            28                                                                                     1/1/2015
+                                                                                                                                                                               
+  E.: 2014/149, K.: 2014/151 sayılı Kararı                                                                                                                                     
+
+  6637                                                                                  Geçici Madde 8                                                                         7/4/2015
+
+  Anayasa Mahkemesi’nin 25/11/2015 tarihli ve E.: 2014/86, K.: 2015/109 sayılı Kararı   28                                                                                     8/1/2016
+
+  6723                                                                                  27, 61                                                                                 23/7/2016
+
+  6754                                                                                  31                                                                                     24/11/2016
+  ------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------- ----------------------------
 
 
