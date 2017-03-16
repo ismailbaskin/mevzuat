@@ -1,4 +1,4 @@
-**662 sayılı K.H.K ile değişik hali**
+**6300 sayılı Kanun ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -2144,13 +2144,15 @@ Yargıtay Birinci Başkanlık Kurulu huzurunda yemin ederler. Yemin için
 yapılan başvuru Yargıtay tarafından acele işlerden sayılır. Kurul
 üyeleri, yemin etmedikçe göreve başlayamazlar.
 
-**Başkan ve üyelerin görev süreleri **
+**Başkan ve üyelerin görev süreleri ^(1)^**
 
-**MADDE 85 —** Kurul Başkan ve üyelerinin görev süresi altı yıldır.
-Süreleri biten başkan ve üyeler yeniden atanamazlar. Başkanlığın ve
-üyeliğin herhangi bir sebeple boşalması hâlinde, boşalan yere 84 üncü
-maddede belirtilen esaslar dahilinde bir ay içinde atama yapılır. Bu
-şekilde atananlar, bir defalığına tekrar atanabilir.
+**MADDE 85 —** Kurul Başkan ve üyelerinin görev süresi beş yıldır.
+Süreleri biten başkan ve üyeler bir defalığına tekrar atanabilirler.
+Başkanlığın ve üyeliğin herhangi bir sebeple boşalması hâlinde, boşalan
+yere 84 üncü maddede belirtilen esaslar dahilinde bir ay içinde atama
+yapılır. **(Mülga cümle: 26/4/2012-6300/1 md.) (…) (Ek cümle:
+26/4/2012-6300/1 md.)** Bu şekilde atananlar, yerine atandıklarının
+süresini tamamlar.
 
 Kurul Başkan ve üyelerinin görev süreleri dolmadan herhangi bir nedenle
 görevlerine son verilemez. Ancak, ağır hastalık veya sakatlık nedeniyle
@@ -2162,6 +2164,14 @@ Başbakanın onayı ile görevden alınırlar. Bunların yerlerine en geç bir
 ay içinde atama yapılır. Ayrıca geçici iş göremezlik halinin üç aydan
 fazla sürmesi hâlinde, bu durumda olan üyelerin üyelikleri düşer ve
 bunların yerlerine bir ay içinde atama yapılır.
+
+–––––––––––––––––––
+
+*(1) 26/4/2012 tarihli ve 6300 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin birinci fıkrasının birinci cümlesinde yer alan “altı” ibaresi
+“beş” şeklinde, ikinci cümlesinde yer alan “yeniden atanamazlar.”
+ibaresi “bir defalığına tekrar atanabilirler.” şeklinde
+değiştirilmiştir.*
 
 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) fıkrasının
 (5) numaralı bendinde öngörülen suçlarla ilgili olarak haklarında ceza
@@ -2412,7 +2422,10 @@ alanlarda lisansüstü eğitim yapmış olmaları, yapılacak giriş sınavında
 başarılı olmaları ve yönetmelikte belirtilen diğer şartları taşımaları
 gereklidir. Söz konusu fakülte ve bölümleri, kadro unvanları ve/veya
 uzmanlık alanları itibarıyla ayrı ayrı belirlemeye Kurul yetkilidir.
-^(2)(3)^
+**(Ek cümle: 26/4/2012-6300/2 md.)** Yukarıda unvanları sayılan meslek
+personeli, son iki yıl içinde fiilen yerinde denetim veya gözetim
+sürecinde ya da uygulama faaliyetinde bulundukları bir bankada asgari
+iki yıl geçmeden görev kabul edemez. ^(2)(3)^
 
 –––––––––––––––––
 
@@ -2923,7 +2936,7 @@ Başkan ve üyeliğine seçilip yukarıda belirtilen şekilde görevi sona
 erenlere herhangi bir görev veya işe başlayıncaya kadar, almakta
 oldukları her türlü ödemeler Kurum tarafından verilmeye devam edilir. Bu
 maddede belirtilen nedenlerle üyeliği sona erenlere Kurum tarafından
-yapılacak ödeme bir yılı geçemez.
+yapılacak ödeme iki yılı geçemez. ^(1)^
 
 Kurul başkan ve üyelerinin bu görevlerinde geçirdikleri süreler, tâbi
 oldukları kanun hükümlerine göre hizmetlerinde değerlendirilir. Bu
@@ -2953,6 +2966,12 @@ aleyhine, tebliğ tarihinden itibaren onbeş gün içerisinde Danıştay
 nezdinde itiraz yoluna başvurulabilir. İzin verilmiş olsa dahi, itiraz
 süresi geçene kadar veya Danıştaya yapılan itiraz sonucunda hüküm tesis
 olunana kadar soruşturma başlatılamaz.
+
+––––––––––––––––––
+
+*(1) 26/4/2012 tarihli ve 6300 sayılı Kanunun 3 üncü maddesiyle, bu
+fıkranın son cümlesinde yer alan “bir yılı” ibaresi “iki yılı” şeklinde
+değiştirilmiştir.*
 
 Kurul Başkan ve üyeleri ile Kurum personelinin, görevden ayrılmış
 olsalar dahi, görevleriyle bağlantılı olarak işledikleri iddia edilen
@@ -3390,13 +3409,15 @@ Yargıtay Birinci Başkanlık Kurulu huzurunda yemin ederler. Yemin için
 yapılan başvuru Yargıtay tarafından acele işlerden sayılır. Fon Kurulu
 üyeleri, yemin etmedikçe göreve başlayamazlar.
 
-**Fon Kurulu Başkan ve üyelerinin görev süreleri **
+**Fon Kurulu Başkan ve üyelerinin görev süreleri ^(1)^**
 
-**MADDE 114 —** Fon Kurulu Başkan ve üyelerinin görev süresi altı
-yıldır. Süreleri biten başkan ve üyeler yeniden atanamazlar. Başkanlığın
-ve üyeliğin herhangi bir sebeple boşalması hâlinde, boşalan yere 113
-üncü maddede belirtilen esaslar dahilinde bir ay içinde atama yapılır.
-Bu şekilde atananlar, bir defalığına tekrar atanabilirler.
+**MADDE 114 —** Fon Kurulu Başkan ve üyelerinin görev süresi beş yıldır.
+Süreleri biten başkan ve üyeler bir defalığına tekrar atanabilirler.
+Başkanlığın ve üyeliğin herhangi bir sebeple boşalması hâlinde, boşalan
+yere 113 üncü maddede belirtilen esaslar dahilinde bir ay içinde atama
+yapılır. **(Mülga cümle: 26/4/2012-6300/1 md.) (…) (Ek cümle:
+26/4/2012-6300/1 md.)** Bu şekilde atananlar, yerine atandıklarının
+süresini tamamlar.
 
 Fon Kurulu Başkan ve üyelerinin görev süreleri dolmadan herhangi bir
 nedenle görevlerine son verilemez. Ancak, ağır hastalık veya sakatlık
@@ -3446,6 +3467,14 @@ kendilerinin veya başkalarının menfaatine kullanamazlar.
 
 Fon Kurulu Başkan ve üyeleri 3628 sayılı Mal Bildiriminde Bulunulması,
 Rüşvet ve Yolsuzluklarla Mücadele Kanununa tâbidir.
+
+––––––––––––––––––––––
+
+*(1) 26/4/2012 tarihli ve 6300 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin birinci fıkrasının birinci cümlesinde yer alan “altı” ibaresi
+“beş” şeklinde, ikinci cümlesinde yer alan “yeniden atanamazlar.”
+ibaresi “bir defalığına tekrar atanabilirler.” şeklinde
+değiştirilmiştir.*
 
 **Fon Kurulunun çalışma esasları**
 
@@ -3850,7 +3879,7 @@ memurlar ve diğer kamu görevlilerine kamu iktisadi teşebbüsleri yönetim
 kurulu üyeleri için belirlenen aylık ücretin üç katını geçmemek üzere
 Fon Kurulunca belirlenecek miktarda ücret ödenebilir.
 
-**Fon Kurulu üyelerinin görevden ayrılması**
+**Fon Kurulu üyelerinin görevden ayrılması ^(1)^**
 
 **MADDE 126 —** Fon Kurulu Başkan ve üyeliklerine atananların Fon
 Kurulunda görev yaptıkları sürece önceki görevleri ile olan ilişkileri
@@ -3865,7 +3894,13 @@ Başkan ve üyeliğine seçilip yukarıda belirtilen şekilde görevi sona
 erenlere herhangi bir görev veya işe başlayıncaya kadar, almakta
 oldukları her türlü ödemeler Fon tarafından verilmeye devam edilir. Bu
 maddede belirtilen nedenlerle üyeliği sona erenlere Fon tarafından
-yapılacak ödeme bir yılı geçemez.
+yapılacak ödeme iki yılı geçemez.
+
+––––––––––––––––––
+
+*(1) 26/4/2012 tarihli ve 6300 sayılı Kanunun 3 üncü maddesiyle, bu
+maddenin son cümlesinde yer alan “bir yılı” ibaresi “iki yılı” şeklinde
+değiştirilmiştir.*
 
 **Fon Kurulu üyeleri, Fon personeli, Fonun atadığı veya Fonu temsilen
 seçilen yöneticilerin, iflas idare memurlarının ve Fon personelinin
@@ -5864,6 +5899,25 @@ tamamlanıncaya kadar Kurumun idari merkezi Ankara’dır. Merkezin nakli,
 iki yıl içinde tamamlanır. Bakanlar Kurulu bu süreyi uzatmaya
 yetkilidir.
 
+**GEÇİCİ MADDE 30 –** **(Ek: 26/4/2012-6300/4 md.)**
+
+Bu maddenin yürürlüğe girdiği tarihte görevde bulunan Kurul ile Fon
+Kurulu Başkan ve üyelerinin üyelikleri, görev sürelerinin sonuna kadar
+devam eder.
+
+Kurul ile Fon Kurulu üyeliklerinde kalan süreyi tamamlamak üzere atanmış
+olanların üyelikte geçirdikleri bu süreler ile mevzuatı uyarınca yapılan
+kura sonucu üyelikleri sona ermiş olanların kura tarihine kadar üyelikte
+geçirdikleri süreler 85 inci ve 114 üncü maddelerin uygulanmasında görev
+süresi olarak dikkate alınmaz.
+
+Bu Kanun ile 103 üncü ve 126 ncımaddelerde yapılan değişiklikler,
+Kanunun yürürlüğe giriş tarihinden önce görev süresi sona eren Kurul
+başkan ve üyeleri ile Fon Kurulu başkan ve üyeleri hakkında da
+uygulanır. Ancak, ilgili değişikliklerin yürürlüğe girdiği tarihten
+önceki hükümlere göre kendilerine bir yıl ödeme yapılmış Kurul başkan ve
+üyeleri ile Fon Kurulu başkan ve üyeleri bu uygulamadan yararlanamaz.
+
 **Yürürlük**
 
 **MADDE 170 —** Bu Kanunun; 90 ve 91 inci maddeleri bu Kanunun yayımı
@@ -6242,6 +6296,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                Geçici Madde 28 ve 29                                         
 
   KHK/662                                                                      92, 121                                                       2/11/2011
+
+  6300                                                                         85, 92, 103, 114, 126, Geçici Madde 30                        10/5/2012
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
