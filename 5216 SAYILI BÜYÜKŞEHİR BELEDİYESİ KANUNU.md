@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5393 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun 5538 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -279,9 +279,11 @@ yapmak.*^(1)^*
 
 e\) Defin ile ilgili hizmetleri yürütmek.
 
-4562 sayılı Organize Sanayi Bölgeleri Kanunu ile Sanayi ve Ticaret
-Bakanlığına ve organize sanayi bölgelerine tanınan yetki ve
-sorumluluklar bu Kanun kapsamı dışındadır.
+**(Değişik: 1/7/2006-5538/ 23 md.)** 4562 sayılı Organize Sanayi
+Bölgeleri Kanunuyla Sanayi ve Ticaret Bakanlığına ve organize sanayi
+bölgelerine tanınan yetki ve sorumluluklar ile sivil hava ulaşımına açık
+havaalanları ve bu havaalanları bünyesinde yer alan tüm tesisler bu
+Kanunun kapsamı dışındadır.
 
 **Alt yapı hizmetleri**
 
@@ -1099,7 +1101,7 @@ edilir. Bakanlar Kurulu bu süreyi altı aya kadar uzatmaya yetkilidir."
 fıkrasına "Sayıştay Başkanlığı" ibaresinden sonra gelmek üzere "Sosyal
 Sigortalar Kurumu Başkanlığı" ibaresi eklenmiştir.*
 
-5216. **ILI KANUNA İŞLENEMEYEN HÜKÜMLER**
+5216. **SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
 *1-2/7/2005 tarihli ve 5390 sayılı Kanunun hükmüdür:*
 
@@ -1147,7 +1149,7 @@ aktarılır.
 
   5393                       13/7/2005                                                                13/7/2005                                                         7, 13, 14, 15, 16, 22
 
-                                                                                                                                                                        
+  5538                       12/7/2006                                                                12/7/2006                                                         7
 
                                                                                                                                                                         
 
