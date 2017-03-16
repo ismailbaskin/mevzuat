@@ -1,4 +1,4 @@
-**6518 sayılı Kanun ile değişik hali**
+5255
 
 []{#K80 .anchor}**BELEDİYE GELİRLERİ KANUNU**
 
@@ -585,12 +585,13 @@ edilir.
 
 ––––––––––––––
 
-*(1) Bu maddenin 1/1/2014 tarihinden itibaren uygulanması ile ilgili
-olarak; 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi Gazete'de
-yayımlanan Maliye Bakanlığının 43 Seri No.'lu Tebliğine bakınız.*
+*(1) Bu maddenin 1/1/2017 tarihinden itibaren uygulanması ile ilgili
+olarak; 27/12/2016 tarihli ve 29931 sayılı Resmi Gazete'de yayımlanan
+Maliye Bakanlığının (Gelir İdaresi Başkanlığı) 49 Seri No.'lu Tebliğine
+bakınız.*
 
 *(2) 6/2/2014 tarihli ve 6518 sayılı Kanunun 12 nci maddesiyle, bu
-fıkrada yer alan “öğrenci yurtları” ibaresinden sonra gelmek üzere “,
+fıkrada yer alan “öğrenci yurtları” ibaresinden sonra gelmek üzere“,
 korumalı işyerleri” ibaresi eklenmiştir.*
 
 5262
@@ -654,7 +655,7 @@ BİRİNCİ BÖLÜM
 
 İKİNCİ BÖLÜM
 
-*İşgal Harcı *
+*İşgal Harcı*
 
 *Konu:*
 
@@ -819,7 +820,7 @@ değiştirilmiştir.*
 
 DÖRDÜNCÜ BÖLÜM
 
-*Kaynak Suları Harcı *
+*Kaynak Suları Harcı*
 
 *Konu:*
 
@@ -1065,8 +1066,9 @@ yapılan her türlü bina inşaatı ile sera ve benzeri örtü altı tarım
 yapılan tesisler, ahır, samanlık, kümes, su ürünleri ve hayvan barınağı
 ile yemlik gibi yapı ve tesis inşaatı,
 
-d\) Kültür ve Turizm Bakanlığı ile Devlet Planlama Teşkilatınca teşviki
-karara bağlanmış otel, motel ve benzeri turistik tesisler,
+d\) Yatırım Teşvik Belgesi kapsamında inşa edilen binalar, Kültür ve
+Turizm Bakanlığı ile Devlet Planlama Teşkilatınca teşviki karara
+bağlanmış otel, motel ve benzeri turistik tesisler, ^(1)^
 
 e\) Kooperatifler eliyle, anasözleşmelerine uygun olarak, yapılan sanayi
 ve küçük sanat siteleri ile esnaf çarşıları,
@@ -1140,6 +1142,13 @@ karşılığında ilgili belediyeye ödenir.
 İnşaatın kısmen yapılması veya hiç yapılmaması halinde inşaat ruhsatı
 kısmen veya tamamen iptal edilirse, daha önce ödenmiş olan harçta
 gerekli düzeltme ve iadeler yapılır.
+
+––––––––––––––––––––
+
+*(1) 15/7/2016 tarihli ve 6728 sayılı Kanunun 41 inci maddesiyle, bu
+fıkrada yer alan “Kültür ve Turizm Bakanlığı” ibaresi “Yatırım Teşvik
+Belgesi kapsamında inşa edilen binalar, Kültür ve Turizm Bakanlığı”
+şeklinde değiştirilmiştir.*
 
 5267
 
@@ -1215,18 +1224,19 @@ tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve
 
 5268
 
-**(Değişik: 18/5/1987 - 3365/2 md.)** 7269 sayılı Umumi Hayata Müessir
-Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun
+**(Değişik: 18/5/1987 - 3365/2 md.)** Yatırım Teşvik Belgesi kapsamında
+inşa edilen yapı ve tesisler, 7269 sayılı Umumi Hayata Müessir Afetler
+Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun
 Hükümleri uyarınca yapılan yapı ve tesisler ile belediye ve mücavir alan
 sınırları içinde veya dışında inşa edilecek sera ve benzeri örtü altı
 tarım faaliyetinde kullanılmak üzere inşa edilen tesisler, ahır,
 samanlık, kümes ve hayvan barınakları ile yemlik gibi yapı ve tesisler
 5302 sayılı İl Özel İdaresi Kanunu uyarınca alınacak ücretler ile Bina
-İnşaat Harcı dahil yukarıda sayılan Harçlardan müstesnadır.^(1)^
+İnşaat Harcı dahil yukarıda sayılan Harçlardan müstesnadır.^(1)(2)^
 
 Organize Sanayi Bölgeleri ile Sanayi ve Küçük Sanat Sitelerinde yapılan
 Yapı ve Tesisler Bina İnşaat Harcı ve Yapı Kullanma İzni Harcından
-müstesnadır.^(2)^
+müstesnadır.^(3)^
 
 *İşyeri açma izni harcı:*
 
@@ -1257,7 +1267,31 @@ yenilenmeleri "Sağlık Belgesi Harcına" tabidir.
 *Çeşitli harçlara ait tarifeler:*
 
 **Madde 84 –** Bu bölümde yazılı çeşitli harçlar aşağıdaki tarifeye göre
-alınır. ^(3)^
+alınır. ^(4)^
+
+——————————
+
+*(1) 1/6/2007tarihli ve 5679 sayılı Kanunun 2 nci maddesiyle bu fıkrada
+yer alan "ahır" ibaresinden önce gelmek üzere "sera ve benzeri örtü altı
+tarım faaliyetinde kullanılmak üzere inşa edilen tesisler," ibaresi ve
+"Bina İnşaat Harcı" ibaresinden önce gelmek üzere "5302 sayılı İl Özel
+İdaresi Kanunu uyarınca alınacak ücretler ile" ibaresi eklenmiş ve metne
+işlenmiştir.*
+
+*(2) 15/7/2016 tarihli ve 6728 sayılı Kanunun 42 nci maddesiyle, bu
+fıkrada yer alan “7269 sayılı” ibaresi “Yatırım Teşvik Belgesi
+kapsamında inşa edilen yapı ve tesisler, 7269 sayılı” şeklinde
+değiştirilmiştir.*
+
+*(3) Bu maddenin son fıkrası, 18/5/1987 tarih ve 3365 sayılı Kanunla
+yapılan değişiklikler (2) fıkra halinde düzenlenmiştir.*
+
+*(4) Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili
+olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan
+10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara
+bakınız.*
+
+5268-1
 
   --------------------------------------------------------------------------------
   **(Değişik tarife: 30/12/2004-5281/26 md.) Harcın Tutarı (YTL)**
@@ -1296,23 +1330,6 @@ alınır. ^(3)^
 
   5\. Sağlık belgesi harcı 1 3
   --------------------------------------------------------------------------------
-
-——————————
-
-*(1) 1/6/2007tarihli ve 5679 sayılı Kanunun 2 nci maddesiyle bu fıkrada
-yer alan "ahır" ibaresinden önce gelmek üzere "sera ve benzeri örtü altı
-tarım faaliyetinde kullanılmak üzere inşa edilen tesisler," ibaresi ve
-"Bina İnşaat Harcı" ibaresinden önce gelmek üzere "5302 sayılı İl Özel
-İdaresi Kanunu uyarınca alınacak ücretler ile" ibaresi eklenmiş ve metne
-işlenmiştir.*
-
-*(2) Bu maddenin son fıkrası, 18/5/1987 tarih ve 3365 sayılı Kanunla
-yapılan değişiklikler (2) fıkra halinde düzenlenmiştir.*
-
-*(3) Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili
-olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan
-10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara
-bakınız.*
 
 5269
 
@@ -1504,6 +1521,23 @@ yenilenir.
 bu Kanunda en az ve en çok miktarları gösterilen vergi ve harçların
 tarifelerini belediye grupları itibarıyla tayin ve tespit eder.
 
+**(Ek paragraf: 26/2/2014-6527/5 md.)** Ancak, bu Kanunun 15 inci
+maddesinde, 21 inci maddesinin birinci fıkrasının (III) numaralı
+bendinde, 56 ncı maddesinde, 60 ıncı maddesinde ve 84 üncü maddesinin
+birinci fıkrasının (3) numaralı bendinde yer alan maktu vergi ve harç
+tarifeleri, Kanunda belirtilen en alt ve en üst sınırları aşmamak
+şartıyla mahallin çeşitli semtleri arasındaki sosyal ve ekonomik
+farklılıklar göz önünde tutularak ilgili belediye meclislerinin önerisi,
+İçişleri Bakanlığının görüşü ve Maliye Bakanlığının teklifi üzerine
+Bakanlar Kurulunca tespit edilir. Tespit edilen bu tutarlar, her takvim
+yılı başından geçerli olmak üzere bir önceki yıla ilişkin olarak Vergi
+Usul Kanunu hükümlerine göre belirlenen yeniden değerleme oranında
+artırılır. Bu şekilde hesaplanan miktar ve tutarların, virgülden sonraki
+iki hanesi dikkate alınarak uygulanır. Şu kadar ki, bu miktar ve
+tutarlar ilgili tarifeler için belirlenen en çok tutarı aşamaz. Bu
+uygulamaya ilişkin usul ve esasları belirlemeye Maliye Bakanlığı
+yetkilidir.
+
 B\) **(İptal: Anayasa Mahkemesi’nin 29/12/2011 tarihli ve E.: 2010/62 K.:
 2011/175 sayılı Kararı ile.)** ^(1)^
 
@@ -1589,7 +1623,7 @@ edilen kullanma ve sanayi suları..." şeklindeki ibare Anayasa
 Mahkemesinin 31/3/1987 tarih ve E.86/20, K. 87/9 sayılı kararı ile iptal
 edilmiştir.*
 
-*(2) Bu fıkrada yer alan "müzelerin giriş ücretlerinin “% 40”ı ibaresi,
+*(2) Bu fıkrada yeralan "müzelerin giriş ücretlerinin “% 40”ı ibaresi,
 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesi ile metne
 işlendiği şekilde değiştirilmiştir.*
 
@@ -1715,6 +1749,16 @@ işaretli cetveline gelir kaydedilmek üzere ödemeye mecburdurlar;
 verginin tarh, tahakkuk ve tahsiline ilgili vergi daireleri yetkilidir.”
 şeklinde uygulanır.
 
+**Geçici Madde 7 – (Ek:** **26/2/2014-6527/6 md.)**
+
+2013 yılında uygulanmak üzere belediye meclislerince belirlenmiş olan;
+bu Kanunun 15 inci maddesinde, 21 inci maddesinin birinci fıkrasının
+(III) numaralı bendinde, 56 ncı maddesinde, 60 ıncı maddesinde ve 84
+üncü maddesinin birinci fıkrasının (3) numaralı bendinde yer alan maktu
+vergi ve harç tarifeleri, Kanunun 96 ncı maddesinin (A) fıkrasının
+ikinci paragrafı gereğince Bakanlar Kurulunca tespit edilecek karar
+yürürlüğe girinceye kadar uygulanmaya devam edilir.
+
 *Yürürlük:*
 
 **Madde 106 –** Bu Kanunun;
@@ -1729,6 +1773,8 @@ b\) Diğer hükümleri 1 Temmuz 1981 tarihinde yürürlüğe girer.
 *Yürütme:*
 
 **Madde 107 –** Bu Kanunu Bakanlar Kurulu yürütür.
+
+5275
 
 **26/5/1981 TARİHLİ VE 2464 SAYILI ANA KANUNA İŞLENEMEYEN GEÇİCİ
 MADDELER:**
@@ -1760,7 +1806,7 @@ maddesinin istisna ve muaflıklar bölümüne ilave edilen 5 inci bent
 gereğince itiraz safhasında ve açılmış davalar, bu Kanunun yayımı
 tarihinde bütün neticeleri ile ortadan kalkar.
 
-5275-5279
+5277-5279
 
 **2464 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
 
@@ -1822,6 +1868,10 @@ tarihinde bütün neticeleri ile ortadan kalkar.
   6487                                                                                20, 60, 96                                                    19/5/2013 tarihinden geçerli olmak üzere 11/6/2013
 
   6518                                                                                Mükerrer Madde 44                                             19/2/2014
+
+  6527                                                                                96, Geçici Madde 7                                            1/3/2014
+
+  6728                                                                                Ek Madde 2, 80                                                9/8/2016
   ----------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
 
 5280-1
@@ -1880,6 +1930,10 @@ tarihinde bütün neticeleri ile ortadan kalkar.
   Tebliğ                      43                        30/12/2013
 
   10/2/2014                   2014/5896                 18/2/2014
+
+  Tebliğ                      46                        30/12/2014
+
+  Tebliğ                      47                        25/12/2015
   --------------------------- ------------------------- ------------------------------ ---------------- --------------------------------------------
 
 
