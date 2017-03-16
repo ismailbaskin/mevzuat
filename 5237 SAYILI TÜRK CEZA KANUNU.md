@@ -1,4 +1,4 @@
-**6456 sayılı Kanun ile değişik hali**
+**6460 sayılı Kanun ile değişik hali**
 
 **TÜRK CEZA KANUNU ^(1)^**
 
@@ -8,7 +8,7 @@
 
 **Yayımlandığı R.Gazete : Tarih : 12/10/2004 Sayı :25611 **
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 43 Sayfa:**
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 43 **
 
 BİRİNCİ KİTAP
 
@@ -2105,6 +2105,8 @@ gibi cezalandırılır.
 \(5) Bu suçun ihmali davranışla işlenmesi halinde, verilecek cezada bu
 nedenle indirim yapılmaz.
 
+\(6) **(Ek: 11/4/2013-6459/9 md.)** Bu suçtan dolayı zamanaşımı işlemez.
+
 *Neticesi sebebiyle ağırlaşmış işkence*
 
 **Madde 95-** (1) İşkence fiilleri, mağdurun;
@@ -4079,11 +4081,12 @@ hapis cezası ile cezalandırılır.
 \(3) Tahrik konusu suçların işlenmesi halinde, tahrik eden kişi, bu
 suçlara azmettiren sıfatıyla cezalandırılır.
 
-*Suçu ve suçluyu övme*
+*Suçu ve suçluyu övme ^(1)^*
 
 **        Madde 215-** (1) İşlenmiş olan bir suçu veya işlemiş olduğu
-suçtan dolayı bir kişiyi alenen öven kimse, iki yıla kadar hapis cezası
-ile cezalandırılır.
+suçtan dolayı bir kişiyi alenen öven kimse, bu nedenle kamu düzeni
+açısından açık ve yakın bir tehlikenin ortaya çıkması hâlinde, iki yıla
+kadar hapis cezası ile cezalandırılır.
 
 *Halkı kin ve düşmanlığa tahrik veya aşağılama*
 
@@ -4114,6 +4117,13 @@ maddelerde tanımlanan suçların basın ve yayın yoluyla işlenmesi hâlinde,
 verilecek ceza yarı oranına kadar artırılır. Ancak, haber verme
 sınırlarını aşmayan ve eleştiri amacıyla yapılan düşünce açıklamaları
 suç oluşturmaz.
+
+––––––––––––––––
+
+*(1) 11/4/2013 tarihli ve 6459 sayılı Kanunun 10 uncu maddesiyle, bu
+maddede yer alan “kimse,” ibaresinden sonra gelmek üzere “bu nedenle
+kamu düzeni açısından açık ve yakın bir tehlikenin ortaya çıkması
+hâlinde,” ibaresi eklenmiştir.*
 
 9017
 
@@ -4170,7 +4180,8 @@ suçlardan dolayı ayrıca fail olarak cezalandırılır.
 \(6) **(Değişik: 2/7/2012 – 6352/85 md.)** Örgüte üye olmamakla birlikte
 örgüt adına suç işleyen kişi, ayrıca örgüte üye olmak suçundan da
 cezalandırılır. Örgüte üye olmak suçundan dolayı verilecek ceza yarısına
-kadar indirilebilir.
+kadar indirilebilir.**(Ek cümle: 11/4/2013-6459/11 md.)** Bu fıkra hükmü
+sadece silahlı örgütler hakkında uygulanır.
 
 \(7) **(Değişik: 2/7/2012 – 6352/85 md.)** Örgüt içindeki hiyerarşik
 yapıya dahil olmamakla birlikte, örgüte bilerek ve isteyerek yardım eden
@@ -4178,9 +4189,18 @@ kişi, örgüt üyesi olarak cezalandırılır. Örgüt üyeliğinden dolayı
 verilecek ceza, yapılan yardımın niteliğine göre üçte birine kadar
 indirilebilir.
 
-\(8) Örgütün veya amacının propagandasını yapan kişi, bir yıldan üç yıla
-kadar hapis cezası ile cezalandırılır. Bu suçun basın ve yayın yolu ile
-işlenmesi halinde, verilecek ceza yarı oranında artırılır.
+\(8) Örgütün cebir, şiddet veya tehdit içeren yöntemlerini meşru
+gösterecek veya övecek ya da bu yöntemlere başvurmayı teşvik edecek
+şekilde propagandasını yapan kişi, bir yıldan üç yıla kadar hapis cezası
+ile cezalandırılır. Bu suçun basın ve yayın yolu ile işlenmesi halinde,
+verilecek ceza yarı oranında artırılır. ^(1)^
+
+––––––––––––
+
+*(1) 11/4/2013 tarihli ve 6459 sayılı Kanunun 11 inci maddesiyle, bu
+fıkrada yer alan “veya amacının” ibaresi “cebir, şiddet veya tehdit
+içeren yöntemlerini meşru gösterecek veya övecek ya da bu yöntemlere
+başvurmayı teşvik edecek şekilde” şeklinde değiştirilmiştir.*
 
 9018
 
@@ -4505,10 +4525,11 @@ DOKUZUNCU BÖLÜM
 
 *İhaleye fesat karıştırma*
 
-**        Madde 235-** (1) Kamu kurum veya kuruluşları adına yapılan mal
-veya hizmet alım veya satımlarına ya da kiralamalara ilişkin ihaleler
-ile yapım ihalelerine fesat karıştıran kişi, beş yıldan oniki yıla kadar
-hapis cezası ile cezalandırılır. ^(1)^
+**        Madde 235-** (1) **(Değişik: 11/4/2013-6459/12 md.)** Kamu
+kurumu veya kuruluşları adına yapılan mal veya hizmet alım veya
+satımlarına ya da kiralamalara ilişkin ihaleler ile yapım ihalelerine
+fesat karıştıran kişi, üç yıldan yedi yıla kadar hapis cezası ile
+cezalandırılır.
 
 \(2) Aşağıdaki hallerde ihaleye fesat karıştırılmış sayılır:
 
@@ -4537,10 +4558,18 @@ d\) İhaleye katılmak isteyen veya katılan kişilerin ihale şartlarını ve
 özellikle fiyatı etkilemek için aralarında açık veya gizli anlaşma
 yapmaları.
 
-\(3) İhaleye fesat karıştırma sonucunda ilgili kamu kurumu veya kuruluşu
-açısından bir zarar meydana gelmiş ise, ceza yarı oranında artırılır.
-Zararın meydana gelmiş olduğu sabit olmakla birlikte miktarının
-belirlenememiş olması, bu fıkra hükmünün uygulanmasını engellemez.
+\(3) **(Değişik: 11/4/2013-6459/12 md.)** İhaleye fesat karıştırma
+suçunun;
+
+a\) Cebir veya tehdit kullanmak suretiyle işlenmesi hâlinde temel cezanın
+alt sınırı beş yıldan az olamaz. Ancak, kasten yaralama veya tehdit
+suçunun daha ağır cezayı gerektiren nitelikli hâllerinin gerçekleşmesi
+durumunda, ayrıca bu suçlar dolayısıyla cezaya hükmolunur.
+
+b\) İşlenmesi sonucunda ilgili kamu kurumu veya kuruluşu açısından bir
+zarar meydana gelmemiş ise, bu fıkranın (a) bendinde belirtilen hâller
+hariç olmak üzere, fail hakkında bir yıldan üç yıla kadar hapis cezasına
+hükmolunur.
 
 \(4) İhaleye fesat karıştırma dolayısıyla menfaat temin eden görevli
 kişiler, ayrıca bu nedenle ilgili suç hükmüne göre cezalandırılırlar.
@@ -4562,12 +4591,6 @@ niteliğindeki meslek kuruluşları, bunların iştirakiyle kurulmuş
 yararına çalışan dernekler ya da kooperatiflere karşı taahhüt altına
 girilen edimin ifasına fesat karıştıran kişi, üç yıldan yedi yıla kadar
 hapis cezası ile cezalandırılır.
-
-–––––––––––––––––––––––
-
-*(1) Bu fıkrada yer alan "ihalelere" ibaresi, 31/3/2005 tarihli ve 5328
-sayılı Kanunun 9 uncu maddesiyle "ihaleler ile yapım ihalelerine"
-şeklinde değiştirilmiştir ve metne işlenmiştir.*
 
 9023
 
@@ -5082,10 +5105,7 @@ değiştirilmiş ve metne işlenmiştir.*
 
 *Kanuna aykırı eğitim kurumu*
 
-**        Madde 263 – (Değişik: 29/6/2005 – 5377/29 md.) **
-
-\(1) Kanuna aykırı olarak eğitim kurumu açan veya işleten kişi, üç aydan
-bir yıla kadar hapis veya adlî para cezası ile cezalandırılır.
+**        Madde 263 – (Mülga – 17/4/2013-6460/13 md.) **
 
 *Özel işaret ve kıyafetleri usulsüz kullanma*
 
@@ -6116,9 +6136,10 @@ da aynı ceza verilir.
 
 *Halkı askerlikten soğutma*
 
-**        Madde 318-** (1) Halkı, askerlik hizmetinden soğutacak
-etkinlikte teşvik veya telkinde bulunanlara veya propaganda yapanlara
-altı aydan iki yıla kadar hapis cezası verilir.
+**        Madde 318-** (1) **(Değişik: 11/4/2013-6459/13 md.)** Askerlik
+hizmetini yapanları firara sevk edecek veya askerlik hizmetine katılacak
+olanları bu hizmeti yapmaktan vazgeçirecek şekilde teşvik veya telkinde
+bulunanlara altı aydan iki yıla kadar hapis cezası verilir.
 
 \(2) Fiil, basın ve yayın yolu ile işlenirse ceza yarısı oranında
 artırılır.
@@ -6459,9 +6480,15 @@ DOKUZUNCU BÖLÜM
 
 *Son Hükümler*
 
+**Geçici Madde** 1 – **(Ek: 11/4/2013-6459/14 md.)**
+
+\(1) Bu maddeyi ihdas eden Kanunla, bu Kanunun 235 inci maddesinde
+yapılan değişiklik sebebiyle görülmekte olan davalarda görevsizlik
+kararı verilemez.
+
 *Yürürlük*
 
-**MADDE 344**- (1) Bu Kanunun;
+**Madde 344**- (1) Bu Kanunun;
 
 a\) “İmar kirliliğine neden olma” başlıklı 184 üncü maddesi yayımı
 tarihinde,
@@ -6518,5 +6545,13 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154 sayılı Kararı   267 nci maddenin yedinci fıkrası                                                                                                                                                  17/3/2013
   6456                                                                                   158                                                                                                                                                                               18/4/2013
   -------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
+
+9046-2/9056
+
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5237 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  6459                                                                         94, 215, 220, 235, 318, Geçici Madde 1                        30/4/2013
+  6460                                                                         263                                                           30/4/2013
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
