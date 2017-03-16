@@ -1,4 +1,4 @@
-**5737 sayılı Kanunun İlk Hali**
+5737 sayılı Kanunun 5917 Kanun İle Değişik Hali
 
 **VAKIFLAR KANUNU**
 
@@ -1695,7 +1695,7 @@ ederler.
   
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  ---------------------------------------------------------------------
+  --------------------------------------------------------------------------------------------------------------------------------------------
   **(II) SAYILI CETVEL**
   
   **VAKIFLAR GENEL MÜDÜRLÜĞÜ**
@@ -1756,57 +1756,90 @@ ederler.
   
   25 TRABZON Trabzon, Artvin, Giresun, Gümüşhane, Rize
   
-  **(III) SAYILI CETVEL**
+    -------------------------------------------------------------------------------------------------- ------------------ ------------------
+    []{#RANGE!A3:H26 .anchor} **(Değişik:25/6/2009-5917/ 47 md.) (III) SAYILI CETVEL **
   
-  **VAKIFLAR GENEL MÜDÜRLÜĞÜ**
+    **VAKIFLAR GENEL MÜDÜRLÜĞÜ **
   
-  **SÖZLEŞMELİ PERSONELİNE İLİŞKİN AYLIK ÜCRET SINIRLARI (BRÜT YTL)**
+    **SÖZLEŞMELİ PERSONELİNE İLİŞKİN AYLIK ÜCRET SINIRLARI **
+    
+    **(BRÜT TL)**
   
-  ***GÖREV UNVANI Taban Ücreti Tavan Ücreti***
+    **GÖREV UNVANI**
   
-  Genel Müdür 980.00 1.726.00
+    **Genel Müdür**
   
-  Vakıflar Meclisi Üyesi, Genel Müdür Yrd., I. Hukuk
+    **Vakıflar Meclisi Üyesi, Genel Müdür Yrd., I.Hukuk Müşaviri, Rehberlik ve Teftiş Başkanı**
   
-  Müşaviri, Rehberlik ve Teftiş Başkanı 920.00 1.651.00
+    **Başmüfettiş, Daire Başkanı, Hukuk Müşaviri, Basın ve Halkla İlişkiler Müşaviri, Bölge Müdürü**
   
-  Başmüfettiş, Daire Başkanı, Hukuk Müşaviri, Basın ve
+    **Müdür, Şube Müdürü**
   
-  Halkla İlişkiler Müşaviri, Bölge Müdürü 650.00 1.602.00
+    **Müfettiş, Vakıf Uzmanı**
   
-  Müdür, Şube Müdürü 520.00 1.377.00
+    **Kadro Derecesi 1**
   
-  Müfettiş, Vakıf Uzmanı
+    **Kadro Derecesi 2**
   
-  Kadro Derecesi 1 895.00 1.377.00
+    **Kadro Derecesi 3**
   
-  Kadro Derecesi 2 890.00 1.350.00
+    **Kadro Derecesi 4**
   
-  Kadro Derecesi 3 860.00 1.320.00
+    **Kadro Derecesi 5**
   
-  Kadro Derecesi 4 830.00 1.290.00
+    **Kadro Derecesi 6**
   
-  Kadro Derecesi 5 805.00 1.265.00
+    **Kadro Derecesi 7 ve Diğerleri**
   
-  Kadro Derecesi 6 780.00 1.240.00
+    **Avukat, Mimar, Mühendis, Şehir Plancısı, Kurum Tabibi (Daire Tabibi), Müze Araştırmacısı**
   
-  Kadro Derecesi 7 760.00 1.200.00
+    **Kadro Derecesi 1**
   
-  Avukat, Mimar, Mühendis, Şehir Plancısı, Kurum
+    **Kadro Derecesi 2**
   
-  Tabibi, Müze Araştırmacısı
+    **Kadro Derecesi 3**
   
-  Kadro Derecesi 1 890.00 1.350.00
+    **Kadro Derecesi 4**
   
-  Kadro Derecesi 2 860.00 1.320.00
+    **Kadro Derecesi 5**
   
-  Kadro Derecesi 3 830.00 1.290.00
+    **Kadro Derecesi 6 ve Diğerleri**
+    -------------------------------------------------------------------------------------------------- ------------------ ------------------
   
-  Kadro Derecesi 4 805.00 1.265.00
-  
-  Kadro Derecesi 5 780.00 1.240.00
-  
-  Kadro Derecesi 6 760.00 1.200.00
-  ---------------------------------------------------------------------
+  --------------------------------------------------------------------------------------------------------------------------------------------
+
+  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
+  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**   **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5737 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                             
+                                                                           **Resmi Gazete Tarihi**                                           
+
+  5917                       1/7/2009                                      10/7/2009                                                         \(III) Sayılı Cetvel
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+
+                                                                                                                                             
+  -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
 
