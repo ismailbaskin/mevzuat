@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5538 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun 5568 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -1036,14 +1036,15 @@ Büyükşehir belediye kapsamına alınma nedeniyle meydana gelecek mülki
 sınır değişiklikleri katılma durumuna uygun olarak 5442 sayılı İl
 İdaresi Kanunu hükümlerine göre çözülür.
 
-**GEÇİCİ MADDE 3.-** Büyükşehir belediyeleri ve bunlara bağlı kuruluşlar
-ile sermayesinin % 50'sinden fazlası büyükşehir belediyelerine ait
-şirketlerin; 31.12.2004 tarihi itibariyle kamu kurum ve kuruluşlarına
-olan kamu ve özel hukuka tabi alacakları, bunların diğer kamu kurum ve
-kuruluşlarına olan borçlarına karşılık olmak üzere 30.6.2005 tarihine
-kadar takas ve mahsup edilir. Bakanlar Kurulu bu süreyi altı aya kadar
-uzatmaya yetkilidir. Bu madde kapsamındaki alacak ve borç ifadesi bu
-alacak ve borçlara ilişkin fer’ileri ve cezaları da kapsar.*^(1)^*
+**GEÇİCİ MADDE 3.- (Değişik: 26/12/2006-5568/ 6 md.)** üyükşehir
+belediyeleri ve bunlara bağlı kuruluşlar ile sermayesinin % 50’sinden
+fazlası büyükşehir belediyelerine ait şirketlerin; 31/12/2004 tarihi
+itibarıyla kamu kurum ve kuruluşlarından olan kamu ve özel hukuka tâbi
+alacakları, bunların diğer kamu kurum ve kuruluşlarına olan borçlarına
+karşılık olmak üzere, 28/2/2007 tarihine kadar takas ve mahsup edilir.
+Bu süreyi 31/3/2007 tarihine kadar uzatmaya, Hazine Müsteşarlığının
+bağlı bulunduğu Bakan yetkilidir. Bu madde kapsamındaki alacak ve borç
+ifadesi bu alacak ve borçlara ilişkin fer’ileri ve cezaları da kapsar.
 
 Yukarıdaki fıkra kapsamında yer alan kuruluşların takas ve mahsup
 işlemine konu olan veya olmayan borçları, genel bütçe vergi
@@ -1059,6 +1060,10 @@ dikkate alarak ödenecek tutarları taksitlendirmeye, taksitlendirilen
 kısma Kanunun yayımını izleyen günden itibaren zam ve faiz
 uygulatmamaya, bu borçların fer’i ve cezalarını geçmemek üzere indirim
 yapmaya yetkilidir. *^(1)^*
+
+**(Ek: 26/12/2006-5568/ 6 md.)** Bu madde uyarınca takas, mahsup ve
+kesinti işlemine tâbi tutulan borç ve alacaklar için ilgili kanunlarda
+öngörülen zamanaşımı süreleri işlemez.
 
 **(Ek: 21/4/2005-5335/ 28 md.)** İlgili kuruluşun uzlaşma ve hacizlerin
 kaldırılmasına dair başvurusunun uzlaşma komisyonunca kabul edilmesini
@@ -1078,6 +1083,25 @@ kulüplerinin başkanlığını yapan veya yönetiminde bulunan belediye
 başkanları, en geç 1.1.2005 tarihine kadar bu kulüplerin başkanlığından
 ve yönetimindeki görevlerinden ayrılırlar.
 
+**GEÇİCİ MADDE 5 –(Ek: 26/12/2006-5568/ 7 md.)**
+
+Büyükşehir belediyeleri ve bunlara bağlı kuruluşların, 31/12/2006 tarihi
+itibariyle tahakkuk etmiş olan 6183 sayılı Amme Alacaklarının Tahsil
+Usulü Hakkında Kanun hükümlerine göre takip edilen Devlete olan
+borçları, 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç
+Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında tanımlanan Hazine
+alacağı niteliğindeki borçları ve sosyal güvenlik kuruluşlarına olan
+borçları ile 5216 sayılı Kanunun geçici 3 üncü maddesi kapsamında
+taksitlendirilmiş bulunan veya taksitlendirilecek borçlarına karşılık,
+bu idareler adına her ay genel bütçe vergi gelirleri tahsilat toplamı
+üzerinden ayrılacak payların % 40’ını geçmemek üzere, alacaklı
+idarelerin talebi üzerine, ilgisine göre Maliye Bakanlığı veya İller
+Bankası tarafından kesinti yapılarak alacaklı idarelere ödenir. Hazine
+Müsteşarlığının bağlı olduğu Bakan ile Maliye Bakanının müşterek önerisi
+üzerine bu maddede geçen % 40 oranını sıfıra kadar indirmeye veya kanunî
+orana yükseltmeye ve kesintilerin alacaklı kuruluşlara dağılımına
+ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
+
 **Yürürlük**
 
 **MADDE 32.-** Bu Kanunun 23 üncü maddesinin birinci fıkrasının (b)
@@ -1088,18 +1112,15 @@ ay başında, diğer maddeleri ise yayımı tarihinde yürürlüğe girer.
 
 **MADDE 33.-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesi ile Geçici
-3 üncü maddesinin birinci fıkrasında geçen "30.6.2004" ibaresi
-"31.12.2004" şeklinde, "bu Kanunun yayımını izleyen altı ay içinde
-mahsup edilir." ibaresi, "30.6.2005 tarihine kadar takas ve mahsup
-edilir. Bakanlar Kurulu bu süreyi altı aya kadar uzatmaya yetkilidir."
-şeklinde, ikinci fıkrasında geçen "mahsup" ibaresi "takas ve mahsup"
-şeklinde, üçüncü fıkrasında geçen "mahsup ve kesinti işlemleri" ibaresi
-"takas, mahsup ve kesinti işlemleri" şeklinde değiştirilmiş ve beşinci
-fıkrasına "Sayıştay Başkanlığı" ibaresinden sonra gelmek üzere "Sosyal
-Sigortalar Kurumu Başkanlığı" ibaresi eklenmiştir.*
+*(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesi ile bu
+Kanunun Geçici 3 üncü maddesinin* *ikinci fıkrasında geçen "mahsup"
+ibaresi "takas ve mahsup" şeklinde, üçüncü fıkrasında geçen "mahsup ve
+kesinti işlemleri" ibaresi "takas, mahsup ve kesinti işlemleri" şeklinde
+değiştirilmiş ve beşinci fıkrasına "Sayıştay Başkanlığı" ibaresinden
+sonra gelmek üzere "Sosyal Sigortalar Kurumu Başkanlığı" ibaresi
+eklenmiştir.*
 
 5216. **SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
@@ -1151,7 +1172,7 @@ aktarılır.
 
   5538                       12/7/2006                                                                12/7/2006                                                         7
 
-                                                                                                                                                                        
+  5568                       30/12/2006                                                               30/12/2006                                                        Geçici Madde 3 ve 5
 
                                                                                                                                                                         
 
