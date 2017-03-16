@@ -1,4 +1,4 @@
-**6289 sayılı Kanun ile değişik hali**
+7997
 
 **KAMU GÖREVLİLERİ SENDİKALARI VE TOPLU**
 
@@ -502,13 +502,12 @@ Aynı tarihli birden fazla üyeliğe ilişkin bildirimler dikkate alınmaz ve
 bu husus kamu işvereni tarafından ilgiliye ve sendikalara yazılı olarak
 bildirilir.
 
-*Sendika üyesi olamayacaklar ^(1)(2)^*
+Sendika üyesi olamayacaklar ^(1)^
 
 **Madde 15 –** Bu Kanuna göre kurulan sendikalara;
 
-a\) Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı,
-Cumhurbaşkanlığı Genel Sekreterliği ile Millî Güvenlik Kurulu Genel
-Sekreterliğinde çalışan kamu görevlileri,
+a\) (…) ^(2)^ Cumhurbaşkanlığı Genel Sekreterliği ile Millî Güvenlik
+Kurulu Genel Sekreterliğinde çalışan kamu görevlileri, ^(2)^
 
 b\) Yüksek yargı organlarının başkan ve üyeleri, hâkimler, savcılar ve bu
 meslekten sayılanlar,
@@ -518,7 +517,7 @@ başkanları, genel müdürleri, daire başkanları ve bunların yardımcıları
 yönetim kurulu üyeleri, merkez teşkilâtlarının denetim birimleri
 yöneticileri ve kurul başkanları, hukuk müşavirleri, bölge, il ve ilçe
 teşkilâtlarının en üst amirleri ile bunlara eşit veya daha üst düzeyde
-olan kamu görevlileri, (…) ^(2)^ belediye başkanları ve yardımcıları,
+olan kamu görevlileri, (…) ^(3)^ belediye başkanları ve yardımcıları,
 
 d\) Yükseköğretim Kurulu Başkan ve üyeleri ile Yükseköğretim Denetleme
 Kurulu Başkan ve üyeleri, üniversite ve yüksek teknoloji enstitüsü
@@ -529,23 +528,51 @@ e\) Mülkî idare amirleri,
 
 f\) Silahlı Kuvvetler mensupları,
 
-g\) Millî Savunma Bakanlığı ile Türk Silahlı Kuvvetleri kadrolarında
-(Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dahil) çalışan
-sivil memurlar ve kamu görevlileri,
+g\) **(İptal: Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/21, K.:
+2013/57 sayılı Kararı ile.) **
 
 h\) Millî İstihbarat Teşkilâtı mensupları,
 
 ı) Bu Kanun kapsamında bulunan kurum ve kuruluşların merkezi denetim
 elemanları,
 
-j\) Emniyet hizmetleri sınıfı ve emniyet teşkilâtında çalışan diğer
-hizmet sınıflarına dahil personel (…) ^(2)^ ,
+j\) Emniyet hizmetleri sınıfı (…) ^(4)^ (…) ^(3)^ ,
 
 k\) Ceza infaz kurumlarında çalışan kamu görevlileri,
 
+l\) **(Ek: 2/1/2017-KHK-682/36 md.)** Jandarma Genel Komutanlığı ve Sahil
+Güvenlik Komutanlığında görevli subay, sözleşmeli subay, astsubay,
+sözleşmeli astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve
+sözleşmeli erler,
+
 Üye olamazlar ve sendika kuramazlar.
 
-*Üyeliğin sona ermesi*
+––––––––––––––
+
+*(1) 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu
+maddenin birinci fıkrasının (a) bendinde yer alan “Türkiye Büyük Millet
+Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi
+Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiş ve metne
+işlenmiştir.*
+
+*(2) Anayasa Mahkemesi’nin 30/9/2015 tarihli ve E.:2015/62, K.:2015/84
+sayılı Kararı ile bu bentte yer alan “Türkiye Büyük Millet Meclisi
+Başkanlığı İdari Teşkilatı,” ibaresi iptal edilmiştir.*
+
+*(3) 4/4/2012 tarihli ve 6289 sayılı Kanunun 31 inci maddesiyle, bu
+maddenin birinci fıkrasının (c) bendinde yer alan “100 ve daha fazla
+kamu görevlisinin çalıştığı işyerlerinin en üst amirleri ile
+yardımcıları,” ibaresi ile (j) bendinde yer alan “ile kamu kurum ve
+kuruluşlarının özel güvenlik personeli” ibaresi madde metninden
+çıkarılmıştır.*
+
+*(4) Anayasa Mahkemesi’nin 29/1/2014 tarihli ve E.: 2013/130, K.:2014/18
+sayılı Kararı ile bu bentte yer alan “…ve emniyet teşkilâtında çalışan
+diğer hizmet sınıflarına dahil personel…” ibaresi iptal edilmiştir.*
+
+8004
+
+Üyeliğin sona ermesi
 
 **Madde 16- (Değişik: 24/6/2004-5198/2 md.)**
 
@@ -557,23 +584,6 @@ verilmesi ile gerçekleşir. Kurum görevlisi, kayıt numarası ile tarih
 verilen çekilme bildiriminin bir suretini derhal üyeye vermek
 zorundadır. Kamu işvereni, bildirimin bir örneğini onbeş gün içinde
 sendikaya gönderir.
-
-––––––––––––––
-
-*(1) 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu
-maddenin birinci fıkrasının (a) bendinde yer alan “Türkiye Büyük Millet
-Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi
-Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiş ve metne
-işlenmiştir.*
-
-*(2) 4/4/2012 tarihli ve 6289 sayılı Kanunun 31 inci maddesiyle, bu
-maddenin birinci fıkrasının (c) bendinde yer alan “100 ve daha fazla
-kamu görevlisinin çalıştığı işyerlerinin en üst amirleri ile
-yardımcıları,” ibaresi ile (j) bendinde yer alan “ile kamu kurum ve
-kuruluşlarının özel güvenlik personeli” ibaresi madde metninden
-çıkarılmıştır.*
-
-8004
 
 Çekilme, kamu işverenine başvurma tarihinden başlayarak otuz gün sonra
 geçerli olur. Çekilenin bu süre içinde başka bir sendikaya üye olması
@@ -598,7 +608,7 @@ devam eder.
 Üyeliğin devamı ve askıya alınması hallerinde 2821 sayılı Sendikalar
 Kanununun 24 üncü maddesinde yer alan hükümler uygulanır.
 
-*Konfederasyon ve uluslararası kuruluş üyeliği*
+Konfederasyon ve uluslararası kuruluş üyeliği
 
 **Madde 17 –** Sendikalar, ancak bir konfederasyona üye olabilirler.
 Birden çok konfederasyona üye olunması halinde sonraki üyelikler
@@ -620,11 +630,13 @@ yabancı ülkelerdeki amaçlarına uyan uluslararası kuruluşların üye veya
 temsilcilerini Türkiye'ye davet edebilir veya yabancı ülkelerdeki
 toplantılarına kendi üye veya temsilcilerini gönderebilirler.
 
+8004-1
+
 İKİNCİ BÖLÜM
 
-*Güvenceler*
+Güvenceler
 
-*Sendika üyelerinin ve yöneticilerinin güvencesi ^(1)^*
+Sendika üyelerinin ve yöneticilerinin güvencesi ^(1)^
 
 **Madde 18-** **(Değişik: 24/6/2004-5198/3 md.)**
 
@@ -658,7 +670,7 @@ yararlanabilmesi için ise konfederasyona bağlı sendikaların toplam üye
 sayısının genel kurullarını delegelerle yapabilecek sendika üye sayısına
 ulaşması gerekir. ^(1)^
 
-Sendika şubeleri en az 400 üye ile kurulur. **(Ek cümle:
+Sendika şubeleri en az 400 üye ile kurulur. **(Ek cümleler:
 4/4/2012-6289/13 md.)** Sendika şubesi bulunmayan il ve ilçelerde il ve
 ilçe temsilciliği kurulabilir. İldeki üye sayısı 100 ve daha fazla olan
 sendikanın il temsilcisi ile ilçedeki üye sayısı 50 ve daha fazla olan
@@ -702,13 +714,13 @@ kararı kesinleşinceye kadar sendikadaki görevi devam eder.
 
 DÖRDÜNCÜ KISIM
 
-*Faaliyetler, Yasaklar ve Yönetime Katılma ^(1)^*
+Faaliyetler, Yasaklar ve Yönetime Katılma ^(1)^
 
 BİRİNCİ BÖLÜM
 
-*Faaliyetler ve Yasaklar*
+Faaliyetler ve Yasaklar
 
-*Sendika ve konfederasyonların yetki ve faaliyetleri*
+Sendika ve konfederasyonların yetki ve faaliyetleri
 
 **Madde 19 – (Değişik birinci fıkra: 4/4/2012-6289/14 md.)** Kamu
 görevlileri sendikaları ile konfederasyonlar, bu Kanundaki hükümler
@@ -774,7 +786,20 @@ dernekler ve Bakanlar Kurulunca vergi muafiyeti tanınan vakıflar ile
 kamu kurum ve kuruluşlarına aynî ve nakdî yardımda bulunmak, afete
 uğrayan bölgelerde konut ve sağlık tesisleri yapmak.
 
-*Yasaklar*
+ı) **(Ek: 14/4/2016-6704/14 md.)** Gerektiğinde, nakit mevcudunun yüzde
+onunu aşmamak kaydıyla ve Aile ve Sosyal Politikalar Bakanlığı ile
+koordinasyon halinde, 8/6/1949 tarihli ve 5434 sayılı Türkiye
+Cumhuriyeti Emekli Sandığı Kanununun mülga 64 üncü maddesi ve 31/5/2006
+tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununun 47 nci maddesinin sekizinci fıkrasında sayılanlar ile
+12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu, 3/11/1980
+tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında
+Kanun, 17/7/2004 tarihli ve 5233 sayılı Terör ve Terörle Mücadeleden
+Doğan Zararların Karşılanması Hakkında Kanunun ek 1 inci maddesi
+hükümlerine göre nakdî tazminat ödenmesi veya aylık bağlanması hakkı
+bulunanlara aynî ve nakdî yardımda bulunmak.
+
+Yasaklar
 
 **Madde 20 –** Bu Kanuna göre kurulan sendika ve konfederasyonların
 yönetim ve işleyişleri Anayasada belirtilen Cumhuriyetin niteliklerine
@@ -790,11 +815,19 @@ kullanamazlar.
 
 Sendika ve konfederasyonlar ticaretle uğraşamazlar.
 
+––––––––––––––
+
+*(1) 4/4/2012 tarihli ve 6289 sayılı Kanunun 14 üncü maddesiyle, bu
+bentte yer alan “dinlenme yerleri,” ibaresinden sonra gelmek üzere
+“misafirhane”ibaresi eklenmiş ve metne işlenmiştir.*
+
+8006-1
+
 İKİNCİ BÖLÜM
 
-*Yönetime Katılma ^(2)^*
+Yönetime Katılma ^(1)^
 
-*Kamu Personeli Danışma Kurulu ^(3)^ *
+Kamu Personeli Danışma Kurulu ^(2)^
 
 **Madde 21 – (Değişik: 4/4/2012-6289/15 md.)**
 
@@ -820,15 +853,11 @@ hizmetleri Devlet Personel Başkanlığınca yürütülür.
 
 ––––––––––––––
 
-*(1) 4/4/2012 tarihli ve 6289 sayılı Kanunun 14 üncü maddesiyle, bu
-bentte yer alan “dinlenme yerleri,” ibaresinden sonra gelmek üzere
-“misafirhane”ibaresi eklenmiş ve metne işlenmiştir.*
-
-*(2) Bu Bölüm başlığı “İdarî Kurullar” iken, 4/4/2012 tarihli ve 6289
+*(1) Bu Bölüm başlığı “İdarî Kurullar” iken, 4/4/2012 tarihli ve 6289
 sayılı Kanunun 15 inci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
-*(3) Bu madde başlığı “Yüksek İdarî Kurul” iken, 4/4/2012 tarihli ve
+*(2) Bu madde başlığı “Yüksek İdarî Kurul” iken, 4/4/2012 tarihli ve
 6289 sayılı Kanunun 15 inci maddesiyle metne işlendiği şekilde
 değiştirilmiştir.*
 
@@ -1761,14 +1790,19 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4688 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                       **Yürürlüğe Giriş Tarihi**
-  5198                                                                         14, 16, 18, 25, 30, 35, GEÇİCİ MADDE 9, İŞLENEMEYEN HÜKÜMLER                                                                                      6/7/2007
-  5538                                                                         25, GEÇİCİ MADDE 10                                                                                                                               12/7/2006
-  5620                                                                         25                                                                                                                                                21/4/2007
-  5728                                                                         38                                                                                                                                                8/2/2008
-  6253                                                                         15                                                                                                                                                18/12/2011
-  6289                                                                         Kanunun Adı, 1, 3, 5, 6,7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 21,23, 25, 28, 29, 30, 31, 32, 33, 34, 35, 41, 42, Geçici Madde 11, 12, 13, 14   11/4/2012
-  ---------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
+  ---------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**               **4688 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                                     **Yürürlüğe Giriş Tarihi**
+  5198                                                                                     14, 16, 18, 25, 30, 35, GEÇİCİ MADDE 9, İŞLENEMEYEN HÜKÜMLER                                                                                    6/7/2007
+  5538                                                                                     25, GEÇİCİ MADDE 10                                                                                                                             12/7/2006
+  5620                                                                                     25                                                                                                                                              21/4/2007
+  5728                                                                                     38                                                                                                                                              8/2/2008
+  6253                                                                                     15                                                                                                                                              18/12/2011
+  6289                                                                                     Kanunun Adı, 1, 3, 5, 6,7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 21,23, 25, 28, 29, 30,31,32, 33, 34, 35, 41, 42, Geçici Madde 11, 12, 13, 14   11/4/2012
+  **Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/21, K.: 2013/57 sayılı Kararı**    15 inci maddenin birinci fıkrasının (g) bendi                                                                                                   12/7/2013
+  **Anayasa Mahkemesi’nin 29/1/2014 tarihli ve E.: 2013/130, K.: 2014/18 sayılı Kararı**   15 inci maddenin birinci fıkrasının (j) bendi                                                                                                   13/5/2014
+  **Anayasa Mahkemesi’nin 30/9/2015 tarihli ve E.:2015/62, K.:2015/84 sayılı Kararı**      15                                                                                                                                              20/10/2015
+  **6704**                                                                                 19                                                                                                                                              26/4/2016
+  **KHK/682**                                                                              15                                                                                                                                              23/1/2017
+  ---------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
 
 
