@@ -1,4 +1,4 @@
-**6656 sayılı Kanun ile değişik hali**
+5347
 
 []{#K1 .anchor}**YÜKSEKÖĞRETİM KANUNU**
 
@@ -200,6 +200,12 @@ Bir veya daha fazla meslek yüksekokulu ile öğretim programları bütünlüğ�
 ve devamlılığı içinde ilişkilendirilmiş mesleki ve teknik orta öğretim
 kurumlarından oluşan eğitim bölgesidir.
 
+y\) **(Ek: 16/2/2016-6676/3 md.)** Doktora Sonrası Araştırma: Doktora ile
+tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık
+veya sanatta yeterlik eğitimi sonrasındaki yedi yıl içerisinde bir
+yükseköğretim kurumunda azami üç yıl süre ile gerçekleştirilen araştırma
+yoluyla deneyim kazanımıdır.
+
 5350
 
 İKİNCİ BÖLÜM
@@ -387,9 +393,9 @@ katılacak olan ve Genel Kurul üyeleri arasından seçilecek iki başkan
 vekilinden biri Kurul Başkanınca; diğeri ise Genel Kurul tarafından
 seçilir. Genel Kurulca Yürütme Kuruluna katılacak diğer altı üyenin
 ikisi 6 ıncı maddenin (b) fıkrasının (1) inci bendinde;ikisi aynı
-fıkranın (2), (3) (...)(2) üncü bendlerinde; ikisi ise aynı fıkranın (5)
-inci bendinde belirtilen üyeler arasından seçilir. **(Ek: 23/12/1988 -
-KHK - 351/13 md.)** Hakim ve savcı sınıfından olan üye,Yürütme Kurulu
+fıkranın (2), (3) (...)^(2)^ üncü bendlerinde; ikisi ise aynı fıkranın
+(5) inci bendinde belirtilen üyeler arasından seçilir. **(Ek: 23/12/1988
+- KHK - 351/13 md.)** Hakim ve savcı sınıfından olan üye,Yürütme Kurulu
 üyeliğine seçilemez.
 
 Başkan,Yükseköğretim Genel Kurulu ile Yürütme Kurulu'na başkanlık eder.
@@ -574,14 +580,17 @@ b\. Kuruluş ve İşleyişi:
 
 Yükseköğretim Denetleme Kurulu:
 
-\(1) Yükseköğretim Kurulu tarafından önerilecek beş profesör üyeden,
+\(1) **(Değişik: 3/10/2016-KHK-676/84 md.)** Yükseköğretim Kurulu
+tarafından profesörler ve bakanlık merkez teşkilatlarında en az on yıl
+müfettiş veya denetçi olarak çalışanlar arasından önerilecek onbeş
+üyeden,
 
 \(2) Yargıtay, Danıştay ve Sayıştay tarafından gösterilecek üçer aday
 arasından Yükseköğretim Kurulu tarafından seçilip önerilecek birer
 üyeden,
 
-\(3) Genelkurmay Başkanlığı ve Milli Eğitim Bakanlığınca seçilecek birer
-üyeden,
+\(3) Milli Savunma Bakanlığı ve Milli Eğitim Bakanlığınca seçilecek birer
+üyeden, ^(2)^
 
 oluşur.
 
@@ -594,22 +603,24 @@ atanmaları, cari usullere göre yapılır.
 sayılı Kararıyla; bu bentte yer alan “veya denenmek üzere başka bir
 yükseköğretim kurumuna atamak” ibaresi iptal edilmiştir.*
 
+*(2) 3/10/2016 tarihli ve 676 sayılı KHK’nin 84 üncü* maddesiyle *bu
+bentte yer alan “Genelkurmay Başkanlığı” ibaresi “Milli Savunma
+Bakanlığı” şeklinde değiştirilmiştir.*
+
 5354
 
 Yükseköğretim Denetleme Kurul Başkanı, bu kurul üyeleri arasından
 Yükseköğretim Kurulu Başkanı tarafından atanır.
 
-Genelkurmay Başkanlığınca seçilen üyenin görev süresi iki, diğerlerinin
-ise altı yıldır. Genelkurmay Başkanlığınca seçilen üye, diğer özlük
-hakları saklı kalmak kaydı ile maaşsız izinli sayılır. Diğer üyelerin
-kurumları ile ilişikleri kesilir, Kurul üyelerinin yaş haddi öğretim
-üyelerinde olduğu gibidir.
+**(Değişik dördüncü fıkra** **: 3/10/2016-KHK-676/84 md.)** Üyelerin
+görev süresi üç yıldır. Görev süreleri boyunca üyelerin kurumlarıyla
+ilişikleri kesilir. Üyelerin yaş haddi, öğretim üyelerinde olduğu
+gibidir.
 
-Genelkurmay Başkanlığınca seçilenin dışındaki üyelerin üçte biri her iki
-yılda bir yenilenir. Süreleri sona eren üyelerin yeniden seçilmeleri
-mümkündür. Herhangi bir nedenle üyeliğin normal süreden önce sona ermesi
-halinde, eski üyenin kalan süresini tamamlamak üzere aynı statüde yenisi
-seçilir.
+**(Mülga birinci cümle** **: 3/10/2016-KHK-676/84 md.)** **(…)**
+Süreleri sona eren üyelerin yeniden seçilmeleri mümkündür. Herhangi bir
+nedenle üyeliğin normal süreden önce sona ermesi halinde, eski üyenin
+kalan süresini tamamlamak üzere aynı statüde yenisi seçilir.
 
 Kurul üyelerinin ücretleri, Yükseköğretim Kurulu üyelerine ödenen ücreti
 geçmeyecek şekilde Bakanlar Kurulunca tespit edilir. Emekli olarak
@@ -849,43 +860,42 @@ düzenlemeleri yapmaktır.
 **Madde 13 – **
 
 a\) **(Değişik: 17/8/1983 - 2880/7 md.)** **(Değişik birinci paragraf:
-18/6/2008-5772/2 md.)** Devlet üniversitelerinde rektör, profesör
-akademik unvanına sahip kişiler arasından görevdeki rektörün çağrısı ile
-toplanacak üniversite öğretim üyeleri tarafından seçilecek adaylar
-arasından Cumhurbaşkanınca atanır. Rektörün görev süresi 4 yıldır.
-Süresi sona erenler aynı yöntemle yeniden atanabilirler. Ancak iki
-dönemden fazla rektörlük yapılamaz. Rektör, üniversite veya yüksek
-teknoloji enstitüsü tüzel kişiliğini temsil eder. Rektör adayı seçimleri
-gizli oyla yapılır. Oy veren her öğretim üyesi oy pusulasına yalnız bir
-isim yazabilir. Birinci toplantıda öğretim üyelerinin en az yarısının
-hazır bulunması şarttır. Bu sağlanamadığı takdirde toplantı 48 saat
-ertelenir ve nisap aranmaksızın seçime geçilir. Bu toplantıda en çok oy
-alan altı kişi aday olarak seçilmiş sayılır. Yükseköğretim Genel
-Kurulunun bu adaylar arasından seçeceği üç kişi Cumhurbaşkanlığına
-sunulur. Cumhurbaşkanı, bunlar arasından birini seçer ve rektör olarak
-atar. Yeni kurulan üniversitelere rektör adayı olarak başvuran
-profesörler arasından Yükseköğretim Genel Kurulunun seçeceği üç aday
-Cumhurbaşkanlığına sunulur. Cumhurbaşkanı, bunlar arasından birini seçer
-ve rektör olarak atar. Vakıflarca kurulan üniversitelerde rektör
-adaylarının seçimi ve rektörün atanması ilgili mütevelli heyet
-tarafından yapılır.
+3/10/2016-KHK-676/85 md.)** Devlet üniversitelerinde rektör
+Yükseköğretim Kurulu tarafından önerilecek, profesör olarak en az üç yıl
+görev yapmış üç aday arasından Cumhurbaşkanınca atanır. Bir aylık sürede
+önerilenlerden birisinin atanmaması ve Yükseköğretim Kurulu tarafından,
+iki hafta içinde yeni adaylar gösterilmemesi halinde Cumhurbaşkanınca
+doğrudan atama yapılır. Rektörün görev süresi 4 yıldır. Süresi sona
+erenler aynı yöntemle yeniden atanabilirler. Ancak aynı Devlet
+üniversitesinde iki dönemden fazla rektörlük yapılamaz. Rektör,
+üniversite veya yüksek teknoloji enstitüsü tüzel kişiliğini temsil eder.
+Vakıflarca kurulan üniversitelerde rektör, mütevelli heyetinin
+Yükseköğretim Kuruluna teklifi ve Yükseköğretim Kurulunun olumlu görüşü
+üzerine Cumhurbaşkanı tarafından atanır.
 
 Rektörlerin yaş haddi 67 yaştır. Ancak rektör olarak atanmış olanlarda
 görev süreleri bitinceye kadar yaş haddi aranmaz.
 
-Rektör, çalışmalarında kendisine yardım etmek üzere, üniversitenin
-aylıklı profesörleri arasından en çok üç kişiyi rektör yardımcısı olarak
-seçer. **(Ek: 2 /1/1990 - KHK - 398/1 md.; Aynen Kabul: 7/3/1990 -
-3614/1 md.)** Ancak, merkezi açıköğretim yapmakla görevli
-üniversitelerde, gerekli hallerde rektör tarafından beş rektör
-yardımcısı seçilebilir.
+**(Değişik birinci cümle: 20/8/2016-6745/14 md.)** Rektör,
+çalışmalarında kendisine yardım etmek üzere, üniversitenin aylıklı
+profesörleri arasından en çok üç kişiyi kendi rektörlük görev süresiyle
+sınırlı olmak kaydıyla rektör yardımcısı olarak seçer. **(Ek: 2 /1/1990
+- KHK - 398/1 md.; Aynen Kabul: 7/3/1990 - 3614/1 md.)** Ancak, merkezi
+açıköğretim yapmakla görevli üniversitelerde, gerekli hallerde rektör
+tarafından beş rektör yardımcısı seçilebilir.
 
-Rektör yardımcıları, rektör tarafından beş yıl için atanır.
+Rektör yardımcıları, rektör tarafından (…) ^(1)^ atanır. ^(1)^
 
 Rektör, görevi başında olmadığı zaman yardımcılarından birisini yerine
 vekil bırakır. Rektör görevi başından iki haftadan fazla uzaklaştığında
 Yükseköğretim Kuruluna bilgi verir. Göreve vekalet altı aydan fazla
 sürerse yeni bir rektör atanır.
+
+–––––––––––––––––
+
+*(1) 20/8/2016 tarihli ve 6745 sayılı Kanunun 14 üncü maddesiyle, bu
+paragrafta yer alan “beş yıl için” ibaresi madde metninden
+çıkarılmıştır.*
 
 5357
 
@@ -1555,19 +1565,19 @@ ile eklenmiştir.*
 
 *Yabancı uyruklu öğretim elemanları: *
 
-**Madde 34 -** Yükseköğretim kurumlarında, sözleşme ile
-görevlendirilecek yabancı uyruklu öğretim elemanları, ilgili fakülte,
-enstitü veya yüksekokul yönetim kurulunun önerisi ve üniversite yönetim
-kurulunun uygun görüşü üzerine rektör tarafından atanırlar. Bunlar,
-öğretim görevleri bakımından, bu kanunda aylıklı öğretim elemanları için
+**Madde 34 -** Yükseköğretim kurumlarında,sözleşme ile görevlendirilecek
+yabancı uyruklu öğretim elemanları, ilgili fakülte, enstitü veya
+yüksekokul yönetim kurulunun önerisi ve üniversite yönetim kurulunun
+uygun görüşü üzerine rektör tarafından atanırlar. Bunlar, öğretim
+görevleri bakımından, bu kanunda aylıklı öğretim elemanları için
 konulmuş olan hükümlere tabidirler.
 
 **(Değişik: 17/8/1983 - 2880/17 md.)** Yabancı uyruklu öğretim
 elemanlarının bu şekilde atanmaları veya görevlendirilmeleri, 657 sayılı
 Devlet Memurları Kanununun Bakanlar Kurulu kararını gerektiren
-hükümlerine tabi olmadan, Yükseköğretim Kurulunca İçişleri Bakanlığına
-bildirilir ve iki ay içinde alınacak olumlu görüş neticesinde ilgili
-üniversitesi ile sözleşmesi yapılır.
+hükümlerine tabi olmadan, Yükseköğretim Kurulunca verilecek ön izni
+müteakip Çalışma ve Sosyal Güvenlik Bakanlığından alınacak çalışma izni
+neticesinde ilgili üniversitesi ile sözleşmesi yapılır. ^(1)^
 
 *Öğretim elemanı yetiştirme: *
 
@@ -1612,6 +1622,15 @@ bedel tahsil etmesi halinde 58 inci madde hükümleri uygulanır.
 olmaksızın ve ihtiyaç bulunması halinde görevli olduğu üniversitede
 haftada asgari on saat ders vermekle yükümlüdür. Öğretim görevlisi ve
 okutmanlar ise, haftada asgari on iki saat ders vermekle yükümlüdür.
+
+–––––––––––––
+
+*(1) 28/7/2016 tarihli ve 6735 sayılı Kanunun 27 nci maddesiyle, bu
+fıkrada yer alan “Yükseköğretim Kurulunca İçişleri Bakanlığına
+bildirilir ve iki ay içinde alınacak olumlu görüş neticesinde” ibaresi
+“Yükseköğretim Kurulunca verilecek ön izni müteakip Çalışma ve Sosyal
+Güvenlik Bakanlığından alınacak çalışma izni neticesinde” şeklinde
+değiştirilmiştir.*
 
 5366
 
@@ -2239,13 +2258,13 @@ c\. Ortaöğretim kurumlarını birincilik ile bitiren adaylar için mevcut
 kontenjanların yanı sıra Yükseköğretim Kurulu kararı ile ayrı
 kontenjanlar belirlenebilir.
 
-d\. Mesleki ve teknik ortaöğretim kurumlarından mezun olan öğrenciler,
-istedikleri takdirde bitirdikleri programın devamı niteliğinde veya
-bunlara en yakın olan mesleki ve teknik önlisans yükseköğretim
-programlarına sınavsız olarak yerleştirilebilir. Bu öğrencilerin
-yerleştirilmesine ilişkin usul ve esaslar Milli Eğitim Bakanlığının
-görüşü üzerine Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle
-belirlenir.
+d\. **(Değişik: 2/12/2016 - 6764/25 md.)** Bir mesleğe yönelik program
+uygulayan liselerin mezunlarının, Yükseköğretim Kurulu tarafından
+belirlenecek aynı alanda bir önlisans programına yerleşmelerinde,
+merkezi sınavlardan almış oldukları puanlara bu fıkranın (b) bendine
+göre hesaplanan ortaöğretim başarı puanı ve bu puanın Yükseköğretim
+Kurulu tarafından tespit edilecek katsayı ile çarpımı sonucu bulunacak
+puan eklenir.
 
 e\. Önlisans mezunları için, ilişkili lisans programlarında belirlenmiş
 kontenjanın yüzde onunu geçmeyecek şekilde Yükseköğretim Kurulu kararı
@@ -2271,7 +2290,14 @@ sanat ve spor dallarında üstün kabiliyetli olduğu tespit edilen
 öğrenciler ile Türkiye Bilimsel ve Teknolojik Araştırma Kurumunca tespit
 edilen uluslararası bilimsel yarışmalarda ödül kazanan öğrenciler,
 ilgili dallarda eğitim yapmak kaydıyla yükseköğretim kurumlarına
-yerleştirilebilir.
+yerleştirilebilir. **(Ek cümle: 16/2/2016-6676/4 md.)** Türkiye Bilimsel
+ve Teknolojik Araştırma Kurumunca tespit edilen ve Yükseköğretim Kurulu
+tarafından kabul edilen ulusal ve uluslararası düzeyde düzenlenen
+bilimsel yarışmalarda ilk üçe giren öğrencilerin ilgili dallardaki
+lisans programlarına yerleştirilmelerinde, merkezi sınavlardan almış
+oldukları puanlara, bu maddenin (b) bendine göre hesaplanan ortaöğretim
+başarı puanı ve bu puanın Yükseköğretim Kurulu tarafından tespit
+edilecek katsayı ile çarpımı sonucu bulunacak puan eklenir.
 
 *Cari hizmet maliyetinin hesaplanması, öğrenci katkı payları ve öğrenim
 ücretleri: ^(1**)**^*
@@ -2550,11 +2576,11 @@ daire başkanları, müdürler, hukuk müşavirleri ve uzmanlar, yükseköğreti
 üst kuruluşlarında ilgili kuruluşların görüşü alınarak Yükseköğretim Üst
 Kuruluşunun Başkanı; üniversitelerde ise yönetim kurulunun görüşü
 alınarak rektör tarafından atanır. Fakülte, enstitü ve yüksekokul
-sekreterinin atanması, ilgili dekan ve müdürün önerisi üzerine rektör
+sekreterinin atanması, ilgilidekan ve müdürün önerisi üzerine rektör
 tarafından yapılır.
 
 b\. Üst kuruluşların ve üniversitelerin genel sekreterlerinin üniversite
-lisans diplomasına, fakülte sekreterleri ile enstitü ve yüksekokul
+lisans diplomasına,fakülte sekreterleri ile enstitü ve yüksekokul
 sekreterlerinin yükseköğretim diplomasına sahip olmaları şarttır.
 
 c\. Memurların atanmaları; fakültelerde ve bağlı kuruluşlarda dekanların,
@@ -2566,7 +2592,7 @@ d\. Yardımcı hizmetler sınıfı personeli, yükseköğretim üst
 kuruluşlarında, rektörlükte ve rektörlüğe bağlı kuruluşlarda genel
 sekreterin önerisi üzerine başkan veya rektör, fakültelerde ve
 fakültelere bağlı kuruluşlarda fakülte sekreterinin önerisi üzerine
-dekanlar, enstitü ve yüksekokullarda sekreterin önerisi üzerine müdür
+dekanlar,enstitü ve yüksekokullarda sekreterin önerisi üzerine müdür
 tarafından atanırlar.
 
 e\. Yükseköğretim üst kuruluşlarının ve üniversitelerin, yönetim
@@ -2588,31 +2614,35 @@ DOKUZUNCU BÖLÜM
 
 **Madde 53 – **
 
-a\. Yükseköğretim Kurul Başkanı Yükseköğretim Kurulu ile üniversite
-rektörlerinin, rektör üniversitenin, dekan fakültenin, enstitü ve
-yüksekokul müdürleri enstitü ve yüksekokulların, bu birimlerin genel
-sekreter veya sekreterleri de sekreterlik personelinin disiplin
-amirleridir. Üniversite ve bağlı birimlerinin yönetim kurulları aynı
-zamanda disiplin kurulu olarak görev yaparlar. Disiplin kurullarında
-profesörlerle ilgili hususların görüşülmesinde doçent ve yardımcı
-doçentler, doçentlerle ilgili hususların görüşülmesinde de yardımcı
-doçentler disiplin kurullarına alınmazlar.
+a\. **(Değişik: 2/12/2016 - 6764/26 md.)** Yükseköğretim Kurulu Başkanı
+üst kuruluşlar, rektörler ve bağımsız vakıf meslek yüksekokulu
+müdürlerinin ve 53/Ç maddesinin birinci fıkrasının (e) bendinde yer alan
+fiillerle ilgili olarak öğretim elemanlarının; rektör, üniversitenin;
+bağımsız vakıf meslek yüksekokulu müdürü, bağımsız vakıf meslek
+yüksekokulunun; dekan, fakültenin; enstitü ve yüksekokul müdürleri,
+enstitü ve yüksekokulların; kadrosu bulunan uygulama araştırma merkezi
+ile bağımsız enstitü müdürleri, uygulama araştırma merkezi ile
+enstitünün; bu birimlerin genel sekreter veya sekreterleri de bağlı
+birim personelinin disiplin amirleridir.
 
-b\. **(Değişik: 1/3/2014 - 6528/7 md.)** Öğretim elemanları, memur ve
-diğer personele uygulanabilecek disiplin cezaları uyarma, kınama,
-yönetim görevinden ayırma, aylıktan kesme, kademe ilerlemesinin
-durdurulması, üniversite öğretim mesleğinden çıkarma ve kamu görevinden
-çıkarma cezalarıdır. **(İptal ikinci cümle: Anayasa Mahkemesi’nin
-14/1/2015 tarihli ve E:2014/100, K:2015/6 sayılı Kararı ile.)(…)**
-**^(2)^**
+b\. **(Değişik: 2/12/2016 - 6764/26 md.)** Devlet ve vakıf yükseköğretim
+kurumlarının öğretim elemanları, memur ve diğer personeline
+uygulanabilecek disiplin cezaları uyarma, kınama, aylıktan veya ücretten
+kesme, kademe ilerlemesinin durdurulması veya birden fazla ücretten
+kesme, üniversite öğretim mesleğinden çıkarma ve kamu görevinden çıkarma
+cezalarıdır.
 
-c\. **(Değişik: 14/4/1982 - 2653/3 md.)** Ceza soruşturması usulü:
+\(1) 657 sayılı Kanundaki fiillere ilave olarak bu Kanun kapsamındaki
+kamu görevlileri için uyarma cezasını gerektiren fiiller şunlardır:
 
-Yükseköğretim üst kuruluşları başkan ve üyeleri ile yükseköğretim
-kurumları yöneticilerinin, kadrolu ve sözleşmeli öğretim elemanlarının
-ve bu kuruluş ve kurumların 657 sayılı Devlet Memurları Kanununa tabi
-memurlarının görevleri dolayısıyla ya da görevlerini yaptıkları sırada
-işledikleri ileri sürülen suçlar hakkında aşağıdaki hükümler uygulanır:
+a\) Yetkili makamların bilgi ve belge istemini mazeretsiz olarak
+zamanında yerine getirmemek.
+
+b\) Maiyetindeki elemanların yetiştirilmesinde özen göstermemek.
+
+c\) Destek alınarak yürütülen araştırmalar sonucu yapılan yayınlarda
+destek veren kişi, kurum veya kuruluşlar ile bunların katkılarını
+belirtmemek.
 
 ––––––––––––––
 
@@ -2620,8 +2650,204 @@ işledikleri ileri sürülen suçlar hakkında aşağıdaki hükümler uygulanı
 maddenin birinci fıkrasının (a) bendinde yer alan “Öğrenci Seçme ve
 Yerleştirme Merkezi Başkanı,” ibaresi madde metninden çıkarılmıştır.*
 
-*(2) Söz konusu İptal Kararı Resmi Gazetede yayımlandığı 7/4/2015
-tarihinden başlayarak dokuz ay sonra yürürlüğe girmiştir.*
+5374-1
+
+\(2) 657 sayılı Kanundaki fiillere ilave olarak bu Kanun kapsamındaki
+kamu görevlileri için kınama cezasını gerektiren fiiller şunlardır:
+
+a\) Yetkili makamların görevle ilgili bilgi ve belge istemini mazeretsiz
+olarak zamanında yerine getirmemek.
+
+b\) Resmi olarak ders vermekle yükümlü bulunulan öğrencilere özel ders
+vermek.
+
+c\) Resmi ilan, afiş, program, yazı ve benzeri dokümanları koparmak,
+yırtmak veya tahrif etmek.
+
+d\) Üniversite veya bağlı birimlerin sınırları içinde herhangi bir yeri
+kurumun izni olmadan hizmetin amaçları dışında kullanmak veya
+kullandırmak.
+
+e\) Yayınlarında hasta haklarına riayet etmemek.
+
+f\) İnsanlarla ilgili biyomedikal araştırmalarda veya diğer klinik
+araştırmalarda ilgili mevzuat hükümlerine aykırı davranmak.
+
+g\) İncelemek üzere görevlendirildiği bir eserde yer alan bilgileri eser
+sahibinin açık izni olmaksızın yayımlanmadan önce başkalarıyla
+paylaşmak.
+
+h\) Bilimsel bir çalışma kapsamında yapılan anket ve tutum
+araştırmalarında katılımcıların açık rızasını almadan ya da araştırma
+bir kurumda yapılacaksa ayrıca kurumun iznini almadan elde edilen
+verileri yayımlamak.
+
+ı) Araştırma ve deneylerde, çalışmalara başlamadan önce alınması gereken
+izinleri yetkili birimlerden yazılı olarak almamak.
+
+j\) Araştırma ve deneylerde mevzuatın veya Türkiye’nin taraf olduğu
+uluslararası sözleşmelerin ilgili araştırma ve deneylere dair
+hükümlerine aykırı çalışmalarda bulunmak.
+
+k\) Araştırmacılar veya yetkililerce, yapılan bilimsel araştırma ile
+ilgili olarak muhtemel zararlı uygulamalar konusunda ilgilileri
+bilgilendirme ve uyarma yükümlülüğüne uymamak.
+
+l\) Akademik atama ve yükseltmelere ilişkin başvurularda bilimsel
+araştırma ve yayınlara ilişkin yanlış veya yanıltıcı beyanda bulunmak.
+
+m\) İçeriği itibarıyla şiddet, terör ve nefret amaçlı bildiri, afiş,
+pankart, bant ve benzerlerini basmak, çoğaltmak, dağıtmak veya bunları
+kurumların herhangi bir yerine asmak veya teşhir etmek.
+
+n\) Yükseköğretim kurumları içinde siyasi parti faaliyetinde bulunmak
+veya siyasi parti propagandası yapmak.
+
+\(3) Aylıktan veya ücretten kesme: Devlet yükseköğretim kurumlarında brüt
+aylıktan; vakıf yükseköğretim kurumlarında brüt ücretten bir defaya
+mahsus olmak üzere 1/30 ila 1/8 arasında kesinti yapılmasıdır. 657
+sayılı Kanundaki fiillere ilave olarak bu Kanun kapsamındaki kamu
+görevlileri için aylıktan veya ücretten kesme cezasını gerektiren
+fiiller şunlardır:
+
+a\) Yükseköğretim üst kuruluşları ile yükseköğretim kurumlarının
+organlarında yapılan konuşma ve alınan kararları, yetkili olmadığı halde
+organ veya üyelerinin aleyhinde davranışlara yol açmak maksadıyla dışarı
+yaymak.
+
+b\) Kuruma ait araç, gereç, belge ve benzeri eşyayı görevin sona ermesine
+ve kurumca yazı ile istenmesine rağmen belirlenen süre içinde geri
+vermemek.
+
+c\) Araştırma ve deneylerde, hayvanlara ve ekolojik dengeye zarar vermek.
+
+d\) Bilimsel çalışmalarda, diğer kişi ve kurumlardan temin edilen veri ve
+bilgileri, izin verildiği ölçüde ve şekilde kullanmamak, bu bilgilerin
+gizliliğine riayet etmemek ve korunmasını sağlamamak.
+
+e\) Bilimsel araştırma için sağlanan veya ayrılan kaynakları, mekânları,
+imkânları ve cihazları amaç dışı kullanmak.
+
+f\) Mükerrer yayınlarını akademik atama ve yükselmelerde ayrı yayınlar
+olarak sunmak.
+
+g\) Bir araştırmanın sonuçlarını, araştırmanın bütünlüğünü bozacak
+şekilde ve uygun olmayan biçimde parçalara ayırıp birden fazla sayıda
+yayımlayarak bu yayınları akademik atama ve yükselmelerde ayrı yayınlar
+olarak sunmak.
+
+5374-2
+
+h\) Aktif katkısı olmayan kişileri yazarlar arasına dâhil etmek veya olan
+kişileri dâhil etmemek, yazar sıralamasını gerekçesiz ve uygun olmayan
+bir biçimde değiştirmek, aktif katkısı olanların isimlerini sonraki
+baskılarda eserden çıkartmak, aktif katkısı olmadığı hâlde nüfuzunu
+kullanarak ismini yazarlar arasına dâhil ettirmek.
+
+ı) Dayanaksız, yersiz ve kasıtlı olarak suç isnadında bulunmak.
+
+j\) Hukuka aykırı olarak kurumun bilişim sisteminin bütününe veya bir
+kısmına kasten girmek veya orada kalmak.
+
+\(4) Kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme:
+Devlet yükseköğretim kurumlarında bulunulan kademedeki ilerlemenin,
+fiilin ağırlık derecesine göre bir ila üç yıl arasında durdurulması;
+vakıf yükseköğretim kurumlarında ise fiilin ağırlık derecesine göre üç
+ila altı ay süreyle brüt ücretten 1/4 ila 1/2 arasında kesintiye
+gidilmesidir. 657 sayılı Kanundaki fiillere ilave olarak bu Kanun
+kapsamındaki kamu görevlileri için kademe ilerlemesinin durdurulması
+cezasını gerektiren fiiller şunlardır:
+
+a\) Hizmet içinde resmi bir belgeyi tahrif etmek, yok etmek, gizlemek
+veya sahte olarak düzenlemek, sahte belgeyi bilerek kullanmak,
+kullandırmak.
+
+b\) Görevi sebebiyle veya görevi sırasında doğrudan veya dolaylı olarak
+her ne ad altında olursa olsun menfaat sağlamak, iş sahiplerinden veya
+öğrencilerden borç para istemek veya almak.
+
+c\) Kamu hizmetlerinin yürütülmesini engellemek, boykot ve işgal
+eyleminde bulunmak.
+
+d\) Ders, seminer, konferans, laboratuvar, grafik çalışma ve sınav gibi
+öğretim çalışmalarının yapılmasına engel olmak; görevlileri, öğrencileri
+eğitim-öğretim alanı dışına çıkartmak; görev yapılmasına engel olmak;
+öğrencileri bu tür davranışlara teşvik etmek veya zorlamak ya da bu
+maksatla yapılacak hareketlere iştirak etmek.
+
+e\) Basın-yayın veya bilişim sistemlerini kullanarak amiri, iş
+arkadaşları, personeli, hizmetten yararlananlar veya öğrencileri
+hakkında gerçeğe aykırı açıklamada veya haksız isnatta bulunmak veya
+rızaları olmaksızın özel hayatlarıyla ilgili açıklama yapmak.
+
+f\) İnsanlarla ilgili biyomedikal araştırmalarda ve diğer klinik
+araştırmalarda ilgili mevzuat hükümlerine aykırı davranmak suretiyle
+kişilere zarar vermek.
+
+g\) Bilimsel araştırmalarda gerçekte var olmayan veya tahrif edilmiş
+verileri kullanmak, araştırma kayıtları veya elde edilen verileri tahrif
+etmek, araştırmada kullanılmayan cihaz veya materyalleri kullanılmış
+gibi göstermek, destek alınan kişi ve kuruluşların çıkarları
+doğrultusunda araştırma sonuçlarını tahrif etmek veya şekillendirmek.
+
+h\) Görevin yerine getirilmesinde dil, ırk, renk, cinsiyet, siyasi
+düşünce, felsefi inanç, din ve mezhep ayrımı yapmak, kişilerin yarar
+veya zararını hedef tutan davranışlarda bulunmak.
+
+ı) Kanunların izin verdiği haller dışında siyasi partilere üye olmak.
+
+\(5) Üniversite öğretim mesleğinden çıkarma: Akademik bir kadroya bir
+daha atanmamak üzere üniversite öğretim mesleğinden çıkarmadır.
+Üniversite öğretim mesleğinden çıkarma cezasını gerektiren fiil,
+başkalarının özgün fikirlerini, metotlarını, verilerini veya eserlerini
+bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi
+eseri gibi göstermektir.
+
+\(6) Kamu görevinden çıkarma: Kamu kurum ve kuruluşları ile vakıf
+yükseköğretim kurumlarında öğretim elemanı ve memur olarak bir daha
+atanmamak üzere kamu görevinden çıkarmadır. 657 sayılı Kanundaki
+fiillere ilave olarak bu Kanun kapsamındaki kamu görevlileri için kamu
+görevinden çıkarma cezasını gerektiren fiiller şunlardır:
+
+a\) Terör niteliğinde eylemlerde bulunmak veya bu eylemleri desteklemek.
+
+b\) Amire, iş arkadaşlarına, personeline, hizmetten yararlananlara veya
+öğrencilerine fiili saldırıda veya cinsel tacizde bulunmak.
+
+c\) Kamu hizmeti veya öğretim elemanı sıfatı ile bağdaşmayacak nitelik ve
+derecede yüz kızartıcı ve utanç verici hareketlerde bulunmak.
+
+5374-3
+
+d\) Uyuşturucu veya uyuşturucu olarak kabul edilen diğer uyarıcı
+maddeleri kullanmak, bulundurmak, başkalarına vermek, kullanılmasını
+özendirmek, satmak, imal etmek.
+
+e\) Hukuka aykırı olarak kurumun verilerini elde etmek, kaydetmek,
+kullanmak, depolamak, dağıtmak, değiştirmek veya yok etmek.
+
+f\) Kurumun bilişim sistemlerinin işleyişini kasten engellemek veya
+bozmak.
+
+c\. **(Değişik: 14/4/1982 - 2653/3 md.)** Ceza soruşturması usulü: ^(1)^
+
+Yükseköğretim üst kuruluşları başkan ve üyeleri ile yükseköğretim
+kurumları yöneticilerinin, kadrolu ve sözleşmeli öğretim elemanlarının
+ve bu kuruluş ve kurumların 657 sayılı Devlet Memurları Kanununa tabi
+memurlarının görevleri dolayısıyla ya da görevlerini yaptıkları sırada
+işledikleri ileri sürülen suçlar hakkında yetkili makamlarca inceleme
+başlatılabilir, inceleme sonucunda soruşturma açılmasına karar verilmesi
+ya da doğrudan soruşturma başlatılması hâlinde aşağıdaki hükümler
+uygulanır: ^(1)^
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 2/12/2016 tarihli ve 6764 sayılı Kanunun 26 ncı maddesiyle bu
+fıkranın birinci paragrafında yer alan “ileri sürülen suçlar hakkında”
+ibaresi “ileri sürülen suçlar hakkında yetkili makamlarca inceleme
+başlatılabilir, inceleme sonucunda soruşturma açılmasına karar verilmesi
+ya da doğrudan soruşturma başlatılması hâlinde” şeklinde
+değiştirilmiştir.*
 
 5375
 
@@ -2643,9 +2869,9 @@ daha üst akademik unvana sahip olmaları şarttır.
 a\) Yükseköğretim Kurulu Başkan ve üyeleri ile Yükseköğretim Denetleme
 Kurulu Başkan ve üyeleri hakkında Danıştayın 2 nci Dairesi,
 
-b\) Üniversite rektörleri, rektör yardımcıları ile üst kuruluş genel
-sekreterleri hakkında, Yükseköğretim Kurulu üyelerinden teşkil edilecek
-üç kişilik kurul,
+b\) Devlet ve vakıf yükseköğretim kurumu rektörleri, rektör yardımcıları
+ile üst kuruluş genel sekreterleri hakkında, Yükseköğretim Kurulu
+üyelerinden teşkil edilecek üç kişilik kurul, ^(1)^
 
 c\) Üniversite, fakülte, enstitü ve yüksekokul yönetim kurulu üyeleri,
 fakülte dekanları ve dekan yardımcıları, enstitü ve yüksekokul müdürleri
@@ -2688,6 +2914,12 @@ mahkemelerine aittir.
 soruşturma usulü ve yetkili yargılama mercii görev itibariyle üst
 dereceliye göre tayin olunur.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 2/12/2016 tarihli ve 6764 sayılı Kanunun 26 ncı maddesiyle bu
+bentte yer alan “üniversite” ibaresi “Devlet ve vakıf yükseköğretim
+kurumu” şeklinde değiştirilmiştir.*
+
 5376
 
 \(6) Yükseköğretim Kurulu Başkanı ve rektörlerin 1609 sayılı Bazı
@@ -2719,6 +2951,389 @@ Savcısı doğrudan yapar.
 
 \(8) Bu Kanunda yer almamış hususlarda 4 Şubat 1329 tarihli Memurin
 Muhakematı Hakkında Kanun hükümleri uygulanır.
+
+Disiplin soruşturması ve savunma hakkı:
+
+**MADDE 53/A-** **(Ek: 2/12/2016 - 6764/27 md.)**
+
+Disiplin soruşturmasında uyulacak esaslar şunlardır:
+
+a\) Disiplin cezası verilmesini gerektiren bir fiilin işlendiğini öğrenen
+disiplin amiri yazılı olarak disiplin soruşturması başlatır. Üst
+disiplin amirinin soruşturma açtığı veya açtırdığı disiplin olayında alt
+disiplin amiri ayrıca soruşturma yapamaz veya yaptıramaz. Daha önce
+açılmış soruşturma varsa bunlar üst amirin açtığı veya açtırdığı
+soruşturma ile birleştirilir.
+
+b\) Bilimsel araştırma ve yayın etiğine ilişkin disiplin cezası
+verilmesini gerektiren fiiller açısından soruşturma başlatılmadan önce
+bilimsel araştırma ve yayın etiği kurullarınca inceleme yapılması
+zorunludur.
+
+c\) Disiplin amiri soruşturmayı kendisi yapabileceği gibi soruşturmayı
+yapmak üzere birim içerisinden soruşturmacı veya komisyon
+görevlendirebilir. Ancak zorunlu hallerde rektörlük aracılığıyla diğer
+birimlerden soruşturmacı talep edilebilir.
+
+d\) Soruşturmacının görev ve unvanı, soruşturulanın görev ve unvanının
+üstünde veya onunla aynı düzeyde olmalıdır.
+
+e\) Fiilin ast ile üst tarafından birlikte işlenmesi hâlinde soruşturma
+usulü ve disiplin cezası verme yetkisi üste göre belirlenir.
+
+f\) Soruşturulanın disiplin cezası verilmesini gerektiren fiili işlediği
+ve disiplin soruşturmasının başlatıldığı tarihteki görev veya unvanının
+farklı olması hâlinde disiplin soruşturması, üst görev veya unvanı esas
+alınarak yürütülür. Disiplin amirinin belirlenmesi ve uygulanacak diğer
+disiplin hükümleri, görev yapılan kurumun tabi olduğu mevzuata göre
+belirlenir.
+
+5376-1
+
+g\) Soruşturmacı, disiplin soruşturmasıyla ilgili bilgi ve belgeleri
+toplama, ifade alma, tanık dinleme, bilirkişiye başvurma, keşif yapma,
+inceleme yapma ve ilgili makamlarla yazışma yetkisini haizdir.
+
+h\) Soruşturmacının, görevlendirme kapsamında talep ettiği bilgi ve
+belgeler gecikmeksizin kendisine verilir.
+
+ı) Soruşturmacı, görevlendirildiği konuda soruşturma yürütür; soruşturma
+sırasında disiplin soruşturmasına konu olabilecek başka fiillerin ortaya
+çıkması durumunda bunları gecikmeksizin disiplin amirine bildirir.
+
+j\) Soruşturma işlemleri bir tutanakla tespit olunur.
+
+k\) Soruşturmanın gizliliği esastır.
+
+l\) Soruşturma, görevlendirme yazısının tebliğ tarihinden itibaren iki ay
+içinde tamamlanır. Soruşturma bu süre içinde tamamlanamaz ise
+soruşturmacı gerekçeli olarak ek süre talep edebilir, disiplin amiri
+gerekçeyi değerlendirerek ve zamanaşımı sürelerini dikkate alarak karar
+verir.
+
+m\) Fiili işleyenin emeklilik veya başka nedenlerle görevinin sona
+ermesi, hakkında soruşturma açılmasına ve soruşturmanın devamına engel
+olmaz. Bu durumda soruşturma sonunda verilen disiplin cezası, özlük
+dosyasında saklanır. Aylıktan veya ücretten kesme ve kademe
+ilerlemesinin durdurulması veya birden fazla ücretten kesme cezaları
+ilgilinin kamu görevine dönmesi ya da bir vakıf yükseköğretim kurumunda
+göreve başlaması halinde uygulanır.
+
+n\) Bir fiilden dolayı ilgili hakkında ceza soruşturması veya
+kovuşturması yapılıyor olması, aynı fiilden dolayı disiplin soruşturması
+yapılmasına, ceza verilmesine ve bu cezanın yerine getirilmesine engel
+değildir. Gerektiğinde ceza kovuşturması bekletici mesele yapılabilir.
+Bu durumda disiplin soruşturmasına ilişkin zamanaşımı süreleri durur.
+
+o\) Bir fiilin diğer kanunlar uyarınca idari yaptırıma bağlanmış olması,
+aynı fiile bu Kanun kapsamında disiplin cezası verilmesine engel teşkil
+etmez.
+
+Savunma hakkı kapsamında gözetilecek hususlar şunlardır:
+
+a\) Soruşturulana, iddialar hakkında savunma imkânı tanınmadan disiplin
+cezası verilemez. Soruşturmayı yapanın yedi günden az olmamak üzere
+verdiği süre içinde veya belirtilen tarihte geçerli bir mazereti
+olmaksızın savunmasını yapmayan, savunma hakkından vazgeçmiş sayılır.
+
+b\) Savunmaya davet yazısında hakkında disiplin soruşturması açılan
+fiilin neden ibaret bulunduğu, savunmasını belirtilen sürede yapmadığı
+takdirde savunmasından vazgeçmiş sayılacağı bildirilir.
+
+c\) Disiplin cezası vermeye yetkili makamlar gerek görürse, isnat edilen
+fiil ve soruşturma raporunda önerilen disiplin cezasını da belirtmek
+suretiyle, bu maddedeki esaslar çerçevesinde (a) ve (b) bentlerindeki
+usule göre tekrar savunma isteyebilir.
+
+Hakkında üniversite öğretim mesleğinden çıkarma ve kamu görevinden
+çıkarma cezası istenenler soruşturma evrakını inceleme, tanık dinletme,
+disiplin kurulunda sözlü veya yazılı olarak kendisi veya vekili
+vasıtasıyla savunma yapma hakkına sahiptir.
+
+5376-2
+
+Görevden uzaklaştırma:
+
+**MADDE 53/B-** **(Ek: 2/12/2016 - 6764/28 md.)**
+
+Görevden uzaklaştırma, Devlet veya vakıf yükseköğretim kurumlarında
+yürütülen kamu hizmetinin gerektirdiği hallerde, görevi başında
+kalmasında sakınca görülen üst kuruluşlar ile yükseköğretim kurumu
+yöneticileri, öğretim elemanları, memurlar ve diğer personel hakkında
+alınan ihtiyati bir tedbirdir. Görevden uzaklaştırma tedbiri disiplin
+veya ceza soruşturmasının herhangi bir safhasında üç ay süreyle
+alınabilir. Soruşturmayı yürütenler görevden uzaklaştırmayı teklif
+edebilirler. Bu sürenin bitiminde tedbir kararının alınmasına ilişkin
+sebeplerin devam etmesi halinde tedbir her defasında üç ay uzatılabilir.
+
+ Görevden uzaklaştırmaya Yükseköğretim Üst Kuruluş Başkanları ile Devlet
+yükseköğretim kurumlarında atamaya yetkili amirler, vakıf yükseköğretim
+kurumlarında rektörler ve bağımsız vakıf meslek yüksekokullarında
+müdürler yetkilidir.
+
+Rektörlerin, bağımsız vakıf meslek yüksekokulu müdürlerinin ve
+dekanların görevden uzaklaştırılması kararı disiplin amirinin teklifi
+üzerine Yükseköğretim Genel Kurulu tarafından verilir. Görevden
+uzaklaştırma kararları atamaya yetkili amirlere bildirilir.
+
+Görevinden uzaklaştırılanlar hakkında görevden uzaklaştırmayı izleyen on
+işgünü içinde soruşturmaya başlanması şarttır.
+
+Görevden uzaklaştırma işleminden sonra süresi içinde soruşturmaya
+başlamayan, görevden uzaklaştırma tedbirinin kaldırılmasının zorunlu
+olduğu durumlarda bu tedbiri kaldırmayan veya görevden uzaklaştırma
+işlemini keyfi olarak veya garaz ya da kini dolayısı ile yaptığı,
+yaptırılan soruşturma sonunda anlaşılan yetkililer, hukuki, mali ve
+cezai sorumluluğa tabidirler.
+
+Görevden uzaklaştırılanlar, kanunların öngördüğü sosyal hak ve
+yardımlardan faydalanmaya devam ederler. Ancak görevden uzaklaştırma
+süresi içinde kendilerine aylıklarının veya ücretlerinin üçte ikisi
+ödenir.
+
+Göreve tekrar başlatılmanın zorunlu olduğu durumlarda, bunların
+aylıklarının veya ücretlerinin kesilmiş olan üçte biri kendilerine
+ödenir ve Devlet yükseköğretim kurumlarında çalışanlar bakımından
+görevden uzakta geçirdikleri süre, derecelerindeki kademe ilerlemesinde
+ve bu sürenin dereceye yükselmesi için gerekli en az bekleme süresini
+aşan kısmı, üst dereceye yükselmeleri halinde, bu derecede kademe
+ilerlemesi yapılmak ve akademik yükselme için gerekli bekleme süresinden
+sayılmak suretiyle değerlendirilir.
+
+Soruşturma sonunda kamu görevinden çıkarma cezası önerilmesi hali
+dışında görevden uzaklaştırma tedbiri, bu tedbiri alan yetkililerce
+derhal kaldırılır.
+
+Görevden uzaklaştırma tedbiri alınmakla beraber, soruşturma sonunda
+yetkili makam veya mercilerce hakkında kamu görevinden çıkarmadan başka
+bir disiplin cezası verilenler ile ceza kararından evvel haklarındaki
+disiplin soruşturması af ile kaldırılanlar, bu kararların kesinleşmesi
+üzerine veya tedbir süresinin dolması hâlinde derhal göreve iade
+edilirler.
+
+Kişinin görevi başında kalmasının, soruşturmanın devamına engel olmadığı
+hallerde görevden uzaklaştırma tedbiri süresi dolmadan da
+kaldırılabilir.
+
+5376-3
+
+Zamanaşımı:
+
+**MADDE 53/C-** **(Ek: 2/12/2016 - 6764/29 md.)**
+
+Disiplin cezası verilmesini gerektiren fiil ve hallerin işlendiğinin
+öğrenildiği tarihten itibaren;
+
+a\) Uyarma, kınama, aylıktan veya ücretten kesme ve kademe ilerlemesinin
+durdurulması veya birden fazla ücretten kesme cezalarında bir ay içinde,
+
+b\) Üniversite öğretim mesleğinden çıkarma ve kamu görevinden çıkarma
+cezasında altı ay içinde,
+
+disiplin soruşturmasına başlanmadığı takdirde disiplin soruşturması
+açılamaz.
+
+Disiplin cezası verilmesini gerektiren fiillerin işlendiği tarihten
+itibaren iki yıl, üniversite öğretim mesleğinden çıkarma cezasını
+gerektiren fiil açısından altı yıl geçmiş ise disiplin cezası verilemez.
+      
+
+Bilimsel bir eserin akademik atama ve terfilerde kullanılması ya da
+kısmen veya tamamen yeniden yayımlanması hâlinde ikinci fıkrada
+belirtilen zamanaşımı süreleri yeniden işlemeye başlar.
+
+Disiplin cezasının yargı kararıyla iptal edilmesi hâlinde, kararın
+idareye ulaştığı tarihten itibaren kalan disiplin ceza zamanaşımı süresi
+içerisinde, zamanaşımı süresinin dolması veya üç aydan daha az süre
+kalması hâlinde en geç üç ay içerisinde karar gerekçesi dikkate alınarak
+yeniden disiplin cezası tesis edilebilir.
+
+Disiplin cezası verme yetkisi:
+
+**MADDE 53/Ç-** **(Ek: 2/12/2016 - 6764/30 md.)**
+
+Disiplin cezası vermeye yetkili amir ve kurullar şunlardır:
+
+a\) Uyarma ve kınama cezaları sıralı disiplin amirleri tarafından,
+rektörler ve bağımsız vakıf meslek yüksekokulu müdürleri hakkında
+Yükseköğretim Kurulu Başkanı tarafından verilir.
+
+b\) Aylıktan veya ücretten kesme ve kademe ilerlemesinin durdurulması
+veya birden fazla ücretten kesme cezaları kişinin görevli olduğu
+birimdeki disiplin kurulu kararı ile verilir.
+
+c\) Üniversite öğretim mesleğinden çıkarma ve kamu görevinden çıkarma
+cezaları atamaya yetkili amirin teklifi üzerine Yüksek Disiplin Kurulu
+kararıyla verilir.
+
+d\) Rektörler, bağımsız vakıf meslek yüksekokulu müdürleri ve dekanlar
+hakkında aylıktan veya ücretten kesme, kademe ilerlemesinin durdurulması
+veya birden fazla ücretten kesme, üniversite öğretim mesleğinden çıkarma
+ve kamu görevinden çıkarma cezaları Yüksek Disiplin Kurulu kararıyla
+verilir.
+
+e)  Aylıktan veya ücretten kesme, kademe ilerlemesinin durdurulması veya
+birden fazla ücretten kesme, üniversite öğretim mesleğinden ve kamu
+görevinden çıkarma cezaları gerektiren fiillerle ilgili olarak öğretim
+elemanları hakkında Yükseköğretim Kurulu Başkanı disiplin amiri
+sıfatıyla doğrudan soruşturma açabilir. Bu kapsamda yapılan
+soruşturmalar sonucunda verilecek cezalar Yüksek Disiplin Kurulunca
+verilir.
+
+Disiplin cezası vermeye yetkili makamlar, soruşturmada eksiklik
+olduğunun tespiti halinde eksikliklerin giderilmesi amacıyla dosyayı
+iade edebilir, soruşturmacı tarafından önerilen disiplin cezasını aynen
+verebilir, hafifletebilir veya reddedebilir. Teklif edilen cezanın
+reddedilmesi halinde ilgili disiplin amiri ya da kurulu tarafından ret
+gerekçesine uygun olarak en geç üç ay içerisinde yeni işlem tesis
+edilebilir.
+
+5376-4
+
+Disiplin cezası verme yetkisi devredilemez.
+
+Disiplin kurulları gerekli gördüğü takdirde ilgilinin özlük dosyasını ve
+her türlü evrakı incelemeye, ilgili yerlerden bilgi almaya, her türlü
+incelemeyi yaptırmaya, yeminli tanık ve bilirkişi dinlemeye veya
+niyabeten dinletmeye, keşif yapmaya veya yaptırmaya yetkilidir.
+
+Disiplin cezası verilmesinde uygulanacak temel ilkeler:
+
+**MADDE 53/D-** **(Ek: 2/12/2016 - 6764/31 md.)**
+
+Aynı fiile birden fazla disiplin cezası verilemez. Fiilin birden fazla
+disiplin suçu teşkil etmesi hâlinde bu suçlardan en ağır cezayı
+gerektiren disiplin cezası verilir.
+
+Disiplin cezası verilmesine sebep olmuş bir fiilin, cezaların özlük
+dosyasından çıkarılmasına ilişkin süre içinde tekerrüründe bir derece
+ağır ceza uygulanır. Tekerrüre esas alınacak cezanın, süresi içerisinde
+itiraz edilmemesi veya itirazın reddedilmesi suretiyle kesinleşmiş
+olması gerekir. Aynı derecede cezayı gerektiren fakat ayrı fiiller
+nedeniyle verilen disiplin cezalarının üçüncü uygulamasında bir derece
+ağır ceza verilir. Kanunla affedilmiş disiplin cezaları ile tekerrür
+nedeniyle verilen bir derece ağır cezalar tekerrüre esas alınmaz.
+
+Geçmiş hizmetleri sırasındaki çalışmaları olumlu olan veya ödül veya
+başarı belgesi alanlara verilecek disiplin cezalarında bir derece alt
+ceza uygulanabilir. Bir derece alt cezayı, asıl cezayı vermeye yetkili
+makam verir.
+
+Kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme
+cezasına bir üst ceza uygulanması gereken hallerde üst ceza kamu
+görevinden çıkarma cezasıdır. Kamu görevinden çıkarma cezasına bir alt
+ceza uygulanması gereken hallerde ise alt ceza kademe ilerlemesinin
+durdurulması veya birden fazla ücretten kesme cezasıdır.
+
+Bu Kanunda sayılan ve disiplin cezası verilmesini gerektiren fiillere
+nitelik ve ağırlıkları itibarıyla benzer fiilleri işleyenlere de hangi
+disiplin fiiline benzediği belirtilerek aynı türden disiplin cezaları
+verilir.
+
+Birinci derecenin son kademesinde bulunulması nedeniyle kademe
+ilerlemesinin durdurulması cezasının uygulanamaması halinde brüt
+aylıklarının 1/4’ü ila 1/2’si oranında aylıktan kesme cezası uygulanır.
+Tekerrürü halinde ise ilgili disiplin kurulu tarafından kamu görevinden
+çıkarma cezası verilir.
+
+Disiplin cezaları, verildikleri tarihten itibaren, aylıktan veya
+ücretten kesme cezası ile kademe ilerlemesinin durdurulması veya birden
+fazla ücretten kesme cezası ise cezanın verildiği tarihi izleyen
+aybaşında uygulanır.
+
+Disiplin cezaları üst disiplin amirine, üniversite öğretim mesleğinden
+çıkarma cezası tüm yükseköğretim kurumlarına, kamu görevinden çıkarma
+cezası ise ayrıca Devlet Personel Başkanlığına bildirilir.
+
+Aylıktan veya ücretten kesme cezası alanlar üç yıl, kademe ilerlemesinin
+durdurulması veya birden fazla ücretten kesme cezası alanlar beş yıl
+boyunca rektör, dekan, enstitü müdürü, yüksekokul müdürü, meslek
+yüksekokulu müdürü, bölüm başkanı, anabilim dalı başkanı, anasanat dalı
+başkanı, bilim dalı başkanı, sanat dalı başkanı, daire başkanı dengi ve
+üstü kadrolara atanamazlar. Söz konusu disiplin cezalarının verildiği
+tarihte bu görevlerde bulunanların görevleri kendiliğinden sona erer ve
+durum ilgili mercilere derhal bildirilir.
+
+5376-5
+
+Disiplin kurullarının teşekkülü:
+
+**MADDE 53/E-** **(Ek: 2/12/2016 - 6764/32 md.)**
+
+Yüksek Disiplin Kurulu Yükseköğretim Genel Kuruludur.
+
+Üniversite disiplin kurulu rektör dışındaki üniversite yönetim kurulu
+üyelerinden oluşur; kurula akademik olarak en kıdemli profesör üye
+başkanlık eder. Üniversite bağlı birimlerinin yönetim kurulları aynı
+zamanda disiplin kurulu olarak görev yapar. Bu birimlerin disiplin
+kurullarında dekan veya müdür yer alamaz. Bu durumda ilgili disiplin
+kuruluna kurul üyelerinden en yüksek unvanlı öğretim üyesi, en yüksek
+unvanlı öğretim üyesinin birden fazla olması halinde en kıdemli üye,
+öğretim üyesi bulunmaması halinde en kıdemli öğretim görevlisi başkanlık
+eder.
+
+Yükseköğretim Kurulu personeli için disiplin kurulu, Genel Sekreterin
+başkanlığında, I. Hukuk Müşaviri ile Personel, Strateji Geliştirme,
+İdari ve Mali İşler Daire başkanlarından teşekkül eder.
+
+Üniversitelerarası Kurul personeli için disiplin kurulu, Genel
+Sekreterin başkanlığında Genel Sekreter Yardımcısı ve Hukuk Müşavirinden
+teşekkül eder.
+
+Yüksek Disiplin Kurulu hariç, disiplin kurullarında profesörlerle ilgili
+hususların görüşülmesinde doçent ve yardımcı doçentler, doçentlerle
+ilgili hususların görüşülmesinde yardımcı doçentler ve kendileri ile
+ilgili hususların görüşülmesinde ilgili üyeler görüşmelere katılamazlar.
+
+Soruşturmada görev alanlar disiplin kurullarındaki oylamalara, disiplin
+kurulunda görev alanlar ile disiplin cezası verenler bu cezalara
+itirazların görüşüldüğü kurullardaki oylamalara katılamazlar.
+
+Herhangi bir sebeple disiplin kurullarının teşekkül edememesi halinde
+eksik üyelikler eşdeğer unvana sahip öğretim üyeleri arasından senato
+tarafından belirlenen üyelerce tamamlanır.
+
+İtiraz:
+
+**MADDE 53/F- (Ek: 2/12/2016 - 6764/33 md.)**
+
+Disiplin cezalarına itiraz edilebilecek amir ve kurullar şunlardır:
+
+a\) Uyarma ve kınama cezalarına karşı itiraz ilgilinin görevli olduğu
+birimin disiplin kuruluna, dekanlar için üniversite disiplin kuruluna,
+rektörler ve bağımsız vakıf meslek yüksekokulu müdürleri için Yüksek
+Disiplin Kuruluna yapılabilir.
+
+b\) Aylıktan veya ücretten kesme ve kademe ilerlemesinin durdurulması
+veya birden fazla ücretten kesme cezasına karşı itiraz ilgilinin görevli
+olduğu üniversite disiplin kuruluna, yükseköğretim üst kuruluşlarında
+görev yapan personel için Yüksek Disiplin Kuruluna yapılabilir.
+
+İtiraz süresi, cezanın tebliğ tarihinden itibaren yedi gündür.
+
+İtiraz mercileri, itiraz tarihinden itibaren altmış gün içinde karar
+verir.
+
+İtiraz mercileri itirazı kabul ya da reddedebilir. İtirazın kabul
+edilmesi halinde ceza tüm sonuçlarıyla ortadan kalkar, ancak ilgili
+disiplin amiri veya disiplin kurulu tarafından kabul gerekçesine uygun
+olarak en geç üç ay içerisinde yeni bir işlem tesis edilebilir.
+
+Özlük dosyasında saklama:
+
+**MADDE 53/G- (Ek: 2/12/2016 - 6764/34 md.)**
+
+Disiplin cezaları ilgililerin özlük dosyalarında saklanır.
+
+Uyarma ve kınama cezalarının uygulanmasından itibaren beş yıl, aylıktan
+veya ücretten kesme ve kademe ilerlemesinin durdurulması veya birden
+fazla ücretten kesme cezalarının uygulanmasından itibaren on yıl sonra
+atamaya yetkili amire başvurularak verilmiş olan cezaların özlük
+dosyasından silinmesi talep edilebilir. İlgilinin, bu süreler
+içerisindeki davranışları, isteğini haklı kılacak nitelikte görülürse,
+talep yerine getirilir.
+
+5376-6
 
 *Öğrencilerin disiplin işleri: *
 
@@ -3157,6 +3772,14 @@ faaliyetlerinin gerçekleştirilmesinde, kaynakların ekonomik, verimli ve
 tasarruflu kullanılması esastır. Yapılacak olan ödemelerde gelir-gider
 dengesinin gözetilmesi zorunludur.
 
+––––––––––––––
+
+*(1) 2/1/2014 tarihli ve 6514 sayılı Kanunun 12 nci maddesiyle, bu
+maddeye (g) fıkrasından sonra gelmek üzere “h” ve “ı” fıkraları eklenmiş
+ve mevcut fıkralar buna göre teselsül ettirilmiştir.*
+
+5380
+
 Yapılacak ek ödemenin oranları ile bu ödemelerin esas ve usulleri;
 yükseköğretim kurumlarının hizmet sunum şartları ve kriterleri,
 personelin kadro ve görev unvanı, görev yeri, çalışma şartları ve
@@ -3173,20 +3796,23 @@ yapılacak ek ödemenin net tutarı, 375 sayılı Kanun Hükmünde Kararnamenin
 ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı
 itibarıyla belirlenmiş olan ek ödemenin net tutarından az olamaz. Bu
 kapsamda ek ödemeden yararlanan personele, ayrıca 375 sayılı Kanun
-Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ödeme yapılmaz. ^(1)^
+Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ödeme yapılmaz.
 
 j\) Döner sermaye işletmelerinin faaliyet alanları, gelir ve giderleri,
 sermaye limitleri ile işletmelerin yönetimine ilişkin esas ve usuller
 Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulunca
-çıkarılacak yönetmelikle belirlenir. ^(1)^
+çıkarılacak yönetmelikle belirlenir.
 
-––––––––––––––
-
-*(1) 2/1/2014 tarihli ve 6514 sayılı Kanunun 12 nci maddesiyle, bu
-maddeye (g) fıkrasından sonra gelmek üzere “h” ve “ı” fıkraları eklenmiş
-ve mevcut fıkralar buna göre teselsül ettirilmiştir.*
-
-5380
+k\) **(Ek: 16/2/2016-6676/5 md.)** Üniversite-sanayi işbirliği kapsamında
+araştırma ve geliştirme, tasarım ve yenilik projeleri ile faaliyetleri
+sonucunda elde edilen gelirler döner sermaye işletmesinin ayrı bir
+hesabında toplanır. Bu gelirlerden (b) fıkrası uyarınca yapılacak olan
+kesintiler de dâhil herhangi bir kesinti yapılmaz. Bu kapsamda görev
+yapan öğretim elemanına ödenecek gelirin yüzde 85’i, herhangi bir vergi
+kesintisi yapılmaksızın ilgili öğretim elemanına ödenir. Kalan tutar,
+(b) fıkrasında belirtilen işler için kullanılır. Bu kapsamda
+değerlendirilecek proje ve faaliyetlere, öğretim elemanının müracaatı
+doğrultusunda, üniversite yönetim kurulunun izni ile karar verilir.
 
 ONBİRİNCİ BÖLÜM
 
@@ -3223,6 +3849,16 @@ ile ilgili hükümler saklı kalmak şartıyla başvurmaları halinde bu Kanun
 hükümlerine göre ayrıldıkları yükseköğretim kurumuna kadro koşulu
 aranmaksızın dönerler.
 
+——————————
+
+*(1) Madde başlığı 2/7/1997 tarih ve 4278 sayılı Kanunun 1 inci
+maddesiyle değiştirilmiş ve metne işlenmiştir.*
+
+*(2) Madde başlığı 14/4/1982 tarih ve 2653 sayılı Kanunun 4 üncü
+maddesiyle değiştirilmiş ve metne işlenmiştir.*
+
+5380-1
+
 **(Ek bent:17/9/2004-5234/2 md.)**Bunlardan emekli iken yüksek öğretim
 kurumlarına dönenlerin veya yüksek öğretim kurumlarına döndükten sonra
 emekliliğe hak kazanıp emekli olanların emekli aylıkları kesilmez.
@@ -3244,16 +3880,6 @@ ayrılanların,bu görevlerinde geçirdikleri süreler hesaba katılmak ve
 buna göre aylık ve dereceleri yükseltilmek suretiyle meslek, unvan ve
 sıfatları dikkate alınarak ayrıldıkları tarihten itibaren kendi
 kurumlarına boş kadro koşulu aranmaksızın dönüşleri yapılır.
-
-——————————
-
-*(1) Madde başlığı 2/7/1997 tarih ve 4278 sayılı Kanunun 1 inci
-maddesiyle değiştirilmiş ve metne işlenmiştir.*
-
-*(2) Madde başlığı 14/4/1982 tarih ve 2653 sayılı Kanunun 4 üncü
-maddesiyle değiştirilmiş ve metne işlenmiştir.*
-
-5380-1
 
 *Oylama: *
 
@@ -3294,6 +3920,8 @@ izinleri ile Yükseköğretim üst kuruluşları personelinin ve yükseköğreti
 kurumları memurlarının izin işleri 657 Sayılı Devlet Memurları Kanunu
 hükümlerine göre yürütülür.
 
+5380-2
+
 Rektör, iznini Yükseköğretim Kurul Başkanından, diğer yöneticiler ise
 bir üst makamdan alırlar.
 
@@ -3310,10 +3938,8 @@ yönetmeliklerle düzenlenir:
 \(1) Yükseköğretim Kurulunun teşkilatı, çalışma usulleri, üyelerinin
 seçimi ve yetkisinde olan seçim ve atamalarla ilgili hususlar,
 
-\(2) Yükseköğretim Denetleme Kurulunun kuruluş ve işleyişi,denetleme usul
-ve esasları ile ilgili hususlar,
-
-5380-2
+\(2) Yükseköğretim Denetleme Kurulunun kuruluş ve işleyişi, denetleme
+usul ve esasları ile ilgili hususlar,
 
 \(3) **(Mülga: 17/2/2011-6114/11 md.)**
 
@@ -3353,6 +3979,10 @@ kadrosu ve diğer akademik konular,
 \(13) **(Ek: 17/8/1983-2880/33 md.)** Görevlendirme ve nakli ile ilgili
 eseslar ve bu Kanunun uygulanması ile ilgili diğer hususlar.
 
+\(14) **(Ek: 2/12/2016-6764/35 md.)** Bilimsel araştırma ve yayın etiği
+kurullarının oluşumu, görevleri ve çalışmalarına ilişkin usul ve
+esaslar.
+
 b\. Aşağıdaki hususlar Üniversitelerarası Kurul tarafından çıkarılacak
 yönetmeliklerle düzenlenir:
 
@@ -3363,10 +3993,8 @@ yönetmeliklerle düzenlenir:
 *Yürürlükten kaldırılan kanun ve hükümler: *
 
 **Madde 66 – **1750 sayılı Üniversiteler Kanunu tümü ile, aşağıdaki
-kanunların ve Yük-
-
-seköğretim Kurumları ile ilgili diğer kanunların bu kanuna aykırı
-hükümleri yürürlükten kaldırılmıştır.
+kanunların ve Yükseköğretim Kurumları ile ilgili diğer kanunların bu
+kanuna aykırı hükümleri yürürlükten kaldırılmıştır.
 
 4619 sayılı İstanbul Teknik Üniversitesi Hakkında Kanun ile ek ve
 değişiklikleri,
@@ -3557,6 +4185,87 @@ iade edilmemesi hâlinde, Yükseköğretim Kurulu gerektiğinde düzeltici,
 kısıtlayıcı veya faaliyet iznini kaldırma şeklinde tedbir niteliğinde
 kararlar alır.
 
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Yapılan denetimler sonucu faaliyet
+izninin kaldırılmasını gerektiren durumlar tespit edilen vakıf
+yükseköğretim kurumları ile kurucu vakıflarına kayyım atanan vakıf
+yükseköğretim kurumlarının faaliyet izni, Yükseköğretim Kurulunun
+teklifi ve Bakanlar Kurulunun kararı ile kaldırılır. Bu durum, ilgili
+vakıf yükseköğretim kurumunun kuruluş kanununun yürürlükten
+kaldırılmasının sağlanması için Yükseköğretim Kurulu tarafından Millî
+Eğitim Bakanlığına bildirilir. Bu şekilde faaliyet izni kaldırılan vakıf
+yükseköğretim kurumlarında kayıtlı öğrenciler Yükseköğretim Kurulu
+tarafından garantör üniversiteye veya belirlenecek bir Devlet
+üniversitesine intikal ettirilir.
+
+5382-2
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Faaliyet izni kaldırılan vakıf
+yükseköğretim kurumlarının malvarlığı, 22/11/2001 tarihli ve 4721 sayılı
+Türk Medeni Kanununun resmî tasfiye hükümlerine göre tasfiye edilir.
+Resmî tasfiye süreci Yükseköğretim Kurulu tarafından başlatılır. Yetkili
+ve görevli mahkemece Maliye Bakanlığı ve Yükseköğretim Kurulunun birer
+temsilcisi tasfiye memuru olarak atanır. Tasfiye giderleri, tasfiye
+olunan vakıf yükseköğretim kurumunun malvarlığından karşılanır. Tasfiye
+işlemleri her türlü vergi, resim ve harçtan muaftır.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Tasfiye memurları yaptıkları
+işlemler nedeniyle görevinin gereklerine açıkça aykırı davrandıklarının
+ceza mahkemesi kararıyla tespit edilmesi dışında malî ve idarî yönden
+sorumlu tutulamazlar.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Tasfiye süresince vakıf
+yükseköğretim kurumu aleyhine ihtiyati tedbir ve ihtiyati haciz kararı
+verilemez, ihtiyati tedbir ve ihtiyati haciz dâhil her türlü icra
+takibatı durur ve yeni icra takibi yapılamaz. Varsa vakıf yükseköğretim
+kurumu hesaplarına konulan ihtiyati tedbir, ihtiyati haciz, hacizler ile
+blokeler kalkar. Tasfiye süresi boyunca zamanaşımı süresi işlemez.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Tasfiye sonucunda kalan malvarlığı
+kurucu vakfa geçer.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Öğrencilerin nakledildiği
+yükseköğretim kurumları faaliyet izni kaldırılan vakıf yükseköğretim
+kurumunun borçlarından dolayı sorumlu tutulamaz.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Kurucu vakıflarına kayyım tayin
+edilen veya faaliyet izni kaldırılan vakıf yükseköğretim kurumu
+mütevelli heyet başkanı ve üyeleri ile tüm yöneticilerinin görevleri
+kendiliğinden sona erer. Bu vakıf yükseköğretim kurumunda çalışmakta
+olan akademik ve diğer personelin hizmet sözleşmeleri hakkında 22/5/2003
+tarihli ve 4857 sayılı İş Kanunu hükümleri uygulanır.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Vakıf yükseköğretim kurumunun
+faaliyet izninin geçici olarak durdurulması hâlinde durdurulma
+süresince, kurumun idaresi, eğitim ve öğretimi sürdürmek veya tamamlamak
+üzere Yükseköğretim Kurulunca garantör üniversiteye veya belirlenecek
+bir Devlet yükseköğretim kurumuna verilir. Bu vakıf yükseköğretim
+kurumunun kurucu vakfının yönetim organı başkan ve üyeleri ile vakıf
+yükseköğretim kurumu mütevelli heyet başkanı, üyeleri ve tüm
+yöneticilerinin görevleri, faaliyet izninin geçici olarak durdurulması
+kararı ile birlikte sona erer. Bu kurucu vakfa, Yükseköğretim Kurulu ile
+birlikte Vakıflar Genel Müdürlüğünün talebi üzerine yetkili mahkeme
+tarafından kayyım atanır. **(Ek cümle: 31/10/2016-KHK-678/23 md.)**
+Mahkeme tarafından kayyım atanıncaya kadar kurucu vakıf, Vakıflar Genel
+Müdürlüğü tarafından yönetilir.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Faaliyet izninin geçici olarak
+durdurulması süresi boyunca vakıf yükseköğretim kurumu aleyhine ihtiyati
+tedbir ve ihtiyati haciz kararı verilemez, ihtiyati tedbir ve ihtiyati
+haciz dâhil her türlü icra takibatı durur ve yeni icra takibi yapılamaz.
+Varsa vakıf yükseköğretim kurumu hesaplarına konulan ihtiyati tedbir,
+ihtiyati haciz, hacizler ile blokeler kalkar. Faaliyet izninin geçici
+olarak durdurulması süresi boyunca zamanaşımı süresi işlemez.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Bu madde kapsamına giren vakıf
+yükseköğretim kurumlarında eğitim öğretim ücretlerinin belirlenmesine,
+öğrencilerin nakline, eğitim öğretimin ve diğer işlemlerin aksamadan
+yürütülmesine ilişkin her türlü tedbirleri almaya ve düzenleme yapmaya
+Yükseköğretim Kurulu yetkilidir.
+
+**(Ek fıkra: 20/8/2016-6745/15 md.)** Bu maddenin uygulanmasına ilişkin
+tereddütleri gidermeye, gerektiğinde Maliye ve Millî Eğitim
+bakanlıklarının görüşünü alarak Yükseköğretim Kurulu yetkilidir.
+
 **(Ek fıkra: 19/11/2014-6569/31 md.)** Vakıf yükseköğretim kurumlarının
 denetimi ve bu denetim sonucu ilgili yükseköğretim kurumu hakkında yol
 gösterici, düzeltici, kısıtlayıcı veya faaliyet iznini kaldırıcı
@@ -3596,11 +4305,7 @@ yükseköğretim kurumu yöneticilerinin seçilmesi yetkisi, Yükseköğretim
 Kurulunun olumlu görüşü üzerine Vakıflar Genel Müdürlüğünce bir başka
 vakfa devredilir.
 
-Vakıf yükseköğretim kurumunun faaliyetlerinin durdurulması halinde
-durdurulma süresince, kapatılması halinde ise temelli olarak, kurumun
-idaresi Yükseköğretim Kurulunca eğitim ve öğretimi sürdürmek veya
-tamamlamak üzere uygun bir Devlet yükseköğretim kurumunun vesayetine
-verilir.
+**(Mülga fıkra: 20/8/2016-6745/15 md.)**
 
 **Ek Madde 16 - (Ek : 10/12/1988 - 3511/2 md.; İptal: Ana, Mah.nin
 7/3/1989 tarih ve E. :1989/1, K. :1989/12 sayılı kararıyla. Yeniden
@@ -3985,6 +4690,23 @@ sigortalılık ilişkisi kurulamaz. Bu ödemeden damga vergisi hariç
 herhangi bir vergi kesilmez ve ödemelere ilişkin usul ve esaslar, Maliye
 Bakanlığı ve Sağlık Bakanlığı ile Yükseköğretim Kurulunca müştereken
 belirlenir.
+
+**Ek Madde 30- (Ek: 15/8/2016-KHK-674/49 md.; Aynen Kabul:
+10/11/2016-6758/44 md.)**
+
+Öğretim Üyesi Yetiştirme Programı kapsamında 33 üncü maddenin (a)
+fıkrası uyarınca araştırma görevlisi kadrosuna atanmış olup, bu maddenin
+yürürlüğe girdiği tarihte araştırma görevlisi kadrosunda bulunanların
+statüleri herhangi bir işleme gerek kalmaksızın 50 nci maddenin birinci
+fıkrasının (d) bendinde belirtilen statüye dönüştürülmüş sayılır ve
+bunlar hakkında söz konusu (d) bendi hükümleri uygulanır. Bu şekilde
+statüleri değiştirilen araştırma görevlilerinden 33 üncü maddenin (a)
+fıkrasına göre yeniden ataması yapılmayanların mecburi hizmet
+yükümlülükleri kaldırılır. 35 inci madde uyarınca başka bir üniversitede
+ve yurtdışında eğitimde bulunanlar, bu maddenin yürürlüğe girdiği
+tarihten itibaren üniversitelerinin talebi üzerine onbeş gün içinde
+kendi üniversitelerine dönmek zorundadırlar. Bu süre içerisinde
+dönmeyenlerin atamaları iptal edilir.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4990,7 +5712,7 @@ ortadan kalkar. Buna bağlı olarak, borçlunun kendisi, mirasçıları ve
 kefilleri hakkındaki her türlü borç yükümlülükleri ortadan kaldırılır ve
 her türlü borç takibi işlemlerine son verilir.
 
-**Geçici Madde 55- (Ek: 18/6/2008-5772/8 md.)**
+**Geçici Madde 55- (Ek: 18/6/2008-5772/8 md.)** ^(1)^
 
 2547 sayılı Kanunun 24 üncü maddesinin değişiklikten önceki hükümleri,
 bu maddede değişiklik yapan Kanunun yürürlüğe girdiği tarihten önce
@@ -5000,8 +5722,8 @@ olunur.
 30 uncu maddede öğretim üyeleri için öngörülen emeklilik yaşı, 1/3/2006
 tarihli ve 5467 sayılı, 17/5/2007 tarihli ve 5662 sayılı, 22/5/2008
 tarihli ve 5765 sayılı kanunlarla kurulan Devlet üniversitelerinde görev
-almaları şartıyla yetmişiki yaşın doldurulduğu tarihtir. Bu uygulama, 31
-Aralık 2016 tarihine kadar devam eder. ^(1)^
+almaları şartıyla yetmişbeş yaşın doldurulduğu tarihtir. Bu uygulama, 31
+Aralık 2020 tarihine kadar devam eder. ^(1)(2)^
 
 Bu Kanunun 10 uncu maddesine eklenen hükümler çerçevesinde kullanılmak
 üzere, Öğrenci Seçme ve Yerleştirme Merkezinin 2007 yılından devreden
@@ -5032,7 +5754,13 @@ yararlandırılabilir. Bu Kanunun yürürlüğe girdiği tarihte askerlik
 
 *–––––––––––––––––––––*
 
-*(1) 30/12/2015 tarihli ve 6656 sayılı Kanunun 5 inci maddesiyle, bu
+*(1) 25/8/2016 tarihli ve 671 sayılı KHK’nin 27 nci maddesiyle, bu
+maddenin ikinci fıkrasında yer alan “yetmişiki” ibaresi “yetmişbeş”
+şeklinde ve “2016” ibaresi “2020” şeklinde değiştirilmiş olup, daha
+sonra bu hüküm 9/11/2016 tarihli ve 6757 sayılı Kanunun 24 üncü
+maddesiyle aynen kabul edilerek kanunlaşmıştır.*
+
+*(2) 30/12/2015 tarihli ve 6656 sayılı Kanunun 5 inci maddesiyle, bu
 fıkranın son cümlesinde yer alan “31 Aralık 2015”ibaresi “31 Aralık
 2016” şeklinde değiştirilmiştir.*
 
@@ -5381,11 +6109,8 @@ esasları Yükseköğretim Kurulunca belirlenir.
 
 **Geçici Madde 70 –** **(Ek: 19/11/2014-6569/32 md.)**
 
-Tabip, diş tabibi ve tıpta uzmanlık mevzuatına göre uzman olan öğretim
-üyelerinden, bu maddenin yürürlüğe girdiği tarih itibarıyla mesai
-saatleri dışında serbest meslek faaliyetinde bulunmakta veya özel sağlık
-kuruluşlarında çalışmakta olanlara, bu faaliyetlerini sona erdirinceye
-kadar üniversite ödeneği ve ek ödeme ödenmez. Bunlardan belirtilen
+**(İptal birinci cümle: Anayasa Mahkemesi’nin 22/6/2016 tarihli ve E.:
+2016/13, K.: 2016/127 sayılı Kararı ile.)** Bunlardan belirtilen
 faaliyetlerini sona erdirmek isteyenler, 31/12/2014 tarihine kadar bu
 konudaki iradelerini görevli oldukları kurum yönetimlerine bildirirler
 ve bunların en geç 31/5/2015 tarihine kadar bu faaliyetleri sona ermiş
@@ -5399,8 +6124,8 @@ kaydıyla, serbest meslek veya özel sağlık kuruluşlarında çalışma
 uygunluk belgesi veya izni iptal edilir.
 
 Bu madde hükmü Gülhane Askeri Tıp Akademisi öğretim üyeleri hakkında da
-uygulanır. Ancak bu öğretim üyelerine üniversite ödeneği ile sağlık
-hizmetleri tazminatı ödenmez.
+uygulanır. **(İptal ikinci cümle: Anayasa Mahkemesi’nin 22/6/2016
+tarihli ve E.: 2016/13, K.: 2016/127 sayılı Kararı ile.)**
 
 **Geçici Madde 71 –** **(Ek: 27/3/2015-6637/21 md.)**
 
@@ -5409,6 +6134,21 @@ yılı için öğrencilerden tahsil edilmiş öğrenci katkı payı ve öğrenim
 ücretlerinin ilgili dönem için öngörülen katkı payı ve öğrenim
 ücretlerini aşan kısmı, talep edilip edilmediğine bakılmaksızın
 ilgililere red ve iadeler gelir kaleminden iade edilir.
+
+**Geçici Madde 72 –** **(Ek: 3/10/2016-KHK-676/86 md.)**
+
+Bu maddenin yürürlüğe girdiği tarihte Yükseköğretim Denetleme Kurulu
+üyesi olarak görev yapmakta olanlardan üç yılını tamamlayanların
+görevleri kendiliğinden sona erer.
+
+5388-16
+
+**Geçici Madde 73-** **(Ek: 31/10/2016-KHK-678/24 md.)**
+
+Ek 11 inci maddenin onuncu fıkrasının yürürlüğe girdiği tarihten önce
+faaliyet izni geçici olarak durdurulan vakıf yükseköğretim kurumları ve
+bu kurumların kurucu vakıfları hakkında da aynı fıkra hükümleri
+uygulanır.”
 
 *Yürürlük: *
 
@@ -5980,8 +6720,8 @@ TARİHİNİ GÖSTERİR LİSTE**
 
 5394-4
 
-  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- --------------------------------------------------
-  Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası                                        2547 sayılı Kanunun değişen veya iptal edilen maddeleri               Yürürlüğe Giriş Tarihi
+  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- -----------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                                    **2547 sayılı Kanunun değişen veya iptal edilen maddeleri**           **Yürürlüğe Giriş Tarihi**
 
   Anayasa                                                                                                    36 ncı maddenin altıncı fıkrası ile Geçici Madde 59                   1/1/2013 tarihinden başlayarak altı ay sonra
                                                                                                                                                                                    
@@ -6006,14 +6746,42 @@ TARİHİNİ GÖSTERİR LİSTE**
                                                                                                                                                                                    (7/1/2016)
 
   6637                                                                                                       46, Geçici Madde 71                                                   7/4/2015
+  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- -----------------------------------------------
 
-  6645                                                                                                       5                                                                     23/4/2015
+5394-5
 
-  Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/166 sayılı Kararı                         Geçici Madde 64                                                       19/6/2015
+  ------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------------------------- --------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası**              **2547 sayılı Kanunun değişen veya iptal edilen maddeleri**                                               **Yürürlüğe Giriş Tarihi**
 
-  6656                                                                                                       Geçici Madde 55                                                       1/1/2016 tarihinden geçerli olmak üzere 9/1/2016
-                                                                                                                                                                                   
-                                                                                                                                                                                   tarihinde
-  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------- --------------------------------------------------
+  6645                                                                                 5                                                                                                         23/4/2015
+
+  Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/166 sayılı Kararı   Geçici Madde 64                                                                                           19/6/2015
+
+  6656                                                                                 Geçici Madde 55                                                                                           1/1/2016 tarihinden geçerli olmak üzere 9/1/2016
+                                                                                                                                                                                                 
+                                                                                                                                                                                                 tarihinde
+
+  6676                                                                                 3, 45, 58                                                                                                 26/2/2016 tarihini takip eden ay başında
+
+  6735                                                                                 34                                                                                                        13/8/2016
+
+  KHK/671                                                                              55                                                                                                        17/8/2016
+
+  KHK/674                                                                              Ek Madde 30                                                                                               1/9/2016
+
+  6745                                                                                 13, Ek Madde 11, Ek Madde 15                                                                              7/9/2016
+
+  Anayasa Mahkemesi’nin 22/6/2016 tarihli ve E.: 2016/13, K.: 2016/127 sayılı Kararı   Geçici Madde 70                                                                                           21/9/2016
+
+  KHK/676                                                                              8, 13, Geçici Madde 72                                                                                    29/10/2016
+
+  KHK/678                                                                              Ek Madde 11, Geçici Madde 73                                                                              22/11/2016
+
+  6757                                                                                 55                                                                                                        24/11/2016
+
+  6758                                                                                 Ek Madde 30                                                                                               24/11/2016
+
+  6764                                                                                 45,53,Madde 53/A, Madde 53/B Madde 53/C, Madde 53/Ç, Madde 53/D, Madde 53/E, Madde 53/F, Madde 53/G, 65   9/12/2016
+  ------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------------------------- --------------------------------------------------
 
 
