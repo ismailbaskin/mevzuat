@@ -1,4 +1,4 @@
-[]{#1 .anchor}**5684 sayılı Kanun ile değişik hali**
+5728 sayılı Kanun ile değişik hali
 
 BİREYSEL EMEKLİLİK TASARRUF VE
 
@@ -283,16 +283,18 @@ faaliyet alanları itibariyle sürekli veya başvuru tarihinden önceki bir
 yıl içerisinde bir ay veya daha fazla süreyle geçici süreyle durdurulma
 kararı verilmemiş olması,
 
-3\. Müflis veya konkordato ilan etmiş olmaması, taksirli suçlar hariç
-olmak üzere affa uğramış olsalar dahi ağır hapis veya beş yıldan fazla
-hapis yahut basit veya nitelikli zimmet, cürüm işlemek için teşekkül
-oluşturmak, irtikap, rüşvet, hırsızlık, dolandırıcılık, sahtecilik,
-inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlar ile
-istimal ve istihlak kaçakçılığı dışında kalan kaçakçılık suçları, resmî
-ihale ve alım satımlara fesat karıştırma, karapara aklama veya Devlet
-sırlarını açığa vurma, vergi kaçakçılığı veya vergi kaçakçılığına
-teşebbüs suçlarından dolayı kesinleşmiş mahkûmiyet kararlarının
-bulunmaması,
+3\. **(Değişik: 23/1/2008-5728/485 md.)** Müflis veya konkordato ilan
+etmiş olmaması, Türk Ceza Kanununun 53 üncü maddesinde belirtilen
+süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya
+daha fazla süreyle hapis cezasına ya da devletin güvenliğine karşı
+suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli
+savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk,
+zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni
+kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına
+fesat karıştırma, bilişim sistemini engelleme, bozma, verileri yok etme
+veya değiştirme, banka veya kredi kartlarının kötüye kullanılması,
+suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi
+kaçakçılığı veya haksız mal edinme suçlarından mahkûm olmaması,
 
 4\. Emeklilik şirketi olmanın gerektirdiği malî güç ve itibara sahip
 olması,
@@ -751,80 +753,90 @@ YEDİNCİBÖLÜM
 
 Ceza Hükümleri
 
-**İdarî suç ve cezalar**
+**İdarî yaptırımlar ^(1)^**
 
-**MADDE 22 —** Konularına göre Müsteşarlık veya Kurul kararıyla ve
-gerekçesi belirtilmek suretiyle bu Kanuna tâbi gerçek ve tüzel kişilere,
-bu Kanunun;
+**MADDE 22 — (Değişik: 23/1/2008-5728/486 md.)**
+
+Konularına göre Müsteşarlık veya Kurul kararıyla ve gerekçesi
+belirtilmek suretiyle bu Kanuna tâbi gerçek ve tüzel kişilere, bu
+Kanunun;
 
 a\) 4 üncü maddesi hükümlerine aykırı emeklilik sözleşmesi düzenlenmesi
-halinde iki milyar lira,
+halinde üçbin Türk Lirası,
 
-b\) 5 inci maddesinin ikinci fıkrasında öngörülen aktarma yükümlülüğüne
-aykırılık halinde bir milyar lira,
+b\) 5 inci maddesinde öngörülen aktarma yükümlülüğüne aykırılık halinde
+ikibin Türk Lirası,
 
-c\) 5 inci maddesinin üçüncü fıkrasında öngörülen yatırıma yönlendirme
-yükümlülüğüne aykırılık halinde bir milyar lira,
+c\) 5 inci maddesinde öngörülen yatırıma yönlendirme yükümlülüğüne
+aykırılık halinde ikibin Türk Lirası,
 
 d\) 6 ncı maddesinde öngörülen ödeme veya aktarma yükümlülüğüne aykırılık
-halinde bir milyar lira,
+halinde ikibin Türk Lirası,
 
 e\) 6 ncı maddesinin son fıkrasında öngörülen tasdik yükümlülüğünün
-yerine getirilmeden sözleşmelerin uygulamaya konulması halinde iki
-milyar lira,
+yerine getirilmeden sözleşmelerin uygulamaya konulması halinde üçbin
+Türk Lirası,
+
+–––––––––––––––––––
+
+*(1) Bu madde başlığı “İdarî suç ve cezalar” iken, 23/1/2008 tarihli ve
+5728 sayılı Kanunun 486 ncı maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
 f\) 7 nci maddesinde öngörülen katılımcı tarafından ödenecek giderler
 veya ücretler konusunda bilgilendirme yükümlülüğüne aykırılık halinde
-bir milyar lira,
+ikibin Türk Lirası,
 
 g\) 10 uncu maddesinin birinci fıkrası hükümlerine aykırı olarak
-belirtilen kavramların kullanılması halinde beş milyar lira,
+belirtilen kavramların kullanılması halinde yedibinbeşyüz Türk Lirası,
 
 h\) 10 uncu maddesinin ikinci fıkrası hükümlerine aykırı olarak ilan ve
-reklam faaliyetinde bulunulması halinde on milyar lira,
+reklam faaliyetinde bulunulması halinde onbeşbin Türk Lirası,
 
-ı)10 uncu maddesinin ikinci fıkrasında öngörülen katılımcılara bilgi
-verilmesi yükümlülüğüne aykırılık halinde bir milyar lira,
+ı) 10 uncu maddesinin ikinci fıkrasında öngörülen katılımcılara bilgi
+verilmesi yükümlülüğüne aykırılık halinde ikibin Türk Lirası,
 
 j\) 11 inci maddesinin birinci fıkrasında öngörülen sorumlulukların
-yerine getirilmemesi halinde iki milyar lira,
+yerine getirilmemesi halinde üçbin Türk Lirası,
 
 k\) 11 inci maddesinin ikinci fıkrası hükümlerine aykırı olarak aracılık
 faaliyetinde bulunulması veya aracılık hizmeti sağlanması hallerinde
-dört milyar lira,
+altıbin Türk Lirası,
 
-1\) 12 nci maddesinin birinci fıkrası hükümlerine aykırı olarak
-belirtilen nitelikleri haiz olmayan kişilerin çalıştırılması halinde on
-milyar lira,
+l\) 12 nci maddesinin birinci fıkrası hükümlerine aykırı olarak
+belirtilen nitelikleri haiz olmayan kişilerin çalıştırılması halinde
+onbeşbin Türk Lirası,
 
 m\) 12 nci maddesinin ikinci fıkrasında öngörülen bildirim yükümlülüğünün
-yerine getirilmemesi halinde iki milyar lira,
+yerine getirilmemesi halinde üçbin Türk Lirası,
 
 n\) 12 nci maddesinin üçüncü fıkrası hükümlerine aykırı olarak belirtilen
-kişilerin yasaklanan görevlerde çalıştırılması halinde on milyar lira,
+kişilerin yasaklanan görevlerde çalıştırılması halinde onbeşbin Türk
+Lirası,
 
 o\) 13 üncü maddesinin birinci fıkrası hükümlerine aykırı olarak
-anasözleşme değişikliklerinin tescil edilmesi halinde on milyar lira,
+anasözleşme değişikliklerinin tescil edilmesi halinde onbeşbin Türk
+Lirası,
 
 p\) 13 üncü maddesinin üçüncü fıkrası hükümlerine aykırı olarak
-malvarlıklarının devri veya bir başka şirketle birleşilmesi halinde on
-milyar lira,
+malvarlıklarının devri veya bir başka şirketle birleşilmesi halinde
+onbeşbin Türk Lirası,
 
 r\) 21 inci maddesinde öngörülen bağımsız dış denetim yükümlülüğünün
-yerine getirilmemesi halinde on milyar lira,
+yerine getirilmemesi halinde onbeşbin Türk Lirası,
 
 s\) Bakanlık, Müsteşarlık ve Kurul tarafından alınan kararlara, çıkarılan
 yönetmelik ve tebliğler ile yapılan diğer düzenlemelere uyulmaması
 halinde, yukarıdaki fıkralarda, sigortacılık mevzuatı ve sermaye
-piyasası mevzuatında öngörülmüş bir cezanın olmadığı hallerde bir milyar
-lira,
+piyasası mevzuatında öngörülmüş bir cezanın olmadığı hallerde ikibin
+Türk Lirası,
 
-İdarî para cezası uygulanır.
+idarî para cezası verilir.
 
-Yukarıda belirtilen idarî cezaların uygulanmasından önce ilgili kuruluş
-veya kişilerin savunmaları alınır. Savunma istendiğine ilişkin yazının
-tebliğ tarihinden itibaren bir ay içinde savunma verilmemesi halinde
-savunma hakkından feragat edildiği kabul edilir.
+Yukarıda belirtilen idarî para cezalarının uygulanmasından önce ilgili
+kuruluş veya kişilerin savunmaları alınır. Savunma istendiğine ilişkin
+yazının tebliğ tarihinden itibaren bir ay içinde savunma verilmemesi
+halinde savunma hakkından feragat edildiği kabul edilir.
 
 İdarî para cezalarının verilmesini gerektiren fiillerin tekrarı halinde,
 verilen para cezası iki katı, izleyen tekrarlarda üç katı artırılarak
@@ -832,83 +844,63 @@ uygulanır. Bu cezaların verildiği tarihten itibaren iki yıl içinde idarî
 para cezasının verilmesini gerektiren aynı fiil işlenmediği takdirde
 önceki cezalar tekrarda esas alınmaz.
 
-Bu maddeye göre ceza uygulama hakkı, aykırılığın vuku bulduğu tarihten
-itibaren beş yıllık zaman aşımına tâbîdir.
-
 Bu Kanunun 23 üncü maddesinin birinci fıkrasında öngörülen suçu
 işleyenler hakkında kanunî kovuşturmaya geçilmekle birlikte,
 gecikmesinde sakınca bulunan hallerde Müsteşarlığın talebi üzerine
 valiliklerce bunların işyerleri geçici olarak kapatılır; ilan ve
 reklamları durdurulur ya da toplatılır.
 
-Bu maddede belirtilen idarî para cezaları 21.7.1953 tarihli ve 6183
-sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri
-gereğince vergi dairelerince tahsil olunur. Para cezalarında tüzel
-kişilerin sorumluluğu 29.6.1956 tarihli ve 6762 sayılı Türk Ticaret
-Kanununun 65 inci maddesine göre tayin olunur.
+**Ceza sorumluluğu ^(1)^**
 
-**Adlî suç ve cezalar**
+**MADDE 23 — (Değişik: 23/1/2008-5728/487 md.)**
 
-**MADDE 23 —** Bu Kanuna göre gereken izinleri almaksızın emeklilik
-faaliyetinde bulunan veya ticaret unvanları ve her türlü belgeleri ve
-ilan ve reklamları ve kamuoyuna yaptıkları açıklamalarda bu Kanunda
-belirtilen kuruluşların adını kullanan ya da 10 uncu madde hükümlerine
-aykırı olarak bu Kanunda düzenlenen faaliyetlerde bulundukları
-izlenimini yaratacak söz ve deyimleri kullanan gerçek kişiler ile tüzel
-kişilerin görevlileri hakkında fiile katılma derecelerine göre üç yıldan
-beş yıla kadar hapis ve altı milyar liradan az olmamak üzere ağır para
-cezası uygulanır. Ayrıca Müsteşarlığın talebi üzerine, bu suçları
-işleyen kişilerin işyerlerinin sürekli veya bir yılı geçmemek üzere
-geçici olarak kapatılmasına, ilan ve reklamların durdurulması veya
-toplatılmasına mahkemece karar verilir.
+Bu Kanuna göre gereken izinleri almaksızın emeklilik faaliyetinde
+bulunan veya ticaret unvanları ve her türlü belgeleri ve ilan ve
+reklamları ve kamuoyuna yaptıkları açıklamalarda bu Kanunda belirtilen
+kuruluşların adını kullanan ya da 10 uncu madde hükümlerine aykırı
+olarak bu Kanunda düzenlenen faaliyetlerde bulundukları izlenimini
+yaratacak söz ve deyimleri kullanan gerçek kişiler ile tüzel kişilerin
+görevlileri üç yıldan beş yıla kadar hapis ve üçyüz günden ikibin güne
+kadar adlî para cezası ile cezalandırılır. Ayrıca idarî tedbir olarak bu
+faaliyetlerin yürütülmesine mani olunur.
 
 Şirketin yönetim kurulu başkanı ve üyeleri ile imza yetkisini haiz
 mensupları, portföy yönetim şirketinin yönetim kurulu başkanı ve üyeleri
 ile imza yetkisini haiz mensupları, görevleri dolayısıyla kendilerine
 tevdi olunan veya muhafazaları, denetimleri ve sorumlulukları altında
-bulunan şirkete ait para veya diğer varlıkları zimmetine geçirirlerse
-altı yıldan oniki yıla kadar hapis cezası ile cezalandırılırlar ve
-kuruluşun uğradığı zararı tazmine mahkûm edilirler.
-
-Bu maddenin ikinci fıkrasında gösterilen suç, kuruluşu aldatacak ve
-fiilin açığa çıkmasını önleyecek her türlü hileli faaliyette bulunmak
-suretiyle işlenmişse, faile oniki yıldan aşağı olmamak üzere hapis ve
-meydana gelen zararın üç katı kadar ağır para cezası uygulanır. Ayrıca,
-meydana gelen zararın ödenmemesi halinde mahkemece re’sen
-ödettirilmesine hükmolunur.
-
-Bu maddenin ikinci ve üçüncü fıkralarında yer alan cezalar, zararın
-kovuşturulmasına başlanmadan önce tamamiyle ödenmiş olması halinde
-yarısı, ödemenin hükümden önce yapılması halinde ise üçte biri oranında
-indirilir.
+bulunan şirkete ait para veya diğer varlıkları zimmetine geçirirlerse,
+Türk Ceza Kanununun, zimmet suçuna ilişkin hükümlerine göre verilecek
+ceza beşte bir oranında artırılır.
 
 Bu Kanunda gösterilen yetkili mercilerin ve denetim görevlilerinin
 istedikleri bilgi ve belgeleri vermeyen ya da denetim görevlilerinin
 görevlerini yapmalarına engel olan gerçek kişilerle tüzel kişilerin
-görevli ve ilgilileri hakkında bir yıldan üç yıla kadar hapis ve iki
-milyar liradan az olmamak üzere ağır para cezası uygulanır.
+görevli ve ilgilileri bir yıldan üç yıla kadar hapis ve yüz günden az
+olmamak üzere adlî para cezası ile cezalandırılır.
+
+–––––––––––––––––––
+
+*(1) Bu madde başlığı “Adlî suç ve cezalar” iken, 23/1/2008 tarihli ve
+5728 sayılı Kanunun 487 nci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
 Bu Kanuna tâbî gerçek ve tüzel kişilerin bu Kanunda gösterilen merciler
 ile denetim görevlilerine, mahkemelere ve diğer resmi dairelere hitaben
 düzenledikleri veya yayımladıkları belgelerde yapılan gerçeğe aykırı
 beyanlarından dolayı bunları veya bunların düzenlenmesine esas olan her
-türlü belgeleri imzalayanlar hakkında, görev ve ilgilerine ve fiile
-katılma derecelerine göre bir yıldan üç yıla kadar hapis ve altı milyar
-liradan az olmamak üzere ağır para cezası uygulanır.
+türlü belgeleri imzalayanlar hakkında, Türk Ceza Kanununun belgede
+sahtecilik suçuna ilişkin hükümlerine göre verilecek ceza bir kat
+artırılır.
 
 Bu Kanuna tâbî kuruluşların itibarını kırabilecek veya servetine zarar
 verebilecek bir hususa kasten sebep olan ya da bu yolda asılsız haber
-yayanlar için bir yıldan üç yıla kadar hapis ve iki milyar liradan az
-olmamak üzere ağır para cezasına hükmolunur. Bu fiilin 15.7.1950 tarihli
-ve 5680 sayılı Basın Kanununda yazılı ya da radyo, televizyon, video,
-internet, kablolu yayın veya elektronik bilgi iletişim araçları ve
-benzer yayın araçlarından biri ile işlenmesi halinde bir yıldan üç yıla
-kadar hapis ve sekiz milyar liradan az olmamak üzere ağır para cezasına
-hükmolunur. İsimleri belirtilmese dahi bu Kanuna tâbi kuruluşların
-güvenilirliği konusunda kamuoyunda tereddüte yol açarak bu kuruluşların
-malî bünyelerinin olumsuz etkilenmesine neden olabilecek nitelikte
-asılsız haberleri yukarıda belirtilen araçlarla yayınlayanlara sekiz
-milyar liradan az olmamak üzere ağır para cezası uygulanır.
+yayanlar, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır. Bu
+fiilin basın ve yayın yoluyla işlenmesi halinde verilecek ceza yarı
+oranında artırılır. İsimleri belirtilmese dahi bu Kanuna tâbi
+kuruluşların güvenilirliği konusunda kamuoyunda tereddüte yol açarak bu
+kuruluşların malî bünyelerinin olumsuz etkilenmesine neden olabilecek
+nitelikte asılsız haberleri yukarıda belirtilen araçlarla yayınlayanlar
+dörtyüz günden üçbin güne kadar adlî para cezası ile cezalandırılır.
 
 Bu Kanunun uygulanmasında ve uygulanmasının denetiminde görev alanlar,
 görevleri sırasında bu Kanun kapsamında faaliyet gösteren gerçek ve
@@ -916,41 +908,35 @@ tüzel kişiler, bunların iştirakleri ve kuruluşları ile katılımcıya ait
 öğrendikleri sırları, bu Kanuna ve özel kanunlarına göre yetkili
 olanlardan başkasına açıklayamazlar ve kendi yararlarına kullanamazlar.
 Bu yükümlülük bu kişilerin görevden ayrılmalarından sonra da devam eder.
-Bu yükümlülüğe uymayan kimseler için iki yıldan dört yıla kadar hapis ve
-dört milyar liradan az olmamak üzere ağır para cezasına hükmolunur.
+Bu yükümlülüğe uymayan kimseler Türk Ceza Kanununun 239 uncu maddesine
+göre cezalandırılır.
 
 Bu Kanuna tâbi kuruluşların mensupları ve diğer görevlileri, sıfat ve
 görevleri dolayısıyla bu Kanuna tâbi kuruluşlara veya emeklilik
 sözleşmesi ile ilgili kişilere ait öğrendikleri sırları bu konuda
 kanunen açıkça yetkili kılınan mercilerden başkasına açıklayamazlar. Bu
 yükümlülük görevden ayrılmalarından sonra da devam eder. Bu madde
-hükmüne aykırı davrandığı tespit edilen kişiler için bir yıldan üç yıla
-kadar hapis ve iki milyar liradan az olmamak üzere ağır para cezasına
-hükmolunur.
+hükmüne aykırı davrandığı tespit edilen kişiler Türk Ceza Kanununun 239
+uncu maddesine göre cezalandırılır.
 
-Bu maddenin sekizinci ve dokuzuncu fıkralarında yazılı kişiler,
-öğrendikleri sırları kendileri ya da başkaları için yarar sağlamak
-amacıyla açıklarlarsa, üç yıldan beş yıla kadar hapis cezasına ve altı
-milyar liradan az olmamak üzere ağır para cezasına mahkûm edilir ve
-fiilin önemine göre ilgili kuruluşlarda görev yapmaları geçici veya
-sürekli olarak yasaklanır.
+Bu maddenin altıncı ve yedinci fıkralarında yazılı kişiler, öğrendikleri
+sırları kendileri ya da başkaları için yarar sağlamak amacıyla
+açıklarlarsa, haklarında Türk Ceza Kanununun 239 uncu maddesine göre
+verilecek ceza yarı oranında artırılır.
 
-**Kovuşturma usulü**
+**Soruşturma ve kovuşturma usulü ^(1)^**
 
-**MADDE 24 —** Bu Kanunda belirtilen adlî cezalara ilişkin suçlardan
-dolayı kovuşturma yapılması, konularına göre Müsteşarlık veya Kurul
-tarafından Cumhuriyet Başsavcılığına yazılı başvuruda bulunulmasına
-bağlıdır. Bu başvuru ile Müsteşarlık veya Kurul aynı zamanda müdahil
-sıfatını kazanır. Cumhuriyet savcıları kovuşturmaya yer olmadığına karar
-verirlerse, Müsteşarlık veya Kurul, 4.4.1929 tarihli ve 1412 sayılı Ceza
-Muhakemeleri Usulü Kanununa göre kendisine tebliğ edilecek bu kararlara
-karşı itiraza yetkilidir.
+**MADDE 24 — (Değişik: 23/1/2008-5728/488 md.)**
 
-Bu maddeye göre açılacak davalar ilgili kuruluşun merkezinin bulunduğu
-yerdeki asliye ceza mahkemelerinde 8.6.1936 tarihli ve 3005 sayılı
-Meşhud Suçların Muhakeme Usulü Kanunu hükümlerine göre görülür. Bu yerde
-birden fazla asliye ceza mahkemesi bulunduğu takdirde bu davalara iki
-numaralı asliye ceza mahkemelerinde bakılır.
+Bu Kanunda belirtilen suçlara ilişkin soruşturma ve kovuşturma
+yapılması, konularına göre Müsteşarlık veya Kurul tarafından Cumhuriyet
+başsavcılığına yazılı başvuruda bulunulmasına bağlıdır. Bu başvuru
+muhakeme şartı niteliğindedir. Cumhuriyet savcıları kovuşturmaya yer
+olmadığına karar verirlerse, Müsteşarlık veya Kurul, Ceza Muhakemesi
+Kanununa göre kendisine tebliğ edilecek bu kararlara karşı itiraza
+yetkilidir. Bu fıkra uyarınca yapılan soruşturmalar neticesinde açılan
+kamu davalarında, Müsteşarlık veya Kurulun başvuruda bulunması hâlinde,
+bunlar başvuru tarihinde katılan sıfatını kazanırlar.
 
 **Genel hükümlerin saklılığı**
 
@@ -989,6 +975,12 @@ statüsünden "emeklilik şirketi" statüsüne geçişine, bu şirketlere
 faaliyet ruhsatı verilmesinde aranılacak şartlara, portföy devri
 yükümlülüklerine ve diğer hususlara ilişkin esas ve usuller
 Müsteşarlıkça belirlenir.
+
+–––––––––––––––––––
+
+*(1) Bu madde başlığı “Kovuşturma usulü” iken, 23/1/2008 tarihli ve 5728
+sayılı Kanunun 488 inci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
 Bu maddenin ikinci fıkrası kapsamında emeklilik şirketine dönüşen
 şirketler ile hayat branşında faaliyet gösteren ve yeni poliçe akdetme
@@ -1052,6 +1044,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4632 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5684                                                                         2, 5, 6, 17, 18, 20/A, Geçici Madde 1                         14/6/2007
+  5728                                                                         8, 22, 23, 24                                                 8/2/2008
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
