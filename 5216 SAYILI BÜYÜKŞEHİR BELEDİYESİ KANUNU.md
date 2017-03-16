@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun İlk Hali**
+**5216 sayılı Kanunun 5281 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -910,6 +910,11 @@ değişiklikleri; 9.8.1983 tarihli ve 2872 sayılı Çevre Kanununun 24 üncü
 maddesinin birinci fıkrasının (a) bendinin üçüncü paragrafı yürürlükten
 kaldırılmıştır.
 
+**(Ek fıkra: 30/12/2004 – 5281/40 md.)** Kanunlarda ve diğer mevzuatta,
+27.6.1984 tarihli ve 3030 sayılı Büyük Şehir Belediyelerinin Yönetimi
+Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında
+Kanun ile değişikliklerine yapılan atıflar bu Kanuna yapılmış sayılır.
+
 **GEÇİCİ MADDE 1.-** Büyükşehir belediyeleri, bu Kanunun yürürlüğe
 girdiği tarihten itibaren en geç iki yıl içinde büyükşehirin 1/25.000
 ölçekli nazım imar plânlarını yapar veya yaptırır.
@@ -1012,3 +1017,39 @@ ay başında, diğer maddeleri ise yayımı tarihinde yürürlüğe girer.
 **Yürütme**
 
 **MADDE 33.-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+  -------------------------- ------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
+  **Değiştiren Kanun No.**   **Değiştiren Kanun Yürürlüğe giriş tarihi**                              **Değiştiren Kanun**      **Anayasa Mahkemesi Karar Tarih/No.**   **5271 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                                                        
+                                                                                                      **Resmi Gazete Tarihi**                                           
+
+  5281                       23/7/2004 tarihinden itibaren geçerli olmak üzere 31/12/2004 tarihinde   31/12/2004                                                        31
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+
+                                                                                                                                                                        
+  -------------------------- ------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
+
+
