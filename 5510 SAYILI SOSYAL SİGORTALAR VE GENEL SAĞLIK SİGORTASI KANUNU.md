@@ -1,4 +1,4 @@
-**6111 sayılı Kanun ile değişik hali**
+**6191 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -2446,15 +2446,15 @@ işlerden 35-40 (40 hariç) m. derinlik veya 3,5-4 90
 
  
 
-13\) Türk Silâhlı Kuvvetlerinde Subay, yedek subay, astsubay, uzman
-jandarma
+13\) Türk Silâhlı Kuvvetlerinde ^(1)^ Subay, yedek subay, astsubay, uzman
+jandarma,
 
-ve uzman erbaşlar. 90
+uzman erbaşlar ve sözleşmeli erbaş ve erler. ^(1)^ 90
 
 14\) Emniyet ve polis mesleğinde, Asaleti onaylanmış olmak şartıyla
 adaylıkta geçirilen
 
-Milli İstihbarat Teşkilâtında ^(1)^ süreler dahil polis memuru, başpolis
+Milli İstihbarat Teşkilâtında ^(2)^ süreler dahil polis memuru, başpolis
 memuru ve
 
 kıdemli başpolis memuru, komiser yardımcısı, komiser,
@@ -2463,7 +2463,7 @@ baş komiser, emniyet amiri, emniyet müdürleri ile 90
 
 bu ve daha yukarı maaş ve derecelerdeki emniyet
 
-mensupları, Milli İstihbarat Teşkilâtı mensupları.^(1)^
+mensupları, Milli İstihbarat Teşkilâtı mensupları.^(2)^
 
  
 
@@ -2513,7 +2513,11 @@ içinde veya yurt dışında geçirdikleri normal doktora veya uzmanlık
 
 ––––––––––––––
 
-*(1) 16/6/2010 tarihli ve 5997 sayılı Kanunun 6 ncı maddesiyle, bu
+*(1) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu
+bentte yer alan “ve uzman erbaşlar” ibaresi “, uzman erbaşlar ve
+sözleşmeli erbaş ve erler” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+*(2) 16/6/2010 tarihli ve 5997 sayılı Kanunun 6 ncı maddesiyle, bu
 bentte yer alan “polis,” ibaresi “polis memuru, başpolis memuru ve
 kıdemli başpolis memuru,” olarak değiştirilmiş ve metne işlenmiştir.*
 
@@ -2879,9 +2883,9 @@ oranlarda ayrıca zam yapılmak suretiyle bağlanır:
 
 6 % 2
 
-Subay, astsubay, uzman jandarma, uzman erbaş ile Türk Silâhlı
-Kuvvetlerince görevlendirilen 4 üncü maddenin birinci fıkrasının (c)
-bendi kapsamındaki sigortalılardan;
+Subay, astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve er ile
+Türk Silâhlı Kuvvetlerince görevlendirilen 4 üncü maddenin birinci
+fıkrasının (c) bendi kapsamındaki sigortalılardan; ^(1)^
 
 a\) Harpte fiilen ateş altında,
 
@@ -2910,14 +2914,15 @@ veya yurda dönüş sırasında,
 
 vazife malûlü olanlara harp malûlü denir.
 
-Bunlardan uzman erbaşlara bulundukları kademenin üç ilerisindeki
-kademenin, uzman jandarmalara bulundukları rütbenin bir üst rütbesinin
-aynı kademesinin; astsubaylarla yarbay rütbesine kadar (yarbay hariç)
-bir üst rütbenin aynı kademesinin, yarbaylara albay, albaylara kıdemli
-albay, kıdemli albay ile general ve amirallere bir üst rütbenin, bu
-Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında
-bulunan sigortalılara ise bir üst derecesine veya kademesine karşılık
-gelen prime esas kazancı üzerinden aylık bağlanır.
+Bunlardan uzman erbaş ve sözleşmeli erbaş ve erlere bulundukları
+kademenin üç ilerisindeki kademenin, uzman jandarmalara bulundukları
+rütbenin bir üst rütbesinin aynı kademesinin; astsubaylarla yarbay
+rütbesine kadar (yarbay hariç) bir üst rütbenin aynı kademesinin,
+yarbaylara albay, albaylara kıdemli albay, kıdemli albay ile general ve
+amirallere bir üst rütbenin, bu Kanunun 4 üncü maddesinin birinci
+fıkrasının (c) bendi kapsamında bulunan sigortalılara ise bir üst
+derecesine veya kademesine karşılık gelen prime esas kazancı üzerinden
+aylık bağlanır. ^(1)^
 
 Bulundukları derecenin bir üst derecesi olmayanlar için o derecenin üç
 ilerisindeki kademe göstergesi, üç ilerisindeki kademe göstergesi
@@ -2954,6 +2959,14 @@ Bu madde gereğince vazife malûllüğü aylığı almakta iken veya vazife
 malûllüğü aylığı bağlanması gerekirken ölenlerin, hak sahiplerine,
 müstahak olmaları halinde harp malûllüğü zammı da dahil olmak üzere prim
 ödeme gün sayısına bakılmaksızın ölüm aylığı bağlanır.
+
+––––––––––––––
+
+*(1) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, 47 nci
+maddenin sekizinci fıkrasında yer alan “uzman erbaş” ibaresinden sonra
+gelmek üzere “, sözleşmeli erbaş ve er” ibaresi eklenmiş ve dokuzuncu
+fıkrasında yer alan “uzman erbaşlara” ibaresi “uzman erbaş ve sözleşmeli
+erbaş ve erlere” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 Harp malûlü olanlara verilecek harp malûllüğü zammı tutarının Kurumca
 belirlenecek peşin sermaye değeri toplamı en geç bir ay içinde Millî
@@ -3048,7 +3061,7 @@ fıkranın (b) bendine göre emekliye ayrılmak isteyenler için her durumda,
 istek tarihinden itibaren bir aylık süre sonunda ilişikleri kesilmiş
 sayılır.
 
-**İtibarî hizmet süreleri ve itibarî hizmet süresi primi**
+**İtibarî hizmet süreleri ve itibarî hizmet süresi primi** ^(1)^
 
 **MADDE 49-** **(Değişik: 17/4/2008-5754/29 md.)**
 
@@ -3059,8 +3072,8 @@ sayısı, yaş ve emeklilik ikramiyesinin hesabında nazara alınmayan
 süredir. Sigortalıların aşağıda yazılı görevlerde geçen zamlar hariç,
 fiilî hizmet sürelerinin her yılı için;
 
-a\) Subay (yedek subay dahil), astsubay, uzman jandarma ve uzman
-erbaşlardan;
+a\) Subay (yedek subay dahil), astsubay, uzman jandarma, uzman erbaş ve
+sözleşmeli erbaş ve erlerden;
 
 1\) Harbi doğuran genel ve kısmî seferberliğe katılanların, harbin
 ilânından seferberliğin bitim tarihine,
@@ -3145,6 +3158,13 @@ göre sigortalı olmayı gerektirecek çalışması bulunduğu tespit
 edilenlerin, zorunlu sigortalılıkla çakışan isteğe bağlı prim ödenen
 süreleri iptal edilerek, bu süreye ilişkin ödedikleri primler ilgililere
 iade edilir.
+
+––––––––––––––––––
+
+*(1) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu
+maddenin birinci fıkrasının (a) bendinde yer alan “ve uzman erbaşlardan”
+ibaresi “, uzman erbaş ve sözleşmeli erbaş ve erlerden” şeklinde
+değiştirilmiş ve metne işlenmiştir.*
 
 **(Ek fıkra: 17/4/2008-5754/31 md.)** Ay içerisinde 30 günden az çalışan
 veya 80 inci madde uyarınca prim ödeme gün sayısı, ay içindeki toplam
@@ -8974,6 +8994,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
                                                                     d\) 5510 sayılı Kanunun yukarıda sayılan hükümlere girmeyen maddeleri ile                                                                                                                                                                                                                                                                                                                                          
                                                                     18, 41, 51, 67, 96, 102, Geçici Madde 4, 7, 12, 28, 31, 33, 35, 36                                                                                                                                                                                                                                                                                                                                                 
+
+  6191                                                              40, 47, 49                                                                                                                                                                                                                                                                                                                                                                                                         22/3/2011
   ----------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------------------
 
 
