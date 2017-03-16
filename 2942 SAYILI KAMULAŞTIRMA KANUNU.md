@@ -1,4 +1,4 @@
-**6306 sayılı Kanun ile değişik hali **
+**6427 sayılı Kanun ile değişik hali **
 
  
 
@@ -1014,7 +1014,9 @@ ihtiyaca tahsisi lüzumu kalmaması halinde, keyfiyet idarece mal sahibi
 veya mirasçılarına 7201 sayılı Tebligat Kanunu hükümlerine göre
 duyurulur. Bu duyurma üzerine mal sahibi veya mirasçıları, aldığı
 kamulaştırma bedelini üç ay içinde ödeyerek taşınmaz malını geri
-alabilir.
+alabilir. **(Ek cümle: 14/2/2013 - 6427/3 md.)** Kamulaştırılan taşınmaz
+malda, kamulaştırma amacına uygun bir işlem veya tesisat yapılmasından
+sonra bu hüküm uygulanmaz.
 
              Ancak, kamulaştırılan taşınmaz mala kamulaştırmayı yapan
 idare dışında başka bir idare, kamulaştırma yoluyla
@@ -1415,9 +1417,7 @@ kadar bilirkişiler önceki hükme göre seçilir.
 
 6218-1
 
- 
-
-            *Kamulaştırmasız el koyma sebebiyle tazmin ^(1)^*
+*Kamulaştırmasız el koyma sebebiyle tazmin *
 
 **Geçici Madde 6 – (Ek: 18/6/2010-5999/1 md.)**
 
@@ -1466,13 +1466,13 @@ Temerrüt Faizine İlişkin Kanuna göre ayrıca kanuni faiz ödenir.
 İdare ve malik arasında uzlaşma sağlanamadığı takdirde, uzlaşmazlık
 tutanağının tanzim edildiği veya ikinci fıkradaki sürenin uzlaşmaya
 davet olmaksızın sona erdiği tarihten itibaren üç ay içerisinde malik
-tarafından sadece tazminat davası açılabilir. Dava açılması halinde,
-fiilen el konulan taşınmazın  veya  üzerinde  tesis edilen irtifak
-hakkının müracaat  tarihindeki değeri, ikinci fıkranın birinci
-cümlesindeki esaslara göre mahkemece tespit ve taşınmazın veya hakkın
-idare adına tesciline veya terkinine ve malike tazminat ödenmesine
-hükmedilir. Tescile veya terkine ilişkin hüküm kesin olup tarafların
-hükmedilen tazminata ilişkin temyiz hakkı saklıdır.
+tarafından (…) ^(1)^ tazminat davası açılabilir. Dava açılması halinde,
+fiilen el konulan taşınmazın veya üzerinde tesis edilen irtifak hakkının
+müracaat tarihindeki değeri, ikinci fıkranın birinci cümlesindeki
+esaslara göre mahkemece tespit ve taşınmazın veya hakkın idare adına
+tesciline veya terkinine ve malike tazminat ödenmesine hükmedilir.
+Tescile veya terkine ilişkin hüküm kesin olup tarafların hükmedilen
+tazminata ilişkin temyiz hakkı saklıdır. ^(1)^
 
 Kesinleşen mahkeme kararlarına istinaden bu madde uyarınca ödemelerde
 kullanılmak üzere, ihtiyaç olması halinde, idarelerin yılı bütçelerinde
@@ -1488,10 +1488,10 @@ hükümlerine göre işlem yapılabilir.
 
 –––––––––––––
 
-*(1) Bu maddenin uygulanması ile ilgili olarak 13/2/2011 tarihli ve 6111
-sayılı Kanunun Geçici 2 nci maddesine bakınız.*
-
- 
+*(1) Bu fıkrada yer alan “sadece” ibaresi, 22/2/2013 tarihli ve 28567
+sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 1/11/2012
+tarihli ve E.: 2010/83, K.: 2012/169 sayılı Kararı ile iptal
+edilmiştir.*
 
 6218-2
 
@@ -1555,12 +1555,14 @@ uygulanır.
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2942 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  **4650**                                                                     **–**                                                         **5/5/2001**
-  **5177**                                                                     **19**                                                        **5/6/2004**
-  **5999**                                                                     **Geçici Madde 6**                                            **30/6/2010**
-  **6306**                                                                     **15**                                                        **31/5/2012**
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  ---------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**               **2942 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  **4650**                                                                                 **–**                                                         **5/5/2001**
+  **5177**                                                                                 **19**                                                        **5/6/2004**
+  **5999**                                                                                 **Geçici Madde 6**                                            **30/6/2010**
+  **6306**                                                                                 **15**                                                        **31/5/2012**
+  **Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı Kararı**   **Geçici Madde 6**                                            **22/2/2013**
+  **6427**                                                                                 **22**                                                        **1/3/2013**
+  ---------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
