@@ -1,6 +1,4 @@
-**Anayasa Mahkemesi Kararı ile değişik hali**
-
- 
+**5655 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -10,7 +8,7 @@
 
 **Yayımlandığı R.Gazete : Tarih: 16/6/2006 Sayı : 26200**
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 45 Sayfa:**
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 45 **
 
  
 
@@ -3251,10 +3249,10 @@ hizmetleri.
 
 c\) Aile hekimi muayeneleri ve kişiye yönelik koruyucu sağlık hizmetleri.
 
-d\) Sağlık kurulu raporu ile belgelendirilmek şartıyla; Kurumca
-belirlenen kronik hastalıklar ve hayati önemi haiz 68 inci maddenin
-birinci fıkrasının (b) bendi kapsamındaki sağlık hizmetleri ile organ
-nakli.
+d\) Sağlık raporu ile belgelendirilmek şartıyla; Kurumca belirlenen
+kronik hastalıklar ve hayati önemi haiz 68 inci maddenin birinci
+fıkrasının (b) bendi kapsamındaki sağlık hizmetleri ile organ nakli.
+^(1)^
 
 e\) Kontrol muayeneleri.
 
@@ -3264,6 +3262,12 @@ ve (8) numaralı alt bentleri kapsamında sayılanlar, vazife malûlleri ile
 
 Bu madde gereğince katılım payı alınmayacak sağlık hizmetlerini tek tek
 veya gruplandırarak tespite Kurum yetkilidir.
+
+––––––––––––––––
+
+*(1) 9/5/2007 tarihli ve 5655 sayılı Kanunun 1 inci maddesiyle bu bentte
+yer alan "sağlık kurulu raporu" ibaresi "sağlık raporu" şeklinde
+değiştirilmiş ve metne işlenmiştir.*
 
 **Hizmet basamakları ve sevk zinciri**
 
@@ -3762,7 +3766,7 @@ K.:2006/112 sayılı Kararı ile Kanunun 4 üncü maddesinin birinci
 fıkrasının (c) bendi kapsamındaki sigortalılar yönünden iptal edilmiş
 olup, İptal Kararının Resmi Gazete’de yayımlanacağı güne kadar,
 15/12/2006 tarihli ve E:2006/111, K:2006/36 (Yürürlüğü Durdurma) sayılı
-Karar ile Yürürlüğü Durdurulmuştur, sözkonusu iptal kararı için
+Karar ile Yürürlüğü durdurulmuştur, sözkonusu iptal kararı için
 30/12/2006 tarihli ve 26392(5. Mükerrer) sayılı Resmi Gazete’ye
 bakınız.*
 
@@ -5854,8 +5858,33 @@ sayılmaz.
 
 **Yürürlük**
 
-**MADDE 108-** Bu Kanun 1/1/2007 tarihinde yürürlüğe girer.
+**MADDE 108-** Bu Kanun 1/1/2008 tarihinde yürürlüğe girer. ^(1)^
 
 **Yürütme**
 
 **MADDE 109-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+–––––––––––––––-
+
+*(1) 9/5/2007 tarihli ve 5655 sayılı Kanunun 1 inci maddesiyle, bu
+maddede yer alan "1/1/2007" ibaresi "1/1/2008" olarak değiştirilmiş ve
+metne işlenmiştir.*
+
+**5510 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren **                                                                    **5510 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+                                                                                                                                                   
+  **Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**                                                                                  
+
+  Anayasa Mahkemesi’nin 15/12/2006 tarihli, E.:2006/111, K.:2006/112 sayılı Kararı   81/c                                                          30/12/2006
+
+  5655                                                                               69,108                                                        20/5/2007
+  ---------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+
+
