@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 5728 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 5754 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -946,9 +946,31 @@ tutarında tazminat öder.
 işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen
 tutardır.
 
-Ücret, kural olarak, Türk parası ile işyerinde veya özel olarak açılan
-bir banka hesabına ödenir. Ücret yabancı para olarak kararlaştırılmış
-ise ödeme günündeki rayice göre Türk parası ile ödenebilir.
+**(Değişik ikinci fıkra:17/4/2008-5754/85 md.)** Ücret, prim, ikramiye
+ve bu nitelikteki her çeşit istihkak kural olarak, Türk parası ile
+işyerinde veya özel olarak açılan bir banka hesabına ödenir. Ücret,
+prim, ikramiye ve bu nitelikteki her çeşit istihkak, yabancı para olarak
+kararlaştırılmış ise ödeme günündeki rayice göre Türk parası ile ödeme
+yapılabilir. Çalıştırılan işçilerin ücret, prim, ikramiye ve bu
+nitelikteki her çeşit istihkakının özel olarak açılan banka hesabına
+yatırılmak suretiyle ödenmesi hususunda; tabi olduğu vergi mükellefiyeti
+türü, işletme büyüklüğü, çalıştırdığı işçi sayısı, işyerinin bulunduğu
+il ve benzeri gibi unsurları dikkate alarak işverenleri veya üçüncü
+kişileri zorunlu tutmaya, banka hesabına yatırılacak ücret, prim,
+ikramiye ve bu nitelikteki her çeşit istihkakının, brüt ya da kanuni
+kesintiler düşüldükten sonra kalan net miktar üzerinden olup
+olmayacağını belirlemeye Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye
+Bakanlığı ve Hazine Müsteşarlığından sorumlu Devlet Bakanlığı müştereken
+yetkilidir. Çalıştırdığı işçilerin ücret, prim, ikramiye ve bu
+nitelikteki her çeşit istihkakını özel olarak açılan banka hesapları
+vasıtasıyla ödeme zorunluluğuna tabi tutulan işverenler veya üçüncü
+kişiler, işçilerinin ücret, prim, ikramiye ve bu nitelikteki her çeşit
+istihkaklarını özel olarak açılan banka hesapları dışında ödeyemezler.
+
+**(Ek fıkra:17/4/2008-5754/85 md.)** İşçinin ücret, prim, ikramiye ve bu
+nitelikteki her çeşit istihkakının özel olarak açılan banka hesaplarına
+yatırılmak suretiyle ödenmesine ilişkin diğer usûl ve esaslar anılan
+bakanlıklarca müştereken çıkarılacak yönetmelikle düzenlenir.
 
 Emre muharrer senetle (bono ile), kuponla veya yurtta geçerli parayı
 temsil ettiği iddia olunan bir senetle veya diğer herhangi bir şekilde
@@ -2269,12 +2291,15 @@ cezasından hiçbir şekilde muaf tutulamaz.
 
 **MADDE 102. -** Bu Kanunun;
 
-a\) 32 nci maddesinde belirtilen ücret ile işçinin bu Kanundan veya toplu
-iş sözleşmesinden veya iş sözleşmesinden doğan ücretini süresi içinde
-kasden ödemeyen veya eksik ödeyen, 39 uncu maddesinde belirtilen
-komisyonun belirlediği asgari ücreti işçiye ödemeyen veya noksan ödeyen
-işveren veya işveren vekiline bu durumda olan her işçi ve her ay için
-yüz milyon lira para cezası,
+a\) **(Değişik bent:17/4/2008-5754/85 md.)** 32 nci maddesinde belirtilen
+ücret ile işçinin bu Kanundan veya toplu iş sözleşmesinden veya iş
+sözleşmesinden doğan ücret ödemelerini süresi içinde kasden ödemeyen
+veya eksik ödeyen, 39 uncu maddesinde belirtilen komisyonun belirlediği
+asgari ücreti işçiye ödemeyen veya noksan ödeyen, ücret, prim, ikramiye
+ve bu nitelikteki her çeşit istihkakını zorunlu tutulduğu halde özel
+olarak açılan banka hesabına ödemeyen işveren, işveren vekili ve üçüncü
+kişiye bu durumda olan her işçi ve her ay için yüz Yeni Türk Lirası
+idari para cezası,
 
 b\) 37 nci maddesine aykırı olarak ücrete ilişkin hesap pusulası
 düzenlemeyen veya işçi ücretlerinden 38 inci maddeye aykırı olarak ücret
@@ -2553,6 +2578,8 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     5538              12/7/2006                 12/7/2006                                -                                        2, 81
 
   1.     5728              8/2/2008                  8/2/2008                                 -                                        107, 108
+
+  1.     5754              8/5/2008                  8/5/2008                                 -                                        32, 102
   ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------
 
 
