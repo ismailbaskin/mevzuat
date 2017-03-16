@@ -1,4 +1,4 @@
-**6487 sayılı Kanun ile değişik hali**
+7533
 
 []{#K34 .anchor}**TÜTÜN ÜRÜNLERİNİN ZARARLARININ ÖNLENMESİ VE KONTROLÜ
 HAKKINDA KANUN ^(1)^**
@@ -9,7 +9,7 @@ HAKKINDA KANUN ^(1)^**
 
 **Yayımlandığı R.Gazete : Tarih : 26/11/1996 Sayı : 22829**
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 36 Sayfa :**
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 36 **
 
 *Amaç*
 
@@ -327,13 +327,14 @@ yer alan “ve onbirinci" ibaresi madde metinden çıkarılmıştır.*
 
 7534-3
 
-\(4) 3 üncü maddenin altıncı fıkrasındaki yasağın görsel yayın yoluyla
-ihlal edilmesi halinde; yerel yayın yapan kuruluşlar, bin Türk
-Lirasından beşbin Türk Lirasına kadar, bölgesel yayın yapan kuruluşlar,
-beşbin Türk Lirasından onbin Türk Lirasına kadar, ulusal yayın yapan
-kuruluşlar, ellibin Türk Lirasından yüzbin Türk Lirasına kadar idarî
-para cezası ile cezalandırılır. Bu cezaya karar vermeye Radyo ve
-Televizyon Üst Kurulu yetkilidir.
+\(4) **(Değişik: 10/9/2014-6552/111 md.)** 3 üncü maddenin altıncı
+fıkrasındaki yasağın görsel yayın yoluyla ihlal edilmesi hâlinde, yasağa
+aykırı yayın yapan medya hizmet sağlayıcı kuruluşa ihlalin ağırlığı ve
+yayının ortamı ve alanı göz önünde bulundurularak, ihlalin tespit
+edildiği aydan bir önceki aydaki brüt ticari iletişim gelirinin yüzde
+birinden üçüne kadar idari para cezası verilir. İdari para cezası
+miktarı, on bin Türk lirasından az olamaz. Bu cezaya karar vermeye Radyo
+ve Televizyon Üst Kurulu yetkilidir.
 
 \(5) **(Değişik: 13/2/2011-6111/202 md.)** 3 üncü maddenin yedinci
 fıkrasındaki yasağa aykırı hareket edenler, mahalli mülki amir
@@ -370,13 +371,11 @@ cezasının miktarı ikiyüzellibin Türk Lirasından az olamaz.
 
 \(13) **(Mülga: 3/4/2008-5752/6 md.)**
 
-\(14) 4 üncü maddenin yedinci fıkrasındaki yükümlülüklere aykırı hareket
-edilmesi halinde; yerel yayın yapan televizyon kuruluşları bin Türk
-Lirasından beşbin Türk Lirasına kadar, bölgesel yayın yapan televizyon
-kuruluşları beşbin Türk Lirasından onbin Türk Lirasına kadar, ulusal
-yayın yapan televizyon kuruluşları ellibin Türk Lirasından ikiyüzellibin
-Türk Lirasına kadar idarî para cezası ile cezalandırılır. Bu cezalar,
-radyo yayını yapan kuruluşlar hakkında ondabir oranında uygulanır. Bu
+\(14) **(Değişik: 10/9/2014-6552/111 md.)** 4 üncü maddenin yedinci
+fıkrasındaki yükümlülüklere aykırı hareket edilmesi hâlinde medya hizmet
+sağlayıcı kuruluşlara, ihlalin tespit edildiği aydan bir önceki aydaki
+brüt ticari iletişim gelirinin yüzde biri oranında idari para cezası
+verilir. İdari para cezası miktarı on bin Türk lirasından az olamaz. Bu
 cezaya karar vermeye Radyo ve Televizyon Üst Kurulu yetkilidir.
 
 \(15) Bu Kanunla kendilerine yüklenen görevleri yerine getirmeyen
@@ -451,33 +450,38 @@ değiştirilmiş ve metne işlenmiştir.*
 
 7534-5
 
-**4207 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+**4207 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
-**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL **
 
-**Değiştiren Yürürlüğe**
+**EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
-***Kanun 4207 sayılı Kanunun değişen maddeleri giriş tarihi***
+**GÖSTERİR LİSTE**
 
-5727 Kanunun Adı, 1, 2, 3, 4, 5, 7, 8 ve Geçici Madde 1 Yayım tarihi
-olan
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **4207 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş **
+                                                                                                                                                  
+                                                                                                                                                  **Tarihi**
 
-19/1/2008 tarihinden 4 ay sonra 19/5/2008 tarihinde
+  5727                                                                              Kanunun Adı, 1, 2, 3, 4, 5, 7, 8 ve Geçici Madde 1            19/1/2008 tarihinden 4 ay sonra 19/5/2008 tarihinde
+                                                                                                                                                  
+                                                                                    2 nci maddenin birinci fıkrasının (d) bendi                   19/1/2008 tarihinden 18 ay sonra 19/7/2009
+                                                                                                                                                  
+                                                                                                                                                  Tarihinde
 
-2 nci maddenin birinci fıkrasının (d) bendi Yayım tarihi olan
+  5739                                                                              6                                                             19/5/2008
 
-19/1/2008 tarihinden 18
+  5752                                                                              4, 5                                                          19/5/2008
 
-ay sonra 19/7/2009 tarihinde
+  5917                                                                              3                                                             10/7/2009
 
-5739 6 19/5/2008
+  6111                                                                              5                                                             25/2/2011
 
-5752 4, 5 19/5/2008
+  6354                                                                              3, 4, 5, Geçici Madde 4                                       12/7/2012
 
-5917 3 10/7/2009
+  6487                                                                              2, 5                                                          11/6/2013
 
-6111 5 25/2/2011
+  6552                                                                              5                                                             11/9/2014
+  --------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------------
 
-6354 3, 4, 5, Geçici Madde 4 12/7/2012
 
-6487 2, 5 11/6/2013
