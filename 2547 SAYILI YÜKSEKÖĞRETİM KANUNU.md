@@ -1,6 +1,9 @@
-[]{#K1 .anchor}**6528 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 9/4/2014 tarihli **
 
-**YÜKSEKÖĞRETİM KANUNU**
+**ve E.: 2014/61, K.: 2014/6 (Yürürlüğü Durdurma) sayılı Kararı ile
+değişik hali**
+
+[]{#K1 .anchor}**YÜKSEKÖĞRETİM KANUNU**
 
 **Kanun Numarası : 2547 **
 
@@ -1616,9 +1619,9 @@ ve yüksekokul müdür yardımcıları ve bölüm başkanları, bu madde
 hükümlerine göre haftada asgari beş saat ders vermekle yükümlüdür.
 
 **(Ek fıkra: 8/8/2011-KHK-650/40 md.; İptal fıkra: Anayasa Mahkemesi’nin
-18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.**)
-**(…)** **^(1)^;** **Yeniden düzenleme: 2/1/2014-6514/11 md.)** Kamu
-kurum ve kuruluşlarının ve vakıflara ait olanlar da dâhil olmak üzere
+18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.;**
+**Yeniden düzenleme: 2/1/2014-6514/11 md.)** Kamu kurum ve
+kuruluşlarının ve vakıflara ait olanlar da dâhil olmak üzere
 yükseköğretim kurumlarının kadro ve pozisyonlarında bulunmayan profesör
 ve doçentler, tıp ve diş hekimliği fakültelerinin ihtiyaç duyulan
 alanlarında teorik ve uygulamalı eğitim ve öğretim ile araştırma
@@ -1724,7 +1727,7 @@ muayene ve tedavisi ve bunlarla ilgili tahliller ve araştırmalar
 yapılabilir. Bu hususta alınacak ücretler ilgili yükseköğretim kurumunun
 veya buna bağlı birimin döner sermayesine gelir kaydedilir.
 
-*Kamu kuruluşları ve vakıflarda görevlendirme: ^(2)\ ^*
+*Kamu kuruluşları ve vakıflarda görevlendirme: ^(1)\ ^*
 
 **Madde 38 – (Değişik: 29/11/1983 - KHK - 243/46 md.) **
 
@@ -1742,13 +1745,8 @@ görevlendirilenler döner sermayeden yararlanamaz.
 
 ——————————
 
-*(1) Sözkonusu İptal Kararı Resmî Gazete’de yayımlandığı 1/1/2013
-tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.*
-
-*(2) Bu madde başlığı 17/8/1983 tarihli ve 2880 sayılı Kanunun 20 nci
-maddesiyle değiştirilmiş ve metne işlenmiştir.*
-
-5366-2
+\(1) Bu madde başlığı 17/8/1983 tarihli ve 2880 sayılı Kanunun 20 nci
+maddesiyle değiştirilmiş ve metne işlenmiştir.
 
 5367
 
@@ -2960,12 +2958,12 @@ toplamda tavan oranları geçmemek üzere döner sermayeden ek ödeme
 yapılır.
 
 d\) Ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu ve
-bünyesinde atölye veya laboratuvar bulunan kurumları ile sürekli eğitim
-merkezleri, açık öğretim hizmeti veren yükseköğretim kurumları ile
-düzenli döner sermaye geliri olan yükseköğretim kurumlarında üretilen
-mal ve hizmetlerden elde edilen döner sermaye gelirlerine katkısı
-bulunan öğretim elemanlarına yapılacak ek ödemeler hakkında da (c)
-fıkrası hükümleri uygulanır. ^(1)(2)^
+bünyesinde atölye veya laboratuvar bulunan yükseköğretim kurumları ile
+sürekli eğitim merkezleri, açık öğretim hizmeti veren yükseköğretim
+kurumları ile düzenli döner sermaye geliri olan yükseköğretim
+kurumlarında üretilen mal ve hizmetlerden elde edilen döner sermaye
+gelirlerine katkısı bulunan öğretim elemanlarına yapılacak ek ödemeler
+hakkında da (c) fıkrası hükümleri uygulanır. ^(1)(2)^
 
 e\) Yükseköğretim kurumlarının (c) ve (d) fıkraları kapsamına girenler
 haricindeki diğer birimlerinde döner sermaye işletmesi hesabına yapılan
@@ -3010,9 +3008,9 @@ alabilecekleri toplam ek ödeme tutarı, hiçbir şekilde yönetici payı
 dahil ilgisine göre (c) ve (d) fıkralarında belirtilen esaslara göre
 hesaplanacak tutarı geçemez. ^(1)\ ^
 
-*––––––––––––*
+––––––––––––
 
-*(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (d)
+\(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (d)
 fıkrasında yer alan “kurumlarında üretilen” ibaresi “kurumları ile
 sürekli eğitim merkezleri, açık öğretim hizmeti veren yükseköğretim
 kurumları ile düzenli döner sermaye geliri olan yükseköğretim
@@ -3021,12 +3019,12 @@ paragrafında yer alan “hizmeti veren” ibaresinden önce gelmek üzere
 “veya hizmet bedelinin peşin tahsil edilmesi halinde hizmetin
 gerçekleşme oranına bağlı olarak aylara bölünerek” ibaresi eklenmiş, (f)
 fıkrasının üçüncü paragrafında yer alan “(c), (d) ve (e)” ibaresi “(c)
-ve (d)” şeklinde değiştirilmiş ve metne işlenmiştir.*
+ve (d)” şeklinde değiştirilmiş ve metne işlenmiştir.
 
-*(2) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, d)
+\(2) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, d)
 fıkrasında yer alan “personele” ibaresi “öğretim elemanlarına” şeklinde,
 (e) fıkrasında yer alan “, memurlara ve sözleşmeli personele ödenir.”
-ibaresi “ödenir.” şeklinde değiştirilmiş ve metne işlenmiştir.*
+ibaresi “ödenir.” şeklinde değiştirilmiş ve metne işlenmiştir.
 
 5379
 
@@ -3048,12 +3046,12 @@ ile aynı Kanunun 4 üncü maddesinin (B) fıkrasına göre sözleşmeli olarak
 maddesi kapsamında ödeme yapılır ve bunlara bu madde uyarınca ayrıca ek
 ödeme yapılmaz.
 
-h\) **(Ek fıkra: 2/1/2014-6514/12 md.)** Öğretim üyelerinin mesai
-saatleri dışında üniversitede sundukları sağlık hizmetlerinden dolayı
-31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık
-Sigortası Kanununun 73 üncü maddesinin üçüncü fıkrası uyarınca alınan
-ilave ücretler döner sermaye işletmesinin ayrı bir hesabında toplanır.
-Bu tutardan ayrıca Hazine payı kesintisi ve (b) fıkrası uyarınca kesinti
+h\) **(Ek: 2/1/2014-6514/12 md.)** Öğretim üyelerinin mesai saatleri
+dışında üniversitede sundukları sağlık hizmetlerinden dolayı 31/5/2006
+tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası
+Kanununun 73 üncü maddesinin üçüncü fıkrası uyarınca alınan ilave
+ücretler döner sermaye işletmesinin ayrı bir hesabında toplanır. Bu
+tutardan ayrıca Hazine payı kesintisi ve (b) fıkrası uyarınca kesinti
 yapılmaz. Bu şekilde elde edilen gelirin yüzde 50’sinden az ve yüzde
 60’ından fazla olmamak üzere üniversite yönetim kurulunca tespit
 edilecek oranı, mesai saatleri dışında sağlık hizmeti sunan öğretim
@@ -3067,14 +3065,14 @@ uyarınca yapılacak ek ödeme toplamı ek ödeme matrahının yüzde 1600’ün
 geçemez. Bu fıkra uyarınca dağıtılan gelirlerden kalan tutarlar (b)
 fıkrasında belirtilen işler ile (c) fıkrasının ikinci paragrafı uyarınca
 fiilen mesai dışında çalışan diğer personele yapılacak ek ödemede
-kullanılır.
+kullanılır. ^(1)^
 
-ı) **(Ek fıkra: 2/1/2014-6514/12 md.)** Öğretim üyelerinin 36 ncı
-maddenin yedinci fıkrası uyarınca çalışmaları karşılığı elde edilen
-gelirler döner sermaye işletmesinin ayrı bir hesabında toplanır. Bu
-tutardan (b) fıkrası uyarınca kesinti yapılmaz. Bu gelirin yüzde 50’si,
-herhangi bir limite bağlı olmaksızın hizmeti sunan öğretim üyesine
-ödenir ve kalan tutar (b) fıkrasında belirtilen işler için kullanılır.
+ı) **(Ek : 2/1/2014-6514/12 md.)** Öğretim üyelerinin 36 ncı maddenin
+yedinci fıkrası uyarınca çalışmaları karşılığı elde edilen gelirler
+döner sermaye işletmesinin ayrı bir hesabında toplanır. Bu tutardan (b)
+fıkrası uyarınca kesinti yapılmaz. Bu gelirin yüzde 50’si, herhangi bir
+limite bağlı olmaksızın hizmeti sunan öğretim üyesine ödenir ve kalan
+tutar (b) fıkrasında belirtilen işler için kullanılır. ^(1)^
 
 i\) **(Değişik: 17/2/2011-6114/17 md.)** Döner sermaye işletmesi
 faaliyetlerinin gerçekleştirilmesinde, kaynakların ekonomik, verimli ve
@@ -3097,12 +3095,18 @@ yapılacak ek ödemenin net tutarı, 375 sayılı Kanun Hükmünde Kararnamenin
 ek 9 uncu maddesi uyarınca kadro ve görev unvanı veya pozisyon unvanı
 itibarıyla belirlenmiş olan ek ödemenin net tutarından az olamaz. Bu
 kapsamda ek ödemeden yararlanan personele, ayrıca 375 sayılı Kanun
-Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ödeme yapılmaz.
+Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca ödeme yapılmaz. ^(1)^
 
 j\) Döner sermaye işletmelerinin faaliyet alanları, gelir ve giderleri,
 sermaye limitleri ile işletmelerin yönetimine ilişkin esas ve usuller
 Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulunca
-çıkarılacak yönetmelikle belirlenir.
+çıkarılacak yönetmelikle belirlenir. ^(1)^
+
+––––––––––––––
+
+*(1) 2/1/2014 tarihli ve 6514 sayılı Kanunun 12 nci maddesiyle, bu
+maddeye (g) fıkrasından sonra gelmek üzere “h” ve “ı” fıkraları eklenmiş
+ve mevcut fıkralar buna göre teselsül ettirilmiştir.*
 
 5380
 
@@ -5210,7 +5214,7 @@ tarihten itibaren ilişiklerinin kesildiği yükseköğretim kurumuna
 başvuruda bulunmaları hâlinde geçici 58 inci maddede yer alan esaslara
 göre, takip eden eğitim-öğretim yılında öğrenimlerine başlayabilirler.
 
-**Geçici Madde 64 –** **(Ek: 2/1/2014-6514/14 md.)**
+**Geçici Madde 64 –** **(Ek: 2/1/2014-6514/14 md.)*^(1)^***
 
 Bu maddenin yürürlüğe girdiği tarih itibarıyla mesai saatleri dışında
 serbest meslek faaliyetinde bulunmakta veya özel kuruluşlarda çalışmakta
@@ -5254,6 +5258,13 @@ d\. Diğer hükümleri yayımı tarihinde yürürlüğe girer.
 *Yürütme:*
 
 **Madde 68 – **Bu kanunu Bakanlar Kurulu yürütür.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Anayasa Mahkemesi’nin 11/4/2014 tarihli ve 28969 sayılı Resmi
+Gazete’de yayımlanan 9/4/2014 tarihli ve E.: 2014/61, K.: 2014/6
+(Yürürlüğü Durdurma) sayılı Kararı ile bu maddenin yürürlüğü
+durdurulmuştur.*
 
 5389
 
@@ -5806,18 +5817,20 @@ TARİHİNİ GÖSTERİR LİSTE**
 
 5394-4
 
-  -------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                **2547 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  ---------------------------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                                    **2547 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
 
-  Anayasa                                                                                36 ncı maddenin altıncı fıkrası ile Geçici Madde 59           1/1/2013 tarihinden başlayarak altı ay sonra
-                                                                                                                                                       
-  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                           (1/7/2013)
+  Anayasa                                                                                                    36 ncı maddenin altıncı fıkrası ile Geçici Madde 59           1/1/2013 tarihinden başlayarak altı ay sonra
+                                                                                                                                                                           
+  Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı                                                                                               (1/7/2013)
 
-  Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı   58                                                            10/10/2013
+  Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı                       58                                                            10/10/2013
 
-  6514                                                                                   36, 58, Ek madde 29, Geçici Madde 64, Geçici madde 65         18/1/2014
+  6514                                                                                                       36, 58, Ek madde 29, Geçici Madde 64, Geçici madde 65         18/1/2014
 
-  6528                                                                                   53                                                            14/3/2014
-  -------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------
+  6528                                                                                                       53                                                            14/3/2014
+
+  Anayasa Mahkemesi’nin 9/4/2014 tarihli ve E.: 2014/61, K.: 2014/6 (Yürürlüğü Durdurma) sayılı Kararı ile   Geçici Madde 64                                               11/4/2014
+  ---------------------------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------
 
 
