@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 6009 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 6111 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -1787,6 +1787,9 @@ sekiz hafta olmak üzere toplam onaltı haftalık süre için
 sağlık durumu uygun olduğu takdirde, doktorun onayı ile kadın işçi
 isterse doğumdan önceki üç haftaya kadar işyerinde çalışabilir. Bu
 durumda, kadın işçinin çalıştığı süreler doğum sonrası sürelere eklenir.
+**(Ek cümle:13/2/2011-6111/76 md.)** Kadın işçinin erken doğum yapması
+halinde ise doğumdan önce kullanamadığı çalıştırılmayacak süreler, doğum
+sonrası sürelere eklenmek suretiyle kullandırılır.
 
 Yukarıda öngörülen süreler işçinin sağlık durumuna ve işin özelliğine
 göre doğumdan önce ve sonra gerekirse artırılabilir. Bu süreler hekim
@@ -2172,6 +2175,12 @@ uygulanmasını izler, denetler ve teftiş eder. Bu ödev Çalışma ve Sosyal
 Güvenlik Bakanlığına bağlı ihtiyaca yetecek sayı ve özellikte teftiş ve
 denetlemeye yetkili iş müfettişlerince yapılır.
 
+**(Ek fıkra:13/2/2011-6111/77 md.)** 30/1/1950 tarihli ve 5521 sayılı İş
+Mahkemeleri Kanununun 10 uncu maddesine istinaden iş sözleşmesi fiilen
+sona eren işçilerin kanundan, iş ve toplu iş sözleşmesinden doğan
+bireysel alacaklarına ilişkin şikayetleri Çalışma ve Sosyal Güvenlik
+Bakanlığı bölge müdürlüklerince incelenir.
+
 Askeri işyerleriyle yurt güvenliği için gerekli maddeler üretilen
 işyerlerinin denetim ve teftişi konusu ve sonuçlarına ait işlemler Milli
 Savunma Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığınca birlikte
@@ -2191,16 +2200,26 @@ suç sayılan eylemlere rastladığı zaman bu hususta Çalışma ve Sosyal
 Güvenlik Bakanlığı tarafından çıkarılacak İş Teftişi Tüzüğünde açıklanan
 şekillerde bu halleri önlemek yetkisine sahiptirler.
 
-Teftiş ve denetleme sırasında işverenler, işçiler ve bu işle ilgili
-görülen başka kişiler izleme, denetleme ve teftişle görevli iş
-müfettişleri tarafından çağrıldıkları zaman gelmek, ifade ve bilgi
-vermek, gerekli olan belge ve delilleri getirip göstermek ve vermek ve
-birinci fıkrada yazılı görevlerini yapmak için kendilerine her çeşit
-kolaylığı göstermek ve bu yoldaki emir ve isteklerini geciktirmeksizin
-yerine getirmekle yükümlüdürler.
+**(Değişik fıkra:13/2/2011-6111/78 md.)** Teftiş, denetleme ve
+incelemeler sırasında işverenler, işçiler ve bu işle ilgili görülen
+başka kişiler izleme, denetleme ve teftişle görevli iş müfettişleri ve
+işçi şikayetlerini inceleyen bölge müdürlüğü memurları tarafından
+çağrıldıkları zaman gelmek, ifade ve bilgi vermek, gerekli olan belge ve
+delilleri getirip göstermek ve vermek; iş müfettişlerinin birinci
+fıkrada yazılı görevlerini yapmaları için kendilerine her çeşit
+kolaylığı göstermek, bu yoldaki isteklerini geciktirmeksizin yerine
+getirmekle yükümlüdürler.
 
-Çalışma hayatını izleme, denetleme ve teftişe yetkili iş müfettişleri
-tarafından tutulan tutanaklar aksi kanıtlanıncaya kadar geçerlidir.
+**(Değişik fıkra:13/2/2011-6111/78 md.)** Çalışma hayatını izleme,
+denetleme ve teftişe yetkili iş müfettişleri ile işçi şikayetlerini
+incelemekle görevli bölge müdürlüğü memurları tarafından tutulan
+tutanaklar aksi kanıtlanıncaya kadar geçerlidir. İş müfettişleri
+tarafından düzenlenen raporların ve tutulan tutanakların işçi
+alacaklarına ilişkin kısımlarına karşı taraflarca otuz gün içerisinde
+yetkili iş mahkemesine itiraz edilebilir. İş mahkemesinin kararına karşı
+taraflarca 5521 sayılı Kanunun 8 inci maddesine göre kanun yoluna
+başvurulabilir. Kanun yoluna başvurulması iş mahkemesince hüküm altına
+alınan işçi alacağının tahsiline engel teşkil etmez.
 
 **Yetkili memurların ödevi**
 
@@ -2450,11 +2469,14 @@ para cezası verilir.
 
 Bu Kanunda öngörülen idari para cezaları, 101 ve 106 ncı maddelerdeki
 idari para cezaları hariç, gerekçesi belirtilmek suretiyle Çalışma ve
-Sosyal Güvenlik Bakanlığı Bölge Müdürünce verilir. 101 ve 106 ncı
-maddeler kapsamındaki idari para cezaları ise doğrudan Türkiye İş Kurumu
-İl Müdürü tarafından verilir ve genel esaslara göre tahsil edilir. 106
-ncı maddeye göre verilecek idari para cezası için, 4904 sayılı Kanunun
-20 nci maddesinin (h) bendindeki tutar esas alınır.
+Sosyal Güvenlik Bakanlığı Bölge Müdürünce verilir. **(Değişik
+cümle:13/2/2011-6111/79 md.)** 101 inci ve 106 ncı maddeler kapsamındaki
+idari para cezaları ise doğrudan Türkiye İş Kurumu il müdürü tarafından;
+birden fazla ilde işyerleri bulunan işverenlere uygulanacak idari para
+cezası ise işyerlerinin merkezinin bulunduğu yerdeki Türkiye İş Kurumu
+il müdürünce verilir ve genel esaslara göre tahsil edilir. 106 ncı
+maddeye göre verilecek idari para cezası için, 4904 sayılı Kanunun 20
+nci maddesinin (h) bendindeki tutar esas alınır.
 
 DOKUZUNCU BÖLÜM
 
@@ -2701,6 +2723,10 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
                            (Mükerrer)                                                                                                                    
 
   1.     6009              1/8/2010                  1/8/2010                                                   -                                        2, 81
+
+  1.     6111              25/2/2011                 25/2/2011                                                  -                                        74, 91, 92, 108
+                                                                                                                                                         
+                           (1. Mükerrer)                                                                                                                 
   ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- --------------------------------------------------
 
 [^1]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
