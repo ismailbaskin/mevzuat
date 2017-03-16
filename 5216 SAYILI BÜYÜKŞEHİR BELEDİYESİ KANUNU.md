@@ -1,4 +1,4 @@
-**5216 sayılı Kanunun 5568 sayılı Kanun ile Değişik Hali**
+**5216 sayılı Kanunun 5594 sayılı Kanun ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU**
 
@@ -961,7 +961,7 @@ kaldırılmıştır.
 Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında
 Kanun ile değişikliklerine yapılan atıflar bu Kanuna yapılmış sayılır.
 
-**EK MADDE 1. — (EK: 1/7/2005-5378/ 40 md.) **
+**EK MADDE 1. — (Ek: 1/7/2005-5378/ 40 md.) **
 
 Büyükşehir belediyelerinde özürlülerle ilgili bilgilendirme,
 bilinçlendirme, yönlendirme, danışmanlık, sosyal ve mesleki
@@ -972,6 +972,72 @@ sürdürürler. Özürlü hizmet birimlerinin kuruluş, görev, yetki,
 sorumluluk ve işleyişine ilişkin usûl ve esaslar Özürlüler İdaresi
 Başkanlığının görüşü alınarak İçişleri Bakanlığınca hazırlanacak
 yönetmelikle belirlenir.
+
+**EK MADDE 2-** **(Ek: 6/3/2007-5594/ 1 md.)**
+
+Birleşme, katılma veya geçici 2 nci madde gereğince büyükşehir
+belediyesi sınırlarına giren belediyelerin yürütmekte olduğu su,
+kanalizasyon, katı atık, ulaşım, her çeşit yolcu ve yük terminalleri,
+toptancı halleri, mezbaha, mezarlık ve itfaiye hizmetlerine ilişkin
+olmak üzere bina, tesis, araç, gereç, taşınır ve taşınmaz malları ve bu
+hizmetlerin yerine getirilmesine yönelik yatırım, alacak ve borçları
+büyükşehir belediyesine veya ilgili bağlı kuruluşuna devredilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesi ile bu
+fıkranın ikinci cümlesinde yer alan "% 3’ünü" oranı "% 10’unu" olarak
+değiştirilmiştir.*
+
+Bu maddenin birinci fıkrasında belirtilen hizmet alanlarında Devlet
+memuru olarak çalışmakta olanlar kadrolarıyla birlikte, 5393 sayılı
+Belediye Kanununun 49 uncu maddesinin üçüncü fıkrasına göre sözleşmeli
+personel statüsünde çalışmakta olanlar ise bu şekilde çalışmalarına esas
+teşkil eden kadrolar ile birlikte büyükşehir belediyesine veya ilgili
+bağlı kuruluşuna devredilir. Devredilen personelin aylık, ek gösterge,
+her türlü zam ve tazminatları ile diğer malî haklarının ödenmeye devam
+olunması, atanma ve kadro unvanlarının yeniden düzenlenmesinde 5393
+sayılı Kanunun 50 nci maddesi hükümleri uygulanır.
+
+Bu maddenin birinci fıkrasında belirtilen hizmet alanlarında ilgili
+mevzuatı uyarınca ihdası ya da vizesi yapılmış sürekli işçi kadrolarında
+veya geçici iş pozisyonlarında 4857 sayılı İş Kanununa göre çalışmakta
+olanlar ise mevcut kadro ve pozisyonları ile birlikte büyükşehir
+belediyesine veya ilgili bağlı kuruluşuna devredilir. Devredilen
+işçilerin ücret ile diğer malî ve sosyal hakları, devir işleminden önce
+haklarında uygulanmakta olan toplu iş sözleşmesi veya bireysel iş
+sözleşmesi hükümlerine göre belirlenmeye devam olunur. Pozisyon
+değişikliği hali dahil yapılacak bu devir işlemi, ücret ile diğer malî
+ve sosyal haklarda değişiklik yapılmasına hak kazandırmaz ve başka bir
+toplu iş sözleşmesinin uygulanmasını isteme hakkını vermez. Devir
+işleminden sonra yapılacak toplu iş sözleşmelerine ise bu işçilerin
+mevcut ücret ile diğer malî haklarında diğer işçiler için
+kararlaştırılacak artış oranı veya miktarını geçecek şekilde artış
+öngören ya da diğer işçilerden farklı yeni malî ve sosyal haklar
+verilmesini sağlayacak hükümler konulamaz.
+
+Bu madde uyarınca personel devri yapılan büyükşehir belediyesinin talebi
+üzerine, büyükşehir belediyesinin veya bağlı kuruluşun norm kadro alt
+grubunu veya bulunduğu alt grup itibarıyla ihdas edilebilecek kadro
+sayılarını, devir işlemini takip eden bir yıl içerisinde tekrar
+belirlemeye İçişleri Bakanlığı yetkilidir.
+
+Bu madde kapsamında yapılacak devir işlemleri, söz konusu belediyelerin
+temsiline imkân verecek şekilde valiliklerce teşekkül ettirilecek
+komisyonlarca yürütülür.
+
+Daha önce yapılan devirler hariç olmak üzere, devir işlemleri bu
+maddenin yayımı tarihinden itibaren altı ay içinde tamamlanır. Devir
+işlemleri kesinleşene kadar söz konusu hizmetler, ilgili belediyesince
+yürütülmeye devam olunur.
+
+Büyükşehir belediyesi sınırlarına giren belediyelerin, kanunların
+verdiği yetkiye dayanarak yürütmekte oldukları toplu taşıma ve ulaşım
+hizmetlerinin, gerçek ve tüzel kişilere yaptırılması amacıyla verilen
+ruhsat, imtiyaz sözleşmesi ve ulaşım araçları kira sözleşmesi, ruhsatta
+öngörülen süre ve sahip oldukları hat güzergâhı ile sınırlı olmak
+şartıyla herhangi bir işleme gerek kalmaksızın büyükşehir belediyesi
+toplu taşım ve ulaşım sistemine dahil edilir.
 
 **GEÇİCİ MADDE 1.-** Büyükşehir belediyeleri, bu Kanunun yürürlüğe
 girdiği tarihten itibaren en geç iki yıl içinde büyükşehirin 1/25.000
@@ -991,12 +1057,6 @@ beldeler büyükşehir ilk kademe belediyeleri haline gelir. Bu belediyeler
 hakkında bu Kanun ile Belediye Kanununun belediyelerin tüzel
 kişiliklerinin kaldırılmasına veya başka bir belediyeye katılmasına
 ilişkin hükümleri uygulanmaz.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesi ile bu
-fıkranın ikinci cümlesinde yer alan "% 3’ünü" oranı "% 10’unu" olarak
-değiştirilmiştir.*
 
 Bu sınırlar içinde kalan köylerin tüzel kişiliği sona ererek mahalleye
 dönüşür. Bu şekilde oluşan mahallelerin katılacağı ilçe veya ilk kademe
@@ -1174,7 +1234,7 @@ aktarılır.
 
   5568                       30/12/2006                                                               30/12/2006                                                        Geçici Madde 3 ve 5
 
-                                                                                                                                                                        
+  5594                       10/3/2007                                                                10/3/2007                                                         Ek Madde 2
 
                                                                                                                                                                         
 
