@@ -1,4 +1,4 @@
-5393 sayılı Kanunun 5568 sayılı Kanun ile Değişik Hali
+5393 sayılı Kanunun 5594 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -234,6 +234,26 @@ kişiliğinin kaldırılmasına veya bir beldenin köye dönüştürülmesine da
 kararlar ilk mahallî idareler seçimlerinde uygulanır ve seçimler bu
 yerlerin yeni durumlarına göre yapılır.
 
+**(Ek: 6/3/2007-5594/2 md.)** Birleşme, katılma veya tüzel kişiliğin
+kaldırılması sonucu tüzel kişiliği ilk mahallî idare seçimlerine kadar
+devam edecek olan belediye ve köylerde, birleşme ve katılma işleminin
+gerçekleşmesi veya müşterek kararnamenin yayımlandığı tarihten itibaren
+yeni nazım ve uygulama planı yapılmaz; mevcut planlarda yapılması
+gereken zorunlu değişiklik ve her türlü imar uygulaması katılınacak
+belediyenin uygun görüşü alınarak yapılır. Uygun görüş verilmeyen plan
+değişiklikleri yapılamaz.
+
+**(Ek: 6/3/2007-5594/2 md.)** Tüzel kişiliği sona erecek belediye ve
+köylerin taşınmazlarının satılması ile vadesi tüzel kişiliğin sona
+ereceği tarihi aşan borçlanma yapılması İçişleri Bakanlığının onayına
+tabidir.
+
+**(Ek: 6/3/2007-5594/2 md.)** ihbar ve kıdem tazminatlarının ödenmesi
+konusunda, 68 inci maddenin (d) bendinde öngörülen sınırlamaya bağlı
+olmaksızın İçişleri Bakanlığının onayı ile borçlanma yapabilir. Bu
+amaçla yapılan borçlanmalar ihbar ve kıdem tazminatı dışında hiçbir
+gider için kullanılamaz.
+
 Bu Kanunda öngörülen nüfus büyüklüğü için Devlet İstatistik Enstitüsü
 Başkanlığınca bildirilen nüfus esas alınır.
 
@@ -260,7 +280,7 @@ uymakla ve belediye vergi, resim, harç, katkı ve katılma paylarını
 
 Belediyenin Görev, Yetki ve Sorumlulukları
 
-**Belediyenin görev ve sorumlulukları**
+**Belediyenin görev ve sorumlulukları^(1)^**
 
 **MADDE 14. —** Belediye, mahallî müşterek nitelikte olmak şartıyla;
 
@@ -274,25 +294,23 @@ hizmetlerini yapar veya yaptırır. Büyükşehir belediyeleri ile nüfusu
 50.000'i geçen belediyeler, kadınlar ve çocuklar için koruma evleri
 açar.
 
-b\) Okul öncesi eğitim kurumları açabilir; Devlete ait her derecedeki
-okul binalarının inşaatı ile bakım ve onarımını yapabilir veya
-yaptırabilir, her türlü araç, gereç ve malzeme ihtiyaçlarını
-karşılayabilir; sağlıkla ilgili her türlü tesisi açabilir ve
-işletebilir; kültür ve tabiat varlıkları ile tarihî dokunun ve kent
-tarihi bakımından önem taşıyan mekânların ve işlevlerinin korunmasını
-sağlayabilir; bu amaçla bakım ve onarımını yapabilir, korunması mümkün
-olmayanları aslına uygun olarak yeniden inşa edebilir. Gerektiğinde,
-öğrencilere, amatör spor kulüplerine malzeme verir ve gerekli desteği
-sağlar, her türlü amatör spor karşılaşmaları düzenler, yurt içi ve yurt
-dışı müsabakalarda üstün başarı gösteren veya derece alan sporculara
-belediye meclisi kararıyla ödül verebilir. Gıda bankacılığı yapabilir.
+b\) (…)^(1)^ Devlete ait her derecedeki okul binalarının inşaatı ile
+bakım ve onarımını yapabilir veya yaptırabilir, her türlü araç, gereç ve
+malzeme ihtiyaçlarını karşılayabilir; sağlıkla ilgili her türlü tesisi
+açabilir ve işletebilir; kültür ve tabiat varlıkları ile tarihî dokunun
+ve kent tarihi bakımından önem taşıyan mekânların ve işlevlerinin
+korunmasını sağlayabilir; bu amaçla bakım ve onarımını yapabilir,
+korunması mümkün olmayanları aslına uygun olarak yeniden inşa edebilir.
+Gerektiğinde, öğrencilere, amatör spor kulüplerine malzeme verir ve
+gerekli desteği sağlar, her türlü amatör spor karşılaşmaları düzenler,
+yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece
+alan sporculara belediye meclisi kararıyla ödül verebilir. Gıda
+bankacılığı yapabilir.
 
-Belediye, kanunlarla başka bir kamu kurum ve kuruluşuna verilmeyen
-mahallî müşterek nitelikteki diğer görev ve hizmetleri de yapar veya
-yaptırır.
-
-Hizmetlerin yerine getirilmesinde öncelik sırası, belediyenin malî
-durumu ve hizmetin ivediliği dikkate alınarak belirlenir.
+**(İptal İkinci Fıkra: Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E.
+2005/95, K. 2007/5 sayılı Kararı ile )^(1)^** Hizmetlerin yerine
+getirilmesinde öncelik sırası, belediyenin malî durumu ve hizmetin
+ivediliği dikkate alınarak belirlenir.
 
 Belediye hizmetleri, vatandaşlara en yakın yerlerde ve en uygun
 yöntemlerle sunulur. Hizmet sunumunda özürlü, yaşlı, düşkün ve dar
@@ -308,7 +326,15 @@ götürülebilir.
 
 **(Ek: 1/7/2006-5538/29 md.)** Sivil hava ulaşımına açık havaalanları
 ile bu havaalanları bünyesinde yer alan tüm tesisler bu Kanunun kapsamı
-dışındadır."
+dışındadır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5
+sayılı Kararı ile bu maddenin birinci fıkrasının (b) bendinin “Okul
+öncesi eğitim kurumları açabilir;…” ifadesi iptal edilmiştir ve söz
+konusu Kararın Resmi Gazete’de yayımlandığı 29/12/2007 tarihine kadar
+yürürlüğü durdurulmuştur. *
 
 **Belediyenin yetkileri ve imtiyazları**
 
@@ -1309,9 +1335,9 @@ bir kesintiye tâbi olmaksızın tazminat olarak ödenir.
 
 Tüzel kişiliği kaldırılan belediyelerde 657 sayılı Devlet Memurları
 Kanununun 4 üncü maddesinin (B) fıkrasına göre istihdam edilen
-sözleşmeli personelin pozisyonları, avukat unvanlı pozisyonlar hariç
-olmak üzere, başka bir işleme gerek kalmaksızın devredildikleri belediye
-veya il özel idaresi adına vize edilmiş sayılır.
+sözleşmeli personelin pozisyonları,(…)*^(1)^* başka bir işleme gerek
+kalmaksızın devredildikleri belediye veya il özel idaresi adına vize
+edilmiş sayılır.*^(1)^*
 
 İKİNCİ BÖLÜM
 
@@ -1336,6 +1362,14 @@ aletler ile zabıta teşkilâtında hizmet gereklerine göre oluşturulacak
 birimler, İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle
 düzenlenir. Belediye, bu yönetmeliğe aykırı olmamak üzere ek
 düzenlemeler yapabilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5
+sayılı Kararı ile bu maddenin ikinci fıkrasında yer alan “…*avukat
+unvanlı pozisyonlar hariç olmak üzere,...*” ifadesi iptal edilmiş ve söz
+konusu Kararın Resmi Gazete’de yayımlandığı 29/12/2007 tarihine kadar
+yürürlüğü durdurulmuştur. *
 
 Zabıta hizmetleri kesintisiz olarak yürütülür. Zabıta personelinin
 çalışma süresi ve saatleri 657 sayılı Devlet Memurları Kanununda
@@ -2159,9 +2193,13 @@ ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
 
   1.     5568                       30/12/2006                                    30/12/2006                                                        Geçici Madde 5, Geçici Madde 6
 
-  1.                                                                                                                                                
+  1.                                29/12/2007                                    29/12/2007                24/1/2007                               14, 50
+                                                                                                                                                    
+                                                                                                            E.:2005/95                              
+                                                                                                                                                    
+                                                                                                            K.:2007/5                               
 
-  1.                                                                                                                                                
+  1.     5594                       10/3/2007                                     10/3/2007                                                         12
 
   1.                                                                                                                                                
 
@@ -2184,4 +2222,4 @@ ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
   1.                                                                                                                                                
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
-
+/
