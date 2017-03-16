@@ -1,4 +1,4 @@
-6524 sayılı Kanun ile değişik hali
+6526 sayılı Kanun ile değişik hali
 
 []{#K29 .anchor}HAKİMLER VE SAVCILAR KANUNU^(1)(2)^
 
@@ -191,8 +191,8 @@ olmayan hükümleri uygulanır.
 
 a)Türk vatandaşı olmak,
 
-b\) **(Değişik: 3/6/2011-KHK-643/12 md.)** Giriş sınavının yapıldığı
-tarih itibarıyla otuzbeş yaşını doldurmamış olmak.^(1)^
+b\) **(Değişik: 3/6/2011-KHK-643/12 md.; İptal:** **Anayasa Mahkemesi’nin
+14/2/2013 tarihli ve E:2011/89, K:2013/29 sayılı Kararı ile.).**
 
 c\) Adli yargı adayları için; hukuk fakültesinden mezun olmak veya
 yabancı bir hukuk fakültesini bitirip de Türkiye‘deki hukuk fakülteleri
@@ -208,7 +208,7 @@ dönemde alınacak aday sayısının yüzde yirmisini geçmemek üzere ihtiyaç
 oranında, hukuk veya hukuk bilgisine programlarında yeterince yer veren
 siyasal bilgiler, idarî bilimler, iktisat ve maliye alanlarında en az
 dört yıllık yüksek öğrenim yapmış veya bunlara denkliği kabul edilmiş
-yabancı öğretim kurumlarından mezun olmak, ^(2)^
+yabancı öğretim kurumlarından mezun olmak, ^(1)^
 
 d\) Kamu haklarından yasaklı olmamak,
 
@@ -216,12 +216,7 @@ e\) **(Mülga: 22/12/2005 - 5435/43 md.)**
 
 –––––––––––––––––
 
-*(1) Bu bent, Anayasa Mahkemesinin 14/2/2013 tarihli ve E:2011/89,
-K:2013/29 sayılı kararıyla iptal edilmiş olup, kararın Resmi Gazetede
-yayımlandığı 31/12/2013 tarihinden itibaren dokuz ay sonra yürürlüğe
-gireceği hüküm altına alınmıştır.*
-
-*(2) 1/12/2007 tarihli ve 5720 sayılı Kanunun 1 inci maddesiyle bu
+*(1) 1/12/2007 tarihli ve 5720 sayılı Kanunun 1 inci maddesiyle bu
 paragrafta yer alan "her dönemde ihtiyaç oranında," ibaresi "her dönemde
 alınacak aday sayısının yüzde yirmisini geçmemek üzere ihtiyaç
 oranında," şeklinde değiştirilmiş ve metne işlenmiştir.*
@@ -1179,12 +1174,11 @@ tarihli ve 5435 sayılı Kanunun 19 uncu maddesiyle "Birinci fıkrada"
 
 *Yeniden atanma:*
 
-**Madde 40** – **(Değişik birinci fıkra: 9/2/2011 - 6110/9 md.)**
-Daireler heyet hâlinde çalışır, heyet bir başkan ve dört üyenin
-katılmasıyla toplanır. Üye sayısının yeterli olması halinde birden fazla
-heyet oluşturulabilir. Bu durumda, oluşturulan diğer heyetlere, heyette
-yer alan en kıdemli üye başkanlık eder. Heyetler işi müzakere eder ve
-salt çoğunlukla karar verirler. Müzakereler gizli cereyan eder.
+**Madde 40** – Hakimlik ve savcılık mesleğinden kendi istekleriyle
+çekilen veya emekli olanlardan tekrar mesleğe dönmek isteyenler, mesleğe
+kabulde aranan nitelikleri kaybetmemiş olmaları koşulu ile ayrıldıkları
+tarihte almakta oldukları aylık derecesine eşit bir derecenin aynı
+kademesine Hakimler ve Savcılar Yüksek Kurulunca atanabilirler.
 
 **(İkinci fıkra iptal: Ana.Mah.‘nin 14/12/1995 tarih ve E.1995/19,
 K.1995/64 sayılı kararı ile; Yeniden düzenleme: 15/1/2003-4790/3 md.)**
@@ -1202,7 +1196,7 @@ mesleğe kabul edilemezler.
 
 *Terhis edilenlerin görevlerine dönmesi:*
 
-**Madde 41 – (Değişik: 11/9/1987 – KHK-276/11 md.; Aynen Kabül:24/2/1988
+**Madde 41 – (Değişik: 11/9/1987 – KHK-276/11 md.; Aynen Kabul:24/2/1988
 – 3409/11 md.)**
 
 Hakim ve savcı iken muvazzaf askerlik hizmetlerini yapmak üzere silah
@@ -2153,7 +2147,7 @@ hükümlere göre doğrudan doğruya soruşturma ve kovuşturma yapılır.
 
 İKİNCİ BÖLÜM
 
-Kovuşturma
+*Kovuşturma*
 
 *Kovuşturma kararı ve ilk soruşturma:*
 
@@ -2219,7 +2213,7 @@ kararı veren mahkemeye en yakın ağır ceza mahkemesinde incelenir.
 
 ÜÇÜNCÜ BÖLÜM
 
-Kişisel Suçlar
+*Kişisel Suçlar*
 
 *Kişisel suçlarda soruşturma ve kovuşturma : ^(1)^*
 
@@ -2234,70 +2228,26 @@ Cumhuriyet Başsavcısı ve ağır ceza mahkemesine aittir.
 
 *Tazminat davaları:*
 
-**Madde 93/A** **–(Ek : 9/2/2011 - 6110/12 md.)**
+**Madde 93/A** **–(Ek : 9/2/2011 - 6110/12 md.; Mülga: 212/2014-6526/19
+md.)**
 
-Hâkim ve savcıların bir soruşturma, kovuşturma veya davayla ilgili
-olarak yaptıkları işlem, yürüttükleri faaliyet veya verdikleri her türlü
-kararlar nedeniyle:
+–––––––––––––––––––
 
-a\) Ancak Devlet aleyhine tazminat davası açılabilir.
-
-b\) Kişisel kusur, haksız fiil veya diğer sorumluluk sebeplerine
-dayanılarak da olsa hâkim veya savcı aleyhine tazminat davası açılamaz.
-
-Devlet aleyhine açılacak tazminat davası ancak dava konusu işlem,
-faaliyet veya kararın dayanağı olan;
-
-a\) Soruşturma sonucunda verilen kovuşturmaya yer olmadığına dair kararın
-veya kamu davası açılmış ise kovuşturma sonucunda verilen hükmün,
-
-b\) Dava sonunda verilen hükmün,
-
-kesinleştiği tarihten itibaren bir yıl içinde açılabilir.
-
-Kovuşturmaya yer olmadığına dair kararın veya hükmün kesinleşmesinden
-önce, hâkim veya savcının söz konusu işlem, faaliyet veya kararıyla
-ilgili olarak görevinin gereklerine aykırı hareket etmek suretiyle
-görevini kötüye kullanmaktan mahkûmiyeti hâlinde ise tazminat davası bu
-hükmün kesinleşmesinden itibaren bir yıl içinde açılabilir.
-
-Devlet, ödediği tazminattan dolayı, tazminat davasına konu işlem,
-faaliyet veya kararla ilgili olarak görevinin gereklerine aykırı hareket
-etmek suretiyle görevini kötüye kullanan hâkim veya savcıya rücu eder.
+*(1) 22/12/2005 tarihli ve 5435 sayılı Kanunun 32 nci maddesiyle; bu
+maddenin birinci fıkrasında geçen "Cumhuriyet savcısı ile sorgu
+hakimine" ibaresi "Cumhuriyet başsavcısına"; ikinci fıkrasında geçen
+"Cumhuriyet Savcısı, sorgu hâkimi" ibaresi "Cumhuriyet Başsavcısı"
+şeklinde ; ayrıca aynı Kanunun 39 uncu maddesiyle "Adalet Bakanlığı
+merkez kuruluşundaki" ibaresi "Adalet Bakanlığı merkez, bağlı ve ilgili
+kuruluşlarındaki" şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 5636-1
 
-Kanun yoluna başvurulması için miktar veya değere ilişkin olarak
-öngörülen sınırlamalar, hâkim ve savcıların işlem, faaliyet veya
-kararlarına dayanılarak açılan her türlü tazminat ve rücu davalarında
-uygulanmaz.
-
-Hâkim ve savcıların bir soruşturma, kovuşturma veya davayla ilgili
-olarak yaptıkları işlem, yürüttükleri faaliyet veya verdikleri her türlü
-kararlar nedeniyle Devlet aleyhine açılacak tazminat davaları ile rücu
-davalarında bu madde hükümleri; bu maddede hüküm bulunmayan hâllerde ise
-ilgisine göre Hukuk Usulü Muhakemeleri Kanunu ile Ceza Muhakemesi Kanunu
-hükümleri uygulanır.
-
-Bu madde hükümleri;
-
-a\) Yüksek mahkemelerin başkanları, başkanvekilleri, daire başkanları ve
-üyeleri ile Yargıtay Cumhuriyet Başsavcısı, Danıştay Başsavcısı ve
-Yargıtay Cumhuriyet Başsavcıvekilinin bir soruşturma, kovuşturma veya
-davayla ilgili olarak yaptıkları işlem, yürüttükleri faaliyet veya
-verdikleri her türlü kararlar,
-
-b\) Hâkimler ve Savcılar Yüksek Kurulu müfettişleri ile adalet
-müfettişlerinin, yetkilerini kullanırken yaptıkları işlem, yürüttükleri
-faaliyet veya verdikleri her türlü kararlar,
-
-nedeniyle açılacak tazminat davaları hakkında da uygulanır.
-
 DÖRDÜNCÜ BÖLÜM
 
-Ortak Hükümler
+*Ortak Hükümler*
 
-*Ağır ceza mahkemesinin görevine giren suçüstü hâlleri^(2)^*
+*Ağır ceza mahkemesinin görevine giren suçüstü hâlleri^(1)^*
 
 **Madde 94 – (Değişik birinci fıkra : 12/2/1989 – KHK-360/5 md. ; Aynen
 Kabul : 24/1/1990 – 3611/5 md.)** Ağır ceza mahkemesinin görevine giren
@@ -2315,27 +2265,6 @@ edemez. Cumhuriyet savcıları nezdinde bulundukları mahkemelerdeki bu tür
 davaları ve aşamalarını, varsa gecikme nedenlerini her duruşma sonunda
 Adalet Bakanlığına bildirirler. **(Ek cümle: 22/12/2005 - 5345/33 md.)**
 Bu tür davaların kanun yolu incelemesi de öncelikli olarak yapılır.
-
-–––––––––––––––––––
-
-*(1) 22/12/2005 tarihli ve 5435 sayılı Kanunun 32 nci maddesiyle; bu
-maddenin birinci fıkrasında geçen "Cumhuriyet savcısı ile sorgu
-hakimine" ibaresi "Cumhuriyet başsavcısına"; ikinci fıkrasında geçen
-"Cumhuriyet Savcısı, sorgu hâkimi" ibaresi "Cumhuriyet Başsavcısı"
-şeklinde ; ayrıca aynı Kanunun 39 uncu maddesiyle "Adalet Bakanlığı
-merkez kuruluşundaki" ibaresi "Adalet Bakanlığı merkez, bağlı ve ilgili
-kuruluşlarındaki" şeklinde değiştirilmiş ve metne işlenmiştir.*
-
-*(2) 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu
-maddenin başlığında geçen "Ağır cezayı gerektiren suçüstü hali" ibaresi
-"Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde"; birinci
-fıkrasında geçen "Ağır cezayı gerektiren suçüstü hallerinde" ibaresi
-"Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde" şeklinde
-değiştirilmiş ve metne işlenmiştir.*
-
-5636-2
-
-5637
 
 *Dosyanın gönderilmesi :*
 
@@ -2370,6 +2299,19 @@ kurulu raporu ile belirlenenlerce verilmiş olan,
 taşımayan ihbar ve şikâyetlerin somut delillere dayanması durumunda,
 konu hakkında gerekli araştırma ve inceleme yapılır.
 
+–––––––––––––––––––
+
+*(1) 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu
+maddenin başlığında geçen "Ağır cezayı gerektiren suçüstü hali" ibaresi
+"Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde"; birinci
+fıkrasında geçen "Ağır cezayı gerektiren suçüstü hallerinde" ibaresi
+"Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde" şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+5636-2
+
+5637
+
 ** ** *Birinci sınıf hakim ve savcılar hakkında uygulanacak hükümler:*
 
 **Madde 98 – **Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki
@@ -2379,7 +2321,7 @@ Ancak soruşturma yapılması Adalet Bakanının istemine bağlıdır. ^(1)^
 
 SEKİZİNCİ KISIM
 
-Denetim
+*Denetim*
 
 *Teftiş Kurulu:*
 
@@ -2417,11 +2359,11 @@ zorundadırlar.
 
 DOKUZUNCU KISIM
 
-Mali ve Sosyal Haklar ve Yardımlar
+*Mali ve Sosyal Haklar ve Yardımlar*
 
 BİRİNCİ BÖLÜM
 
-Mali Haklar
+*Mali Haklar*
 
 *Mali haklar :*
 
@@ -2442,9 +2384,9 @@ maddede geçen "Adalet Bakanlığı merkez kuruluşundaki" ibaresi "Adalet
 Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki" şeklinde
 değiştirilmiş ve metne işlenmiştir.*
 
-\(2) Bu fıkrada yeralan ”...birinci sınıf hakim ve Savcılar dışındaki...“
-ibaresi, 25/6/1992 tarih ve 3825 sayılı Kanunun 17 nci maddesiyle
-yürürlükten kaldırılmış olup, metinden çıkarılmıştır.
+*(2) Bu fıkrada yeralan ”...birinci sınıf hakim ve Savcılar
+dışındaki...“ ibaresi, 25/6/1992 tarih ve 3825 sayılı Kanunun 17 nci
+maddesiyle yürürlükten kaldırılmış olup, metinden çıkarılmıştır.*
 
 5638
 
@@ -2455,7 +2397,7 @@ ifade eder.
 
 İKİNCİ BÖLÜM
 
-Aylık Tablosu ve Aylıklar^(1)^
+*Aylık Tablosu ve Aylıklar^(1)^*
 
 *Aylık tablosu:^(1)(2)^*
 
@@ -4025,6 +3967,8 @@ GÖSTERİR LİSTE**
                                                                                                                            (30/9/2014)
 
   6524                                                                       49, 50, 119                                   27/2/2014
+
+  6526                                                                       93/A                                          6/3/2014
   -------------------------------------------------------------------------- --------------------------------------------- ----------------------------
 
 
