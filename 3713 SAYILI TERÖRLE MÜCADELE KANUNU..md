@@ -1,20 +1,20 @@
-**6459 sayılı Kanun ile değişik hali**
+7215
 
-[]{#K93 .anchor}**TERÖRLE MÜCADELE KANUNU **
+[]{#K93 .anchor}TERÖRLE MÜCADELE KANUNU
 
-**Kanun Numarası : 3713**
+Kanun Numarası : 3713
 
-**Kabul Tarihi : 12/4/1991 **
+Kabul Tarihi : 12/4/1991
 
-**Yayımlandığı R. Gazete : Tarih : 12/4/1991 Sayı : 20843 Mükerrer **
+Yayımlandığı R. Gazete : Tarih : 12/4/1991 Sayı : 20843 Mükerrer
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 30 Sayfa : 125**
+Yayımlandığı Düstur : Tertip : 5 Cilt : 30 Sayfa : 125
 
 BİRİNCİ BÖLÜM
 
-*Tanım ve Terör Suçları*
+Tanım ve Terör Suçları
 
-*Terör tanımı ^(1)^*
+Terör tanımı ^(1)^
 
 **Madde 1– (Değişik birinci fıkra: 15/7/2003-4928/20 md.)** Terör; cebir
 ve şiddet kullanarak; baskı, korkutma, yıldırma, sindirme veya tehdit
@@ -29,7 +29,7 @@ girişilecek her türlü suç teşkil eden eylemlerdir.
 
 **(Mülga ikinci ve üçüncü fıkralar: 29/6/2006-5532/17 md.)**
 
-*Terör suçlusu *
+Terör suçlusu
 
 **Madde 2 –** Birinci maddede belirlenen amaçlara ulaşmak için meydana
 getirilmiş örgütlerin mensubu olup da, bu amaçlar doğrultusunda
@@ -39,7 +39,7 @@ işlemese dahi örgütlerin mensubu olan kişi terör suçlusudur.
 Terör örgütüne mensup olmasa dahi örgüt adına suç işleyenler de terör
 suçlusu sayılır (…)^(1)^.
 
-*Terör suçları *
+Terör suçları
 
 **Madde 3 – (Değişik: 29/6/2006-5532/2 md.)**
 
@@ -47,7 +47,7 @@ suçlusu sayılır (…)^(1)^.
 312, 313, 314, 315 ve 320 nci maddeleri ile 310 uncu maddesinin birinci
 fıkrasında yazılı suçlar, terör suçlarıdır.
 
-*Terör amacı ile işlenen suçlar^(2)^*
+Terör amacı ile işlenen suçlar^(2)^
 
 **Madde 4 – (Değişik: 29/6/2006-5532/3 md.)**
 
@@ -89,7 +89,7 @@ bölgelerde, olağanüstü halin ilanına neden olan olaylara ilişkin suçlar.
 e\) 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma
 Kanununun 68 inci maddesinde tanımlanan suç.
 
-*Cezaların artırılması *
+Cezaların artırılması
 
 **Madde 5 – (Değişik: 29/6/2006-5532/4 md.)**
 
@@ -108,7 +108,7 @@ ikisinden az olamaz.
 **(Ek fıkra: 22/7/2010 - 6008/4 md.)** Bu madde hükümleri çocuklar
 hakkında uygulanmaz.
 
-*Açıklama ve yayınlama *
+Açıklama ve yayınlama
 
 **Madde 6 –** İsim ve kimlik belirterek veya belirtmeyerek kime yönelik
 olduğunun anlaşılmasını sağlayacak surette kişilere karşı terör
@@ -142,9 +142,9 @@ fıkrada geçen geçen "beşmilyon liradan onmilyon liraya kadar ağır para"
 ibaresi "bir yıldan üç yıla kadar hapis" olarak değiştirilmiş ve metne
 işlenmiştir. *
 
-*(2) Bu fıkrada yer alan "sahipleri ve" ibaresi, Anayasa Mahkemesinin
+\(2) Bu fıkrada yer alan "sahipleri ve" ibaresi, Anayasa Mahkemesinin
 18/6/2009 tarihli ve E.:2006/121, K.:2009/90 sayılı Kararı ile iptal
-edilmiştir. *
+edilmiştir.
 
 *(3) 11/4/2013 tarihli ve 6459 sayılı Kanunun 7 nci maddesiyle, bu
 fıkrada yer alan “onbin” ibaresi “beş bin” olarak değiştirilmiştir.*
@@ -208,7 +208,7 @@ toplantı ve gösteri yürüyüşüne katılma suçunu,
 işleyenler hakkında, 5237 sayılı Kanunun 220 nci maddesinin altıncı
 fıkrasında tanımlanan suçtan dolayı ayrıca ceza verilmez.
 
-*Terörün finansmanı*
+Terörün finansmanı
 
 **Madde 8- (Yeniden düzenleme: 29/6/2006-5532/7 md.;
 Mülga:7/2/2013-6415/18 md.)**
@@ -233,9 +233,9 @@ göre bunlara özgü güvenlik tedbirlerine hükmolunur.
 
 İKİNCİ BÖLÜM
 
-*Yargılama Usulleri *
+Yargılama Usulleri
 
-*Görev ve yargı çevresinin belirlenmesi^(1)^*
+Görev ve yargı çevresinin belirlenmesi^(1)^
 
 **Madde 9 –(Mülga: 2/7/2012-6352/105 md.)**
 
@@ -294,9 +294,9 @@ yapılmasına karar verilebilir.
 
 ——————————
 
-*(1) 29/6/2006 tarihli ve 5532 sayılı Kanunun 8 ve 9 uncu maddesiyle, 9
+\(1) 29/6/2006 tarihli ve 5532 sayılı Kanunun 8 ve 9 uncu maddesiyle, 9
 uncu maddenin başlığı “Görevli mahkeme” iken metne işlendiği şekilde
-değiştirilmiştir. *
+değiştirilmiştir.
 
 *(2) 2/7/2012 tarihli ve 6352 sayılı Kanunun 75 inci maddesi ile bu
 maddenin başlığı “Soruşturma ve kovuşturma usulü” iken metne işlendiği
@@ -333,13 +333,18 @@ soruşturma ve kovuşturmalarda da uygulanır.
 Türk Ceza Kanununun 305, 318, 319, 323, 324, 325 ve 332 nci maddeleri
 hariç olmak üzere, İkinci Kitap Dördüncü Kısmın Dört, Beş, Altı ve
 Yedinci Bölümünde tanımlanan suçlarda, Ceza Muhakemesi Kanununda
-öngörülen tutuklama süresi iki kat olarak uygulanır.
+öngörülen tutuklama süresi iki kat olarak uygulanır.^(1)^
 
 Çocuklar, bu madde hükümleri uyarınca kurulan mahkemelerde yargılanamaz;
 bu mahkemelere özgü soruşturma ve kovuşturma hükümleri çocuklar
 bakımından uygulanmaz.
 
-7218-2
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+*(1) Bu fıkra, Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100,
+K:2013/84 sayılı kararıyla iptal edilmiş olup, Kararın Resmi Gazetede
+yayımlandığı 2/8/2013 tarihinden itibaren bir yıl sonra yürürlüğe
+gireceği hüküm altına alınmıştır.*
 
 7219
 
@@ -493,15 +498,16 @@ dahi terör suçluları tarafından kendilerine veya eş ve çocuklarının
 canına vuku bulan bir taarruzu savmak için silah kullanmaya
 yetkilidirler.
 
-*Yardım ^(1)^*
+*Yardım ^(1)(3)^*
 
 *Malul olanlarla aylığa müstehak dul ve yetimlere yardım*
 
 **Madde 21 –** (…)^(2)^ kamu görevlilerinden yurtiçinde ve yurtdışında
 görevlerini ifa ederlerken veya sıfatları kalkmış olsa bile bu
 görevlerini yapmalarından dolayı terör eylemlerine muhatap olarak
-yaralanan, sakatlanan, ölen veya öldürülenler hakkında 2330 sayılı Nakdi
-Tazminat ve Aylık Bağlanması Hakkında Kanun hükümleri uygulanır. Ayrıca;
+yaralanan, engelli hâle gelen, ölen veya öldürülenler hakkında 2330
+sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun hükümleri
+uygulanır. Ayrıca;
 
 a\) **(Değişik: 28/2/1995 - 4082/6 md.)** Malul olanlarla, ölenlerin
 aylığa müstehak dul ve yetimlerine bağlanacak aylığın toplam tutarı,
@@ -549,29 +555,15 @@ maddesi ile değiştirilmiş ve metne işlenmiştir. *
 *(2) Bu arada yer alan "Memur ve” ibaresi, 29/6/2006 tarihli ve 5532
 sayılı Kanunun 15 inci maddesiyle madde metninden çıkarılmıştır.*
 
+*(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin birinci fıkrasında yer alan “sakatlanan” ibaresi “engelli hâle
+gelen” şeklinde değiştirilmiştir.*
+
 7222
 
-c\) **(Değişik: 4/7/2012-6353/75 md.)** Konut kredisinden istifade
-bakımından 4/7/1934 tarihli ve 2559 sayılı Polis Vazife ve Salahiyet
-Kanununun ek 9 uncu maddesinin üçüncü fıkrasındaki hüküm; bir konut ile
-sınırlı olmak üzere, malul olanların kendileri, hayatını kaybedenlerin
-ise dul aylığı bağlanan eşi, dul aylığı bağlanacak eşin olmaması halinde
-yetim aylığına müstehak çocuklarının tamamının müşterek hakkı olarak bir
-çocuğu, çocuklarının da olmaması durumunda ana veya babası hakkında da
-uygulanır.
+c\) **(Mülga: 12/7/2013-6495/102 md.)**
 
-d\) **(Değişik: 4/7/2012-6353/75 md.)** Malul olanların kendileri,
-hayatını kaybedenlerin ve malul olanların eşleri, ana ve babaları ile
-bakmakla yükümlü olunan çocukları, yurt içinde Devlet Demiryollarında,
-Denizyolları Şehir Hatlarında ve belediye toplu taşıma araçları ile
-belediye tarafından kurulan şirketler veya özel firmalar aracılığıyla
-yaptırılan toplu taşıma işinde kullanılan araçlarda ücretsiz seyahat
-ederler. İlgili kurumlar ve yerel yönetimler bu hakkın kullanılmasına
-ilişkin gerekli tedbirleri alır. Bu bendin uygulanmasına ilişkin usul ve
-esaslar Ulaştırma, Denizcilik ve Haberleşme Bakanlığı, İçişleri
-Bakanlığı, Sosyal Güvenlik Kurumu Başkanlığının görüşü alınmak suretiyle
-Aile ve Sosyal Politikalar Bakanlığı tarafından çıkarılan yönetmelikle
-düzenlenir.
+d\) **(Mülga: 12/7/2013-6495/102 md.)**
 
 e\) **(Ek: 28/2/1995 - 4082/6 md.; Değişik: 29/6/2006-5532/15 md.)**
 Malûl olanlar ile ölenlerin dul ve yetimleri, Türkiye Cumhuriyeti Emekli
@@ -600,28 +592,18 @@ bunlar bulunmadığı takdirde özel rehabilitasyon ve bakım merkezleri,
 yurtlar ve huzurevlerinde parasız olarak veya masrafları devlet
 tarafından karşılanmak üzere barındırılır.baktırılır (…) ^(1)^ .
 
-h\) **(Değişik: 4/7/2012-6353/75 md.)** Erbaş ve erlerden veya geçici
-veya gönüllü köy korucularından; terörle mücadele görevi ifa ederken
-yaralanarak veya sakatlanarak ilgili mevzuatına göre malullük aylığı
-bağlanması koşullarının oluştuğu tespit olunanlar, 2330 sayılı Kanuna
-göre aylık bağlanması hakkından ve bu fıkranın (c), (d) ve (g)
-bentlerindeki haklardan, bunların eş, ana ve babaları ile bakmakla
-yükümlü olunan kişi kapsamına giren çocukları da bu
-
-–––––––––––––
-
-*(1) 5510 sayılı Kanunun 17/4/2008 tarihli ve 5754 sayılı Kanunun 64
-üncü maddesiyle değişik 106 ncı maddesiyle; (f) bendinde yer alan “ve
-tedavi ettirilirler” ile (g) bendinde yer alan "ve tedavileri
-yaptırılır" ibaresi yürürlükten kaldırılmıştır.*
-
-7222-1
-
-fıkranın (d) bendinde düzenlenen haklardan yararlandırılır. Erbaş ve
-erlerden veya geçici veya gönüllü köy korucularından; aynı sebeplerle
-hayatını kaybedenlerin veya bu fıkra kapsamında malul olması sebebiyle
-aylık almakta iken hayatını kaybedenlerin dul aylığına müstehak eşi, ana
-ve babaları ile yetim aylığına müstehak çocukları 2330 sayılı Kanun
+h\) **(Değişik: 4/7/2012-6353/75 md.) ^(2)^** Erbaş ve erlerden veya
+geçici veya gönüllü köy korucularından; terörle mücadele görevi ifa
+ederken yaralanarak veya engelli hâle gelerek ilgili mevzuatına göre
+malullük aylığı bağlanması koşullarının oluştuğu tespit olunanlar, 2330
+sayılı Kanuna göre aylık bağlanması hakkından ve bu fıkranın (c), (d) ve
+(g) bentlerindeki haklardan, bunların eş, ana ve babaları ile bakmakla
+yükümlü olunan kişi kapsamına giren çocukları da bu fıkranın (d)
+bendinde düzenlenen haklardan yararlandırılır. Erbaş ve erlerden veya
+geçici veya gönüllü köy korucularından; aynı sebeplerle hayatını
+kaybedenlerin veya bu fıkra kapsamında malul olması sebebiyle aylık
+almakta iken hayatını kaybedenlerin dul aylığına müstehak eşi, ana ve
+babaları ile yetim aylığına müstehak çocukları 2330 sayılı Kanun
 hükümlerine göre aylık bağlanması hakkından ve bu fıkranın (c) ve (d)
 bendindeki haklardan yararlandırılır. Bu fıkra kapsamında er ve erbaşlar
 için bağlanacak aylıklar, bitirmiş oldukları okullar neticesinde hak
@@ -636,6 +618,19 @@ için 5434 sayılı Kanunun ek 77 nci maddesinin birinci fıkrasının (c)
 bendine göre yapılacak yükseltmelerde aynı unvan ve derece başlangıç
 olarak esas alınır ve derece yükselmelerinde kadro şartı aranmaksızın
 yüksek öğrenim mezunu gibi işlem yapılır.
+
+–––––––––––––
+
+*(1) 5510 sayılı Kanunun 17/4/2008 tarihli ve 5754 sayılı Kanunun 64
+üncü maddesiyle değişik 106 ncı maddesiyle; (f) bendinde yer alan “ve
+tedavi ettirilirler” ile (g) bendinde yer alan "ve tedavileri
+yaptırılır" ibaresi yürürlükten kaldırılmıştır.*
+
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “sakatlanarak” ibaresi “engelli hâle gelerek” şeklinde
+değiştirilmiştir.*
+
+7222-1
 
 ı) **(Ek: 13/11/1995 - 4131/1 md.; Değişik: 29/6/2006-5532/15 md.)**
 Terörle mücadeleden dolayı köyleri boşaltılan üniversite çağındaki
@@ -658,36 +653,50 @@ sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü
 maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı sayılmamış
 olup da bu öğrenimleri veya eğitimleri nedeniyle bu Kanun kapsamındaki
 terör eylemlerinde hedef alınarak hayatını kaybedenler ile yaralanan
-veya sakatlananlardan ilgili mevzuatına göre malullük aylığı bağlanması
-koşullarının oluştuğu tespit olunanların kendileri, 2330 sayılı Kanuna
-göre aylık bağlanması hakkından ve bu fıkranın (c), (d) ve (g)
-bentlerindeki haklardan, bunların eş, ana ve babaları ile bakmakla
+veya engelli hâle gelenlerden ilgili mevzuatına göre malullük aylığı
+bağlanması koşullarının oluştuğu tespit olunanların kendileri, 2330
+sayılı Kanuna göre aylık bağlanması hakkından ve bu fıkranın (c), (d) ve
+(g) bentlerindeki haklardan, bunların eş, ana ve babaları ile bakmakla
 yükümlü olunan kişi kapsamına giren çocukları da bu fıkranın (d)
 bendinde düzenlenen haklardan yararlandırılır. Yukarıda sayılanlardan
 aynı sebeplerle hayatını kaybedenlerin veya bu fıkra kapsamında malul
 olması sebebiyle aylık almakta iken hayatını kaybedenlerin dul aylığına
 müstehak eşi, ana ve babaları ile yetim aylığına müstehak çocukları 2330
 sayılı Kanun hükümlerine göre aylık bağlanması hakkından ve bu fıkranın
-(c) ve (d) bendindeki haklardan yararlandırılır.
-
-7222-2
+(c) ve (d) bendindeki haklardan yararlandırılır. ^(1)^
 
 j\) **(Ek: 4/7/2012-6353/75 md.)** Terör eyleminin ortaya çıkarılması,
 etkilerinin azaltılması veya bertaraf edilmesinin sağlanmasında yardımcı
 ve faydalı olanlar bu faaliyetlerinden dolayı hayatını kaybettikleri,
-yaralandıkları veya sakatlandıkları; ilgili valinin teklifi üzerine
-Nakdi Tazminat Komisyonu tarafından karara bağlanan sivillerden ilgili
-mevzuatına göre malullük aylığı bağlanması koşullarının oluştuğu tespit
-olunanların kendileri, 2330 sayılı Kanuna göre aylık bağlanması
-hakkından ve bu fıkranın (c), (d) ve (g) bentlerindeki haklardan,
-bunların eş, ana ve babaları ile bakmakla yükümlü olunan kişi kapsamına
-giren çocukları da bu fıkranın (d) bendinde düzenlenen haklardan
-yararlandırılır. Yukarıda sayılanlardan aynı sebeplerle hayatını
-kaybedenlerin veya bu fıkra kapsamında malul olması sebebiyle aylık
-almakta iken hayatını kaybedenlerin dul aylığına müstehak eşi, ana ve
-babaları ile yetim aylığına müstehak çocukları 2330 sayılı Kanun
-hükümlerine göre aylık bağlanması hakkından ve bu fıkranın (c) ve (d)
-bendindeki haklardan yararlandırılır.
+yaralandıkları veya engelli hâle geldikleri; ilgili valinin teklifi
+üzerine Nakdi Tazminat Komisyonu tarafından karara bağlanan sivillerden
+Sosyal Güvenlik Kurumuncailgili mevzuatına göre malullük aylığı
+bağlanması koşullarının oluştuğu tespit olunanların kendileri, 2330
+sayılı Kanuna göre aylık bağlanması hakkından ve bu fıkranın (c), (d) ve
+(g) bentlerindeki haklardan, bunların eş, ana ve babaları ile bakmakla
+yükümlü olunan kişi kapsamına giren çocukları da bu fıkranın (d)
+bendinde düzenlenen haklardan yararlandırılır. Yukarıda sayılanlardan
+aynı sebeplerle hayatını kaybedenlerin veya bu fıkra kapsamında malul
+olması sebebiyle aylık almakta iken hayatını kaybedenlerin dul aylığına
+müstehak eşi, ana ve babaları ile yetim aylığına müstehak çocukları 2330
+sayılı Kanun hükümlerine göre aylık bağlanması hakkından ve bu fıkranın
+(c) ve (d) bendindeki haklardan yararlandırılır. ^(2)(3)^
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “sakatlananlardan” ibaresi “engelli hâle gelenlerden”
+şeklinde değiştirilmiştir.*
+
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+bentte yer alan “sakatlandıkları” ibaresi “engelli hâle geldikleri”
+şeklinde değiştirilmiştir.*
+
+*(3) 12/7/2013 tarihli ve 6495 sayılı Kanunun 85 inci maddesiyle, bu
+bentte yer alan “sivillerden” ibaresinden sonra gelmek üzere “Sosyal
+Güvenlik Kurumunca” ibaresi eklenmiştir.*
+
+7222-2
 
 **(Ek fıkra: 4/7/2012-6353/75 md.)** Kamu görevlileri ile birinci
 fıkranın (h) ve (j) bentleri kapsamına girenlerden terör olaylarını
@@ -695,9 +704,9 @@ fıkranın (h) ve (j) bentleri kapsamına girenlerden terör olaylarını
 olaylar sonucunda ya da her ne şekilde olursa olsun terör olaylarının
 önlenmesi, takibi veya etkisiz hale getirilmesi amacıyla ifa edilen
 görevler sırasında veya bu görevlere gidiş dönüşler esnasında meydana
-gelen kazalar sonucunda yaralanan, sakatlanan, hastalanan veya hayatını
-kaybedenler, birinci fıkranın durumlarına uygun hükümlerinden
-yararlandırılır.
+gelen kazalar sonucunda yaralanan, engelli hâle gelen, hastalanan veya
+hayatını kaybedenler, birinci fıkranın durumlarına uygun hükümlerinden
+yararlandırılır. ^(1)^
 
 **(Ek fıkra: 4/7/2012-6353/75 md.)** Birinci fıkranın (h), (i) ve (j)
 bentlerinde belirtilenlerden bu Kanun kapsamındaki olaylar sebebiyle
@@ -731,73 +740,150 @@ masrafları karşılanır. Yardımın kapsam ve ölçüsü, Fonun mahalli
 yetkililerince belirlenecek miktarı aşmamak kaydıyla Fon Kurulunca
 tespit edilir.
 
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “sakatlanan” ibaresi “engelli hâle gelen” şeklinde
+değiştirilmiştir.*
+
 7223
 
-**Ek Madde 1 – (Ek: 13/11/1995 - 4131/3 md.)**
+**Ek Madde 1 – (Ek: 13/11/1995 - 4131/3 md.; Değişik: 12/7/2013-6495/86
+md.)**
 
-A\) Genel, katma ve özel bütçeli kurum ve kuruluşlarla mahalli idareler
-ve sermayesinin yarısından fazlası kamuya ait olan her nevi teşebbüs
-veya bağlı ortaklıklar, 657 sayılı Devlet Memurları Kanununa tabi memur
-kadroları ile sözleşmeli personel ve sürekli işçi kadrolarının % 2'sini,
-bu Kanunun 1 inci maddesinde yazılı terör eylemleri nedeni ve etkisiyle;
-^(1)(2)^
+10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol
+Kanununun eki (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu
+kurum ve kuruluşları, kamu iktisadi teşebbüsleri ve bağlı ortaklıkları,
+il özel idareleri, belediyeler ve bağlı kuruluşları, özel kanunla
+kurulan diğer her türlü kamu kurum ve kuruluşları; 657 sayılı Devlet
+Memurları Kanununa tabi memur kadroları ile sözleşmeli personel
+pozisyonlarının ve sürekli işçi kadrolarının %2’sini aşağıdaki
+hükümlerde belirtilen hak sahiplerinin istihdamı için ayırmak ve bu
+madde hükümleri çerçevesinde İçişleri Bakanlığınca hak sahibi olduğu
+belirlenerek Devlet Personel Başkanlığına bildirilen ve Başkanlıkça
+atama teklifi yapılanları atamak zorundadır. Kamu kurum ve
+kuruluşlarının kadrolarına, ilgili mali yılda 190 sayılı Kanun Hükmünde
+Kararnamenin ek 7 nci maddesi kapsamında yapabilecekleri toplam atama
+sayılarının ne kadarını bu madde kapsamında yapılacak atamalar için
+ayıracağı ve buna ilişkin diğer hususlar Başbakan onayı ile belirlenir.
 
-a\) **(Değişik: 4/7/2012-6353/76 md.)** Görevleri sona ermiş olsa bile 21
-inci maddede belirtilen görevleri yapmaları nedeniyle uğradıkları
-saldırı sonucu şehit olanlar dahil kamu görevlileri, er ve erbaşlar ile
-geçici ve gönüllü köy korucularından veya 21 inci maddenin birinci
-fıkrasının (i) bendi ya da ikinci fıkrası kapsamındakilerden şehit
-olanların eş veya çocuklarından birisi ile ana, baba veya kardeşlerinden
-birisi olmak üzere toplam iki kişinin; şehidin ana, baba ve kardeşi
-bulunmaması durumunda eş veya çocuklarından toplam iki kişinin; şehidin
-eş veya çocuğunun bulunmaması durumunda ana veya babası ile
-kardeşlerinden birisi olmak üzere toplam iki kişinin, ana veya babanın
-bu hakkı kullanmaması durumunda ise bir diğer kardeşi olmak üzere toplam
-iki kişinin,
+Bu madde kapsamında hak sahipliği sonucunu doğuran durumlar aşağıda
+belirtilmiştir:
 
-b\) **(Değişik: 4/7/2012-6353/76 md.)** (a) bendinde sayılanlardan malul
-olup da çalışabilir durumda olanların kendilerinin, çalışamayacak
-durumda olanların ise eş veya çocuklarından birisinin, eşi ve çocuğu
-yoksa kardeşlerinden birisinin,
+a\) 5434 sayılı Kanunun mülga 64 üncü maddesi, 5510 sayılı Kanunun 47 nci
+maddesinin sekizinci fıkrası, bu Kanunun 21 inci maddesinin birinci
+fıkrasının (j) bendi kapsamına girenler hariç olmak üzere 3/11/1980
+tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında
+Kanuna göre veya 2330 sayılı Kanun hükümleri uygulanarak aylık
+bağlanmasını gerektiren kanunlara göre harp veya vazife malulü
+sayılanlar,
 
-c\) **(Ek: 4/7/2012-6353/76 md.)** 21 inci maddenin birinci fıkrasının
-(j) bendi kapsamındakilerden hayatını kaybedenlerin eş veya
-çocuklarından birisi, eşi veya çocuğu yoksa kardeşlerinden birisinin; 21
-inci maddenin birinci fıkrasının (j) bendi kapsamındakilerden malul
-olanlardan çalışabilir durumda olanların kendilerinin, çalışamayacak
-durumda olanların ise eş veya çocuklarından birisinin,
+b\) 5434 sayılı Kanunun mülga 45 inci maddesi ile 5510 sayılı Kanunun 47
+nci maddesinin birinci fıkrasında belirtilen haller kapsamında vazife
+malulü sayılan; Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve
+Sahil Güvenlik Komutanlığının erbaş ve erler dahil askeri personeli ile
+Emniyet Teşkilatından Emniyet Hizmetleri Sınıfına mensup personeli,
 
-İstihdamı için ayırmak ve bu fıkra hükümleri çerçevesinde belirlenecek
-kişileri işe almak veya atamak zorundadırlar.
+c\) (b) bendi kapsamına girenler hariç olmak üzere 5434 sayılı Kanunun
+mülga 45 inci maddesi ile 5510 sayılı Kanunun 47 nci maddesinin birinci
+fıkrası kapsamında olanlardan vazife malulü sayılanlar,
 
-İçişleri Bakanlığı, yukarıdaki fıkra kapsamına giren kişileri tespit
-etmek, bunlardan bir işe girmek için istekli olanların nitelikleri ile
-iş gereklerini gözönüne almak suretiyle, işe alınmaları veya
-atamalarının yapılması için, durumlarına uygun kadrosu mevcut olan kamu
-kurum ve kuruluşlarına bildirmekle görevlidir. Bu kişilerin işe
-alınmaları veya atanmaları sırasında açıktan atama izni alınması
-gerekmez. Ancak, ilgililerin sınav hariç olmak üzere, kadro veya işin
-gerektirdiği nitelik, özellik ve şartları taşımaları zorunludur.
+ç) 21 inci maddenin birinci fıkrasının (j) bendi kapsamında vazife
+malulü sayılanlar, 17/7/2004 tarihli ve 5233 sayılı Terör ve Terörle
+Mücadeleden Doğan Zararların Karşılanması Hakkında Kanunun ek 1 inci
+maddesi kapsamında aylık bağlananlardan terör eylemleri nedeniyle
+hayatını kaybetmiş veya engelli hale gelmiş olanlar ile Makina ve Kimya
+Endüstrisi Kurumuna ait fabrika, işletme, müessese veya bağlı
+ortaklıklarda görevli olanlardan patlayıcı maddelerin üretimi,
+incelenmesi, muhafazası, nakli, imha edilmesi ve zararsız hale
+getirilmesi sırasında oluşacak patlamalardan dolayı hayatını
+kaybedenler.
 
-Şehit yakınları ile çalışabilir durumda olan malullerin istihdamında
-takip edilecek usul ve esaslar; Maliye, Milli Savunma, Çalışma ve Sosyal
-Güvenlik Bakanlıkları ile Devlet Personel Başkanlığı ve İş ve İşçi Bulma
-Kurumunun görüşleri alınmak suretiyle, İçişleri Bakanlığınca üç ay
-içerisinde çıkarılacak bir yönetmelikle belirlenir.
+İstihdam hakkından;
 
-B\) **(Mülga: 15/5/2008-5763/37 md.)**
+a\) İkinci fıkranın (a) ve (b) bentleri kapsamında hayatını kaybedenlerin
+eş veya çocuklarından birisi ile ana, baba veya kardeşlerinden birisi
+olmak üzere toplam iki kişi; ana, baba ve kardeşi yoksa eş veya
+çocuklarından toplam iki kişi; eş veya çocuğu yoksa ana veya babası ile
+kardeşlerinden birisi olmak üzere toplam iki kişi, ana veya babanın bu
+hakkı kullanmaması durumunda ise bir diğer kardeşi olmak üzere toplam
+iki kişi,
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 27/5/2007 tarihli ve 5673 sayılı Kanunun 3 üncü maddesiyle bu
-fıkrada yer alan "% 0,5'ini" ibaresi, "% 0,7'sini" olarak, daha sonra
-15/5/2008 tarihli ve 5763 sayılı Kanunun 29 uncu maddesiyle; aynı ibare
-"% 1” şeklinde değiştirilmiş ve metne işlenmiştir.*
-
-*(2) 4/7/2012 tarihli ve 6353 sayılı Kanunun 76 ncı maddesiyle, bu
-fıkrada yer alan “%1” ibaresi “%2” şeklinde değiştirilmiştir.*
+b\) İkinci fıkranın (a) ve (b) bentlerinde sayılan malullerin kendileri
+veya eş veya çocuklarından birisi, eşi veya çocuğu yoksa kendisi veya
+kardeşlerinden birisi olmak üzere toplam bir kişi,
 
 7224
+
+c\) İkinci fıkranın (c) bendine göre malul sayılanların kendileri veya eş
+ve çocuklarından birisi, eşi veya çocuğu yoksa kendileri veya
+kardeşlerinden birisi; hayatını kaybedenlerin ise eş veya çocuklarından
+birisi, eşi veya çocuğu yoksa kardeşlerinden birisi olmak üzere toplam
+bir kişi,
+
+ç) İkinci fıkranın (ç) bendine göre engelli hale gelenlerin kendileri
+veya eş ve çocuklarından birisi, eşi veya çocuğu yoksa kendileri veya
+kardeşlerinden birisi; hayatını kaybedenlerin ise eş ve çocuklarından
+birisi, eşi veya çocuğu yoksa kardeşlerinden birisi olmak üzere toplam
+bir kişi,
+
+yararlanır.
+
+Bu madde kapsamında atanacakların, atamalarının yapılacağı kadro veya
+pozisyonlar için sınavlara ilişkin hükümler hariç olmak üzere ilgili
+mevzuatında öngörülen nitelik ve şartları taşımaları zorunludur.
+
+Bir başkasının bakımına muhtaç olacak derecede engelli olanlar, birinci
+fıkrada sayılan kurumlarda görev yapanlar, istihdam hakkını sağlayan
+olayın meydana geldiği tarihten sonra söz konusu kurum ve kuruluşlarında
+görev yapmakta iken bu görevinden ayrılmış olanlar ile kırk beş yaşını
+bitirmiş olanlar istihdam hakkından faydalanamazlar ve bu durumda
+olanlar yukarıdaki fıkraların uygulanmasında dikkate alınmaz.
+
+Hak sahiplerinden ilköğretim, ortaokul, ilkokul mezunu olanların
+hizmetli unvanlı kadrolara; ortaöğretim ve yükseköğretim mezunu
+olanların ise memur unvanlı kadrolara atama teklifleri Devlet Personel
+Başkanlığınca yapılır. Sözleşmeli personel pozisyonları ve işçi
+kadrolarına yapılacak atama tekliflerinde ise hak sahiplerinin bu fıkra
+uyarınca öğrenim durumları itibarıyla atanabilecekleri kadro unvanları
+dikkate alınarak Devlet Personel Başkanlığınca belirlenen aynı veya
+eşdeğer unvanlı pozisyon ve kadrolar esas alınır.
+
+Kamu kurum ve kuruluşları bu madde kapsamında atama yapılması amacıyla
+ayırdıkları %2 oranındaki kadro ve pozisyonların unvan ve sayısını her
+yılın şubat ve ağustos aylarının son gününe kadar Devlet Personel
+Başkanlığına bildirirler.
+
+Bu madde kapsamında başvuranlardan hak sahibi olanlar İçişleri
+Bakanlığınca tespit edilerek, liste hâlinde her yılın mart ve eylül
+aylarının son gününe kadar Devlet Personel Başkanlığına bildirilir.
+Bildirilenlerin atama teklifleri, kamu kurum ve kuruluşlarının söz
+konusu münhal kadro ve pozisyonlarına Devlet Personel Başkanlığınca kırk
+beş gün içinde yapılır. Kamu kurum ve kuruluşlarınca atama yapılabilecek
+kadro ve pozisyonların bildirilmemesi veya unvan bazında ihtiyacın
+karşılanamaması durumunda Devlet Personel Başkanlığınca kapsamdaki kamu
+kurum ve kuruluşlarının münhal kadro ve pozisyonlarına resen atama
+teklifi yapılır. Atama işlemlerinin, atama teklifinin kamu kurum ve
+kuruluşuna intikalinden itibaren otuz gün içinde yapılması zorunludur.
+Atama emri ilgili kamu kurum ve kuruluşu tarafından 7201 sayılı Tebligat
+Kanunu hükümlerine göre ilgililere tebliğ edilir. İlgililerin işe
+başlama sürelerine ve işe başlamama hâlinde yapılacak işlemlere ilişkin
+olarak 657 sayılı Kanunun 62 nci ve 63 üncü maddeleri hükümleri
+uygulanır. Atama onayı alınmasına rağmen görevine başlamayanlar ile
+başladıktan sonra herhangi bir sebeple görevden ayrılanlar bu madde
+kapsamında yeniden istihdam edilemezler. Kamu kurum ve kuruluşları atama
+ve göreve başlatma işlemlerinin sonucunu, işlemlerin tamamlanmasını
+takip eden on beş gün içinde Devlet Personel Başkanlığına bildirirler.
+
+7224-1
+
+Bu maddenin uygulanmasında takip edilecek usul ve esaslar ile diğer
+hususlar; Aile ve Sosyal Politikalar Bakanlığı, Çalışma ve Sosyal
+Güvenlik Bakanlığı, Maliye Bakanlığı ve Millî Savunma Bakanlığı ile
+Sosyal Güvenlik Kurumu Başkanlığının görüşleri alınmak suretiyle, bu
+maddenin yürürlüğe girdiği tarihten itibaren dört ay içinde Devlet
+Personel Başkanlığı ile İçişleri Bakanlığınca müştereken hazırlanan ve
+Bakanlar Kurulunca yürürlüğe konulan yönetmelikle belirlenir.
 
 **Ek Madde 2 – (Ek : 29/8/1996 - 4178/3 md.; İptal: 6/1/1999 tarih ve
 E.: 1996/68, K.: 1999/1 sayılı Kararı ile; Yeniden düzenleme:
@@ -1020,7 +1106,50 @@ haklardan yararlanır.
 
 7226-1
 
-*Yürürlükten kaldırılan hükümler *
+**Geçici Madde 13- (Ek: 12/7/2013-6495/87 md.)**
+
+Bu maddenin yürürlüğe girdiği tarihten önce ek 1 inci madde kapsamında
+istihdam hakkı bulunanlardan kırk beş yaşını doldurduğu için istihdam
+hakkından yararlanamayacak olanlar, söz konusu maddede öngörülen
+yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içinde İçişleri
+Bakanlığına müracaat etmeleri şartıyla bir defaya mahsus olmak üzere
+mezkûr maddede belirtilen istihdam hakkı sınırlamaları çerçevesinde
+yararlandırılır.
+
+Bu maddenin yürürlüğe girdiği tarihte ek 1 inci madde kapsamına girenler
+ile bu maddenin birinci fıkrasında belirtilenlerden İçişleri
+Bakanlığınca hak sahibi olduğu tespit edilenlerin atama teklifleri
+Devlet Personel Başkanlığınca 2015 yılı sonuna kadar kura usulü ile
+yapılır. Hak sahiplerinin atama teklifleri; ek 1 inci madde kapsamına
+giren kurum ve kuruluşların dolu kadro ve pozisyon sayısının, kurumların
+toplam dolu kadro ve pozisyon sayısına oranı esas alınmak suretiyle hak
+sahiplerinin kamu kurum ve kuruluşlarına dengeli dağılımı gözetilerek
+Devlet Personel Başkanlığınca kura usulü ile gerçekleştirilir. Hak
+sahiplerinin atamasının yapılacağı kadro veya pozisyonun belirlenmesinde
+ek 1 inci maddede öngörülen usul uygulanır. Bu madde kapsamında
+yapılacak işlemlere ilişkin usul ve esaslar, ek 1 inci maddede öngörülen
+yönetmelikte düzenlenir. Kura sonucu yapılacak atamalarda atama
+teklifleri ile birlikte atama teklifi yapılan kamu kurum ve
+kuruluşlarına diğer kanunlardaki hükümlere bakılmaksızın ve başka bir
+işleme gerek kalmaksızın kadro ve pozisyonlar ihdas, tahsis ve vize
+edilmiş sayılır. Bu kadro ve pozisyonlar mevzuatı uyarınca düzenlenen
+ilgili cetvel ve bölümlere eklenmiş sayılır. Bu şekilde ihdas edilen
+kadro ve pozisyonlar herhangi bir şekilde boşalması hâlinde başka bir
+işleme gerek kalmaksızın iptal edilmiş sayılır.
+
+Bu madde uyarınca yapılan atamalar, ek 1 inci maddede belirtilen hak
+sahiplerinin atanması için ayrılması gereken %2 oranındaki kadro ve
+pozisyon sayılarının hesabında dikkate alınmaz.
+
+Bu maddenin yürürlüğe girdiği tarihten önce ek 1 inci maddeye göre
+yapılan başvurular başvuru tarihindeki mevzuat hükümlerine göre
+sonuçlandırılır.
+
+Bu madde ile ek 1 inci madde kapsamında 31/12/2015 tarihine kadar
+yapılacak atamalar, yılı merkezi yönetim bütçe kanunlarında yer alan
+kısıtlamalara tabi tutulmaz.
+
+Yürürlükten kaldırılan hükümler
 
 **Madde 23 –** a) 2 sayılı Hıyaneti Vataniye Kanunu,
 
@@ -1037,13 +1166,15 @@ Kanun",
 
 Yürürlükten kaldırılmıştır.
 
-*Yürürlük*
+Yürürlük
 
 **Madde 24 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
-*Yürütme *
+Yürütme
 
 **Madde 25 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+7226-2
 
 **12/4/1991 TARİHLİ VE 3713 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER: **
 
@@ -1056,8 +1187,6 @@ Kanunun 1 inci maddesiyle 3713 sayılı Kanunun 8 inci maddesinde yapılan
 değişiklik sebebiyle mahkumiyet sürelerinin yeniden belirlenmesine ve
 13.7.1965 tarihli ve 647 sayılı Kanunun 4 üncü ve 6 ncı maddelerinden
 yararlanma durumları hakkında gerekli karar verilir.
-
-7226-2
 
 7227-7231
 
@@ -1111,20 +1240,40 @@ Diğerleri 16/11/1995
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **3713 sayılı Kanunun değişen veya iptal edilen maddeleri**                              **Yürürlüğe Giriş Tarihi**
-  5218                                                                         17                                                                                       21/7/2004
-  5460                                                                         21                                                                                       28/2/2006
-  5532                                                                         1, 3, 4, 5, 6, 7, 8, 8/A, 8/B, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21 ve Ek Madde 2   18/7/2006
-  5673                                                                         Ek Madde 1                                                                               2/6/2007
-  5739                                                                         13                                                                                       1/3/2008
-  5763                                                                         Ek Madde 1                                                                               26/5/2008
-  (5754 sayılı Kanun ile değişik) 5510                                         21                                                                                       1/10/2008
-  6008                                                                         5, 9, 13                                                                                 25/7/2010
-  6352                                                                         2, 6, 9,10, 13                                                                           5/7/2012
-  6353                                                                         21, Ek Madde 1, Geçici Madde 11, 12                                                      12/7/2012
-  6415                                                                         8                                                                                        16/2/2013
-  6459                                                                         6, 7                                                                                     30/4/2013
-  ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------------- ----------------------------
+  ------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------- --------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**     **3713 sayılı Kanunun değişen veya iptal edilen maddeleri**                              **Yürürlüğe Giriş Tarihi**
+
+  5218                                                                           17                                                                                       21/7/2004
+
+  5460                                                                           21                                                                                       28/2/2006
+
+  5532                                                                           1, 3, 4, 5, 6, 7, 8, 8/A, 8/B, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 21 ve Ek Madde 2   18/7/2006
+
+  5673                                                                           Ek Madde 1                                                                               2/6/2007
+
+  5739                                                                           13                                                                                       1/3/2008
+
+  5763                                                                           Ek Madde 1                                                                               26/5/2008
+
+  (5754 sayılı Kanun ile değişik) 5510                                           21                                                                                       1/10/2008
+
+  6008                                                                           5, 9, 13                                                                                 25/7/2010
+
+  6352                                                                           2, 6, 9,10, 13                                                                           5/7/2012
+
+  6353                                                                           21, Ek Madde 1, Geçici Madde 11, 12                                                      12/7/2012
+
+  6415                                                                           8                                                                                        16/2/2013
+
+  6459                                                                           6, 7                                                                                     30/4/2013
+
+  6462                                                                           21                                                                                       3/5/2013
+
+  6495                                                                           21, Ek Madde 1, Geçici Madde 13                                                          2/8/2013
+
+  Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100, K:2013/84 sayılı kararı   10 uncu maddenin 5 inci fıkrası                                                          2/8/2013 tarihinden itibaren bir yıl sonra
+                                                                                                                                                                          
+                                                                                                                                                                          2/8/2014
+  ------------------------------------------------------------------------------ ---------------------------------------------------------------------------------------- --------------------------------------------
 
 
