@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 5378 sayılı Kanunla Değişik Hali**
+**4857 sayılım Kanunun 5538 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -73,6 +73,45 @@ ilişkisinin muvazaalı işleme dayandığı kabul edilerek alt işverenin
 işçileri başlangıçtan itibaren asıl işverenin işçisi sayılarak işlem
 görürler. İşletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık
 gerektiren işler dışında asıl iş bölünerek alt işverenlere verilemez.
+
+**(Ek fıkra:1/7/2006-5538/18 md.)** Kanuna veya kanunun verdiği yetkiye
+dayanılarak kurulan kamu kurum ve kuruluşları ile bunların doğrudan veya
+dolaylı olarak sermayesinin en az yüzde ellisine sahip oldukları
+ortaklıklarda, 4734 sayılı Kamu İhale Kanunu veya diğer kanun hükümleri
+çerçevesinde, hizmet alımı amacıyla yapılan sözleşmeler gereğince,
+yüklenici aracılığıyla çalıştırılanlar, bu şekilde çalışmış olmalarına
+dayanarak;
+
+a\) Bu kurum, kuruluş ve ortaklıklara ait kadro veya pozisyonlara
+atanmaya,
+
+b\) Bu kurum, kuruluş ve ortaklıklara ait işyerlerinin kadro veya
+pozisyonlarında çalışanlar için toplu iş sözleşmesi, personel kanunları
+veya ilgili diğer mevzuat hükümlerine göre belirlenen her türlü malî
+haklar ile sosyal yardımlardan yararlanmaya,
+
+hak kazanamazlar.
+
+**(Ek fıkra:1/7/2006-5538/18 md.)** Sekizinci fıkrada belirtilen
+işyerlerinde yükleniciler dışında kalan işverenler tarafından
+çalıştırılanlar ile bu işyerlerinin tâbi oldukları ihale mevzuatı
+çerçevesinde kendi nam ve hesabına sözleşme yaparak üstlendiği ihale
+konusu işte doğrudan kendileri çalışanlar da aynı hükümlere tâbidir.
+Sekizinci fıkrada belirtilen kurum, kuruluş veya ortaklıkların
+sermayesine katıldıkları ortaklıkların kadro veya pozisyonlarında
+çalışan işçilerin, ortak durumundaki kamu kurum, kuruluş veya
+ortaklıkların kadro veya pozisyonlarına atanma ya da bu kurum, kuruluş
+veya ortaklıklarda geçerli olan malî haklar ile sosyal yardımlardan
+yararlanma talepleri hakkında da sekizinci fıkra hükümleri uygulanır.
+Hizmet alımına dayanak teşkil edecek sözleşme ve şartnamelere;
+
+a\) İşe alınacak kişilerin belirlenmesi ve işten çıkarma yetkisinin kamu
+kurum, kuruluşları ve ortaklıklarına bırakılması,
+
+b\) Hizmet alım sözleşmeleri çerçevesinde ya da geçici işçi olarak aynı
+iş yerinde daha önce çalışmış olanların çalıştırılmasına devam olunması,
+
+yönünde hükümler konulamaz.
 
 **İşyerini bildirme**
 
@@ -1900,6 +1939,15 @@ yürütecekleri ile işyeri sağlık birimleri, Sağlık Bakanlığı ve Türk
 Tabipleri Birliğinin görüşü alınarak Çalışma ve Sosyal Güvenlik
 Bakanlığı tarafından çıkarılacak bir yönetmelikte düzenlenir.
 
+**(Ek fıkra:1/7/2006-5538/18 md.)** Kanuna veya kanunun verdiği yetkiye
+dayanılarak kurulan kamu kurum ve kuruluşlarında ilgili mevzuatına göre
+çalıştırılmakta olan hekimlere, ikinci fıkrada öngörülen eğitimler
+aldırılmak suretiyle ve aslî görevleri kapsamında, çalışmakta oldukları
+kurum ve kuruluşların asıl işveren olarak çalıştırdıkları işçilerin iş
+yeri hekimliği hizmetleri gördürülür. Bu kurum ve kuruluşların diğer
+personel için oluşturulmuş olan sağlık birimleri iş yeri sağlık birimi
+olarak da kullanılabilir.
+
 **İş güvenliği ile görevli mühendis veya teknik elemanlar**
 
 **MADDE 82. -** Bu Kanuna göre sanayiden sayılan, devamlı olarak en az
@@ -2336,7 +2384,7 @@ para cezası verilir.
 
 **İdari para cezalarının uygulanmasına ilişkin hususlar **
 
-**MADDE 108. –** **(Değişik birinci fıkra: 1/7/2005-5378/39 md.)** Bu
+**MADDE 108. –** **(Değişik birinci fıkra:1/7/2005-5378/39 md.)** Bu
 Kanunda öngörülen idari para cezaları, 101 inci maddedeki idari para
 cezaları hariç, gerekçesi belirtilmek suretiyle Çalışma ve Sosyal
 Güvenlik Bakanlığı Bölge Müdürünce verilir. 101 inci madde kapsamındaki
@@ -2507,6 +2555,8 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     4884              17/6/2003                 17/6/2003                                -                                        3
 
   1.     5378              7/7/2005                  7/7/2005                                 -                                        108
+
+  1.     5538              12/7/2006                 12/7/2006                                -                                        2, 81
   ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------
 
 
