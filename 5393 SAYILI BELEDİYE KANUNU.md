@@ -1,4 +1,4 @@
-**6645 sayılı Kanun ile değişik hali**
+9469
 
 **BELEDİYE KANUNU**
 
@@ -8,7 +8,7 @@ Kabul Tarihi : 3/7/2005
 
 Yayımlandığı R.Gazete : Tarih: 13/7/2005 Sayı : 25874
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 44
+Yayımlandığı Düstur : Tertip : 5 Cilt : 44 Sayfa:
 
 ** **
 
@@ -570,17 +570,16 @@ haczedilemez.
 
 **(Ek fıkra: 10/9/2014 - 6552/121 md.)** İcra dairesince haciz kararı
 alınmadan önce belediyeden borca yeter miktarda haczedilebilecek mal
-gösterilmesi istenir ve haciz işlemi sadece gösterilen bu mal üzerine
-uygulanır. On gün içinde yeterli mal beyan edilmemesi durumunda
-yapılacak haciz işlemi, alacak miktarını aşacak veya kamu hizmetlerini
-aksatacak şekilde yapılamaz.
+gösterilmesi istenir (…) ^(2)^. On gün içinde yeterli mal beyan
+edilmemesi durumunda yapılacak haciz işlemi, alacak miktarını aşacak (…)
+^(2)^ şekilde yapılamaz. ^(2)^
 
 *Belediyeye tanınan muafiyet*
 
 **Madde 16-** Belediyenin kamu hizmetine ayrılan veya kamunun
 yararlanmasına açık, gelir getirmeyen taşınmazları ile bunların inşa ve
 kullanımları katma değer vergisi ile özel tüketim vergisi hariç her
-türlü vergi, resim, harç, katılma ve katkı paylarından muaftır. ^(2)^
+türlü vergi, resim, harç, katılma ve katkı paylarından muaftır. ^(3)^
 
 İKİNCİ KISIM
 
@@ -609,7 +608,13 @@ etmek.
 fıkranın birinci cümlesinde yer alan “arsa” ibaresi “taşınmaz” olarak
 değiştirilmiştir.*
 
-*(2) 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu
+*(2) Anayasa Mahkemesi’nin 17/6/2015 tarihli ve E.: 2014/194, K.:
+2015/55 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…ve
+haciz işlemi sadece gösterilen bu mal üzerine uygulanır” ibaresi ile
+aynı fıkranın ikinci cümlesinde yer alan “ …veya kamu hizmetlerini
+aksatacak …” ibaresi iptal edilmiştir.*
+
+*(3) 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu
 maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere;
 "katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiş ve
 metne işlenmiştir.*
@@ -1295,6 +1300,22 @@ başkan vekili,
 
 Seçer.
 
+**(Ek fıkra: 15/8/2016-KHK-674/38 md.; Aynen Kabul: 10/11/2016-6758/34
+md.)** Ancak, belediye başkanı veya başkan vekili ya da meclis üyesinin
+terör veya terör örgütlerine yardım ve yataklık suçları sebebiyle
+görevden uzaklaştırılması veya tutuklanması ya da kamu hizmetinden
+yasaklanması veya başkanlık sıfatı veya meclis üyeliğinin sona ermesi
+hallerinde 46 ncı maddedeki makamlarca belediye başkanı veya başkan
+vekili ya da meclis üyesi görevlendirilir. Görevlendirilecek kişinin
+seçilme yeterliğine sahip olması şarttır. Görevden uzaklaştırılan veya
+tutuklanan belediye meclisi üyesinin istifa etmesi halinde de bu fıkra
+hükümleri uygulanır. Bu fıkra gereğince belediye başkanı veya başkan
+vekili görevlendirilen belediyelerde bütçe ve muhasebe iş ve işlemleri
+valilik onayı ile defterdarlığa veya mal müdürlüğüne gördürülebilir. Bu
+belediyelerde belediye meclisi, başkanın çağrısı olmadıkça toplanamaz.
+Meclisin, encümenin ve komisyonların görev ve yetkileri 31 inci maddede
+belirtilen encümen üyeleri tarafından yürütülür.
+
 Belediye başkanı veya başkan vekili belediye meclis üyeleri arasından ve
 gizli oyla seçilir. İlk iki oylamada üye tam sayısının üçte iki ve
 üçüncü oylamada üye tam sayısının salt çoğunluğu aranır. Üçüncü oylamada
@@ -1698,12 +1719,40 @@ gönderilir.
 karara karşı ilgili belediyece asliye hukuk mahkemesine itiraz
 edilebilir.
 
+**(Ek fıkra: 15/8/2016-KHK-674/39 md.; Aynen Kabul: 10/11/2016-6758/35
+md.)**Ancak belediye veya bağlı idarelerde; hizmetlerin aksatılmasının
+terör veya şiddet olaylarıyla mücadeleyi olumsuz etkilediğinin veya
+etkileyeceğinin valilik tarafından belirlenmesi halinde, valilik söz
+konusu hizmeti Yatırım İzleme ve Koordinasyon Başkanlığı, il özel
+idaresi veya kamu kurum ve kuruluşları aracılığıyla yapar veya yaptırır.
+Valiliğin talebi üzerine, yapılan veya yapılacak harcamalar karşılığı
+tutarlar, Maliye Bakanlığı veya İller Bankası Anonim Şirketince ilgili
+idare payından kesilerek ilgili kurum ve kuruluşa gönderilir. Merkezi
+yönetim bütçesi kapsamındaki kamu idarelerine aktarılan tutarlar bu
+idarelerin bütçeleriyle ilişkilendirilir. Bu fıkra kapsamındaki
+ihtiyaçlar; parasal ve bütçe sınırlamasına tabi olmaksızın 4/1/2002
+tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesinde belirtilen
+usule göre temin edilir.
+
+**(Ek fıkra: 15/8/2016-KHK-674/39 md.; Aynen Kabul: 10/11/2016-6758/35
+md.)** Belediye ve bağlı idare imkânlarının terör veya şiddet olaylarına
+dolaylı ya da doğrudan destek sağlamak amacıyla kullanıldığının valilik
+tarafından belirlenmesi durumunda, terör ve şiddet olaylarına destek
+olmak amacıyla kullanılan belediye veya bağlı idare taşınırlarına
+mahallin en büyük mülki idare amiri tarafından el konulur. Bu fıkra
+kapsamında sorumluluğu tespit edilen belediye veya bağlı idare
+personelinin vali veya kaymakam tarafından görevden uzaklaştırılması
+halinde göreve iade işlemi ancak uzaklaştırma işlemini yapan makam
+tarafından yapılır.
+
 *Denetimle ilgili diğer hükümler*
 
 **Madde 58-** Denetimin yapılması ve faaliyet raporunun hazırlanması
 hususunda bu Kanunda hüküm bulunmayan durumlarda 5018 sayılı Kamu Malî
 Yönetimi ve Kontrol Kanunu ile diğer kanunların ilgili hükümleri
 uygulanır.
+
+9490-1
 
 BEŞİNCİ KISIM
 
@@ -2214,6 +2263,14 @@ ile 5253 sayılı Dernekler Kanununun 10 uncu maddesi; belediyeler, il
 özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler
 ile ortağı oldukları Sayıştay denetimine tabi şirketler için uygulanmaz.
 
+**(Ek fıkra: 31/10/2016-KHK-678/11 md.)** Afet, kitlesel göç ve teröre
+maruz kalan yerleşim birimlerinin belediyeleri ile bu Kanunun 45 inci
+maddesinin ikinci fıkrası gereğince belediye başkanı veya başkan vekili
+görevlendirilen belediyelerde, vali veya belediye başkanı, aksayan
+belediye hizmetinin başka bir belediye tarafından yerine getirilmesini
+talep edebilir. Yardım istenilen belediye, meclis kararına gerek
+olmaksızın İçişleri Bakanının izniyle bu talebi yerine getirebilir.
+
 *Kent konseyi*
 
 **Madde 76-** Kent konseyi, kent yaşamında; kent vizyonunun ve
@@ -2536,12 +2593,20 @@ haklarından yazılı olarak feragat etmeleri kaydıyla, bu maddenin
 yürürlüğe girdiği tarihten itibaren 30 gün içinde atama işlemleri
 tamamlanarak göreve başlatılır.
 
-**Geçici Madde 8** – **(Ek: 10/9/2014 - 6552/123 md.)**
+**Geçici Madde 8** – **(Ek: 10/9/2014 - 6552/123 md.; İptal: Anayasa
+Mahkemesi’nin 17/6/2015 tarihli ve E.: 2014/194, K.: 2015/55 sayılı
+Kararı ile.)**
 
-15 inci maddenin son fıkrası hükümleri, devam eden her türlü icra
-takipleri hakkında da uygulanır. Bu maddenin yürürlük tarihinden önce
-yapılmış icra takipleri gereğince konulan tüm hacizler, söz konusu fıkra
-hükümleri dikkate alınarak kaldırılır.
+**Geçici Madde 9 – (Ek : 15/8/2016-KHK-674/40 md.; Aynen Kabul:
+10/11/2016-6758/36 md.)**
+
+Bu maddenin yürürlüğe girdiği tarihten önce terör veya terör örgütlerine
+yardım ve yataklık suçları kapsamında haklarında yürütülen soruşturma
+veya kovuşturma nedeniyle görevden uzaklaştırılan belediye başkanı,
+başkan vekili ve meclis üyelerinin yerine 45 inci maddenin birinci
+fıkrasının (b) bendine göre işlem yapılmış olsa bile onbeş gün
+içerisinde 46 ncı maddedeki yetkili makamlarca 45 inci maddenin ikinci
+fıkrasında belirtilen usule göre görevlendirme yapılır.
 
 *Yürürlük*
 
@@ -2553,14 +2618,14 @@ hükümleri dikkate alınarak kaldırılır.
 
 **3/7/2005 TARİHLİ VE 5393 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER**
 
-*1) 17/6/2010 tarihli ve 5998 sayılı Kanunun Geçici Maddesi:*
+(1) *17/6/2010 tarihli ve 5998 sayılı Kanunun Geçici Maddesi:*
 
 **Geçici Madde 1 – (İptal: Anayasa Mahkemesi’nin 18/10/2012 tarihli ve
 E.: 2010/82, K.:2012/159 sayılı Kararı ile.)** ^(1)^
 
 –––––––––––––––––––
 
-*(1) Sözkonusu İptal Kararı 23/7/2013 tarihli ve 28716 sayılı Resmi
+*(1)Sözkonusu İptal Kararı 23/7/2013 tarihli ve 28716 sayılı Resmi
 Gazete’de yayımlanmıştır.*
 
 9500-1
@@ -2640,9 +2705,13 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **5393 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  6645                                                                              15, Ek Madde 1                                                23/4/2015
-  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**      **5393 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  6645                                                                                 15, Ek Madde 1                                                23/4/2015
+  Anayasa Mahkemesi’nin 17/6/2015 tarihli ve E.: 2014/194, K.: 2015/55 sayılı Kararı   15, Geçici Madde 8                                            26/6/2015
+  KHK/674                                                                              45, 57, Geçici Madde 9                                        1/9/2016
+  KHK/678                                                                              75                                                            22/11/2016
+  6758                                                                                 45, 57, Geçici Madde 9                                        24/11/2016
+  ------------------------------------------------------------------------------------ ------------------------------------------------------------- ----------------------------
 
 
