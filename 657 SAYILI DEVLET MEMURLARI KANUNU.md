@@ -1,4 +1,4 @@
-**6519 sayılı Kanun ile değişik hali**
+**6525 sayılı Kanun ile değişik hali**
 
  
 
@@ -1168,30 +1168,31 @@ Yardımcıları,^(45)^ Kamu Denetçiliği Uzman Yardımcıları, ^(49)^ Aile ve
 Sosyal Politikalar Denetçi Yardımcıları,^(34)^ Ürün Denetmen
 Yardımcıları,^(34)^ Sosyal Güvenlik Denetmen Yardımcıları, ^(52)^ Millî
 Eğitim Uzman Yardımcıları ve Millî Eğitim Denetçi Yardımcıları,^(38)^
-Sağlık Uzman Yardımcıları ve Sağlık Denetçi Yardımcıları,^(46)^ Enerji
-ve Tabii Kaynaklar Uzman Yardımcıları, Göç Uzman Yardımcıları, İl Göç
-Uzman Yardımcıları ^(51)^ ve Enerji ve Tabii Kaynaklar Denetçi
-Yardımcıları,(48) Gümrük ve Ticaret Denetmen Yardımcıları,^(47)^
-Belediye Müfettiş Yardımcıları, Milli Savunma Bakanlığı Akaryakıt İkmal
-ve NATO POL Tesisleri İşletme Başkanlığı Müfettiş Yardımcılarının özel
-yeterlik sınavı yönetmeliklerine göre yapılacak yeterlik sınavlarında
-başarı göstererek Müfettişliğe, Kaymakamlığa, (…) ^(21)^, Başbakanlık
-Uzmanlığına, Adalet Uzmanlığına, Dışişleri Uzmanlığına, İçişleri
-Uzmanlığına, Millî Savunma Uzmanlığına, Yükseköğretim Kurulu
-Uzmanlığına, Özelleştirme İdaresi Başkanlığı Uzmanlığına, ^(43)^ Vakıf
-Uzmanlığına, ^(22)^ Tapu ve Kadastro Uzmanlığına, ^(31)^ (…)^(34)^ ,
-Devlet Personel Uzmanlığına, Afet ve Acil Durum Yönetimi Uzmanlığına,
-^(25)^ Bankalar Yeminli Murakıplığına, Vergi Müfettişliğine,^(35)^
-Sigorta Denetleme Uzmanlığına ve Aktüerliğine, Kontrolörlüğe, İçişleri
-Bakanlığı Dernekler Denetçiliğine,^(11)^ (…)^(40)^,(…)^(40)^,(…)^(34)^,
-Marka Uzmanlığına, Patent Uzmanlığına, (…)^(34)^, (…)^(34)^, (…)^(35)^
-(…)^(40)^ , (…)^(34)^, (…)^(34)^, (…)^(34)^, (…) ^(20)^ , Sosyal
-Güvenlik Uzmanlığına, Çalışma Uzmanlığına, Yurt Dışı İşçi Hizmetleri
-Uzmanlığına, İş Sağlığı ve Güvenliği Uzmanlığına, Çalışma ve Sosyal
-Güvenlik Eğitim Uzmanlığına, Kültür ve Turizm Uzmanlığına, Yazma Eser
-Uzmanlığına, ^(32)^Ulaştırma ve Haberleşme Uzmanlığına, Havacılık ve
-Uzay Teknolojileri Uzmanlığına,^(41)^ Denizcilik Uzmanlığına, (…)^(34)^,
-(…) ^(20)^, TİKA Uzmanlığına^(39)^, (…)^(40),^ ^(35)^ Devlet Gelir
+Gençlik ve Spor Denetçi Yardımcıları,^(53)^ Sağlık Uzman Yardımcıları ve
+Sağlık Denetçi Yardımcıları,^(46)^ Enerji ve Tabii Kaynaklar Uzman
+Yardımcıları, Göç Uzman Yardımcıları, İl Göç Uzman Yardımcıları ^(51)^
+ve Enerji ve Tabii Kaynaklar Denetçi Yardımcıları,(48) Gümrük ve Ticaret
+Denetmen Yardımcıları,^(47)^ Belediye Müfettiş Yardımcıları, Milli
+Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme
+Başkanlığı Müfettiş Yardımcılarının özel yeterlik sınavı
+yönetmeliklerine göre yapılacak yeterlik sınavlarında başarı göstererek
+Müfettişliğe, Kaymakamlığa, (…) ^(21)^, Başbakanlık Uzmanlığına, Adalet
+Uzmanlığına, Dışişleri Uzmanlığına, İçişleri Uzmanlığına, Millî Savunma
+Uzmanlığına, Yükseköğretim Kurulu Uzmanlığına, Özelleştirme İdaresi
+Başkanlığı Uzmanlığına, ^(43)^ Vakıf Uzmanlığına, ^(22)^ Tapu ve
+Kadastro Uzmanlığına, ^(31)^ (…)^(34)^ , Devlet Personel Uzmanlığına,
+Afet ve Acil Durum Yönetimi Uzmanlığına, ^(25)^ Bankalar Yeminli
+Murakıplığına, Vergi Müfettişliğine,^(35)^ Sigorta Denetleme Uzmanlığına
+ve Aktüerliğine, Kontrolörlüğe, İçişleri Bakanlığı Dernekler
+Denetçiliğine,^(11)^ (…)^(40)^,(…)^(40)^,(…)^(34)^, Marka Uzmanlığına,
+Patent Uzmanlığına, (…)^(34)^, (…)^(34)^, (…)^(35)^ (…)^(40)^ ,
+(…)^(34)^, (…)^(34)^, (…)^(34)^, (…) ^(20)^ , Sosyal Güvenlik
+Uzmanlığına, Çalışma Uzmanlığına, Yurt Dışı İşçi Hizmetleri Uzmanlığına,
+İş Sağlığı ve Güvenliği Uzmanlığına, Çalışma ve Sosyal Güvenlik Eğitim
+Uzmanlığına, Kültür ve Turizm Uzmanlığına, Yazma Eser Uzmanlığına,
+^(32)^Ulaştırma ve Haberleşme Uzmanlığına, Havacılık ve Uzay
+Teknolojileri Uzmanlığına,^(41)^ Denizcilik Uzmanlığına, (…)^(34)^, (…)
+^(20)^, TİKA Uzmanlığına^(39)^, (…)^(40),^ ^(35)^ Devlet Gelir
 Uzmanlığına, (…)^(40),^ Maliye Uzmanlığına, Gelir Uzmanlığına, Mali
 Hizmetler Uzmanlığına, Defterdarlık Uzmanlığına ^(40),^, Vergi
 İstihbarat Uzmanlığına, (…)^(34)^, bakanlık ve bağlı kuruluşların A.B.
@@ -1211,15 +1212,16 @@ Savunma Sanayii Uzmanlığına,^(36)^ Basın ve Enformasyon
 Uzmanlığına,^(37)^ Yüksek Kurum Uzmanlığına,^(45)^ Kamu Denetçiliği
 Uzmanlığına, ^(49)^ Aile ve Sosyal Politikalar Denetçiliğine,^(34)^ Ürün
 Denetmenliğine,^(34)^ Sosyal Güvenlik Denetmenliğine, ^(52)^Millî Eğitim
-Uzmanlığına ve Millî Eğitim Denetçiliğine,^(38)^ Sağlık Uzmanlığına ve
-Sağlık Denetçiliğine,^(46)^Enerji ve Tabii Kaynaklar Uzmanlığına, Göç
+Uzmanlığına ve Millî Eğitim Denetçiliğine,^(38)^ Gençlik ve Spor
+Denetçiliğine,^(53)^ Sağlık Uzmanlığına ve Sağlık
+Denetçiliğine,^(46)^Enerji ve Tabii Kaynaklar Uzmanlığına, Göç
 Uzmanlığına, İl Göç Uzmanlığına ^(51)^ ve Enerji ve Tabii Kaynaklar
 Denetçiliğine,^(48)^ Gümrük ve Ticaret Denetmenliğine^(47)^ (...)^(1)^
 Dışişleri Bakanlığı meslek memurluğu ile konsolosluk ve ihtisas
 memurluğunda ^(30)^ ise Dışişleri Bakanlığınca sınavla girilmesi şart
 koşulan bir dereceye atanmaları sırasında ve bir defaya mahsus olmak
 üzere haklarında ayrıca bir derece yükselmesi uygulanır.
-^(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)(14)(15)(16)(17)(18)(19)\ (20)(21)(22)\ (23)\ (24)\ (25)(26)(27)(28)(29)(30)(31)(32)(33)\ (34)(35)(36)(37)\ (38)\ (39)\ (40)\ (41)\ (42)(43)\ (44)(45)\ (46)(47)(48)(49)(52)^
+^(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)(14)(15)(16)(17)(18)(19)\ (20)(21)(22)\ (23)\ (24)\ (25)(26)(27)(28)(29)(30)(31)(32)(33)\ (34)(35)(36)(37)\ (38)\ (39)\ (40)\ (41)\ (42)(43)\ (44)(45)\ (46)(47)(48)(49)(52)(53)^
 
 ***Dikkat! Dipnotlar için 4190-2 numaralı sayfa ve devamına bakınız.***
 
@@ -1608,6 +1610,13 @@ bende “Ürün Denetmen Yardımcıları,” ibaresinden sonra gelmek üzere
 “Sosyal Güvenlik Denetmen Yardımcıları,” ibaresi ve “Ürün
 Denetmenliğine,” ibaresinden sonra gelmek üzere “Sosyal Güvenlik
 Denetmenliğine,” ibaresi eklenmiştir.*
+
+*(53) 20/2/2014 tarihli ve 6525 sayılı Kanunun 6 ncı maddesiyle, bu
+bende “Milli Eğitim Uzman Yardımcıları ve Milli Eğitim Denetçi
+Yardımcıları,” ibaresinden sonra gelmek üzere “Gençlik ve Spor Denetçi
+Yardımcıları,” ibaresi ve aynı bende “Milli Eğitim Uzmanlığına ve Milli
+Eğitim Denetçiliğine,” ibaresinden sonra gelmek üzere “Gençlik ve Spor
+Denetçiliğine” ibaresi eklenmiştir.*
 
 4191
 
@@ -3646,36 +3655,33 @@ sonraki iki yıl süreyle” şeklinde değiştirilmiştir.*
 
 4213
 
- 
+*Yıllık izin:*
 
-             Yıllık izin:
+**Madde 102 – (Değişik: 31/7/1970 - 1327/46 md.)**
 
-**             Madde 102 – (Değişik: 31/7/1970 - 1327/46 md.)**
+Devlet memurlarının yıllık izin süresi, hizmeti 1 yıldan on yıla kadar
+(On yıl dahil) olanlar için yirmi gün, hizmeti on yıldan fazla olanlar
+için 30 gündür. Zorunlu hallerde bu sürelere gidiş ve dönüş için en çok
+ikişer gün eklenebilir.
 
-             Devlet memurlarının yıllık izin süresi, hizmeti 1 yıldan on
-yıla kadar (On yıl dahil) olanlar için yirmi gün, hizmeti on yıldan
-fazla olanlar için 30 gündür. Zorunlu hallerde bu sürelere gidiş ve
-dönüş için en çok ikişer gün eklenebilir.
+*Yıllık izinlerin kullanılışı:*
 
-             Yıllık izinlerin kullanılışı:
+**Madde 103 –** Yıllık izinler, amirin uygun bulacağı zamanlarda, toptan
+veya ihtiyaca göre kısım kısım kullanılabilir. Birbirini izliyen iki
+yılın izni bir arada verilebilir. **(Değişik cümle: 6/7/1995 - KHK -
+562/2 md.)** Cari yıl ile bir önceki yıl hariç, önceki yıllara ait
+kullanılmayan izin hakları düşer.
 
-             **Madde 103 –** Yıllık izinler, amirin uygun bulacağı
-zamanlarda, toptan veya ihtiyaca göre kısım kısım kullanılabilir.
-Birbirini izliyen iki yılın izni bir arada verilebilir. **(Değişik
-cümle: 6/7/1995 - KHK - 562/2 md.)** Cari yıl ile bir önceki yıl hariç,
-önceki yıllara ait kullanılmayan izin hakları düşer.
-
-             Öğretmenler yaz tatili ile dinlenme tatillerinde izinli
-sayılırlar. Bunlara, hastalık ve diğer mazeret izinleri dışında, ayrıca
+Öğretmenler yaz tatili ile dinlenme tatillerinde izinli
+sayılırlar.Bunlara, hastalık ve diğer mazeret izinleri dışında, ayrıca
 yıllık izin verilmez.
 
-             Hizmetleri sırasında radyoaktif ışınlarla çalışan
-personele, her yıl yıllık izinlerine ilaveten bir aylık sağlık izni
-verilir.
+Hizmetleri sırasında radyoaktif ışınlarla çalışan personele, her yıl
+yıllık izinlerine ilaveten bir aylık sağlık izni verilir.
 
-             Mazeret izni:
+*Mazeret izni: ^(1)^*
 
-             **Madde 104 – (Değişik: 13/2/2011-6111/106 md.)**
+**Madde 104 – (Değişik: 13/2/2011-6111/106 md.)**
 
 A\) Kadın memura; doğumdan önce sekiz, doğumdan sonra sekiz hafta olmak
 üzere toplam onaltı hafta süreyle analık izni verilir. Çoğul gebelik
@@ -3710,17 +3716,26 @@ altı ayda günde birbuçuk saat süt izni verilir. Süt izninin hangi
 saatler arasında ve günde kaç kez kullanılacağı hususunda, kadın memurun
 tercihi esastır.
 
-E\) Yıllık izin ve mazeret izinleri sırasında fiili çalışmaya bağlı her
-türlü ödemeler hariç malî haklar ile sosyal yardımlara dokunulmaz.^(1)^
+E\) **(Ek: 20/2/2014-6525/7 md.)** Memurlara; en az yüzde 70 oranında
+engelli ya da süreğen hastalığı olan çocuğunun (çocuğun evli olması
+durumunda eşinin de en az yüzde 70 oranında engelli olması kaydıyla)
+hastalanması hâlinde hastalık raporuna dayalı olarak ana veya babadan
+sadece biri tarafından kullanılması kaydıyla bir yıl içinde toptan veya
+bölümler hâlinde on güne kadar mazeret izni verilir. ^(1)^
+
+F\) Yıllık izin ve mazeret izinleri sırasında fiili çalışmaya bağlı her
+türlü ödemeler hariç malî haklar ile sosyal yardımlara
+dokunulmaz.^(1)(2)^
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 11/10/2011 tarihli ve 666 sayılı KHK’nın 5 inci maddesiyle bu
-fıkrada yer alan “sırasında” ibaresinden sonra gelmek üzere “fiili
-çalışmaya bağlı her türlü ödemeler hariç” ibaresi eklenmiş ve metne
-işlenmiştir.*
+*(1) 20/2/2014 tarihli ve 6525 sayılı Kanunun 7 nci maddesiyle, bu
+maddeye (E) fıkrası eklenmiş, mevcut (E) fıkrası (F) olarak teselsül
+ettirilmiştir.*
 
- 
+*(2) 11/10/2011 tarihli ve 666 sayılı KHK’nın 5 inci maddesiyle bu
+fıkrada yer alan “sırasında” ibaresinden sonra gelmek üzere “fiili
+çalışmaya bağlı her türlü ödemeler hariç” ibaresi eklenmiştir.*
 
 4214
 
@@ -4973,8 +4988,8 @@ Tesisleri İşletme Başkanlığı Müfettiş ve Müfettiş Yardımcıları, Ail
 Sosyal Politikalar Bakanlığı Denetçi ve Denetçi Yardımcıları^(31)^,
 Millî Eğitim Denetçi ve Denetçi Yardımcıları, Sağlık Denetçi ve Denetçi
 Yardımcıları,^(41)^ Enerji ve Tabii Kaynaklar Denetçi ve Denetçi
-Yardımcıları,^(43)^ için % 195
-ine,^(1)(2)(3)(10)\ (11)(17)(19)(31)\ (34)(41)(43)(44)^
+Yardımcıları,^(43)^ Gençlik ve Spor Denetçi Yardımcıları, için % 195
+ine,^(1)(2)(3)(10)\ (11)(17)(19)(31)\ (34)(41)(43)(44)(48)^
 
 ğ) **(Ek: 11/10/2011-KHK-666/5 md.)** Adalet Uzmanları, Afet ve Acil
 Durum Yönetimi Uzmanları, Aile ve Sosyal Politikalar Uzmanları, Avrupa
@@ -5030,7 +5045,7 @@ Uzmanları, (…) ^(36)^, (…)^(31)^, (…)^(31)^, (…) ^(44)^ (…) ^(44)^ (�
 (…) ^(44)^ ^(43)^ Gümrük ve Ticaret Denetmenleri,^(42)^ Sosyal Güvenlik
 Denetmenleri, ^(47)^ (…)^(28)^ ile bunların yardımcıları için % 120
 sine,
-^(4)\ (5)\ (6)\ (7)\ (8)(9)(11)(12)(13)(14)(17)(19)(20)(21)(22)(28)(29)(31)(32)(33)\ (37)(38)(39)(40)(42)(43)(44)(47)^
+^(4)\ (5)\ (6)\ (7)(8)(9)(11)(12)(13)(14)(17)(19)(20)(21)(22)(28)(29)(31)(32)(33)\ (37)(38)(39)(40)(42)(43)(44)(47)^
 
 j\) Diğer belediyeler ve bunlara bağlı genel müdürlük Başmüfettiş,
 Müfettiş ve Müfettiş Yardımcıları, Yüksekokul mezunu olmak şartı ile
@@ -5337,6 +5352,11 @@ Uzmanları,” ibaresi eklenmiştir.*
 *(47) 12/7/2013 tarihli ve 6495 sayılı Kanunun 8 inci maddesiyle, bu
 bölümün (i) bendine “Gümrük ve Ticaret Denetmenleri,” ibaresinden sonra
 gelmek üzere “Sosyal Güvenlik Denetmenleri,” ibaresi eklenmiştir.*
+
+*(48) 20/2/2014 tarihli ve 6525 sayılı Kanunun 6 ncı maddesiyle, bu
+bölümün (g) bendine “Enerji ve Tabii Kaynaklar Denetçi ve Denetçi
+Yardımcıları,” ibaresinden sonra gelmek üzere “Gençlik ve Spor Denetçi
+Yardımcıları,” ibaresi eklenmiştir.*
 
 4228-7
 
@@ -9580,43 +9600,41 @@ devamına bakınız.***
 
 4272-8
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------- ---------------------------- ----------------------------
-  **UNVANI**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Derece   1/1/1994’den                 1/1/1995’den İtibaren
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               İtibaren                     Uygulanacak Ek Göstergeler
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Uygulanacak Ek Göstergeler   
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------- ---------------------------- ----------------------------
+  **UNVANI**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Derece   1/1/1994’den                 1/1/1995’den İtibaren
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           İtibaren                     Uygulanacak Ek Göstergeler
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Uygulanacak Ek Göstergeler   
 
-  Der Çalışma ve Sosyal Güvenlik Bakanlığı İş ve İş Güvenliği Müfettişleri ve Bakanlıkların Merkez Teşkilatına dahil Genel Müdürlükleri Kontrolörleri ve İçişleri Bakanlığı Dernekler Denetçileri ile Sosyal Güvenlik Kurumu Müfettişleri, Sosyal Güvenlik Uzmanları, Ulaştırma ve Haberleşme Uzmanları,^(39)^ Havacılık ve Uzay Teknolojileri Uzmanları,^(39)^ Denizcilik Uzmanları,^(39)^, Sağlık Uzmanları ve Sağlık Denetçileri,^(42)^ Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı Müfettişleri, Türkiye İstatistik Kurumu Uzmanları, Enerji ve Tabii Kaynaklar Denetçileri ^(44)^ ile 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu hükümlerine göre atanan İç Denetçiler, Millî Eğitim Uzmanları, Millî Eğitim Denetçileri ve İl Eğitim Denetmenleri, Aile ve Sosyal Politikalar Denetçileri, Maliye Uzmanları^(38)^,   1        1900                         2200
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-  ^(1)(9)(10)(14)(15)(16)(17)(22)(24)(30)(32)(35)(39)(42)(43)(44)(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                2        1350                         1600
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-  h\) En az 3 yıl süreli yükseköğrenim veren fakülte ve yüksekokulları                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                3        1000                         1200
-  bitirerek mesleğe özel yarışma sınavı ile giren ve belirli süreli meslek                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-  içi eğitimden sonra özel bir yeterlik sınavı sonunda atanan (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               4        900                          1100
-  (…)^(46)(21)^ (…)^(46)^ (…)^(46)\ 26)^ (…)^(17)^, (…)^(46)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-  (…)^(46)^ (…)^(46)\ (7)^ (…)^(46)^ (…)^(46)^ ^(32)^ (…)^(46)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             5        800                          900
-  Gelir Uzmanları, İl İstihdam Uzmanları, ^(40)^ Mali Hizmetler                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-  Uzmanları,^(16)^ (…)^(46)^ Vergi İstihbarat Uzmanları, (…)^(38)^,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   6        700                          800
-  (…)^(46)^ İçişleri Bakanlığı Planlama Uzmanları, İl Göç Uzmanları ^(48)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-  (…)^(5)^ (…)^(31)^ (…) ^(13)^ (…)^(12)^ (…) ^(11)^ (…)^(17)^ ,^(8)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 7        450                          500
-  (…)^(46)\ (4)^ (…)^(46)\ (28)^ (…) ^(19)(39)^ (…)^(46)\ (18)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-  (…)^(46)\ (27)^ (…)^(46)^ (…)^(46)\ (25)^ (…)^(30)^ (...)^(2)^ (…)^(39)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            8        400                          450
-  (…)^(30)^ (…)^(46)^ ^(23)^ (…)^(46)\ (29)^ (…) ^(17)^ , (…)^(46)\ (37)^,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-  (…)^(46)^ (…)^(46)^ (…)^(46)^ (…)^(46)\ (45)^ (…)^(46)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-  (…)^(46)^ (…)^(46)^ (…)^(46)(30)^ (…)^(46)\ (33)^ (…)^(46)\ (34)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-  (…)^(46)\ (41)^ (…)^(46)^ ^(44)^ **(Ek İbare: 19/6/1994-KHK-543)** En az                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-  üç yıl süreli Yüksek Öğretim veren Fakülte veya Yüksekokulu bitirerek                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-  yapılacak sınav sonucunda denetmen yardımcısı veya uzman                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-  yardımcısı^(50)^ kadrolarına atanmış ve en az üç yıl bu kadrolarda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-  çalıştıktan sonra bu süredeki çalışmaları olumlu bulunmak kaydıyla                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-  (…)^(46)^ (..) ^(32)^ (…)^(46)^ Ürün Denetmenleri ^(30)^, Gümrük ve                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-  Ticaret Denetmenleri,^(43)^ Sosyal Güvenlik Denetmenleri, ^(49)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-  Defterdarlık Uzmanları ^(38)\ ,^ (…)^(27)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-  ^(40)\ (6)^(…)^(46)^(…)^(46)^kadrosuna atanmış olanlar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-  ^(1)(10)(20)(25)(26)(27)(28)(29)(30)(31)(32)(33)(34)\ (39)(40)(41)(43)(44)(45)(46)(49)(50)\ ^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------- ---------------------------- ----------------------------
+  Der Çalışma ve Sosyal Güvenlik Bakanlığı İş ve İş Güvenliği Müfettişleri ve Bakanlıkların Merkez Teşkilatına dahil Genel Müdürlükleri Kontrolörleri ve İçişleri Bakanlığı Dernekler Denetçileri ile Sosyal Güvenlik Kurumu Müfettişleri, Sosyal Güvenlik Uzmanları, Ulaştırma ve Haberleşme Uzmanları,^(39)^ Havacılık ve Uzay Teknolojileri Uzmanları,^(39)^ Denizcilik Uzmanları,^(39)^, Sağlık Uzmanları ve Sağlık Denetçileri,^(42)^ Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı Müfettişleri, Türkiye İstatistik Kurumu Uzmanları, Enerji ve Tabii Kaynaklar Denetçileri ^(44)^ ile 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu hükümlerine göre atanan İç Denetçiler, Millî Eğitim Uzmanları, Millî Eğitim Denetçileri ve İl Eğitim Denetmenleri, Aile ve Sosyal Politikalar Denetçileri, Gençlik ve Spor Denetçileri, ^(51)^ MaliyeUzmanları^(38)^, ^(1)(9)(10)(14)(15)(16)(17)(22)(24)(30)(32)(35)(39)(42)(43)(44)(46)(51)^   1        1900                         2200
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+  h\) En az 3 yıl süreli yükseköğrenim veren fakülte ve yüksekokulları                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            2        1350                         1600
+  bitirerek mesleğe özel yarışma sınavı ile giren ve belirli süreli meslek                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  içi eğitimden sonra özel bir yeterlik sınavı sonunda atanan (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           3        1000                         1200
+  (…)^(46)(21)^ (…)^(46)^ (…)^(46)\ 26)^ (…)^(17)^, (…)^(46)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+  (…)^(46)^ (…)^(46)\ (7)^ (…)^(46)^ (…)^(46)^ ^(32)^ (…)^(46)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         4        900                          1100
+  Gelir Uzmanları, İl İstihdam Uzmanları, ^(40)^ Mali Hizmetler                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+  Uzmanları,^(16)^ (…)^(46)^ Vergi İstihbarat Uzmanları, (…)^(38)^,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               5        800                          900
+  (…)^(46)^ İçişleri Bakanlığı Planlama Uzmanları, İl Göç Uzmanları ^(48)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  (…)^(5)^ (…)^(31)^ (…) ^(13)^ (…)^(12)^ (…) ^(11)^ (…)^(17)^ ,^(8)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             6        700                          800
+  (…)^(46)\ (4)^ (…)^(46)\ (28)^ (…) ^(19)(39)^ (…)^(46)\ (18)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+  (…)^(46)\ (27)^ (…)^(46)^ (…)^(46)\ (25)^ (…)^(30)^ (...)^(2)^ (…)^(39)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        7        450                          500
+  (…)^(30)^ (…)^(46)^ ^(23)^ (…)^(46)\ (29)^ (…) ^(17)^ , (…)^(46)\ (37)^,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  (…)^(46)^ (…)^(46)^ (…)^(46)^ (…)^(46)\ (45)^ (…)^(46)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               8        400                          450
+  (…)^(46)^ (…)^(46)^ (…)^(46)(30)^ (…)^(46)\ (33)^ (…)^(46)\ (34)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+  (…)^(46)\ (41)^ (…)^(46)^ ^(44)^ **(Ek İbare: 19/6/1994-KHK-543)** En az                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  üç yıl süreli Yüksek Öğretim veren Fakülte veya Yüksekokulu bitirerek                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+  yapılacak sınav sonucunda denetmen yardımcısı veya uzman                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  yardımcısı^(50)^kadrolarına atanmış ve en az üç yıl bu kadrolarda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+  çalıştıktan sonra bu süredeki çalışmaları olumlu bulunmak kaydıyla                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+  (…)^(46)^ (..) ^(32)^ (…)^(46)^ Ürün Denetmenleri ^(30)^, Gümrük ve                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+  Ticaret Denetmenleri,^(43)^ Sosyal Güvenlik Denetmenleri, ^(49)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+  Defterdarlık Uzmanları ^(38)\ ,^ (…)^(27)^ (…)^(46)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+  ^(40)\ (6)^(…)^(46)^(…)^(46)^kadrosuna atanmış olanlar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+  ^(1)(10)(20)(25)(26)(27)(28)(29)(30)(31)(32)(33)(34)\ (39)(40)(41)(43)(44)(45)(46)(49)(50)\ ^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------- ---------------------------- ----------------------------
 
 4272-9
 
@@ -9943,6 +9961,11 @@ gelmek üzere “Sosyal Güvenlik Denetmenleri,” ibaresi eklenmiştir.*
 *(50) 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle, bu
 bölümün (h) bendine “denetmen yardımcısı” ibaresinden sonra gelmek üzere
 “veya uzman yardımcısı” ibaresi eklenmiştir.*
+
+*(51) 20/2/2014 tarihli ve 6525 sayılı Kanunun 6 ncı maddesiyle, bu
+bölümün (g) bendine “Aile ve Sosyal Politikalar Denetçileri,”
+ibaresinden sonra gelmek üzere “Gençlik ve Spor Denetçileri” ibaresi
+eklenmiştir.*
 
 4272-14
 
@@ -11106,61 +11129,46 @@ Genel Sekreteri” ibaresi eklenmiş ve metne işlenmiştir.*
 
 4272-33
 
- 
+**Sıra Tazminat**
 
-** 
-Sıra                                                                                                                              
-Tazminat**
+***No Kadro ve Görev Unvanı Göstergeleri***
 
-######## **    No       Kadro ve Görev Unvanı                    Göstergeleri**
+f\) Ankara, İstanbul ve İzmir illerinin; İl İdare Kurulu Üyesi Bakanlık
+İl Müdürleri ile aynı illerin; İl Emniyet Müdürleri, İl Müftüleri ve
+Vali Yardımcıları ^(11)^ 3.000
 
-           
+6 a) Kazanılmış hak aylıkları birinci derecede olmak şartıyla;
 
-    f)      Ankara, İstanbul ve İzmir illerinin; İl İdare Kurulu Üyesi
-Bakanlık İl Müdürleri ile aynı illerin; İl Emniyet Müdürleri, İl
-Müftüleri ve Vali Yardımcıları
-^(11)^                                                                                                        
-3.000
+1\. **(Değişik: 1/7/2006-5540/7 md.)** Birinci Sınıf Mülki İdare amirleri
+hariç kaymakamlar ile Kaymakamlık unvanını kazandıktan sonra İçişleri
+Bakanlığının merkez ve taşra teşkilatında görev yapanlar,
 
-    6      a)  Kazanılmış hak aylıkları birinci derecede olmak şartıyla;
+2\. Başkonsoloslar (Türkiye'de sürekli görev yaptıkları süre ile sınırlı
 
-                  1.  **(Değişik: 1/7/2006-5540/7 md.)** Birinci Sınıf
-Mülki İdare amirleri hariç kaymakamlar ile Kaymakamlık unvanını
-kazandıktan sonra İçişleri Bakanlığının merkez ve taşra teşkilatında
-görev yapanlar,
+olmak şartıyla) 3.000
 
-         2.  Başkonsoloslar (Türkiye'de sürekli görev yaptıkları süre
-ile sınırlı
+b\) Birinci dereceli kadroya atanmış olmak şartıyla,
 
-                       olmak şartıyla)
-                                                                                              
-3.000
+1\. Kaymakamlar ile Kaymakamlık ünvanını kazandıktan sonra İçişleri
+Bakanlığının merkez ve taşra teşkilatında görev yapanlar,
 
-             b)  Birinci dereceli kadroya atanmış olmak şartıyla,
+2\. Başkonsoloslar (Türkiye'de sürekli görev yaptıkları süre ile sınırlı
 
-                  1. Kaymakamlar ile Kaymakamlık ünvanını kazandıktan
-sonra İçişleri Bakanlığının merkez ve taşra teşkilatında görev yapanlar,
+olmak şartıyla) 2.000
 
-                  2.  Başkonsoloslar (Türkiye'de sürekli görev
-yaptıkları süre ile sınırlı
-
-                       olmak
-şartıyla)                                                                                               
-2.000
-
-    7      Birinci dereceli kadroya atanmış olmak şartıyla; Başbakanlık,
+7 Birinci dereceli kadroya atanmış olmak şartıyla; Başbakanlık,
 Bakanlık, Müsteşarlık, Kurum Başkanlığı ve Müstakil Genel Müdürlüklerin
 merkez teşkilatı Daire Başkanı, Türk İşbirliği ve Koordinasyon Ajansı
-Daire Başkanı^(16)^ kadrolarına atananlar (Bütçe Dairesi Başkanı dahil),
-Millî Eğitim Bakanlığı Grup Başkanı, ^(15)^ Gelir İdaresi Grup Başkanı,
-Milli Güvenlik Kurulu Genel Sekreterliği 1. Hukuk Müşaviri, Daire
-Başkanı ve Grup Başkanı, ^(19)^ Milli Kütüphane Başkan Yardımcısı,^(1)^
-Bölge Müdürleri (Kamu İktisadi Teşebbüsleri, Belediyeler ve bunlara
-bağlı kurum ve kuruluşlar hariç), (…) ^(12)^ Üniversite Genel
-Sekreterleri, Diyanet İşleri Başkanlığı Dinî Yüksek İhtisas Merkezi
-Müdürü ^(5)(7)(11)(19)^                                   2.000
+Başkanlığı Daire Başkanı, ^(16)^ kadrolarına atananlar (Bütçe Dairesi
+Başkanı dahil), Millî Eğitim Bakanlığı Grup Başkanı, ^(15)^ Gelir
+İdaresi Grup Başkanı, Milli Güvenlik Kurulu Genel Sekreterliği 1. Hukuk
+Müşaviri, Daire Başkanı ve Grup Başkanı, ^(19)^ Milli Kütüphane Başkan
+Yardımcısı,^(1)^ Bölge Müdürleri (Kamu İktisadi Teşebbüsleri,
+Belediyeler ve bunlara bağlı kurum ve kuruluşlar hariç), (…) ^(12)^
+Üniversite Genel Sekreterleri, Diyanet İşleri Başkanlığı Dinî Yüksek
+İhtisas Merkezi Müdürü ^(5)(7)(11)(19)^ 2.000
 
-    8      a)  En az dört yıl süreli yükseköğrenim veren fakülte veya
+8 a) En az dört yıl süreli yükseköğrenim veren fakülte veya
 yüksekokulları bitirmiş, birinci dereceli kadroya atanmış ve Türkiye
 düzeyinde teftiş, denetim veya inceleme yetkisine sahip merkez denetim
 elemanlarından; Başbakanlık Müfettişleri, Başbakanlık Yüksek Denetleme
@@ -11173,13 +11181,10 @@ Başkanlık Kontrolörleri, Bakanlıkların merkez teşkilatına dahil Genel
 Müdürlüklerin Kontrolörleri ile Çalışma ve Sosyal Güvenlik Bakanlığı İş
 Müfettişleri, Milli Savunma Bakanlığı Akaryakıt İkmal ve NATOPOL
 Tesisleri İşletme Başkanlığı Müfettişleri, İçişleri Bakanlığı Dernekler
- Denetçileri, Aile ve Sosyal Politikalar Denetçileri, Millî Eğitim
+Denetçileri, Aile ve Sosyal Politikalar Denetçileri, Millî Eğitim
 Denetçileri, Sağlık Denetçileri, Enerji ve Tabii Kaynaklar Denetçileri,
-^(2)(3)(4)(6)(10)(13)(14)(15)(16)(18)^
-                                                                                          
-       2.000
-
-***      ***
+Gençlik ve Spor Denetçileri, ^(2)(3)(4)(6)(10)(13)(14)(15)(16)(18)(20)^
+2.000
 
 ***Dikkat! Bu bölümle ilgili dipnotlar için 4272-35 numaralı sayfa ve
 devamına bakınız.***
@@ -11304,32 +11309,33 @@ eklenmiş ve metne işlenmiştir.*
 
 4272-36
 
- 
-
 *(12) 3/6/2011 tarihli ve 643 sayılı KHK’nın 8 inci maddesiyle bu
 cetvelin 7 inci sırasında yer alan "Gümrük Müsteşarlığı Başmüdürleri"
 ibaresi yürürlükten kaldırılmıştır.*
 
-\(13) 29/6/2011 tarihli ve 644 sayılı KHK’nin 37 maddesinin (19) numaralı
-fıkrasının (5) numaralı bendinde yer alan  hükme istinaden bu cetvelin 8
-inci sırasının (a) bendinin sonuna “, Aile ve Sosyal Politikalar
-Denetçileri” ibaresi eklenmiş ve metne işlenmiştir.
+*(13) 29/6/2011 tarihli ve 644 sayılı KHK’nin 37 maddesinin (19)
+numaralı fıkrasının (5) numaralı bendinde yer alan hükme istinaden bu
+cetvelin 8 inci sırasının (a) bendinin sonuna “, Aile ve Sosyal
+Politikalar Denetçileri” ibaresi eklenmiş ve metne işlenmiştir.*
 
-\(14) 7/7/2011 tarihli ve 646 sayılı KHK’nin 6 ncı maddesiyle, bu
+*(14) 7/7/2011 tarihli ve 646 sayılı KHK’nin 6 ncı maddesiyle, bu
 cetvelin 8 inci sırasının (a) bendinde yer alan “Maliye Bakanlığı Hesap
 Uzmanları” ibaresi “Maliye Bakanlığı Vergi Müfettişleri” şeklinde
-değiştirilmiştir.
+değiştirilmiştir.*
 
-\(15) 25/8/2011 tarihli ve 526 sayılı KHK’nin 44 üncü maddesiyle, bu
+*(15) 25/8/2011 tarihli ve 526 sayılı KHK’nin 44 üncü maddesiyle, bu
 cetvelin 7 inci sırasına “Gelir İdaresi Grup Başkanı” ibaresinden önce
 gelmek üzere “Millî Eğitim Bakanlığı Grup Başkanı,” ibaresi, 8 inci
 sırasının (a) bendine “Aile ve Sosyal Politikalar Denetçileri”
 ibaresinden sonra gelmek üzere “, Millî Eğitim Denetçileri” ibaresi
- eklenmiştir.
+eklenmiştir.*
 
-\(16) 24/10/2011 tarihli ve 656 sayılı KHK’nın 20 nci maddesiyle bu
+*(16) 24/10/2011 tarihli ve 656 sayılı KHK’nın 20 nci maddesiyle bu
 bölüme “Daire Başkanı” ibaresinden sonra gelmek üzere “, Türk İşbirliği
-ve Koordinasyon Ajansı Daire Başkanı” ibaresi eklenmiştir.
+ve Koordinasyon Ajansı Daire Başkanı” ibaresi eklenmiş olup, daha sonra
+bu ibare 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle
+“Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı Daire Başkanı,”
+şeklinde değiştirilmiştir.*
 
 *(17) 11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle bu
 Cetvelinin 8 inci sırasının (a) bendine “Millî Eğitim Denetçileri”
@@ -11341,13 +11347,18 @@ Cetvelin 8 inci sırasının (a) bendine “Millî Eğitim Denetçileri”
 ibaresinden sonra gelmek üzere “, Enerji ve Tabii Kaynaklar Denetçileri”
 ibaresi eklenmiştir. *
 
-\(19) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu
+*(19) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu
 cetvelin 7 nci sırasına “Gelir İdaresi Grup Başkanı,” ibaresinden sonra
 gelmek üzere “Milli Güvenlik Kurulu Genel Sekreterliği 1. Hukuk
 Müşaviri, Daire Başkanı ve Grup Başkanı,” ibaresi eklenmiş ve metne
-işlenmiştir.
+işlenmiştir.*
 
-4273
+*(20) 20/2/2014 tarihli ve 6525 sayılı Kanunun 6 ncı maddesiyle, bu
+Cetvelinin 8 inci sırasının (a) bendine “Enerji ve Tabii Kaynaklar
+Denetçileri” ibaresinden sonra gelmek üzere “Gençlik ve Spor
+Denetçileri” ibaresi eklenmiştir.*
+
+*4273*
 
  
 
@@ -13744,6 +13755,8 @@ fıkraları                                
   6518                                                                                   72                                                                     19/2/2014
 
   6519                                                                                   Ek Madde 41                                                            22/2/2014
+
+  6525                                                                                   36, 104, 152, I sayılı Cetvel, IV sayılı Makam Tazminatı Cetveli       27/2/2014
   -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- --------------------------------------
 
 
