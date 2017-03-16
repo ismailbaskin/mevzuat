@@ -1,4 +1,6 @@
-**6462 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2012/35,**
+
+**K.: 2012/203 sayılı Kararı ile değişik hali**
 
 **TÜRK MEDENİ KANUNU**
 
@@ -3713,8 +3715,6 @@ isteyebilirler.
 
 8097
 
- 
-
 *2. Diğer noksanlıklar*
 
 **Madde 318-** Evlât edinme esasa ilişkin diğer noksanlıklardan biriyle
@@ -3725,7 +3725,7 @@ Noksanlıklar bu arada ortadan kalkmış veya sadece usule ilişkin olup
 ilişkinin kaldırılması evlâtlığın menfaatini ağır biçimde zedeleyecek
 olursa, bu yola gidilemez.
 
-*II. Hak düşürücü süre*
+*II. Hak düşürücü süre ^(1)^*
 
 **Madde 319-** Dava hakkı, evlâtlık ilişkisinin kaldırılması sebebinin
 öğrenilmesinden başlayarak bir yıl ve her hâlde evlât edinme işleminin
@@ -3746,9 +3746,9 @@ SOYBAĞININ HÜKÜMLERİ
 
 *A. Soyadı *
 
-**Madde 321-** Çocuk, ana ve baba evli ise ailenin;  (…) ^(1)^ soyadını
+**Madde 321-** Çocuk, ana ve baba evli ise ailenin; (…) ^(2)^ soyadını
 taşır. Ancak, ana önceki evliliğinden dolayı çifte soyadı taşıyorsa
-çocuk onun bekârlık soyadını taşır. ^(1)^
+çocuk onun bekârlık soyadını taşır. ^(2)^
 
 *B. Karşılıklı yükümlülükler*
 
@@ -3773,10 +3773,10 @@ ilişkisini zedelemekten, çocuğun eğitilmesi ve yetiştirilmesini
 engellemekten kaçınmakla yükümlüdür.
 
 Kişisel ilişki sebebiyle çocuğun huzuru tehlikeye girer veya ana ve baba
-bu haklarını  birinci fıkrada öngörülen yükümlülüklerine aykırı olarak
+bu haklarını birinci fıkrada öngörülen yükümlülüklerine aykırı olarak
 kullanırlar veya çocuk ile ciddî olarak ilgilenmezler ya da diğer önemli
-sebepler varsa, kişisel ilişki kurma hakkı reddedilebilir veya 
-kendilerinden  alınabilir.   
+sebepler varsa, kişisel ilişki kurma hakkı reddedilebilir veya
+kendilerinden alınabilir.
 
 *II. Üçüncü kişiler ile*
 
@@ -3794,9 +3794,15 @@ yoluyla uygulanır.
 
 ––––––––––
 
-*(1)     Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2005/114, K.:
+*(1) Bu maddede yer alan “…ve her hâlde evlât edinme işleminin üzerinden
+beş yıl…” ibaresi, Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.:
+2012/35, K.: 2012/203 sayılı Kararı ile iptal edilmiş olup, İptal
+Kararının Resmi Gazete’de yayımlandığı 12/7/2013 tarihden başlayarak
+altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.*
+
+*(2) Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2005/114, K.:
 2009/105 sayılı Kararı ile; bu maddenin birinci cümlesinde yer alan “…
-evli değilse ananın …” ibaresi  iptal edilmiştir.*
+evli değilse ananın …” ibaresi iptal edilmiştir.*
 
 * *
 
@@ -12335,6 +12341,8 @@ kuruluşlar hakkında da uygulanır.
                                                                                                 K.: 2011/143                            
 
   6462                       3/5/2013                                                                                                   313, 340, 408, 417, 674
+
+                             12/7/2013 tarihden başlayarak altı ay sonra                        27/12/2012 E.: 2012/35 K.: 2012/203     319
   -------------------------- ------------------------------------------------------------------ --------------------------------------- -------------------------------------------------------------
 
  
