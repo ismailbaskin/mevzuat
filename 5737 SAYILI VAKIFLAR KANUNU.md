@@ -1,4 +1,4 @@
-**666 KHK ile değişik hali**
+**6456 sayılı Kanun ile değişik hali**
 
 **VAKIFLAR KANUNU**
 
@@ -514,10 +514,7 @@ mülkiyeti el değiştirmiş vakıf kültür varlıkları ile koruma alanların�
 kamulaştırılması, değerlendirilmesi, onarımı, restorasyonu ve
 gerektiğinde yeniden inşası Genel Müdürlükçe yürütülür.
 
-Sermayesinin yüzde ellisinden fazlası Genel Müdürlüğe veya mazbut
-vakıflara ait işletme ve iştiraklerin; Kurumlar Vergisi matrahının yüzde
-onu, yeterli geliri bulunmayan mazbut vakıflara ait vakıf kültür
-varlıklarının onarımında kullanılmak üzere Genel Müdürlüğe aktarılır.
+**(Mülga: 3/4/2013-6456/52 md.)**
 
 Yeterli geliri bulunmayan mazbut vakıflara ait vakıf kültür varlığı
 niteliğindeki taşınmazların, benzer amaçlı mazbut vakıfların
@@ -1763,6 +1760,8 @@ düzenlenir.
                                                                                                                                                                       
   --------------- ------------------------- -------------------------- --------------------------------------------------- ------------------------------------------ ---------------------------------------
 
+10262
+
 **(II) SAYILI CETVEL**
 
 **VAKIFLAR GENEL MÜDÜRLÜĞÜ**
@@ -1836,13 +1835,14 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ----------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**          **5737 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5917                                                                                III Sayılı Cetvel                                             1/7/2009 tarihinden geçerli olmak üzere 10/7/2009
   6111                                                                                7 ve Geçici madde 10                                          25/2/2011
   Anayasa Mahkemesi’nin 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Kararı   68                                                            11/7/2011
   KHK/651                                                                             35, 52, 68, Geçici Madde 11                                   27/8/2011
   KHK/666                                                                             67, 72, III Sayılı Cetvel                                     14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
-  ----------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------------
+  6456                                                                                28                                                            27/2/2008 tarihinden itibaren geçerli olmak üzere 18/4/2013 tarihinde
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------- -----------------------------------------------------------------------
 
-10264
+
