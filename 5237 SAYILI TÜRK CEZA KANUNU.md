@@ -1,4 +1,4 @@
-22/7/2010 tarihli ve 6008 sayılı Kanunla değişik
+8/12/2010 tarihli ve 6086 sayılı Kanunla değişik
 
 TÜRK CEZA KANUNU^(1)^
 
@@ -4921,27 +4921,37 @@ görevini yaptığı sırada, kişilere karşı görevinin gerektirdiği ölçü
 dışında kuvvet kullanması hâlinde, kasten yaralama suçuna ilişkin
 hükümler uygulanır.
 
-**Görevi kötüye kullanma **
+**Görevi kötüye kullanma^(1)^**
 
-**MADDE 257. -** (1) Kanunda ayrıca suç olarak tanımlanan hâller
+**MADDE 257. -** (1) Kanunda ayrıca suç olarak tanımlanan haller
 dışında, görevinin gereklerine aykırı hareket etmek suretiyle, kişilerin
 mağduriyetine veya kamunun zararına neden olan ya da kişilere haksız bir
-kazanç sağlayan kamu görevlisi, bir yıldan üç yıla kadar hapis cezası
+menfaat sağlayan kamu görevlisi, altı aydan iki yıla kadar hapis cezası
 ile cezalandırılır.
 
-\(2) Kanunda ayrıca suç olarak tanımlanan hâller dışında, görevinin
-gereklerini yapmakta ihmal veya gecikme göstererek, kişilerin
+            (2) Kanunda ayrıca suç olarak tanımlanan haller dışında,
+görevinin gereklerini yapmakta ihmal veya gecikme göstererek, kişilerin
 mağduriyetine veya kamunun zararına neden olan ya da kişilere haksız bir
-kazanç sağlayan kamu görevlisi, altı aydan iki yıla kadar hapis cezası
+menfaat sağlayan kamu görevlisi, üç aydan bir yıla kadar hapis cezası
 ile cezalandırılır.
 
-\(3) İrtikâp suçunu oluşturmadığı takdirde, görevinin gereklerine uygun
-davranması için veya bu nedenle kişilerden kendisine veya bir başkasına
-çıkar sağlayan kamu görevlisi, birinci fıkra hükmüne göre
-cezalandırılır.
+            (3) İrtikap suçunu oluşturmadığı takdirde, görevinin
+gereklerine uygun davranması için veya bu nedenle kişilerden kendisine
+veya bir başkasına çıkar sağlayan kamu görevlisi, bir yıldan üç yıla
+kadar hapis ve beşbin güne kadar adli para cezası ile cezalandırılır.
 
-Göreve ilişkin sırrın açıklanması 
-==================================
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 8/12/2010 tarihli ve 6086 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin birinci ve ikinci fıkralarında yer alan “kazanç” ibareleri
+“menfaat”, birinci fıkrasında yer alan “bir yıldan üç yıla kadar”
+ibaresi “altı aydan iki yıla kadar”, ikinci fıkrasında yer alan “altı
+aydan iki yıla kadar” ibaresi “üç aydan bir yıla kadar” ve üçüncü
+fıkrasında yer alan “birinci fıkra hükmüne göre” ibaresi “bir yıldan üç
+yıla kadar hapis ve beşbin güne kadar adli para cezası ile” şeklinde
+değiştirilmiş ve metne işlenmiştir.*
+
+**Göreve ilişkin sırrın açıklanması **
 
 **MADDE 258. -** (1) Görevi nedeniyle kendisine verilen veya aynı
 nedenle bilgi edindiği ve gizli kalması gereken belgeleri, kararları ve
@@ -6407,6 +6417,7 @@ MAHKEMESİ KARARININ **
   5759                       8/5/2008                                                                                                   301
   5918                       9/7/2009                                                                                                   13, 55, 165, 254, 282
   6008                       25/7/2010                                                                                                  79
+  6086                       19/12/2010                                                                                                 257
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
