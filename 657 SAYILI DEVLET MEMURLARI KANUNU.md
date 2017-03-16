@@ -1,4 +1,4 @@
-**6552 sayılı Kanun ile değişik hali**
+**6639 sayılı Kanun ile değişik hali**
 
 []{#K13 .anchor}**DEVLET MEMURLARI KANUNU ^(1)(2)(3)^**
 
@@ -5883,11 +5883,13 @@ saat 18.00'den sonra başlayan öğretim faaliyetleri için 150 gösterge
 rakamının bu Kanuna göre belirlenen aylık katsayısı ile çarpımından
 oluşan miktar üzerinden ek ders ücreti ödenir.
 
-             **(Değişik ikinci fıkra: 21/3/2006 – 5473/3 md.)** Bu
+            **(Değişik ikinci fıkra: 27/3/2015 – 6639/9 md.)** Bu
 ücretler, özel eğitime muhtaç öğrencilerin eğitim ve öğretim gördüğü
 kurumlarda görevli öğretmen ve yöneticiler ile bu öğrencilere yönelik
 olarak açılan özel sınıf öğretmenlerine ve cezaevlerinde görevli
-öğretmenlere % 25 fazlasıyla ödenir.
+öğretmenlere %25, Millî Eğitim Bakanlığı Örgün ve Yaygın Eğitimi
+Destekleme ve Yetiştirme Kursları Yönergesi kapsamında görev alan
+yönetici ve öğretmenlere %100 fazlasıyla ödenir.
 
              Bu madde kapsamında ücretle ders vermek üzere yükseköğretim
 kurumlarından görevlendirilen öğretim elemanlarına 2914 sayılı Kanun
@@ -7108,22 +7110,24 @@ yerlerde ve hiçbir şekilde” ibaresi eklenmiştir.*
 
 4249
 
+**(Değişik tablo: 27/3/2015-6639/10** md.)
+
   ----------------------------------------------------------------------- ----------
                                                                           Gösterge
 
-  a\) Eğitim görevlisi^(1)^, başasistan, uzman tabip                      100
+  a\) Eğitim görevlisi, başasistan, uzman tabip                           150
 
-  b\) Tabip, tıpta uzmanlık mevzuatında belirtilen dallarda, bu mevzuat   90
+  b\) Tabip, tıpta uzmanlık mevzuatında belirtilen dallarda, bu mevzuat   135
   hükümlerine göre uzmanlık belgesi alan tabip dışı personel, aynı        
   dallarda doktora belgesi alanlar                                        
 
-  c\) Diş tabibi ve eczacılar                                             80
+  c\) Diş tabibi ve eczacılar                                             120
 
-  ç) Mesleki yüksek öğrenim görmüş sağlık personeli                       60
+  ç) Mesleki yükseköğrenim görmüş sağlık personeli                        90
 
-  d\) Lise dengi mesleki öğrenim görmüş sağlık personeli                  50
+  d\) Lise dengi mesleki öğrenim görmüş sağlık personeli                  75
 
-  e\) Diğer personel                                                      35
+  e\) Diğer personel                                                      55
   ----------------------------------------------------------------------- ----------
 
 Bu madde hükmü, üniversitelerin yataklı tedavi kurumlarında çalışan ve
@@ -13644,6 +13648,8 @@ fıkraları                                
   Anayasa Mahkemesi’nin 27/3/2014 tarihli ve E.: 2013/101, K.: 2014/63 sayılı Kararı     36                                                                     22/7/2014
 
   6552                                                                                   4, 57, 152, Ek Madde 33, II sayılı Cetvel,                             11/9/2014
+
+  6639                                                                                   176, Ek Madde 33                                                       15/4/2015
   -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- --------------------------------------
 
 
