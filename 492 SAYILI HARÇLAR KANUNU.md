@@ -1,7 +1,6 @@
-** Anayasa Mahkemesi’nin 18/10/2012 tarihli ve E.: 2012/70, K.: 2012/157
-sayılı **
+**Anayasa Mahkemesi’nin 1/11/2012 tarihli **
 
-**Kararı ile değişik hali**
+**ve E.:2011/64, K.: 2012/168 sayılı Kararı ile değişik hali**
 
 **HARÇLAR KANUNU ^(1)^**
 
@@ -2584,14 +2583,14 @@ başvurularında **(66,10 T.L)** 50 TL
 
 f\) Bölge adliye mahkemeleri ceza dairelerine yapılacak istinaf yolu
 
-başvurularında **(26,45 T.L)** 20 TL
+başvurularında ^(1)^ **(26,45 T.L)** 20 TL
 
 g\) İdarî yaptırımlar konusunda sulh ceza mahkemelerince verilen son
 
-karara karşı itirazen yapılacak başvurularda **(26,45 T.L)** 20 TL
+karara karşı itirazen yapılacak başvurularda ^(1)^ **(26,45 T.L)** 20 TL
 
-h\) İcra mahkemelerinin kararlarına karşı itirazen yapılacak başvurularda
-**(26,45 T.L)** 20 TL
+h\) İcra mahkemelerinin kararlarına karşı itirazen yapılacak
+başvurularda^(1)^ **(26,45 T.L)** 20 TL
 
 **V. Keşif harcı: (Ek: 23/7/2010-6009/20 md.) (170,80 TL.)** 120 TL.
 
@@ -2655,6 +2654,13 @@ Kanununun 38/A maddesinin birinci fıkrasında tanımlanan konut
 finansmanından kaynaklanan alacaklar ile Toplu Konut İdaresi
 Başkanlığının rehinle temin edilmiş alacaklarının takibinde, bu bentte
 belirtilen tahsil harçları dörtte biri oranında uygulanır.
+
+–––––––––––––
+
+*(1) Bu fıkralar, Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.:
+2011/64, K.: 2012/168 sayılı Kararı ile iptal edilmiş olup, Kararın
+Resmi Gazete’de yayımlandığı 13/3/2013 tarihinden başlayarak altı ay
+sonra yürürlüğe girmesi hüküm altına alınmıştır.*
 
 3929
 
@@ -5626,45 +5632,48 @@ Tarifeler             1/1/2005
 
 3954-3
 
-  ------------------------------------------------------------------------------------- ---------------------------------------------------- -----------------------------------------------------------
-  **Değiştiren Kanun/İptal Eden Anayasa Mahkemesi Kararı**                              ***492 sayılı Kanunun değiştirilen maddeleri ***     ***Yürürlüğe giriş tarihi***
-                                                                                                                                             
-  ***No.***                                                                                                                                  
+  ------------------------------------------------------------------------------------- ----------------------------------------------------------------------- -----------------------------------------------------------
+  **Değiştiren Kanun/İptal Eden Anayasa Mahkemesi Kararı**                              ***492 sayılı Kanunun değiştirilen maddeleri ***                        ***Yürürlüğe giriş tarihi***
+                                                                                                                                                                
+  ***No.***                                                                                                                                                     
 
-  5582                                                                                  59, (1) ve (8) sayılı Tarifeler                      6/3/2007
+  5582                                                                                  59, (1) ve (8) sayılı Tarifeler                                         6/3/2007
 
-  5615                                                                                  123, (4) sayılı Tarife                               4/4/2007 
+  5615                                                                                  123, (4) sayılı Tarife                                                  4/4/2007 
 
-                                                                                        \(8) sayılı  Tarife                                  1/1/2008
+                                                                                        \(8) sayılı  Tarife                                                     1/1/2008
 
-  5766                                                                                  42, 59, 63, 123, (1), (3) ve (8) sayılı Tarifeler    6/6/2008
+  5766                                                                                  42, 59, 63, 123, (1), (3) ve (8) sayılı Tarifeler                       6/6/2008
 
-  5831                                                                                  \(4) sayılı Tarife                                   27/1/2009    
+  5831                                                                                  \(4) sayılı Tarife                                                      27/1/2009    
 
-  5838                                                                                  63, Mükerrer Madde 138, (4) sayılı Tarife            28/2/2009
+  5838                                                                                  63, Mükerrer Madde 138, (4) sayılı Tarife                               28/2/2009
 
-  5897                                                                                  \(8) sayılı Tarife                                   30/6/2009
+  5897                                                                                  \(8) sayılı Tarife                                                      30/6/2009
 
-  5951                                                                                  \(8) sayılı Tarife  ve İşlenemeyen Hüküm             5/2/2010
+  5951                                                                                  \(8) sayılı Tarife  ve İşlenemeyen Hüküm                                5/2/2010
 
-  6009                                                                                  28, 123, (1) sayılı Tarife                           1/8/2010
+  6009                                                                                  28, 123, (1) sayılı Tarife                                              1/8/2010
 
-  6111                                                                                  123                                                  25/2/2011
+  6111                                                                                  123                                                                     25/2/2011
 
-  6216                                                                                  \(1) sayılı Tarife                                   3/4/2011
+  6216                                                                                  \(1) sayılı Tarife                                                      3/4/2011
 
-  6217                                                                                  13, İşlenemeyen Hüküm, (1) ve (2) sayılı Tarife      14/4/2011
+  6217                                                                                  13, İşlenemeyen Hüküm, (1) ve (2) sayılı Tarife                         14/4/2011
 
-  KHK/646                                                                               134                                                  10/7/2011
+  KHK/646                                                                               134                                                                     10/7/2011
 
-  6322                                                                                  113, 123, (8) sayılı Tarife                          15/6/2012
+  6322                                                                                  113, 123, (8) sayılı Tarife                                             15/6/2012
 
-  6358                                                                                  Geçici Madde 6                                       10/11/2012
+  6358                                                                                  Geçici Madde 6                                                          10/11/2012
 
-  6361                                                                                  \(4) sayılı Tarife                                   13/12/2012
+  6361                                                                                  \(4) sayılı Tarife                                                      13/12/2012
 
-  Anayasa Mahkemesi’nin 18/10/2012 tarihli ve E.: 2012/70, K.: 2012/157 sayılı Kararı   28/a                                                 13/2/2013 tarihinden başlayarak altı ay sonra (13/8/2013)
-  ------------------------------------------------------------------------------------- ---------------------------------------------------- -----------------------------------------------------------
+  Anayasa Mahkemesi’nin 18/10/2012 tarihli ve E.: 2012/70, K.: 2012/157 sayılı Kararı   28/a                                                                    13/2/2013 tarihinden başlayarak altı ay sonra (13/8/2013)
+
+  Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.:2011/64, K.: 2012/168 sayılı Kararı     \(1) sayılı Tarifenin    “A- Mahkeme Harçları” bölümünün “IV. Temyiz,   13/3/2013 tarihinden başlayarak altı ay sonra (13/9/2013)
+                                                                                        istinaf ve itiraz harçları” kısmının (f), (g) ve (h) fıkraları          
+  ------------------------------------------------------------------------------------- ----------------------------------------------------------------------- -----------------------------------------------------------
 
  
 
