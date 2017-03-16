@@ -1,4 +1,4 @@
-**6111 sayılı Kanun ile değişik hali**
+**6217 sayılı Kanun ile değişik hali**
 
 **KABAHATLER** **KANUNU**
 
@@ -323,17 +323,17 @@ kabahatlerde üç,
 
 yıldır.
 
-**(Ek cümle: 13/2/2011-6111/22 md.)** Ancak 1111 sayılı Askerlik Kanunu,
-2839 sayılı Milletvekili Seçimi Kanunu, 2918 sayılı Karayolları Trafik
-Kanunu, 2972 sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve
-İhtiyar Heyetleri Seçimi Hakkında Kanun, 3376 sayılı Anayasa
-Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun, 4925 sayılı
-Karayolu Taşıma Kanunu, 5490 sayılı Nüfus Hizmetleri Kanunu ve 6001
-sayılı Karayolları Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında
-Kanunda belirtilen ve idari para cezasını gerektiren fiilin işlendiği
-tarihi takip eden takvim yılının son günü bitimine kadar idari para
-cezası verilerek tebliğ edilmediği takdirde idari yaptırım kararı
-verilemez, verilmiş olanlar düşer.
+**(Ek cümle: 13/2/2011-6111/22 md.)** Ancak, 89 uncu maddesi hariç olmak
+üzere 1111 sayılı Askerlik Kanunu, 2839 sayılı Milletvekili Seçimi
+Kanunu, 2918 sayılı Karayolları Trafik Kanunu, 2972 sayılı Mahalli
+İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında
+Kanun, 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması
+Hakkında Kanun, 4925 sayılı Karayolu Taşıma Kanunu, 5490 sayılı Nüfus
+Hizmetleri Kanunu ve 6001 sayılı Karayolları Genel Müdürlüğünün Teşkilat
+ve Görevleri Hakkında Kanunda belirtilen ve idari para cezasını
+gerektiren fiilin işlendiği tarihi takip eden takvim yılının son günü
+bitimine kadar idari para cezası verilerek tebliğ edilmediği takdirde
+idari yaptırım kararı verilemez, verilmiş olanlar düşer. ^(1)^
 
 \(3) Nispî idarî para cezasını gerektiren kabahatlerde zamanaşımı süresi
 sekiz yıldır.
@@ -374,6 +374,12 @@ itibaren işlemeye başlar.
 
 \(5) Kanun hükmü gereği olarak idarî yaptırımın yerine getirilmesine
 başlanamaması veya yerine getirilememesi halinde zamanaşımı işlemez.
+
+–––––––––––––––––––––––
+
+*(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
+fıkrada yer alan “Ancak” ibaresinden sonra gelmek üzere “, 89 uncu
+maddesi hariç olmak üzere” ibaresi eklenmiştir.*
 
 **DÖRDÜNCÜ BÖLÜM**
 
@@ -556,16 +562,29 @@ para cezasına karşı başvuruda bulunulması halinde, mahkeme idarî para
 cezasının miktarında değişiklik yaparak da başvurunun kabulüne karar
 verebilir. ^(1)^
 
-\(10) İkibin Türk Lirası dahil idarî para cezalarına karşı başvuru
-üzerine verilen kararlar kesindir. ^(1)^
+\(10) Üçbin Türk Lirası dahil idarî para cezalarına karşı başvuru üzerine
+verilen kararlar kesindir. ^(1)(2)^
 
 **İtiraz yolu **
 
-**MADDE 29-** (1) Mahkemenin verdiği son karara karşı, yargı çevresinde
-yer aldığı ağır ceza mahkemesine itiraz edilebilir. Bu itiraz, kararın
-tebliği tarihten itibaren en geç yedi gün içinde yapılır.
+**MADDE 29-** (1) Mahkemenin verdiği son karara karşı, Ceza Muhakemesi
+Kanununa göre itiraz edilebilir. Bu itiraz, kararın tebliği tarihten
+itibaren en geç yedi gün içinde yapılır. ^(3)^
 
 \(2) İtirazla ilgili karar, dosya üzerinden inceleme yapılarak verilir.
+
+–––––––––––––––––––––
+
+*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 35 inci maddesiyle, bu
+maddeye sekizinci fıkradan sonra gelmek üzere dokuzuncu fıkra eklenmiş
+ve diğer fıkra numarası buna göre teselsül ettirilmiştir. *
+
+*(2) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
+fıkrada yer alan “İkibin” ibaresi “Üçbin” şeklinde değiştirilmiştir.*
+
+*(3) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
+fıkrada yer alan “yargı çevresinde yer aldığı ağır ceza mahkemesine”
+ibaresi “Ceza Muhakemesi Kanununa göre” şeklinde değiştirilmiştir.*
 
 \(3) Mahkeme, her bir itirazla ilgili olarak "itirazın kabulüne" veya
 "itirazın reddine" karar verir.
@@ -573,8 +592,9 @@ tebliği tarihten itibaren en geç yedi gün içinde yapılır.
 \(4) Mahkemenin verdiği karar taraflara tebliğ edilir. Vekil olarak
 avukatla temsil edilme halinde ayrıca taraflara tebligat yapılmaz.
 
-\(5) İdarî yaptırım kararının ağır ceza mahkemesi tarafından verilmesi
-halinde bu karara karşı itiraz mercii en yakın ağır ceza mahkemesidir.
+\(5) **(Değişik: 31/3/2011-6217/27 md.)** İdarî yaptırım kararının ağır
+ceza mahkemesi tarafından verilmesi halinde bu karara karşı Ceza
+Muhakemesi Kanununa göre itiraz edilebilir.
 
 **Vazgeçme ve kabul **
 
@@ -588,17 +608,11 @@ kararını geri alabilir.
 
 **Masrafların ve vekalet ücretinin ödenmesi**
 
-**MADDE 31-** (1) İdarî yaptırım kararına karşı kanun yoluna
-başvurulması harca tâbi değildir.
+**MADDE 31-** (1) İdarî yaptırım kararına karşı başvuru yolu harca tâbi
+değildir. ^(1)^
 
 \(2) Kanun yoluna başvuru dolayısıyla oluşan bütün masraflar ve vekalet
 ücreti, başvurusu veya savunması reddedilen tarafça ödenir.
-
-–––––––––––––––––––––
-
-*(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 35 inci maddesiyle, bu
-maddeye sekizinci fıkradan sonra gelmek üzere dokzuncu fıkra eklenmiş ve
-diğer fıkra numarası buna göre teselsül ettirilmiştir.*
 
 **İKİNCİ KISIM**
 
@@ -663,6 +677,12 @@ kişi, elli Türk Lirası idarî para cezası ile cezalandırılır.
 
 \(2) Bu kabahat dolayısıyla idarî para cezası vermeye kolluk veya
 belediye zabıta görevlileri yetkilidir.
+
+–––––––––––––––––––––
+
+*(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu
+fıkrada yer alan “kanun yoluna başvurulması” ibaresi “başvuru yolu”
+şeklinde değiştirilmiştir.*
 
 **İşgal**
 
@@ -891,6 +911,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5918                                                                         43/A                                                          9/7/2009
   6009                                                                         21                                                            1/8/2010
   6111                                                                         20                                                            25/2/2011
+  6217                                                                         20, 28, 29, 31                                                14/4/2011
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
