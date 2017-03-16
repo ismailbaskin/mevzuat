@@ -1,4 +1,4 @@
-**6518 sayılı Kanun ile değişik hali**
+6528 sayılı Kanun ile değişik hali
 
  
 
@@ -1246,92 +1246,83 @@ işlenmiştir.*
 
 3917
 
- 
-
 İKİNCİ BÖLÜM
 
 *İstisna ve Muaflıklar*
 
-             *Harçtan müstesna işlemler:*
+*Harçtan müstesna işlemler:*
 
-             Madde 85 – Pasaport Kanunu hükümlerine uygun olarak
-verilecek aşağıda yazılı pasaportlar, ikamet tezkereleri ve tasdik
-işlemleri harçtan müstesnadır:
+**Madde 85 –** Pasaport Kanunu hükümlerine uygun olarak verilecek
+aşağıda yazılı pasaportlar, ikamet tezkereleri ve tasdik işlemleri
+harçtan müstesnadır:
 
-             a) Diplomatik pasaportlar, hususi pasaportlar ve hizmet
-pasaportları,
+a\) Diplomatik pasaportlar, hususi pasaportlar ve hizmet pasaportları,
 
-             b) Yabancı memleketlere münhasıran öğrenim için gideceklere
-gerek Türkiye'den çıkarken ve gerekse yabancı memleketlerde
-öğrenimlerini tamamlayıncaya kadar verilecek pasaportlar,
+b\) Yabancı memleketlere münhasıran öğrenim için gideceklere gerek
+Türkiye'den çıkarken ve gerekse yabancı memleketlerde öğrenimlerini
+tamamlayıncaya kadar verilecek pasaportlar,
 
-             c) Yabancı memleketlerde yoksul kalmış oldukları sabit olan
-Türk vatandaşlarına, Türkiye Cumhuriyeti konsoloslukları tarafından
+c\) Yabancı memleketlerde yoksul kalmış oldukları sabit olan Türk
+vatandaşlarına, Türkiye Cumhuriyeti konsoloslukları tarafından
 münhasıran Türkiye'ye dönüş yolculuğu için muteber olmak ve veriliş
 tarihinden itibaren en fazla üç ay içinde kullanılmak üzere verilecek
 pasaportlar,
 
-             d) Seyahatleri Türkiye için kültürel, ticari veya sosyal
-bir fayda sağlıyacak mahiyette bulunduğu sabit olanlarla, Milli Eğitim
+d\) Seyahatleri Türkiye için kültürel, ticari veya sosyal bir fayda
+sağlıyacak mahiyette bulunduğu sabit olanlarla, Milli Eğitim
 Bakanlığının izni ile ilmi incelemelerde bulunmak veya yabancı
 memleketlerde yapılacak, spor temas ve müsabakalarına katılmak üzere
 toplu halde gezi yapacak öğretmen, öğrenci ve sporculara verilecek
 pasaportlar,
 
-             e) Yabancı memleketlerde, Türk konsoloslukları tarafından
-düzenlenen veya tasdik olunan evrakın Dışişleri Bakanlığınca tasdikı,
+e\) Yabancı memleketlerde, Türk konsoloslukları tarafından düzenlenen
+veya tasdik olunan evrakın Dışişleri Bakanlığınca tasdikı,
 
-             f) Türkiye'deki yabancı konsolosluk müstahdemleriyle, bu
+f\) Türkiye'deki yabancı konsolosluk müstahdemleriyle, bu
 konsoloslukların meslekten olan memurları yanında ikamet etmek suretiyle
 hizmetlerinde bulunan yabancılara verilecek ikamet tezkereleri
 (Karşılıklı olmak şartiyle).
 
-             g) (Ek: 11/8/1999 - 4444/11 md.) Dışişleri Bakanlığınca
+g\) **(Ek: 11/8/1999 - 4444/11 md.)** Dışişleri Bakanlığınca
 mütekabiliyet esası gözönünde tutularak belirlenecek ülkeler uyruklarına
 verilecek ikamet tezkereleri (1)
 
-             *Harçtan muaf olanlar:*
+*Harçtan muaf olanlar:*
 
-             Madde 86 – (Değişik: 20/3/1981 - 2430/2 md.)
+**Madde 86 – (Değişik: 20/3/1981 - 2430/2 md.)**
 
-             İş ve İşçi Bulma Kurumu aracılığı ile çalışmak üzere
-yabancı memleketlere giden işçilere yalnız iki yıllık süre için verilen
+İş ve İşçi Bulma Kurumu aracılığı ile çalışmak üzere yabancı
+memleketlere giden işçilere yalnız iki yıllık süre için verilen
 pasaportlar ile aynı süre içinde bu pasaportların refakat hanesinde
 kayıtlı olanlar veya kayıt edilecekler pasaport harcından muaftır.
 
-             Madde 87 – Milli veya Milletlerarası tarih, kültür ve güzel
-sanatlar şenlikleri ve festivalleri, spor müsabakaları kongreler ve
-konferanslar, sergi ve panayırlar münasebetiyle, Türkiye'ye gelecek veya
-başka memleketlerde vukubulacak aynı mahiyetteki milletlerarası
-gösterilerde bulunmak veya bunlara katılmak için, Türkiye'den transit
-geçeceklere harçsız vize verilir.
+**Madde 87 –** Milli veya Milletlerarası tarih, kültür ve güzel sanatlar
+şenlikleri ve festivalleri, spor müsabakaları kongreler ve konferanslar,
+sergi ve panayırlar münasebetiyle, Türkiye'ye gelecek veya başka
+memleketlerde vukubulacak aynı mahiyetteki milletlerarası gösterilerde
+bulunmak veya bunlara katılmak için, Türkiye'den transit geçeceklere
+harçsız vize verilir.
 
-             Bakanlar Kurulunca belli edilecek yerlere turizm tedavi
-veya hava değişimi maksadiyle geleceklere de, tesbit edilen şartlara
-bağlı olmak üzere harçsız vize verilir.
+Bakanlar Kurulunca belli edilecek yerlere turizm tedavi veya hava
+değişimi maksadiyle geleceklere de, tesbit edilen şartlara bağlı olmak
+üzere harçsız vize verilir.
 
-             Bu maddede yazılı giriş vizeleri (Turist) damgasını
-taşıyacaktır.
+Bu maddede yazılı giriş vizeleri (Turist) damgasını taşıyacaktır.
 
-             Madde 88 – Aşağıda yazılı yabancılara ikamet tezkeresi
-harçsız olarak verilir:
+**Madde 88 –** Aşağıda yazılı yabancılara ikamet tezkeresi harçsız
+olarak verilir:
 
-             a) Türk okullarında veya fakültelerinde okuyan öğrenciler,
+a\) Türk okullarında veya fakültelerinde okuyan öğrenciler,
 
-             b) Münhasıran basın ve yayın kuruluşları için muhabirlik
-yapanlar,^(2)^
+b\) Münhasıran basın ve yayın kuruluşları için muhabirlik yapanlar,^(2)^
 
-             c) Devlet, il özel idareleri, belediyeler, İktisadi Devlet
-Teşekkülleri ve bunlara bağlı resmi müesseseler tarafından istihdam
-edilen profesör ve uzmanlarla, iş sahibi olmıyan eşleri ve çocukları,
-
- 
-
- 
+c\) Devlet, il özel idareleri, belediyeler, İktisadi Devlet Teşekkülleri
+ve bunlara bağlı resmi müesseseler tarafından istihdam edilen profesör
+ve uzmanlarla, iş sahibi olmıyan eşleri ve çocukları,
 
 ——————————
 
-*(1)  11/8/1999 tarih ve 4444 sayılı Kanunun 15 inci maddesi uyarınca bu
+*(1)11/8/1999 tarih ve 4444 sayılı Kanunun 15 inci maddesi uyarınca bu
 fıkra, 1/1/2000 tarihinde yürürlüğe girecektir.*
 
 *(2) Bu bentte yer alan “gazete muhabirliği yapanlar“ ibaresi, 16/7/2004
@@ -1341,97 +1332,93 @@ işlenmiştir.*
 
 3918
 
- 
+d\) Mali durumlarının bozuk olduğuna ikamet tezkeresi vermeye yetkili
+makamlarca kanaat getirilen yoksullar,
 
-             d) Mali durumlarının bozuk olduğuna ikamet tezkeresi
-vermeye yetkili makamlarca kanaat getirilen yoksullar,
+e\) Türk aslından olup Türk kültürüne bağlı ecnebi uyruklular.
 
-             e) Türk aslından olup Türk kültürüne bağlı ecnebi
-uyruklular.
+f\) **(Ek: 4/4/2013-6458/123 md.)** Uzun dönem ikamet izni bulunanlar,
+
+g\) **(Ek: 4/4/2013-6458/123 md.)** İnsan ticareti suçunun mağduru
+olanlar.
 
 ÜÇÜNCÜ BÖLÜM
 
 *Harç Alma Ölçüleri ve Nispetleri*
 
-             *Harcın ölçüleri:*
+*Harcın ölçüleri:*
 
-             Madde 89 – Pasaport, ikamet tezkeresi ve tasdik harçları,
-(6) sayılı tarifede yazılı işlemlerden, işlemin nevi ve mahiyetine göre
-maktu esas üzerinden alınır.
+**Madde 89 –** Pasaport, ikamet tezkeresi ve tasdik harçları, (6) sayılı
+tarifede yazılı işlemlerden, işlemin nevi ve mahiyetine göre maktu esas
+üzerinden alınır.
 
-             Yeniden harç alınması:
+*Yeniden harç alınması:*
 
-             Madde 90 – Sürelerinin sona ermeleri sebebiyle yenilenen
-ikamet tezkerelerinden tam, kaybolan ikamet tezkerelerinin yenilenmesi
-halinde yarı harç alınır.
+**Madde 90 –** Sürelerinin sona ermeleri sebebiyle yenilenen ikamet
+tezkerelerinden tam, kaybolan ikamet tezkerelerinin yenilenmesi halinde
+yarı harç alınır.
 
-             *İkamet tezkerelerinde yarım harç:*
+*İkamet tezkerelerinde yarım harç:*
 
-             Madde 91 – Onsekiz yaşını bitirmiyen çocuklara verilecek
-ikamet tezkerelerinden esas harcın yarısı alınır.
+**Madde 91 –** Onsekiz yaşını bitirmiyen çocuklara verilecek ikamet
+tezkerelerinden esas harcın yarısı alınır.
 
-             *Dışişleri Bakanlığının yetkisi:*
+*Dışişleri Bakanlığının yetkisi:*
 
-             Madde 92 – Dışişleri Bakanlığınca alınacak tasdik
-harçlarını karşılık esasına göre bazı devletler uyrukları hakkında
-artırmaya ve gerektiğinde esas miktarına indirmeye adı geçen Bakanlık
-yetkilidir.
+**Madde 92 –** Dışişleri Bakanlığınca alınacak tasdik harçlarını
+karşılık esasına göre bazı devletler uyrukları hakkında artırmaya ve
+gerektiğinde esas miktarına indirmeye adı geçen Bakanlık yetkilidir.
 
 DÖRDÜNCÜ BÖLÜM
 
 *Harcın Ödenmesi*
 
-             *Ödeme usulü :*
+*Ödeme usulü :*
 
-             Madde 93 – Pasaport, ikamet tezkeresi, vize ve Dışişleri
-Bakanlığı tasdik harçları makbuz karşılığında veya basılı damga
-konulması suretiyle alınır.^(1)^
+**Madde 93 –** Pasaport, ikamet tezkeresi, vize ve Dışişleri Bakanlığı
+tasdik harçları makbuz karşılığında veya basılı damga konulması
+suretiyle alınır.^(1)^
 
-             *Ödeme zamanı: *
+*Ödeme zamanı: *
 
-             Madde 94 – Pasaport, ikamet tezkeresi ve tasdik harçları
-peşin olarak alınır.
+**Madde 94 –** Pasaport, ikamet tezkeresi ve tasdik harçları peşin
+olarak alınır.
 
 YEDİNCİ KISIM
 
-*Gemi ve Liman Harçları*
+Gemi ve Liman Harçları
 
 BİRİNCİ BÖLÜM
 
 *Mükellefiyet*
 
-             *Mevzu:*
+*Mevzu:*
 
-             Madde 95 – Gemi ve liman işlemlerinden, bu kanuna bağlı (7)
-sayılı tarifede yazılı olanları, gemi ve liman harçlarına tabidir.
+**Madde 95 –** Gemi ve liman işlemlerinden, bu kanuna bağlı (7) sayılı
+tarifede yazılı olanları, gemi ve liman harçlarına tabidir.
 
-             *İnşa halindeki gemiler:*
+*İnşa halindeki gemiler:*
 
-             Madde 96 –  İnşa halindeki gemilere mahsus sicil işlemleri
-de, gemi sicil işlemleri gibi harca tabidir.
+**Madde 96 –** İnşa halindeki gemilere mahsus sicil işlemleri de, gemi
+sicil işlemleri gibi harca tabidir.
 
-             Ancak inşa halindeki gemilere mahsus sicilde kayıtlı bir
-geminin, asıl sicile geçirilmesinde evvelce yapılmış ve harca tabi
-tutulmuş işlemlerden ayrıca harç alınmaz.
+Ancak inşa halindeki gemilere mahsus sicilde kayıtlı bir geminin, asıl
+sicile geçirilmesinde evvelce yapılmış ve harca tabi tutulmuş
+işlemlerden ayrıca harç alınmaz.
 
-             *Mükellef:*
+*Mükellef:*
 
-             Madde 97 – Gemi ve liman harçları, taraflarca aksi
+**Madde 97 –** Gemi ve liman harçları, taraflarca aksi
 kararlaştırılmamışsa aşağıda yazılı kişiler tarafından ödenir:
 
-             a) Mülkiyet hakkını iktisabedenler, (İktisabeden kişiler
-birden fazla ise, harçları hisseleri oranında öderler),
+a\) Mülkiyet hakkını iktisabedenler, (İktisabeden kişiler birden fazla
+ise, harçları hisseleri oranında öderler),
 
-             b) İpoteklerde ipoteği tesis edenler,
+b\) İpoteklerde ipoteği tesis edenler,
 
-             c) Bunlar dışında kalan işlemlerde lehine işlem yapılmış
-olanlar.
+c\) Bunlar dışında kalan işlemlerde lehine işlem yapılmış olanlar.
 
- 
-
- 
-
------------------------------
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu
 maddede geçen “ikamet tezkeresi ve tasdik harçları, ilgili kağıt ve
@@ -4653,10 +4640,7 @@ Ancak, bu miktar 24.519.600 **(10.756,00 TL.)** liradan fazla olamaz.
 
 1. **(Mülga: 22/7/1998 - 4369/82 md.)**
 
-2. Lise veya bu dereceye muadil okullarda bu derecedeki sanat ve meslek
-okul ve enstitülerinden mezun
-
-olacaklara verilecek diplomalar **(6,60 TL.)** 17.600 TL.
+2. **(Mülga: 1/3/2014-6528/27 md.)**
 
 3. Üniversite haricinde kalan yüksek okullardan veya aynı derecedeki
 sanat ve meslek okul ve enstitülerden mezun olacaklara verilecek
@@ -5537,6 +5521,12 @@ tarihinden geçerli olmak üzere 31/12/2004
   6456                                                                                  113 ve (8) sayılı Tarife                                                1/1/2014
 
   6518                                                                                  \(1) sayılı Tarife                                                      19/2/2014
+
+  6528                                                                                  \(8) sayılı Tarife                                                      14/3/2014
+
+  6458                                                                                  88                                                                      11/4/2013 tarihinden bir yıl sonra
+                                                                                                                                                                
+                                                                                                                                                                (11/4/2014)
   ------------------------------------------------------------------------------------- ----------------------------------------------------------------------- -----------------------------------------------------------
 
 
