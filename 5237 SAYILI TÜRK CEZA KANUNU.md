@@ -1,4 +1,4 @@
-30/4/2008 tarihli ve 5759 sayılı Kanunla değişik
+26/6/2009 5918 sayılı Kanunla değişik
 
 TÜRK CEZA KANUNU^(1)^
 
@@ -250,7 +250,7 @@ yarayan araçların üretimi ve ticareti (madde 200), mühürde sahtecilik
 
 g\) Fuhuş (madde 227).
 
-h\) Rüşvet (madde 252).
+h\) **(Mülga : 26/6/2009 – 5918/1 md.)**
 
 i\) Deniz, demiryolu veya havayolu ulaşım araçlarının kaçırılması veya
 alıkonulması (madde 223, fıkra 2, 3) ya da bu araçlara karşı işlenen
@@ -1054,6 +1054,11 @@ edilememesi gerekir.
 \(2) Müsadere konusu eşya veya maddî menfaatlere elkonulamadığı veya
 bunların merciine teslim edilmediği hâllerde, bunların karşılığını
 oluşturan değerlerin müsaderesine hükmedilir.
+
+\(3) **(Ek: 26/6/2009 – 5918/2 md.)** Bu madde kapsamına giren eşyanın
+müsadere edilebilmesi için, eşyayı sonradan iktisap eden kişinin
+22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanununun iyiniyetin
+korunmasına ilişkin hükümlerinden yararlanamıyor olması gerekir.
 
 **Çocuklara özgü güvenlik tedbirleri**
 
@@ -3145,11 +3150,12 @@ verilecek ceza üçte biri oranında artırılır.
 
 **Hakkı olmayan yere tecavüz **
 
-**MADDE 154. -** (1) Bir hakka dayanmaksızın kamuya veya özel kişilere
-ait taşınmaz mal veya eklentilerini malikmiş gibi tamamen veya kısmen
-işgal eden veya sınırlarını değiştiren veya bozan veya hak sahibinin
-bunlardan kısmen de olsa yararlanmasına engel olan kimseye, altı aydan
-üç yıla kadar hapis ve bin güne kadar adlî para cezası verilir.
+**MADDE 154. -** (1) **(Değişik: 25/2/2009-5841/1 md.)** Bir hakka
+dayanmaksızın başkasına ait taşınmaz mal veya eklentilerini malikmiş
+gibi tamamen veya kısmen işgal eden veya sınırlarını değiştiren veya
+bozan veya hak sahibinin bunlardan kısmen de olsa yararlanmasına engel
+olan kimseye, suçtan zarar görenin şikâyeti üzerine altı aydan üç yıla
+kadar hapis ve bin güne kadar adlî para cezası verilir.
 
 \(2) Köy tüzel kişiliğine ait olduğunu veya öteden beri köylünün ortak
 yararlanmasına terk edilmiş bulunduğunu bilerek mera, harman yeri, yol
@@ -3312,9 +3318,12 @@ kadar hapis veya bin güne kadar adlî para cezası ile cezalandırılırlar.
 
 **Suç eşyasının satın alınması veya kabul edilmesi **
 
-**MADDE 165. -** (1) Bir suçun işlenmesiyle elde edilen eşyayı satın
-alan veya kabul eden kişi, altı aydan üç yıla kadar hapis ve bin güne
-kadar adlî para cezası ile cezalandırılır.
+**MADDE 165. -** **(Değişik: 26/6/2009 – 5918/3 md.)**
+
+      (1) Bir suçun işlenmesiyle elde edilen eşyayı veya diğer
+malvarlığı değerini, bu suçun işlenmesine iştirak etmeksizin, satan,
+devreden, satın alan veya kabul eden kişi, altı aydan üç yıla kadar
+hapis ve onbin güne kadar adlî para cezası ile cezalandırılır.
 
 **Bilgi vermeme **
 
@@ -4872,6 +4881,9 @@ kendisine iade edilir.
 önce, pişmanlık duyarak durumdan soruşturma makamlarını haberdar etmesi
 hâlinde, hakkında bu suçtan dolayı cezaya hükmolunmaz.
 
+\(4) **(Ek: 26/6/2009 – 5918/4 md.)** Bu madde hükümleri, yabancı kamu
+görevlilerine rüşvet veren kişilere uygulanmaz.
+
 Yetkili olmadığı bir iş için yarar sağlama 
 ===========================================
 
@@ -5279,33 +5291,40 @@ işlenmesi hâlinde, verilecek ceza yarı oranında artırılır.
 delilleri mahkemeye teslim eden kişi hakkında bu maddede tanımlanan suç
 nedeniyle verilecek cezanın beşte dördü indirilir.
 
-Suçtan kaynaklanan malvarlığı değerlerini aklama 
-=================================================
+Suçtan kaynaklanan malvarlığı değerlerini aklama^(1)^ 
+======================================================
 
-**MADDE 282. -** (1) Alt sınırı bir yıl veya daha fazla hapis cezasını
-gerektiren bir suçtan kaynaklanan malvarlığı değerlerini, yurt dışına
-çıkaran veya bunların gayrimeşru kaynağını gizlemek ve meşru bir yolla
-elde edildiği konusunda kanaat uyandırmak maksadıyla, çeşitli işlemlere
-tabi tutan kişi, iki yıldan beş yıla kadar hapis ve yirmibin güne kadar
-adlî para cezası ile cezalandırılır.
+**MADDE 282. -** (1) **(Değişik: 26/6/2009 – 5918/5 md.)** Alt sınırı
+altı ay veya daha fazla hapis cezasını gerektiren bir suçtan kaynaklanan
+malvarlığı değerlerini, yurt dışına çıkaran veya bunların gayrimeşru
+kaynağını gizlemek veya meşru bir yolla elde edildiği konusunda kanaat
+uyandırmak maksadıyla, çeşitli işlemlere tâbi tutan kişi, üç yıldan yedi
+yıla kadar hapis ve yirmibin güne kadar adlî para cezası ile
+cezalandırılır.
 
-\(2) Bu suçun, kamu görevlisi tarafından veya belli bir meslek sahibi
-kişi tarafından bu mesleğin icrası sırasında işlenmesi hâlinde,
-verilecek hapis cezası yarı oranında artırılır.
+           (2) **(Ek: 26/6/2009 – 5918/5 md.)** Birinci fıkradaki suçun
+işlenmesine iştirak etmeksizin, bu suçun konusunu oluşturan malvarlığı
+değerini, bu özelliğini bilerek satın alan, kabul eden, bulunduran veya
+kullanan kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.
+^(1)^
 
-\(3) Bu suçun, suç işlemek için teşkil edilmiş bir örgütün faaliyeti
-çerçevesinde işlenmesi hâlinde, verilecek ceza bir kat artırılır.
+            (3) Bu suçun, kamu görevlisi tarafından veya belli bir
+meslek sahibi kişi tarafından bu mesleğin icrası sırasında işlenmesi
+halinde, verilecek hapis cezası yarı oranında artırılır.
 
-\(4) Bu suçun işlenmesi dolayısıyla tüzel kişiler hakkında bunlara özgü
-güvenlik tedbirlerine hükmolunur.
+            (4) Bu suçun, suç işlemek için teşkil edilmiş bir örgütün
+faaliyeti çerçevesinde işlenmesi halinde, verilecek ceza bir kat
+artırılır.
 
-\(5) Bu suç nedeniyle kovuşturma başlamadan önce suç konusu malvarlığı
-değerlerinin ele geçirilmesini sağlayan veya bulunduğu yeri yetkili
-makamlara haber vererek ele geçirilmesini kolaylaştıran kişi hakkında bu
-maddede tanımlanan suç nedeniyle cezaya hükmolunmaz.
+            (5) Bu suçun işlenmesi dolayısıyla tüzel kişiler hakkında
+bunlara özgü güvenlik tedbirlerine hükmolunur.
 
-Suçluyu kayırma 
-================
+            (6) Bu suç nedeniyle kovuşturma başlamadan önce suç konusu
+malvarlığı değerlerinin ele geçirilmesini sağlayan veya bulunduğu yeri
+yetkili makamlara haber vererek ele geçirilmesini kolaylaştıran kişi
+hakkında bu maddede tanımlanan suç nedeniyle cezaya hükmolunmaz.
+
+Suçluyu kayırma
 
 **MADDE 283. -** (1) Suç işleyen bir kişiye araştırma, yakalanma,
 tutuklanma veya hükmün infazından kurtulması için imkân sağlayan kimse,
@@ -5356,8 +5375,13 @@ oranında artırılır.
 damgalanmalarını sağlayacak şekilde görüntülerinin yayınlanması hâlinde,
 altı aydan iki yıla kadar hapis cezasına hükmolunur.
 
-Ses veya görüntülerin kayda alınması
-====================================
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 26/6/2009 tarihli ve 5918 sayılı Kanunun 5 inci maddesiyle birinci
+fıkradan sonra gelmek üzere ikinci fıkra eklenmiş ve diğer fıkralar buna
+göre teselsül ettirilmiştir.*
+
+**Ses veya görüntülerin kayda alınması**
 
 **MADDE 286. -** (1) Soruşturma ve kovuşturma işlemleri sırasındaki ses
 veya görüntüleri yetkisiz olarak kayda alan veya nakleden kişi, altı aya
@@ -6360,6 +6384,7 @@ MAHKEMESİ KARARININ **
   5560                       19/12/2006                                                                                                 61,73,80,87,89,142,191,221,227,234,245 ve İşlenemeyen Hüküm
   5739                       1/3/2008                                                                                                   50
   5759                       8/5/2008                                                                                                   301
+  5918                       9/7/2009                                                                                                   13, 55, 165, 254, 282
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
