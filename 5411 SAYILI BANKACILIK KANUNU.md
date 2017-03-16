@@ -1,4 +1,5 @@
-**5667 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin E.: 2005/139, K.: 2007/33 sayılı Kararı ile
+değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -2329,8 +2330,8 @@ sürekli görev ve hizmetler, bankalar yeminli murakıpları ve
 yardımcıları, bankacılık uzman ve yardımcıları, hukuk uzman ve
 yardımcıları ile bilişim uzman ve yardımcılarından oluşan meslek
 personeli ve idarî personel eliyle yürütülür. Kurumun her türlü
-personelinin bu Kanunun 84 üncü maddesinin birinci fıkrasının (d) bendi
-hariç, diğer bentlerinde yer alan nitelikleri taşımaları zorunludur.
+personelinin bu Kanunun 84 üncü maddesinin birinci fıkrasının (…) ^(2)^
+bentlerinde yer alan nitelikleri taşımaları zorunludur. ^(2)^
 
 Başkan yardımcıları, daire başkanları, müdürler, başkanlık müşavirleri
 ve meslek personeli kadro karşılığı sözleşmeli statüde istihdam edilir.
@@ -2338,31 +2339,33 @@ Kadro karşılığı sözleşmeli çalışan Kurum personeli ücret, malî ve so
 haklar dışında, diğer personel ise her türlü hak ve yükümlülükleri
 yönünden 657 sayılı Devlet Memurları Kanununa tâbidir.
 
-Bu Kanunun ekinde yer alan (I) sayılı cetveldeki toplam kadro sayısı
-geçilmemek üzere, kadro unvan ve derecelerinin değiştirilmesi ile bu
-kadroların kullanılmasına ilişkin esas ve usûlleri belirlemeye Kurul
-yetkilidir. Ancak, meslek personeli dışında kalan Kurum personelinin
-unvan değişiklikleri 190 sayılı Genel Kadro ve Usûlü Hakkında Kanun
-Hükmünde Kararnamenin eki cetvellerde yer alan kadro unvanlarıyla
-sınırlı olarak yapılır.
+**(İptal birinci cümle: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
+2005/139, K.: 2007/33 sayılı Kararı ile.) (…)** Ancak, meslek personeli
+dışında kalan Kurum personelinin unvan değişiklikleri 190 sayılı Genel
+Kadro ve Usûlü Hakkında Kanun Hükmünde Kararnamenin eki cetvellerde yer
+alan kadro unvanlarıyla sınırlı olarak yapılır.
 
 Kurumun anahizmet birimlerinde uzmanlık gerektiren işlerde meslek
-personeli çalıştırılması esastır. Anahizmet, danışma ve yardımcı hizmet
-birimlerinde istihdam edilecek personelin nitelikleri Başkanın teklifi
-üzerine Kurul tarafından belirlenir. Kurumda yönetici, müşavir ve meslek
-personeli unvanlarını haiz olmayan personelin oranı bu Kanunun eki
-cetvellerde yer alan toplam kadro sayısının yüzde otuzunu geçemez.
+personeli çalıştırılması esastır. **(İptal ikinci cümle: Anayasa
+Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı
+Kararı ile.) (…)** Kurumda yönetici, müşavir ve meslek personeli
+unvanlarını haiz olmayan personelin oranı bu Kanunun eki cetvellerde yer
+alan toplam kadro sayısının yüzde otuzunu geçemez.
 
-Kurumda, meslek personeli sayısının yüzde onunu geçmeyecek şekilde,
-sektörde en az on yıl meslekî tecrübesi olanlar ile Kurumun faaliyet
-alanına ilişkin konularda doktor unvan ve derecesini alanlar arasından
-yeteri kadar uzman personel, hizmet veya vekâlet akdi hükümlerine göre
-çalıştırılabilir.
+**(İptal beşinci fıkra: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
+2005/139, K.: 2007/33 sayılı Kararı ile.)**
 
 –––––––––––––––––
 
 *(1) 24/5/2007 tarihli ve 5667 sayılı Kanunun 6 ncı maddesiyle, bu
 fıkrada yer alan "beşi" ibaresi "onbeşi" olarak değiştirilmiştir.*
+
+*(2) Bu fıkranın ikinci cümlesinde yer alan “... (d) bendi hariç, diğer
+...” ibaresi, 15/12/2007 tarihli ve 26731 sayılı Resmi Gazete’de
+yayımlanan Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
+2007/33 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de
+yayımlandığı 15/12/2007 tarihinden başlayarak bir yıl sonra yürürlüğe
+girmesi hüküm altına alınmıştır.*
 
 Kurum personeli başka kamu kurum ve kuruluşlarında geçici olarak
 görevlendirilemez.
@@ -2386,9 +2389,9 @@ hazırlamayan veya sınava girmeyen veya sınavda iki defa başarısız
 olanlar diğer kamu kurum ve kuruluşlarındaki öğrenim durumlarına uygun
 kadrolara atanmak üzere Devlet Personel Başkanlığına bildirilir.
 
-Kurumun meslek ve idarî personelinin yeterlik ve yarışma sınavları,
-nitelikleri ile çalışma usûl ve esasları ile ilgili diğer hususlar Kurum
-tarafından çıkarılacak bir yönetmelikle belirlenir.
+Kurumun meslek ve idarî personelinin yeterlik ve yarışma sınavları, (…)
+^(1)^ çalışma usûl ve esasları ile ilgili diğer hususlar Kurum
+tarafından çıkarılacak bir yönetmelikle belirlenir. ^(1)^
 
 **DÖRDÜNCÜ BÖLÜM**
 
@@ -2460,6 +2463,13 @@ amacıyla;
 a\) İşlem ve aracılık maliyetlerinin azaltılarak bankaların kârlı,
 verimli ve rasyonel çalışmalarının ve finansal piyasaların tarafları
 arasında rekabet ortamının sağlanması,
+
+–––––––––––––––––––––––
+
+*(1) Bu fıkrada yer alan “... nitelikleri ile ...” ibaresi, 15/12/2007
+tarihli ve 26731 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin
+22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı Kararı ile iptal
+edilmiştir.*
 
 b\) Finansal sisteme rekabet gücünün kazandırılması, finansal piyasalara
 ilişkin diğer düzenlemeler ve uygulamalar ile bütünleşmenin
@@ -3524,8 +3534,8 @@ başkanlığında biri Fon Kurulunun özel büro hizmetlerinde kullanılmak
 ve hizmetler, Fon avukatları, Fon denetçisi ve denetçi yardımcıları, Fon
 uzmanı ve uzman yardımcılarından oluşan meslek personeli ile idarî
 personel eliyle yürütülür. Fonun her türlü personelinin bu Kanunun 113
-üncü maddesinin birinci fıkrasının (d) bendi hariç, diğer bentlerinde
-yer alan nitelikleri taşımaları zorunludur.
+üncü maddesinin birinci fıkrasının (…) ^(2)^ bentlerinde yer alan
+nitelikleri taşımaları zorunludur. ^(2)^
 
 Başkan yardımcıları, daire başkanları, müdürler, başkanlık müşavirleri
 ve meslek personeli kadro karşılığı sözleşmeli statüde istihdam edilir.
@@ -3533,19 +3543,17 @@ Kadro karşılığı sözleşmeli çalışan Fon personeli ücret, malî ve sosy
 haklar dışında her türlü hak ve yükümlülükleri yönünden 657 sayılı
 Devlet Memurları Kanununa tâbidir.
 
-Bu Kanunun ekinde yer alan (II) sayılı cetveldeki toplam kadro sayısı
-geçilmemek üzere, kadro unvan ve derecelerinin değiştirilmesi ile bu
-kadroların kullanılmasına ilişkin esas ve usûlleri belirlemeye Fon
-Kurulu yetkilidir.
+**(İptal üçüncü fıkra: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
+2005/139, K.: 2007/33 sayılı Kararı ile.)**
 
 Fonun anahizmet birimlerinde uzmanlık gerektiren işlerde meslek
 personeli çalıştırılması esastır.
 
 Fonun ikinci fıkrada belirtilenler dışında kalan ve ekli (III) sayılı
 cetvelde yer alan pozisyonlarda çalıştırılacak personeli idarî hizmet
-sözleşmesiyle istihdam edilir. Bu cetvelde yer alan toplam pozisyon
-sayısı geçilmemek üzere, pozisyon unvanlarında değişiklik yapmaya Fon
-Kurulu yetkilidir. İdarî hizmet sözleşmesiyle çalıştırılanlar emeklilik
+sözleşmesiyle istihdam edilir. **(İptal ikinci cümle: Anayasa
+Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı
+Kararı ile.) (…)** İdarî hizmet sözleşmesiyle çalıştırılanlar emeklilik
 ve sosyal güvenlik yönünden 506 sayılı Sosyal Sigortalar Kanununa
 tâbidir.
 
@@ -3556,6 +3564,13 @@ görevlendirilemez.
 
 *(1) 24/5/2007 tarihli ve 5667 sayılı Kanunun 6 ncı maddesiyle, bu
 fıkrada yer alan "beşi" ibaresi "onbeşi" olarak değiştirilmiştir.*
+
+*(2) Bu fıkranın ikinci cümlesinde yer alan “... (d) bendi hariç, diğer
+...” ibaresi, 15/12/2007 tarihli ve 26731 sayılı Resmi Gazete’de
+yayımlanan Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
+2007/33 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de
+yayımlandığı 15/12/2007 tarihinden başlayarak bir yıl sonra yürürlüğe
+girmesi hüküm altına alınmıştır.*
 
 Fon denetçi yardımcılığı ile Fon uzman yardımcılığına atanacaklar,
 merkezî yarışma sınavıyla belirlenenler arasından seçilir. Fon uzman
@@ -3571,9 +3586,9 @@ sınava girmeyen veya sınavda iki defa başarısız olanlar diğer kamu kurum
 ve kuruluşlarındaki öğrenim durumlarına uygun kadrolara atanmak üzere
 Devlet Personel Başkanlığına bildirilir.
 
-Fonun meslek ve idarî personelinin yeterlik ve yarışma sınavları,
-nitelikleri ile çalışma usûl ve esasları ile ilgili diğer hususlar Fon
-tarafından çıkarılacak bir yönetmelikle belirlenir.
+Fonun meslek ve idarî personelinin yeterlik ve yarışma sınavları, (…)
+^(1)^ çalışma usûl ve esasları ile ilgili diğer hususlar Fon tarafından
+çıkarılacak bir yönetmelikle belirlenir.
 
 DÖRDÜNCÜ BÖLÜM
 
@@ -3655,6 +3670,14 @@ karşılaştırılmasını ve değerlendirilmesini de içerir.
 Fonun yıllık faaliyet raporu, malî tabloları ve bütçe kesinhesabı
 Türkiye Büyük Millet Meclisine sunulur. Kesinhesabın bir örneği de
 Maliye Bakanlığına gönderilir.
+
+–––––––––––––––––––––––
+
+*(1) Bu fıkrada yer alan “... nitelikleri ile ...” ibaresi, 15/12/2007
+tarihli ve 26731 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin
+22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı Kararı ile iptal
+edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 15/12/2007 tarihinden
+başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.*
 
 Fon, faaliyetleri hakkında internet ortamı ve resmî bültenler
 aracılığıyla kamuoyunu azamî ölçüde bilgilendirir.
@@ -5550,56 +5573,8 @@ aybaşından itibaren T.C. Emekli Sandığı ile ilişkilendirilirler. Bu
 süreye ait emekli kesenek ve karşılıkları genel esaslara göre T.C.
 Emekli Sandığına ödenir.
 
-**GEÇİCİ MADDE 23 —** 506 sayılı Kanunun geçici 20 nci maddesi
-kapsamındaki bankalar, sigorta ve reasürans şirketleri, ticaret odaları,
-sanayi odaları, borsalar veya bunların teşkil ettikleri birlikler
-personeli için kurulmuş bulunan sandıkların iştirakçileri ile malûllük,
-yaşlılık ve ölüm sigortasından aylık veya gelir bağlanmış olanlar ile
-bunların hak sahipleri herhangi bir işleme gerek kalmaksızın bu maddenin
-yayımı tarihinden itibaren üç yıl içinde Sosyal Sigortalar Kurumuna
-devredilerek 506 sayılı Kanun kapsamına alınır. Devir tarihi itibarıyla
-sandık iştirakçileri 506 sayılı Kanun kapsamında sigortalı sayılırlar.
-
-Devre esas olmak üzere Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye
-Bakanlığı, Hazine Müsteşarlığı, Devlet Plânlama Teşkilatı Müsteşarlığı,
-Bankacılık Düzenleme ve Denetleme Kurumu, Tasarruf Mevduatı Sigorta
-Fonu, Sosyal Sigortalar Kurumu, Sandık iştirakçilerini istihdam eden
-kuruluş ve sandığı temsilen birer üyenin katılımıyla oluşturulacak
-komisyonca her bir sandık için sandıktan ayrılan iştirakçiler de dâhil
-olmak üzere, devir tarihi itibarıyla devredilen kişilerle ilgili olarak,
-sandıkların 506 sayılı Kanun kapsamındaki gelir ve giderleri dikkate
-alınarak yükümlülüğünün peşin değeri hesaplanır. Peşin değerin aktüeryal
-hesabında kullanılacak teknik faiz oranı olarak 30.6.2005 tarihi
-itibarıyla en uzun vadeli iskontolu Yeni Türk Lirası cinsinden ihraç
-edilmiş Devlet iç borçlanma senedinin ihraç anındaki nominal faiz
-oranının Orta Vadeli Programda açıklanan tüketici fiyat indeksi yıl sonu
-enflasyon hedefi kullanılarak reel hale getirilen faiz oranı esas
-alınarak belirlenir.
-
-Belirlenen peşin değer, onbeş yıldan fazla olmamak üzere, yıllık eşit
-taksitlerle her yıl için ayrı ayrı Hazine Müsteşarlığınca açıklanacak
-Yeni Türk Lirası cinsinden iskontolu ihraç edilen Devlet iç borçlanma
-senetlerinin yıllık ortalama nominal faizi üzerinden sandıklardan ve bu
-sandık iştirakçilerini istihdam eden kuruluşlardan müteselsilen Sosyal
-Sigortalar Kurumunca 506 sayılı Kanun hükümlerine göre tahsil edilir.
-
-Devir işlemi tamamlanıncaya kadar, sandık iştirakçilerine sağlanan
-sosyal sigorta yardımları ile işirakçilerin primlerinin tahsiline ilgili
-sandık mevzuat hükümlerine göre sandıklarca devam edilir.
-
-Bu madde kapsamındaki yükümlülüklerin devrinden sonra sandıklar, 506
-sayılı Kanunun öngördüğü sosyal haklarının ve ödemelerinin üzerinde
-sağladıkları sosyal sigorta haklarına ve ödemelerine devam edebilirler.
-
-Devralınan iştirakçilerin hizmet yılları ve primleri ödemek veya ödenmiş
-olmak suretiyle 506 sayılı Kanuna göre emsallerine uygun olarak
-intibaklarının yapılması da dâhil olmak üzere, bu maddenin uygulanmasına
-ilişkin usûl ve esaslar, Komisyonun önerisi üzerine Bakanlar Kurulu
-kararı ile belirlenir.
-
-Söz konusu sandıklar ve sandık iştirakçilerini istihdam eden kuruluşlar
-ile kurum bu madde uygulamasına ilişkin tüm işlemler nedeniyle doğacak
-her türlü vergi, resim ve harçtan muaftır.
+**GEÇİCİ MADDE 23 —** **(İptal: Anayasa Mahkemesi’nin 22/3/2007 tarihli
+ve E.: 2005/139, K.: 2007/33 sayılı Kararı ile.)**
 
 **GEÇİCİ MADDE 24 –** **(Ek: 8/3/2006-5472/2 md.)**
 
@@ -5986,9 +5961,10 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5411 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5472                                                                         13, 106, 107, 129, 136, Geçici Madde 24 ve 25                 14/3/2006
-  Anayasa Mah.nin E: 2006/20, K: 2006/25 sayılı Kararı                         105                                                           10/1/2007
+  Anayasa Mah.nin E.: 2006/20, K.: 2006/25 sayılı Kararı                       105                                                           10/1/2007
   Anayasa Mah.’nin E.: 2006/33, K.: 2006/36 sayılı Kararı                      128                                                           10/1/2007
   5667                                                                         91, 101, 120, 124                                             30/5/2007
+  Anayasa Mah.’nin E.: 2005/139, K.: 2007/33 sayılı Kararı                     92, 121, Geçici Madde 23                                      15/12/2008
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
