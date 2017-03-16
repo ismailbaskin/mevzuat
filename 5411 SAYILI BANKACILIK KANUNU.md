@@ -1,4 +1,4 @@
-**6111 sayılı Kanun ile değişik hali**
+**662 sayılı K.H.K ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -2395,29 +2395,24 @@ yardımcıları, bankacılık uzman ve yardımcıları, hukuk uzman ve
 yardımcıları ile bilişim uzman ve yardımcılarından oluşan meslek
 personeli ve idarî personel eliyle yürütülür. Kurumun her türlü
 personelinin bu Kanunun 84 üncü maddesinin birinci fıkrasının (…) ^(2)^
-bentlerinde yer alan nitelikleri taşımaları zorunludur. ^(2)^
-
-Başkan yardımcıları, daire başkanları, müdürler, başkanlık müşavirleri
-ve meslek personeli kadro karşılığı sözleşmeli statüde istihdam edilir.
-Kadro karşılığı sözleşmeli çalışan Kurum personeli ücret, malî ve sosyal
-haklar dışında, diğer personel ise her türlü hak ve yükümlülükleri
-yönünden 657 sayılı Devlet Memurları Kanununa tâbidir.
-
-**(İptal birinci cümle: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
-2005/139, K.: 2007/33 sayılı Kararı ile.) (…)** Ancak, meslek personeli
-dışında kalan Kurum personelinin unvan değişiklikleri 190 sayılı Genel
-Kadro ve Usûlü Hakkında Kanun Hükmünde Kararnamenin eki cetvellerde yer
-alan kadro unvanlarıyla sınırlı olarak yapılır.
-
-Kurumun anahizmet birimlerinde uzmanlık gerektiren işlerde meslek
-personeli çalıştırılması esastır. **(İptal ikinci cümle: Anayasa
-Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı
-Kararı ile.) (…)** Kurumda yönetici, müşavir ve meslek personeli
-unvanlarını haiz olmayan personelin oranı bu Kanunun eki cetvellerde yer
-alan toplam kadro sayısının yüzde otuzunu geçemez.
-
-**(İptal beşinci fıkra: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
-2005/139, K.: 2007/33 sayılı Kararı ile.)**
+(a), (b) ve (c) bentlerinde yer alan niteliklerin yanı sıra yönetmelikle
+belirlenen diğer şartları taşımaları zorunludur. **(Ek cümleler:
+11/10/2011-KHK-662/71 md.)** Kurumda bankacılık, hukuk ve bilişim uzman
+yardımcılıkları ile bankalar yeminli murakıp yardımcılığına
+atanacakların, üniversite ve yüksekokulların en az dört yıllık eğitim
+veren; hukuk, siyasal bilgiler, iktisadî ve idarî bilimler, iktisat,
+işletme fakültelerine bağlı bölümler ile bankacılık, bankacılık ve
+finans, fizik, matematik, istatistik, istatistik ve bilgisayar,
+bilgisayar mühendisliği, elektrik mühendisliği, elektronik mühendisliği,
+elektrik-elektronik mühendisliği, elektronik ve haberleşme mühendisliği,
+endüstri mühendisliği, matematik mühendisliği bölümlerinden veya bunlara
+denkliği Yükseköğretim Kurulu tarafından onaylanmış yurt içindeki veya
+yurt dışındaki fakülte veya yüksekokullardan mezun veya belirtilen
+alanlarda lisansüstü eğitim yapmış olmaları, yapılacak giriş sınavında
+başarılı olmaları ve yönetmelikte belirtilen diğer şartları taşımaları
+gereklidir. Söz konusu fakülte ve bölümleri, kadro unvanları ve/veya
+uzmanlık alanları itibarıyla ayrı ayrı belirlemeye Kurul yetkilidir.
+^(2)(3)^
 
 –––––––––––––––––
 
@@ -2431,8 +2426,32 @@ yayımlanan Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.:
 yayımlandığı 15/12/2007 tarihinden başlayarak bir yıl sonra yürürlüğe
 girmesi hüküm altına alınmıştır.*
 
-Kurum personeli başka kamu kurum ve kuruluşlarında geçici olarak
-görevlendirilemez.
+Başkan yardımcıları, daire başkanları, müdürler, başkanlık müşavirleri
+ve meslek personeli kadro karşılığı sözleşmeli statüde istihdam edilir.
+Kadro karşılığı sözleşmeli çalışan Kurum personeli ücret, malî ve sosyal
+haklar dışında, diğer personel ise her türlü hak ve yükümlülükleri
+yönünden 657 sayılı Devlet Memurları Kanununa tâbidir.
+
+**(Değişik üçüncü fıkra: 11/10/2011-KHK-662/71 md.)** Bu Kanunun ekinde
+yer alan (I) sayılı cetveldeki toplam kadro sayısı geçilmemek ve mevcut
+kadro unvanları veya 190 sayılı Genel Kadro ve Usulü Hakkında Kanun
+Hükmünde Kararnamenin eki cetvellerde yer alan kadro unvanlarıyla
+sınırlı olmak kaydıyla, kadro, sınıf, unvan ve derece değişikliklerine
+ilişkin usûl ve esaslar Kurulca belirlenir.
+
+Kurumun anahizmet birimlerinde uzmanlık gerektiren işlerde meslek
+personeli çalıştırılması esastır. **(İptal ikinci cümle: Anayasa
+Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı
+Kararı ile.) (…)** Kurumda yönetici, müşavir ve meslek personeli
+unvanlarını haiz olmayan personelin oranı bu Kanunun eki cetvellerde yer
+alan toplam kadro sayısının yüzde otuzunu geçemez.
+
+**(İptal beşinci fıkra: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
+2005/139, K.: 2007/33 sayılı Kararı ile.)**
+
+**(Değişik altıncı fıkra: 11/10/2011-KHK-662/71 md.)** Kurum personeli,
+Kurul kararı ve ilgilinin muvafakati ile geçici olarak diğer kamu kurum
+ve kuruluşlarında görevlendirilebilir.
 
 Bankacılık, hukuk ve bilişim uzman yardımcılığı ile bankalar yeminli
 murakıp yardımcılığına atanacaklar merkezî yarışma sınavıyla
@@ -2508,6 +2527,13 @@ Müsteşarlığının ve diğer ilgili kurum ve kuruluşların görüşünü al�
 İlişkili Bakanlık ve Devlet Plânlama Teşkilatı Müsteşarlığı en geç yedi
 gün içinde cevap vermezse olumlu görüş verilmiş sayılır.
 
+–––––––––––––––––––––––
+
+*(1) Bu fıkrada yer alan “... nitelikleri ile ...” ibaresi, 15/12/2007
+tarihli ve 26731 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin
+22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı Kararı ile iptal
+edilmiştir.*
+
 Kurumun hazırlayacağı ikincil düzenleme taslakları en az yedi gün
 süreyle Kurumun internet sayfası başta olmak üzere uygun vasıtalarla
 kamuoyunun bilgisine sunulur.
@@ -2527,13 +2553,6 @@ amacıyla;
 a\) İşlem ve aracılık maliyetlerinin azaltılarak bankaların kârlı,
 verimli ve rasyonel çalışmalarının ve finansal piyasaların tarafları
 arasında rekabet ortamının sağlanması,
-
-–––––––––––––––––––––––
-
-*(1) Bu fıkrada yer alan “... nitelikleri ile ...” ibaresi, 15/12/2007
-tarihli ve 26731 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin
-22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı Kararı ile iptal
-edilmiştir.*
 
 b\) Finansal sisteme rekabet gücünün kazandırılması, finansal piyasalara
 ilişkin diğer düzenlemeler ve uygulamalar ile bütünleşmenin
@@ -3614,7 +3633,13 @@ haklar dışında her türlü hak ve yükümlülükleri yönünden 657 sayılı
 Devlet Memurları Kanununa tâbidir.
 
 **(İptal üçüncü fıkra: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.:
-2005/139, K.: 2007/33 sayılı Kararı ile.)**
+2005/139, K.: 2007/33 sayılı Kararı ile.; (Yeniden düzenleme:
+11/10/2011-KHK-662/72 md.)** Bu Kanunun ekinde yer alan (II) sayılı
+cetveldeki toplam kadro sayısı geçilmemek ve mevcut kadro unvanları veya
+190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki
+cetvellerde yer alan kadro unvanlarıyla sınırlı olmak kaydıyla, kadro,
+sınıf, unvan ve derece değişikliklerine ilişkin usûl ve esaslar Fon
+Kurulunca belirlenir.
 
 Fonun anahizmet birimlerinde uzmanlık gerektiren işlerde meslek
 personeli çalıştırılması esastır.
@@ -6215,6 +6240,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6111                                                                         3, 15, 25, 35, 36, 73, 82, 95, Ek Madde 1,                    25/2/2011
                                                                                                                                              
                                                                                Geçici Madde 28 ve 29                                         
+
+  KHK/662                                                                      92, 121                                                       2/11/2011
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
