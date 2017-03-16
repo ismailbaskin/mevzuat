@@ -1,4 +1,4 @@
-**6353 sayılı Kanun ile değişik hali**
+**6455 sayılı Kanun ile değişik hali**
 
 **TÜRK TİCARET KANUNU ^(1)^**
 
@@ -165,6 +165,8 @@ hukuk mahkemesi, davaya devam eder.
 
 **MADDE 6**- (1) Ticari hükümler koyan kanunlarda öngörülen zamanaşımı
 süreleri, Kanunda aksine düzenleme yoksa, sözleşme ile değiştirilemez.
+
+10976-2
 
 10977
 
@@ -639,7 +641,7 @@ Ticaret Sicili Gazetesi ile yapılır.
 –––––––––––––––
 
 *(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle, bu
-fıkrada yer alan “ tüzükte” ibaresi “Kanunun 26 ncı maddesine göre
+fıkrada yer alan “tüzükte” ibaresi “Kanunun 26 ncı maddesine göre
 çıkarılacak yönetmelikte” şeklinde değiştirilmiştir.*
 
 10983
@@ -1251,12 +1253,14 @@ faaliyet dönemlerindeki açılış onayları, defterlerin kullanılacağı
 faaliyet döneminin ilk ayından önceki ayın sonuna kadar notere
 yaptırılır. Pay defteri ile genel kurul toplantı ve müzakere defteri
 yeterli yaprakları bulunmak kaydıyla izleyen faaliyet dönemlerinde de
-açılış onayı yaptırılmaksızın kullanılmaya devam edilebilir. Yevmiye
-defteri ile yönetim kurulu karar defterinin kapanış onayı, izleyen
-faaliyet döneminin üçüncü ayının sonuna kadar notere yaptırılır. Ticaret
-şirketlerinin ticaret siciline tescili sırasında defterlerin açılışı
-ticaret sicili müdürlükleri tarafından da onaylanabilir. Açılış onayının
-noter tarafından yapıldığı hâllerde noter, ticaret sicili tasdiknamesini
+açılış onayı yaptırılmaksızın kullanılmaya devam edilebilir. **(Değişik
+dördüncü cümle: 28/3/2013-6455/78 md.)** Yevmiye defterinin kapanış
+onayı, izleyen faaliyet döneminin altıncı ayının sonuna kadar, yönetim
+kurulu karar defterinin kapanış onayı ise izleyen faaliyet döneminin
+birinci ayının sonuna kadar notere yaptırılır.Ticaret şirketlerinin
+ticaret siciline tescili sırasında defterlerin açılışı ticaret sicili
+müdürlükleri tarafından da onaylanabilir. Açılış onayının noter
+tarafından yapıldığı hâllerde noter, ticaret sicili tasdiknamesini
 aramak zorundadır. Ticari defterlerin elektronik ortamda tutulması
 hâlinde bu defterlerin açılışlarında ve yevmiye defteri ile yönetim
 kurulu karar defterinin kapanışında noter onayı aranmaz. Fiziki ortamda
@@ -3947,7 +3951,7 @@ fıkrada yer alan “işlem denetçisi,” ibaresi madde metninden
 
 *(2) Bu madde başlığı “H) Sanayi ve Ticaret Bakanlığının düzenleme ve
 denetleme yetkisi” iken, 26/6/2012 tarihli ve 6335 sayılı Kanunun 13
-üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.*
+üncü maddesiyle metne işlendiği şekilde değiştirilmişitir.*
 
 11028
 
@@ -5857,6 +5861,14 @@ kişinin tam ehliyetli olmaları şarttır. **(Mülga ikinci ve üçüncü cüml
 
 \(4) Üyeliği sona erdiren sebepler seçilmeye de engeldir.
 
+\(5) **(Ek: 28/3/2013-6455/79 md.)** Devlet, il özel idaresi, belediye,
+köy ile diğer kamu tüzel kişilerinin pay sahibi olduğu şirketlerde,
+sayılan tüzel kişiler veya bunların gerçek kişi temsilcileri yönetim
+kuruluna seçilebilir. Yönetim kurulu üye sayısı ikiden fazla olan
+şirketlerde üyelerin tamamının aynı kamu tüzel kişisinin temsilcisi
+olmaması şartıyla kamu tüzel kişisini temsilen birden fazla gerçek kişi
+yönetim kuruluna seçilebilir.
+
 **2. Belirli grupların yönetim kurulunda temsil edilmesi**
 
 **MADDE 360**- (1) Esas sözleşmede öngörülmek şartı ile, belirli pay
@@ -6488,6 +6500,24 @@ yeniden denetlemeyi yansıtan uygun eklere yer verilir.
 \(4) **(Ek: 26/6/2012-6335/18 md.)**398 inci madde kapsamında denetime
 tabi olacak şirketler Bakanlar Kurulunca belirlenir.
 
+\(5) **(Ek: 28/3/2013-6455/80 md.)** Dördüncü fıkra kapsamı dışında kalan
+anonim şirketler ile 4572 sayılı Kanun kapsamındaki kooperatifler ve
+bunların bağımsız denetime tabi olmayan üst kuruluşları bu fıkra
+hükümlerine göre denetlenir. Denetime ilişkin usul ve esaslar ile bu
+fıkra uyarınca denetim yapacak denetçilerin niteliklerine, uyacakları
+etik ilkelere, görev ve yetkilerine, seçilmelerine, görevden
+alınmalarına veya ayrılmalarına; denetimin ve denetim raporlarının
+içeriğine ve raporun genel kurula sunulmasına ilişkin hususlar Gümrük ve
+Ticaret Bakanlığınca hazırlanan ve Bakanlar Kurulunca çıkarılacak
+yönetmelikle düzenlenir. Kanunun denetçinin sorumluluğuna ilişkin
+hükümleri, bu fıkra uyarınca denetim yapacak denetçilere de kıyasen
+uygulanır.
+
+\(6) **(Ek: 28/3/2013-6455/80 md.)** Beşinci fıkra kapsamında denetime
+tabi olduğu hâlde söz konusu denetimi yaptırmayanların finansal
+tabloları ve yönetim kurulu yıllık faaliyet raporu düzenlenmemiş
+hükmündedir.
+
 **B) Konu ve kapsam ^(1)^**
 
 **MADDE 398**- (1) Şirketin ve topluluğun finansal tabloları ile yönetim
@@ -6504,6 +6534,17 @@ esaslar bağlamında, denetçilik mesleğinin gerekleriyle etiğine uygun bir
 malvarlıksal ve finansal durumunun 515 inci madde anlamında dürüst resim
 ilkesine uygun olarak yansıtılıp yansıtılmadığını, yansıtılmamışsa
 sebeplerini, dürüstçe belirtecek şekilde yapılır. ^(1)^
+
+–––––––––––––
+
+*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle, bu
+maddenin birinci fıkrasının birinci cümlesinde yer alan “Türkiye
+Muhasebe” ibaresi “Türkiye Denetim” ve aynı fıkrada yer alan “geçici 2
+nci ve geçici 3 üncü maddelerde öngörülen kurul ve kurumun belirlendiği”
+ibaresi “Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun
+belirlediği” şeklinde değiştirilmiştir.*
+
+11064
 
 \(2) Denetim;
 
@@ -6535,20 +6576,6 @@ komitenin uygulamalarını açıklayan, ayrı bir rapor düzenleyerek, denetim
 raporuyla birlikte, yönetim kuruluna sunar. Bu raporun esasları Kamu
 Gözetimi, Muhasebe ve Denetim Standartları Kurumunca belirlenir. ^(1)^
 
-–––––––––––––
-
-*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle, bu
-maddenin birinci fıkrasının birinci cümlesinde yer alan “Türkiye
-Muhasebe” ibaresi “Türkiye Denetim” ve aynı fıkrada yer alan “geçici 2
-nci ve geçici 3 üncü maddelerde öngörülen kurul ve kurumun belirlendiği”
-ibaresi “Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun
-belirlediği”, dördüncü fıkrasında yer alan “geçici 2 nci ve geçici 3
-üncü maddelerde öngörülen kurul ve kurum tarafından” ibaresi “Kamu
-Gözetimi, Muhasebe ve Denetim Standartları Kurumunca” şeklinde
-değiştirilmiştir.*
-
-11064
-
 **C) Denetçi**
 
 **I - Seçim, görevden alma ve sözleşmenin feshi**
@@ -6578,6 +6605,15 @@ istemi üzerine, ilgilileri ve seçilmiş denetçiyi dinleyerek, seçilmiş
 denetçinin şahsına ilişkin haklı bir sebebin gerektirmesi, özellikle de
 onun taraflı davrandığı yönünde bir kuşkunun varlığı hâlinde, başka bir
 denetçi atayabilir.
+
+–––––––––––––
+
+*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle, bu
+fıkrada yer alan “geçici 2 nci ve geçici 3 üncü maddelerde öngörülen
+kurul ve kurum tarafından” ibaresi “Kamu Gözetimi, Muhasebe ve Denetim
+Standartları Kurumunca” şeklinde değiştirilmiştir.*
+
+11064-1
 
 \(5) Görevden alma ve yeni denetçi atama davası, denetçinin seçiminin
 Türkiye Ticaret Sicili Gazetesinde ilanından itibaren üç hafta içinde
@@ -6613,6 +6649,8 @@ getirilerek genel kurula verilir.
 takdirde, yönetim kurulu hemen, geçici bir denetçi seçer ve fesih
 ihbarını genel kurulun bilgisine, seçtiği denetçiyi de aynı kurulun
 onayına sunar.
+
+11064-2
 
 11065
 
@@ -6673,8 +6711,10 @@ denetçi olamaz.
 
 \(2) **(Değişik: 26/6/2012-6335/19 md.)** On yıl içinde aynı şirket için
 toplam yedi yıl denetçi olarak seçilen denetçi üç yıl geçmedikçe denetçi
-olarak yeniden seçilemez. Kamu Gözetimi, Muhasebe ve Denetim
-Standartları Kurumu bu süreleri kısaltmaya yetkilidir.
+olarak yeniden seçilemez. **(Değişik ikinci cümle: 28/3/2013-6455/81
+md.)** Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu bu
+fıkranın uygulanmasına ilişkin usul ve esasları belirlemeye ve bu
+fıkrada belirtilen süreleri kısaltmaya yetkilidir.
 
 \(3) Denetçi, denetleme yaptığı şirkete, vergi danışmanlığı ve vergi
 denetimi dışında, danışmanlık veya hizmet veremez, bunu bir yavru
@@ -10740,8 +10780,9 @@ hükümleri uygulanır.
 
 **D) Denetçi**
 
-**MADDE 635**- (1) Anonim şirketin denetçiye (…) ^(1)^ denetime ve özel
-denetime ilişkin hükümleri limited şirkete de uygulanır. ^(1)^
+**MADDE 635**- (1) 397 nci maddenin beşinci ve altıncı fıkraları dışında
+kalan, Anonim şirketin denetçiye (…) ^(1)^ denetime ve özel denetime
+ilişkin hükümleri limited şirkete de uygulanır. ^(1)(2)^
 
 **BEŞİNCİ BÖLÜM**
 
@@ -10772,6 +10813,11 @@ belirler, buna rağmen durum düzeltilmezse, şirketin feshine karar verir.
 *(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu
 fıkrada yer alan “ve işlem denetçileriyle” ibaresi madde metninden
 çıkarılmıştır.*
+
+*(2) 28/3/2013 tarihli ve 6455 sayılı Kanunun 82 nci maddesiyle, bu
+maddede yer alan “Anonim” ibaresinden önce gelmek üzere “397 nci
+maddenin beşinci ve altıncı fıkraları dışında kalan,” ibaresi
+eklenmiştir.*
 
 11122
 
@@ -24062,7 +24108,7 @@ masrafları için talep edilebilecek asgari giderim tutarını Türkiye
 Cumhuriyet Merkez Bankası her yıl ocak ayında ilan eder. Faiz oranı,
 4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin
 Kanunda öngörülen ticari işlere uygulanacak gecikme faizi oranından en
-az yüzde sekiz fazla olmalıdır.^(1)^
+az yüzde sekiz fazla olmalıdır.*^(1)^*
 
 \(8) Mal veya hizmet bedelinin taksitle ödenmesinin öngörüldüğü
 durumlarda, bu maddenin ödeme sürelerini düzenleyen hükümleri birinci
@@ -24123,7 +24169,7 @@ yönetiminde yer almayan işletme sahipleri, işletmeye borç verenler ve
 kredi derecelendirme kuruluşları gibi dış kullanıcılar için genel amaçlı
 finansal tablo düzenleyen işletmeler.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *(1) Bu fıkrada yer alan faiz oranları ile ilgili olarak 29/12/2012
 tarihli ve 28512 sayılı Resmi Gazete’de yayınlanan Türkiye Cumhuriyeti
@@ -24431,6 +24477,8 @@ yayımlanmasına özgülemek zorundadır.
 tarihten önce açılmış olan davalarda uygulanmaz. Bu davalar, açıldıkları
 tarihte yürürlükte bulunan Kanun hükümlerine tabidir.
 
+11308-4
+
 11309
 
 **Yürürlük ^(1)^**
@@ -24479,11 +24527,11 @@ ikinci, üçüncü ve dördüncü cümleleri 1/1/2014 tarihinde yürürlüğe gi
 
 **––––––––––––––**
 
-(1) *26/6/2012 tarihli ve 6335 sayılı Kanunun 39 uncu maddesiyle, bu
-    maddenin birinci fıkrasında yer alan “; geçici 2 nci ve geçici 3
-    üncü maddeler ise bu Kanunun yayımı ile birlikte” ibaresi ile üçüncü
-    fıkrasında yer alan “Küçük ve orta ölçekli sermaye şirketleri ile”
-    ibaresi madde metninden çıkarılmıştır.*
+*(1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 39 uncu maddesiyle, bu
+maddenin birinci fıkrasında yer alan “; geçici 2 nci ve geçici 3 üncü
+maddeler ise bu Kanunun yayımı ile birlikte” ibaresi ile üçüncü
+fıkrasında yer alan “Küçük ve orta ölçekli sermaye şirketleri ile”
+ibaresi madde metninden çıkarılmıştır.*
 
 11310
 
@@ -24494,7 +24542,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **6102 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
 
   6273                                                                         814                                                           3/2/2012
@@ -24516,6 +24564,10 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                1534 ve ibare değişiklikleri                                  
 
   6353                                                                         Geçici Madde 6                                                12/7/2012
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+
+  6455                                                                         64                                                            1/1/2013 tarihinden geçerli olmak üzere 11/4/2013
+                                                                                                                                             
+                                                                               359, 397, 400, 635                                            11/4/2013
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ---------------------------------------------------
 
 
