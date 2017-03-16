@@ -1,6 +1,6 @@
-**6552 sayılı Kanun ile değişik hali **
+**Anayasa Mahkemesi’nin 13/11/2014 tarihli ve **
 
-** **
+**E.: 2013/95, K.: 2014/176 sayılı Kararı** **ile değişik hali**
 
 []{#K18 .anchor}KAMULAŞTIRMA KANUNU
 
@@ -1513,6 +1513,14 @@ sekizinci fıkrasına göre idarece ödenir. Tescile veya terkine ilişkin
 hüküm kesin olup tarafların hükmedilen bedele ilişkin temyiz hakkı
 saklıdır.
 
+–––––––––––––
+
+*(1) 24/52013 tarihli ve 6487 sayılı Kanunun 21 inci maddesi ile bu
+maddenin başlığı “Kamulaştırmasız el koyma sebebiyle tazmin” iken metne
+işlendiği şekilde değiştirilmiştir.*
+
+6218-2
+
 Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her
 türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde
 maktu olarak belirlenir.
@@ -1525,25 +1533,16 @@ Sahil Güvenlik Komutanlığı bütçelerinin güvenlik ve savunmaya yönelik
 mal ve hizmet alımları ile yapım giderleri için ayrılan ödeneklerin)
 yüzde ikisi, belediye ve il özel idareleri ile bağlı idareleri için en
 son kesinleşmiş bütçe gelirleri toplamının, diğer idareler için en son
-kesinleşmiş
-
-–––––––––––––
-
-*(1) 24/52013 tarihli ve 6487 sayılı Kanunun 21 inci maddesi ile bu
-maddenin başlığı “Kamulaştırmasız el koyma sebebiyle tazmin” iken metne
-işlendiği şekilde değiştirilmiştir. *
-
-6218-2
-
-bütçe giderleri toplamının en az yüzde ikisi oranında yılı bütçelerinde
-pay ayrılır. Kesinleşen alacakların toplam tutarının ayrılan ödeneğin
-toplam tutarını aşması hâlinde, ödemeler, sonraki yıllara sâri olacak
-şekilde, garameten ve taksitlerle gerçekleştirilir. Taksitlendirmede,
-bütçe imkanlarıile alacakların tutarları dikkate alınır. Taksitli ödeme
-süresince, 3095 sayılı Kanuna göre ayrıca kanuni faiz ödenir. İdare
-tarafından, mahkeme kararı gereğince nakdi ödeme yerine, üçüncü fıkrada
-belirtilen diğer uzlaşma yolları da teklif edilebilir ve bu maddenin
-uzlaşmaya ilişkin hükümlerine göre işlem yapılabilir.
+kesinleşmiş bütçe giderleri toplamının en az yüzde ikisi oranında yılı
+bütçelerinde pay ayrılır. Kesinleşen alacakların toplam tutarının
+ayrılan ödeneğin toplam tutarını aşması hâlinde, ödemeler, sonraki
+yıllara sâri olacak şekilde, garameten ve taksitlerle gerçekleştirilir.
+Taksitlendirmede, bütçe imkanlarıile alacakların tutarları dikkate
+alınır. Taksitli ödeme süresince, 3095 sayılı Kanuna göre ayrıca kanuni
+faiz ödenir. İdare tarafından, mahkeme kararı gereğince nakdi ödeme
+yerine, üçüncü fıkrada belirtilen diğer uzlaşma yolları da teklif
+edilebilir ve bu maddenin uzlaşmaya ilişkin hükümlerine göre işlem
+yapılabilir.
 
 Bu maddenin bedele ilişkin hükümleri, vuku bulduğu tarih itibarı ile bu
 maddenin kapsamında olan kamulaştırmasız el koymadan dolayı açtıkları
@@ -1576,31 +1575,15 @@ ise, bu maddenin yalnızca sekizinci fıkra hükümleri uygulanır.
 Bu madde uyarınca ödenecek olan bedelin tahsili sebebiyle idarelerin
 mal, hak ve alacakları haczedilemez.
 
-24/2/1984 tarihli ve 2981 sayılı Kanun hükümlerine göre yapılan imar
-uygulamalarından doğan ve ipotekle teminat altına alınanlar da dâhil
-olmak üzere her türlü alacak ve bedeller, borçlu idarelerce, ipotek veya
-uygulama tarihinden itibaren 3095 sayılı Kanunda belirtilen kanuni faiz
-oranı uygulanmak suretiyle güncellenerek ilgililerine ödenir. Bu hüküm
-devam eden davalarda da uygulanır. Bu fıkra uyarınca yapılacak ödemeler
-hakkında da bu madde hükümleri uygulanır.
-
-4/11/1983 tarihinden bu fıkranın yürürlüğe girdiği tarihe kadar
-kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış
-olmasına rağmen fiilen kamu hizmetine ayrılan veya kamu yararına ilişkin
-bir ihtiyaca tahsis edilerek üzerinde tesis yapılan taşınmazların idare
-tarafından kamulaştırılması hâlinde kamulaştırma bedeli ve mahkemelerce
-malikleri lehine hükmedilen tazminat ile bu davalara ilişkin mahkeme ve
-icra vekalet ücretleri de, idarelerce bu maddenin sekizinci fıkrasına
-göre bütçelerden ayrılacak paydan ve aynı fıkrada belirtilen usule göre
-ödenir ve işlem yapılır. Bu alacaklar için de bu maddenin on birinci
-fıkrası, bu fıkra kapsamında kalan taşınmazlar hakkında açılan her türlü
-davalarda ise yedinci fıkra hükümleri uygulanır. Bu fıkra hükmü, bu
-fıkra kapsamında kalan taşınmazlar hakkında açılan ve kesinleşmeyen
-davalarda da uygulanır.
+**(İptal onikinci fıkra: Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.:
+2013/95, K.: 2014/176 sayılı Kararı ile.)**
 
 6218-3
 
-**Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.)**
+**(İptal onüçüncü fıkra: Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.:
+2013/95, K.: 2014/176 sayılı Kararı ile.)**
+
+**Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.) ^(1)^**
 
 Mülga 31/8/1956 tarihli ve 6830 sayılı İstimlak Kanununun 16 ve 17 nci
 maddeleri ile 2942 sayılı Kanunun mülga 16 ve 17 nci maddeleri uyarınca
@@ -1644,6 +1627,13 @@ reddedilen davaların yargılama giderleri davalı idare tarafından ödenir.
 kararı alınmış ancak henüz tebligata çıkarılmamış kamulaştırmalarda bu
 Kanun hükümleri, diğerlerinde önceki hükümler uygulanır.
 
+––––––––––––––––––
+
+*(1) Bu madde Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95,
+K.: 2014/176 sayılı Kararı ile iptal edilmiş olup, İptal Kararının Resmi
+Gazete’de yayımlandığı 13/3/2015 tarihinden başlayarak altı ay sonra
+yürürlüğe girmesi hüküm altına alınmıştır.*
+
 6218-4
 
 **2942 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
@@ -1654,30 +1644,36 @@ Kanun hükümleri, diğerlerinde önceki hükümler uygulanır.
 
 **GÖSTERİR LİSTE**
 
-  -------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**       **2942 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  ------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**            **2942 sayılı Kanunun değişen veya iptal edilen maddeleri**                                                                           **Yürürlüğe Giriş Tarihi**
 
-  **4650**                                                                         **–**                                                         **5/5/2001**
+  4650                                                                                  3, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 22, 25, 27, 29, 30, 31, 33, 39, Geçici Madde 5, İşlenemeyen hüküm (Geçici Madde 1)   5/5/2001
 
-  **5177**                                                                         **19**                                                        **5/6/2004**
+  5177                                                                                  19                                                                                                                                    5/6/2004
 
-  **5999**                                                                         **Geçici Madde 6**                                            **30/6/2010**
+  5999                                                                                  Geçici Madde 6                                                                                                                        30/6/2010
 
-  **6306**                                                                         **15**                                                        **31/5/2012**
+  6306                                                                                  15                                                                                                                                    31/5/2012
 
-  **Anayasa **                                                                     **Geçici Madde 6**                                            **22/2/2013**
-                                                                                                                                                 
-  **Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı Kararı**                                                                 
+  Anayasa                                                                               Geçici Madde 6                                                                                                                        22/2/2013
+                                                                                                                                                                                                                              
+  Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı Kararı                                                                                                                                                  
 
-  **6427**                                                                         **22**                                                        **1/3/2013**
+  6427                                                                                  22                                                                                                                                    1/3/2013
 
-  **6459**                                                                         **10**                                                        **30/4/2013**
+  6459                                                                                  10                                                                                                                                    30/4/2013
 
-  **6487**                                                                         **Geçici Madde 6 ve 7**                                       **11/6/2013**
+  6487                                                                                  Geçici Madde 6 ve 7                                                                                                                   11/6/2013
 
-  **6495**                                                                         **22, 25, Geçici Madde 8**                                    **2/8/2013**
+  6495                                                                                  22, 25, Geçici Madde 8                                                                                                                2/8/2013
 
-  **6552 **                                                                        **4, 22, 23, Geçici Madde 9**                                 **11/9/2014**
-  -------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  6552                                                                                  4, 22, 23, Geçici Madde 9                                                                                                             11/9/2014
+
+  Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı   Geçici Madde 6                                                                                                                        13/3/2015
+                                                                                                                                                                                                                              
+                                                                                        Geçici Madde 7                                                                                                                        13/3/2015 tarihinden başlayarak altı ay sonra
+                                                                                                                                                                                                                              
+                                                                                                                                                                                                                              (13/9/2015)
+  ------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------
 
 
