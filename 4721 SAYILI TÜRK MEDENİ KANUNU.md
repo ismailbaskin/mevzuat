@@ -1,6 +1,6 @@
 1.  #### 
 
-    #### 1/7/2005 tarihli ve 5378 sayılı Kanunla değişik
+    #### 3/7/2005 tarihli ve 5399 sayılı Kanunla değişik
 
     #### TÜRK MEDENÎ KANUNU 
 
@@ -3503,8 +3503,9 @@ kendisine yazılı olarak bildirilir.
 
 **B. Erginlerin ve kısıtlıların evlât edinilmesi**
 
-**MADDE 313.-** Evlât edinenin altsoyu bulunmaması koşuluyla, ergin veya
-kısıtlı aşağıdaki hâllerde evlât edinilebilir:
+**MADDE 313.-** **-(Değişik birinci cümle: 3/7/2005-5399/1 md.)** Evlât
+edinenin altsoyunun açık muvafakatiyle ergin veya kısıtlı aşağıdaki
+hallerde evlât edinilebilir.
 
 1\. Bedensel veya zihinsel özrü sebebiyle sürekli olarak yardıma muhtaç
 ve evlât edinen tarafından en az beş yıldan beri bakılıp gözetilmekte
@@ -11866,6 +11867,7 @@ MAHKEMESİ KARARININ **
   4963                       30/7/2003                                                                                                  56, 64, 66, 82, 94
   5253                       23/11/2004                                                                                                 58, 61, 62, 64, 74, 77, 79, 92 ve 93
   5378                       7/7/2005                                                                                                   348
+  5399                       15/7/2005                                                                                                  313
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
 
 
