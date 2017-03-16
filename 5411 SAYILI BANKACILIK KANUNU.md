@@ -1,4 +1,4 @@
-**6300 sayılı Kanun ile değişik hali**
+**6327 sayılı Kanun ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -1871,10 +1871,13 @@ ilgili kurum ve kuruluşlara verilmesi ile 31/5/2006 tarihli ve 5510
 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 8 inci ve
 100 üncü maddelerinin uygulanması ile genel sağlık sigortalılığında
 gelir testinin yapılmasına ilişkin bilgi ve belgelerin Sosyal Güvenlik
-Kurumuna verilmesi sırrın ifşası sayılmaz. Bu bilgi ve belgelerin
-verilmesine ilişkin usûl ve esaslar Çalışma ve Sosyal Güvenlik
-Bakanlığı, Maliye Bakanlığı, Hazine Müsteşarlığının bağlı olduğu
-Bakanlık ile Kurulca belirlenir.
+Kurumuna ve il veya ilçe sosyal yardımlaşma ve dayanışma vakıflarınca
+yapılan sosyal yardım hak sahiplerinin tespiti ile gelir testi
+işlemlerinin yürütülmesi amacıyla Aile ve Sosyal Politikalar Bakanlığı
+Sosyal Yardımlar Genel Müdürlüğüne verilmesi sırrın ifşası sayılmaz. Bu
+bilgi ve belgelerin verilmesine ilişkin usûl ve esaslar Çalışma ve
+Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı, Hazine Müsteşarlığının
+bağlı olduğu Bakanlık ile Kurulca belirlenir. ^(1)^
 
 **(Değişik dördüncü fıkra: 13/2/2011-6111/146 md.)** Kurumun gözetim ve
 denetimine tabi kuruluşların, bunların ortaklarına, bağlı ortaklık,
@@ -1955,6 +1958,15 @@ hükümlerine tâbi değildir.
 **MADDE 77 —** Kalkınma ve yatırım bankaları, bu Kanunun 54, 55, 56, 57,
 61, 63, 64, 106 ilâ 129 uncu maddeleri, 130 uncu maddesinin (a) bendi,
 131 ilâ 142 nci maddeleri hariç olmak üzere diğer hükümlerine tâbidir.
+
+–––––––––––––––––
+
+*(1) 13/6/2012 tarihli ve 6327 sayılı Kanunun 39 uncu maddesiyle, bu
+fıkrada yer alan alan “Sosyal Güvenlik Kurumuna” ibaresinden sonra
+gelmek üzere “ve il veya ilçe sosyal yardımlaşma ve dayanışma
+vakıflarınca yapılan sosyal yardım hak sahiplerinin tespiti ile gelir
+testi işlemlerinin yürütülmesi amacıyla Aile ve Sosyal Politikalar
+Bakanlığı Sosyal Yardımlar Genel Müdürlüğüne” ibaresi eklenmiştir.*
 
 **Finansal holding şirketi**
 
@@ -6298,6 +6310,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   KHK/662                                                                      92, 121                                                       2/11/2011
 
   6300                                                                         85, 92, 103, 114, 126, Geçici Madde 30                        10/5/2012
+
+  6327                                                                         73                                                            29/6/2012
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
