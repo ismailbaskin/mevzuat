@@ -1,4 +1,4 @@
-**5728 sayılı Kanun ile değişik hali**
+**6253 sayılı Kanun ile değişik hali**
 
 **KAMU GÖREVLİLERİ SENDİKALARI KANUNU**
 
@@ -442,9 +442,9 @@ bildirilir.
 
 **MADDE 15** - Bu Kanuna göre kurulan sendikalara;
 
-a\) Türkiye Büyük Millet Meclisi Genel Sekreterliği, Cumhurbaşkanlığı
-Genel Sekreterliği ile Millî Güvenlik Kurulu Genel Sekreterliğinde
-çalışan kamu görevlileri,
+a\) Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı,
+Cumhurbaşkanlığı Genel Sekreterliği ile Millî Güvenlik Kurulu Genel
+Sekreterliğinde çalışan kamu görevlileri, ^(1)^
 
 b\) Yüksek yargı organlarının başkan ve üyeleri, hâkimler, savcılar ve bu
 meslekten sayılanlar,
@@ -518,6 +518,13 @@ dönemin sonuna kadar devam eder.
 
 Üyeliğin devamı ve askıya alınması hallerinde 2821 sayılı Sendikalar
 Kanununun 24 üncü maddesinde yer alan hükümler uygulanır.
+
+––––––––––––––––-
+
+*(1) 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu
+bentte yer alan “Türkiye Büyük Millet Meclisi Genel Sekreterliği”
+ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı”
+şeklinde değiştirilmiştir.*
 
 **Konfederasyon ve uluslararası kuruluş üyeliği**
 
@@ -1334,6 +1341,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   5538                                                                         25, GEÇİCİ MADDE 10                                            12/7/2006
   5620                                                                         25                                                             21/4/2007
   5728                                                                         38                                                             8/2/2008
+  6253                                                                         15                                                             18/12/2011
   ---------------------------------------------------------------------------- -------------------------------------------------------------- ----------------------------
 
 
