@@ -1,4 +1,4 @@
-**6518 sayılı Kanun ile değişik hali**
+**6552 sayılı Kanun ile değişik hali**
 
 **İŞ KANUNU**
 
@@ -137,11 +137,16 @@ yapmakla yükümlüdür. Bölge müdürlüğünce tescili yapılan bu işyerine 
 belgeler gerektiğinde iş müfettişlerince incelenir. İnceleme sonucunda
 muvazaalı işlemin tespiti halinde, bu tespite ilişkin gerekçeli müfettiş
 raporu işverenlere tebliğ edilir. Bu rapora karşı tebliğ tarihinden
-itibaren altı işgünü içinde işverenlerce yetkili iş mahkemesine itiraz
-edilebilir. İtiraz üzerine verilen kararlar kesindir. Rapora altı iş
-günü içinde itiraz edilmemiş veya mahkeme muvazaalı işlemin tespitini
-onamış ise tescil işlemi iptal edilir ve alt işverenin işçileri
-başlangıçtan itibaren asıl işverenin işçileri sayılır.
+itibaren otuz iş günü içinde işverenlerce yetkili iş mahkemesine itiraz
+edilebilir. **(Değişik beşinci cümle: 16/9/2014-6552/1 md.)** İtiraz
+üzerine görülecek olan dava basit yargılama usulüne göre dört ay içinde
+sonuçlandırılır. Mahkemece verilen kararın temyizi hâlinde Yargıtay altı
+ay içinde kesin olarak karar verir. Kamu idarelerince bu raporlara karşı
+yetkili iş mahkemelerine itiraz edilmesi ve mahkeme kararlarına karşı
+diğer kanun yollarına başvurulması zorunludur. Rapora otuz iş günü
+içinde itiraz edilmemiş veya mahkeme muvazaalı işlemin tespitini onamış
+ise tescil işlemi iptal edilir ve alt işverenin işçileri başlangıçtan
+itibaren asıl işverenin işçileri sayılır. ^(2)(3)^
 
 **(Ek fıkra:11/6/2003-4884/10 md.)** Ancak, şirketlerin tescil kayıtları
 ise ticaret sicili memurluklarının gönderdiği belgeler üzerinden yapılır
@@ -188,6 +193,15 @@ uygun üç kişinin çalıştığı işyerlerinde.
 bentte yer alan “İş sağlığı ve güvenliği hükümleri saklı kalmak üzere”
 ibaresi madde metninden çıkarılmıştır.*
 
+*(2) 10/9/2014 tarihli ve 6552 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “altı iş günü” ibareleri “otuz iş günü” şeklinde
+değiştirilmiştir.*
+
+*(3) 10/9/2014 tarihli ve 6552 sayılı Kanunun 1 inci maddesinde 4857
+sayılı İş Kanununun 3 üncü maddesinin ikinci fıkrasının beşinci
+cümlesinin değiştirilmesi hüküm altına alınmış olmakla birlikte, iki
+cümle şeklindeki düzenleme yerine işlenmiştir.*
+
 8425
 
 Şu kadar ki;
@@ -212,9 +226,9 @@ Bu Kanun hükümlerine tabidir.
 
 *Eşit davranma ilkesi*
 
-Madde 5 - (Ek: 6/2/2014-6518/57 md.) İş ilişkisinde dil, ırk, renk,
-cinsiyet, engellilik, siyasal düşünce, felsefî inanç, din ve mezhep ve
-benzeri sebeplere dayalı ayrım yapılamaz.
+**Madde 5 –** **(Ek: 6/2/2014-6518/57 md.)** İş ilişkisinde dil, ırk,
+renk, cinsiyet, engellilik, siyasal düşünce, felsefî inanç, din ve
+mezhep ve benzeri sebeplere dayalı ayrım yapılamaz.
 
 İşveren, esaslı sebepler olmadıkça tam süreli çalışan işçi karşısında
 kısmî süreli çalışan işçiye, belirsiz süreli çalışan işçi karşısında
@@ -521,7 +535,8 @@ sözleşme ve Kanundan doğan menfaatler de göz önünde tutulur.
 altı aylık kıdemi olan işçinin belirsiz süreli iş sözleşmesini fesheden
 işveren, işçinin yeterliliğinden veya davranışlarından ya da işletmenin,
 işyerinin veya işin gereklerinden kaynaklanan geçerli bir sebebe
-dayanmak zorundadır.
+dayanmak zorundadır. **(Ek cümle: 10/9/2014-6552/2 md.)** Yer altı
+işlerinde çalışan işçilerde kıdem şartı aranmaz.
 
 Altı aylık kıdem hesabında bu Kanunun 66 ncı maddesindeki süreler
 dikkate alınır.
@@ -635,7 +650,7 @@ geçersizdir.
 
 *Çalışma koşullarında değişiklik ve iş sözleşmesinin feshi*
 
-Madde 22 - İşveren, iş sözleşmesiyle veya iş sözleşmesinin eki
+**Madde 22 -** İşveren, iş sözleşmesiyle veya iş sözleşmesinin eki
 niteliğindeki personel yönetmeliği ve benzeri kaynaklar ya da işyeri
 uygulamasıyla oluşan çalışma koşullarında esaslı bir değişikliği ancak
 durumu işçiye yazılı olarak bildirmek suretiyle yapabilir. Bu şekle
@@ -653,8 +668,8 @@ yürürlüğe konulamaz.
 
 *Yeni işverenin sorumluluğu*
 
-Madde 23 - Süresi belirli olan veya olmayan sürekli iş sözleşmesi ile
-bir işverenin işine girmiş olan işçi, sözleşme süresinin bitmesinden
+**Madde 23 -** Süresi belirli olan veya olmayan sürekli iş sözleşmesi
+ile bir işverenin işine girmiş olan işçi, sözleşme süresinin bitmesinden
 önce yahut bildirim süresine uymaksızın işini bırakıp başka bir
 işverenin işine girerse sözleşmenin bu suretle feshinden ötürü, işçinin
 sorumluluğu yanında, ayrıca yeni işveren de aşağıdaki hallerde birlikte
@@ -669,7 +684,7 @@ c\) Yeni işveren işçinin bu davranışını öğrendikten sonra dahi onu
 
 *İşçinin haklı nedenle derhal fesih hakkı*
 
-Madde 24 - Süresi belirli olsun veya olmasın işçi, aşağıda yazılı
+**Madde 24 -** Süresi belirli olsun veya olmasın işçi, aşağıda yazılı
 hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini
 beklemeksizin feshedebilir:
 
@@ -722,7 +737,7 @@ gerektirecek zorlayıcı sebepler ortaya çıkarsa.
 
 *İşverenin haklı nedenle derhal fesih hakkı*
 
-Madde 25 - Süresi belirli olsun veya olmasın işveren, aşağıda yazılı
+**Madde 25 -** Süresi belirli olsun veya olmasın işveren, aşağıda yazılı
 hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini
 beklemeksizin feshedebilir:
 
@@ -811,7 +826,7 @@ başvurabilir.
 
 *Derhal fesih hakkını kullanma süresi*
 
-Madde 26 - 24 ve 25 inci maddelerde gösterilen ahlak ve iyiniyet
+**Madde 26 -** 24 ve 25 inci maddelerde gösterilen ahlak ve iyiniyet
 kurallarına uymayan hallere dayanarak işçi veya işveren için tanınmış
 olan sözleşmeyi fesih yetkisi, iki taraftan birinin bu çeşit
 davranışlarda bulunduğunu diğer tarafın öğrendiği günden başlayarak altı
@@ -825,13 +840,13 @@ hakları saklıdır.
 
 *Yeni iş arama izni*
 
-Madde 27- Bildirim süreleri içinde işveren, işçiye yeni bir iş bulması
-için gerekli olan iş arama iznini iş saatleri içinde ve ücret kesintisi
-yapmadan vermeye mecburdur. İş arama izninin süresi günde iki saatten az
-olamaz ve işçi isterse iş arama izin saatlerini birleştirerek toplu
-kullanabilir. Ancak iş arama iznini toplu kullanmak isteyen işçi, bunu
-işten ayrılacağı günden evvelki günlere rastlatmak ve bu durumu işverene
-bildirmek zorundadır.
+**Madde 27-** Bildirim süreleri içinde işveren, işçiye yeni bir iş
+bulması için gerekli olan iş arama iznini iş saatleri içinde ve ücret
+kesintisi yapmadan vermeye mecburdur. İş arama izninin süresi günde iki
+saatten az olamaz ve işçi isterse iş arama izin saatlerini birleştirerek
+toplu kullanabilir. Ancak iş arama iznini toplu kullanmak isteyen işçi,
+bunu işten ayrılacağı günden evvelki günlere rastlatmak ve bu durumu
+işverene bildirmek zorundadır.
 
 İşveren yeni iş arama iznini vermez veya eksik kullandırırsa o süreye
 ilişkin ücret işçiye ödenir.
@@ -842,8 +857,8 @@ kullanarak bir çalışma karşılığı olmaksızın alacağı ücrete ilaveten
 
 *Çalışma belgesi*
 
-Madde 28 - İşten ayrılan işçiye, işveren tarafından işinin çeşidinin ne
-olduğunu ve süresini gösteren bir belge verilir.
+**Madde 28 -** İşten ayrılan işçiye, işveren tarafından işinin çeşidinin
+ne olduğunu ve süresini gösteren bir belge verilir.
 
 Belgenin vaktinde verilmemesinden veya belgede doğru olmayan bilgiler
 bulunmasından zarar gören işçi veyahut işçiyi işine alan yeni işveren
@@ -855,10 +870,11 @@ Bu belgeler her türlü resim ve harçtan muaftır.
 
 *Toplu işçi çıkarma*
 
-Madde 29 - İşveren; ekonomik, teknolojik, yapısal ve benzeri işletme,
-işyeri veya işin gerekleri sonucu toplu işçi çıkarmak istediğinde, bunu
-en az otuz gün önceden bir yazı ile, işyeri sendika temsilcilerine,
-ilgili bölge müdürlüğüne ve Türkiye İş Kurumuna bildirir.
+**Madde 29 -** İşveren; ekonomik, teknolojik, yapısal ve benzeri
+işletme, işyeri veya işin gerekleri sonucu toplu işçi çıkarmak
+istediğinde, bunu en az otuz gün önceden bir yazı ile, işyeri sendika
+temsilcilerine, ilgili bölge müdürlüğüne ve Türkiye İş Kurumuna
+bildirir.
 
 İşyerinde çalışan işçi sayısı:
 
@@ -905,7 +921,7 @@ halde işçi bu maddelere göre dava açabilir.
 
 *Engelli ve eski hükümlü çalıştırma zorunluluğu ^(1)(2)(3)^*
 
-Madde 30 – (Değişik : 15/5/2008-5763/2 md.)
+**Madde 30 –** **(Değişik : 15/5/2008-5763/2 md.)**
 
 İşverenler, elli veya daha fazla işçi çalıştırdıkları özel sektör
 işyerlerinde yüzde üç engelli, kamu işyerlerinde ise yüzde dört engelli
@@ -1043,7 +1059,7 @@ hizmetlere ilişkin özel hükümler saklıdır.
 
 *Askerlik ve kanundan doğan çalışma*
 
-Madde 31 - Muvazzaf askerlik ödevi dışında manevra veya herhangi bir
+**Madde 31 -** Muvazzaf askerlik ödevi dışında manevra veya herhangi bir
 sebeple silah altına alınan veyahut herhangi bir kanundan doğan çalışma
 ödevi yüzünden işinden ayrılan işçinin iş sözleşmesi işinden ayrıldığı
 günden başlayarak iki ay sonra işverence feshedilmiş sayılır.
@@ -1077,8 +1093,9 @@ tutarında tazminat öder.
 
 *Ücret ve ücretin ödenmesi*
 
-Madde 32 - Genel anlamda ücret bir kimseye bir iş karşılığında işveren
-veya üçüncü kişiler tarafından sağlanan ve para ile ödenen tutardır.
+**Madde 32 -** Genel anlamda ücret bir kimseye bir iş karşılığında
+işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen
+tutardır.
 
 *–––––––––––––––––*
 
@@ -1190,9 +1207,11 @@ başka kıymetler üzerinde yapılacak haciz ve icra takibi, bu işyerinde
 içindeki ücret alacaklarını karşılayacak kısım ayrıldıktan sonra, kalan
 kısım üzerinde hüküm ifade eder.
 
-Bu maddede kamu tüzel kişilerine ve bazı teşekküllere verilen yetkileri
-2 nci maddenin altıncı fıkrası gereğince sorumluluk taşıyan bütün
-işverenler de kullanmaya yetkilidir.
+**(Değişik beşinci fıkra: 10/9/2014-6552/3 md.)** İşverenler, alt
+işverene iş vermeleri hâlinde, bunların işçilerinin ücretlerinin ödenip
+ödenmediğini işçinin başvurusu üzerine veya aylık olarak resen kontrol
+etmekle ve varsa ödenmeyen ücretleri hak edişlerinden keserek işçilerin
+banka hesabına yatırmakla yükümlüdür.
 
 *Ücret hesap pusulası*
 
@@ -1311,6 +1330,16 @@ Fazla saatlerle çalışmak için işçinin onayının alınması gerekir.
 Fazla çalışma süresinin toplamı bir yılda ikiyüzyetmiş saatten fazla
 olamaz.
 
+**(Ek fıkra: 10/9/2014-6552/4 md.)** Bu Kanunun 42 nci ve 43 üncü
+maddelerinde sayılan hâller dışında yer altında maden işlerinde çalışan
+işçilere fazla çalışma yaptırılamaz.
+
+**(Ek fıkra: 10/9/2014-6552/4 md.)** Yer altında maden işlerinde çalışan
+işçilere, bu Kanunun 42 nci ve 43 üncü maddelerinde sayılan hâllerde
+haftalık otuz altı saati aşan her bir saat fazla çalışma için verilecek
+ücret, normal çalışma ücretinin saat başına düşen miktarının yüzde
+yüzden az olmamak üzere arttırılması suretiyle ödenir. ^(1)^
+
 Fazla çalışma ve fazla sürelerle çalışmaların ne şekilde uygulanacağı
 çıkarılacak yönetmelikte gösterilir.
 
@@ -1336,6 +1365,11 @@ günlük çalışma süresini, işçinin en çok çalışma gücüne çıkarabil
 
 Bu suretle fazla çalıştırılan işçiler için verilecek ücret hakkında 41
 inci maddenin birinci, ikinci ve üçüncü fıkraları hükümleri uygulanır.
+
+––––––––––––––––––
+
+*(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 145 inci maddesiyle bu
+fıkranın 1/1/2015 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.*
 
 8440
 
@@ -1498,7 +1532,9 @@ b\) Beş yıldan fazla onbeş yıldan az olanlara yirmi günden,
 
 c\) Onbeş yıl (dahil) ve daha fazla olanlara yirmialtı günden,
 
-Az olamaz.
+Az olamaz. **(Ek cümle: 10/9/2014-6552/5 md.)** Yer altı işlerinde
+çalışan işçilerin yıllık ücretli izin süreleri dörder gün arttırılarak
+uygulanır.
 
 Ancak onsekiz ve daha küçük yaştaki işçilerle elli ve daha yukarı
 yaştaki işçilere verilecek yıllık ücretli izin süresi yirmi günden az
@@ -1609,6 +1645,15 @@ işveren toplam dört güne kadar ücretsiz izin vermek zorundadır. İşveren,
 işyerinde çalışan işçilerin yıllık ücretli izinlerini gösterir izin
 kayıt belgesi tutmak zorundadır.
 
+**(Ek fıkra: 10/9/2014-6552/6 md.)** Alt işveren işçilerinden, alt
+işvereni değiştiği hâlde aynı işyerinde çalışmaya devam edenlerin yıllık
+ücretli izin süresi, aynı işyerinde çalıştıkları süreler dikkate
+alınarak hesaplanır. Asıl işveren, alt işveren tarafından çalıştırılan
+işçilerin hak kazandıkları yıllık ücretli izin sürelerinin kullanılıp
+kullanılmadığını kontrol etmek ve ilgili yıl içinde kullanılmasını
+sağlamakla, alt işveren ise altıncı fıkraya göre tutmak zorunda olduğu
+izin kayıt belgesinin bir örneğini asıl işverene vermekle yükümlüdür.
+
 *Yıllık izin ücreti*
 
 **Madde 57 -** İşveren, yıllık ücretli iznini kullanan her işçiye,
@@ -1686,11 +1731,14 @@ DÖRDÜNCÜ BÖLÜM
 
 *İşin Düzenlenmesi*
 
-*Çalışma süresi*
+*Çalışma süresi ^(1)^*
 
 **Madde 63 -** Genel bakımdan çalışma süresi haftada en çok kırkbeş
 saattir. Aksi kararlaştırılmamışsa bu süre, işyerlerinde haftanın
-çalışılan günlerine eşit ölçüde bölünerek uygulanır.
+çalışılan günlerine eşit ölçüde bölünerek uygulanır. **(Ek cümle:
+10/9/2014-6552/7 md.)** Yer altı maden işlerinde çalışan işçiler için
+yer altındaki çalışma süresi; haftada en çok otuz altı saat olup günlük
+altı saatten fazla olamaz.
 
 Tarafların anlaşması ile haftalık normal çalışma süresi, işyerlerinde
 haftanın çalışılan günlerine, günde onbir saati aşmamak koşulu ile
@@ -1698,6 +1746,13 @@ farklı şekilde dağıtılabilir. Bu halde, iki aylık süre içinde işçinin
 haftalık ortalama çalışma süresi, normal haftalık çalışma süresini
 aşamaz. Denkleştirme süresi toplu iş sözleşmeleri ile dört aya kadar
 artırılabilir.
+
+––––––––––––––––––
+
+*(1) Bu maddenin birinci fıkrasına 10/9/2014 tarihli ve 6552 sayılı
+Kanunun 7 nci maddesiyle eklenen bu cümlenin yine aynı Kanunun
+yürürlüğünü düzenleyen 145 inci maddesiyle 1/1/2015 tarihinde yürürlüğe
+gireceği hüküm altına alınmıştır.*
 
 8445
 
@@ -2217,7 +2272,7 @@ değiştirilmiş ve metne işlenmiştir.*
 engelli ve eski hükümlü çalıştırmayan işveren veya işveren vekiline
 çalıştırmadığı her engelli ve eski hükümlü ve çalıştırmadığı her ay için
 binyediyüz Türk Lirası idari para cezası verilir. Kamu kuruluşları da bu
-para cezasından hiçbir şekilde muaf tutulamaz.^(2)^
+para cezasından hiçbir şekilde muaf tutulamaz.
 
 *Ücret ile ilgili hükümlere aykırılık^(3)^*
 
@@ -2266,10 +2321,9 @@ maddenin birinci fıkrasında yer alan “yediyüzelli milyon lira para
 cezası” ibaresi “binyediyüz Türk Lirası idari para cezası”* *şeklinde
 değiştirilmiş ve metne işlenmiştir.*
 
-*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
-maddenin başlığında yer alan “Özürlü” ibaresi “Engelli”, birinci
-fıkrasında yer alan “özürlü” ibareleri “engelli” olarak
-değiştirilmiştir.*
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+madde başlığında yer alan “Özürlü” ibaresi “Engelli”, birinci fıkrasında
+yer alan “özürlü” ibareleri “engelli” şeklinde değiştirilmiştir.*
 
 *(3) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu
 maddenin birinci fıkrasının (a) bendinde yer alan “yüz Yeni Türk Lirası”
@@ -2476,6 +2530,74 @@ kanunların hükümleri uygulanmayan personeli ile kamu kuruluşlarında
 sözleşmeli olarak istihdam edilenlere mevzuat veya sözleşmelerine göre
 kıdem tazminatı niteliğinde yapılan ödemeler kıdem tazminatı sayılır.
 
+**(Ek fıkra: 10/9/2014-6552/8 md.)** 4/1/2002 tarihli ve 4734 sayılı
+Kamu İhale Kanununun 62 nci maddesinin birinci fıkrasının (e) bendi
+kapsamında alt işverenler tarafından çalıştırılan işçilerin kıdem
+tazminatları;
+
+a\) Alt işverenlerinin değişip değişmediğine bakılmaksızın aralıksız
+olarak aynı kamu kurum veya kuruluşuna ait işyerlerinde çalışmış
+olanların bu şekilde çalışmış oldukları sürelere ilişkin kıdem
+tazminatına esas hizmet süreleri, aynı kamu kurum veya kuruluşuna ait
+işyerlerinde geçen toplam çalışma süreleri esas alınarak tespit olunur.
+Bunlardan son alt işverenleri ile yapılmış olan iş sözleşmeleri 1475
+sayılı İş Kanununun 14 üncü maddesine göre kıdem tazminatı ödenmesini
+gerektirecek şekilde sona ermiş olanların kıdem tazminatları ilgili kamu
+kurum veya kuruluşları tarafından,
+
+b\) Aynı alt işveren tarafından ve aynı iş sözleşmesi çerçevesinde farklı
+kamu kurum veya kuruluşlarında çalıştırılmış olan işçilerden iş
+sözleşmeleri 1475 sayılı İş Kanununun 14 üncü maddesine göre kıdem
+tazminatı ödenmesini gerektirecek şekilde sona ermiş olanlara, 4734
+sayılı Kanunun 62 nci maddesinin birinci fıkrasının (e) bendi kapsamında
+farklı kamu kurum ve kuruluşuna ait işyerlerinde geçen hizmet
+sürelerinin toplamı esas alınarak çalıştırıldığı son kamu kurum veya
+kuruluşu tarafından,
+
+işçinin banka hesabına yatırılmak suretiyle ödenir.
+
+8458-2
+
+**(Ek fıkra: 10/9/2014-6552/8 md.)** Alt işveren ile yapmış olduğu iş
+sözleşmesi sona ermediği gibi, alt işveren tarafından 4734 sayılı Kanun
+kapsamında bulunan idarelere ait işyerleri dışında bir işyerinde
+çalıştırılmaya devam olunan ve bu şekilde çalıştırıldığı sırada iş
+sözleşmesi kıdem tazminatı ödenmesini gerektirecek şekilde sona eren
+işçinin kıdem tazminatı, işçinin yazılı talebi hâlinde, kıdem
+tazminatının söz konusu kamu kurum veya kuruluşlarına ait işyerlerinde
+geçen süreye ilişkin kısmı, kamu kurum veya kuruluşuna ait çalıştığı son
+işyerindeki ücretinin yılları itibarıyla asgari ücret artış oranları
+dikkate alınarak güncellenmiş miktarı üzerinden hesaplanmak suretiyle
+son kamu kurum veya kuruluşu tarafından işçinin banka hesabına
+yatırılmak suretiyle ödenir. Bu şekilde hesaplanarak ödenen kıdem
+tazminatı tutarının, iş sözleşmesinin sona erdiği tarihteki ücreti
+üzerinden aynı süreler dikkate alınarak hesaplanacak kıdem tazminatı
+tutarından daha düşük olması hâlinde, işçinin aradaki farkı alt
+işverenden talep hakkı saklıdır.
+
+**(Ek fıkra: 10/9/2014-6552/8 md.)** İkinci fıkranın (b) bendi veya
+üçüncü fıkra uyarınca farklı kamu kurum veya kuruluşlarına ait
+işyerlerinde geçen hizmet sürelerinin toplamı üzerinden kıdem tazminatı
+ödenmesi hâlinde, kıdem tazminatı ödemesini gerçekleştiren son kamu
+kurum veya kuruluşu, ödenen kıdem tazminatı tutarının diğer kamu kurum
+veya kuruluşlarında geçen hizmet süresine ilişkin kısmını ilgili kamu
+kurum veya kuruluşundan tahsil eder. Ancak, merkezi yönetim kapsamındaki
+kamu idareleri arasında bu fıkra hükümlerine göre bir tahsil işlemi
+yapılmaz.
+
+**(Ek fıkra: 10/9/2014-6552/8 md.)** Kıdem tazminatı tutarı, 4734 sayılı
+Kanunun ek 8 inci maddesinin birinci fıkrasının (a) bendi kapsamında
+belirtilen işyerlerinde kıdem tazminatı ile ilgili açılacak bütçe
+tertibinden, (b) bendi kapsamında belirtilen işyerlerinde ise hizmet
+alımı gider kaleminden, ödeneğin yetip yetmediğine bakılmaksızın ödenir.
+
+**(Ek fıkra: 10/9/2014-6552/8 md.)** Bu madde kapsamında alt işverenler
+yanında çalışan işçilerin bu işyerlerinde geçen hizmet süresinin hesabı,
+alt işverenden ve alt işveren işçisinden istenecek belgeler ve ödeme
+süreci ile ilgili diğer usul ve esaslar Maliye Bakanlığı ve Kamu İhale
+Kurumunun görüşleri alınarak Çalışma ve Sosyal Güvenlik Bakanlığınca
+çıkarılan yönetmelikle belirlenir.
+
 *Bazı işlerde çalışanların ücretlerinin güvencesi*
 
 **Madde 113 -** Bu Kanunun 4 üncü maddesinin birinci fıkrasının (b) ve
@@ -2487,7 +2609,7 @@ ilgililer hakkında ilgili ceza hükümleri uygulanır.
 
 *Üçlü Danışma Kurulu*
 
-Madde 114 - Çalışma barışının ve endüstri ilişkilerinin
+**Madde 114 -** Çalışma barışının ve endüstri ilişkilerinin
 geliştirilmesinde, çalışma hayatıyla ilgili mevzuat çalışmalarının ve
 uygulamalarının izlenmesi amacıyla; Hükümet ile işveren, kamu
 görevlileri ve işçi sendikaları konfederasyonları arasında etkin
@@ -2499,29 +2621,29 @@ düzenlenir.
 
 *Kantin açılması*
 
-Madde 115 - İşyerlerinde, yüzelli ve daha fazla işçi çalıştırılması
+**Madde 115 -** İşyerlerinde, yüzelli ve daha fazla işçi çalıştırılması
 halinde, işçilerin ve ailelerinin gerekli ihtiyaçlarının karşılanması
 amacıyla işçiler tarafından kurulacak tüketim kooperatiflerine
 işverenlerce yer tahsisi yapılabilir.
 
-Madde 116 - (13.6.1952 tarihli ve 5953 sayılı Basın Mesleğinde
+**Madde 116 - (13.6.1952 tarihli ve 5953 sayılı Basın Mesleğinde
 Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında
-Kanun ile ilgili olup yerine işlenmiştir.)
+Kanun ile ilgili olup yerine işlenmiştir.)**
 
-Madde 117 - (5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanunu ile
-ilgili olup yerine işlenmiştir.)
+**Madde 117 - (5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanunu ile
+ilgili olup yerine işlenmiştir.) **
 
-Madde 118 - (5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanunu ile
-ilgili olup yerine işlenmiştir.)
+**Madde 118 -** **(5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanunu ile
+ilgili olup yerine işlenmiştir.) **
 
 *Yönetmelikler*
 
-Madde 119 - Bu Kanunda öngörülen yönetmelikler Kanunun yayımı tarihinden
-itibaren altı ay içerisinde çıkartılır.
+**Madde 119 -** Bu Kanunda öngörülen yönetmelikler Kanunun yayımı
+tarihinden itibaren altı ay içerisinde çıkartılır.
 
 *Yürürlükten kaldırılan hükümler*
 
-Madde 120 – 25.8.1971 tarihli ve 1475 sayılı İş Kanununun 14 üncü
+**Madde 120 –** 25.8.1971 tarihli ve 1475 sayılı İş Kanununun 14 üncü
 maddesi hariç diğer maddeleri yürürlükten kaldırılmıştır.
 
 *Korumalı işyerlerinde çalışan engellilerin ücretleri*
@@ -2557,8 +2679,8 @@ Politikalar Bakanlığı tarafından çıkarılan yönetmelikle belirlenir.
 
 8460
 
-Geçici Madde 1 - Diğer mevzuatta 1475 sayılı İş Kanununa yapılan atıflar
-bu Kanuna yapılmış sayılır.
+**Geçici Madde 1 -** Diğer mevzuatta 1475 sayılı İş Kanununa yapılan
+atıflar bu Kanuna yapılmış sayılır.
 
 Bu Kanunun 120 nci maddesi ile yürürlükte bırakılan 1475 sayılı İş
 Kanununun 14 üncü maddesinin birinci fıkrasının 1 inci ve 2 nci bendi
@@ -2566,13 +2688,13 @@ ile onbirinci fıkrasında, anılan Kanunun 16, 17 ve 26 ncı maddelerine
 yapılan atıflar, bu Kanunun 24, 25 ve 32 nci maddelerine yapılmış
 sayılır.
 
-Geçici Madde 2 - (Mülga: 20/6/2012-6331/37 md.)
+**Geçici Madde 2 -** **(Mülga: 20/6/2012-6331/37 md.)**
 
-Geçici Madde 3 - 1475 sayılı Kanuna göre alınmış bulunan asgari ücret
-kararı, bu Kanunun 39 uncu Maddesine göre tespit yapılıncaya kadar
+**Geçici Madde 3 -** 1475 sayılı Kanuna göre alınmış bulunan asgari
+ücret kararı, bu Kanunun 39 uncu Maddesine göre tespit yapılıncaya kadar
 yürürlükte kalır.
 
-Geçici Madde 4 - Mülga 3008 sayılı İş Kanununun 13 üncü maddesi
+**Geçici Madde 4 -** Mülga 3008 sayılı İş Kanununun 13 üncü maddesi
 hükümleri haklarında uygulanmayanlar için, bu Kanunun geçici 6 ncı
 maddesinde sözü edilen kıdem tazminatı hakkı 12.8.1967 tarihinden
 itibaren başlar.
@@ -2580,23 +2702,23 @@ itibaren başlar.
 İlk defa bu Kanun kapsamına girenlerin kıdem tazminatı hakları bu
 Kanunun yürürlüğe girdiği tarihten itibaren başlar.
 
-Geçici Madde 5 - 1475 sayılı Kanunun 25 inci maddesi ile 3713 sayılı
+**Geçici Madde 5 -** 1475 sayılı Kanunun 25 inci maddesi ile 3713 sayılı
 Kanunun ek 1 inci maddesinin (B) fıkrasında yer alan oranlar, bu Kanunun
 30 uncu maddesi uyarınca Bakanlar Kurulu tarafından yeniden
 belirleninceye kadar geçerlidir.
 
-Geçici Madde 6 - Kıdem tazminatı için bir kıdem tazminatı fonu kurulur.
-Kıdem tazminatı fonuna ilişkin Kanunun yürürlüğe gireceği tarihe kadar
-işçilerin kıdemleri için 1475 sayılı İş Kanununun 14 üncü maddesi
-hükümlerine göre kıdem tazminatı hakları saklıdır.
+**Geçici Madde 6 -** Kıdem tazminatı için bir kıdem tazminatı fonu
+kurulur. Kıdem tazminatı fonuna ilişkin Kanunun yürürlüğe gireceği
+tarihe kadar işçilerin kıdemleri için 1475 sayılı İş Kanununun 14 üncü
+maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
 
 *Yürürlük*
 
-Madde 121 - Bu Kanun yayımı tarihinde yürürlüğe girer.
+**Madde 121 -** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
 *Yürütme*
 
-Madde 122 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+**Madde 122 -** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 8460-1
 
@@ -2655,5 +2777,23 @@ Madde 122 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
                                                                                                                                                          
                            28918                                                                                                                         
   ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- -----------------------------------------------------------------------------------------------------
+
+8460-2
+
+**4857 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN**
+
+**YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE**
+
+  ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------
+  1.     **Kanun / KHK**   **Kanun /**               **Kanun / KHK Yürürlüğe giriş tarihi**   **Anayasa Mahkemesi Kararı Tarih/No.**   **4857 sayılı Kanunun değiştirilen maddeleri**
+                                                                                                                                       
+         **No.**           **KHK**                                                                                                     
+                                                                                                                                       
+                           **Resmi Gazete Tarihi**                                                                                     
+
+  1.     6552              11/9/2014                 11/9/2014                                                                         3, 18, 36, 41, 53, 56, 112
+                                                                                                                                       
+                           (Mükerrer)                1/1/2015                                                                          41, 63
+  ------ ----------------- ------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------
 
 
