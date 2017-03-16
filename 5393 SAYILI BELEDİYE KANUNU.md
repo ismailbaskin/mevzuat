@@ -1,4 +1,4 @@
-5393 sayılı Kanunun 5594 sayılı Kanun ile Değişik Hali
+5393 sayılı Kanunun 5675 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -592,6 +592,14 @@ birinin gerekçeli önerisi üzerine, toplantıya katılanların salt
 Meclis görüşmeleri görevlilerce tutanağa geçirilir, başkan ve kâtip
 üyeler tarafından imzalanır. Toplantılar, meclisin kararıyla sesli ve
 görüntülü cihazlarla da kaydedilebilir.
+
+**(Ek: 30/5/2007-5675/3 md.)** Belediye başkanı, acil durumlarda lüzum
+görmesi halinde belediye meclisini bir yılda üç defadan fazla olmamak ve
+her toplantı bir birleşimi geçmemek üzere toplantıya çağırır. Olağanüstü
+toplantı çağrısı ve gündem en az üç gün önceden meclis üyelerine yazılı
+olarak duyurulur ve ayrıca mutat usûllerle ilan edilir. Olağanüstü
+toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu
+görüşülemez.
 
 **Gündem**
 
@@ -2201,7 +2209,7 @@ ilişkin usûl ve esasları belirlemeye Bakanlar Kurulu yetkilidir.
 
   1.     5594                       10/3/2007                                     10/3/2007                                                         12
 
-  1.                                                                                                                                                
+  1.     5675                       7/6/2007                                      7/6/2007                                                          20
 
   1.                                                                                                                                                
 
