@@ -1,6 +1,4 @@
-**Anayasa Mahkemesi’nin 10/4/2013 tarihli **
-
-**ve E.: 2013/14, K.: 2013/56 sayılı Kararı ile değişik hali**
+**6526 sayılı Kanun ile değişik hali**
 
 **TÜRK CEZA KANUNU ^(1)^**
 
@@ -2856,7 +2854,7 @@ basın ve yayın yoluyla yayımlanması halinde de aynı cezaya hükmolunur.
 *Kişisel verilerin kaydedilmesi*
 
 **        Madde 135-** (1) Hukuka aykırı olarak kişisel verileri
-kaydeden kimseye altı aydan üç yıla kadar hapis cezası verilir.
+kaydeden kimseye bir yıldan üç yıla kadar hapis cezası verilir.^(2)^
 
 \(2) Kişilerin siyasi, felsefi veya dini görüşlerine, ırki kökenlerine;
 hukuka aykırı olarak ahlaki eğilimlerine, cinsel yaşamlarına, sağlık
@@ -2866,8 +2864,8 @@ olarak kaydeden kimse, yukarıdaki fıkra hükmüne göre cezalandırılır.
 *Verileri hukuka aykırı olarak verme veya ele geçirme*
 
 **Madde 136-** (1) Kişisel verileri, hukuka aykırı olarak bir başkasına
-veren, yayan veya ele geçiren kişi, bir yıldan dört yıla kadar hapis
-cezası ile cezalandırılır.
+veren, yayan veya ele geçiren kişi, iki yıldan dört yıla kadar hapis
+cezası ile cezalandırılır.^(3)^
 
 *Nitelikli haller*
 
@@ -2885,8 +2883,12 @@ suretiyle,
 
 **        Madde 138-** (1) Kanunların belirlediği sürelerin geçmiş
 olmasına karşın verileri sistem içinde yok etmekle yükümlü olanlara
-görevlerini yerine getirmediklerinde altı aydan bir yıla kadar hapis
-cezası verilir.
+görevlerini yerine getirmediklerinde bir yıldan iki yıla kadar hapis
+cezası verilir.^(4)^
+
+\(2) **(Ek: 21/2/2014-6526/5 md.)** Suçun konusunun Ceza Muhakemesi
+Kanunu hükümlerine göre ortadan kaldırılması veya yok edilmesi gereken
+veri olması hâlinde verilecek ceza bir kat artırılır.
 
 *Şikayet*
 
@@ -2919,7 +2921,19 @@ yerden alan kimseye bir yıldan üç yıla kadar hapis cezası verilir.
 maddenin birinci fıkrasında yer alan “altı aydan iki yıla kadar hapis
 veya adlî para” ibaresi “bir yıldan üç yıla kadar hapis” ve “cezanın alt
 sınırı bir yıldan az olamaz” ibaresi ise “verilecek ceza bir kat
-artırılır” şeklinde değiştirilmiştir.*
+artırılır” şeklinde değiştirilmiştir. *
+
+*(2) 21/2/2014 tarihli ve 6526 sayılı kanunun 3 üncü maddesiyle bu
+fıkrada yer alan “altı aydan” ibaresi “bir yıldan” şeklinde
+değiştirilmiştir.*
+
+*(3) 21/2/2014 tarihli ve 6526 sayılı kanunun 4 üncü maddesiyle bu
+fıkrada yer alan “bir yıldan” ibaresi “iki yıldan” şeklinde
+değiştirilmiştir.*
+
+*(4) 21/2/2014 tarihli ve 6526 sayılı kanunun 5 inci maddesiyle bu
+fıkrada yer alan “altı aydan bir yıla kadar hapis” ibaresi “bir yıldan
+iki yıla kadar hapis” şeklinde değiştirilmiştir.*
 
 9002
 
@@ -6578,6 +6592,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/14, K.: 2013/56 sayılı Kararı   267                                                           10/12/2013 tarihinden başlayarak altı ay sonra
                                                                                                                                                     
                                                                                                                                                     (10/6/2014)
+
+  6526                                                                                135, 136, 138                                                 6/3/2014
   ----------------------------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------
 
 
