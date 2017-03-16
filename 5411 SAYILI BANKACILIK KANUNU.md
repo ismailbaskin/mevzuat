@@ -1,5 +1,4 @@
-**Anayasa Mahkemesi’nin 22/7/2008 tarihli ve E.: 2008/66, K.: 2008/131
-sayılı Kararı ile değişik hali**
+**6111 sayılı Kanun ile değişik hali**
 
 **BANKACILIK KANUNU**
 
@@ -156,12 +155,14 @@ oluşturduğu hesapları,
 Katılım fonu: Katılım bankaları nezdinde açtırılan gerçek ve tüzel
 kişilere ait özel cari hesap ve katılma hesaplarında yer alan parayı,
 
-Destek hizmeti kuruluşu: Kurulca belirlenecek esaslar çerçevesinde
-Merkez Bankası tarafından kurulmuş ya da Merkez Bankası bünyesinde
-faaliyet gösterenler ile Sermaye Piyasası Kurulunun denetiminde bulunan
-takas, saklama ve merkezi kayıt hizmeti kuruluşları hariç, bu Kanun
-kapsamındaki kuruluşlara ana hizmetlerinin uzantısı veya tamamlayıcısı
-niteliğinde hizmet veren kuruluşları,
+**(Değişik: 13/2/2011-6111/142 md.)** Destek hizmeti kuruluşu:
+Bankaların, mevduat veya katılım fonu kabulü, nakdî, gayrinakdî her cins
+ve surette kredi verme ve bu Kanunun uygulamasında kredi olarak sayılan
+işlemler dışında kalan faaliyetlerini banka adına gerçekleştiren; ya da
+reklamının yapılması hariç olmak üzere mevduat veya katılım fonu kabulü
+dışındaki faaliyetlerinden herhangi birinin pazarlanması da dâhil
+gerçekleştirilmesinde bankaya yardımcı nitelikte hizmet veren
+kuruluşları,
 
 Kıyı bankacılığı: Bankacılık faaliyetleri, kurulu bulunulan ülke harici
 ile sınırlı tutulan veya ülke genelinde uygulanan ekonomik ve malî
@@ -531,14 +532,19 @@ ortaklık kurmaları veya kurulmuş ortaklıklara katılmaları, bu Kanunda
 yer alan kurumsal yönetim hükümleri ile koruyucu hükümlere ve Kurulca
 belirlenecek esaslara uyulması kaydıyla Kurulun iznine tâbidir.
 
-**Bağımsız denetim, değerleme, derecelendirme ve destek hizmeti
-kuruluşlarının yetkilendirme izni**
+**Bağımsız denetim, değerleme ve derecelendirme kuruluşlarının
+yetkilendirme izni ^(1)^**
 
-**MADDE 15 —** Bankaların bağımsız denetim, değerleme, derecelendirme ve
-destek hizmeti faaliyetlerini gerçekleştirecek olan kuruluşların
-yetkilendirilmesine, yetkilerinin geçici veya sürekli olarak
-kaldırılmasına Kurulca karar verilir. Buna ilişkin usûl ve esaslar
-ilgili meslek birliklerinin görüşü alınarak Kurulca belirlenir.
+**MADDE 15 — (Değişik: 13/2/2011-6111/143 md.)**
+
+Bankaların bağımsız denetim faaliyetleri ile Kurul tarafından zorunlu
+tutulması halinde, bankaların varlıklarının, hak ve yükümlülüklerinin ya
+da kredi müşterilerinden alınacak teminatların değerlemesi ve
+kendilerinin ya da kredi müşterilerinin derecelendirilmesi
+faaliyetlerini gerçekleştirecek olan kuruluşların yetkilendirilmesine,
+yetkilerinin geçici veya sürekli olarak kaldırılmasına Kurulca karar
+verilir. Bu maddenin uygulamasına ilişkin usûl ve esaslar ilgili meslek
+birliklerinin görüşü alınarak Kurulca belirlenir.
 
 **İKİNCİ BÖLÜM **
 
@@ -589,6 +595,13 @@ sınırlara bakılmaksızın Kurulun iznine tâbidir.
 Bu izinlerin verilmesinde, bankanın devralınan hisselerinin nominal
 değerinin yüzde biri oranında devir payının devralan tarafından Fona
 yatırılması zorunludur.
+
+––––––––––––––––––––
+
+*(1) Bu madde başlığı “Bağımsız denetim, değerleme, derecelendirme ve
+destek hizmeti kuruluşlarının yetkilendirme izni” iken, 13/2/2011
+tarihli ve 6111 sayılı Kanunun 143 üncü maddesiyle metne işlendiği
+şekilde değiştirilmiştir.*
 
 Ortak sayısının beşten aşağı düşmesine yol açan işlemler ile izin
 alınmadan yapılan pay devirleri pay defterine kaydolunmaz. Bu hükme
@@ -800,9 +813,7 @@ atanmalarına veya görevden ayrılmalarına ilişkin yükümlülükler
 bakımından, yurt dışında kurulu bankaların Türkiye'deki merkez şubesi
 müdürü, genel müdür gibi değerlendirilir.
 
-Genel müdür ve genel müdür yardımcıları, konsolide denetime tâbi
-ortaklıklar hariç başka bir ticari kuruluşta tam veya yarı zamanlı
-olarak görev alamaz.
+**(Mülga altıncı fıkra: 13/2/2011-6111/144 md.) **
 
 **Çalışma ve imza yetkisi yasağı **
 
@@ -934,22 +945,40 @@ yaptırılır.
 
 **Destek hizmeti kuruluşları**
 
-**MADDE 35 —** Bankalar, destek hizmetinden doğabilecek riskler ile
-bunların yönetilmesine, beklenen fayda ve maliyetin değerlendirilmesine
-ilişkin hazırlayacakları programı Kuruma ibraz etmek zorundadır. Destek
-hizmeti, bankaların yasal yükümlülüklerini yerine getirmelerini, ilgili
-düzenlemelere uymalarını ve etkin biçimde denetlenmelerini engelleyici
-nitelikte olamaz.
+**MADDE 35 —** **(Değişik: 13/2/2011-6111/144 md.)**
 
-Destek hizmeti kuruluşlarına ve hizmet alınabilecek konulara ilişkin
-usûl ve esaslar Kurulca belirlenir.
+Bankalar destek hizmeti almadan önce, alacakları destek hizmetinden
+doğabilecek riskler ile bunların yönetilmesine, beklenen fayda ve
+maliyetin değerlendirilmesine ilişkin, gerektiğinde Kuruma ibraz edilmek
+üzere, yazılı bir rapor hazırlar. Münhasıran bankaların yönetim
+kurullarınca veya iç sistemlerinde yer alan birimlerce icra edilmesi
+gereken faaliyetler ile işlemlerinin muhasebeleştirilmesi ve finansal
+raporlarının düzenlenmesi faaliyetleri destek hizmetine konu edilemez.
+Alınacak destek hizmeti, bankaların yasal yükümlülüklerini yerine
+getirmelerini, ilgili düzenlemelere uymalarını ve etkin biçimde
+denetlenmelerini engelleyici nitelikte olamaz. Kurul, gerektiğinde
+bankaların destek hizmeti alabilecekleri konuları belirlemeye veya banka
+ya da banka grupları itibarıyla destek hizmeti alınabilecek konuları
+sınırlandırmaya, yasaklamaya ya da sorumluluk sigortası yaptırılmasını
+zorunlu tutmaya veya destek hizmetinin niteliğine göre bu hizmetlerin
+alınmasını izin koşuluna bağlamaya yetkilidir.
+
+Merkez Bankası tarafından kurulmuş ya da Merkez Bankası bünyesinde
+faaliyet gösterenler ile Sermaye Piyasası Kurulunun denetiminde bulunan
+takas, saklama ve merkezi kayıt hizmeti kuruluşları bu Kanunun
+uygulamasında destek hizmeti kuruluşu olarak değerlendirilmez.
 
 **Sorumluluk sigortası**
 
-**MADDE 36 —** Bağımsız denetim, değerleme, derecelendirme ve destek
-hizmeti kuruluşları, verdikleri hizmetlerden doğabilecek zararları
-karşılamak amacıyla sorumluluk sigortası yaptırmak zorundadır. Bu
-maddenin uygulanmasına ilişkin usûl ve esaslar Kurulca belirlenir.
+**MADDE 36 —** **(Değişik: 13/2/2011-6111/145 md.)**
+
+Bağımsız denetim kuruluşları, verdikleri hizmetlerden doğabilecek
+zararları karşılamak amacıyla yurt içinde veya yurt dışında kurulu
+sigorta şirketlerine, Hazine Müsteşarlığı tarafından genel şartları
+belirlenecek ya da bu şartlara uygunluğu teyit edilecek sorumluluk
+sigortası yaptırmakla yükümlüdürler. Değerleme, derecelendirme ve destek
+hizmeti kuruluşları, hizmet verdikleri bankalarca talep edilmesi ya da
+Kurulca gerekli görülmesi halinde sorumluluk sigortası yaptırırlar.
 
 **DÖRDÜNCÜ BÖLÜM**
 
@@ -1814,41 +1843,62 @@ sırların korunmasını sağlamakla görevlidir. Kurumun elde edeceği sır
 niteliğindeki bilgi ve belgeler, kuruluş ve faaliyet izni verilmesinde,
 faaliyetlerin denetiminde, düzenlemelere uyulup uyulmadığının
 izlenmesinde ve Kurul kararlarına karşı açılacak idarî davaların
-görülmesinde kullanılabilir. Kurumun bu fıkra kapsamında elde edeceği
-sır niteliğindeki bilgi ve belgeler hiçbir kişi, kurum ve kuruluşa
-verilemez. Mahkeme kararına bağlanmış sır kapsamına giren bilgilerin
-verilmesinden Kurum sorumlu tutulamaz.
+görülmesinde kullanılabilir. **(Değişik dördüncü cümle:
+13/2/2011-6111/146 md.)** Kurumun bu fıkra kapsamında elde edeceği sır
+niteliğindeki bilgi ve belgeler, ceza soruşturması ve kovuşturması
+kapsamında savcılıklar ile ceza mahkemeleri, görevden ayrılmış olsalar
+dahi, görevleriyle bağlantılı olarak işledikleri iddia edilen suçlardan
+dolayı başlatılan soruşturma ve kovuşturmalar ile bağlantılı olarak
+talepte bulunacak Kurul Başkanı ve üyeleri ile Kurum personeli dışında
+hiçbir kişi, kurum ve kuruluşa verilemez. Mahkeme kararına bağlanmış sır
+kapsamına giren bilgilerin verilmesinden Kurum sorumlu tutulamaz.
 
-Bankaların ortakları, yönetim kurulu üyeleri, mensupları, bunlar adına
-hareket eden kişiler ile görevlileri, sıfat ve görevleri dolayısıyla
-öğrendikleri bankalara veya müşterilerine ait sırları, bu konuda kanunen
-açıkça yetkili kılınan mercilerden başkasına açıklayamazlar. Bankaların
-destek hizmeti aldığı kuruluş ve çalışanları hakkında da bu hüküm
-uygulanır. Bu yükümlülük görevden ayrıldıktan sonra da devam eder. **(Ek
-iki cümle: 17/4/2008-5754/86 md.)** 22/4/1926 tarihli ve 818 sayılı
-Borçlar Kanunu, 13/6/1952 tarihli ve 5953 sayılı Basın Mesleğinde
-Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında
-Kanun, 20/4/1967 tarihli ve 854 sayılı Deniz İş Kanunu ile 22/5/2003
-tarihli ve 4857 sayılı İş Kanunu kapsamında çalıştırılan işçi, gemiadamı
+**(Değişik üçüncü fıkra: 13/2/2011-6111/146 md.)** Sıfat ve görevleri
+dolayısıyla bankalara veya müşterilerine ait sırları öğrenenler, söz
+konusu sırları bu konuda kanunen açıkça yetkili kılınan mercilerden
+başkasına açıklayamazlar. Bu yükümlülük görevden ayrıldıktan sonra da
+devam eder. 22/4/1926 tarihli ve 818 sayılı Borçlar Kanunu, 13/6/1952
+tarihli ve 5953 sayılı Basın Mesleğinde Çalışanlarla Çalıştıranlar
+Arasındaki Münasebetlerin Tanzimi Hakkında Kanun, 20/4/1967 tarihli ve
+854 sayılı Deniz İş Kanunu ile 22/5/2003 tarihli ve 4857 sayılı İş
+Kanunu kapsamında çalıştırılan işçi, gemi adamı
+
 ve gazetecinin ücret, prim, ikramiye ve bu nitelikte her çeşit istihkak
 ödemelerinin özel olarak açılan banka hesabına yapılması halinde, bu
 hesaplara ilişkin bilgi ve belgelerin Çalışma ve Sosyal Güvenlik
-Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığı ile bunlara bağlı
-kurum ve kuruluşlara verilmesi sırrın ifşaı sayılmaz. Bu bilgi ve
-belgelerin verilmesine ilişkin usûl ve esaslar Çalışma ve Sosyal
-Güvenlik Bakanlığı, Maliye Bakanlığı, Hazine Müsteşarlığından sorumlu
-Devlet Bakanlığı ile Bankacılık Düzenleme ve Denetleme Kurumunca
-belirlenir.
+Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığı ile bunlara bağlı ve
+ilgili kurum ve kuruluşlara verilmesi ile 31/5/2006 tarihli ve 5510
+sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 8 inci ve
+100 üncü maddelerinin uygulanması ile genel sağlık sigortalılığında
+gelir testinin yapılmasına ilişkin bilgi ve belgelerin Sosyal Güvenlik
+Kurumuna verilmesi sırrın ifşası sayılmaz. Bu bilgi ve belgelerin
+verilmesine ilişkin usûl ve esaslar Çalışma ve Sosyal Güvenlik
+Bakanlığı, Maliye Bakanlığı, Hazine Müsteşarlığının bağlı olduğu
+Bakanlık ile Kurulca belirlenir.
 
-Kredi kuruluşları ve finansal kuruluşların destek hizmeti kuruluşları
-ile aralarında akdedecekleri yazılı sözleşmeler çerçevesinde bu
-kuruluşların müşterilerinin risk durumlarının izlenmesi,
-değerlendirilmesi, kontrolü ve müşteri hizmetlerinin yerine getirilmesi
-nedeniyle yapılacak bilgi ve belge alışverişi ile hizmet temini ve
-ayrıca kredi kuruluşları ve finansal kuruluşların kendi aralarında
-doğrudan doğruya veya en az beş banka tarafından kurulacak şirketler
-vasıtasıyla yapacakları her türlü bilgi ve belge alışverişi bu hükmün
-dışındadır.
+**(Değişik dördüncü fıkra: 13/2/2011-6111/146 md.)** Kurumun gözetim ve
+denetimine tabi kuruluşların, bunların ortaklarına, bağlı ortaklık,
+iştirak, birlikte kontrol edilen ortaklıklarının faaliyetlerine veya
+müşterilerine ilişkin yabancı ülke kanunlarına göre denetime yetkili ve
+Kurum muadili mercilerin taleplerinin Kurumca karşılanması, gizlilik
+sözleşmesi yapılması ve sadece belirtilen amaçlar ile sınırlı kılınması
+koşuluyla bankaların ve finansal kuruluşların, kendi aralarında doğrudan
+doğruya ya da risk merkezi veya en az beş banka ya da finansal kuruluş
+tarafından kurulacak şirketler vasıtasıyla yapacakları her türlü bilgi
+ve belge alışverişinin yanı sıra doğrudan veya dolaylı pay sahipliği
+yoluyla sermayelerinin yüzde onunu ve daha fazlasını temsil eden
+paylarının satışı amacıyla muhtemel alıcıların yapacakları değerleme
+çalışmalarında ya da sermayelerinin yüzde on veya daha fazlasına sahip
+olan yurt içinde veya yurt dışında yerleşik kredi kuruluşu ile finansal
+kuruluşlar da dâhil ana ortaklıkların konsolide finansal tablo hazırlama
+çalışmalarında, risk yönetimi ve iç denetim uygulamalarında veya
+kredileri de dâhil varlıklarının ya da bunlara dayalı menkul kıymetlerin
+satışı amacıyla yapılacak değerleme çalışmalarında ya da değerleme,
+derecelendirme veya destek hizmeti alınması ile bağımsız denetim
+faaliyetlerinde ve gerekli tedbirlerin alınması kaydıyla hizmet
+alımlarına yönelik işlemlerde kullanılmak üzere bilgi ve belge
+taleplerinin karşılanması sırasında banka ya da müşteri sırrı
+niteliğindeki bilgilerin öğrenilmesi sır saklama yükümlülüğü dışındadır.
 
 **İtibarın korunması**
 
@@ -2025,8 +2075,8 @@ Lirasına kadar idarî para cezasına karar verilir.
 
 **MADDE 82 —** Kamu tüzel kişiliğini haiz, idarî ve malî özerkliğe sahip
 Bankacılık Düzenleme ve Denetleme Kurumu kurulmuştur. Kurumun merkezi
-Ankara'dadır. Kurum, Bankacılık Düzenleme ve Denetleme Kurulu ile
-Başkanlıktan oluşur.
+Ankara'dadır. **(Değişik ikinci cümle: 13/2/2011-5411/147 md.)** Kurumun
+merkezi İstanbul’dadır.
 
 Kurum, bu Kanunla ve mevzuatla kendisine verilen düzenleme ve
 denetlemeyle ilgili görev ve yetkileri kendi sorumluluğu altında
@@ -2537,10 +2587,10 @@ Başkan, yapılacak yerinde denetimde, Kurumun meslek personelini
 oluşturan bankalar yeminli murakıp ve yardımcıları, bankacılık uzmanı ve
 yardımcıları, bilişim uzmanı ve yardımcıları, hukuk uzmanı ve
 yardımcıları arasından uygun göreceği bir denetim ekibini görevlendirir.
-Kurumun yerinde denetim yapmaya yetkili meslek personeli Ankara'da
+Kurumun yerinde denetim yapmaya yetkili meslek personeli İstanbul'da
 Asliye Ticaret Mahkemesinde yemin etmedikçe yerinde denetim yapamazlar.
 Yerinde denetim yapan Kurumun meslek personeli denetim konularıyla
-ilişkili olarak bu maddede belirtilen tüm yetkileri haizdir.
+ilişkili olarak bu maddede belirtilen tüm yetkileri haizdir. ^(1)^
 
 Başkan, gerekli gördüğünde ve özellik arz eden konularda bağımsız
 denetim kuruluşlarını ilgili konu hakkında inceleme yapılması için
@@ -2580,6 +2630,12 @@ destek sağlanır.
 Diğer kanunlar uyarınca Kurumun meslek personelinin bu Kanun
 kapsamındaki görevleri dışında görevlendirilmeleri, bu maddede sayılan
 görevleri öncelikli olmak kaydıyla Başkan tarafından yapılır.
+
+––––––––––––––––––––––
+
+*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 148 inci maddesiyle, bu
+fıkrada yer alan “Ankara’da Asliye Ticaret Mahkemesinde” ibaresi
+“İstanbul’da Asliye Ticaret Mahkemesinde” şeklinde değiştirilmiştir.*
 
 Kurum; bu Kanunun, Kurumun görev, yetki ve sorumluluklarına ilişkin
 hükümlerinde zikredilen ve 20.2.1930 tarihli ve 1567 sayılı Türk
@@ -4050,10 +4106,8 @@ türlü ceza davalarında Fon, suçtan zarar gören olarak müdahil sıfatını
 kazanır. Bu davalara bağlı şahsî haklar dahi Fona ait olur.
 
 **(İptal onüçüncü fıkra: Anayasa Mahkemesi’nin 22/7/2008 tarihli ve E.:
-2008/66, K.: 2008/131 sayılı Kararı ile.)**
-
-Bu maddenin uygulanmasına ilişkin usûl ve esaslar Fon tarafından
-yönetmelik ile düzenlenir.
+2008/66, K.: 2008/131 sayılı Kararı ile.)** Bu maddenin uygulanmasına
+ilişkin usûl ve esaslar Fon tarafından yönetmelik ile düzenlenir.
 
 **Sorumluluk davalarına ilişkin istisnai yetkiler**
 
@@ -5303,6 +5357,91 @@ Diğer kanunlarda ve mülga 3182 sayılı Bankalar Kanunu ve bu Kanunla
 yürürlükten kaldırılan 4389 sayılı Bankalar Kanununda özel finans
 kurumlarına yapılan atıflar, katılım bankalarına yapılmış sayılır.
 
+**Risk Merkezi**
+
+**EK MADDE 1-** **(Ek: 13/2/2011-6111/149 md.)**
+
+Türkiye Bankalar Birliği nezdinde, kredi kuruluşları ile Kurulca uygun
+görülecek finansal kuruluşların müşterilerinin risk bilgilerini toplamak
+ve söz konusu bilgileri bu kuruluşlar ile gerçek veya tüzel kişilerin
+kendileriyle ya da onay vermeleri koşuluyla özel hukuk tüzel kişileri
+ile de paylaşılmasını sağlamak üzere Risk Merkezi kurulmuştur.
+
+Kredi kuruluşları ile Kurulca uygun görülecek finansal kuruluşlar, Risk
+Merkezine üye olmak zorundadır. Üye kuruluşlar, Risk Merkezince
+istenilen, müşterileri ile ilgili her türlü bilgiyi vermekle yükümlüdür.
+Risk Merkezi, bu yükümlülüğe uymayanlara bilgi akışını durdurmaya
+yetkilidir.
+
+Risk Merkezi, Kurumun ve Merkez Bankasının personeli arasından
+belirleyeceği birer üye dâhil olmak üzere dokuz üyeden oluşan bir
+yönetim tarafından idare edilir. Risk Merkezi yönetimini oluşturan
+üyeler üç yıllık dönem için görev yapmak üzere seçilir.
+
+Risk Merkezi yönetimi, Risk Merkezinin kuruluş amaçları doğrultusunda
+özel hukuk tüzel kişileri ile kamu kurum ve kuruluşlarından, kamu kurumu
+niteliğinde meslek kuruluşları ve bunların üst kuruluşlarından bilgi
+talep etmeye ve bunlarla Kurulun uygun görüşüne istinaden bilgi
+alış-verişine yönelik sözleşmeler imzalamaya yetkilidir. Özel hukuk
+tüzel kişileri ile kamu kurum ve kuruluşları, kamu kurumu niteliğinde
+meslek kuruluşları ve bunların üst kuruluşları Risk Merkezi yönetimi
+tarafından talep edilen bilgileri vermekle yükümlüdürler. Kredi
+kuruluşları ile Kurulca uygun görülecek finansal kuruluşların
+müşterilerinin onay vermesi koşuluyla, Risk Merkezi ile bilgi
+alış-verişi sözleşmesi imzalayan özel hukuk tüzel kişileri ile kamu
+kurum ve kuruluşlarına kamu kurumu niteliğinde meslek kuruluşları ve
+bunların üst kuruluşlarına verilecek, müşterilerin bu kuruluşlar
+nezdindeki risk bilgileri Kanunun 73 üncü maddesinin dördüncü fıkrası
+kapsamında değerlendirilir.
+
+Risk Merkezinin kuruluşuna, faaliyetine ve çalışmasına, Risk Merkezi
+yönetiminin oluşumuna, toplanmasına ve karar almasına, Risk Merkezine
+verilen bilgilerin kapsam, biçim ve içeriğine ve bunların
+paylaşılmasına, paylaşılacak bilgilerin kapsam ve içeriğine,
+ücretlendirilmesine ve üyelerce ödenecek aidatların belirlenmesine
+ilişkin usul ve esaslar, Türkiye Katılım Bankaları Birliği ve Kurul
+tarafından belirlenen finansal kuruluşların üye oldukları meslek
+örgütlerinin görüşü ile Kurulun ve Merkez Bankasının uygun görüşü
+alınarak Türkiye Bankalar Birliğince belirlenir ve Resmi Gazetede
+yayımlanır.
+
+Süresinde üyeler tarafından ödenmeyen aidatlar ve komisyonlar Türkiye
+Bankalar Birliğince kanuni yollara başvurularak tahsil edilir.
+
+Kurum, gerektiğinde Risk Merkezini denetler, denetime ilişkin usul ve
+esaslar Kurum tarafından belirlenir.
+
+Risk Merkezi, topladığı her türlü bilgiyi, Kurum ve Merkez Bankasına
+istenen biçim ve sürede vermekle yükümlüdür. Ayrıca, gerçek ya da tüzel
+kişilerin gerekçesini belirterek risk bilgilerinin kendilerine verilmesi
+için yazılı talepte bulunmaları ya da kredi kuruluşları ile Kurulca
+uygun görülecek finansal kuruluşlar dışındaki bir özel hukuk tüzel
+kişisine bu nitelikteki bilgilerin verilmesi için onay verdiklerinin
+ispat edilmesi halinde bahse konu bilgiler de talepte bulunan tarafça
+karşılanacak belli bir ücret karşılığında verilir.
+
+Risk Merkezinin bütün işlem ve kayıtları gizlidir. Sır sahibinin
+bilgilerinin açıklanması konusunda açık rızasının bulunması durumunda
+belirlediği kişiye risk bilgileri verilir. Kişinin rızasına dayanan
+bilgilerin verilmesine ilişkin usul ve esaslar, Kurulun ve Merkez
+Bankasının uygun görüşü, Türkiye Katılım Bankaları Birliğinin ve Kurulun
+belirleyeceği kurum ve kuruluşların görüşü alınarak Türkiye Bankalar
+Birliğince belirlenir ve Resmi Gazetede yayımlanır.
+
+Risk Merkezi nezdinde bulunan sır niteliğindeki bilgileri, bu konuda
+kanunen yetkili kılınan mercilerden başkalarına açıklayanlar, hukuka
+aykırı olarak kendisi ya da başkası yararına kullananlar, yayanlar,
+verenler, aktaranlar veya ele geçirenler hakkında 159 uncu madde
+hükümleri uygulanır. Bu fıkrada tanımlanan suçların bir tüzel kişinin
+faaliyeti çerçevesinde işlenmesi halinde, ilgili tüzel kişi hakkında
+Türk Ceza Kanununun tüzel kişilere özgü güvenlik tedbirlerine
+hükmolunur.
+
+Risk Merkezi, nezdindeki her türlü bilgi alış-verişini 73 üncü maddenin
+dördüncü fıkrası uyarınca en az beş banka tarafından kurulmuş şirketler
+aracılığı ile ve bu şirketlerle yapılacak sözleşmeler çerçevesinde de
+gerçekleştirebilir.
+
 **GEÇİCİ MADDE 1 —** Bu Kanuna göre çıkarılacak yönetmelik, tebliğ ve
 kararlar yürürlüğe girinceye kadar, kaldırılan hükümlere dayanılarak
 çıkarılan düzenlemelerin, bu Kanuna aykırı olmayan hükümlerinin
@@ -5678,6 +5817,28 @@ halinde de bu maddenin birinci fıkrası hükümleri uygulanır. Bu takdirde
 eklerinde belirtilen sürenin bitiminde başlar. Fonun, taahhüt ihlali
 sebebiyle alıcıdan tazminat isteme hakkı saklıdır.
 
+**GEÇİCİ MADDE 28 –** **(Ek: 13/2/2011-6111/150 md.)**
+
+Risk Merkezinin çalışma usul ve esasları bu maddenin yayımı tarihinden
+itibaren en geç bir yıl içinde ek 1 inci maddenin beşinci ve dokuzuncu
+fıkralarında belirtilen usul çerçevesinde Türkiye Bankalar Birliğince
+belirlenir.
+
+Bu Kanuna göre kurulan Risk Merkezi faaliyete geçinceye kadar, Merkez
+Bankası bünyesinde bulunan Risk Merkezi, 14/1/1970 tarihli ve 1211
+sayılı Türkiye Cumhuriyet Merkez Bankası Kanununun yürürlükten
+kaldırılan 44 üncü maddesi hükümleri uyarınca faaliyetlerini yürütür.
+
+Merkez Bankası nezdindeki Risk Merkezi bilgileri, bu Kanuna göre kurulan
+Risk Merkezine aktarılır.
+
+**GEÇİCİ MADDE 29 –** **(Ek: 13/2/2011-6111/150 md.)**
+
+Kurumun merkezinin İstanbul’a taşınmasına ilişkin iş ve işlemler
+tamamlanıncaya kadar Kurumun idari merkezi Ankara’dır. Merkezin nakli,
+iki yıl içinde tamamlanır. Bakanlar Kurulu bu süreyi uzatmaya
+yetkilidir.
+
 **Yürürlük**
 
 **MADDE 170 —** Bu Kanunun; 90 ve 91 inci maddeleri bu Kanunun yayımı
@@ -6032,15 +6193,28 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5411 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+
   5472                                                                         13, 106, 107, 129, 136, Geçici Madde 24 ve 25                 14/3/2006
+
   Anayasa Mah.nin E.: 2006/20, K.: 2006/25 sayılı Kararı                       105                                                           10/1/2007
+
   Anayasa Mah.’nin E.: 2006/33, K.: 2006/36 sayılı Kararı                      128                                                           10/1/2007
+
   5667                                                                         91, 101, 120, 124                                             30/5/2007
+
   Anayasa Mah.’nin E.: 2005/139, K.: 2007/33 sayılı Kararı                     92, 121, Geçici Madde 23                                      15/12/2008
+
   5754                                                                         73                                                            8/5/2008
+
   5510 (5754 sayılı Kanun ile değişik)                                         Geçici Madde 23                                               1/10/2008
+
   5766                                                                         Geçici Madde 26 ve 27                                         6/6/2008
+
   Anayasa Mah.’nin E.: 2008/66, K.: 2008/131 sayılı Kararı                     132                                                           13/11/2008
+
+  6111                                                                         3, 15, 25, 35, 36, 73, 82, 95, Ek Madde 1,                    25/2/2011
+                                                                                                                                             
+                                                                               Geçici Madde 28 ve 29                                         
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
