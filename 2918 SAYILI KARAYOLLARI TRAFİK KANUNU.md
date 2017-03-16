@@ -1,4 +1,4 @@
-**6495 sayılı Kanun ile değişik hali**
+**6518 sayılı Kanun ile değişik hali**
 
 []{#K5 .anchor}**KARAYOLLARI TRAFİK KANUNU ^(1)\ (2)^**
 
@@ -453,20 +453,25 @@ terimlerle ilgili olarak vergi kanunları hükümleri saklıdır.
 
 *Kuruluşlar, Komisyonlar, Görev ve Yetkileri ^(1)^*
 
-*Görevli kurullar ve kuruluşlar: ^(1)^*
+*Görevli kurullar ve kuruluşlar: ^(1)(2)^*
 
 **Madde 4 – (Değişik: 17/10/1996 - 4199/2 md.)**
 
 Karayolu güvenliği konusunda hedefleri tespit etmek, uygulatmak ve
 koordinasyonu sağlamak amacıyla aşağıdaki kurullar oluşturulmuştur.
 
-a\) Karayolu Güvenliği Yüksek Kurulu;
+a\) **(Değişik birinci paragraf: 6/2/2014-6518/31 md.)** Karayolu
+Güvenliği Yüksek Kurulu;
 
-Karayolu Güvenliği Yüksek Kurulu Başbakanın başkanlığında, Adalet,
-İçişleri, Maliye, Milli Eğitim, Bayındırlık ve İskan, Sağlık, Ulaştırma,
-Orman Bakanları ve Köy Hizmetleri Genel Müdürlüğünün Bağlı Olduğu Bakan
-ile Jandarma Genel Komutanı, Başbakanlık Devlet Planlama Teşkilatı
-Müsteşarı, Emniyet Genel Müdürü ve Karayolları Genel Müdüründen oluşur.
+Karayolu Güvenliği Yüksek Kurulu, Başbakanın veya görevlendireceği
+Başbakan Yardımcısının başkanlığında, Adalet Bakanı, Aile ve Sosyal
+Politikalar Bakanı, Bilim, Sanayi ve Teknoloji Bakanı, Çevre ve
+Şehircilik Bakanı, İçişleri Bakanı, Kalkınma Bakanı, Maliye Bakanı,
+Millî Eğitim Bakanı, Orman ve Su İşleri Bakanı, Sağlık Bakanı,
+Ulaştırma, Denizcilik ve Haberleşme Bakanı ile Jandarma Genel Komutanı,
+Emniyet Genel Müdürü ve Karayolları Genel Müdüründen oluşur. Karayolu
+Trafik Güvenliği Kurulu Başkanı, gerektiğinde Kurula bilgi sunmak üzere
+toplantıda hazır bulunur.
 
 Gereği halinde diğer bakanlar da Kurula çağrılabilir.
 
@@ -475,8 +480,8 @@ hazırlanarak, Karayolu Trafik Güvenliği Kurulunca uygun görülen
 önerileri değerlendirerek karara bağlar ve kararlarının yaşama
 geçirilmesi için gerekli koordinasyon önlemlerini belirler.
 
-Kurul yılda iki defa olağan, Başbakanın gerek görmesi halinde de
-olağanüstü olarak, gündemle toplanır.
+Kurul yılda bir defa olağan, Başbakanın gerek görmesi halinde de
+olağanüstü olarak, gündemle toplanır. ^(2)^
 
 Kurulun sekreterya görevi Emniyet Genel Müdürlüğünce yapılır.
 
@@ -496,8 +501,8 @@ Trafik Kazaları Yardım Vakfının birer temsilcisi ve Başkent Büyükşehir
 Belediye Başkanından oluşur. İhtiyaç duyulan konularda bilgilerine
 başvurmak üzere diğer kurum ve kuruluşlardan temsilci çağrılabilir.
 
-Kurul ayda bir toplanır, zorunlu hallerde başkan tarafından toplantıya
-çağrılabilir.
+Kurul üç ayda bir toplanır, zorunlu hallerde başkan tarafından
+toplantıya çağrılabilir. ^(2)^
 
 Karayolu Trafik Güvenliği Kurulu, Trafik Hizmetleri Başkanlığınca Trafik
 hizmetlerinin çağdaş ve güvenli bir şekilde yürütülmesi amacıyla
@@ -513,6 +518,11 @@ Kurulun sekreterya görevi ilgili daire başkanlığınca yapılır.
 
 *(1) Kısım başlığı ile madde başlığı, 17/10/1996 tarih ve 4199 sayılı
 Kanunun 2 nci maddesi ile değiştirilmiş ve metne işlenmiştir.*
+
+*(2) 6/2/2014 tarihli ve 6518 sayılı Kanunun 31 inci maddesiyle, bu
+maddenin dördüncü paragrafında yer alan “iki” ibaresi “bir” şeklinde,
+(b) bendinin ikinci paragrafında yer alan “ayda” ibaresi “üç ayda”
+şeklinde değiştirilmiştir.*
 
 6052-2
 
@@ -5107,13 +5117,6 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 6100-1/6106-5
 
-**2918 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
-
-**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
-YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
-
-**GÖSTERİR LİSTE**
-
   --------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**        **2918 sayılı Kanunun değişen veya iptal edilen maddeleri**                                **Yürürlüğe Giriş Tarihi**
 
@@ -5150,6 +5153,8 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   6495                                                                              3                                                                                          1/8/2013
                                                                                                                                                                                
                                                                                     8, 38, 39, 40, 41, 42, 45, 112, 114, 115, 119, Ek Madde 13, Ek Madde 17, Geçici Madde 22   2/8/2013
+
+  6518                                                                              4                                                                                          19/2/2014
   --------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------
 
 
