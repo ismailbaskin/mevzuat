@@ -1,4 +1,4 @@
-**5917 sayılı Kanun ile değişik hali**
+**6114 sayılı Kanun ile değişik hali**
 
 POLİS YÜKSEK ÖĞRETİM KANUNU
 
@@ -339,9 +339,8 @@ okulları açılır.
 
 Polis meslek yüksek okullarına Öğrenci Seçme ve Yerleştirme Merkezi
 tarafından yapılan Öğrenci Seçme Sınavını kazanan ve Bakanlıkça ihtiyaç
-duyulduğu kadar genel lise, erkek teknik öğretim, kız teknik öğretim ve
-ticaret ve turizm öğretimine bağlı okul mezunları arasından yapılacak
-özel yetenek sınavında başarılı olanlar alınır.
+duyulduğu kadar lise ve dengi okulları bitirenler arasından yapılacak
+özel yetenek sınavında başarılı olanlar alınır. ^(1)^
 
 Polis meslek yüksek okullarında eğitim-öğretim süresi iki yıldır.
 
@@ -377,6 +376,13 @@ görüşlerini de eklemek suretiyle Genel Müdürlüğe vermek,
 e\) Akademinin, fakültenin, enstitünün ve polis meslek yüksek okullarının
 yatırım programlarını ve bütçe tekliflerini, kadro ihtiyaçlarını Genel
 Müdürlüğe bildirmek ve verilecek emirler doğrultusunda uygulamak,
+
+––––––––––––––––––––
+
+*(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 14 üncü maddesiyle, bu
+fıkrada yer alan “genel lise, erkek teknik öğretim, kız teknik öğretim
+ve ticaret ve turizm öğretimine bağlı okul mezunları” ibaresi “lise ve
+dengi okulları bitirenler” şeklinde değiştirilmiştir.*
 
 f\) Gerekli gördüğü hallerde Akademide görevli öğretim elemanlarının
 Akademideki görevlerine son verilmesi veya görev yerlerinin
@@ -520,9 +526,9 @@ eğitim-öğretim ve araştırma faaliyetlerinin düzenli ve verimli bir
 hizmet yükümlülüğü ile evlenme yasağı**
 
 **MADDE 15 —** Fakültenin esas öğrenci kaynağı polis kolejidir. İhtiyaç
-halinde, genel lise, erkek teknik öğretim, kız teknik öğretim ve ticaret
-ve turizm öğretimine bağlı okul mezunları arasından yönetmelikle
+halinde, lise ve dengi okulları bitirenler arasından yönetmelikle
 belirtilecek şartları taşıyan öğrenciler de fakülteye alınabilirler.
+^(1)^
 
 İlgili devletlerle yapılacak ikili anlaşmalara bağlı olarak yabancı
 uyruklu öğrencilerin Akademiye kabul edilmeleri Bakanın onayı ile olur.
@@ -591,6 +597,13 @@ kaybedenler.
 e\) Sağlık kurullarınca verilecek raporlara dayalı olarak Akademide
 öğrenime devam imkanı kalmadığı Genel Müdürlük sağlık komisyonunca
 belirlenenler.
+
+––––––––––––––––––––
+
+*(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 14 üncü maddesiyle, bu
+fıkrada yer alan “genel lise, erkek teknik öğretim, kız teknik öğretim
+ve ticaret ve turizm öğretimine bağlı okul mezunları” ibaresi “lise ve
+dengi okulları bitirenler” şeklinde değiştirilmiştir.*
 
 f\) Giriş ile ilgili nitelikleri taşımadıkları öğrenim sırasında
 anlaşılanlar.
@@ -1078,6 +1091,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4652 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5917                                                                         25, GEÇİCİ MADDE 4                                            1/1/2010
+  6114                                                                         10, 15                                                        3/3/2011
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
