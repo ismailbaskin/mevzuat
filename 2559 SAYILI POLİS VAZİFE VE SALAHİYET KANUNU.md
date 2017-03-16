@@ -1,91 +1,73 @@
-5681 sayılı Kanun ile değişik hali 
+6495 sayılı Kanun ile değişik hali
 
-[]{#K11 .anchor}** **
+[]{#K11 .anchor}POLİS VAZİFE VE SALȂHİYET KANUNU^(1)(2)(3)^
 
-**POLİS VAZİFE VE SALAHİYET KANUNU (1)(2)**
+Kanun Numarası : 2559
 
- 
+Kabul Tarihi : 4/7/1934
 
-          Kanun Numarası           : 2559
+Yayımlandığı R. Gazete : Tarih : 14/7/1934 Sayı : 2751
 
-          Kabul Tarihi                 : 4/7/1934
+Yayımlandığı Düstur : Tertip : 3 Cilt : 15 Sayfa : 575
 
-          Yayımlandığı R. Gazete            : Tarih : 14/7/1934   Sayı :
-2751
+Bu Kanunun yürürlükte olmayan hükümleri için bakınız.
 
-          Yayımlandığı Düstur     : Tertip : 3   Cilt : 15   Sayfa : 575
+"Yürürlükteki Bazı Kanunların Mülga Hükümleri Külliyatı",
 
- 
+Cilt : 1 Sayfa : 225
 
-\*
+Bu Kanun ile ilgili tüzük için, "Tüzükler Külliyatı"nın kanunlara
 
-\* \*
+göre düzenlenen nümerik fihristine bakınız.
 
-*Bu Kanunun yürürlükte olmayan hükümleri için bakınız.*
+Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren
 
-*"Yürürlükteki Bazı Kanunların Mülga Hükümleri Külliyatı",*
+yönetmelik için, "Yönetmelikler Külliyatı "nın kanunlara göre
 
-*Cilt : 1               Sayfa : 225*
+düzenlenen nümerik fihristine bakınız.
 
-* *
+**Madde 1 –** Polis, asayişi amme, şahıs, tasarruf emniyetini ve mesken
+masuniyetini korur. Halkın ırz, can ve malını muhafaza ve ammenin
+istirahatini temin eder.
 
-*Bu Kanun ile ilgili tüzük için, "Tüzükler Külliyatı"nın kanunlara*
+Yardım istiyenlerle yardıma muhtaç olan çocuk, alil ve acizlere muavenet
+eder. Kanun ve nizamnamelerinin kendisine verdiği vazifeleri yapar.
 
-*göre düzenlenen nümerik fihristine bakınız.*
+**Madde 2 – (Değişik: 16/7/1965 - 694/2 md.)**
 
-* *
+Polisin genel emniyetle ilgili görevleri iki kısımdır.
 
-*Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren*
-
-*yönetmelik için, "Yönetmelikler Külliyatı "nın kanunlara göre*
-
-*düzenlenen nümerik fihristine bakınız.*
-
- 
-
-\*
-
-\* \*
-
-             **Madde 1 –** Polis, asayişi amme, şahıs, tasarruf
-emniyetini ve mesken masuniyetini korur. Halkın ırz, can ve malını
-muhafaza ve ammenin istirahatini temin eder.
-
-             Yardım istiyenlerle yardıma muhtaç olan çocuk, alil ve
-acizlere muavenet eder. Kanun ve nizamnamelerinin kendisine verdiği
-vazifeleri yapar.
-
-             **Madde 2 – (Değişik: 16/7/1965 - 694/2 md.)**
-
-             Polisin genel emniyetle ilgili görevleri iki kısımdır.
-
-             A) Kanunlara, tüzüklere, yönetmeliklere, Hükümet emirlerine
-ve kamu düzenine uygun olmıyan hareketlerin işlenmesinden önce bu kanun
+A\) Kanunlara, tüzüklere, yönetmeliklere, Hükümet emirlerine ve kamu
+düzenine uygun olmıyan hareketlerin işlenmesinden önce bu kanun
 hükümleri dairesinde önünü almak,
 
-             B) İşlenmiş olan bir suç hakkında Ceza Muhakemeleri Usulü
-Kanunu ile diğer kanunlarda yazılı görevleri yapmak,
+B\) İşlenmiş olan bir suç hakkında Ceza Muhakemeleri Usulü Kanunu ile
+diğer kanunlarda yazılı görevleri yapmak,
 
-             Kamu düzeni ve kamu güvenliğinin sağlanmasından sorumlu
-olan polis; amirinden aldığı emri, kanun, tüzük ve yönetmelik
-hükümlerine aykırı görürse, yerine getirmez ve bu aykırılığı emri verene
-bildirir. Ancak, amir emrinde ısrar eder ve bu emrini yazılı olarak
-yenilerse, emir yerine getirilir. Bu halde, emri yerine getiren sorumlu
-olmaz. Konusu suç teşkil eden emir hiçbir suretle yerine getirilmez.
-Yerine getirenler sorumluluktan kurtulamaz.
-
- 
+Kamu düzeni ve kamu güvenliğinin sağlanmasından sorumlu olan polis;
+amirinden aldığı emri, kanun, tüzük ve yönetmelik hükümlerine aykırı
+görürse, yerine getirmez ve bu aykırılığı emri verene bildirir. Ancak,
+amir emrinde ısrar eder ve bu emrini yazılı olarak yenilerse, emir
+yerine getirilir. Bu halde, emri yerine getiren sorumlu olmaz. Konusu
+suç teşkil eden emir hiçbir suretle yerine getirilmez. Yerine getirenler
+sorumluluktan kurtulamaz.
 
 ——————————
 
-*(1)     Bu Kanunun 10/3/1983 tarih ve 2803 sayılı Kanuna aykırı
-hükümleri, aynı Kanunun 25 inci maddesinin b/2 fıkrası gereğince
-Jandarma Teşkilatı için uygulanmaz.*
+\(1) Bu Kanunun 10/3/1983 tarih ve 2803 sayılı Kanuna aykırı hükümleri,
+aynı Kanunun 25 inci maddesinin b/2 fıkrası gereğince Jandarma Teşkilatı
+için uygulanmaz.
 
-*(2)  Bu Kanunda, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi
-Kanunu hükümlerine  aykırılık bulunması durumunda, 5302 sayılı Kanun
-hükümlerinin uygulanacağı,  söz konusu Kanunun 70 inci maddesi ile hüküm
-altına alınmıştır.*
+*(2) Bu Kanunda, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu
+hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun
+hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm
+altına alınmıştır. *
+
+*(3) 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunun 84 üncü
+maddesiyle; bu Kanunda, belediyenin sorumlu ve yetkili kılındığı görev
+ve hizmetlerle sınırlı olarak, 5393 sayılı Belediye Kanunu hükümlerine
+aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı
+hüküm altına alınmıştır.*
 
 1410
 
@@ -1069,9 +1051,7 @@ olarak yetkilendireceği kişi veya komisyon…” ibaresi iptal edilmiştir.*
 
 1422
 
- 
-
-**             (Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddede belirtilen
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddede belirtilen
 te­le­ko­mü­ni­kas­yon yo­luy­la ya­pı­lan ile­ti­şi­me iliş­kin
 işlemler ile 5271 sayılı Kanunun 135 inci maddesi kapsamında yapılacak
 dinlemeler, Telekomünikasyon Kurumu bünyesinde, Kurum başkanına doğrudan
@@ -1092,52 +1072,45 @@ alımları ile yapım işleri, ceza ve ihalelerden yasaklama işleri hariç
 4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri
 Kanunu hükümlerinden muaftır.^(1)(2)^
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddede belirlenen
-usûl ve esaslara aykırı dinlemeler hukuken geçerli sayılmaz ve bu
-şekilde dinleme yapanlar hakkında 26.9.2004 tarihli ve 5237 sayılı Türk
-Ceza Kanunu hükümlerine göre işlem yapılır.
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddede belirlenen usûl ve
+esaslara aykırı dinlemeler hukuken geçerli sayılmaz ve bu şekilde
+dinleme yapanlar hakkında 26.9.2004 tarihli ve 5237 sayılı Türk Ceza
+Kanunu hükümlerine göre işlem yapılır.
 
-             **(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddenin
-uygulanmasına ilişkin esas ve usûller Adalet, İçişleri ve Ulaştırma
-bakanlıklarının görüşü alınarak Başbakanlık tarafından üç ay içinde
-çıkarılacak yönetmelikle düzenlenir.
+**(Ek fıkra: 3/7/2005 – 5397/1 md.)** Bu maddenin uygulanmasına ilişkin
+esas ve usûller Adalet, İçişleri ve Ulaştırma bakanlıklarının görüşü
+alınarak Başbakanlık tarafından üç ay içinde çıkarılacak yönetmelikle
+düzenlenir.
 
-             **Ek Madde 8 – (Ek:16/6/1985 - 3233/7 md.; Mülga:
-24/11/2004-5259/8 md.)**
+**Ek Madde 8 – (Ek:16/6/1985 - 3233/7 md.; Mülga: 24/11/2004-5259/8
+md.)**
 
-             **Ek Madde 9 – (Ek: 16/6/1985 - 3233/7 md.)**
+**Ek Madde 9 – (Ek: 16/6/1985 - 3233/7 md.)**
 
-             Bu Kanun ve diğer kanun hükümlerine göre gerekli hallerde;
+Bu Kanun ve diğer kanun hükümlerine göre gerekli hallerde;
 
-             A) Önleyici, caydırıcı, düzenleyici ve koruyucu kolluk
-hizmetlerine dair görevlerin ifası sırasında silah kullanmak zorunda
-kalan polis hakkında, cezai sorumluluğun tespiti bakımından Memurin
-Muhakematı Hakkında Kanuna göre işlem yapılır.
+A\) Önleyici, caydırıcı, düzenleyici ve koruyucu kolluk hizmetlerine dair
+görevlerin ifası sırasında silah kullanmak zorunda kalan polis hakkında,
+cezai sorumluluğun tespiti bakımından Memurin Muhakematı Hakkında Kanuna
+göre işlem yapılır.
 
-             B) Adliyeye ilişkin vazife ve işlerle ilgili bir hizmeti
-yerine getirirken silah kullanmak zorunda kalan polis hakkında, hazırlık
+B\) Adliyeye ilişkin vazife ve işlerle ilgili bir hizmeti yerine
+getirirken silah kullanmak zorunda kalan polis hakkında, hazırlık
 soruşturması bizzat Cumhuriyet savcıları veya yardımcıları tarafından
 yapılır.
 
-             Sanık polis, hakkında dava açıldığı takdirde duruşmadan
-vareste tutulabilir. Olayın mahiyetine ve kusurun derecesine göre,
-İçişleri Bakanlığınca durumu uygun görülen polisin vekalet verdiği
-avukatın ücreti, Emniyet Genel Müdürlüğü bütçesine konulacak ödenekten
+Sanık polis, hakkında dava açıldığı takdirde duruşmadan vareste
+tutulabilir. Olayın mahiyetine ve kusurun derecesine göre, İçişleri
+Bakanlığınca durumu uygun görülen polisin vekalet verdiği avukatın
+ücreti, Emniyet Genel Müdürlüğü bütçesine konulacak ödenekten
 karşılanır. Avukat tutma ve ücret ödeme usul ve esasları yönetmelikte
 gösterilir.
 
-             Polisin, kanunlarla verilen görevlerini yaptığı sırada veya
-bu görevlerini yapmasından dolayı şehit olması halinde, dul eşine, eşi
-hayatta değilse veya evlenmişse çocuklarına, bunlar bulunmadığı takdirde
-bakmakla mükellef olduğu ana ve babasına; konut sahibi yapmak amacıyla,
-Toplu Konut Fonundan miktarı ödemesiz devresi ve ödeme süresi Toplu
-Konut ve Kamu Ortaklığı Yüksek Kurulunca tayin edilecek esaslara göre ve
-faizsiz olarak kredi verilir. Bu fıkra hükmü, 1 Ocak 1971 tarihinden
-itibaren şehit olan polislerin aileleri hakkında da tatbik olunur.
+**(Mülga üçüncü fıkra: 12/7/2013-6495/102 md.)**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1)  4/5/2007 tarihli ve 5651 sayılı Kanunun 12 nci maddesiyle bu
+*(1) 4/5/2007 tarihli ve 5651 sayılı Kanunun 12 nci maddesiyle bu
 fıkranın birinci cümlesinde yer alan “be­lir­ti­len” iba­re­sin­den
 son­ra gel­mek üze­re “te­le­ko­mü­ni­kas­yon yo­luy­la ya­pı­lan
 ile­ti­şi­me iliş­kin” iba­re­si ek­len­miş ve metne işlenmiştir.*
@@ -1146,8 +1119,6 @@ ile­ti­şi­me iliş­kin” iba­re­si ek­len­miş ve metne işlenmiştir.
 sayılı Kararı ile; bu fıkrada yer alan “Telekomünikasyon İletişim
 Başkanı, Telekomünikasyon Kurumu Başkanının teklifi üzerine Başbakan
 tarafından atanır.” biçimindeki beşinci cümlesi iptal edilmiştir.*
-
- 
 
 1422-1
 
@@ -1290,6 +1261,8 @@ GÖSTERİR LİSTE**
   **5651**                                                                          **Ek Madde 7**                                                **23/5/2007**
 
   **5681**                                                                          **3, 4/A, 5, 9, 16, 17 ve Ek Madde 6**                        **14/6/2007**
+
+  **6495**                                                                          **Ek Madde 9**                                                **2/8/2013**
   --------------------------------------------------------------------------------- ------------------------------------------------------------- -------------------------------------------------------
 
 
