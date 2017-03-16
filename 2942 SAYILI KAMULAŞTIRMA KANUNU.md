@@ -1,4 +1,4 @@
-**6427 sayılı Kanun ile değişik hali **
+**6487 sayılı Kanun ile değişik hali **
 
  
 
@@ -391,96 +391,95 @@ tarihli ve 4650 sayılı Kanunun 5 inci maddesiyle  metne işlendiği
 
 6206-2
 
- 
+h\) Konuya ve taşınmaz malın değerine ilişkin tüm savunma ve delilleri,
+tebliğ tarihinden itibaren on gün içinde mahkemeye yazılı olarak
+bildirmeleri gerektiği,
 
-             h) Konuya ve taşınmaz malın değerine ilişkin tüm savunma ve
-delilleri, tebliğ tarihinden itibaren on gün içinde mahkemeye yazılı
-olarak bildirmeleri gerektiği,
+Belirtilir.
 
-             Belirtilir.
-
-             Mahkemece, kamulaştırılacak taşınmaz malın bulunduğu yerde
-mahalli gazete çıkıyor ise, bu mahalli gazetelerden birisinde ve Türkiye
+Mahkemece, kamulaştırılacak taşınmaz malın bulunduğu yerde mahalli
+gazete çıkıyor ise, bu mahalli gazetelerden birisinde ve Türkiye
 genelinde yayımlanan gazetelerin birisinde kamulaştırmanın ve belgelerin
 özeti en az bir defa yayımlanır.
 
-             Mahkemece belirlenen günde yapılacak duruşmada hakim,
-taşınmaz malın bedeli konusunda tarafları anlaşmaya davet eder.
-Tarafların bedelde anlaşması halinde hakim, taraflarca anlaşılan bu
-bedeli kamulaştırma bedeli olarak kabul eder ve sekizinci fıkrının
-ikinci ve devamı cümleleri uyarınca işlem yapar.
+Mahkemece belirlenen günde yapılacak duruşmada hakim, taşınmaz malın
+bedeli konusunda tarafları anlaşmaya davet eder. Tarafların bedelde
+anlaşması halinde hakim, taraflarca anlaşılan bu bedeli kamulaştırma
+bedeli olarak kabul eder ve sekizinci fıkrının ikinci ve devamı
+cümleleri uyarınca işlem yapar.
 
-             Mahkemece yapılan duruşmada tarafların bedelde
-anlaşamamaları halinde hakim, en geç on gün içinde keşif ve otuz gün
-sonrası için de duruşma günü tayin ederek, 15 inci maddede sayılan
-bilirkişiler marifetiyle ve tüm ilgililerin huzurunda taşınmaz malın
-değerini tespit için mahallinde keşif yapar. Yapılacak keşifte, taşınmaz
-malın bulunduğu yerin bağlı olduğu köy veya mahalle muhtarının da hazır
-bulunması amacıyla, muhtara da davetiye çıkartılır ve keşifte hazır
-bulunması temin edilerek, muhtarın beyanı da alınır.
+Mahkemece yapılan duruşmada tarafların bedelde anlaşamamaları halinde
+hakim, en geç on gün içinde keşif ve otuz gün sonrası için de duruşma
+günü tayin ederek, 15 inci maddede sayılan bilirkişiler marifetiyle ve
+tüm ilgililerin huzurunda taşınmaz malın değerini tespit için mahallinde
+keşif yapar. Yapılacak keşifte, taşınmaz malın bulunduğu yerin bağlı
+olduğu köy veya mahalle muhtarının da hazır bulunması amacıyla, muhtara
+da davetiye çıkartılır ve keşifte hazır bulunması temin edilerek,
+muhtarın beyanı da alınır.
 
-             Bilirkişiler, taraflar ve diğer ilgililerin beyanını da
-dikkate alarak, 11 inci maddedeki esaslar doğrultusunda taşınmaz malın
-değerini belirten raporlarını onbeş gün içinde mahkemeye verirler.
-Mahkeme bu raporu, duruşma günü beklenmeksizin taraflara tebliğ eder.
-Yapılacak duruşmaya hakim, taraflar veya vekillerini ve bilirkişileri
-çağırır. Bu duruşmada tarafların bilirkişi raporlarına varsa itirazları
-dinlenir ve bilirkişilerin bu itirazlara karşı beyanları alınır.
+Bilirkişiler, taraflar ve diğer ilgililerin beyanını da dikkate alarak,
+11 inci maddedeki esaslar doğrultusunda taşınmaz malın değerini belirten
+raporlarını onbeş gün içinde mahkemeye verirler. Mahkeme bu raporu,
+duruşma günü beklenmeksizin taraflara tebliğ eder. Yapılacak duruşmaya
+hakim, taraflar veya vekillerini ve bilirkişileri çağırır. Bu duruşmada
+tarafların bilirkişi raporlarına varsa itirazları dinlenir ve
+bilirkişilerin bu itirazlara karşı beyanları alınır.
 
-             Tarafların bedelde anlaşamamaları halinde gerektiğinde
-hakim tarafından onbeş gün içinde sonuçlandırılmak üzere yeni bir
-bilirkişi kurulu tayin edilir ve hakim, tarafların ve bilirkişilerin
-rapor veya raporları ile beyanlarından yararlanarak adil ve hakkaniyete
-uygun bir kamulaştırma bedeli tespit eder. Mahkemece tespit edilen bu
-bedel, taşınmaz mal, kaynak veya irtifak hakkının kamulaştırılma
-bedelidir. Tarafların anlaştığı veya tarafların anlaşamaması halinde
-hakim tarafından kamulaştırma bedeli olarak tespit edilen miktarın,
-peşin ve nakit olarak veya kamulaştırma bu Kanunun 3 üncü maddesinin
-ikinci fıkrasına göre yapılmış ise, ilk taksitin yine peşin ve nakit
-olarak hak sahibi adına, hak sahibi tespit edilememiş ise ileride ortaya
-çıkacak hak sahibine verilmek üzere 10 uncu maddeye göre mahkemece
-yapılacak davetiye ve ilanda belirtilen bankaya yatırılması ve
-yatırıldığına dair makbuzun ibraz edilmesi için idareye onbeş gün süre
-verilir. Gereken hallerde bu süre bir defaya mahsus olmak üzere
-mahkemece uzatılabilir. İdarece, kamulaştırma bedelinin hak sahibi adına
-yatırıldığına veya hak sahibinin tespit edilemediği durumlarda, ileride
-ortaya çıkacak hak sahibine verilmek üzere bloke edildiğine dair
-makbuzun ibrazı halinde mahkemece, taşınmaz malın idare adına tesciline
-ve kamulaştırma bedelinin hak sahibine ödenmesine karar verilir ve bu
-karar, tapu dairesine ve paranın yatırıldığı bankaya bildirilir. Tescil
-hükmü kesin olup tarafların bedele ilişkin temyiz hakları saklıdır.
-
-             Bu maddede öngörülen işlemler, mahkemenin davetine
-uymayanlar olduğu takdirde ilgilinin yokluğunda yapılır.
-
-             Hak sahibinin tespit edilemediği durmlarda mahkemece,
-kamulaştırma bedelinin üçer aylık vadeli hesaba dönüştürülerek
-nemalandırılması amacıyla gerekli tedbirler alınır.
-
-             Kamulaştırılması yapılan taşınmaz mal, tahsis edildiği kamu
-hizmeti itibariyle sicile kaydı gerekmeyen bir niteliğe dönüşmüş ise,
-istek halinde mahkemece sicil kaydının terkinine karar verilir.
-
-             Bu tescil ve terkin işlemi sırasında mal sahiplerinin bu
-taşınmaz mal nedeniyle vergi ilişiksi aranmaz. Ancak, tapu dairesi
-durumu ilgili vergi dairesine bildirir.
+Tarafların bedelde anlaşamamaları halinde gerektiğinde hakim tarafından
+onbeş gün içinde sonuçlandırılmak üzere yeni bir bilirkişi kurulu tayin
+edilir ve hakim, tarafların ve bilirkişilerin rapor veya raporları ile
+beyanlarından yararlanarak adil ve hakkaniyete uygun bir kamulaştırma
+bedeli tespit eder. Mahkemece tespit edilen bu bedel, taşınmaz mal,
+kaynak veya irtifak hakkının kamulaştırılma bedelidir. Tarafların
+anlaştığı veya tarafların anlaşamaması halinde hakim tarafından
+kamulaştırma bedeli olarak tespit edilen miktarın, peşin ve nakit olarak
+veya kamulaştırma bu Kanunun 3 üncü maddesinin ikinci fıkrasına göre
+yapılmış ise, ilk taksitin yine peşin ve nakit olarak hak sahibi adına,
+hak sahibi tespit edilememiş ise ileride ortaya çıkacak hak sahibine
+verilmek üzere 10 uncu maddeye göre mahkemece yapılacak davetiye ve
+ilanda belirtilen bankaya yatırılması ve yatırıldığına dair makbuzun
+ibraz edilmesi için idareye onbeş gün süre verilir. Gereken hallerde bu
+süre bir defaya mahsus olmak üzere mahkemece uzatılabilir. İdarece,
+kamulaştırma bedelinin hak sahibi adına yatırıldığına veya hak sahibinin
+tespit edilemediği durumlarda, ileride ortaya çıkacak hak sahibine
+verilmek üzere bloke edildiğine dair makbuzun ibrazı halinde mahkemece,
+taşınmaz malın idare adına tesciline ve kamulaştırma bedelinin hak
+sahibine ödenmesine karar verilir ve bu karar, tapu dairesine ve paranın
+yatırıldığı bankaya bildirilir. Tescil hükmü kesin olup tarafların
+bedele ilişkin temyiz hakları saklıdır.
 
 6206-3
 
- 
+**(Ek fıkra: 11/4/2013-6459/6 md.)** Kamulaştırma bedelinin tespiti için
+açılan davanın dört ay içinde sonuçlandırılamaması hâlinde, tespit
+edilen bedele bu sürenin bitiminden itibaren kanuni faiz işletilir.
 
-             14 üncü maddede belirtilen süre içinde, kamulaştırma
-işlemine karşı hak sahipleri tarafından idari yargıda iptal davası
-açılması ve idari yargı mahkemelerince de yürütmenin durdurulması kararı
-verilmesi halinde mahkemece, idari yargıda açılan dava bekletici mesele
-kabul edilerek bunun sonucuna göre işlem yapılır.
+Bu maddede öngörülen işlemler, mahkemenin davetine uymayanlar olduğu
+takdirde ilgilinin yokluğunda yapılır.
 
-             Kamulaştırma işlemine karşı idari yargıda iptal veya maddi
-hatalara karşı adli mahkemelerde açılacak düzeltim davalarında hangi
-idareye husumet yöneltileceğinin davetiye ve ilanda açıkça belirtilmemiş
-veya yanlış gösterilmiş olması nedeniyle davada husumet yanlış
-yöneltilmiş ise, gerçek hasma tebligat yapılmak suretiyle davaya devam
-olunur.
+Hak sahibinin tespit edilemediği durmlarda mahkemece, kamulaştırma
+bedelinin üçer aylık vadeli hesaba dönüştürülerek nemalandırılması
+amacıyla gerekli tedbirler alınır.
+
+Kamulaştırılması yapılan taşınmaz mal, tahsis edildiği kamu hizmeti
+itibariyle sicile kaydı gerekmeyen bir niteliğe dönüşmüş ise, istek
+halinde mahkemece sicil kaydının terkinine karar verilir.
+
+Bu tescil ve terkin işlemi sırasında mal sahiplerinin bu taşınmaz mal
+nedeniyle vergi ilişiksi aranmaz. Ancak, tapu dairesi durumu ilgili
+vergi dairesine bildirir.
+
+14 üncü maddede belirtilen süre içinde, kamulaştırma işlemine karşı hak
+sahipleri tarafından idari yargıda iptal davası açılması ve idari yargı
+mahkemelerince de yürütmenin durdurulması kararı verilmesi halinde
+mahkemece, idari yargıda açılan dava bekletici mesele kabul edilerek
+bunun sonucuna göre işlem yapılır.
+
+Kamulaştırma işlemine karşı idari yargıda iptal veya maddi hatalara
+karşı adli mahkemelerde açılacak düzeltim davalarında hangi idareye
+husumet yöneltileceğinin davetiye ve ilanda açıkça belirtilmemiş veya
+yanlış gösterilmiş olması nedeniyle davada husumet yanlış yöneltilmiş
+ise, gerçek hasma tebligat yapılmak suretiyle davaya devam olunur.
 
 6207
 
@@ -1417,88 +1416,102 @@ kadar bilirkişiler önceki hükme göre seçilir.
 
 6218-1
 
-*Kamulaştırmasız el koyma sebebiyle tazmin *
+*Kamulaştırılmaksızın kamu hizmetine ayrılan taşınmazların bedel
+tespiti^(1)^*
 
-**Geçici Madde 6 – (Ek: 18/6/2010-5999/1 md.)**
+**Geçici Madde 6 – (Ek: 18/6/2010-5999/1 md.; Değişik: 24/5/2013-6487/
+21 md.)**
 
 Kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış
 olmasına rağmen 9/10/1956 tarihi ile 4/11/1983 tarihi arasında fiilen
 kamu hizmetine ayrılan veya kamu yararına ilişkin bir ihtiyaca tahsis
 edilerek üzerinde tesis yapılan taşınmazlara veya kaynaklara kısmen veya
 tamamen veyahut irtifak hakkı tesis etmek suretiyle malikin rızası
-olmaksızın fiili olarak el konulması sebebiyle, malik tarafından ilgili
-idareden tazminat talebinde bulunulması halinde, öncelikle uzlaşma
-yoluna gidilmesi esastır.
+olmaksızın fiili olarak el konulması sebebiyle, mülkiyet hakkından doğan
+talepler, bedel talep edilmesi hâlinde bedel tespiti ve diğer işlemler
+bu madde hükümlerine göre yapılır. Bu maddeye göre yapılacak işlemlerde
+öncelikle uzlaşma usulünün uygulanması dava şartıdır.
 
-Tazminat müracaatı üzerine, fiilen el konulan taşınmazın veya üzerinde
-tesis edilen irtifak hakkının malikin müracaat ettiği tarihteki tahmini
-değeri; bu Kanunun 8 inci maddesinin ikinci fıkrasına göre teşkil edilen
-kıymet takdir komisyonu marifetiyle, taşınmazın el koyma tarihindeki
-nitelikleri esas alınmak ve bu Kanunun 11 inci ve 12 nci maddelerine
-göre hesaplanmak suretiyle tespit edilir. Tespitten sonra, bu Kanunun 8
-inci maddesinin üçüncü fıkrasına göre teşkil olunan uzlaşma
-komisyonunca, müracaat tarihinden itibaren en geç altı ay içerisinde
-7201 sayılı Kanun hükümlerine göre tebliğ edilen bir yazı ile, tahmini
-değer bildirilmeksizin, talep sahibi uzlaşma görüşmelerine davet edilir.
+İdarenin daveti veya malikin müracaatı üzerine, fiilen el konulan
+taşınmazın veya üzerinde tesis edilen irtifak hakkının idarenin daveti
+veya malikin müracaat ettiği tarihteki tahmini değeri; bu Kanunun 8 inci
+maddesinin ikinci fıkrasına göre teşkil edilen kıymet takdir komisyonu
+marifetiyle, taşınmazın el koyma tarihindeki nitelikleri esas alınmak ve
+bu Kanunun 11 inci ve 12 nci maddelerine göre hesaplanmak suretiyle
+tespit edilir. Tespitten sonra, bu Kanunun 8 inci maddesinin üçüncü
+fıkrasına göre teşkil olunan uzlaşma komisyonunca, idarenin daveti veya
+malikin müracaat tarihinden itibaren en geç altı ay içinde 7201 sayılı
+Kanun hükümlerine göre tebliğ edilen bir yazı ile, tahmini değer
+bildirilmeksizin, talep sahibi uzlaşma görüşmelerine davet edilir.
 
-Uzlaşma; nakdi ödeme, idareye ait taşınmazın trampası, idareye ait
-taşınmaz üzerinde sınırlı ayni hak tanınması veya imar mevzuatı
-çerçevesinde başka bir yerde imar hakkı kullandırılması suretiyle
-yapılabilir.
+Uzlaşma; idareye ait taşınmazın trampası, idareye ait taşınmaz üzerinde
+sınırlı ayni hak tanınması veya imar mevzuatı çerçevesinde başka bir
+yerde imar hakkı kullandırılması suretiyle veya bunların mümkün olmaması
+hâlinde nakdi bedel üzerinden yapılabilir.
 
 Uzlaşma görüşmeleri, hukuki veya fiili engel bulunmadığı takdirde davete
-icabet tarihinden itibaren en geç altı ay içerisinde sonuçlandırılır ve
+icabet tarihinden itibaren en geç altı ay içinde sonuçlandırılır ve
 uzlaşmaya varılıp varılmadığı, malik veya temsilcisi ile komisyon
 üyeleri tarafından imzalanan bir tutanağa bağlanır. Bu tutanak ile
 uzlaşma görüşmelerine ilişkin bilgi ve belgeler, açılacak davalarda
-taraflar aleyhine delil teşkil etmez. Uzlaşmaya varılması halinde,
+taraflar aleyhine delil teşkil etmez. Uzlaşmaya varılması hâlinde,
 üzerinde uzlaşılan hakkın türünü, tanınma şart ve usullerini, nakdi
 ödemede bulunulacak ise miktarını ve ödeme şartları ile taşınmazların
 tesciline veya terkinine dair muvafakati de ihtiva eden bir sözleşme
 akdedilerek bu sözleşme çerçevesinde işlem yapılır ve uzlaşma konusu
 taşınmazlar resen tapuya tescil veya terkin edilir.
 
-Uzlaşılan nakdi tazminat bedeli, bütçe imkanları dahilinde, sonraki
-yıllara sari olacak şekilde taksitli olarak da ödenebilir. Taksitli
-ödeme süresince, 4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve
-Temerrüt Faizine İlişkin Kanuna göre ayrıca kanuni faiz ödenir.
+Uzlaşılan bedel, bütçe imkanlarıdâhilinde sonraki yıllara sâri olacak
+şekilde taksitli olarak da ödenebilir. Taksitli ödeme süresince,
+4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin
+Kanuna göre ayrıca kanuni faiz ödenir.
 
 İdare ve malik arasında uzlaşma sağlanamadığı takdirde, uzlaşmazlık
-tutanağının tanzim edildiği veya ikinci fıkradaki sürenin uzlaşmaya
-davet olmaksızın sona erdiği tarihten itibaren üç ay içerisinde malik
-tarafından (…) ^(1)^ tazminat davası açılabilir. Dava açılması halinde,
+tutanağının tanzim edildiği tarihten itibaren üç ay içinde malik veya
+idare tarafından bedel tespiti davası açılabilir. Dava açılması hâlinde,
 fiilen el konulan taşınmazın veya üzerinde tesis edilen irtifak hakkının
-müracaat tarihindeki değeri, ikinci fıkranın birinci cümlesindeki
-esaslara göre mahkemece tespit ve taşınmazın veya hakkın idare adına
-tesciline veya terkinine ve malike tazminat ödenmesine hükmedilir.
-Tescile veya terkine ilişkin hüküm kesin olup tarafların hükmedilen
-tazminata ilişkin temyiz hakkı saklıdır. ^(1)^
+dava tarihindeki değeri, ikinci fıkranın birinci cümlesindeki esaslara
+göre mahkemece bu Kanunun 15 inci maddesine göre bilirkişi incelemesi
+yapılmak suretiyle tespit ve taşınmazın veya hakkın idare adına
+tesciline veya terkinine hükmedilir. Tespit edilen bedel, bu maddenin
+sekizinci fıkrasına göre idarece ödenir. Tescile veya terkine ilişkin
+hüküm kesin olup tarafların hükmedilen bedele ilişkin temyiz hakkı
+saklıdır.
+
+Bu madde kapsamında açılan davalarda mahkeme ve icra harçları ile her
+türlü vekalet ücretleri bedel tespiti davalarında öngörülen şekilde
+maktu olarak belirlenir.
 
 Kesinleşen mahkeme kararlarına istinaden bu madde uyarınca ödemelerde
-kullanılmak üzere, ihtiyaç olması halinde, idarelerin yılı bütçelerinde
-sermaye giderleri için öngörülen ödeneklerden yüzde iki pay ayrılır.
-Kesinleşen alacakların toplam tutarının ayrılan ödeneğin toplam tutarını
-aşması halinde, ödemeler, sonraki yıllara sari olacak şekilde, garameten
-ve taksitlerle gerçekleştirilir. Taksitlendirmede, bütçe imkanları ile
-alacakların tutarları dikkate alınır. Taksitli ödeme süresince, 3095
-sayılı Kanuna göre ayrıca kanuni faiz ödenir. İdare tarafından, mahkeme
-kararı gereğince nakdi ödeme yerine, üçüncü fıkrada belirtilen diğer
-uzlaşma yolları da teklif edilebilir ve bu maddenin uzlaşmaya ilişkin
-hükümlerine göre işlem yapılabilir.
+kullanılmak üzere, ihtiyaç olması hâlinde, merkezi yönetim bütçesine
+dâhil idarelerin yılı bütçelerinde sermaye giderleri için öngörülen
+ödeneklerinin (Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı ve
+Sahil Güvenlik Komutanlığı bütçelerinin güvenlik ve savunmaya yönelik
+mal ve hizmet alımları ile yapım giderleri için ayrılan ödeneklerin)
+yüzde ikisi, belediye ve il özel idareleri ile bağlı idareleri için en
+son kesinleşmiş bütçe gelirleri toplamının, diğer idareler için en son
+kesinleşmiş
 
 –––––––––––––
 
-*(1) Bu fıkrada yer alan “sadece” ibaresi, 22/2/2013 tarihli ve 28567
-sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 1/11/2012
-tarihli ve E.: 2010/83, K.: 2012/169 sayılı Kararı ile iptal
-edilmiştir.*
+*(1) 24/52013 tarihli ve 6487 sayılı Kanunun 21 inci maddesi ile bu
+maddenin başlığı “Kamulaştırmasız el koyma sebebiyle tazmin” iken metne
+işlendiği şekilde değiştirilmiştir. *
 
 6218-2
 
- 
+bütçe giderleri toplamının en az yüzde ikisi oranında yılı bütçelerinde
+pay ayrılır. Kesinleşen alacakların toplam tutarının ayrılan ödeneğin
+toplam tutarını aşması hâlinde, ödemeler, sonraki yıllara sâri olacak
+şekilde, garameten ve taksitlerle gerçekleştirilir. Taksitlendirmede,
+bütçe imkanlarıile alacakların tutarları dikkate alınır. Taksitli ödeme
+süresince, 3095 sayılı Kanuna göre ayrıca kanuni faiz ödenir. İdare
+tarafından, mahkeme kararı gereğince nakdi ödeme yerine, üçüncü fıkrada
+belirtilen diğer uzlaşma yolları da teklif edilebilir ve bu maddenin
+uzlaşmaya ilişkin hükümlerine göre işlem yapılabilir.
 
-Bu maddenin tazminata ilişkin hükümleri, vuku bulduğu tarih itibarı ile
-bu maddenin kapsamında olan kamulaştırmasız el koymadan dolayı açtıkları
+Bu maddenin bedele ilişkin hükümleri, vuku bulduğu tarih itibarı ile bu
+maddenin kapsamında olan kamulaştırmasız el koymadan dolayı açtıkları
 tazminat davası süre bakımından dava hakkının düştüğü gerekçesiyle
 reddedilmiş olanlar hakkında da uygulanır. Evvelce açtıkları davalar
 sonunda tazminat almaya hak kazanmış veya süre dışındaki sebeplerden
@@ -1515,37 +1528,67 @@ kamulaştırmasız el koymadan dolayı bu maddenin yürürlüğe girmesinden
 uzlaşma yoluna gitmeyi isteyip istemediklerini bu maddenin yürürlüğe
 girmesinden itibaren üç ay içinde idareye ve mahkemeye verecekleri
 dilekçeler ile bildirebilirler. Uzlaşma talebi üzerine, uzlaşma
-görüşmelerinin neticesine kadar dava bekletilir; uzlaşılamaması halinde,
+görüşmelerinin neticesine kadar dava bekletilir; uzlaşılamaması hâlinde,
 uzlaşmazlık tutanağının mahkemeye sunulmasından sonra davaya devam
-edilir.
+edilir. Uygulama imar planlarında umumi hizmetlere ve resmî kurumlara
+ayrılmak suretiyle veya ilgili kanunların uygulamasıyla tasarrufu
+kısıtlanan taşınmazlar hakkında, 3/5/1985 tarihli ve 3194 sayılı İmar
+Kanununda öngörülen idari başvuru ve işlemler tamamlandıktan sonra idari
+yargıda dava açılabilir. Bu madde hükümleri karara bağlanmamış veya
+kararı kesinleşmemiş tüm davalara uygulanır. Kararı kesinleşen davalara
+ise, bu maddenin yalnızca sekizinci fıkra hükümleri uygulanır.
 
-Bu madde uyarınca ödenecek olan tazminatın tahsili sebebiyle idarelerin
+Bu madde uyarınca ödenecek olan bedelin tahsili sebebiyle idarelerin
 mal, hak ve alacakları haczedilemez.
 
-             **Madde 42 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
+24/2/1984 tarihli ve 2981 sayılı Kanun hükümlerine göre yapılan imar
+uygulamalarından doğan ve ipotekle teminat altına alınanlar da dâhil
+olmak üzere her türlü alacak ve bedeller, borçlu idarelerce, ipotek veya
+uygulama tarihinden itibaren 3095 sayılı Kanunda belirtilen kanuni faiz
+oranı uygulanmak suretiyle güncellenerek ilgililerine ödenir. Bu hüküm
+devam eden davalarda da uygulanır. Bu fıkra uyarınca yapılacak ödemeler
+hakkında da bu madde hükümleri uygulanır.
 
-             **Madde 43 –** Bu Kanun hükümlerini Bakanlar Kurulu
-yürütür.
+4/11/1983 tarihinden bu fıkranın yürürlüğe girdiği tarihe kadar
+kamulaştırma işlemleri tamamlanmamış veya kamulaştırması hiç yapılmamış
+olmasına rağmen fiilen kamu hizmetine ayrılan veya kamu yararına ilişkin
+bir ihtiyaca tahsis edilerek üzerinde tesis yapılan taşınmazların idare
+tarafından kamulaştırılması hâlinde kamulaştırma bedeli ve mahkemelerce
+malikleri lehine hükmedilen tazminat ile bu davalara ilişkin mahkeme ve
+icra vekalet ücretleri de, idarelerce bu maddenin sekizinci fıkrasına
+göre bütçelerden ayrılacak paydan ve aynı fıkrada belirtilen usule göre
+ödenir ve işlem yapılır. Bu alacaklar için de bu maddenin on birinci
+fıkrası, bu fıkra kapsamında kalan taşınmazlar hakkında açılan her türlü
+davalarda ise yedinci fıkra hükümleri uygulanır. Bu fıkra hükmü, bu
+fıkra kapsamında kalan taşınmazlar hakkında açılan ve kesinleşmeyen
+davalarda da uygulanır.
 
-** **
+**Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.)**
 
-** **
+Mülga 31/8/1956 tarihli ve 6830 sayılı İstimlak Kanununun 16 ve 17 nci
+maddeleri ile 2942 sayılı Kanunun mülga 16 ve 17 nci maddeleri uyarınca
+mahkemelerce idare adına tescil kararı verilen kamulaştırmalarda
+tebligatlar ve diğer kamulaştırma işlemleri tamamlanmış sayılır. Bu
+kamulaştırma işlemleri sebebiyle hiçbir hak ve alacak talebinde
+bulunulamaz; kamulaştırmaya veya bedeline karşı itiraz davaları
+açılamaz; açılmış ve devam eden davalar bu madde hükmü uygulanarak
+sonuçlandırılır.
+
+6218-3
+
+**Madde 42 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
+
+**Madde 43 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
 **4/11/1983 TARİHLİ VE 2942 SAYILI ANA KANUNA İŞLENEMEYEN**
 
 **HÜKÜMLER**
 
-** **
+*1 – 24/4/2001 tarihli ve 4650 sayılı Kanunun hükmüdür:*
 
-**            ** *1 – 24/4/2001 tarihli ve 4650 sayılı Kanunun
-hükmüdür:*
-
-*            * **Geçici Madde 1 – **Bu Kanunun yürürlüğe girdiği
-tarihte, kamulaştırma kararı alınmış ancak henüz tebligata çıkarılmamış
-kamulaştırmalarda bu Kanun hükümleri, diğerlerinde önceki hükümler
-uygulanır.
-
-6218-3
+**Geçici Madde 1 – **Bu Kanunun yürürlüğe girdiği tarihte, kamulaştırma
+kararı alınmış ancak henüz tebligata çıkarılmamış kamulaştırmalarda bu
+Kanun hükümleri, diğerlerinde önceki hükümler uygulanır.
 
 **2942 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -1555,14 +1598,26 @@ uygulanır.
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**               **2942 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  **4650**                                                                                 **–**                                                         **5/5/2001**
-  **5177**                                                                                 **19**                                                        **5/6/2004**
-  **5999**                                                                                 **Geçici Madde 6**                                            **30/6/2010**
-  **6306**                                                                                 **15**                                                        **31/5/2012**
-  **Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı Kararı**   **Geçici Madde 6**                                            **22/2/2013**
-  **6427**                                                                                 **22**                                                        **1/3/2013**
-  ---------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  -------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**       **2942 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+
+  **4650**                                                                         **–**                                                         **5/5/2001**
+
+  **5177**                                                                         **19**                                                        **5/6/2004**
+
+  **5999**                                                                         **Geçici Madde 6**                                            **30/6/2010**
+
+  **6306**                                                                         **15**                                                        **31/5/2012**
+
+  **Anayasa **                                                                     **Geçici Madde 6**                                            **22/2/2013**
+                                                                                                                                                 
+  **Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı Kararı**                                                                 
+
+  **6427**                                                                         **22**                                                        **1/3/2013**
+
+  **6459**                                                                         **10**                                                        **30/4/2013**
+
+  **6487**                                                                         **Geçici Madde 6 ve 7**                                       **11/6/2013**
+  -------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
