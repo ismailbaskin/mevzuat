@@ -1,4 +1,4 @@
-**31/5/2007 tarihli ve 5678 sayılı Kanun ile değişik hali**
+**9/2/2008 tarihli ve 5735 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -151,8 +151,9 @@ sahiptir. Devlet, bu eşitliğin yaşama geçmesini sağlamakla yükümlüdür.
 
 Hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.
 
-Devlet organları ve idare makamları bütün işlemlerinde kanun önünde
-eşitlik ilkesine uygun olarak hareket etmek zorundadırlar.
+Devlet organları ve idare makamları bütün işlemlerinde ve her türlü kamu
+hizmetlerinden yararlanılmasında kanun önünde eşitlik ilkesine uygun
+olarak hareket etmek zorundadırlar. ^(1)^
 
 *XI. Anayasanın bağlayıcılığı ve üstünlüğü *
 
@@ -161,6 +162,13 @@ idare makamlarını ve diğer kuruluş ve kişileri bağlayan temel hukuk
 kurallarıdır.
 
 Kanunlar Anayasaya aykırı olamaz.
+
+––––––––––––––––––––––
+
+*(1) 9/2/2008 tarihli ve 5735 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “bütün işlemlerinde” ibaresinden sonra gelmek üzere “ve
+her türlü kamu hizmetlerinden yararlanılmasında” ibaresi eklenmiş ve
+metne işlenmiştir.*
 
 *İKİNCİ KISIM*
 
@@ -755,6 +763,10 @@ okullarında parasızdır.
 Özel ilk ve orta dereceli okulların bağlı olduğu esaslar, Devlet
 okulları ile erişilmek istenen seviyeye uygun olarak, kanunla
 düzenlenir.
+
+**(Ek fıkra: 9/2/2008-5735/2 md.)** Kanunda açıkça yazılı olmayan
+herhangi bir sebeple kimse yükseköğrenim hakkını kullanmaktan mahrum
+edilemez.Bu hakkın kullanımının sınırları kanunla belirlenir.
 
 Devlet, maddi imkanlardan yoksun başarılı öğrencilerin, öğrenimlerini
 sürdürebilmeleri amacı ile burslar ve başka yollarla gerekli yardımları
@@ -3899,6 +3911,11 @@ sunulması halinde oylanır.
 **Madde 7 –** Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna
 sunulması halinde tümüyle oylanır.
 
+**12- 9/2/2008 tarihli ve 5735 sayılı Kanunun 3 üncü Maddesi:**
+
+**Madde 3 –** Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna
+sunulması halinde tümüyle oylanır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
@@ -3941,6 +3958,8 @@ sunulması halinde tümüyle oylanır.
   5659                   67, İşlenemeyen Hüküm                                                                                                                                                                   18/5/2007
 
   5678 ^(1)^             77, 79, 96, 101, 102, İşlenemeyen Hüküm                                                                                                                                                 (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
+
+  5735                   10, 42, İşlenemeyen Hüküm                                                                                                                                                               23/2/2008
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ––––––––––––––
