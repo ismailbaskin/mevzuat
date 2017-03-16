@@ -1,14 +1,14 @@
-**6645 sayılı Kanun ile değişik hali**
+11695
 
 **SENDİKALAR VE TOPLU İŞ SÖZLEŞMESİ KANUNU**
 
-**Kanun Numarası : 6356**
+Kanun Numarası : 6356
 
-**Kabul Tarihi : 18/10/2012**
+Kabul Tarihi : 18/10/2012
 
-**Yayımlandığı R.Gazete : Tarih: 7/11/2012 Sayı : 28460**
+Yayımlandığı R.Gazete : Tarih : 7/11/2012 Sayı : 28460
 
-**Yayımlandığı Düstur : Tertip : 5 Cilt : 53 **
+Yayımlandığı Düstur : Tertip : 5 Cilt : 53
 
 **BİRİNCİ BÖLÜM**
 
@@ -706,20 +706,20 @@ veya işverenin izni ile iş saatleri içinde işçi kuruluşlarının
 faaliyetlerine katılmaları veya sendikal faaliyette bulunmalarından
 dolayı işten çıkarılamaz veya farklı işleme tabi tutulamaz.
 
-\(4) İşverenin fesih dışında yukarıdaki fıkralara aykırı hareket etmesi
+\(4) İşverenin (…) ^(1)^ yukarıdaki fıkralara aykırı hareket etmesi
 hâlinde işçinin bir yıllık ücret tutarından az olmamak üzere sendikal
-tazminata hükmedilir.
+tazminata hükmedilir. ^(1)^
 
 \(5) Sendikal bir nedenle iş sözleşmesinin feshi hâlinde işçi, 4857
-sayılı Kanunun 18, 20 ve 21 inci madde hükümlerine göre dava açma
-hakkına sahiptir. İş sözleşmesinin sendikal nedenle feshedildiğinin
+sayılı Kanunun (…) ^(2)^ , 20 ve 21 inci madde hükümlerine göre dava
+açma hakkına sahiptir. İş sözleşmesinin sendikal nedenle feshedildiğinin
 tespit edilmesi hâlinde, 4857 sayılı Kanunun 21 inci maddesine göre
 işçinin başvurusu, işverenin işe başlatması veya başlatmaması şartına
 bağlı olmaksızın sendikal tazminata karar verilir. Ancak işçinin işe
 başlatılmaması hâlinde, ayrıca 4857 sayılı Kanunun 21 inci maddesinin
 birinci fıkrasında belirtilen tazminata hükmedilmez. İşçinin 4857 sayılı
 Kanunun yukarıdaki hükümlerine göre dava açmaması ayrıca sendikal
-tazminat talebini engellemez.
+tazminat talebini engellemez. ^(2)^
 
 \(6) İş sözleşmesinin sendikal nedenle feshedildiği iddiası ile açılacak
 davada, feshin nedenini ispat yükümlülüğü işverene aittir. Feshin
@@ -762,6 +762,16 @@ faaliyetlerinde toplumsal cinsiyet eşitliğini gözetir.
 çıkarların üyesi olmayanlara uygulanması, bu Kanunun yedinci ila on
 ikinci bölümlerinde yer alan hükümler saklı kalmak kaydıyla yazılı
 onaylarına bağlıdır.
+
+–––––––––––––––––
+
+*(1) Anayasa Mahkemesi’nin 22/10/2014 tarihli ve E.: 2013/1, K.:
+2014/161 sayılı Kararı ile bu fıkrada yer alan “…fesih dışında…” ibaresi
+iptal edilmiştir. *
+
+*(2) Anayasa Mahkemesi’nin 22/10/2014 tarihli ve E.: 2013/1, K.:
+2014/161 sayılı Kararı ile bu fıkrada yer alan “18” ibaresi iptal
+edilmiştir.*
 
 11706
 
@@ -866,11 +876,29 @@ kurullarınca belirlenir.
 \(6) Kuruluşlar, gelirlerini bu Kanunda ve tüzüklerinde gösterilen
 faaliyetleri dışında kullanamaz veya bağışlayamaz.
 
-\(7) Kuruluşlar; yönetim kurulu kararıyla ve nakit mevcudunun yüzde onunu
-aşmamak kaydıyla yurt içi ve yurt dışındaki doğal afet bölgelerine
-doğrudan veya yetkili makamlar aracılığıyla konut, eğitim ve sağlık
-tesisleri kurulması amacıyla kamu kurum ve kuruluşlarına ayni ve nakdî
-yardımda bulunabilir.
+\(7) **(Değişik: 14/4/2016 - 6704/26 md.)** Kuruluşlar, yönetim kurulu
+kararıyla ve nakit mevcudunun yüzde onunu aşmamak kaydıyla;
+
+a\) Yurt içi ve yurt dışındaki doğal afet bölgelerine doğrudan veya
+yetkili makamlar aracılığıyla konut, eğitim ve sağlık tesisleri
+kurulması amacıyla kamu kurum ve kuruluşlarına,
+
+b\) Aile ve Sosyal Politikalar Bakanlığı ile koordinasyon hâlinde,
+8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı
+Kanununun mülga 64 üncü maddesi ve 31/5/2006 tarihli ve 5510 sayılı
+Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 47 nci maddesinin
+sekizinci fıkrasında sayılanlar ile 12/4/1991 tarihli ve 3713 sayılı
+Terörle Mücadele Kanunu, 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat
+ve Aylık Bağlanması Hakkında Kanun, 17/7/2004 tarihli ve 5233 sayılı
+Terör ve Terörle Mücadeleden Doğan Zararların Karşılanması Hakkında
+Kanunun ek 1 inci maddesi hükümlerine göre nakdî tazminat ödenmesi veya
+aylık bağlanması hakkı bulunanlara,
+
+c\) **(Ek: 23/2/2017-6824/23 md.)** Bakanlıkla yapılacak işbirliği
+protokolü çerçevesinde, kadın istihdamını destekleyici faaliyetler
+kapsamında kullanılması şartıyla Bakanlığa,
+
+ayni ve nakdî yardımda bulunabilir.
 
 **Kuruluşların denetimi ve şeffaflık**
 
@@ -1420,8 +1448,8 @@ itibaren işletme kredilerine uygulanan en yüksek faiz oranı uygulanır.
 **Kuruluşu**
 
 **MADDE 54 –** (1) Yüksek Hakem Kurulu, Yargıtayın bu Kanundan doğan
-uyuşmazlıklara bakmakla görevli dairelerinin başkanlarından en kıdemli
-olanının başkanlığında;
+uyuşmazlıklara bakmakla görevli dairelerinin başkanları arasından
+başkanlık süresi en fazla olanın başkanlığında; ^(1)^
 
 a\) Bakanlar Kurulunca, bakanlıklar bünyesi dışında, işçi veya işveren
 kuruluşları ile hiçbir şekilde bağlantısı bulunmayan ve siyasi parti
@@ -1469,6 +1497,13 @@ olarak bir genel sekreterlik kurulur. Genel sekreter başkanın teklifi
 raportör ve uzman atanır veya görevlendirilir. Ancak, işçi veya işveren
 kuruluşlarında çalışmakta olanlar, raportör veya uzman olarak
 görevlendirilemez.
+
+\_\_\_\_\_\_\_\_
+
+*(1) 18/1/2017 tarihli ve 6770 sayılı Kanunun 36 ncı maddesiyle bu
+fıkrada yer alan “başkanlarından en kıdemli olanının başkanlığında;”
+ibaresi “başkanları arasından başkanlık süresi en fazla olanın
+başkanlığında;” şeklinde değiştirilmiştir.*
 
 11716
 
@@ -1569,10 +1604,8 @@ karşı tarafa tebliğ edilmek üzere notere ve bir örneği de görevli makama
 tevdi edilir. Uygulama tarihi, kararı alan tarafça ayrıca işyeri veya
 işyerlerinde derhâl ilan edilir.
 
-\(6) Grup toplu iş sözleşmesine ilişkin uyuşmazlıklarda grev kararı,
-uyuşmazlığın kapsamındaki işyerlerinin bir kısmı için alınmış olsa dahi
-lokavt kararı uyuşmazlığın kapsamındaki başka işyerleri için de
-alınabilir.
+\(6) **(İptal: Anayasa Mahkemesi’nin 22/10/2014 tarihli ve E.: 2013/1,
+K.: 2014/161 sayılı Kararı ile.)**
 
 \(7) Kanuni grev kararı alınan bir uyuşmazlıkta Çalışma ve Sosyal
 Güvenlik Bakanı uyuşmazlığın çözümü için bizzat arabuluculuk
@@ -1611,20 +1644,20 @@ yapılır. Grev oylaması isteyen işçilerin sayısının yeterli orana ulaşı
 ulaşmadığının tespiti ile grev oylamasının sonuçları her işyeri için
 ayrıca belirlenir.
 
-11718
-
 \(6) Grev oylamasının usul ve esasları Bakanlıkça çıkarılacak bir
 yönetmelikle düzenlenir.
 
+11718
+
 **Grev ve lokavt yasakları**
 
-**MADDE 62 –**(1) Can ve mal kurtarma işlerinde; cenaze işlerinde ve
+**MADDE 62 –** (1) Can ve mal kurtarma işlerinde; cenaze işlerinde ve
 mezarlıklarda; şehir şebeke suyu, elektrik, doğal gaz, petrol üretimi,
 tasfiyesi ve dağıtımı ile nafta veya doğalgazdan başlayan petrokimya
-işlerinde; bankacılık hizmetlerinde; Millî Savunma Bakanlığı ile
-Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca doğrudan
-işletilen işyerlerinde; kamu kuruluşlarınca yürütülen itfaiye ve şehir
-içi toplu taşıma hizmetlerinde ve hastanelerde grev ve lokavt yapılamaz.
+işlerinde; (…) ^(1)^ Millî Savunma Bakanlığı ile Jandarma Genel
+Komutanlığı ve Sahil Güvenlik Komutanlığınca doğrudan işletilen
+işyerlerinde; kamu kuruluşlarınca yürütülen itfaiye (…) ^(1)^ ve
+hastanelerde grev ve lokavt yapılamaz. ^(1)^
 
 \(2) Bakanlar Kurulu, genel hayatı önemli ölçüde etkileyen doğa
 olaylarının gerçekleştiği yerlerde bu durumun devamı süresince
@@ -1638,10 +1671,13 @@ hava, demir ve kara ulaştırma araçlarında grev ve lokavt yapılamaz.
 
 **Grev ve lokavtın ertelenmesi**
 
-**MADDE 63 –** (1) Karar verilmiş veya başlanmış olan kanuni bir grev
-veya lokavt genel sağlığı veya millî güvenliği bozucu nitelikte ise
-Bakanlar Kurulu bu uyuşmazlıkta grev ve lokavtı altmış gün süre ile
-erteleyebilir. Erteleme süresi, kararın yayımı tarihinde başlar.
+**MADDE 63 –** (1) **(Değişik: 31/10/2016 HKH-678/35 md.)** Karar
+verilmiş veya başlanmış olan kanuni bir grev veya lokavt; genel sağlığı
+veya millî güvenliği, büyükşehir belediyelerinin şehir içi toplu taşıma
+hizmetlerini, bankacılık hizmetlerinde ekonomik veya finansal istikrarı
+bozucu nitelikte ise Bakanlar Kurulu bu uyuşmazlıkta grev ve lokavtı
+altmış gün süre ile erteleyebilir. Erteleme süresi, kararın yayımı
+tarihinde başlar.
 
 \(2) Erteleme kararının yürürlüğe girmesi üzerine, 60 ıncı maddenin
 yedinci fıkrasına göre belirlenen arabulucu, uyuşmazlığın çözümü için
@@ -1676,6 +1712,13 @@ grev uygulanan işyerinde neden olunan maddi zarardan sendika sorumludur.
 Yetkili işçi sendikasının kararı olmadan işçi ya da yöneticilerin
 bireysel eylemlerinden kaynaklanan zararlardan kusuru olan yönetici ya
 da işçi sorumludur.
+
+––––––––––––––––––
+
+*(1) Anayasa Mahkemesi’nin 22/10/2014 tarihli ve E.: 2013/1, K.:
+2014/161 sayılı Kararı ile, bu fıkrada yer alan “…bankacılık
+hizmetlerinde;…” ve “…ve şehir içi toplu taşıma hizmetlerinde…”
+ibareleri iptal edilmiştir.*
 
 11719
 
@@ -2018,12 +2061,8 @@ Kanuna yapılmış sayılır.
 
 11724
 
-**EK MADDE 1 –(Ek: 10/9/2014-6552/21 md.)**
-
-41 inci maddenin birinci ve beşinci fıkraları ile 43 üncü maddenin
-ikinci ve dördüncü fıkralarında yer alan kurulu bulunduğu işkolunda en
-az yüzde bir üye şartı, Ekonomik ve Sosyal Konseye üye konfederasyonlara
-üye olmayan işçi sendikaları için yüzde üç olarak uygulanır.
+**EK MADDE 1 – (Ek: 10/9/2014-6552/21 md.; İptal: Anayasa Mahkemesi’nin
+14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı ile.)**
 
 **GEÇİCİ MADDE 1 –** (1) Kuruluşlar bu Kanun gereği yapmak zorunda
 oldukları tüzük değişikliklerini bu Kanunun yayımı tarihinden itibaren
@@ -2062,17 +2101,14 @@ kaydıyla emsal ücret üzerinden kıdem tazminatına hak kazanır.
 
 **GEÇİCİ MADDE 6 –** (1) **(Mülga: 10/9/2014-6552/144 md.)**
 
-\(2) **(Değişik: 4/4/2015-6645/81 md.)** Mülga 2822 sayılı Kanunun 12 nci
-maddesine göre Bakanlıkça yayımlanan 2009 Temmuz istatistiğinde kurulu
-bulunduğu işkolunda çalışan işçilerin en az yüzde onunu üyesi bulunduran
-işçi sendikaları ile 2009 Temmuz istatistiği sonrasında 15/9/2012
-tarihine kadar kurulmuş işçi sendikalarının, bu maddenin yürürlüğünden
-önce imzaladıkları toplu iş sözleşmelerinden bir sonraki toplu iş
-sözleşmesiyle sınırlı olmak üzere yapacakları yetki tespit başvuruları
-ile kurulu bulundukları işkolundaki diğer işyeri ve işletmelerde bu
-maddenin yürürlüğe girdiği tarihten itibaren bir yıl içinde yapacakları
-yetki tespit başvuruları 41 inci maddede yer alan işyeri veya işletme
-çoğunluğu şartlarına göre sonuçlandırılır.
+\(2) **(Değişik: 20/8/2016-6745/72 md.)** Mülga 2822 sayılı Kanunun 12
+nci maddesine göre Bakanlıkça yayımlanan 2009 Temmuz istatistiğinde
+kurulu bulunduğu işkolunda çalışan işçilerin en az yüzde onunu üyesi
+bulunduran işçi sendikaları ile 2009 Temmuz istatistiği sonrasında
+15/9/2012 tarihine kadar kurulmuş işçi sendikalarının bu fıkrayı
+değiştiren Kanunun yürürlüğe girdiği tarihten itibaren iki yıl içinde
+yapacakları yetki tespit başvuruları 41 inci maddede yer alan işyeri
+veya işletme çoğunluğu şartlarına göre sonuçlandırılır.
 
 \(3) **(Mülga: 4/4/2015-6645/81 md.)**
 
@@ -2090,8 +2126,8 @@ Kanuna dayalı tüzük ve yönetmeliklere göre sonuçlandırılır.
 
 **MADDE 83 –** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-![](media/image1.png){width="4.904861111111111in"
-height="6.0784722222222225in"}11726
+![](media/image1.png){width="4.915972222222222in"
+height="6.093055555555556in"}
 
 11726-1
 
@@ -2102,11 +2138,18 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **6356 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  6385                                                                         GEÇİCİ MADDE 6                                                19/1/2013
-  6552                                                                         26, 41, 43, EK MADDE 1, GEÇİCİ MADDE 6                        11/9/2014
-  6645                                                                         GEÇİCİ MADDE 6                                                23/4/2015
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  ------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası**   **6356 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  6385                                                                                  GEÇİCİ MADDE 6                                                19/1/2013
+  6552                                                                                  26, 41, 43, EK MADDE 1, GEÇİCİ MADDE 6                        11/9/2014
+  6645                                                                                  GEÇİCİ MADDE 6                                                23/4/2015
+  Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı    EK MADDE 1                                                    11/6/2015
+  Anayasa Mahkemesi’nin 22/10/2014 tarihli ve E.: 2013/1, K.: 2014/161 sayılı Kararı    25, 60, 62                                                    11/11/2015
+  6704                                                                                  28                                                            26/4/2016
+  6745                                                                                  GEÇİCİ MADDE 6                                                7/9/2016
+  KHK/678                                                                               63                                                            22/11/2016
+  6770                                                                                  54                                                            27/1/2017
+  6824                                                                                  28                                                            8/3/2017
+  ------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
