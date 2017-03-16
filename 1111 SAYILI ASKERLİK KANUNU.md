@@ -1,26 +1,26 @@
-**6519 sayılı Kanun ile değişik hali **
+**6582 sayılı Kanun ile değişik hali **
 
  
 
-[]{#K13 .anchor}**ASKERLİK KANUNU ^(1)^**
+[]{#K13 .anchor}ASKERLİK KANUNU ^(1)^
 
 ** **
 
-**          Kanun Numarası               : 1111**
+          Kanun Numarası               : 1111
 
-**          Kabul Tarihi                      : 21/6/1927**
+          Kabul Tarihi                      : 21/6/1927
 
-**          Yayımlandığı R.Gazete     : Tarih : 12 - 17/7/1927  Sayı :
-631 - 635**
+          Yayımlandığı R.Gazete     : Tarih : 12 - 17/7/1927  Sayı : 631
+- 635
 
-**          Yayımlandığı Düstur         : Tertip : 3   Cilt : 8   Sayfa
-: 866**
+          Yayımlandığı Düstur         : Tertip : 3   Cilt : 8   Sayfa :
+866
 
-* *
+ 
 
 \*
 
-*\* \**
+\* \*
 
 ** **
 
@@ -30,7 +30,7 @@
 
 *düzenlenen nümerik fihristine bakınız.*
 
-** **
+ 
 
                                                                               
 
@@ -38,7 +38,7 @@
 
 \* \*
 
-* *
+ 
 
              **Madde 1 –** Türkiye Cumhuriyeti tebaası olan her erkek,
 işbu kanun mucibince askerlik yapmağa mecburdur.
@@ -416,7 +416,7 @@ temel askerlik eğitimine tâbi tutulmadan yedeğe geçirilirler.
 
 ——————————
 
-*(1)    Bu maddenin uygulanmasında ek 1, 2 ve 3 üncü maddelere bakınız.*
+(1)    Bu maddenin uygulanmasında ek 1, 2 ve 3 üncü maddelere bakınız.
 
 836
 
@@ -436,13 +436,13 @@ daha fazla talim görmüş erbaş ve ere (usta asker), altı aydan daha az
 talim görmüş veya hiç talim görmemiş erbaş ve ere (acemi asker) denir.
 ^(1)^
 
-*Askeralma İşlemleri^(2)^*
+Askeralma İşlemleri^(2)^
 
 **Madde 13 – (Değişik: 22/5/2012 - 6318/3 md.)**
 
 Askeralma işlemleri Millî Savunma Bakanlığınca yürütülür.
 
-*Yoklama*
+Yoklama
 
 **Madde 14 – (Değişik: 22/5/2012 - 6318/4 md.)**
 
@@ -490,28 +490,28 @@ esaslara göre yapılır.
 
 **Madde 15-16 – (Mülga: 27/7/1970 - 1315/3 md.)**
 
-*Askerlik çağına girenlerin yoklamalarının nasıl yapılacağı *
+Askerlik çağına girenlerin yoklamalarının nasıl yapılacağı
 
-*İlk yoklama*
+İlk yoklama
 
 **Madde 17 – (Mülga: 22/5/2012 - 6318/22 md.)**
 
 **Madde 18 – 19 – (Mülga: 27/7/1970 - 1315/3 md.)**
 
-*Son yoklama*
+Son yoklama
 
 **Madde 20 – (Mülga: 22/5/2012 - 6318/22 md.)**
 
 ——————————
 
-*(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 2 nci maddesiyle bu
+\(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 2 nci maddesiyle bu
 maddenin birinci fıkrasında yer alan “Son yoklamada” ibaresi “Yoklamada”
 şeklinde değiştirilmiş ve aynı fıkrada yer alan “son”, “numara ile veya
-numarasız” ve “ve ahziasker” ibareleri madde metninden çıkarılmıştır.*
+numarasız” ve “ve ahziasker” ibareleri madde metninden çıkarılmıştır.
 
-*(2) Bu maddenin başlığı “Askerlik daireleri” iken, 22/5/2012 tarihli ve
+\(2) Bu maddenin başlığı “Askerlik daireleri” iken, 22/5/2012 tarihli ve
 6318 sayılı Kanunun 3 üncü maddesiyle metne işlendiği şekilde
-değiştirilmiştir.*
+değiştirilmiştir.
 
 837
 
@@ -615,19 +615,18 @@ tarafından hazırlanan tutanağa istinaden derhal serbest bırakılırlar.
 
 **Madde 33 – (Mülga: 27/7/1970 - 1315/3 md.)**
 
-*Kısa hizmet*
+Kısa hizmet
 
 **Madde 34 – (Mülga: 27/7/1970 - 1315/3 md.)**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 7 nci maddesiyle bu
-fıkrada yer alan “Son yoklama” ibaresi “Yoklama”, şeklinde
-değiştirilmiştir.*
+\(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 7 nci maddesiyle bu fıkrada
+yer alan “Son yoklama” ibaresi “Yoklama”, şeklinde değiştirilmiştir.
 
 840
 
-*Ertesi seneye bırakma*
+Ertesi seneye bırakma
 
 **Madde 35 – (Değişik: 20/11/1935 - 2850/1 md.)**
 
@@ -690,7 +689,7 @@ Görevleri Hakkında Kanun Hükmünde Kararname kapsamına giren kamu kurum
 ve kuruluşlarında görevli olup hizmetinin özelliği sebebiyle sevkinin
 tehirine ihtiyaç duyulan kamu personelinin,
 
-*              *
+              
 
 840-1
 
@@ -761,8 +760,8 @@ yönetmelikle belirlenir.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 8 inci maddesiyle bu
-fıkrada yer alan “92 nci,” ibaresi madde metninden çıkarılmıştır.*
+\(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 8 inci maddesiyle bu
+fıkrada yer alan “92 nci,” ibaresi madde metninden çıkarılmıştır.
 
 841
 
@@ -819,13 +818,13 @@ Bakanlığınca belirlenir.
 
 ——————————
 
-*(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 8 inci maddesiyle bu
-fıkrada yer alan “son” ibaresi madde metninden çıkarılmıştır.*
+\(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 8 inci maddesiyle bu
+fıkrada yer alan “son” ibaresi madde metninden çıkarılmıştır.
 
-*(2) Hernekadar 2/6/1929 tarih ve 1507 sayılı Kanunun 4 üncü maddesinde,
+\(2) Hernekadar 2/6/1929 tarih ve 1507 sayılı Kanunun 4 üncü maddesinde,
 bu maddenin (H) fıkrasının ilga edilmiş olduğu belirtilmiş ise de,
 maddenin bu tarihten önceki ve sonraki metinlerinde böyle bir fıkra
-mevcut değildir.*
+mevcut değildir.
 
 842
 
@@ -880,9 +879,9 @@ askerlik şubesine teslim edilirler.
 
 843
 
-*Askere büsbütün yaramıyacakları anlaşılarak*
+Askere büsbütün yaramıyacakları anlaşılarak
 
-*askerlikten çıkarılacak olanlar*
+askerlikten çıkarılacak olanlar
 
 **Madde 41 – (Değişik: 27/7/1970 - 1315/1 md.)**
 
@@ -891,9 +890,9 @@ hastaneye sevk edilirler. Askeri hastane sağlık kurullarınca yeniden
 yapılan muayeneleri sonunda askerliğe elverişli oldukları anlaşılanlar
 asker edilirler.
 
-*Muvazzaflık hizmeti için erbaş ve erin*
+Muvazzaflık hizmeti için erbaş ve erin
 
-*çağrılması ve sevki*
+çağrılması ve sevki
 
 **Madde 42 – (Değişik: 22/5/2012 - 6318/12 md.)**
 
@@ -993,7 +992,7 @@ hakkında da yapmağa ve neticeyi şubelerine haber vermeğe mecburdurlar.
 
 845
 
-*Muvazzaflık hizmetlerini bitirmiş erbaş ve erin terhisleri*
+Muvazzaflık hizmetlerini bitirmiş erbaş ve erin terhisleri
 
 **Madde 52 –** 5 inci maddede yazılı muvazzaflık müddetlerini
 bitirenlerin terhisleri ve yaşları bir olup evlerinde bulunan erbaş ve
@@ -1019,7 +1018,7 @@ tarafından belirlenir.
 
 **Madde 56 –** Yedek erbaş ve er, doğdukları sene yedeği adını alırlar.
 
-*Yedek erbaş ve erin askere çağrılması ve sevki*
+Yedek erbaş ve erin askere çağrılması ve sevki
 
 **Madde 57 –** Yedeklerin celpleri keyfiyeti, Erkanı Harbiyei Umumiye
 ile kararlaştırılarak Heyeti Vekile kararına iktiran ettirildikten sonra
@@ -1098,7 +1097,7 @@ Kanunundaki muameleler sebebiyle ibraz edecekleri fakirlik ilmuhaberleri
 bölük komutanları veya bulundukları müessese amirleri tarafından da
 verilebilir.
 
-*Yedek erbaş ve erden tecil edilecekler*
+Yedek erbaş ve erden tecil edilecekler
 
 **Madde 62 – (Değişik: 22/5/2012 - 6318/13 md.)**
 
@@ -1215,15 +1214,15 @@ raporu ile tespit ettirenler herhangi bir cezai işleme tabi tutulmazlar.
 Ancak, iyileştiklerinde emsalleri kadar hizmet yapmak üzere askere
 alınırlar.
 
-*Askerde bulunanlardan aileleri fakir ve muhtaç*
+Askerde bulunanlardan aileleri fakir ve muhtaç
 
-*olanlara yapılacak yardım*
+olanlara yapılacak yardım
 
 **Madde 71-73 – (Mülga: 11/8/1941 - 4109/14 md.)**
 
-*Asker çağında bulunanların memleketlerinden harice*
+Asker çağında bulunanların memleketlerinden harice
 
-*yolculuk yapabilmeleri*
+yolculuk yapabilmeleri
 
 **Madde 74 –** Vilayetleri haricine çıkmak istiyen her erkek hüviyet
 cüzdanını yanında götürmeğe ve esnayi seyahatte talep vukuunda polis ve
@@ -1244,19 +1243,19 @@ kefaleti nakdiyi
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 7 nci maddesiyle bu
-fıkrada yer alan “İlk ve son yoklama heyetleri ve askerlik” ibaresi
-“Askerlik” şeklinde değiştirilmiştir.*
+\(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 7 nci maddesiyle bu fıkrada
+yer alan “İlk ve son yoklama heyetleri ve askerlik” ibaresi “Askerlik”
+şeklinde değiştirilmiştir.
 
-*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+\(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
 fıkrada yer alan “çürüklerin” ve “çürüklükleri” ibareleri sırasıyla
 “askerliğe elverişli olmayanların” ve “askerliğe elverişli olmama”
-şeklinde değiştirilmiştir.*
+şeklinde değiştirilmiştir.
 
-*(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+\(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
 fıkrada yer alan “çürüklükleri” ve “çürüklük” ibareleri sırasıyla
 “askerliğe elverişli olmadıkları” ve “askerliğe elverişli olmadığı”
-şeklinde değiştirilmiştir.*
+şeklinde değiştirilmiştir.
 
 849
 
@@ -1279,9 +1278,9 @@ devam edilmek üzere serbest bırakılır.
 hakkında Müdafaai Milliye Vekaleti, Dahiliye Vekaleti ile müştereken bu
 fasılda yazılı olan kayıtlardan başka tedbirler kullanabilir.
 
-*Kıtaattan izinli ve tebdilihava suretiyle *
+Kıtaattan izinli ve tebdilihava suretiyle
 
-*ayrılacak erbaş ve er*
+ayrılacak erbaş ve er
 
 **Madde 77 – (Değişik: 12/11/1980 - 2338/5 md.)**
 
@@ -1361,15 +1360,15 @@ rahatsızlıklardan ötürü yatarak gördüğü tedaviler veya istirahatte ya d
 hava değişiminde geçirdikleri süreler muvazzaf askerlik hizmetlerinden
 sayılmaz.
 
-*–––––––––––––––––*
+–––––––––––––––––
 
-*(1) 31/1/2013 tarihli ve 6413 sayılı Kanunun 45 inci maddesiyle, bu
+\(1) 31/1/2013 tarihli ve 6413 sayılı Kanunun 45 inci maddesiyle, bu
 fıkrada yer alan “disiplin mahkemesi” ibaresi “disiplin kurulu” olarak
-değiştirilmiştir.*
+değiştirilmiştir.
 
 850-1
 
-*Firar ve izinsizler*
+Firar ve izinsizler
 
 **Madde 79 – (Değişik: 13/7/2013-6496/8 md.)**
 
@@ -1416,7 +1415,7 @@ Beraatle neticelenen davalarda mevkufiyet müddetleri hizmetten
 sayılır.Ancak muvazzaflardan altı ay talim görmemiş olanlara bu müddet
 tamamlattırılır.Yedeklere talim müddeti kadar hizmet yaptırılır.
 
-*Yaşlarını değiştirenler*
+Yaşlarını değiştirenler
 
 **Madde 81 - (Değişik: 22/5/2012 - 6318/15 md.)**
 
@@ -1446,7 +1445,7 @@ hakkında 86 ncı madde uyarınca işlem yapılır.
 
 **Madde 82 – (Mülga: 22/5/2012 - 6318/22 md.)**
 
-*Cezalı askerlik*
+Cezalı askerlik
 
 **Madde 83 – (Mülga: 22/5/2012 - 6318/22 md.)**
 
@@ -1656,7 +1655,7 @@ Millî Savunma Bakanlığınca incelettirilir. Millî Savunma Bakanlığınca
 bunların doğruluğu ve mevzuata uygunluğu araştırılarak sonucuna göre
 işlem yapılır.
 
-*Muvazzaflık müddetini azaltmak için bedeli nakdi*
+Muvazzaflık müddetini azaltmak için bedeli nakdi
 
 **Madde 104 – 108 – (Mülga: 20/11/1984 - 3081/2 md.)**
 
@@ -2274,13 +2273,13 @@ kendi statüleri içinde Bakanlık bütçesinden alırlar.
 
              **Geçici Madde 23 – (Ek: 16/4/1987 - 3358/10 md.)**
 
-**               ** Bu Kanunun  yürürlüğe  girdiği  tarihte  yoklama 
+                Bu Kanunun  yürürlüğe  girdiği  tarihte  yoklama 
 kaçağı, bakaya veya saklı  durumunda  olan  yükümlülerden,  yurt içinde 
 veya  yurt dışında  herhangi  bir  yüksek-
 
 861
 
-** **
+ 
 
 öğrenim kurumuna girmeye hak kazanmış veya kayıtlarını yaptırmış ve 29
 yaşını doldurmamış olanlar hakkında, bir yıl içinde müracaat etmeleri
@@ -2752,6 +2751,40 @@ istekleri hâlinde diğer şartları taşımaları ve bu Kanunun yürürlüğe
 girdiği tarihten itibaren bir ay içerisinde 30.000 Türk Lirası parayı
 defaten ödemeleri şartıyla geçici 46 ncımaddeden istifade ettirilirler.
 
+**Geçici Madde 52** – **(Ek: 10/12/2014-6582/4 md.) **
+
+Bu Kanunun yürürlüğe girdiği tarihte her ne sebeple olursa olsun henüz
+fiilî askerlik hizmetine başlamamış ve 1 Ocak 1988 tarihinden (bu tarih
+dâhil) önce doğan 1076 sayılı Yedek Subaylar ve Yedek Askeri Memurlar
+Kanunu ile 1111 sayılı Askerlik Kanununa tabi yükümlüler; istekleri
+hâlinde, bu Kanunun yürürlüğe girdiği tarihten itibaren iki ay içinde
+askerlik şubelerine veya yurt dışı temsilciliklerine başvurmaları ve
+18.000 Türk lirası veya Türkiye Cumhuriyet Merkez Bankası döviz satış
+kuruna göre ödeme tarihindeki karşılığı kadar konvertibl yabancı ülke
+parasını defaten ödemeleri şartıyla temel askerlik eğitimine tabi
+tutulmaksızın askerlik hizmetini yerine getirmiş sayılırlar.
+
+Her ne sebeple olursa olsun daha önce bedelli veya dövizli askerlik
+hizmeti kapsamından çıkarılanlardan yaş şartını taşıyanlar, istekleri
+halinde birinci fıkra hükümlerinden yararlanırlar.
+
+Bu Kanunun yürürlüğe girdiği tarihten önce sağlık sebebiyle haklarında
+verilen askerliğe elverişli olmadıklarına dair kararlardan dolayı
+askerlik hizmetinden muaf tutulanlar da istekleri hâlinde yaş şartı
+aranmaksızın birinci fıkra hükümlerinden yararlanırlar.
+
+Bu uygulama kapsamında ödenecek paralar, Savunma Sanayii Destekleme Fonu
+adına T.C. Ziraat Bankası, T. Halk Bankası ve T. Vakıflar Bankasında
+açılacak hesaba yatırılır.
+
+Bu madde hükümlerinden yararlanan yükümlüler hakkında saklı, yoklama
+kaçağı ve bakayadan dolayı idari ve adli soruşturma ve kovuşturma
+yapılmaz, başlatılmış olanlar sona erdirilir ve bu suçlara ilişkin
+kesinleşmiş idari para cezaları tahsil edilmez.
+
+Bedelin ödenmesine ilişkin usul ve esaslar Millî Savunma Bakanlığınca
+belirlenir.
+
 **Madde 112 –** İşbu Kanunun bedeli nakdiye ait 105 inci maddesi hükmü
 neşri tarihinden ve diğer ahkamı neşrinden beş ay sonra mer'i dir.
 
@@ -2779,10 +2812,9 @@ memurdur.
                                                                                                
 **Yürürlükten Kaldırılan Mevzuatın**
 
-**                Yürürlükten Kaldırılan**
+########                 Yürürlükten Kaldırılan
 
-**                Kanun veya Kanun Hükümleri                      
-Tarihi    Sayısı    Maddesi**
+##### **                Kanun veya Kanun Hükümleri                       Tarihi    Sayısı    Maddesi**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 \_\_\_\_\_\_\_\_\_  \_\_\_\_\_\_\_\_  \_\_\_\_\_\_\_\_
@@ -3196,7 +3228,7 @@ Madde 2                                     
     5380                                   35, Ek Madde 1, Geçici Madde
 39, 40                                6/7/2005
 
-** **
+ 
 
 866
 
@@ -3227,50 +3259,7 @@ Madde 2                                     
   **6462**                                                                     **67, 68, Geçici Madde 46**                                                                                                                                                                                                            **3/5/2013**
   **6496**                                                                     **77, 79, 80, Ek Madde 8, Ek Madde 9**                                                                                                                                                                                                 **31/7/2013**
   **6519**                                                                     **8, 39, 47, 53, 78, 89**                                                                                                                                                                                                              **22/2/2014**
+  **6582 **                                                                    **Geçici Madde 52**                                                                                                                                                                                                                    **13/12/2014**
   ---------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------
 
-         
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-** **
-
-** **
-
-        
-
-** **
