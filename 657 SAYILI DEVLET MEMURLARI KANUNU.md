@@ -1,6 +1,4 @@
-**Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/89, **
-
-**K.: 2013/29 sayılı Kararı ile değişik hali**
+**6514 sayılı Kanun ile değişik hali**
 
  
 
@@ -576,7 +574,7 @@ kovuşturma yapılması ve haklarında dava açılması özel hükümlere tabidi
 
 4185
 
-*İsnat ve iftiralara karşı koruma:*
+İsnat ve iftiralara karşı koruma:
 
 **Madde 25 –** Devlet memurları hakkındaki ihbar ve şikayetler, garaz
 veya mücerret hakaret için, uydurma bir suç isnadı suretiyle yapıldığı
@@ -587,9 +585,9 @@ Cumhuriyet Savcılığından isterler.
 
 BÖLÜM: 4
 
-*Yasaklar*
+Yasaklar
 
-*Toplu eylem ve hareketlerde bulunma yasağı:*
+Toplu eylem ve hareketlerde bulunma yasağı:
 
 [[]{#OLE_LINK6 .anchor}]{#OLE_LINK5 .anchor}**Madde 26 – (Değişik:
 12/5/1982 - 2670/10 md.)**
@@ -602,7 +600,7 @@ görevlerine gelipte Devlet hizmetlerinin ve işlerinin yavaşlatılması
 veya aksatılması sonucunu doğuracak eylem ve hareketlerde bulunmaları
 yasaktır.
 
-*Grev yasağı:*
+Grev yasağı:
 
 **Madde 27 –** Devlet memurlarının greve karar vermeleri, grev
 tertiplemeleri, ilan etmeleri, bu yolda propaganda yapmaları yasaktır.
@@ -610,7 +608,7 @@ tertiplemeleri, ilan etmeleri, bu yolda propaganda yapmaları yasaktır.
 Devlet memurları, harhangi bir greve veya grev teşebbüsüne katılamaz,
 grevi destekliyemez veya teşvik edemezler.
 
-*Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı:^(1)^*
+Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı:^(1)^
 
 **Madde 28 – (Değişik: 30/5/1974 - KHK - 12; Değiştirilerek kabul:
 15/5/1975 - 1897/1 md.)**
@@ -621,18 +619,27 @@ görev alamaz, ticari mümessil veya ticari vekil veya kollektif
 şirketlerde ortak veya komandit şirkette komandite ortak olamazlar.
 (Görevli oldukları kurumların iştiraklerinde kurumlarını temsilen
 alacakları görevler hariç). **(Ek cümle: 8/8/2011-KHK-650/38 md.; İptal
-cümle: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.:
-2012/108 sayılı Kararı ile. ) (…) ^(1)^**
+cümle: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113, K.:
+2012/108 sayılı Kararı ile.; (…) ^(1)^ Yeniden düzenleme son cümle:
+2/1/2014-6514/9 md.)** Memurlar, mesleki faaliyette veya serbest meslek
+icrasında bulunmak üzere ofis, büro, muayenehane ve benzeri yerler
+açamaz; gerçek kişilere, özel hukuk tüzel kişilerine veya kamu kurumu
+niteliğindeki meslek kuruluşlarına ait herhangi bir iş yerinde veya
+vakıf yükseköğretim kurumlarında çalışamaz.
 
 **(Değişik ikinci fıkra: 8/8/2011-KHK-650/38 md.; İptal ikinci fıkra:
 Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108
-sayılı Kararı ile.) ^(1)^**
+sayılı Kararı ile. ^(1)^ Yeniden düzenleme: 2/1/2014-6514/9 md.)**
+Memurların üyesi oldukları yapı, kalkınma ve tüketim kooperatifleri,
+kamu kurumu niteliğindeki meslek kuruluşları ve kanunla kurulmuş yardım
+sandıklarının yönetim, denetim ve disiplin kurulları üyelikleri ile özel
+kanunlarda belirtilen görevler bu yasaklamanın dışındadır.
 
 Eşleri, reşit olmayan veya mahcur olan çocukları, yasaklanan
 faaliyetlerde bulunan memurlar bu durumu 15 gün içinde bağlı oldukları
 kuruma bildirmekle yükümlüdürler,
 
-*Hediye alma, menfaat sağlama yasağı:*
+Hediye alma, menfaat sağlama yasağı:
 
 **Madde 29 –** Devlet memurlarının doğrudan doğruya veya aracı eliyle
 hediye istemeleri ve görevleri sırasında olmasa dahi menfaat sağlama
@@ -645,14 +652,14 @@ eşiti seviyedeki üst düzey kamu görevlilerince alınan hediyelerin
 listesini gerektiğinde her takvim yılı sonunda bu görevlilerden istemeye
 yetkilidir.
 
-*Denetimindeki teşebbüsten menfaat sağlama yasağı:*
+Denetimindeki teşebbüsten menfaat sağlama yasağı:
 
 **Madde 30 –** Devlet memurunun, denetimi altında bulunan veya kendi
 görevi veya mensup olduğu kurum ile ilgisi olan bir teşebbüsten,
 doğrudan doğruya veya aracı eliyle her ne ad altında olursa olsun bir
 menfaat sağlaması yasaktır.
 
-*Gizli bilgileri açıklama yasağı:*
+Gizli bilgileri açıklama yasağı:
 
 **Madde 31 – (Değişik: 12/5/1982 - 2670/11 md.)**
 
@@ -7182,34 +7189,30 @@ miktarda, öğretim yılına hazırlık ödeneği ödenir.
              Bu ödenek damga vergisi hariç diğer vergi ve kesintilere
 tabi tutulmaz.
 
-             **Ek Madde 33 – (Ek: 23/2/1995 - KHK - 547/10 md.; Değişik:
+            **Ek Madde 33 – (Ek: 23/2/1995 - KHK - 547/10 md.; Değişik:
 21/1/2010-5947/10 md.)**
 
 Yataklı tedavi kurumları, seyyar hastaneler, ağız ve diş sağlığı
-merkezleri ve 112 acil sağlık hizmetlerinde haftalık  çalışma süresi
-dışında normal, acil  veya branş nöbeti tutarak, bu nöbet karşılığında
+merkezleri ve 112 acil sağlık hizmetlerinde haftalık çalışma süresi
+dışında normal, acil veya branş nöbeti tutarak, bu nöbet karşılığında
 kurumunca izin kullanmasına müsaade edilmeyen memurlar ile sözleşmeli
 personele, izin suretiyle karşılanamayan her bir nöbet saati için (nöbet
 süresi kesintisiz 6 saatten az olmamak üzere), aşağıda gösterilen
 gösterge rakamlarının aylık katsayısı ile çarpılması sonucu hesaplanacak
-tutarda nöbet ücreti ödenir. Ancak ayda 130 saatten fazlası için ödeme
-yapılmaz. Bu ücret damga vergisi hariç herhangi bir vergi ve kesintiye
-tabi tutulmaz.
-
- 
-
- 
-
- 
+tutarda nöbet ücreti ödenir. **(Ek cümle:2/1/2014 - 6514/10 md.)** Bu
+ücret yoğun bakım, acil servis ve 112 acil sağlık hizmetlerinde tutulan
+söz konusu nöbetler için yüzde elli oranında artırımlı ödenir. Ancak
+ayda 130 saatten fazlası için ödeme yapılmaz. Bu ücret damga vergisi
+hariç herhangi bir vergi ve kesintiye tabi tutulmaz.
 
 ———————————
 
-(1)    Ek 31 inci madde numarası, 18/5/1994 tarih ve 527 sayılı KHK'nin
-11 inci maddesi ile Ek Madde 32 olarak düzeltilmiştir.
+\(1) Ek 31 inci madde numarası, 18/5/1994 tarih ve 527 sayılı KHK'nin 11
+inci maddesi ile Ek Madde 32 olarak düzeltilmiştir.
 
-\(2) 4/6/2010 tarihli ve 5984 sayılı Kanunun 4 üncü maddesiyle bu
+*(2) 4/6/2010 tarihli ve 5984 sayılı Kanunun 4 üncü maddesiyle bu
 maddenin birinci fıkrasında yer alan “İlköğretim Müfettişleri hariç”
-ibaresi madde metninden çıkarılmıştır.
+ibaresi madde metninden çıkarılmıştır.*
 
 4249
 
@@ -13707,6 +13710,8 @@ fıkraları                                
   Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/89, K.: 2013/29 sayılı Kararı      Geçici Madde 38                                                        31/12/2013 tarihinden dokuz ay sonra
                                                                                                                                                                 
                                                                                                                                                                 (30/9/2014)
+
+  6514                                                                                   28, Ek Madde 33                                                        18/1/2014
   -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- ----------------------------------------------
 
 
