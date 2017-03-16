@@ -1,4 +1,4 @@
-4925 sayılı Kanunun 5335 sayılı Kanun ile Değişik Hali
+4925 sayılı Kanunun 5728 sayılı Kanun ile Değişik Hali
 
 **KARAYOLU TAŞIMA KANUNU** *^(1)^*
 
@@ -184,7 +184,10 @@ Bakanlıktan yetki belgesi alınması zorunludur.
 Taşımacılık, acentelik ve taşıma işleri komisyonculuğu ile nakliyat
 ambarı ve kargo işletmeciliği yetki belgesi alınabilmesi için taşıma
 işleri işletmecilerinin meslekî saygınlık, malî yeterlilik ve meslekî
-yeterliliğe sahip olması gerekmektedir. Bu maddeye ilişkin usul ve
+yeterliliğe sahip olması gerekmektedir. **(Ek cümle: 23/1/2008-5728/ 516
+md.)** Ayrıca, karayoluyla yük ve yolcu taşımacılığı faaliyetlerinde
+kullanılan ticari araçlarda çalışan şoförlerin, sürücü mesleki
+yeterlilik belgesi almaları zorunludur. Bu maddeye ilişkin usul ve
 esaslar yönetmelikle belirlenir. 18.1.1954 tarihli ve 6224 sayılı
 Yabancı Sermayeyi Teşvik Kanunu hükümleri saklıdır.
 
@@ -532,9 +535,9 @@ ve tazminat yükümlüsünü öğrendiği tarihten itibaren iki yıl ve her hald
 zarara neden olan olay tarihinden itibaren on yıl sonra zamanaşımına
 uğrar.
 
-Dava, cezayı gerektiren bir fiilden doğmakta ve 765 sayılı Türk Ceza
+Dava, cezayı gerektiren bir fiilden doğmakta ve (…) *^(1)^* Türk Ceza
 Kanununda bu fiil için daha uzun bir zamanaşımı süresi öngörülmekte ise
-tazminat davasında bu ceza zamanaşımı uygulanır.
+tazminat davasında bu ceza zamanaşımı uygulanır. *^(1)^*
 
 Sorumlu kişi hakkındaki zamanaşımını kesen sebepler, sigorta şirketi
 hakkında da uygulanır. Sigorta şirketi hakkında zamanaşımını kesen
@@ -564,120 +567,104 @@ Cezalar
 
 **İdarî para cezaları**
 
-**MADDE 26. —** Bu Kanunun;
+**MADDE 26. —(Değişik: 23/1/2008-5728/518 md.)**
+
+Bu Kanunun;
 
 a\) 5 inci maddesine göre yetki belgesi almadan taşıma işinde faaliyette
-bulunanlara beşmilyar lira,
+bulunanlara beşbin Türk Lirası,
 
-5 inci maddesinin beşinci fıkrasına aykırı davranan taşımacılara
-beşyüzmilyon lira,
+5 inci maddesinin beşinci fıkrasına aykırı davranan taşımacılara beşyüz
+Türk Lirası,
 
 5 inci maddesinin altıncı fıkrasına göre taşıma hizmetini yapmaktan
-kaçınan taşımacılara dörtyüzmilyon lira,
+kaçınan taşımacılara dörtyüz Türk Lirası,
 
 5 inci maddesinin yedinci fıkrasına aykırı davranarak bir taşımacının
-diğer bir taşımacının taşıma faaliyetini engellemesi halinde dörtmilyar
-lira,
+diğer bir taşımacının taşıma faaliyetini engellemesi halinde dörtbin
+Türk Lirası,
 
 b\) Bilette tayin edilen yeri başka bir kimseye verenler veya 6 ncı
 maddesine aykırı davranarak yolcu taşıyanlardan, her yolcu için taşıma
 ücretinin beş katı tutarı, taşıma senedi olmaksızın eşya taşıyanlardan
-birmilyar lira,
+bin Türk Lirası,
 
-c\) 6 ncı maddesinin birinci fıkrasına aykırı davranan taşımacılara
-üçyüzmilyon lira, üçüncü ve dördüncü fıkralarına aykırı davranan
-taşımacılara beşyüzmilyon lira,
+c\) 6 ncı maddesinin birinci fıkrasına aykırı davranan taşımacılara üçyüz
+Türk Lirası, üçüncü ve dördüncü fıkralarına aykırı davranan taşımacılara
+beşyüz Türk Lirası,
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 23/1/2008 tarihli ve 5728 sayılı Kanunun 517 nci maddesi ile bu
+fıkrada yer alan “765 sayılı” ibaresi madde metninden çıkartılmıştır.*
 
 d\) 7 nci maddesinin birinci fıkrasına aykırı davranan yolcu
-taşımacılarına birmilyar lira, ikinci fıkrasına aykırı davranan
-taşımacılara beşyüzmilyon lira, altıncı fıkrasına aykırı davranan
-taşımacılara üçyüzmilyon lira,
+taşımacılarına bin Türk Lirası, ikinci fıkrasına aykırı davranan
+taşımacılara beşyüz Türk Lirası, altıncı fıkrasına aykırı davranan
+taşımacılara üçyüz Türk Lirası,
 
 e\) 10 uncu maddesine aykırı davranan acente ve taşıma işleri
-komisyoncularına üçmilyar lira ,
+komisyoncularına üçbin Türk Lirası,
 
 f\) 11 inci maddesine aykırı davranarak ücret tarifesi düzenlemeyenlere
-beşyüzmilyon lira, ücret tarifelerine uymayan veya değişik ücret
-tarifeleri uygulayanlara beşyüzmilyon lira, bunun dışında ikinci fıkraya
-aykırı davrananlara ikiyüzmilyon lira,
+beşyüz Türk Lirası, ücret tarifelerine uymayan veya değişik ücret
+tarifeleri uygulayanlara beşyüz Türk Lirası, bunun dışında ikinci
+fıkraya aykırı davrananlara ikiyüz Türk Lirası,
 
-Zaman tarifesine uymayanlara ikiyüzmilyon lira, zaman tarifelerini
+Zaman tarifesine uymayanlara ikiyüz Türk Lirası, zaman tarifelerini
 görülebilecek şekilde işyeri, terminal ve bilet satış yerlerinde
-bulundurmayanlara yüzmilyon lira,
+bulundurmayanlara yüz Türk Lirası,
 
 g\) 13 üncü maddesine aykırı olarak yabancı plâkalı taşıtların Türkiye
 sınırları dahilindeki iki nokta arasında taşıma yapması halinde, taşıt
-sahibine veya şoförüne birmilyar lira,
+sahibine veya şoförüne bin Türk Lirası,
 
-h\) 14 üncü maddesine aykırı davrananlara beşyüzmilyon lira,
+h\) 14 üncü maddesine aykırı davrananlara beşyüz Türk Lirası,
 
 ı) 18 inci maddesi hükümlerine göre sorumluluk sigortası yaptırmayan
-taşımacılara birmilyar lira,
+taşımacılara bin Türk Lirası,
 
 18 inci madde hükümlerine göre sorumluluk sigortası yapmaktan kaçınan
 sigorta şirketlerine, ödenmesi gereken sigorta priminin on katı
 tutarında,
 
 i\) 22 nci maddesinin ikinci fıkrasına uymayan ve yükümlülükleri yerine
-getirmeyen taşımacılara beşyüzmilyon lira,
+getirmeyen taşımacılara beşyüz Türk Lirası,
 
-j\) 31 inci maddesinin ikinci fıkrasında sayılan belgeler üzerinde
-tahrifat yapan taşımacılara beşmilyar lira,
+j\) 32 nci maddesine aykırı olarak terminal ve ara durak dışında yolcu
+indirip bindiren taşımacılara üçyüz Türk Lirası,
 
-k\) 32 nci maddesine aykırı olarak terminal ve ara durak dışında yolcu
-indirip bindiren taşımacılara üçyüzmilyon lira,
+k\) 5 inci maddesine göre mesleki yeterlilik belgesine sahip olmadan
+faaliyet gösteren işletmecilere beşyüz Türk Lirası, şoförlere ise ikiyüz
+Türk Lirası,
 
-Para cezası verilir.
+İdarî para cezası verilir.
 
 **Ceza uygulaması**
 
-**MADDE 27. —** Eylemin başka bir suç teşkil etmesi halinde, 26 ncı
-madde ile verilen para cezaları, diğer kanunlardaki suçların takibine ve
-cezaların uygulanmasına; bu Kanunda ve yönetmelikte düzenlenen uyarma,
-geçici durdurma ve iptal gibi idarî müeyyidelerin uygulanmasına engel
-teşkil etmez.
+**MADDE 27. —(Değişik: 23/1/2008-5728/519 md.)**
 
-Birden fazla suçun bir arada işlenmesi halinde her suç için ayrı ceza
-uygulanır.
+Bu Kanunda yazılı idarî yaptırımlara mahallî mülkî amir karar vermeye
+yetkilidir.
 
-**Suç ve ceza tutanakları**
+26 ncı maddeye göre verilen idarî para cezaları, bu Kanunda ve
+yönetmelikte düzenlenen uyarma, geçici durdurma ve iptal gibi idarî
+yaptırımların uygulanmasına engel teşkil etmez.”
 
-**MADDE 28. —** Bu Kanunda yazılı suçlara ilişkin idarî para cezalarına
-dair tutanakların düzenlenmesi ve tahsiline ait usul ve esaslar Maliye
-Bakanlığının görüşü alınarak hazırlanacak yönetmelikle düzenlenir.
+**MADDE 28. —(Mülga: 23/1/2008-5728/578 md.)**
 
-**Para cezalarının ödenme süresi**
+**MADDE 29. —** **(Mülga: 23/1/2008-5728/578 md.)**
 
-**MADDE 29. —** **(Değişik: 16/7/2004-5228/49 md.)** Ödeme derhal
-yapılmadığı takdirde para cezalarının, tutanağın tebliğ tarihinden
-itibaren bir ay içinde ödenmesi gerekir. Bir ay içinde ödenmeyen cezalar
-için her ay % 5 faiz uygulanır. Aylık faizin hesaplanmasında ay
-kesirleri tam ay sayılır. Bu suretle bulunacak tutar cezanın iki katını
-geçemez. İlgilisine tebliğ edilmeyen tutanakların tebliğinde 2918 sayılı
-Karayolları Trafik Kanununun 116 ncı maddesi hükümleri uygulanır.
+**Tekrar** ***^(1)^***
 
-Süresinde ödenmeyen para cezaları için 6183 sayılı Amme Alacaklarının
-Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
+**MADDE 30. —(Değişik: 23/1/2008-5728/520 md.)**
 
-Bu para cezaları, Maliye Bakanlığının sayman mutemetlerine, mal
-sandıklarına veya Bakanlıkça yetkili kılınmış personele ödenebileceği
-gibi banka, posta çeki veya kredi kartı ile de ödenebilir. Maliye
-Bakanlığı kredi kartı ile tahsilat yapılmasına izin vermeye, tahsilatın
-saymanlık hesaplarına aktarılmasına ilişkin süreleri ve diğer usul ve
-esasları belirlemeye yetkilidir.
-
-**Para cezalarına itiraz ve suçlarda tekerrür**
-
-**MADDE 30. —** Para cezalarına karşı tebliğ tarihinden itibaren otuz
-gün içerisinde yetkili idare mahkemesine itiraz edilebilir. İtiraz
-üzerine verilen kararlar kesindir.
-
-Bu Kanunda belirtilen suçların işlendiği tarihten itibaren bir yıl
-içinde aynı nitelikte üç defa suç işlediği tespit edilen gerçek ve tüzel
-kişilere, işlediği suçların cezalarının toplamının on katı para cezası
-verilir ve taşıt şoförünün yurt içi taşımalarda ticarî araç kullanım
-belgesi, yurt dışı taşımalarda da uluslararası sürücü sertifikası bir
-yıl süreyle askıya alınır.
+Bu Kanunda belirtilen idarî para cezasını gerektiren fiillerin işlendiği
+tarihten itibaren bir yıl içinde aynı nitelikteki fiili üç defa işlediği
+tespit edilen gerçek ve tüzel kişilere, işlediği fiillerin cezalarının
+toplamının on katı idarî para cezası verilir ve taşıt şoförünün yurt içi
+ve yurt dışı taşımalarda sürücü mesleki yeterlilik belgesi ile varsa
+uluslararası sürücü sertifikası bir yıl süreyle askıya alınır.
 
 İKİNCİ BÖLÜM
 
@@ -690,8 +677,16 @@ taşınmadığının sonradan anlaşılması veya faaliyet sırasında bu
 şartlardan herhangi birinin kaybedilip de verilen süre içerisinde
 giderilmemesi halinde yetki belgeleri iptal edilir.
 
-Yetki belgeleri, taşıt belgeleri veya taşıt kartı üzerinde tahrifat
-yapan yetki belgesi sahiplerine idarî para cezası verilir.
+**(Değişik: 23/1/2008-5728/521 md.)** Yetki belgeleri, taşıt belgeleri
+veya taşıt kartı üzerinde tahrifat yapan yetki belgesi sahipleri
+hakkında Türk Ceza Kanununun belgede sahtecilik suçuna ilişkin
+hükümlerine göre verilecek ceza yarı oranında indirilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 23/1/2008 tarihli ve 5728 sayılı Kanunun 520 nci maddesi ile bu
+maddenin başlığı “Para cezalarına itiraz ve suçlarda tekerrür” iken
+metne işlendiği şekilde değiştirilmiştir.*
 
 ÜÇÜNCÜ BÖLÜM
 
@@ -848,7 +843,7 @@ zorundadırlar.
                                                                                                                                                                                                                         
                                                                                                                                                       **Resmi Gazete Tarihi**                                           
 
-  5228                       31/7/2004                                                                                                                31/7/2004                                                         29
+  5528                       31/7/2004                                                                                                                31/7/2004                                                         29
 
   5335                       33 üncü maddenin birinci fıkrasında yapılan ibare değişikliği 1/1/2009 tarihinde,                                        27/4/2005                                                         33
                                                                                                                                                                                                                         
@@ -856,7 +851,7 @@ zorundadırlar.
                                                                                                                                                                                                                         
                              Diğer fıkra hükümleri 27/4/2005 tarihinde                                                                                                                                                  
 
-                                                                                                                                                                                                                        
+  5728                       8/2/2008                                                                                                                 8/2/2008                                                          5, 24, 26, 27, 28, 29, 30, 31
 
                                                                                                                                                                                                                         
 
