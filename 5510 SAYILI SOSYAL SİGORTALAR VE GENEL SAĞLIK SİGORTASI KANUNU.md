@@ -1,4 +1,4 @@
-**6270 sayılı Kanun ile değişik hali**
+**6283 sayılı Kanun ile değişik hali**
 
 **SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU ^(1)^**
 
@@ -510,7 +510,7 @@ mahalle muhtarları için seçildikleri tarihten; 4 üncü maddenin üçüncü
 fıkrasında belirtilenler için ise lisans belgesine istinaden fiilen
 çalışmaya başladıkları tarihten,
 
-\(c) **(Değişik: 17/4/2008-5754/ 5 md.)** (c) bendi kapsamında sigortalı
+c\) **(Değişik: 17/4/2008-5754/ 5 md.)** (c) bendi kapsamında sigortalı
 sayılanlar için, göreve başladıkları veya bu Kanunun 4 üncü maddesinin
 dördüncü fıkrasının (d) ve (e) bentleri kapsamındaki okullarda öğrenime
 başladıkları tarihten,
@@ -4240,9 +4240,10 @@ dikkate alınmaz.
 Ayrıca genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin
 sağlık hizmetlerinden ve diğer haklardan yararlanabilmeleri için sağlık
 hizmet sunucularına başvurduklarında acil haller hariç olmak üzere (acil
-hallerde ise acil halin sona ermesinden sonra); nüfus cüzdanı, sürücü
-belgesi, evlenme cüzdanı, pasaport veya Kurum tarafından verilen resimli
-sağlık kartı belgelerinden birinin gösterilmesi zorunludur.
+hallerde ise acil halin sona ermesinden sonra); biyometrik yöntemlerle
+kimlik doğrulamasının yapılması ve/veyanüfus cüzdanı, sürücü belgesi,
+evlenme cüzdanı, pasaport veya Kurum tarafından verilen resimli sağlık
+kartı belgelerinden birinin gösterilmesi zorunludur. ^(3)^
 
 60 ıncı maddenin birinci fıkrasının (a) bendi kapsamında genel sağlık
 sigortalısı sayılanlar, zorunlu sigortalıklarının sona erdiği tarihten
@@ -4277,7 +4278,12 @@ bentte yer alan “60 günden fazla prim ve prime ilişkin” ibaresi
 “21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
 Hakkında Kanunun 48 inci maddesine göre tecil ve taksitlendirilerek
 tecil ve taksitlendirmeleri devam edenler hariç 60 günden fazla prim ve
-prime ilişkin” olarak değiştirilmiş ve metne işlenmiştir.*
+prime ilişkin” olarak değiştirilmiş ve metne işlenmiştir. *
+
+*(3) 1/3/2012 tarihli ve 6283 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “nüfus cüzdanı” ibaresinden önce gelmek üzere
+“biyometrik yöntemlerle kimlik doğrulamasının yapılması ve/veya” ibaresi
+eklenmiş ve metne işlenmiştir.*
 
 **Katılım payı alınması**
 
@@ -4299,29 +4305,32 @@ Katılım payı, (b) ve (c) bentlerindeki sağlık hizmetleri için gereksiz
 kullanımı azaltma, sağlık hizmetlerinin niteliği itibarıyla hayati öneme
 sahip olup olmaması, kişilerin prime esas kazançlarının, gelir ve
 aylıklarının tutarı ve benzeri ölçütler dikkate alınarak % 10 ilâ % 20
-oranları arasında olmak üzere Kurumca belirlenir. Ayrıca Kurum, birinci
-fıkranın (c) bendinde belirtilen sağlık hizmetlerinde, aile hekimlerince
-yazılan reçeteler dâhil olmak üzere reçetede yer alan üç kaleme/üç
-kutuya kadar ilaç/ilaçlar için 3 Türk Lirası, ilave her bir kalem/kutu
-ilaç için 1 Türk Lirası olmak üzere katılım payı uygulamaya yetkilidir.
-Katılım payına ilişkin kutu hesabında enjektable formlar, serum ve
-beslenme ürünleri ile Kurum tarafından belirlenecek ilaçlar dikkate
-alınmaz. Kurum, birinci fıkranın (a) bendi gereği belirlediği katılım
-payını; birinci basamak sağlık hizmeti sunucularında yapılan
-muayenelerde almamaya ya da daha düşük tutarlarda belirlemeye veya
-tekrar birinci fıkranın (a) bendi için belirlenen tutara getirmeye,
-ikinci ve üçüncü basamak sağlık hizmet sunucularında yapılan
-muayenelerde ise müracaat edilen sağlık hizmeti sunucusunun yer aldığı
-basamak, sağlık hizmeti sunucusunun resmi ve özel sağlık hizmeti
-sunucusu niteliğinde olup olmaması, önceki basamaklardan sevkli olarak
-başvurulup başvurulmadığı gibi hususları göz önünde bulundurarak on
-katına kadar artırmaya ve sağlık hizmeti sunucuları için farklı
-belirlemeye yetkilidir. Birinci fıkranın (d) bendinde belirtilen sağlık
-hizmetleri bedelinin % 1’ine kadar katılım payı alınabilir. % 1’ine
-kadar tespit edilen katılım payını almamaya, yarısına kadar indirmeye
-Kurum yetkilidir. Kurum, bu fıkrada belirtilen 1 Türk Lirası, 2 Türk
-Lirası ve 3 Türk Lirasını, 4/1/1961 tarihli ve 213 sayılı Vergi Usul
-Kanunu uyarınca belirlenen yeniden değerleme oranına kadar her yıl
+oranları arasında olmak üzere Kurumca belirlenir. **(Ek cümle:
+3/1/2012-6283/2 md.)** Yukarıdaki (b) ve (c) bentleri kapsamına giren
+sağlık hizmetlerinden alınacak katılım payını % 1’e kadar indirmeye,
+Kurumun teklifi üzerine Çalışma ve Sosyal Güvenlik Bakanı yetkilidir.
+Ayrıca Kurum, birinci fıkranın (c) bendinde belirtilen sağlık
+hizmetlerinde, aile hekimlerince yazılan reçeteler dâhil olmak üzere
+reçetede yer alan üç kaleme/üç kutuya kadar ilaç/ilaçlar için 3 Türk
+Lirası, ilave her bir kalem/kutu ilaç için 1 Türk Lirası olmak üzere
+katılım payı uygulamaya yetkilidir. Katılım payına ilişkin kutu
+hesabında enjektable formlar, serum ve beslenme ürünleri ile Kurum
+tarafından belirlenecek ilaçlar dikkate alınmaz. Kurum, birinci fıkranın
+(a) bendi gereği belirlediği katılım payını; birinci basamak sağlık
+hizmeti sunucularında yapılan muayenelerde almamaya ya da daha düşük
+tutarlarda belirlemeye veya tekrar birinci fıkranın (a) bendi için
+belirlenen tutara getirmeye, ikinci ve üçüncü basamak sağlık hizmet
+sunucularında yapılan muayenelerde ise müracaat edilen sağlık hizmeti
+sunucusunun yer aldığı basamak, sağlık hizmeti sunucusunun resmi ve özel
+sağlık hizmeti sunucusu niteliğinde olup olmaması, önceki basamaklardan
+sevkli olarak başvurulup başvurulmadığı gibi hususları göz önünde
+bulundurarak on katına kadar artırmaya ve sağlık hizmeti sunucuları için
+farklı belirlemeye yetkilidir. Birinci fıkranın (d) bendinde belirtilen
+sağlık hizmetleri bedelinin % 1’ine kadar katılım payı alınabilir. %
+1’ine kadar tespit edilen katılım payını almamaya, yarısına kadar
+indirmeye Kurum yetkilidir. Kurum, bu fıkrada belirtilen 1 Türk Lirası,
+2 Türk Lirası ve 3 Türk Lirasını, 4/1/1961 tarihli ve 213 sayılı Vergi
+Usul Kanunu uyarınca belirlenen yeniden değerleme oranına kadar her yıl
 artırmaya yetkilidir.
 
 **(Mülga fıkra: 17/4/2008-5754/43 md.)**
@@ -6467,15 +6476,18 @@ elektronik ortamda yapılmaması halinde sigortalı başına aylık asgari
 ücretin onda biri, hiç yapılmaması halinde ise sigortalı başına aylık
 asgari ücretin yarısı tutarında idari para cezası uygulanır.
 
-j\) **(Ek: 18/2/2009-5838/4 md.)** 9 uncu maddesinin birinci fıkrasının
-(a) bendine göre sigortalılığı sona erenlere ilişkin bildirim ile 506
-sayılı Kanunun geçici 20 nci maddesinde yer alan sandıklara, sandık
-iştirakçiliğinin başlama veya sona ermesine ilişkin bildirimi, süresi
-içinde ya da Kurumca belirlenen şekle ve usule uygun olarak yapmayanlar
-veya Kurumca internet, elektronik veya benzeri ortamda göndermekle
-zorunlu tutulduğu halde anılan ortamda göndermeyenler hakkında, her bir
-sigortalı veya sandık iştirakçisi için asgari ücret tutarında idari para
-cezası uygulanır.
+j\) **(Ek: 18/2/2009-5838/4 md.; Değişik: 1/3/2012-6283/3 md.)** 9 uncu
+maddesinin birinci fıkrasının (a) bendine göre sigortalılığı sona
+erenlere ilişkin bildirim ile 506 sayılı Kanunun geçici 20 nci
+maddesinde yer alan sandıklara, sandık iştirakçiliğinin başlama veya
+sona ermesine ilişkin bildirimi, süresi içinde ya da Kurumca belirlenen
+şekle ve usule uygun olarak yapmayanlar veya Kurumca internet,
+elektronik veya benzeri ortamda göndermekle zorunlu tutulduğu halde
+anılan ortamda göndermeyenler hakkında, bir takvim ayında işlenen bu
+fiillerden dolayı tutmakla yükümlü bulunulan defter ve belgelerin ibraz
+edilmemesi nedeniyle verilmesi gereken ceza tutarını aşmamak kaydıyla
+her bir sigortalı veya sandık iştirakçisi için asgari ücretin onda biri
+tutarında idari para cezası uygulanır.
 
 k\) **(Ek: 25/6/2009-5917/42 md.)** 100 üncü maddesinin altıncı fıkrasına
 göre genel sağlık sigortalılarının bakmakla yükümlü oldukları kişilere
@@ -8407,7 +8419,7 @@ edilmez.
 **506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıklar ve
 ilgili hükümler**
 
-**GEÇİCİ MADDE 20-** **(Değişik: 17/4/2008-5754/73 md.) **
+**GEÇİCİ MADDE 20-** **(Değişik: 17/4/2008-5754/73 md.) ^(1)^**
 
 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki bankalar, sigorta
 ve reasürans şirketleri, ticaret odaları, sanayi odaları, borsalar veya
@@ -8416,7 +8428,7 @@ sandıkların iştirakçileri ile aylık veya gelir bağlanmış olanlar ile
 bunların hak sahipleri herhangi bir işleme gerek kalmaksızın bu maddenin
 yayımı tarihinden itibaren üç yıl içinde Sosyal Güvenlik Kurumuna
 devredilerek bu Kanun kapsamına alınır. Üç yıllık süre Bakanlar Kurulu
-kararı ile en fazla iki yıl daha uzatılabilir. Devir tarihi itibarıyla
+kararı ile en fazla dört yıl daha uzatılabilir. Devir tarihi itibarıyla
 sandık iştirakçileri bu Kanunun 4 üncü maddesinin (a) bendi kapsamında
 sigortalı sayılırlar.
 
@@ -8475,6 +8487,12 @@ aylıklarının   durum   değişikliği  nedeniyle   artırılması,
 vakıf senetlerine göre yapılacak hesaplamalar ilgili sandıklar veya
 sandık iştirakçilerini istihdam eden kuruluşlar tarafından Kurum
 kontrolünde yapılır.
+
+–––––––––––––––
+
+*(1) 1/3/2012 tarihli ve 6283 sayılı Kanunun 4 üncü maddesiyle, bu
+maddenin birinci fıkrasının ikinci cümlesinde yer alan “iki yıl” ibaresi
+“dört yıl” şeklinde değiştirilmiş ve metne işlenmiştir.*
 
 Sandık iştirakçileri ile aylık ve/veya gelir bağlanmış olanlar ve
 bunların hak sahiplerinin Sosyal Güvenlik Kurumuna devrinden sonra bu
@@ -9104,6 +9122,110 @@ karşılanır.
 Bu madde esas alınarak geriye dönük herhangi bir ödeme yapılmaz ve
 geriye dönük hak talep edilemez.
 
+**GEÇİCİ MADDE 39-** **(Ek: 1/32012-6283/5 md.)**
+
+\(1) Son tahsis talep tarihi veya ölüm tarihi 2000 yılı Ocak ayı başından
+önce olup, 506 sayılı Kanunun mülga hükümleri uyarınca gösterge
+sistemine göre bağlanan malûllük, yaşlılık ve ölüm aylıkları ile bu
+tarihten önce malûllük veya yaşlılık aylığı almakta iken bu tarihten
+sonra ölen sigortalıların ölüm aylıkları, bu madde hükümlerine göre
+yeniden hesaplanır.
+
+\(2) Aylıkların hesaplanmasında, 506 sayılı Kanunun mülga maddeleri
+uyarınca hazırlanan ve 1999 yılı Aralık ayında yürürlükte bulunan
+gösterge veya üst gösterge tablosundan sigortalı için tespit edilmiş
+olan mevcut gösterge rakamı ile aynı dönemde yürürlükte bulunan memur
+aylık katsayısı esas alınır.
+
+\(3) Sigortalının aylık bağlama oranı aşağıdaki şekilde belirlenir:
+
+a\) Malûllük aylığında; gösterge tablosundan aylık hesaplanmış olan için
+% 60, sigortalının başkasının bakımına muhtaç olması halinde % 70, üst
+gösterge tablosundan aylık hesaplanmış olan için ise 1999 yılı Aralık
+ayında yürürlükte bulunan ve gösterge rakamına göre % 59,9 ila % 50
+arasında belirlenmiş olan taban aylık bağlama oranı esas alınır. Yaştan
+ve günden artırım ve eksiltme yapılmaz.
+
+b\) Yaşlılık aylığında; gösterge tablosundan aylık hesaplanmış olan için
+% 60, üst gösterge tablosundan aylık hesaplanmış olan için ise 1999 yılı
+Aralık ayında yürürlükte bulunan ve gösterge rakamına göre % 59,9 ila %
+50 arasında belirlenmiş olan taban aylık bağlama oranı esas alınır. Bu
+şekilde belirlenen taban aylık bağlama oranı, sigortalının tahsis talep
+tarihi itibarıyla kadın ise 50, erkek ise 55 yaşından sonra doldurduğu
+her tam yaş için ve 5000 günden fazla ödediği her 240 günlük malûllük,
+yaşlılık ve ölüm sigortaları primi için (l)’er artırılır, 5000 günden
+noksan ödediği her 240 gün için (1)’er eksiltilir. Maden işyerlerinin
+yer altı işlerinde çalışması, sigortalı olarak ilk defa çalışmaya
+başladığı tarihten önce malûl olması, sakatlığı nedeniyle vergi
+indiriminden yararlanması veya erken yaşlanması nedeniyle tarafına
+yaşlılık aylığı bağlananlara günden dolayı eksiltme yapılmaz.
+
+c\) Ölüm aylığında; gösterge tablosundan aylık hesaplanmış olan için %
+60, üst gösterge tablosundan aylık hesaplanmış olan için ise 1999 yılı
+Aralık ayında yürürlükte bulunan ve gösterge rakamına göre % 59,9 ila %
+50 arasında belirlenmiş olan taban aylık bağlama oranı esas alınır. Bu
+şekilde belirlenen taban aylık bağlama oranı sigortalının ölüm tarihi
+itibarıyla kadın ise 50, erkek ise 55 yaşından sonra doldurduğu her tam
+yaş için ve 5000 günden fazla ödediği her 240 günlük malûllük, yaşlılık
+ve ölüm sigortaları primi için (l)’er artırılır. Günden dolayı eksiltme
+yapılmaz. Malûllük aylığı almakta iken ölen sigortalılar hakkında bakıma
+muhtaçlık durumu dikkate alınmaksızın (a) bendi, yaşlılık aylığı almakta
+iken ölen sigortalılar hakkında ise (b) bendi hükümleri uygulanır.
+
+ç) Malûllük, yaşlılık ve ölüm aylığının aylık bağlama oranı % 85’ten
+fazla olamaz.
+
+\(4) Sigortalının 1999 yılı Aralık ayı ödeme dönemi itibarıyla aylığı,
+yukarıdaki hükümlere göre tespit edilen gösterge rakamı, memur aylık
+katsayısı ve aylık bağlama oranının çarpımı suretiyle belirlenir.
+
+\(5) Bu madde hükümlerine göre 1999 yılı Aralık ayı ödeme dönemi
+itibarıyla hesaplanan aylık tutarı, % 5,9 oranında artırılarak 2000 yılı
+Ocak ayına, 2000 yılı Ocak ayı için bu şekilde hesaplanan aylık tutarı
+ise, (7,13326594120697) çarpanı kullanılarak 2008 yılı Ocak ayına
+taşınır. Bu şekilde hesaplanan aylık tutarı da, 2008 yılı Ocak ayı ödeme
+döneminden başlayarak 2013 yılı Ocak ayı ödeme dönemine kadar (bu dönem
+dahil) 4 üncü maddenin birinci fıkrasının (a) bendi kapsamındaki
+sigortalılara ödenmekte olan aylıklara uygulanmış olan aylık artışları
+ile artırılır.
+
+\(6) Bu maddeye göre hesaplanan aylık tutarının, sigortalı veya hak
+sahiplerine 2013 yılı Ocak ayı ödeme döneminde ödenmekte olan aylık
+tutarının altında kalması halinde, mevcut aylıkların ödenmesine devam
+edilir.
+
+\(7) Bu maddeye göre hesaplanan aylıklar için geriye yönelik herhangi bir
+ödeme yapılmaz.
+
+\(8) Sözleşme aylıklarını 2000 yılı Ocak ayı başından sonra borçlanma
+yapmak suretiyle tam aylığa yükseltenler ile geçici 20 nci maddeye göre
+devir alınacak sandıklardan aylık alanlara devir tarihinden sonra bu
+madde hükümleri uygulanmaz.
+
+\(9) Bu maddenin uygulanmasına ilişkin tereddütleri gidermeye Kurum
+Yönetim Kurulu yetkilidir.
+
+**GEÇİCİ MADDE 40-** **(Ek: 1/32012-6283/6 md.)**
+
+\(1) 1479 sayılı Kanunun mülga geçici 17 nci maddesine göre 1/4/2002 ile
+30/6/2002 tarihleri arasında kullanılmak üzere hazırlanan gelir
+basamakları esas alınarak hesaplanmış olan aylıklar bu madde hükümlerine
+göre yeniden hesaplanır.
+
+\(2) Geçici 27 nci madde uyarınca 1/4/2002 ile 30/6/2002 tarihleri
+arasında kullanılmak üzere hazırlanan gelir basamakları esas alınarak
+1479 sayılı Kanunun mülga geçici 11 inci maddesine göre 2002 yılı Nisan
+ayı ödeme dönemi itibarıyla hesaplanan aylık tutarı, aynı ödeme
+döneminde % 8,9 oranında artırıldıktan sonra 2002 yılı Mayıs ayı ödeme
+döneminden başlayarak 2013 yılı Ocak ayı ödeme dönemine kadar, 1479
+sayılı Kanun kapsamında bağlanmış olan aylıklara söz konusu dönemlerde
+uygulanan artış oranları ile artırılır ve aylıklar 2013 yılı Ocak ayı
+ödeme döneminden itibaren yeni belirlenen tutar üzerinden ödenmeye devam
+olunur.
+
+\(3) Bu maddeye göre hesaplanan aylıklar için geriye yönelik herhangi bir
+ödeme yapılmaz.
+
 **Yürürlük**
 
 **MADDE 108-** **(Değişik: 17/4/2008-5754/74 md.) **
@@ -9135,6 +9257,17 @@ yürürlüğe girer.
 **Yürütme**
 
 **MADDE 109-** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+**31/5/2006 TARİHLİ VE 5510 SAYILI KANUNA İŞLENEMEYEN GEÇİCİ MADDELER:**
+
+**1 - 1/3/2012 tarih ve 6283 sayılı Kanunun Geçici Maddesi:**
+
+**GEÇİCİ MADDE 1 –** 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar
+ve Genel Sağlık Sigortası Kanununun 102 nci maddesinin birinci
+fıkrasının (j) bendinde bu Kanunun 3 üncü maddesi ile yapılan
+değişiklik, bu Kanunun yayımı tarihinden önce tahakkuk ettirildiği halde
+ödenmemiş olan cezalar için de uygulanır, ancak tahsil edilmiş tutarlar
+red ve iade veya mahsup edilmez.
 
 **5510 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -9273,6 +9406,10 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
                                                                                                                                                        
                                                                             d\) Diğer maddeleri (5510 sayılı Kanunun 60, 64, 65, 68, 70, 102, Geçici   
                                                                             Madde 7 ve Geçici Madde 37 deki değişiklikler)                             
+
+  6283                                                                      67, 68, 102, Geçici 20, İşlenemeyen Hüküm                                  8/3/2012
+                                                                                                                                                       
+                                                                            Geçici 39 ve Geçici 40                                                     2013 yılı Ocak döneminde
   ------------------------------------------------------------------------- -------------------------------------------------------------------------- ----------------------------
 
 
