@@ -1,6 +1,4 @@
-2709 Sayılı
-
-2709 Sayılı Kanunun orijinal hali
+**17/10/1987 tarihli ve 3361 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -1087,10 +1085,10 @@ Seçimler ve halkoylaması serbest, eşit, gizli, tek dereceli, genel oy,
 açık sayım ve döküm esaslarına göre, yargı yönetim ve denetimi altında
 yapılır.
 
-Yirmibir yaşını dolduran her Türk vatandaşı, seçme ve halkoylamasına
-katılma hakkına sahiptir.
-
-Bu hakların kullanılması kanunla düzenlenir.
+**(Değişik üçüncü fıkra: 17/5/1987-3361/1 md.)** Seçimlerin ve
+halkoylamasının yapıldığı yılda, ay ve gün hesaba katılmaksızın, 20
+yaşına giren her Türk vatandaşı seçme ve halkoylamasına katılma hakkına
+sahiptir.
 
 Bu hakların kullanılması kanunla düzenlenir.
 
@@ -1227,8 +1225,10 @@ YASAMA
 
 *A. Kuruluşu: *
 
-**Madde 75 – **Türkiye Büyük Millet Meclisi, milletçe genel oyla seçilen
-dörtyüz milletvekilinden kuruludur.
+**Madde 75 – (Değişik: 17/5/1987-3361/2 md.)**
+
+Türkiye Büyük Millet Meclisi, milletçe genel oyla seçilen dörtyüzelli
+milletvekilinden kurulur.
 
 *B. Milletvekili seçilme yeterliliği *
 
@@ -3316,40 +3316,7 @@ c\) 29 Haziran 1981 gün ve 2485 sayılı Kurucu Meclis Hakkında Kanun,
 Yürürlükten kalkar ve Milli Güvenlik Konseyi ile Danışma Meclisinin
 hukuki varlıkları sona erer.
 
-**Geçici Madde 4 – **1) 16 Ekim 1981 tarih ve 2533 sayılı Kanunla
-feshedilmiş bulunan siyasî partilerden;
-
-11 Eylül 1980'den sonra gerek parti tüzelkişiliği, gerek bunların merkez
-yöneticilerinden veya Parlamento üyelerinden herhangi biri haklımda Türk
-Ceza Kanununun İkinci Kitabının birinci babında yer alan Devletin
-şahsiyetine karşı işlenmiş cürümlerden herhangi biri ile ilgili olarak
-kamu davası açılmış olanlarla, 11 Eylül 1980 tarihinde iktidar partisi
-ve anamuhalefet partisi durumunda bulunan siyasî partilerin;
-
-a\) 1 Ocak 1980 ve daha sonraki tarihlerde; genel başkan, genel başkan
-yardımcıları veya vekilleri, genel sekreterleri, bunların yardımcıları
-ve merkez yönetim kurulu veya benzeri organların üyeleri; Anayasanın
-halkoylaması sonucu kabulü tarihinden başlayarak on yıl süre ile siyasî
-parti kuramazlar; Anayasa hükümlerine dayalı olarak kurulacak siyasî
-partilere üye olamazlar, bu partiler tarafından veya bağımsız olarak
-milletvekili genel ve ara seçimlerinde, mahallî seçimlerde aday
-gösterilemezler ve aday olamazlar. Siyasî partilerle herhangi bir
-şekilde bağlantı kuramazlar ve siyasî partilerde fahrî olarak bile
-herhangi bir görev alamazlar.
-
-b\) 1 Ocak 1980 tarihinde Türkiye Büyük Millet Meclisinde üye bulunan
-milletvekilleri ile senatörler, Anayasanın halkoylaması sonucu kabulü
-tarihinden başlamak üzere beş yıl süre ile siyasî parti kuramazlar,
-kurulacak siyasî partilerin merkez yönetim kurullarında veya benzeri
-organlarda görev alamazlar.
-
-2\) 1 Ocak 1980 tarihinde kontenjan senatörü veya Cumhuriyet Senatosunun
-tabiî üyesi olanlar ile Türkiye Büyük Millet Meclisinin bağımsız
-üyelerinden; haklarında Türk Ceza Kanununun İkinci Kitabının birinci
-babında yer alan Devletin şahsiyetine karşı işlenmiş cürümlerden
-herhangi biri ile kamu davası açılmış bulunanlar veya birinci fıkrada
-nitelendirilen siyasî partilerden birine girmiş olanlar birinci fıkranın
-(b) bendi hükümlerine tâbi olurlar.
+**Geçici Madde 4 – (Mülga: 17/5/1987-3361/4 md.)**
 
 **Geçici Madde 5 – **Yapılacak ilk milletvekili genel seçimi sonucunun
 Yüksek Seçim Kurulunca ilanını takip eden onuncu gün, Türkiye Büyük
@@ -3456,22 +3423,56 @@ YEDİNCİ KISIM
 
 *Son Hükümler*
 
-*I. Anayasanın değiştirilmesi*
+*I. Anayasanın değiştirilmesi, seçimlere ve halkoylamasına katılma
+^(1)^*
 
-**Madde 175  – **Anayasanın değiştirilmesi, Türkiye Büyük Millet Meclisi
-üye tamsayısının en az üçte biri tarafından yazıyla teklif edilebilir.
-Anayasanın değiştirilmesi hakkındaki teklifler ivedilikle görüşülemez.
+**Madde 175  – (Değişik: 17/5/1987-3361/3 md.)**
 
-Değiştirme teklifinin kabulü, Meclisin üye tamsayısının üçte iki
-çoğunluğunun oyuyla mümkündür.
+Anayasanın değiştirilmesi Türkiye Büyük Millet Meclisi üye tamsayısının
+en az üçte biri tarafından yazıyla teklif edilebilir. Anayasanın
+değiştirilmesi hakkındaki teklifler Genel Kurulda iki defa görüşülür.
+Değiştirme teklifinin kabulü Meclisin üye tamsayısının beşte üç
+çoğunluğunun gizli oyuyla mümkündür.
 
 Anayasanın değiştirilmesi hakkındaki tekliflerin görüşülmesi ve kabulü,
-birinci fıkradaki kayıtlar dışında, kanunların görüşülmesi ve kabulü
-hakkındaki hükümlere tâbidir.
+bu maddedeki kayıtlar dışında, kanunların görüşülmesi ve kabulü
+hakkındaki hükümlere tabidir.
 
-Cumhurbaşkanı Anayasa değişikliklerini Türkiye Büyük Millet Meclisine
-geri gönderdikten sonra, Meclis geri gönderilen kanunu aynen kabul
-ederse Cumhurbaşkanı bu kanunu halkoyuna sunabilir.
+Cumhurbaşkanı Anayasa değişikliklerine ilişkin kanunları, bir daha
+görüşülmek üzere Türkiye Büyük Millet Meclisine geri gönderebilir.
+Meclis, geri gönderilen Kanunu, üye tamsayısının üçte iki çoğunluğu ile
+aynen kabul ederse Cumhurbaşkanı bu Kanunu halkoyuna sunabilir.
+
+Meclisce üye tamsayısının beşte üçü ile veya üçte ikisinden az oyla
+kabul edilen Anayasa değişikliği hakkındaki
+
+Kanun, Cumhurbaşkanı tarafından Meclise iade edilmediği takdirde
+halkoyuna sunulmak üzere Resmî Gazetede yayımlanır.
+
+Doğrudan veya Cumhurbaşkanının iadesi üzerine, Meclis üye tamsayısının
+üçte iki çoğunluğu ile kabul edilen Anayasa değişikliğine ilişkin kanun
+veya gerekli görülen maddeleri Cumhurbaşkanı tarafından halkoyuna
+sunulabilir. Halkoylamasına sunulmayan Anayasa değişikliğine ilişkin
+Kanun veya ilgili maddeler Resmî Gazetede yayımlanır.
+
+Halkoyuna sunulan Anayasa değişikliklerine ilişkin kanunların yürürlüğe
+girmesi için, halkoylamasında kullanılan geçerli oyların yarısından
+çoğunun kabul oyu olması gerekir.
+
+Türkiye Büyük Millet Meclisi Anayasa değişikliklerine ilişkin kanunların
+kabulü sırasında, bu Kanunun halkoylamasına sunulması halinde,
+Anayasanın değiştirilen hükümlerinden, hangilerinin birlikte
+hangilerinin ayrı ayrı oylanacağını da karara bağlar.
+
+Halkoylamasına, milletvekili genel ve ara seçimlerine ve mahallî genel
+seçimlere iştiraki temin için, kanunla para cezası dahil gerekli her
+türlü tedbir alınır.
+
+–––––––––––––––
+
+*(1) Bu madde başlığı “I. Anayasanın değiştirilmesi " iken, 17/5/1987
+tarihli ve 3361 sayılı Kanunun 3 üncü maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
 *II. Başlangıç ve kenar başlıklar *
 
@@ -3540,3 +3541,45 @@ maddesi gereğince uygulanır.
 f\) Kesinhesap kanunu tasarılarının görüşülme usulünü düzenleyen 164 üncü
 maddenin ikinci fıkrası hükmü 1984 yılından itibaren uygulanmaya
 başlanır.
+
+**18/10/1982 TARİHLİ VE 2709 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER :**
+
+**1- 17/5/1987 tarihli ve 3361 sayılı Kanunun 4 üncü ve 5 inci
+maddesi:**
+
+**Madde 4 —** Türkiye Cumhuriyeti Anayasasının Geçici 4 üncü maddesi
+yürürlükten kaldırılmıştır.
+
+Bu hükmün, onaylanarak yürürlüğe girebilmesi için halkoyuna sunulması
+zorunlu olup halkoylaması, Anayasanın 175 inci maddesinin bu Kanunla
+değişik hükümlerine göre yapılır.
+
+*Yürürlük*
+
+**Madde 5 —** Bu Kanunun ikinci maddesi ile Anayasanın 75 inci
+maddesinde yapılan değişiklik ilk milletvekili genel seçiminde, diğer
+maddeleri ise bu Kanunun yayımı tarihinde yürürlüğe girer.
+
+**2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------- ----------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Değiştiren **        **2709 sayılı Kanunun değişen maddeleri**             **Yürürlüğe Giriş Tarihi**
+                                                                               
+  **Kanunun Numarası**                                                         
+
+  3361                   67, 75, 175, Geçici Madde 4 ve İşlenemeyen Hükümler   Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.
+
+                                                                               
+
+                                                                               
+
+                                                                               
+
+                                                                               
+  ---------------------- ----------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
