@@ -1,4 +1,4 @@
-**6360 sayılı Kanun ile değişik hali**
+**6338 sayılı Kanun ile değişik hali**
 
 **BELEDİYE KANUNU**
 
@@ -8,9 +8,7 @@ Kabul Tarihi : 3/7/2005
 
 Yayımlandığı R.Gazete : Tarih: 13/7/2005 Sayı : 25874
 
-Yayımlandığı Düstur : Tertip : 5 Cilt : 44 Sayfa:
-
-** **
+Yayımlandığı Düstur : Tertip : 5 Cilt : 44
 
 ** **
 
@@ -517,9 +515,11 @@ bağlı idareler, meclis kararıyla mabetlere indirimli bedelle ya da
 
 Belediye, belde sakinlerinin belediye hizmetleriyle ilgili görüş ve
 düşüncelerini tespit etmek amacıyla kamuoyu yoklaması ve araştırması
-yapabilir. Belediye mallarına karşı suç işleyenler Devlet malına karşı
-suç işlemiş sayılır. 2886 sayılı Devlet İhale Kanununun 75 inci maddesi
-hükümleri belediye taşınmazları hakkında da uygulanır.
+yapabilir.
+
+Belediye mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş
+sayılır. 2886 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri
+belediye taşınmazları hakkında da uygulanır.
 
 Belediyenin proje karşılığı borçlanma yoluyla elde ettiği gelirleri,
 şartlı bağışlar ve kamu hizmetlerinde fiilen kullanılan malları ile
@@ -1375,7 +1375,14 @@ personel hakkında bu Kanunla düzenlenmeyen hususlarda vize şartı
 aranmaksızın 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B)
 fıkrasına göre istihdam edilenler hakkındaki hükümler uygulanır. Bu
 personele ait sözleşme örnekleri sözleşmenin imzalanmasını izleyen 30
-gün içinde İçişleri Bakanlığına gönderilir. ^(1)^
+gün içinde İçişleri Bakanlığına gönderilir. **(Ek cümle:
+29/6/2012-6338/16 md.)** Dördüncü fıkrada sayılan unvanlara ilişkin
+hizmetler dışında kalmak ve o hizmet için ihdas edilmiş kadro bulunmamak
+kaydıyla, İçişleri Bakanlığınca üçüncü fıkra çerçevesinde sözleşmeli
+personel istihdamı uygun görülmüş olan kadro unvanlarına ilişkin
+görevlerde, 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre
+münhasıran kısmi süreli olarak sözleşmeli personel çalıştırılabilir.
+^(1)^
 
 Kamu kurum ve kuruluşlarında istihdam edilen memurlar, belediye
 başkanının talebi, kendilerinin ve kurumlarının muvafakatiyle,
@@ -2485,7 +2492,7 @@ tarihe kadar yürürlüğünün durdurulması hüküm altına alınmıştır.*
                                                                                                                                                     
                                                                                   **Resmi Gazete Tarihi**                                           
 
-  1.     5538                       12/7/2006                                     12/7/2006                                                         14, 18
+         5538                       12/7/2006                                     12/7/2006                                                         14, 18
 
   1.     5568                       30/12/2006                                    30/12/2006                                                        Geçici Madde 5, Geçici Madde 6
 
@@ -2522,6 +2529,8 @@ tarihe kadar yürürlüğünün durdurulması hüküm altına alınmıştır.*
   1.     6321                       3/6/2012                                      3/6/2012                                                          Geçici Madde 7
 
   1.     6360                       6/12/2012                                     6/12/2012                                                         8, 9, 12, 14, 15, 75
+
+  1.     6338                       1/1/2013                                      11/7/2012                                                         49
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
 
 
