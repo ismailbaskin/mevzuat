@@ -1,4 +1,4 @@
-**6487 sayılı Kanun ile değişik hali **
+**6495 sayılı Kanun ile değişik hali **
 
  
 
@@ -960,161 +960,171 @@ madde çerçevesinde takdir olunan bedeli zilyedine ödenir.
 
 6213
 
- 
-
 DÖRDÜNCÜ KISIM
 
-Kamulaştırmada Boşaltma, Vazgeçme ve Geri Alma
+*Kamulaştırmada Boşaltma, Vazgeçme ve Geri Alma*
 
 BİRİNCİ BÖLÜM
 
-Boşaltma
+*Boşaltma *
 
-             Taşınmaz malın boşaltılması
+*Taşınmaz malın boşaltılması *
 
-             **Madde 20 – (Değişik ibare: 24/4/2001 - 4650/12 md.)** Bu
-Kanun uyarınca lehine kamulaştırma yapılan idare adına tapu dairesince
-tescil edilen taşınmaz malın boşaltılması idarece icra memurundan
-istenir. İcra memuru taşınmaz malı onbeş gün içinde boşaltmalarını
-içindekilere tebliğ eder. Bu süre içinde taşınmaz mal boşaltılmazsa
-icraca boşaltılır. İtiraz ve şikayet boşaltmayı durdurmaz ve mahkemece
-ihtiyati tedbir kararı verilemez. ^(1)^
+**Madde 20 – (Değişik ibare: 24/4/2001 - 4650/12 md.)** Bu Kanun
+uyarınca lehine kamulaştırma yapılan idare adına tapu dairesince tescil
+edilen taşınmaz malın boşaltılması idarece icra memurundan istenir. İcra
+memuru taşınmaz malı onbeş gün içinde boşaltmalarını içindekilere tebliğ
+eder. Bu süre içinde taşınmaz mal boşaltılmazsa icraca boşaltılır.
+İtiraz ve şikayet boşaltmayı durdurmaz ve mahkemece ihtiyati tedbir
+kararı verilemez. ^(1)^
 
-             Taşınmaz malın boşaltılması sebebiyle mal sahibi ve idare
-tazminat ile sorumlu tutulamaz.
+Taşınmaz malın boşaltılması sebebiyle mal sahibi ve idare tazminat ile
+sorumlu tutulamaz.
 
-             Ekili arazinin boşaltılması hasat sonuna bırakılır. Hasat
-zamanının beklenmesi mümkün olmadığı hallerde kamulaştırmayı yapan
-idare, mahkemece takdir edilecek ekin bedelini tazmin etmek şartıyla,
-arazinin boşaltılmasını talep edebilir. Ekin bedeli 11 ve 12 nci
-maddeler uyarınca yapılan kamulaştırma değerinin tespitinde nazara
-alınmış ise, taşınmaz malın boşaltılması için tekrar bu bedelin tespit
-ve ödenmesi gerekmez.
+Ekili arazinin boşaltılması hasat sonuna bırakılır. Hasat zamanının
+beklenmesi mümkün olmadığı hallerde kamulaştırmayı yapan idare,
+mahkemece takdir edilecek ekin bedelini tazmin etmek şartıyla, arazinin
+boşaltılmasını talep edebilir. Ekin bedeli 11 ve 12 nci maddeler
+uyarınca yapılan kamulaştırma değerinin tespitinde nazara alınmış ise,
+taşınmaz malın boşaltılması için tekrar bu bedelin tespit ve ödenmesi
+gerekmez.
 
 İKİNCİ BÖLÜM
 
-Kamulaştırmadan Vazgeçme ve Geri Alma
+*Kamulaştırmadan Vazgeçme ve Geri Alma *
 
-             İdarenin tek taraflı vazgeçmesi
+*İdarenin tek taraflı vazgeçmesi *
 
-             **Madde 21 –** İdare kamulaştırmanın her safhasında
-kamulaştırma kararı veren ve onaylayan yetkili merciin kararı ile
-kamulaştırmadan tek taraflı olarak kısmen veya tamamen vazgeçebilir. Şu
-kadar ki, dava sırasında vazgeçme halinde dava giderleri ile harç,
-harcanan emek ve işin önemi gözetilerek mahkemece maktuen takdir
-olunacak avukatlık ücreti idareye yükletilir.
+**Madde 21 –** İdare kamulaştırmanın her safhasında kamulaştırma kararı
+veren ve onaylayan yetkili merciin kararı ile kamulaştırmadan tek
+taraflı olarak kısmen veya tamamen vazgeçebilir. Şu kadar ki, dava
+sırasında vazgeçme halinde dava giderleri ile harç, harcanan emek ve
+işin önemi gözetilerek mahkemece maktuen takdir olunacak avukatlık
+ücreti idareye yükletilir.
 
-             Tarafların anlaşmasıyla vazgeçme ve devir
+*Vazgeçme, iade ve devir ^(2)^*
 
-             **Madde 22 – (Değişik birinci fıkra: 24/4/2001 - 4650/13
-md.)** Kamulaştırmanın ve bedelinin kesinleşmesinden sonra taşınmaz
-malların kamulaştırma amacına veya kamu yararına yönelik herhangi bir
-ihtiyaca tahsisi lüzumu kalmaması halinde, keyfiyet idarece mal sahibi
-veya mirasçılarına 7201 sayılı Tebligat Kanunu hükümlerine göre
-duyurulur. Bu duyurma üzerine mal sahibi veya mirasçıları, aldığı
-kamulaştırma bedelini üç ay içinde ödeyerek taşınmaz malını geri
-alabilir. **(Ek cümle: 14/2/2013 - 6427/3 md.)** Kamulaştırılan taşınmaz
-malda, kamulaştırma amacına uygun bir işlem veya tesisat yapılmasından
-sonra bu hüküm uygulanmaz.
+**Madde 22 – (Değişik birinci fıkra: 24/4/2001 - 4650/13 md.)**
+Kamulaştırmanın ve bedelinin kesinleşmesinden sonra taşınmaz malların
+kamulaştırma amacına veya kamu yararına yönelik herhangi bir ihtiyaca
+tahsisi lüzumu kalmaması halinde, keyfiyet idarece mal sahibi veya
+mirasçılarına 7201 sayılı Tebligat Kanunu hükümlerine göre duyurulur. Bu
+duyurma üzerine mal sahibi veya mirasçıları, aldığı kamulaştırma
+bedelini üç ay içinde ödeyerek taşınmaz malını geri alabilir. **(Ek
+cümle: 14/2/2013 - 6427/3 md.; Değişik: 12/7/2013-6495/26 md.)**
+Kamulaştırmayı yapan idarece kamulaştırma amacına uygun tesisat, yapı
+veya donatı yapıldıktan ve en az 5 yıl kullanıldıktan sonra bu ihtiyacın
+ortadan kalkması nedeniyle kamulaştırma amacında kullanılamayan
+taşınmazlar önceki mal sahibi veya mirasçılarına iade edilmez. Bu
+taşınmazların kamulaştırma amacı dışında idarece tasarruf edilmesi
+hâlinde, önceki mal sahibi veya mirasçıları tarafından idareden herhangi
+bir hak, bedel veya tazminat talebinde bulunulamaz.
 
-             Ancak, kamulaştırılan taşınmaz mala kamulaştırmayı yapan
-idare dışında başka bir idare, kamulaştırma yoluyla
-gerçekleştirebileceği bir kamu hizmeti amacıyla istekli olduğu takdirde,
-yukarıdaki fıkra hükmü uygulanmayarak bu Kanunun 30 uncu veya 1050
-sayılı Muhasebei Umumiye Kanununun 23 üncü maddesine göre işlem yapılır.
+Ancak, kamulaştırılan taşınmaz mala kamulaştırmayı yapan idare dışında
+başka bir idare, kamulaştırma yoluyla gerçekleştirebileceği bir kamu
+hizmeti amacıyla istekli olduğu takdirde, yukarıdaki fıkra hükmü
+uygulanmayarak bu Kanunun 30 uncu veya 1050 sayılı Muhasebei Umumiye
+Kanununun 23 üncü maddesine göre işlem yapılır.
 
-             Mal sahibinin geri alma hakkı
+*Mal sahibinin geri alma hakkı *
 
-             **Madde 23 –** Kamulaştırma bedelinin kesinleşmesi
-tarihinden itibaren beş yıl içinde, kamulaştırmayı yapan idarece veya 22
-nci maddenin ikinci fıkrası uyarınca devir veya tahsis yapılan idarece;
-kamulaştırma ve devir amacına uygun hiç bir işlem veya tesisat yapılmaz
-veya kamu yararına yönelik bir ihtiyaca tahsis edilmeyerek taşınmaz mal
-olduğu gibi bırakılırsa, mal sahibi veya mirasçıları kamulaştırma
-bedelini aldıkları günden itibaren işleyecek kanuni faiziyle birlikte
-ödeyerek, taşınmaz malını geri alabilir.
+**Madde 23 –** Kamulaştırma bedelinin kesinleşmesi tarihinden itibaren
+beş yıl içinde, kamulaştırmayı yapan idarece veya 22 nci maddenin ikinci
+fıkrası uyarınca devir veya tahsis yapılan idarece; kamulaştırma ve
+devir amacına uygun hiç bir işlem veya tesisat yapılmaz veya kamu
+yararına yönelik bir ihtiyaca tahsis edilmeyerek taşınmaz mal olduğu
+gibi bırakılırsa, mal sahibi veya mirasçıları kamulaştırma bedelini
+aldıkları günden itibaren işleyecek kanuni faiziyle birlikte ödeyerek,
+taşınmaz malını geri alabilir.
 
-——————————
+*——————————*
 
-(1)    Bu fıkrada yer alan; “16, 17 ve 19 uncu maddelere dayanılarak”
+*(1) Bu fıkrada yer alan; “16, 17 ve 19 uncu maddelere dayanılarak”
 ibaresi, 24/4/2001 tarihli ve 4650 sayılı Kanunun 12 nci maddesiyle “Bu
-Kanun uyarınca” şeklinde değiştirilmiş ve metne işlenmiştir.
+Kanun uyarınca” şeklinde değiştirilmiş ve metne işlenmiştir.*
+
+*(2) Bu madde başlığı “Tarafların anlaşmasıyla vazgeçme ve devir”iken,
+12/7/2013 tarihli ve 6495 sayılı Kanunun 26 ncı maddesiyle metne
+işlendiği şekilde değiştirilmiştir.*
 
 6214
 
- 
+Doğmasından itibaren bir yıl içinde kullanılmayan geri alma hakkı düşer.
 
-             Doğmasından itibaren bir yıl içinde kullanılmayan geri alma
-hakkı düşer.
+Aynı amacın gerçekleşmesi için birden fazla taşınmaz mal birlikte
+kamulaştırıldığı takdirde bu taşınmaz malların durumunun bir bütün
+oluşturduğu kabul edilerek yukarıdaki fıkralar buna göre uygulanır.
 
-             Aynı amacın gerçekleşmesi için birden fazla taşınmaz mal
-birlikte kamulaştırıldığı takdirde bu taşınmaz malların durumunun bir
-bütün oluşturduğu kabul edilerek yukarıdaki fıkralar buna göre
-uygulanır.
-
-             Özel kanunlarda bu maddenin uygulanmayacağına ilişkin
-hükümler saklıdır. 1164 sayılı Arsa Ofisi Kanununa dayanılarak yapılan
-kamulaştırmalarda ve bu Kanunun 3 üncü maddesinin 2 nci fıkrasında
-belirtilen hallerde yapılacak kamulaştırmalarda bu madde hükmü
-uygulanmaz.
+Özel kanunlarda bu maddenin uygulanmayacağına ilişkin hükümler saklıdır.
+1164 sayılı Arsa Ofisi Kanununa dayanılarak yapılan kamulaştırmalarda ve
+bu Kanunun 3 üncü maddesinin 2 nci fıkrasında belirtilen hallerde
+yapılacak kamulaştırmalarda bu madde hükmü uygulanmaz.
 
 BEŞİNCİ KISIM
 
-Hasar, Doğacak Hak ve Borçlar, Trampa Yolu ile ve Acele Kamulaştırma
+*Hasar, Doğacak Hak ve Borçlar, Trampa Yolu ile ve Acele Kamulaştırma *
 
 BİRİNCİ BÖLÜM
 
-Hasar
+*Hasar *
 
-             Kamulaştırma bedelinden düşülebilecek hasar
+*Kamulaştırma bedelinden düşülebilecek hasar *
 
-             **Madde 24 –** 21, 22 ve 23 üncü maddeler uyarınca
-kamulaştırılmasından vazgeçilen veya geri alınan taşınmaz mal üzerindeki
-bina, sabit tesisler ve ekili dikili şeyler yıkılmış, sökülmüş veya
-harap olmuş ise, taşınmaz malın geri alınmasında mal sahibi veya
-mirasçısı, kamulaştırma tarihindeki değerine göre farkının, ödeyeceği
-kamulaştırma bedelinden düşülmesini isteyebilir.
+**Madde 24 –** 21, 22 ve 23 üncü maddeler uyarınca kamulaştırılmasından
+vazgeçilen veya geri alınan taşınmaz mal üzerindeki bina, sabit tesisler
+ve ekili dikili şeyler yıkılmış, sökülmüş veya harap olmuş ise, taşınmaz
+malın geri alınmasında mal sahibi veya mirasçısı, kamulaştırma
+tarihindeki değerine göre farkının, ödeyeceği kamulaştırma bedelinden
+düşülmesini isteyebilir.
 
-             Bu madde ile 21, 22 ve 23 üncü maddelerin uygulamasından
-doğacak anlaşmazlıklar adli yargıda çözümlenir.
+Bu madde ile 21, 22 ve 23 üncü maddelerin uygulamasından doğacak
+anlaşmazlıklar adli yargıda çözümlenir.
 
 İKİNCİ BÖLÜM
 
-Tebliğ ile Doğacak Haklar ve Borçlar
+*Tebliğ ile Doğacak Haklar ve Borçlar*
 
-             Hakların sınırlandırılması ve mülkiyetin idareye geçmesi
+*Hakların sınırlandırılması ve mülkiyetin idareye geçmesi*
 
-             **Madde 25 – (Değişik: 24/4/2001 - 4650/14 md.)**
+**Madde 25 – (Değişik: 24/4/2001 - 4650/14 md.)**
 
-**            ** Hakların kullanılması ve borçların yerine getirilmesi
-bakımından kamulaştırma işlemi, mal sahibi için 10 uncu madde uyarınca
-mahkemece yapılan tebligatla başlar. Mülkiyetin idareye geçmesi,
-mahkemece verilen tescil kararı ile olur.
+Hakların kullanılması ve borçların yerine getirilmesi bakımından
+kamulaştırma işlemi, mal sahibi için 10 uncu madde uyarınca mahkemece
+yapılan tebligatla başlar. Mülkiyetin idareye geçmesi, mahkemece verilen
+tescil kararı ile olur.
 
-             Mahkemece verilen tescil kararı tarihinden itibaren
-taşınmaz mal sahibinin, kamulaştırılması kararlaştırılan taşınmaz malda
-yeni inşaat veya ekim yapmak veya mevcut inşaatta esaslı değişiklikler
-meydana getirmek gibi kullanma hakları kalkar. Bundan sonra yapılanların
-değeri dikkate alınmaz.
+Mahkemece verilen tescil kararı tarihinden itibaren taşınmaz mal
+sahibinin, kamulaştırılması kararlaştırılan taşınmaz malda yeni inşaat
+veya ekim yapmak veya mevcut inşaatta esaslı değişiklikler meydana
+getirmek gibi kullanma hakları kalkar. Bundan sonra yapılanların değeri
+dikkate alınmaz.
 
- 
+**(Ek fıkra: 12/7/2013-6495/27 md.)** Baraj, sulama şebekeleri ve boru
+hatları, karayolu, demiryolu, liman ve havaalanı gibi gelecek yıllara
+sari büyük projelerde kamu yararı kararı kamulaştırılacak taşınmazların
+bulunduğu mahalle ve/veya köy muhtarlığında on beş gün süre ile asılmak
+suretiyle ilan edilir. Kamu yararı kararının ilan süresinin bitiminden
+itibaren, kamulaştırılacak taşınmazlar üzerine yapılan sabit tesisler
+ile dikilen ağaçların bedeli, kamulaştırma bedelinin tespitinde dikkate
+alınmaz. Taşınmazlardaki bu sınırlama ilan tarihinin bitiminden itibaren
+beş yılı geçemez.
 
 ÜÇÜNCÜ BÖLÜM
 
-Trampa Yolu ve Acele Kamulaştırma
+*Trampa Yolu ve Acele Kamulaştırma*
 
-             Trampa yolu ile kamulaştırma
+*Trampa yolu ile kamulaştırma*
 
-             **Madde 26 –** Mal sahibinin kabul etmesi halinde
-kamulaştırma bedeli yerine, idarenin kamu hizmetine tahsis edilmemiş
-olan taşınmaz mallarından, bu bedeli kısmen veya tamamen karşılayacak
-miktarı verilebilir.
+**Madde 26 –** Mal sahibinin kabul etmesi halinde kamulaştırma bedeli
+yerine, idarenin kamu hizmetine tahsis edilmemiş olan taşınmaz
+mallarından, bu bedeli kısmen veya tamamen karşılayacak miktarı
+verilebilir.
 
-             Kamulaştırma bedeli yerine verilecek taşınmaz malın değeri,
-idarenin ihale komisyonunca yoksa bu amaçla kuracağı bir komisyonca
-tespit edilir. Taşınmaz mal bedelleri arasındaki fark taraflarca nakit
-olarak karşılanır. Ancak idarenin vereceği taşınmaz malın değeri,
-kamulaştırma bedelinin yüzde yüzyirmisini aşamaz.
+Kamulaştırma bedeli yerine verilecek taşınmaz malın değeri, idarenin
+ihale komisyonunca yoksa bu amaçla kuracağı bir komisyonca tespit
+edilir. Taşınmaz mal bedelleri arasındaki fark taraflarca nakit olarak
+karşılanır. Ancak idarenin vereceği taşınmaz malın değeri, kamulaştırma
+bedelinin yüzde yüzyirmisini aşamaz.
 
 6215
 
@@ -1563,6 +1573,8 @@ davalarda ise yedinci fıkra hükümleri uygulanır. Bu fıkra hükmü, bu
 fıkra kapsamında kalan taşınmazlar hakkında açılan ve kesinleşmeyen
 davalarda da uygulanır.
 
+6218-3
+
 **Geçici Madde 7 – (Ek: 24/5/2013-6487/ 22 md.)**
 
 Mülga 31/8/1956 tarihli ve 6830 sayılı İstimlak Kanununun 16 ve 17 nci
@@ -1574,7 +1586,13 @@ bulunulamaz; kamulaştırmaya veya bedeline karşı itiraz davaları
 açılamaz; açılmış ve devam eden davalar bu madde hükmü uygulanarak
 sonuçlandırılır.
 
-6218-3
+**Geçici Madde 8 – (Ek: 12/7/2013-6495/28 md.)**
+
+Bu Kanunun 22 nci maddesinin birinci fıkrasının son cümlesi hükmü, bu
+maddenin yürürlüğe girdiği tarihten önce gerçekleştirilen kamulaştırma
+işlemleri nedeniyle, kamulaştırılan taşınmazların eski malikleri veya
+mirasçıları tarafından bu taşınmazların geri alınması, bedel veya
+tazminat talebiyle açılan ve henüz kesinleşmeyen davalarda da uygulanır.
 
 **Madde 42 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
 
@@ -1589,6 +1607,8 @@ sonuçlandırılır.
 **Geçici Madde 1 – **Bu Kanunun yürürlüğe girdiği tarihte, kamulaştırma
 kararı alınmış ancak henüz tebligata çıkarılmamış kamulaştırmalarda bu
 Kanun hükümleri, diğerlerinde önceki hükümler uygulanır.
+
+6218-4
 
 **2942 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
@@ -1618,6 +1638,8 @@ Kanun hükümleri, diğerlerinde önceki hükümler uygulanır.
   **6459**                                                                         **10**                                                        **30/4/2013**
 
   **6487**                                                                         **Geçici Madde 6 ve 7**                                       **11/6/2013**
+
+  **6495**                                                                         **22, 25, Geçici Madde 8**                                    **2/8/2013**
   -------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
