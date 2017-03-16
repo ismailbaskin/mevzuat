@@ -1,4 +1,4 @@
-**18/6/1999 tarihli ve 4388 sayılı Kanun ile değişik hali**
+**13/8/1999 tarihli ve 4446 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -791,13 +791,22 @@ borçları için öngörülen en yüksek faiz haddine bağlanır.
 Kamulaştırılan topraktan, o toprağı doğrudan doğruya işleten küçük
 çiftçiye ait olanlarının bedeli, herhalde peşin ödenir.
 
-*E. Devletleştirme*
+*E. Devletleştirme ve özelleştirme ^(1)^*
 
 **Madde 47 – **Kamu hizmeti niteliği taşıyan özel teşebbüsler, kamu
 yararının zorunlu kıldığı hallerde devletleştirilebilir.
 
-Devletleştirme gerçek karşılığı üzerinden yapılır. Gerçek karşılığın
-hesaplanma tarzı ve usulleri kanunla düzenlenir.
+**(Ek fıkra: 13/8/1999-4446/1 md.)** Devletleştirme gerçek karşılığı
+üzerinden yapılır. Gerçek karşılığın hesaplanma tarzı ve usulleri
+kanunla düzenlenir.
+
+**(Ek fıkra: 13/8/1999-4446/1 md.)** Devletin, kamu iktisadî
+teşebbüslerinin ve diğer kamu tüzelkişilerinin mülkiyetinde bulunan
+işletme ve varlıkların özelleştirilmesine ilişkin esas ve usuller
+kanunla gösterilir. Devlet, kamu iktisadî teşebbüsleri ve diğer kamu
+tüzelkişileri tarafından yürütülen yatırım ve hizmetlerden hangilerinin
+özel hukuk sözleşmeleri ile gerçek veya tüzelkişilere yaptırılabileceği
+veya devredilebileceği kanunla belirlenir.
 
 *IV. Çalışma ve sözleşme hürriyeti*
 
@@ -896,6 +905,12 @@ kanunla düzenlenir.
 
 Aynı işyerinde, aynı dönem için, birden fazla toplu iş sözleşmesi
 yapılamaz ve uygulanamaz.
+
+––––––––––––––––––
+
+*(1) Bu kenar başlığı “E. Devletleştirme” iken, 13/8/1999 tarihli ve
+4446 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.*
 
 *B. Grev hakkı ve lokavt*
 
@@ -2249,7 +2264,11 @@ Hangi yönetmeliklerin Resmi Gazetede yayımlanacağı kanunda belirtilir.
 açıktır.
 
 Cumhurbaşkanının tek başına yapacağı işlemler ile Yüksek Askerî Şûranın
-kararları yargı denetimi dışındadır.
+kararları yargı denetimi dışındadır. **(Ek hükümler: 13/8/1999-4446/2
+md.)** Kamu hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmelerinde
+bunlardan doğan uyuşmazlıkların millî veya milletlerarası tahkim yoluyla
+çözülmesi öngörülebilir. Milletlerarası tahkime ancak yabancılık unsuru
+taşıyan uyuşmazlıklar için gidilebilir.
 
 İdarî işlemlere karşı açılacak davalarda süre, yazılı bildirim
 tarihinden başlar.
@@ -2896,10 +2915,12 @@ bir idari yargı merciine bırakmadığı karar ve hükümlerin son inceleme
 merciidir. Kanunla gösterilen belli davalara da ilk ve son derece
 mahkemesi olarak bakar.
 
-Danıştay, davaları görmek, Başbakan ve Bakanlar Kurulunca gönderilen
-kanun tasarıları hakkında düşüncesini bildirmek, tüzük tasarılarını ve
-imtiyaz şartlaşma ve sözleşmelerini incelemek, idarî uyuşmazlıkları
-çözümlemek ve kanunla gösterilen diğer işleri yapmakla görevlidir.
+**(Değişik ikinci fıkra: 13/8/1999-4446/3 md.)** Danıştay, davaları
+görmek, Başbakan ve Bakanlar Kurulunca gönderilen kanun tasarıları, kamu
+hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında iki ay
+içinde düşüncesini bildirmek, tüzük tasarılarını incelemek, idari
+uyuşmazlıkları çözmek ve kanunla gösterilen diğer işleri yapmakla
+görevlidir.
 
 Danıştay üyelerinin dörtte üçü, birinci sınıf idari yargı hakim ve
 savcıları ile bu meslekten sayılanlar arasından Hakimler ve Savcılar
@@ -3627,26 +3648,34 @@ Ayrı ayrı oylanır.
 
 Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
 
+**3– 13/8/1999 tarih ve 4446 sayılı Kanunun 4 üncü maddesi:**
+
+**Madde 4 – **Bu Kanun yayımı tarihinde yürürlüğe girer ve halk
+oylamasına sunulması halinde 1 inci maddesi ayrı, 2 ve 3 üncü maddeleri
+birlikte ayrı oylanır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ---------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Değiştiren **        **2709 sayılı Kanunun değişen maddeleri**                                                  **Yürürlüğe Giriş Tarihi**
-                                                                                                                    
-  **Kanunun Numarası**                                                                                              
+  ---------------------- --------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Değiştiren **        **2709 sayılı Kanunun değişen maddeleri**                                                     **Yürürlüğe Giriş Tarihi**
+                                                                                                                       
+  **Kanunun Numarası**                                                                                                 
 
-  3361                   67, 75, 175, Geçici Madde 4 ve İşlenemeyen Hükümler                                        Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.
+  3361                   67, 75, 175, Geçici Madde 4 ve İşlenemeyen Hükümler                                           Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.
 
-  3913                   133                                                                                        10/7/1993
+  3913                   133                                                                                           10/7/1993
 
-  4121                   BAŞLANGIÇ hükmü, 33, 52, 53, 67, 68, 69, 84,85, 93, 127, 135,149, 171, İşlenemeyen Hüküm   26/7/1995
+  4121                   BAŞLANGIÇ hükmü, 33, 52, 53, 67, 68, 69, 84,85, 93, 127, 135,149, 171, İşlenemeyen Hükümler   26/7/1995
 
-                         75                                                                                         İlk milletvekili genel seçiminin başlangıcı tarihinden itibaren
+                         75                                                                                            İlk milletvekili genel seçiminin başlangıcı tarihinden itibaren
 
-  4388                   143                                                                                        18/6/1999
-  ---------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  4388                   143                                                                                           18/6/1999
+
+  4446                   47, 125, 155, İşlenemeyen Hükümler                                                            14/8/1999
+  ---------------------- --------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
