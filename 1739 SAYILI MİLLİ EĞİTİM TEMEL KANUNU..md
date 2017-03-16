@@ -1,4 +1,4 @@
-**6518 sayılı Kanun ile değişik hali **
+**6528 sayılı Kanun ile değişik hali **
 
 [[]{#k46 .anchor}]{#K46 .anchor}
 
@@ -712,68 +712,105 @@ tarih ve E.1973/32, K. 1974/11 sayılı Kararı ile iptal edilmiştir.
 
  
 
-            III – Koordinasyon:
+            
 
-             **Madde 42 –** Genel, mesleki ve teknik yaygın eğitim
-alanında görev alan resmi, özel ve gönüllü kuruluşların çalışmaları
-arasındaki koordinasyon Milli Eğitim Bakanlığınca sağlanır.
+III – Koordinasyon:
 
-             Genel yaygın eğitim programlarının düzenleniş şekli
-yönetmelikle tespit edilir.
+**Madde 42 –** Genel, mesleki ve teknik yaygın eğitim alanında görev
+alan resmi, özel ve gönüllü kuruluşların çalışmaları arasındaki
+koordinasyon Milli Eğitim Bakanlığınca sağlanır.
 
-             Mesleki ve teknik yaygın eğitim faaliyetlerini yürüten
-Bakanlıklar ile özerk eğitim kurumları ve resmi ve özel işletmeler
-arasında Milli Eğitim Bakanlığınca sağlanacak koordinasyon ve
-işbirliğinin esasları kanunla düzenlenir.
+Genel yaygın eğitim programlarının düzenleniş şekli yönetmelikle tespit
+edilir.
+
+Mesleki ve teknik yaygın eğitim faaliyetlerini yürüten Bakanlıklar ile
+özerk eğitim kurumları ve resmi ve özel işletmeler arasında Milli Eğitim
+Bakanlığınca sağlanacak koordinasyon ve işbirliğinin esasları kanunla
+düzenlenir.
 
 ÜÇÜNCÜ KISIM
 
 Öğretmenlik Mesleği
 
-             1 –  Öğretmenlik : ^(1)^
+1 – Öğretmenlik : ^(1)^
 
-             **Madde 43 –** Öğretmenlik, Devletin eğitim, öğretim ve
-bununla ilgili yönetim görevlerini üzerine alan özel bir ihtisas
-mesleğidir. Öğretmenler bu görevlerini Türk Milli Eğitiminin amaçlarına
-ve temel ilkelerine uygun olarak ifa etmekle yükümlüdürler.
+**Madde 43 –** Öğretmenlik, Devletin eğitim, öğretim ve bununla ilgili
+yönetim görevlerini üzerine alan özel bir ihtisas mesleğidir.
+Öğretmenler bu görevlerini Türk Milli Eğitiminin amaçlarına ve temel
+ilkelerine uygun olarak ifa etmekle yükümlüdürler.
 
-             Öğretmenlik mesleğine hazırlık genel kültür, özel alan
-eğitimi ve pedagojik formasyon ile sağlanır.
+Öğretmenlik mesleğine hazırlık genel kültür, özel alan eğitimi ve
+pedagojik formasyon ile sağlanır.
 
-             Yukarıda belirtilen nitelikleri kazanabilmeleri için, hangi
-öğretim kademesinde olursa olsun, öğretmen adaylarının yüksek öğrenim
+Yukarıda belirtilen nitelikleri kazanabilmeleri için, hangi öğretim
+kademesinde olursa olsun, öğretmen adaylarının yüksek öğrenim
 görmelerinin sağlanması esastır. Bu öğrenim lisans öncesi, lisans ve
 lisans üstü seviyelerde yatay ve dikey geçişlere de imkan verecek
 biçimde düzenlenir.
 
-             **(Ek fıkra: 30/6/2004-5204/1 md.)** Öğretmenlik mesleği;
-adaylık döneminden sonra öğretmen, uzman öğretmen ve başöğretmen olmak
-üzere üç kariyer basamağına ayrılır. Adaylık dönemini başarıyla
-tamamlayanlar mesleğe öğretmen olarak atanır.
+**(Ek fıkra: 30/6/2004-5204/1 md.)** Öğretmenlik mesleği; adaylık
+döneminden sonra öğretmen, uzman öğretmen ve başöğretmen olmak üzere üç
+kariyer basamağına ayrılır. **(Mülga ikinci cümle: 1/3/2014-6528/5
+md.)**
 
-             **(Ek fıkra: 30/6/2004-5204/1 md.)** Kariyer basamaklarında
-yükselmede kıdem, eğitim ((…) ^(1)^  lisansüstü eğitim), etkinlikler
-(bilimsel, kültürel, sanatsal ve sportif çalışmalar) ve sicil (iş
-başarımı) puanları ile sınav sonuçları esas alınır. Değerlendirme 100
-tam puan üzerinden yapılır. Değerlendirme puanının % 10'unu kıdem, %
-20'sini eğitim, % 10'unu etkinlikler, % 10'unu sicil (iş başarımı) ve %
-50'sini de sınav puanı oluşturur. ^(1)^
+**(Ek fıkra: 1/3/2014-6528/5 md.)** Aday öğretmenliğe atanabilmek için;
+14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci
+maddesinde sayılan şartlara ek olarak, yönetmelikle belirlenen
+yükseköğretim kurumlarından mezun olma ve Bakanlıkça ve Ölçme, Seçme ve
+Yerleştirme Merkezi tarafından yapılacak sınavlarda başarılı olma
+şartları aranır.
 
-             **(Ek fıkra: 30/6/2004-5204/1 md.)** Kariyer basamaklarında
-yükselecekler değerlendirme puanlarına göre başarı sıralamasına alınır.
-Değerlendirmeye alınmak için sınav tam puanının en az % 60'ını almış
-olmak şartı aranır.
+**(Ek fıkra: 1/3/2014-6528/5 md.)** Aday öğretmenler, en az bir yıl
+fiilen çalışmak ve performans değerlendirmesine göre başarılı olmak
+şartlarını sağlamak kaydıyla, yapılacak yazılı ve sözlü sınava girmeye
+hak kazanırlar. Uygulanacak olan sözlü sınavda aday öğretmenler;
 
-             **(Ek fıkra: 30/6/2004-5204/1 md.)** Sınav yılda bir defa
-olmak üzere ÖSYM'ce yapılır.
+a\) Bir konuyu kavrayıp özetleme, ifade kabiliyeti ve muhakeme gücü,
 
-             **(Ek fıkra: 30/6/2004-5204/1 md.)** Alanında ya da eğitim
-bilimleri alanında tezli yüksek lisans öğrenimini tamamlamış
-öğretmenlerden uzman öğretmenlik, doktora öğrenimini tamamlamış olan
-öğretmenlerden ise başöğretmenlik için sınav şartı aranmaz. Bu durumda
-olan öğretmenler kıdem, (…) ^(1)^ etkinlikler (bilimsel, kültürel,
-sanatsal ve sportif çalışmalar) ve sicil (iş başarımı) ölçütlerine göre
-değerlendirilir. ^(1)^
+b\) İletişim becerileri, öz güveni ve ikna kabiliyeti,
+
+c\) Bilimsel ve teknolojik gelişmelere açıklığı,
+
+d\) Topluluk önünde temsil yeteneği ve eğitimcilik nitelikleri,
+
+yönlerinden Bakanlıkça oluşturulacak komisyon tarafından
+değerlendirilir.
+
+**(Ek fıkra: 1/3/2014-6528/5 md.)** Sınavda başarılı olanlar öğretmen
+olarak atanır. Sınavda başarılı olamayan aday öğretmenler il içinde veya
+dışında başka bir okulda görevlendirilerek bir yılın sonunda altıncı
+fıkrada belirtilen değerlendirmeye tekrar tabi tutulurlar.
+
+**(Ek fıkra: 1/3/2014-6528/5 md.)** Aday öğretmenlik süresi sonunda
+sınava girmeye hak kazanamayanlar ile üst üste iki defa sınavda başarılı
+olamayanlar aday öğretmen unvanını kaybeder ve memuriyetle ilişiği
+kesilir.
+
+**(Ek fıkra: 1/3/2014-6528/5 md.)** Ancak aday öğretmenliğe başlamadan
+önce 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa göre aday
+memurluğu kaldırılarak asli memurluğa atanmış olanlar hakkında sekizinci
+fıkra hükümleri uygulanmaz. Bu kişiler Bakanlıkta kazanılmış hak aylık
+derecelerine uygun memur kadrolarına atanırlar.
+
+**(Ek fıkra: 1/3/2014-6528/5 md.)** Sınav komisyonu üyeleri; Bakanlık
+personeli, diğer kamu kurum ve kuruluşlarında çalışan personel ile
+öğretim elemanları arasından seçilir. Bakanlık gerekli gördüğünde
+illerde veya merkezde birden fazla komisyon oluşturabilir. Performans
+değerlendirmesinde dikkate alınacak meslekî ölçütler, sınav konuları,
+komisyon üyelerinin seçimi, görevleri, çalışma usul ve esasları ile
+sınava ilişkin diğer hususlar yönetmelikle düzenlenir.
+
+**(Ek fıkra: 1/3/2014-6528/5 md.)** Bu maddenin uygulanmasına ilişkin
+olarak 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun aday
+memurluk ile ilgili hükümleri saklıdır.
+
+**(Ek fıkra: 30/6/2004-5204/1 md.)** Kariyer basamaklarında yükselmede
+kıdem, eğitim ((…) ^(1)^ lisansüstü eğitim), etkinlikler (bilimsel,
+kültürel, sanatsal ve sportif çalışmalar) ve sicil (iş başarımı)
+puanları ile sınav sonuçları esas alınır. Değerlendirme 100 tam puan
+üzerinden yapılır. Değerlendirme puanının % 10'unu kıdem, % 20'sini
+eğitim, % 10'unu etkinlikler, % 10'unu sicil (iş başarımı) ve % 50'sini
+de sınav puanı oluşturur. ^(1)^
 
 ––––––––––––
 
@@ -784,84 +821,85 @@ eğitim, …” ibaresi iptal edilmiş olup, İptal Kararının Resmi Gazete’d
 yayım tarihi olan 18/3/2009 tarihinden başlayarak bir yıl sonra
 yürürlüğe gireceği hüküm altına alınmıştır.*
 
- 
-
- 
-
 5110
 
-            
+**(Ek fıkra: 30/6/2004-5204/1 md.)** Kariyer basamaklarında
+yükselecekler değerlendirme puanlarına göre başarı sıralamasına alınır.
+Değerlendirmeye alınmak için sınav tam puanının en az % 60'ını almış
+olmak şartı aranır.
 
- [[]{#OLE_LINK4 .anchor}]{#OLE_LINK3 .anchor}**(Ek fıkra:
-30/6/2004-5204/1 md.; İptal: Anayasa Mahkemesi’nin 21/5/2008 tarihli ve
-E.: 2004/83, K.: 2008/107  sayılı Kararı ile.) **
+**(Ek fıkra: 30/6/2004-5204/1 md.; Mülga: 1/3/2014-6528/5 md.)**
+
+**(Ek fıkra: 30/6/2004-5204/1 md.; Mülga: 1/3/2014-6528/5 md.)**
 
 **(Ek fıkra: 30/6/2004-5204/1 md.; İptal: Anayasa Mahkemesi’nin
-21/5/2008 tarihli ve E.: 2004/83, K.: 2008/107  sayılı Kararı ile.) **
+21/5/2008 tarihli ve E.: 2004/83, K.: 2008/107 sayılı Kararı ile.) **
 
-             II – Milli Eğitim Bakanlığına bağlı "Eğitim Yüksekokulu "
-açma yetkisi:
+**(Ek fıkra: 30/6/2004-5204/1 md.; İptal: Anayasa Mahkemesi’nin
+21/5/2008 tarihli ve E.: 2004/83, K.: 2008/107 sayılı Kararı ile.) **
 
-             **Madde 44 – (Değişik: 16/6/1983 - 2842/12 md.)**
+II – Milli Eğitim Bakanlığına bağlı "Eğitim Yüksekokulu " açma yetkisi:
 
-             Öğretmenlik formasyonu veren ve öğretmen yetiştiren Milli
-Eğitim Bakanlığına bağlı eğitim yüksekokulları, Yükseköğretim Kurulunun 
-görüşü alınarak, Bakanlar Kurulu kararı ile kurulabilirler.
+**Madde 44 – (Değişik: 16/6/1983 - 2842/12 md.)**
 
-             III – Öğretmenlerin nitelikleri ve seçimi:
+Öğretmenlik formasyonu veren ve öğretmen yetiştiren Milli Eğitim
+Bakanlığına bağlı eğitim yüksekokulları, Yükseköğretim Kurulunun görüşü
+alınarak, Bakanlar Kurulu kararı ile kurulabilirler.
 
-             **Madde 45 –** Öğretmen adaylarında genel kültür, özel alan
-eğitimi ve pedagöjik formasyon bakımından aranacak nitelikler Milli
-Eğitim Bakanlığınca tespit olunur.
+III – Öğretmenlerin nitelikleri ve seçimi:
 
-             **(Değişik: 16/6/1983 - 2842/13 md.)** Öğretmenler,öğretmen
-yetiştiren yükseköğretim kurumlarından ve bunlara denkliği kabul edilen
-yurtdışı yükseköğretim kurumlarından mezun olanlar arasından, Milli
-Eğitim Bakanlığınca seçilirler.
+**Madde 45 –** Öğretmen adaylarında genel kültür, özel alan eğitimi ve
+pedagöjik formasyon bakımından aranacak nitelikler Milli Eğitim
+Bakanlığınca tespit olunur.
 
-             Yüksek öğrenimleri sırasında pedagojik formasyon kazanmamış
-olanların ihtiyaç duyulan alanlarda, öğretmenliğe atanmaları halinde bu
-gibilerin adaylık dönemi içinde yetişmeleri için Milli Eğitim
-Bakanlığınca gerekli tedbirler alınır.
+**(Değişik: 16/6/1983 - 2842/13 md.)** Öğretmenler,öğretmen yetiştiren
+yükseköğretim kurumlarından ve bunlara denkliği kabul edilen yurtdışı
+yükseköğretim kurumlarından mezun olanlar arasından, Milli Eğitim
+Bakanlığınca seçilirler.
 
-             Hangi derece ve türdeki eğitim, öğretim, teftiş ve yönetim
-görevlerine, hangi seviye ve alanda öğrenim görmüş olanların ne gibi
-şartlarla seçilebilecekleri yönetmelikle düzenlenir.
+Yüksek öğrenimleri sırasında pedagojik formasyon kazanmamış olanların
+ihtiyaç duyulan alanlarda, öğretmenliğe atanmaları halinde bu gibilerin
+adaylık dönemi içinde yetişmeleri için Milli Eğitim Bakanlığınca gerekli
+tedbirler alınır.
 
-             IV – Öğretmenlerin bölge hizmeti:
+Hangi derece ve türdeki eğitim, öğretim, teftiş ve yönetim görevlerine,
+hangi seviye ve alanda öğrenim görmüş olanların ne gibi şartlarla
+seçilebilecekleri yönetmelikle düzenlenir.
 
-             **Madde 46 –** Öğretmenlikte yurdun çeşitli bölgelerinde
-görev yapmak esastır.
+IV – Öğretmenlerin bölge hizmeti:
 
-             Hizmet bölgeleri ve ihtiyaçlara göre bu bölgelerarası yer
-değiştirme esasları yönetmelikle düzenlenir.
+**Madde 46 –** Öğretmenlikte yurdun çeşitli bölgelerinde görev yapmak
+esastır.
 
-             V – Uzman ve usta ögreticiler:
+Hizmet bölgeleri ve ihtiyaçlara göre bu bölgelerarası yer değiştirme
+esasları yönetmelikle düzenlenir.
 
-             **Madde 47 – (Değişik: 16/6/1983 - 2842/14 md.)**
+V – Uzman ve usta ögreticiler:
 
-             Örgün ve yaygın eğitim kurumlarında ve hizmetiçi yetiştirme
-kurs,seminer ve konferanslarında uzman ve usta öğreticiler de geçici
-veya sürekli olarak görevlendirilebilir.
+**Madde 47 – (Değişik: 16/6/1983 - 2842/14 md.)**
 
-             Öğretim tür ve seviyelerine göre uzman ve usta
-öğreticilerin seçimlerinde aranacak şartlar, görev ve yetkileri,
-yönetmeliklerle tespit edilir.
+Örgün ve yaygın eğitim kurumlarında ve hizmetiçi yetiştirme kurs,seminer
+ve konferanslarında uzman ve usta öğreticiler de geçici veya sürekli
+olarak görevlendirilebilir.
 
-             VI – Öğretmenlerin hizmet içi yetiştirilmesi:
+Öğretim tür ve seviyelerine göre uzman ve usta öğreticilerin
+seçimlerinde aranacak şartlar, görev ve yetkileri, yönetmeliklerle
+tespit edilir.
 
-             **Madde 48 –** Öğretmenlerin daha üst öğrenim görmelerini
-sağlamak üzere yaz ve akşam okulları açılır veya hizmet içinde
-yetiştirilmeleri maksadıyle kurslar ve seminerler düzenlenir.
+VI – Öğretmenlerin hizmet içi yetiştirilmesi:
 
-             Yaz ve akşam okulları öğretmen yetiştiren kurumlarca
-açılır; bunlara devam ederek yeterli krediyi dolduran öğretmenlere o
-kurumun belge veya diploması verilir.
+**Madde 48 –** Öğretmenlerin daha üst öğrenim görmelerini sağlamak üzere
+yaz ve akşam okulları açılır veya hizmet içinde yetiştirilmeleri
+maksadıyle kurslar ve seminerler düzenlenir.
 
-             Milli Eğitim Bakanlığınca açılan kurs ve seminerlere devam
-edenlerden başarı sağlayanlara belge verilir. Bu belgelerin,
-öğretmenlerin atama, yükselme ve nakillerinde ne ölçüde ve nasıl
-değerlendirileceği yönetmelikle düzenlenir.
+Yaz ve akşam okulları öğretmen yetiştiren kurumlarca açılır; bunlara
+devam ederek yeterli krediyi dolduran öğretmenlere o kurumun belge veya
+diploması verilir.
+
+Milli Eğitim Bakanlığınca açılan kurs ve seminerlere devam edenlerden
+başarı sağlayanlara belge verilir. Bu belgelerin, öğretmenlerin atama,
+yükselme ve nakillerinde ne ölçüde ve nasıl değerlendirileceği
+yönetmelikle düzenlenir.
 
  
 
@@ -1125,6 +1163,17 @@ Zorunlu ortaöğretim 2012-2013 eğitim-öğretim yılından itibaren
 uygulanmaya başlanır. Bakanlar Kurulu uygulamayı bir eğitim-öğretim yılı
 ertelemeye yetkilidir.
 
+**Geçici Madde 4 – (Ek: 1/3/2014-6528/6 md.)**
+
+Bu maddenin yayımı tarihinden önce, uzman öğretmenlik ve başöğretmenlik
+unvanlarını mahkeme kararıyla elde edenlerin, mahkeme kararının
+aleyhlerine kesinleşmesi hâlinde bu kişilere unvanlarının iptal edildiği
+tarihten önce yapılan ödemeler geri alınmaz.
+
+43 üncü maddeye bu Kanunla eklenen beşinci, altıncı ve yedinci fıkra
+hükümleri, bu Kanunun yayımı tarihinden sonra aday öğretmen olarak
+göreve başlayanlar hakkında uygulanır.
+
 IV – Yürürlük:
 
 **Madde 63 –** Bu Kanun yayımı tarihinde yürürlüğe girer.
@@ -1169,6 +1218,8 @@ V – Yürütme:
   6287                                                                              22, 24, 25, 26, Geçici Madde 3                                11/4/2012
 
   6518                                                                              4                                                             19/2/2014
+
+  6528                                                                              43, Geçici Madde 4                                            14/3/2014
   --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------
 
 
