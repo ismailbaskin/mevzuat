@@ -1,4 +1,6 @@
-1.  #### 2/1/2003 tarihli ve 4778sayılı Kanun ile değişik hali
+1.  #### 
+
+    #### 30/7/2003 tarihli ve 4963 sayılı Kanunla değişik hali
 
     #### TÜRK MEDENÎ KANUNU 
 
@@ -556,10 +558,10 @@ DERNEKLER
 
 **I. Tanımı**
 
-**MADDE 56.-** Dernekler, en az yedi gerçek kişinin kazanç paylaşma
-dışında belirli ve ortak bir amacı gerçekleştirmek üzere, bilgi ve
-çalışmalarını sürekli olarak birleştirmek suretiyle oluşturdukları,
-tüzel kişiliğe sahip kişi topluluklarıdır.
+**MADDE 56**.- Dernekler, gerçek veya tüzel en az yedi kişinin kazanç
+paylaşma dışında belirli ve ortak bir amacı gerçekleştirmek üzere, bilgi
+ve çalışmalarını sürekli olarak birleştirmek suretiyle oluşturdukları,
+tüzel kişiliğe sahip kişi topluluklarıdır.^(1)^
 
 Hukuka veya ahlâka aykırı amaçlarla dernek kurulamaz.
 
@@ -580,6 +582,12 @@ kaynakları, üyelik koşulları, organları ve örgütü ile geçici yönetim
 kurulunun gösterilmesi zorunludur.
 
 Dernek tüzüğü, kanunun emredici hükümlerine aykırı olamaz.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Bu fıkrada geçen “en az yedi gerçek kişinin” ibaresi, 30/7/2003
+tarihli ve 4963 sayılı Kanunun 31 inci maddesiyle “gerçek veya tüzel en
+az yedi kişinin” olarak değiştirilmiş ve metne işlenmiştir.*
 
 Dernek tüzüğünde düzenlenmemiş konularda kanun hükümleri uygulanır.
 
@@ -639,13 +647,19 @@ kabul etmeye zorlanamaz.
 
 2\. Koşulları
 
-**MADDE 64.-** Fiil ehliyetine sahip bulunan her gerçek kişi, derneklere
-üye olma hakkına sahiptir.
+**MADDE 64.-** Fiil ehliyetine sahip bulunan her gerçek kişi ile tüzel
+kişiler, derneklere üye olma hakkına sahiptir.^(1)^
 
 Yazılı olarak yapılacak üyelik başvurusu, tüzükte başkaca bir düzenleme
 yoksa, dernek yönetim kurulunca en çok otuz gün içinde karara bağlanır
 ve sonuç yazıyla başvuru sahibine bildirilir. Başvurusu kabul edilen
 üye, bu amaçla tutulacak deftere kaydedilir.
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+*(1) 30/7/2003 tarihli ve 4963 sayılı Kanunun 32 nci maddesiyle, 64 üncü
+maddenin birinci fıkrasında yer alan "gerçek kişi" ibaresinden sonra
+gelmek üzere "ile tüzel kişiler" ibaresi eklenmiştir.*
 
 **II. Sona ermesi**
 
@@ -656,8 +670,8 @@ sonradan kaybedenlerin dernek üyeliği kendiliğinden sona erer.
 
 2\. Çıkma ile
 
-**MADDE 66.-** Hiç kimse, dernekte üye kalmaya zorlanamaz. Her üye altı
-ay önceden yazılı olarak bildirmek kaydıyla, dernekten çıkma hakkına
+**MADDE 66**.- Hiç kimse, dernekte üye kalmaya zorlanamaz. Her üye
+(...)^(1)^ yazılı olarak bildirmek kaydıyla, dernekten çıkma hakkına
 sahiptir.
 
 3\. Çıkarılma ile
@@ -725,6 +739,12 @@ ve denetim kuruludur.
 Dernekler zorunlu organları dışında başka organlar da oluşturabilirler.
 Ancak, bu organlara zorunlu organların görev, yetki ve sorumlulukları
 devredilemez.
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+\(1) 30/7/2003 tarihli ve 4963 sayılı Kanunun 33 üncü maddesiyle, 66 ncı
+maddesinde yer alan "altı ay önceden" ibaresi madde metninden
+çıkarılmıştır.
 
 **II. Genel kurul**
 
@@ -821,6 +841,9 @@ b\. Oy hakkından yoksunluk
 **MADDE 82.-** Hiçbir dernek üyesi, dernek ile kendisi, eşi, üstsoyu ve
 altsoyu arasındaki bir hukukî işlem veya uyuşmazlık konusunda alınması
 gereken kararlarda oy kullanamaz.
+
+**(Ek fıkra: 30/7/2003-4963/34 md.)** Tüzel kişi adına oy kullanacak
+kişi hakkında da yukarıdaki fıkra hükmü uygulanır.
 
 c\. Kararın iptali
 
@@ -960,8 +983,7 @@ F. Derneklerin örgütlenmesi
 üç kişilik kurucular kurulu, şube açılacak yerin en büyük mülkî amirine
 şube kuruluş bildirimini ve gerekli belgeleri verir.
 
-Şube kurucularının, şubenin açılacağı yerde en az altı aydan beri
-oturmakta olmaları zorunludur.
+**(Mülga ikinci fıkra: 30/7/2003-4963/35 md.) **
 
 Şube kuruluş bildiriminin içeriği ve gerekli belgeler, yönetmelikte
 gösterilir.
@@ -11818,6 +11840,7 @@ MAHKEMESİ KARARININ **
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
   **Değiştiren Kanun No.**   **Değiştiren Kanun/An. MahkemeKararının Yürürlüğe giriş tarihi**   **Anayasa Mahkemesi Karar Tarih/No.**   **4721 sayılı Kanunun değiştirilen maddeleri**
   4778                       11/1/2003                                                                                                  91, 92
+  4963                       30/7/2003                                                                                                  56, 64, 66, 82, 94
   -------------------------- ------------------------------------------------------------------ --------------------------------------- ------------------------------------------------
 
 
