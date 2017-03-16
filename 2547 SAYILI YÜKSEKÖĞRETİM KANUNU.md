@@ -1,6 +1,6 @@
-**6514 sayılı Kanun ile değişik hali**
+[]{#K1 .anchor}**6528 sayılı Kanun ile değişik hali**
 
-[]{#K1 .anchor}**YÜKSEKÖĞRETİM KANUNU**
+**YÜKSEKÖĞRETİM KANUNU**
 
 **Kanun Numarası : 2547 **
 
@@ -2522,9 +2522,14 @@ profesörlerle ilgili hususların görüşülmesinde doçent ve yardımcı
 doçentler, doçentlerle ilgili hususların görüşülmesinde de yardımcı
 doçentler disiplin kurullarına alınmazlar.
 
-b\. Öğretim elemanları,memur ve diğer personelin disiplin işlemleri,
-disiplin amirlerinin yetkileri, devlet memurlarına uygulanan usul ve
-esaslara göre Yükseköğretim Kurulunca düzenlenir.
+b\. **(Değişik: 1/3/2014 - 6528/7 md.)** Öğretim elemanları, memur ve
+diğer personele uygulanabilecek disiplin cezaları uyarma, kınama,
+yönetim görevinden ayırma, aylıktan kesme, kademe ilerlemesinin
+durdurulması, üniversite öğretim mesleğinden çıkarma ve kamu görevinden
+çıkarma cezalarıdır. Hangi fiillere hangi disiplin cezasının
+uygulanacağı, bu bentte sayılan kişilerin disiplin işlemleri ve disiplin
+amirlerinin yetkileri, Devlet memurlarına uygulanan usul ve esaslar da
+göz önüne alınmak suretiyle Yükseköğretim Kurulunca düzenlenir.
 
 c\. **(Değişik: 14/4/1982 - 2653/3 md.)** Ceza soruşturması usulü:
 
@@ -5811,6 +5816,8 @@ TARİHİNİ GÖSTERİR LİSTE**
   Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı   58                                                            10/10/2013
 
   6514                                                                                   36, 58, Ek madde 29, Geçici Madde 64, Geçici madde 65         18/1/2014
+
+  6528                                                                                   53                                                            14/3/2014
   -------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------------------------
 
 
