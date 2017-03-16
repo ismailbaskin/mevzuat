@@ -1,4 +1,6 @@
-**6460 sayılı Kanun ile değişik hali**
+**Anayasa Mahkemesi’nin 10/4/2013 tarihli **
+
+**ve E.: 2013/14, K.: 2013/56 sayılı Kararı ile değişik hali**
 
 **TÜRK CEZA KANUNU ^(1)^**
 
@@ -2619,9 +2621,9 @@ hükmolunur.
 
 *Ayırımcılık*
 
-**Madde 122-** (1) Kişiler arasında dil, ırk, renk, cinsiyet, özürlülük,
-siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayırım
-yaparak; ^(1)^
+**Madde 122-** (1) Kişiler arasında dil, ırk, renk, cinsiyet,
+engellilik, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri
+sebeplerle ayırım yaparak; ^(1)(2)^
 
 a\) Bir taşınır veya taşınmaz malın satılmasını, devrini veya bir
 hizmetin icrasını veya hizmetten yararlanılmasını engelleyen veya
@@ -2662,6 +2664,10 @@ hükmolunur.
 *(1) 1/7/2005 tarihli ve 5378 sayılı Kanunun 41 inci maddesiyle, bu
 fıkrada geçen "dil, ırk, renk, cinsiyet," ibaresinden sonra gelmek üzere
 "özürlülük," ibaresi eklenmiş ve metne işlenmiştir.*
+
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
+fıkrada yer alan “özürlülük” ibaresi “engellilik” olarak
+değiştirilmiştir.*
 
 8999
 
@@ -5105,7 +5111,7 @@ değiştirilmiş ve metne işlenmiştir.*
 
 *Kanuna aykırı eğitim kurumu*
 
-**        Madde 263 – (Mülga – 17/4/2013-6460/13 md.) **
+**        Madde 263 – (Mülga – 17/4/2013-6460/13 md.)**
 
 *Özel işaret ve kıyafetleri usulsüz kullanma*
 
@@ -5178,13 +5184,13 @@ dolaylı fail olarak sorumlu tutulur.
 \(5) Mağdurun ağırlaştırılmış müebbet hapis veya müebbet hapis cezasına
 mahkûmiyeti halinde, yirmi yıldan otuz yıla kadar hapis cezasına; süreli
 hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi
-kadar hapis cezasına hükmolunur.
+kadar hapis cezasına hükmolunur. ^(1)^
 
 \(6) Mağdurun mahkûm olduğu hapis cezasının infazına başlanmış ise,
 beşinci fıkraya göre verilecek ceza yarısı kadar artırılır.
 
 \(7) **(İptal: Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115,
-K.: 2011/154 sayılı Kararı ile.) ^(1)^**
+K.: 2011/154 sayılı Kararı ile.) ^(2)^**
 
 \(8) İftira suçundan dolayı dava zamanaşımı, mağdurun fiili işlemediğinin
 sabit olduğu tarihten başlar.
@@ -5198,7 +5204,7 @@ olunur. İlan masrafı, hükümlüden tahsil edilir.
 **        Madde 268-** (1) İşlediği suç nedeniyle kendisi hakkında
 soruşturma ve kovuşturma yapılmasını engellemek amacıyla, başkasına ait
 kimliği veya kimlik bilgilerini kullanan kimse, iftira suçuna ilişkin
-hükümlere göre cezalandırılır.^(2)^
+hükümlere göre cezalandırılır.^(3)^
 
 *Etkin pişmanlık*
 
@@ -5239,10 +5245,17 @@ yararlanılabilmesi için, bunun aynı yöntemle yayınlanması gerekir.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) Sözkonusu Karar Resmi Gazete’de yayımlandığı 17/3/2012 tarihinden
+*(1) Bu fıkranın “…süreli hapis cezasına mahkûmiyeti halinde, mahkûm
+olunan cezanın üçte ikisi kadar hapis cezasına…” bölümü, Anayasa
+Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/14, K.: 2013/56 sayılı
+Kararı ile iptal edilmiş olup Kararın Resmi Gazete’de yayımlandığı
+10/12/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm
+altına alınmıştır.*
+
+*(2) Sözkonusu Karar Resmi Gazete’de yayımlandığı 17/3/2012 tarihinden
 başlayarak bir yıl sonra yürürlüğe girmiştir.*
 
-*(2)* *Bu fıkrada geçen "bu kişiye" ibaresi, 29/6/2005 tarihli ve 5377
+*(3)* *Bu fıkrada geçen "bu kişiye" ibaresi, 29/6/2005 tarihli ve 5377
 sayılı Kanunun 30 uncu maddesiyle "başkasına" olarak değiştirilmiş ve
 metne işlenmiştir.*
 
@@ -5399,9 +5412,9 @@ sınırlandırılması halen mümkün bulunan bir suçu yetkili makamlara
 bildirmeyen kişi, yukarıdaki fıkra hükmüne göre cezalandırılır.
 
 \(3) Mağdurun onbeşyaşını bitirmemiş bir çocuk, bedensel veya ruhsal
-bakımdan özürlü olan ya da hamileliği nedeniyle kendisini savunamayacak
+bakımdan engelli olan ya da hamileliği nedeniyle kendisini savunamayacak
 durumda bulunan kimse olması halinde, yukarıdaki fıkralara göre
-verilecek ceza, yarı oranında artırılır.
+verilecek ceza, yarı oranında artırılır.^(1)^
 
 \(4) Tanıklıktan çekinebilecek olan kişiler bakımından cezaya
 hükmolunmaz. Ancak, suçu önleme yükümlülüğünün varlığı dolayısıyla ceza
@@ -5442,6 +5455,11 @@ işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 \(3) İlişkin olduğu suç nedeniyle hüküm verilmeden önce gizlenen
 delilleri mahkemeye teslim eden kişi hakkında bu maddede tanımlanan suç
 nedeniyle verilecek cezanın beşte dördü indirilir.
+
+\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu
+fıkrada yer alan “özürlü” ibaresi “engelli” olarak değiştirilmiştir.*
 
 9032-1
 
@@ -6548,10 +6566,18 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 9046-2/9056
 
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5237 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  6459                                                                         94, 215, 220, 235, 318, Geçici Madde 1                        30/4/2013
-  6460                                                                         263                                                           30/4/2013
-  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**          **5237 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+
+  6459                                                                                94, 215, 220, 235, 318, Geçici Madde 1                        30/4/2013
+
+  6460                                                                                263                                                           30/4/2013
+
+  6462                                                                                122, 278                                                      3/5/2013
+
+  Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/14, K.: 2013/56 sayılı Kararı   267                                                           10/12/2013 tarihinden başlayarak altı ay sonra
+                                                                                                                                                    
+                                                                                                                                                    (10/6/2014)
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------
 
 
