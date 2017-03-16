@@ -1,4 +1,4 @@
-**5328 sayılı Kanun ile değişik hali**
+**5348 sayılı Kanun ile değişik hali**
 
 **KABAHATLER** **KANUNU**
 
@@ -724,6 +724,11 @@ yasak olmayan silahları park, meydan, cadde veya sokaklarda görünür bir
 şekilde taşıyan kişiye, kolluk tarafından elli Türk Lirası idarî para
 cezası verilir.
 
+**EK MADDE 1** — **(Ek: 11/5/2005-5348/5 md.)**
+
+\(1) 4.1.1961 tarihli ve 213 sayılı Vergi Usul Kanununda yer alan vergi
+mahkemelerinin görevine ilişkin hükümler saklıdır.
+
 **GEÇİCİ MADDE 1-** (1) Bu Kanunda geçen "Türk Lirası" ibaresi
 karşılığında, uygulamada, 28.1.2004 tarihli ve 5083 sayılı Türkiye
 Cumhuriyeti Devletinin Para Birimi Hakkında Kanun hükümlerine göre
@@ -764,6 +769,7 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
   **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5326 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
   5328                                                                         44                                                            31/3/2005
+  5348                                                                         EK MADDE 1                                                    18/5/2005
   ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
