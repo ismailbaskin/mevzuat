@@ -1,4 +1,4 @@
-**6331 sayılı Kanun ile değişik hali**
+**6462 sayılı Kanun ile değişik hali**
 
 **İŞ KANUNU**
 
@@ -731,9 +731,9 @@ beklemeksizin feshedebilir:
 I- Sağlık sebepleri:
 
 a\) İşçinin kendi kastından veya derli toplu olmayan yaşayışından yahut
-içkiye düşkünlüğünden doğacak bir hastalığa veya sakatlığa uğraması
-halinde, bu sebeple doğacak devamsızlığın ardı ardına üç iş günü veya
-bir ayda beş iş gününden fazla sürmesi.
+içkiye düşkünlüğünden doğacak bir hastalığa yakalanması veya engelli
+hâle gelmesi durumunda, bu sebeple doğacak devamsızlığın ardı ardına üç
+iş günü veya bir ayda beş iş gününden fazla sürmesi. ^(1)^
 
 b\) İşçinin tutulduğu hastalığın tedavi edilemeyecek nitelikte olduğu ve
 işyerinde çalışmasında sakınca bulunduğunun Sağlık Kurulunca saptanması
@@ -763,7 +763,7 @@ c\) İşçinin işverenin başka bir işçisine cinsel tacizde bulunması.
 
 d\) İşçinin işverene yahut onun ailesi üyelerinden birine yahut işverenin
 başka işçisine sataşması, işyerine sarhoş yahut uyuşturucu madde almış
-olarak gelmesi ya da işyerinde bu maddeleri kullanması.^(1)^
+olarak gelmesi ya da işyerinde bu maddeleri kullanması.^(2)^
 
 e\) İşçinin, işverenin güvenini kötüye kullanmak, hırsızlık yapmak,
 işverenin meslek sırlarını ortaya atmak gibi doğruluk ve bağlılığa
@@ -774,7 +774,11 @@ cezası ertelenmeyen bir suç işlemesi.
 
 ––––––––––––––––
 
-*(1) 20/6/2012 tarihli ve 6331 sayılı Kanunun 32 nci maddesiyle, bu alt
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt
+bentte yer alan “veya sakatlığa uğraması halinde” ibaresi “yakalanması
+veya engelli hâle gelmesi durumunda” şeklinde değiştirilmiştir.*
+
+*(2) 20/6/2012 tarihli ve 6331 sayılı Kanunun 32 nci maddesiyle, bu alt
 bentte yer alan “veya 84 üncü maddeye aykırı hareket etmesi” ibaresi “,
 işyerine sarhoş yahut uyuşturucu madde almış olarak gelmesi ya da
 işyerinde bu maddeleri kullanması” şeklinde değiştirilmiştir.*
@@ -900,13 +904,15 @@ toplu işçi çıkarmaya ilişkin hükümler uygulanmaz.
 madde hükümlerinin uygulanmasını engellemek amacıyla kullanamaz; aksi
 halde işçi bu maddelere göre dava açabilir.
 
-*Özürlü ve eski hükümlü çalıştırma zorunluluğu ^(1)(2)^*
+8434-1
+
+*Engelli ve eski hükümlü çalıştırma zorunluluğu ^(1)(2)(3)^*
 
 **Madde 30 –** **(Değişik : 15/5/2008-5763/2 md.)**
 
 İşverenler, elli veya daha fazla işçi çalıştırdıkları özel sektör
-işyerlerinde yüzde üç özürlü, kamu işyerlerinde ise yüzde dört özürlü ve
-yüzde iki eski hükümlü işçiyi veya 21/6/1927 tarihli ve 1111 sayılı
+işyerlerinde yüzde üç engelli, kamu işyerlerinde ise yüzde dört engelli
+ve yüzde iki eski hükümlü işçiyi veya 21/6/1927 tarihli ve 1111 sayılı
 Askerlik Kanunu veya 16/6/1927 tarihli ve 1076 sayılı Yedek Subaylar ve
 Yedek Askeri Memurlar Kanunu kapsamına giren ve askerlik hizmetini
 yaparken 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun 21
@@ -921,7 +927,19 @@ süreli iş sözleşmesine göre çalıştırılan işçiler esas alınır. Kıs
 süreli iş sözleşmesine göre çalışanlar, çalışma süreleri dikkate
 alınarak tam süreli çalışmaya dönüştürülür. Oranın hesaplanmasında
 yarıma kadar kesirler dikkate alınmaz, yarım ve daha fazla olanlar tama
-dönüştürülür. İşyerinin işçisi iken sakatlananlara öncelik tanınır.
+dönüştürülür. İşyerinin işçisi iken engelli hâle gelenlere öncelik
+tanınır.
+
+İşverenler çalıştırmakla yükümlü oldukları işçileri Türkiye İş Kurumu
+aracılığı ile sağlarlar. Bu kapsamda çalıştırılacak işçilerin
+nitelikleri, hangi işlerde çalıştırılabilecekleri, bunların işyerlerinde
+genel hükümler dışında bağlı olacakları özel çalışma ile mesleğe
+yöneltilmeleri, mesleki yönden işverence nasıl işe alınacakları, Çalışma
+ve Sosyal Güvenlik Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+
+Yer altı ve su altı işlerinde engelli işçi çalıştırılamaz ve yukarıdaki
+hükümler uyarınca işyerlerindeki işçi sayısının tespitinde yer altı ve
+su altı işlerinde çalışanlar hesaba katılmaz.
 
 –––––––––––––
 
@@ -938,18 +956,16 @@ Askeri Memurlar Kanunu kapsamına giren ve askerlik hizmetini yaparken
 maddesinde sayılan terör olaylarının sebep ve tesiri sonucu malul
 sayılmayacak şekilde yaralananları” ibaresi eklenmiştir.*
 
+*(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+maddenin başlığında yer alan “Özürlü” ibaresi “Engelli”, birinci
+fıkrasında yer alan “özürlü” ibareleri “engelli”, ikinci fıkrasında yer
+alan “sakatlananlara” ibaresi “engelli hâle gelenlere”, dördüncü
+fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde
+değiştirilmiştir.*
+
+8434-2
+
 8435
-
-İşverenler çalıştırmakla yükümlü oldukları işçileri Türkiye İş Kurumu
-aracılığı ile sağlarlar. Bu kapsamda çalıştırılacak işçilerin
-nitelikleri, hangi işlerde çalıştırılabilecekleri, bunların işyerlerinde
-genel hükümler dışında bağlı olacakları özel çalışma ile mesleğe
-yöneltilmeleri, mesleki yönden işverence nasıl işe alınacakları, Çalışma
-ve Sosyal Güvenlik Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
-
-Yer altı ve su altı işlerinde özürlü işçi çalıştırılamaz ve yukarıdaki
-hükümler uyarınca işyerlerindeki işçi sayısının tespitinde yer altı ve
-su altı işlerinde çalışanlar hesaba katılmaz.
 
 Bir işyerinden malulen ayrılmak zorunda kalıp da sonradan maluliyeti
 ortadan kalkan işçiler eski işyerlerinde tekrar işe alınmalarını
@@ -961,14 +977,14 @@ getirmezse, işe alınma isteğinde bulunan eski işçiye altı aylık ücret
 tutarında tazminat öder.
 
 Özel sektör işverenlerince bu madde kapsamında çalıştırılan 17/7/1964
-tarihli ve 506 sayılı Sosyal Sigortalar Kanununa tabi özürlü
+tarihli ve 506 sayılı Sosyal Sigortalar Kanununa tabi engelli
 sigortalılar ile 1/7/2005 tarihli ve 5378 sayılı Kanunun 14 üncü
-maddesinde belirtilen korumalı işyerlerinde çalıştırılan özürlü
+maddesinde belirtilen korumalı işyerlerinde çalıştırılan engelli
 sigortalıların, aynı Kanunun 72 nci ve 73 üncü maddelerinde sayılan ve
 78 inci maddesiyle belirlenen prime esas kazanç alt sınırı üzerinden
 hesaplanan sigorta primine ait işveren hisselerinin tamamı, kontenjan
-fazlası özürlü çalıştıran, yükümlü olmadıkları halde özürlü çalıştıran
-işverenlerin bu şekilde çalıştırdıkları her bir özürlü için prime esas
+fazlası engelli çalıştıran, yükümlü olmadıkları halde engelli çalıştıran
+işverenlerin bu şekilde çalıştırdıkları her bir engelli için prime esas
 kazanç alt sınırı üzerinden hesaplanan sigorta primine ait işveren
 hisselerinin yüzde ellisi Hazinece karşılanır. İşveren hissesine ait
 primlerin Hazinece karşılanabilmesi için işverenlerin çalıştırdıkları
@@ -987,30 +1003,35 @@ kapsamındaki sigortalılara ilişkin matrah ve oranlar üzerinden olmak
 üzere, 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıkların
 statülerine tabi personeli için de uygulanır. Bu fıkranın uygulanmasına
 ilişkin usul ve esaslar Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik
-Bakanlığı ve Hazine Müsteşarlığı tarafından müştereken belirlenir. ^(1)^
+Bakanlığı ve Hazine Müsteşarlığı tarafından müştereken belirlenir.
+^(1)(2)^
 
 –––––––––––––
 
 *(1) 15/5/2008 tarihli ve 5763 sayılı Kanunun 38 nci maddesiyle bu
 fıkranın 1/7/2008 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.*
 
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “özürlü” ibareleri “engelli” şeklinde
+değiştirilmiştir.*
+
 8436
 
 **(Değişik yedinci fıkra: 11/10/2011-KHK-665/28 md.)** Bu maddeye
 aykırılık hallerinde 101 inci madde uyarınca tahsil edilecek cezalar,
-özürlülerin ve eski hükümlülerin kendi işini kurmaları, özürlünün iş
-bulmasını sağlayacak destek teknolojileri, özürlünün işe
+engellilerin ve eski hükümlülerin kendi işini kurmaları, engellinin iş
+bulmasını sağlayacak destek teknolojileri, engellinin işe
 yerleştirilmesi, işe ve işyerine uyumunun sağlanması ve bu gibi
 projelerde kullanılır. Tahsil edilen cezaların kullanımına ilişkin
 hususlar, Türkiye İş Kurumunun koordinatörlüğünde, Çalışma ve Sosyal
 Güvenlik Bakanlığı Çalışma Genel Müdürlüğü ile İş Sağlığı ve Güvenliği
-Genel Müdürlüğü, Aile ve Sosyal Politikalar Bakanlığı Özürlü ve Yaşlı
+Genel Müdürlüğü, Aile ve Sosyal Politikalar Bakanlığı Engelli ve Yaşlı
 Hizmetleri Genel Müdürlüğü, Adalet Bakanlığı Ceza ve Tevkif Evleri Genel
 Müdürlüğü, en çok işçi ve işvereni temsil eden üst kuruluşların ve en
-çok özürlüyü temsil eden üst kuruluşun birer temsilcisinden oluşan
+çok engelliyi temsil eden üst kuruluşun birer temsilcisinden oluşan
 komisyon tarafından karara bağlanır. Komisyonun çalışma usul ve esasları
 Çalışma ve Sosyal Güvenlik Bakanlığınca çıkarılan yönetmelikle
-düzenlenir.
+düzenlenir. ^(1)^
 
 Eski hükümlü çalıştırılmasında, kanunlardaki kamu güvenliği ile ilgili
 hizmetlere ilişkin özel hükümler saklıdır.
@@ -1054,6 +1075,13 @@ tutarında tazminat öder.
 **Madde 32 -** Genel anlamda ücret bir kimseye bir iş karşılığında
 işveren veya üçüncü kişiler tarafından sağlanan ve para ile ödenen
 tutardır.
+
+*–––––––––––––––––*
+
+*(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+fıkrada yer alan “özürlülerin”, “özürlünün”, “Özürlü” ve “özürlüyü”
+ibareleri sırasıyla “engellilerin”, “engellinin”, “Engelli” ve
+“engelliyi” şeklinde değiştirilmiştir.*
 
 8436-1
 
@@ -2181,15 +2209,15 @@ değiştirilmiş ve metne işlenmiştir.*
 
 8456
 
-*Özürlü ve eski hükümlü çalıştırma zorunluluğuna aykırılık^(1)^*
+*Engelli ve eski hükümlü çalıştırma zorunluluğuna aykırılık^(1)(2)^*
 
 **Madde 101 -** Bu Kanunun 30 uncu maddesindeki hükümlere aykırı olarak
-özürlü ve eski hükümlü çalıştırmayan işveren veya işveren vekiline
-çalıştırmadığı her özürlü ve eski hükümlü ve çalıştırmadığı her ay için
+engelli ve eski hükümlü çalıştırmayan işveren veya işveren vekiline
+çalıştırmadığı her engelli ve eski hükümlü ve çalıştırmadığı her ay için
 binyediyüz Türk Lirası idari para cezası verilir. Kamu kuruluşları da bu
 para cezasından hiçbir şekilde muaf tutulamaz.
 
-*Ücret ile ilgili hükümlere aykırılık^(2)^*
+*Ücret ile ilgili hükümlere aykırılık^(3)^*
 
 **Madde 102 -** Bu Kanunun;
 
@@ -2217,7 +2245,7 @@ için ikiyüzyirmi Türk Lirası idari para cezası,
 
 Verilir.
 
-*Yıllık ücretli izin hükümlerine aykırılık^(3)^*
+*Yıllık ücretli izin hükümlerine aykırılık^(4)^*
 
 **Madde 103 -** Yıllık ücretli izni bu Kanunun 56 ncı maddesine aykırı
 olarak bölen veya izin ücretini 57 nci maddenin üç ve dördüncü
@@ -2236,7 +2264,11 @@ maddenin birinci fıkrasında yer alan “yediyüzelli milyon lira para
 cezası” ibaresi “binyediyüz Türk Lirası idari para cezası”* *şeklinde
 değiştirilmiş ve metne işlenmiştir.*
 
-*(2) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu
+*(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu
+madde başlığında yer alan “Özürlü” ibaresi “Engelli”, birinci fıkrasında
+yer alan “özürlü” ibareleri “engelli” şeklinde değiştirilmiştir.*
+
+*(3) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu
 maddenin birinci fıkrasının (a) bendinde yer alan “yüz Yeni Türk Lirası”
 ibaresi “yüzyirmibeş Türk Lirası” şeklinde, (b) bendinde yer alan
 “ikiyüz milyon lira para cezası” ibaresi “dörtyüzelli Türk Lirası idari
@@ -2244,7 +2276,7 @@ para cezası” şeklinde, (c) bendinde yer alan “yüz milyon lira para
 cezası” ibaresi “ikiyüzyirmi Türk Lirası idari para cezası”* *şeklinde
 değiştirilmiş ve metne işlenmiştir.*
 
-*(3) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu
+*(4) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu
 maddenin birinci fıkrasında yer alan “yüz milyon lira para cezası”
 ibaresi “ikiyüzyirmi Türk Lirası idari para cezası”* *şeklinde
 değiştirilmiş ve metne işlenmiştir.*
@@ -2325,8 +2357,6 @@ maddenin birinci fıkrasında yer “beşyüz milyon lira para cezası” ibares
 “binikiyüz Türk Lirası idari para cezası” şeklinde, ikinci fıkrasında
 yer alan “yüzmilyon lira para cezası” ibaresi “ikiyüzyirmi Türk Lirası
 idari para cezası”şeklinde değiştirilmiş ve metne işlenmiştir.*
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 8458
 
@@ -2586,6 +2616,8 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     6353              12/7/2012                 12/7/2012                                                  -                                        30
 
   1.     6331              30/6/2012                 30/12/2012                                                 -                                        2, 4, 7, 25, 63, 69, 71, 77, 78, 79, 80, 81, 83, 84, 85, 86,87, 88, 89, 95, 98, 105, Geçici Madde 2
+
+  1.     6462              3/5/2013                  3/5/2013                                                                                            25, 30, 101
   ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- -----------------------------------------------------------------------------------------------------
 
 
