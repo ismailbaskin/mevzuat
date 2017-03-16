@@ -1,6 +1,6 @@
-**Anayasa Mahkemesi’nin 13/11/2014 tarihli ve **
+**6639 sayılı Kanun ile değişik hali **
 
-**E.: 2013/95, K.: 2014/176 sayılı Kararı** **ile değişik hali**
+ 
 
 []{#K18 .anchor}KAMULAŞTIRMA KANUNU
 
@@ -123,11 +123,12 @@ hakkının kullanılmasının engellenmemesi, can ve mal güvenliği bakımında
 gerekli önlemlerin alınması kaydıyla, kamu yararına dayalı olarak
 taşınmazların üstünde teleferik ve benzeri ulaşım hatları ile her türlü
 köprü, taşınmazların altında metro ve benzeri raylı taşıma sistemleri
-yapılabilir. Taşınmazların mülkiyet hakkının kullanımının engellenmemesi
-hâlinde, taşınmazlara ilişkin herhangi bir kamulaştırma yapılmaz.
-Taşınmaz sahiplerine bu işlemler nedeniyle kamulaştırma, tazminat ve
-benzeri nam altında herhangi bir ücret ödenmez. Yapılan yatırım
-nedeniyle taşınmaz maliklerinden değer artış bedeli alınamaz.
+ile tünel yapılabilir. Taşınmazların mülkiyet hakkının kullanımının
+engellenmemesi hâlinde, taşınmazlara ilişkin herhangi bir kamulaştırma
+yapılmaz. Taşınmaz sahiplerine bu işlemler nedeniyle kamulaştırma,
+tazminat ve benzeri nam altında herhangi bir ücret ödenmez. Yapılan
+yatırım nedeniyle taşınmaz maliklerinden değer artış bedeli
+alınamaz.^(1)^
 
 Kamu yararı kararı verecek merciler
 
@@ -181,6 +182,12 @@ kaymakamın, il merkezlerinde valinin,
 
 b\) İlçe idare kurulları, il daimi encümenleri ve il idare kurulları
 kararları, valinin,
+
+\_\_\_\_\_\_\_\_\_
+
+*(1) 27/3/2015 tarihli ve 6639 sayılı kanunun 28 inci maddesiyle bu
+fıkrada yer alan “raylı taşıma sistemleri” ibaresinden sonra gelmek
+üzere “ile tünel” ibaresi eklenmiştir.*
 
 6205
 
@@ -1674,6 +1681,8 @@ yürürlüğe girmesi hüküm altına alınmıştır.*
                                                                                         Geçici Madde 7                                                                                                                        13/3/2015 tarihinden başlayarak altı ay sonra
                                                                                                                                                                                                                               
                                                                                                                                                                                                                               (13/9/2015)
+
+  6639                                                                                  4                                                                                                                                     15/4/2015
   ------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------
 
 
