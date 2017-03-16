@@ -1,4 +1,4 @@
-6518 sayılı Kanun ile değişik hali
+8527
 
 KARAYOLU TAŞIMA KANUNU ^(1)(2)^
 
@@ -41,9 +41,11 @@ taşıt, araç, gereç, yapıları ve benzerlerini kapsar.
 Ancak, özel otomobillerle ve bunların römorklarıyla yapılan taşımalar,
 genel ve katma bütçeli dairelerle, il özel idareleri, belediyeler,
 üniversiteler ve kamu iktisadî teşebbüslerine ait otomobillerle yapılan
-taşımalar, Türk Silahlı Kuvvetlerine ait motorlu taşıt ve bunların
-römorkları ile yapılan taşımalar, lastik tekerlekli traktörlerle çekilen
-römorklarla yapılan taşımalar bu Kanun hükümlerine tâbi değildir.
+taşımalar, Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil
+Güvenlik Komutanlığı ve Emniyet Genel Müdürlüğüne ait motorlu taşıt ve
+bunların römorkları ile yapılan taşımalar, lastik tekerlekli
+traktörlerle çekilen römorklarla yapılan taşımalar bu Kanun hükümlerine
+tâbi değildir. ^(3)^
 
 İl sınırları içerisindeki taşımalar ile yüz kilometreye kadar olan
 şehirlerarası taşımaların düzenlenmesi il ve ilçe trafik komisyonları
@@ -67,11 +69,16 @@ hizmetlerle sınırlı olarak, 5393 sayılı Belediye Kanunu hükümlerine
 aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı
 hüküm altına alınmıştır.*
 
+*(3) 31/10/2016 tarihli ve 678 sayılı KHK’nin 9 uncu maddesiyle, bu
+fıkrada yer alan “Türk Silahlı Kuvvetlerine” ibaresi “Türk Silahlı
+Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve
+Emniyet Genel Müdürlüğüne” şeklinde değiştirilmiştir.*
+
 8528
 
 *Tanımlar*
 
-**Madde 3 -** Bu Kanunda geçen;
+Madde 3 - Bu Kanunda geçen;
 
 Bakanlık : Ulaştırma Bakanlığını,
 
@@ -82,8 +89,9 @@ Taşıma işleri işletmecisi : Taşıma işlerinde faaliyette bulunacak
 taşımacı, acente, taşıma işleri komisyoncusu, nakliyat ambarı ve kargo
 işletmecisini,
 
-Sorumluluk sigortası : Bu Kanunun 18 inci maddesiyle ihdas edilen
-zorunlu karayolu taşımacılık malî sorumluluk sigortasını,
+Sorumluluk sigortası : (Değişik: 14/4/2016-6704/17 md.) 2918 sayılı
+Karayolları Trafik Kanununda belirtilen zorunlu mali sorumluluk
+sigortasını,
 
 Taşıma : Yolcunun taşıta bindiği veya eşyanın taşımacıya teslim edildiği
 yerden varış noktasına götürülmesini,
@@ -355,9 +363,9 @@ BİRİNCİ BÖLÜM
 
 *Uluslararası Taşımaların Kapsamı ve Taşıma Yetkisi*
 
-*Uluslararası taşımaların kapsamı*
+*Uluslararası taşımaların kapsamı ^(1)^*
 
-**Madde 12 -** Uluslararası yolcu ve eşya taşımaları;
+Madde 12 - Uluslararası yolcu ve eşya taşımaları;
 
 a\) Türkiye'ye karayoluyla veya demiryoluyla herhangi bir hudut
 kapısından giren veya Türkiye'nin herhangi bir limanına denizyolu ile
@@ -375,11 +383,11 @@ Kapsar.
 
 *Taşıma yetkisi*
 
-**Madde 13 -** 12 nci maddenin (a) bendindeki taşımaları, uluslararası
-ikili ve çok taraflı karayolu taşıma anlaşmalarına göre taşıma yapmaya
-yetkili veya Bakanlıkça izin verilmiş yabancı plâkalı taşıtlar ile
-uluslararası taşımalar için Bakanlıktan yetki belgesi almış taşımacılara
-ait taşıtlarla yapılabilir.
+Madde 13 - 12 nci maddenin (a) bendindeki taşımaları, uluslararası ikili
+ve çok taraflı karayolu taşıma anlaşmalarına göre taşıma yapmaya yetkili
+veya Bakanlıkça izin verilmiş yabancı plâkalı taşıtlar ile uluslararası
+taşımalar için Bakanlıktan yetki belgesi almış taşımacılara ait
+taşıtlarla yapılabilir.
 
 12 nci maddenin (b) bendindeki taşımalar, Bakanlıktan uluslararası
 taşımacı yetki belgesi almış taşımacılar tarafından yapılır. Yabancı
@@ -398,7 +406,13 @@ belgesi verilmiş yabancı taşımacılara ait taşıtlarla yapılabilir.
 Yabancı plâkalı taşıtlar, Türkiye sınırları dahilindeki iki nokta
 arasında taşıma yapamazlar.
 
-8533
+–––––––––––––––
+
+*(1)Bu maddenin uygulanması ile ilgili olarak, 12/2/2016 tarihli ve
+29622 sayılı Resmi Gazete’de yayımlanan 4/1/2016 tarihli ve 2016/29622
+sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.*
+
+8533-8535
 
 İKİNCİ BÖLÜM
 
@@ -449,106 +463,33 @@ BİRİNCİ BÖLÜM
 
 *Sorumluluk*
 
-**Madde 17 -** Şehirlerarası ve uluslararası yolcu taşımacıları;
-duraklamalar dahil olmak üzere yolcunun kalkış noktasından, varış
-noktasına kadar geçecek süre içinde meydana gelecek bir kaza nedeniyle
-yolcunun ölümü, yaralanması ya da eşyasının zarara uğramasından dolayı
-sorumludur.
+**Madde 17 – (Mülga: 14/4/2016-6704/17 md.)**
 
 *Zorunlu karayolu taşımacılık malî sorumluluk sigortası*
 
-**Madde 18 -** Taşımacılar, yolcuya gelebilecek bedenî zararlar için bu
-Kanunun 17 nci maddesinden doğan sorumluluklarını sigorta ettirmek
-zorundadır. Ancak, Hazine Müsteşarlığının bağlı olduğu Bakanlık gerekli
-gördüğü takdirde, tespit edeceği yabancı ülkelerde ortaya çıkabilecek
-zararları teminat kapsamı dışında tutabilir.
-
-8534
-
-Zorunlu karayolu taşımacılık malî sorumluluk sigortasını yaptırmakla
-yükümlü olan taşımacı; kendisinin veya eylemlerinden sorumlu tutulduğu
-kişilerin kusuru bulunmaksızın ve araçtaki bir bozukluk kazayı etkilemiş
-olmaksızın, kazanın bir mücbir sebepten veya hak sahibinin veya bir
-üçüncü kişinin ağır kusurundan ileri geldiğini ispat ederse
-sorumluluktan kurtulur.
-
-Sorumluluktan kurtulamayan taşımacı, kazanın oluşunda zarar görenin
-kusurunun bulunduğunu ispat ederse, durum ve şartlara göre tazminattan
-indirim yapılabilir.
-
-Sorumluluk sigortasına ilişkin sigorta genel şartları Hazine
-Müsteşarlığınca onaylanır. Sorumluluk sigortası tarife ve talimatları
-Hazine Müsteşarlığının bağlı olduğu Bakanlıkça tespit edilir ve Resmî
-Gazetede yayımlanır. Hazine Müsteşarlığının bağlı olduğu Bakanlık
-tarifeyi serbest bırakmaya yetkilidir.
-
-Bu Kanunda öngörülen karayolu taşımacılık malî sorumluluk sigortası
-Türkiye'de karayolu motorlu araçlar zorunlu malî sorumluluk sigortası
-branşında ruhsatı bulunan sigorta şirketleri tarafından yapılır.
+**Madde 18 -** **(Mülga: 14/4/2016-6704/17 md.)**
 
 *Hak sahiplerinin çokluğu ve zorunlu malî sorumluluk sigortası*
 
-**Madde 19 -** Hak sahiplerinin tazminat alacakları, sigorta
-sözleşmesinde öngörülen teminattan fazla ise hak sahiplerinden her
-birinin sigortacıya karşı yöneltebileceği tazminat talebi, teminat
-tutarının tazminat alacakları toplamına olan oranına göre indirime tâbi
-tutulur.
-
-Başka tazminat taleplerinin bulunduğunu bilmeksizin hak sahiplerinden
-birine veya birkaçına kendilerine düşecek olandan fazla ödemede bulunan
-iyiniyetli sigortacı, yaptığı ödeme çerçevesinde diğer hak sahiplerine
-karşı da borcundan kurtulmuş sayılır.
-
-Meydana gelen zarar öncelikle taşımacının sorumluluk sigortasından
-karşılanır. Bu sorumluluk sigortası ile karşılanamayan zararlar için
-2918 sayılı Karayolları Trafik Kanununa göre yapılması zorunlu olan malî
-sorumluluk sigortasına müracaat edilir.
+**Madde 19 -** **(Mülga: 14/4/2016-6704/17 md.)**
 
 *Tazminatın azaltılması veya kaldırılması sonucunu doğuran haller*
 
-**Madde 20 -** Sigorta sözleşmesinden veya sigorta sözleşmesine ilişkin
-kanun hükümlerinden doğan ve tazminat yükümlülüğünün kaldırılması veya
-miktarının azaltılması sonucunu doğuran haller hak sahiplerine karşı
-ileri sürülemez.
-
-Ödemede bulunan sigortacı, sigorta sözleşmesine ve bu sözleşmeye ilişkin
-kanun hükümlerine göre, tazminatın kaldırılmasını veya azaltılmasını
-sağlayabileceği oranda taşımacıya rücu edebilir.
+**Madde 20 -** **(Mülga: 14/4/2016-6704/17 md.)**
 
 *Doğrudan doğruya talep hakkı*
 
-**Madde 21 -** Hak sahipleri, sorumluluk sigortasında öngörülen sınırlar
-içinde doğrudan doğruya sigortacıya karşı talepte bulunabilirler.
+**Madde 21 –(Mülga: 14/4/2016-6704/17 md.)**
 
 *Kaza sonucu ihbar ve zararların ödenmesi*
 
-**Madde 22 -** Sorumluluk sigortası tazminatına yol açan olay, sigorta
-ettiren veya hak sahibi tarafından öğrenildiği tarihten itibaren otuz iş
-günü, olay yurt dışında meydana gelmişse altmış işgünü içinde sigorta
-şirketine ihbar edilir.
+**Madde 22 -** **(Mülga: 14/4/2016-6704/17 md.)**
 
-Sigorta ettiren; kazaya, zarara veya olayla ilgili olarak açılacak
-davalara ilişkin bilgi ve belgeleri sigorta şirketine vermekle
-yükümlüdür.
-
-8535
-
-Sigortacılar, hak sahibinin kaza veya zarara ilişkin belgeleri
-sigortacıya ilettiği tarihten itibaren, sekiz iş günü içinde sorumluluk
-sigortası sınırları içinde kalan miktarı hak sahibine ödemek zorundadır.
+8534-8536
 
 *Sigortanın ispatı*
 
-**Madde 23 -** Sigorta şirketleri, şekli ve kapsamı Bakanlığın uygun
-görüşü ve Hazine Müsteşarlığının bağlı bulunduğu Bakanlığın onayı ile
-belirlenip Türkiye Sigorta ve Reasürans Şirketleri Birliğince
-bastırılacak sorumluluk sigortası belgesini, poliçe ile birlikte sigorta
-ettirene vermek zorundadır. Poliçede araçların plâka numaraları
-belirtilir ve her araç için sorumluluk sigortası belgesi düzenlenir.
-
-Taşımacılar sorumluluk sigortası belgelerini araçlarında bulundurmak
-zorundadır. Sorumluluk sigortası belgesi bulunmayan araçlar sigorta
-teminatı sağlanıncaya kadar trafikten men edilir.
+**Madde 23 -** **(Mülga: 14/4/2016-6704/17 md.)**
 
 İKİNCİ BÖLÜM
 
@@ -556,40 +497,11 @@ teminatı sağlanıncaya kadar trafikten men edilir.
 
 *Zamanaşımı*
 
-**Madde 24 -** Bu Kanuna göre yapılan sorumluluk sigortası
-sözleşmelerinden doğan her türlü tazminat davası, hak sahibinin zararı
-ve tazminat yükümlüsünü öğrendiği tarihten itibaren iki yıl ve her halde
-zarara neden olan olay tarihinden itibaren on yıl sonra zamanaşımına
-uğrar.
-
-Dava, cezayı gerektiren bir fiilden doğmakta ve (…)^(1)^ Türk Ceza
-Kanununda bu fiil için daha uzun bir zamanaşımı süresi öngörülmekte ise
-tazminat davasında bu ceza zamanaşımı uygulanır. ^(1)^
-
-Sorumlu kişi hakkındaki zamanaşımını kesen sebepler, sigorta şirketi
-hakkında da uygulanır. Sigorta şirketi hakkında zamanaşımını kesen
-sebepler sorumlu kişi hakkında da uygulanır.
-
-Sorumluluk sigortasında tazminat yükümlülerinin birbirlerine karşı rücu
-hakları kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu
-edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına
-uğrar.
+**Madde 24 -** **(Mülga: 14/4/2016-6704/17 md.)**
 
 *Yetkili mahkeme ve icra daireleri*
 
-**Madde 25 -** Sigorta sözleşmesinden doğan anlaşmazlıklar, tazminat ve
-rücu talepleri nedeni ile açılacak davalarda ve icra takiplerinde
-yetkili mahkeme veya icra daireleri; sigorta şirketinin veya şubesinin,
-sigorta sözleşmesini yapan acentenin, sigortalının, hak sahibinin, rücu
-edilenin ikametgâhındaki veya zarara yol açan olayın meydana geldiği
-yerdeki mahkeme ve icra daireleridir.
-
-–––––––––––––––––––
-
-*(1) 23/1/2008 tarihli ve 5728 sayılı Kanunun 517 nci maddesiyle bu
-fıkrada yer alan “765 sayılı” ibaresi madde metninden çıkartılmıştır.*
-
-8536
+**Madde 25 -** **(Mülga: 14/4/2016-6704/17 md.)**
 
 DÖRDÜNCÜ KISIM
 
@@ -651,13 +563,9 @@ aynı kabahat için 48 saat geçmeden ikinci bir ceza verilmez.
 h\) 14 üncü maddesine aykırı davrananlara beş yüz Türk Lirası idari para
 cezası verilir.
 
-ı) 18 inci maddesi hükümlerine göre sorumluluk sigortası yaptırmayan
-taşımacılara bin Türk Lirası, 18 inci maddesi hükümlerine göre
-sorumluluk sigortası yapmaktan kaçınan sigorta şirketlerine, ödenmesi
-gereken sigorta priminin on katı tutarında idari para cezası verilir.
+ı) **(Mülga: 14/4/2016-6704/17 md.)**
 
-i\) 22 nci maddesinin ikinci fıkrasına uymayan ve yükümlülükleri yerine
-getirmeyen taşımacılara beş yüz Türk Lirası idari para cezası verilir.
+i\) **(Mülga: 14/4/2016-6704/17 md.)**
 
 j\) 32 nci maddesine aykırı olarak terminal ve ara durak dışında yolcu
 indirip bindiren taşımacılara üç yüz Türk Lirası idari para cezası
@@ -766,28 +674,9 @@ gelirleri, işleyişi, denetimi ve diğer hususlar yönetmelikle belirlenir.
 yılı dahil gelirlerine ilişkin olarak 1050 sayılı Muhasebei Umumiye
 Kanununun 49 uncu maddesi hükümleri uygulanmaz.
 
-**(Ek fıkra: 21/4/2005 – 5335/21 md.)**Ulaştırma Bakanı; Bakanlıkça
-belirlenen usûl ve esaslar dahilinde, söz konusu gelirlerden;
+**(Ek fıkra: 21/4/2005 – 5335/21 md.; Mülga: 27/3/2015-6639/35 md.)**
 
-1\) Savaş, iç savaş, terör, kargaşa ve benzeri olağanüstü koşullara sahip
-ülkelerde uluslararası taşıma yaparken saldırıya uğrayıp hayatını
-kaybeden şoför ve beraberindeki Türk vatandaşlarının varislerine 40.000
-Yeni Türk Lirası’na kadar,
-
-2\) Bakanlık, Döner Sermaye İşletmesinin mali imkânları ölçüsünde olmak
-üzere; ticari yolcu ve eşya taşımalarında kullanılan otobüs, minibüs,
-kamyonet, traktör, kamyon, tanker ve çekicilerden yaşları ilgili
-mevzuatın getirdiği yaş sınırının üzerinde olanları devir alabilir,
-devir alınan taşıtların sahiplerine ve karayolu yatırım projelerine,
-^(1)^
-
-Ödeme yaptırmaya yetkilidir.
-
-**(Ek fıkra: 21/4/2005 – 5335/21 md.)** Döner Sermaye İşletmesi devir
-alınan bu taşıtları yurtiçi ve yurtdışındaki gerçek ve/veya tüzel
-kişilere satış, hibe, devir ve benzeri yöntemlerle değerlendirebilir. Bu
-işlemlerden elde edilen gelirler Döner Sermaye İşletmesine gelir
-kaydedilir.
+**(Ek fıkra: 21/4/2005 – 5335/21 md.; Mülga: 27/3/2015-6639/35 md.)**
 
 *Yönetmelik*
 
@@ -936,28 +825,34 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  ------------------------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**      **4925 sayılı Kanunun değişen veya iptal edilen maddeleri**      **Yürürlüğe Giriş Tarihi**
+  ------------------------------------------------------------------------------------ ---------------------------------------------------------------- ---------------------------------------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **4925 sayılı Kanunun değişen veya iptal edilen maddeleri**      **Yürürlüğe Giriş Tarihi**
 
-  5228                                                                            29                                                               31/7/2004
+  5228                                                                                 29                                                               31/7/2004
 
-  5335                                                                            33 üncü maddenin birinci fıkrasında yer alan ibare değişikliği   1/1/2009
-                                                                                                                                                   
-                                                                                  33 üncü maddeye eklenen ikinci fıkranın (1) numaralı bendi       1/1/2003 tarihinden geçerli olmak üzere 27/4/2005
-                                                                                                                                                   
-                                                                                  33 üncü maddeye eklenen diğer fıkra hükümleri                    27/4/2005
+  5335                                                                                 33 üncü maddenin birinci fıkrasında yer alan ibare değişikliği   1/1/2009
+                                                                                                                                                        
+                                                                                       33 üncü maddeye eklenen ikinci fıkranın (1) numaralı bendi       1/1/2003 tarihinden geçerli olmak üzere 27/4/2005
+                                                                                                                                                        
+                                                                                       33 üncü maddeye eklenen diğer fıkra hükümleri                    27/4/2005
 
-  5728                                                                            5, 24, 26, 27, 28, 29, 30, 31                                    8/2/2008
+  5728                                                                                 5, 24, 26, 27, 28, 29, 30, 31                                    8/2/2008
 
-  5917                                                                            26, 27, 30, 31, 33                                               10/7/2009
+  5917                                                                                 26, 27, 30, 31, 33                                               10/7/2009
 
-  Anayasa Mahkemesinin 8/11/2012 tarihli ve E:2012/27, K:2012/173 sayılı Kararı   35                                                               28/3/2013 tarihinden başlayarak dokuz ay sonra
-                                                                                                                                                   
-                                                                                                                                                   (28/12/2013)
+  Anayasa Mahkemesinin 8/11/2012 tarihli ve E:2012/27, K:2012/173 sayılı Kararı        35                                                               28/3/2013 tarihinden başlayarak dokuz ay sonra
+                                                                                                                                                        
+                                                                                                                                                        (28/12/2013)
 
-  6495                                                                            26, 33, İşlenemeyen hüküm                                        2/8/2013
+  6495                                                                                 26, 33, İşlenemeyen hüküm                                        2/8/2013
 
-  6518                                                                            34, 35                                                           19/2/2014
-  ------------------------------------------------------------------------------- ---------------------------------------------------------------- ---------------------------------------------------
+  6518                                                                                 34, 35                                                           19/2/2014
+
+  6639                                                                                 33                                                               15/4/2015
+
+  6704                                                                                 3, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26                        26/4/2016
+
+  KHK/678                                                                              2                                                                22/11/2016
+  ------------------------------------------------------------------------------------ ---------------------------------------------------------------- ---------------------------------------------------
 
 
