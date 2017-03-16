@@ -1,6 +1,6 @@
-**6518 sayılı Kanun ile değişik hali**
+6047
 
-[]{#K5 .anchor}**KARAYOLLARI TRAFİK KANUNU ^(1)\ (2)^**
+[]{#K5 .anchor}**KARAYOLLARI TRAFİK KANUNU ^(1)\ (2)(3)^**
 
 **Kanun Numarası : 2918**
 
@@ -58,7 +58,7 @@ Bu Kanun hükümleri uygulanır.
 
 ——————————
 
-*(1) 3/11/1988 Tarih ve 3493 sayılı Kanunun 54 ve 55 inci maddeleri ile
+*(1)3/11/1988 Tarih ve 3493 sayılı Kanunun 54 ve 55 inci maddeleri ile
 bu Kanunun 108 inci maddesinin altıncı ve 98,99,101,104 üncü
 maddelerinin son fıkralarındaki onbin liradan otuzbin liraya kadar olan
 hafif para cezaları "ikiyüzbin liradan birmilyon liraya kadar hafif para
@@ -71,12 +71,18 @@ maddelerinin son fıkralarındaki para cezaları "Onbeşbin Liraya" ve 57,
 Liraya", 47 ve 54 üncü maddelerin son fıkrasındaki para cezaları ise
 "Otuzbin Liraya" çıkartılmış ve metne işlenmiştir.*
 
-*(2)Bu Kanunla Sigorta hizmetleri ile ilgili olarak Sanayi ve Ticaret
+*(2) Bu Kanunla Sigorta hizmetleri ile ilgili olarak Sanayi ve Ticaret
 Bakanlığına ve Sanayi ve Ticaret Bakanına verilmiş olan her türlü görev,
 yetki, sorumluluk, hak ve muafiyetten ilgili olanların doğrudan doğruya
 Başbakana, Başbakanın görevlendireceği Devlet Bakanına, Hazine
 Müsteşarlığına ve Hazine Müsteşarına intikal edeceği 9.12.1994 tarih ve
 4059 sayılı Kanunun 8 inci maddesi ile hükme bağlanmıştır.*
+
+*(3) 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunun 84 üncü
+maddesiyle; bu Kanunda belediyenin sorumlu ve yetkili kılındığı görev ve
+hizmetlerle sınırlı olarak, 5393 sayılı Belediye Kanunu hükümlerine
+aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı
+hüküm altına alınmıştır.*
 
 6048
 
@@ -297,7 +303,7 @@ makineleri ile benzeri tarım, sanayi, bayındırlık, milli savunma ile
 üzerine çeşitli ekipmanlar monte edilmiş; karayolunda insan, hayvan, yük
 taşımasında kullanılamayan moturlu araçlardır.
 
-Tramvay : Genelilkle yerleşim birimleri içinde insan taşımasında
+Tramvay : Genellikle yerleşim birimleri içinde insan taşımasında
 kullanılan, karayolunda tekerlekleri raylar üzerinde hareket eden ve
 hareket gücünü dışarıdan sağlayan taşıttır.
 
@@ -1352,7 +1358,10 @@ d\) Tarım kesiminde kullanılanlar hariç.İl Trafik Komisyonlarından karar
 alınmak şartı ile motorsuz taşıtlardan gerekli görülenlerin tescilleri
 belediyelerce,
 
-e\) (**Mülga: 13/2/2011-6111/57 md.)**
+e\) (**Mülga: 13/2/2011-6111/57 md.; Yeniden
+düzenleme:2/1/2017-KHK-680/52 md.)** Jandarma Genel Komutanlığı ile
+Sahil Güvenlik Komutanlığına ait bütün araçların tescilleri Emniyet
+Genel Müdürlüğünce,
 
 Yapılır, belge ve plakaları verilir.
 
@@ -1392,14 +1401,37 @@ sayılı Türk Ceza Kanununun uygulanmasında resmî belge sayılır.
 
 *Belge ve plakaların araçlar üzerinde bulundurulması zorunluluğu:*
 
-**Madde 23 –** Araçlar, tescil belgesi, trafik belgesi ve tescil
-plakaları araç üzerinde ve uygun durumda bulundurulmadan trafiğe
-çıkarılamaz.
+**Madde 23 – (Değişik: 3/10/2016-KHK-676/20 md.)**
 
-**(Değişik: 21/5/1997 - 4262/4 md.)** Bu madde hükmüne uymayanlar 1 800
-000 lira para cezası ile cezalandırılırlar.
+Araç tescil belgesi ve tescil plakasının, araç üzerinde uygun durumda
+bulundurulması zorunludur.
 
-*Trafik belgesi verilmesi için zorunlu belgeler:*
+Araç tescil belgesini araçta bulundurmayan veya tescil plakasını monte
+edilmesi gereken yerin dışında farklı bir yere takan sürücülere 92 Türk
+Lirası idari para cezası verilir. Araç bilgileri doğrulanıncaya ve plaka
+uygun yere takılıncaya kadar araç trafikten men edilir.
+
+Yönetmelikte belirtilen nitelik veya ölçülere aykırı plaka takan,
+öngörülen sayıda plaka takmayan ya da farklı okunmasına veya
+okunamamasına neden olacak şekilde plakasında değişiklik yapan araç
+sahibine 412 Türk Lirası idari para cezası verilir, plakanın uygun
+duruma getirilmesi için 7 gün süre tanınır. Bu süre sonunda tescil
+plakalarını uygun duruma getirmeyenler hakkında 844 Türk Lirası idari
+para cezası verilir ve tescil plakası uygun duruma getirilinceye kadar
+araç trafikten men edilir.
+
+6060-2
+
+Tescilli aracı plakasız kullanan sürücüye 1.698 Türk Lirası idari para
+cezası verilir ve tescil plakası takılıncaya kadar araç trafikten men
+edilir.
+
+Başka bir araca tescilli veya sahte plakayı takan veya kullananlara
+5.000 Türk Lirası idari para cezası verilir ve araç trafikten men
+edilir. Ayrıca bu kişiler Türk Ceza Kanununun 204 üncü maddesi hükmüne
+göre cezalandırılır.
+
+Trafik belgesi verilmesi için zorunlu belgeler:
 
 **Madde 24 – (Değişik birinci fıkra: 18/1/1985 - KHK 245/9 md.; aynen
 kabul: 28/3/1985 - 3176/9 md.)** Trafik belgesi verilebilmesi için araca
@@ -1417,10 +1449,8 @@ araçlara mali mesuliyet sigortası yaptırılmış olmak şartı ile ilgili
 tescil bürosundan geçici trafik belgesi ile geçici tescil plakası
 alınması zorunludur.
 
-6060-2
-
-Geçici trafik belgeleri ve geçici tescil plakalarının çeşitleri,verilme
-şartları,geçerlilik süreleri, nicelik ve nitelikleri, yurt dışından
+Geçici trafik belgeleri ve geçici tescil plakalarının çeşitleri, verilme
+şartları, geçerlilik süreleri, nicelik ve nitelikleri, yurt dışından
 getirilecek veya yurt dışına götürülecek olan araçlara geçici tescil
 plakası verilmesi şartları ile diğer esaslar yönetmelikte belirtilir.
 
@@ -1484,9 +1514,9 @@ bürolarınca belirlenir ve belgelerine işlenir.
 **Madde 28 –** Devlet malı araçların tescil plakalarının rengi ayrı
 olur.
 
-Emniyet araçlarının renklerine göre boyama şekli ile ayırım işaretleri
-diğer resmi ve özel kuruluşlarla gerçek ve tüzelkişilere ait araçlarda
-kullanılamaz.
+Emniyet, Jandarma ve Sahil Güvenlik araçlarının renklerine göre boyama
+şekli ile ayırım işaretleri diğer resmi ve özel kuruluşlarla gerçek ve
+tüzelkişilere ait araçlarda kullanılamaz. ^(1)^
 
 Bu maddenin ikinci fıkrasına aykırı olarak boyanan veya ayırım işareti
 kullanan araçlar aykırılık giderilinceye kadar trafikten men edilir.
@@ -1530,7 +1560,7 @@ para cezası,
 İle cezalandırılırlar.
 
 Bu maddenin (a) bendinde belirtilen eksiklik ve bozuklukları bulunan
-araçlar,teknik şartlara uygun duruma getirilinceye kadar trafik
+araçlar, teknik şartlara uygun duruma getirilinceye kadar trafik
 zabıtasınca trafikten men edilebilir. (b) bendindeki şartlara uymayan ve
 uyumsuzluğu trafik emniyetini tehlikeye düşürmeyecek nitelikte olan
 araçların şartlara uygun duruma getirilmesi ihtar olunur. İhtarda
@@ -1546,7 +1576,7 @@ Araçlarda;
 a\) Özelliklerine ve cinslerine göre yönetmelikte nitelik ve nicelikleri
 belirtilen gereçlerin,
 
-b\) Kamyon, çekici ve otobüslerde ayrıca takoğraf,taksi otomobillerinde
+b\) Kamyon, çekici ve otobüslerde ayrıca takoğraf, taksi otomobillerinde
 ise taksimetre,
 
 Bulundurulması ve kullanılır durumda olması zorunludur. Ancak, 2918
@@ -1570,6 +1600,12 @@ hapis cezası ve 526.700.000 lira hafif para cezası ile
 cezalandırılırlar. Ayrıca (b) bendi hükmüne uygun durumda bulunmayan
 araçlar trafik zabıtasınca; eksiklikleri giderilinceye kadar trafikten
 men edilir.
+
+–––––––––––––––
+
+*(1) 2/1/2017 tarihli ve 680 sayılı KHK’nin 55 inci maddesiyle, bu
+fıkrada yer alan “Emniyet” ibaresinden sonra gelmek üzere “, Jandarma ve
+Sahil Güvenlik” ibaresi eklenmiştir.*
 
 6062
 
@@ -1707,7 +1743,11 @@ tutarı ilgilisine yapılacak tebliğ tarihinden itibaren bir ay içinde
 
 Askeri araçlarla, raylı sistemle çalışan veya iş makinesi türünden
 araçların muayeneleri yönetmelikte belirlenen esaslara göre tescilini
-yapan kuruluşlarca yapılır.
+yapan kuruluşlarca yapılır. **(Ek cümle: 2/1/2017-KHK-680/57 md.)**
+Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik
+Komutanlığına ait taşıtların muayeneleri ilgisine göre Emniyet Genel
+Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı
+tarafından yapılır.
 
 Muayene istasyonlarında bulunacak makine, araç, gereç ile personelin
 nitelikleri, işletme, çalışma ve denetleme usulleri ve işletme belgesi
@@ -2533,6 +2573,8 @@ işaretlerle belirlenmemiş ise;
 
 2\. Motorlu araçlardan soldaki sağdan gelen araca,
 
+Geçiş hakkını vermek zorundadırlar.
+
 d\) **(Ek: 21/5/1997 - 4262/4 md.)** Işıklı trafik işaretleri izin verse
 bile trafik akımı; kendisini kavşak içinde durmaya zorlayacak veya diğer
 doğrultudaki trafiğin geçişine engel olacak ise, sürücülerin kavşağa
@@ -2792,7 +2834,7 @@ yasaktır.
 
 Birinci fıkranın (a) bendi hükümlerine uymayanlara, (…) ^(1)^ 50 Türk
 Lirası; (d), (h), (i), (j) ve (k) bentleri hükümlerine uymayanlara 125
-Türk Lirası; € ve (f) bentlerindeki hükümlere uymayanlara 250 Türk
+Türk Lirası; (e) ve (f) bentlerindeki hükümlere uymayanlara 250 Türk
 Lirası; (c) ve (g) bentleri hükümlerine uymayan işletenlere 500 Türk
 Lirası, (g) bendine aykırı yük gönderenlere 1.000 Türk Lirası idarî para
 cezası verilir. Ayrıca, bütün sorumluluk ve giderler araç işletenine ait
@@ -2855,6 +2897,28 @@ taraflı anlaşma hükümleri saklıdır.
 
 Tarım alanlarına yapılacak yük ve yolcu taşımacılığına ilişkin esas ve
 usuller yönetmelikte belirlenir.
+
+*Kış lastiği zorunluluğu*
+
+**Madde 65/A –(Ek: 2/1/2017-KHK-687/2 md.)**
+
+Yolcu ve eşya taşımalarında kullanılan araçların kış lastiği
+kullanmaları, illerin hava ve iklim şartlarına göre Ulaştırma,
+Denizcilik ve Haberleşme Bakanlığı tarafından yılın belirli dönemi için
+zorunlu tutulur. Ulaştırma, Denizcilik ve Haberleşme Bakanlığı bu
+yetkisini valiliklere devredebilir. Bu madde hükümleri çerçevesinde
+araçları denetlemeye Ulaştırma, Denizcilik ve Haberleşme Bakanlığının
+yetkilendirdiği Bakanlık personeli ile Emniyet Genel Müdürlüğü, Jandarma
+Genel Komutanlığı, Gümrük ve Ticaret Bakanlığının sınır kapılarındaki
+birimleri ve belediyelerin denetim birimleri yetkilidir. Bu maddede
+düzenlenen yükümlülüğe uymayan aracın işletenine 625 Türk Lirası
+tutarında bu maddede belirtilen görevlilerce idari para cezası verilir
+ve bu araçların lastiklerini uygun hale getirebilecekleri en yakın
+yerleşim birimine kadar gitmelerine denetimle görevli olanlar tarafından
+izin verilir. Bu maddede belirtilen idari para cezasının tutarını
+azaltmaya ve iki katına kadar artırmaya Bakanlar Kurulu yetkilidir. Bu
+maddeye ilişkin usul ve esaslar Ulaştırma, Denizcilik ve Haberleşme
+Bakanlığı tarafından belirlenir.
 
 *Bisiklet, motorlu bisiklet ve motosiklet sürücüleri ile ilgili
 kurallar:*
@@ -2952,6 +3016,8 @@ Yayalar, bu yerlerden geçerken;
 1\. Yaya ve okul geçitlerinin bulunduğu yerlerde, geçitte yayalar için
 ışıklı işaret varsa bu işaretlere uymak,
 
+6078
+
 2\. Geçitte yayalar için ışıklı işaret yoksa ve geçit sadece taşıt
 trafiği ışıklı işareti veya yetkili kişi tarafından yönetiliyorsa
 geçecekleri doğrultu açıldıktan sonra taşıt yoluna girmek,
@@ -2964,12 +3030,8 @@ Zorundadırlar.
 
 Ancak, yüz metre kadar mesafede yaya geçidi veya kavşak bulunmayan
 yerlerde yayalar, taşıt trafiği için bir engel teşkil etmemek şartı ile
-ve yolu kontrol
-
-6078
-
-ederek kendi güvenliklerini sağladıktan sonra en kısa doğrultuda ve en
-kısa zamanda taşıt yolunu geçebilirler.
+ve yolu kontrol ederek kendi güvenliklerini sağladıktan sonra en kısa
+doğrultuda ve en kısa zamanda taşıt yolunu geçebilirler.
 
 c\) Yaya yollarında, geçitlerde veya zorunlu hallerde taşıt yolu üzerinde
 bulunan yayaların, trafiği engelleyecek veya tehlikeye düşürecek şekilde
@@ -3019,6 +3081,14 @@ yönetmelikte gösterilir.
 **(Değişik: 21/5/1997 - 4262/4 md.)** Bu madde hükümlerine uymayanlar 7
 200 000 lira para cezası ile cezalandırılırlar.
 
+——————————
+
+*(1)Bu maddenin, ikinci ve dördüncü fıkraları, 21/5/1997 tarih ve 4262
+sayılı Kanunun 4 üncü maddesi ile birleştirilmek suretiyle maddenin
+ikinci fıkrası olarak yeniden düzenlenmiştir.*
+
+6078-1
+
 BEŞİNCİ BÖLÜM
 
 *Çeşitli Kurallar*
@@ -3039,7 +3109,8 @@ d\) Bir trafik suçu işleyerek kaçan aracı takip eden veya trafik
 güvenliğini koruma veya trafik kazasına el koyma amacıyla olay veya kaza
 yerine gitmekte olan görevlilere ait araçlar,
 
-e\) Alarm sırasında sivil savunma hizmetlerinde görevli bulunan araçlar,
+e\) **(Değişik: 20/2/2014-6525/14 md.)** Afet ve acil durum hâllerinde
+afet ve acil durum hizmetlerinde görevli bulunan araçlar,
 
 f\) Koruma ile görevli ve korunan araçlar,
 
@@ -3051,14 +3122,6 @@ görünür geçiş üstünlüğü işaretini vermek şartı ile kullanılır.
 Bu araçlar, bu Kanun ve yönetmelikte yazılı trafik kısıtlama ve
 yasaklarına bağlı değildir.
 
-——————————
-
-*(1) Bu maddenin, ikinci ve dördüncü fıkraları, 21/5/1997 tarih ve 4262
-sayılı Kanunun 4 üncü maddesi ile birleştirilmek suretiyle maddenin
-ikinci fıkrası olarak yeniden düzenlenmiştir.*
-
-6079
-
 Bunların birbirleriyle karşılaşmalarında birinin diğerine göre geçiş
 üstünlüğü yukarıda yazılı olan sıraya göredir.
 
@@ -3067,6 +3130,8 @@ Zorunluluk olmadığı hallerde geçiş üstünlüğünü kullanmak yasaktır.
 **(Değişik: 21/5/1997 - 4262/4 md.)** Zorunluluk olmadığı halde gereksiz
 geçiş üstünlüğü hakkını kullanan sürücüler 1 800 000 lira para cezası
 ile cezalandırılırlar.
+
+6079
 
 *Ses, müzik, görüntü ve haberleşme cihazlarının kullanılması:*
 
@@ -3499,9 +3564,14 @@ teşebbüs sahibine karşı müteselsilen sorumludurlar.
 
 *Maddi ve manevi tazminat:*
 
-**Madde 90 –** Maddi tazminatın biçimi ve kapsamı ile manevi tazminat
-konularında Borçlar Kanununun haksız fiillere ilişkin hükümleri
-uygulanır.
+**Madde 90 – (Değişik:14/4/2016-6704/3 md.)**
+
+Zorunlu mali sorumluluk sigortası kapsamındaki tazminatlar bu Kanun ve
+bu Kanun çerçevesinde hazırlanan genel şartlarda öngörülen usul ve
+esaslara tabidir. Söz konusu tazminatlar ve manevi tazminata ilişkin
+olarak bu Kanun ve genel şartlarda düzenlenmeyen hususlar hakkında
+11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun haksız fiillere
+ilişkin hükümleri uygulanır.
 
 İKİNCİ BÖLÜM
 
@@ -3519,18 +3589,18 @@ Zorunlu mali sorumluluk sigortasına ilişkin primler peşin ödenir. Ancak,
 Hazine Müsteşarlığının bağlı bulunduğu Bakanlık primlerin taksitler
 halinde tahsil edilmesine ilişkin düzenleme yapmaya yetkilidir.
 
-**(Değişik üçüncü fıkra: 14/7/2004-5217/12 md.)** Sigorta yaptıranların,
-sigorta şirketlerine ödeyecekleri sigorta priminin % 5'i oranındaki
-tutar, sigorta şirketi tarafından tahsil edildiği ayı takip eden ayın en
-geç 20'sine kadar İçişleri Bakanlığı Merkez Saymanlığı hesabına
-yatırılır. Yatırılan bu tutarlar bütçeye gelir kaydedilir.
-
 ——————————
 
 *(1) Bu madde başlıkları, 17/10/1996 tarih ve 4199 sayılı Kanunla
 değiştirilmiş ve metne işlenmiştir.*
 
 6084-1
+
+**(Değişik üçüncü fıkra: 14/7/2004-5217/12 md.)** Sigorta yaptıranların,
+sigorta şirketlerine ödeyecekleri sigorta priminin % 5'i oranındaki
+tutar, sigorta şirketi tarafından tahsil edildiği ayı takip eden ayın en
+geç 20'sine kadar İçişleri Bakanlığı Merkez Saymanlığı hesabına
+yatırılır. Yatırılan bu tutarlar bütçeye gelir kaydedilir.
 
 **(Mülga dördüncü fıkra: 13/2/2011-6111/58 md.)**
 
@@ -3562,8 +3632,6 @@ kapsamı dışındadırlar.
 a\) İşletenin; bu Kanun uyarınca eylemlerinden sorumlu tutulduğu kişilere
 karşı yöneltebileceği talepler,
 
-6085
-
 b\) İşletenin; eşinin, usul ve füruunun, kendisine evlat edinme ilişkisi
 ile bağlı olanların ve birlikte yaşadığı kardeşlerinin mallarına gelen
 zararlar nedeniyle ileri sürebilecekleri talepler,
@@ -3578,6 +3646,18 @@ yarışlarındaki veya yarış denemelerindeki kazalardan doğan talepler,
 e\) Motorlu araçta taşınan eşyanın uğrayacağı zararlar,
 
 f\) Manevi tazminata ilişkin talepler.
+
+g\) **(Ek: 14/4/2016-6704/4 md.)** Hak sahibinin kendi kusuruna denk
+gelen tazminat talepleri,
+
+h\) **(Ek: 14/4/2016-6704/4 md.)** İlgililerin, sigortalının sorumluluk
+riski kapsamında olmayan tazminat talepleri,
+
+i\) **(Ek: 14/4/2016-6704/4 md.)** Bu Kanun çerçevesinde hazırlanan
+zorunlu mali sorumluluk sigortası genel şartları ve ekleri ile
+tanımlanan teminat içeriği dışında kalan talepler.
+
+6085
 
 *En az sigorta tutarları:*
 
@@ -3638,13 +3718,19 @@ birine veya birkaçına kendilerine düşecek olandan daha fazla ödemede
 bulunan iyiniyetli sigortacı, yaptığı ödeme çerçevesinde, diğer zarar
 görenlere karşı da borcundan kurtulmuş sayılır.
 
-6086
-
 *Doğrudan doğruya talep ve dava hakkı:*
 
-**Madde 97 –** Zarar gören, zorunlu mali sorumluluk sigortasında
-öngörülen sınırlar içinde doğrudan doğruya sigortacıya karşı talepte
-bulunabilecegi gibi dava da açabilir.
+**Madde 97 – (Değişik: 14/4/2016-6704/5 md.)**
+
+Zarar görenin, zorunlu mali sorumluluk sigortasında öngörülen sınırlar
+içinde dava yoluna gitmeden önce ilgili sigorta kuruluşuna yazılı
+başvuruda bulunması gerekir. Sigorta kuruluşunun başvuru tarihinden
+itibaren en geç 15 gün içinde başvuruyu yazılı olarak cevaplamaması veya
+verilen cevabın talebi karşılamadığına ilişkin uyuşmazlık olması
+hâlinde, zarar gören dava açabilir veya 5684 sayılı Kanun çerçevesinde
+tahkime başvurabilir.
+
+6086
 
 *Sağlık hizmet bedellerinin ödenmesi: ^(1)^*
 
@@ -3653,7 +3739,14 @@ bulunabilecegi gibi dava da açabilir.
 Trafik kazaları sebebiyle üniversitelere bağlı hastaneler ve diğer bütün
 resmî ve özel sağlık kurum ve kuruluşlarının sundukları sağlık hizmet
 bedelleri, kazazedenin sosyal güvencesi olup olmadığına bakılmaksızın
-Sosyal Güvenlik Kurumu tarafından karşılanır.
+genel sağlık sigortalısı sayılanlar için belirlenen sağlık hizmeti geri
+ödeme usul ve esasları çerçevesinde Sosyal Güvenlik Kurumu tarafından
+karşılanır. **(Ek cümle: 4/4/2015-6645/60 md.)** Ancak, Sosyal Güvenlik
+Kurumu, bu kapsama girenler yönünden genel sağlık sigortalısı sayılanlar
+için belirlenen sağlık hizmetlerine ilave sağlık hizmetlerini belirler,
+protez ve ortezler için farklı birim fiyatı tespit eder. Bu sağlık
+hizmetleri sağlık uygulama tebliğindeki istisnai sağlık hizmetleri
+kapsamına dâhil edilmez. ^(2)^
 
 Trafik kazalarına sağlık teminatı sağlayan zorunlu sigortalarda; sigorta
 şirketlerince yazılan primlerin ve Güvence Hesabınca tahsil edilen katkı
@@ -3686,11 +3779,11 @@ belirlenir.
 
 *Tazminat ve giderlerin ödenmesi:*
 
-**Madde 99 –** Sigortacılar, hak sahibinin kaza veya zarara ilişkin
-tespit tutanağını veya bilirkişi raporunu, sigortacının merkez veya
-kuruluşlarından birine ilettiği tarihten itibaren sekiz iş günü içinde
-zorunlu mali sorumluluk sigortası sınırları içinde kalan miktarları hak
-sahibine ödemek zorundadırlar.
+**Madde 99 –** Sigortacılar, hak sahibinin zorunlu mali sorumluluk
+sigortası genel şartlarıyla belirlenen belgeleri, sigortacının merkez
+veya kuruluşlarından birine ilettiği tarihten itibaren sekiz iş günü
+içinde zorunlu mali sorumluluk sigortası sınırları içinde kalan
+miktarları hak sahibine ödemek zorundadırlar. ^(3)^
 
 Ödemeyi yapan sigortacı,ödenen miktarın sorumluluk oranlarında
 paylaşılmasını diğer sigortacılardan yazılı olarak talep eder. Diğer
@@ -3705,6 +3798,17 @@ sigortacılar, 108 000 000 lira hafif para cezası ile cezalandırılırlar.
 *(1) Bu madde başlığı “Tedavi giderlerinin ödenmesi:” iken, 13/2/2011
 tarihli ve 6111 sayılı Kanunun 59 uncu maddesiyle metne işlendiği
 şekilde değiştirilmiştir.*
+
+*(2) 4/4/2015 tarihli ve 6645 sayılı Kanunun 60 ıncı maddesiyle, bu
+fıkraya “kazazedenin sosyal güvencesi olup olmadığına bakılmaksızın”
+ibaresinden sonra gelmek üzere “genel sağlık sigortalısı sayılanlar için
+belirlenen sağlık hizmeti geri ödeme usul ve esasları çerçevesinde”
+ibaresi eklenmiştir.*
+
+*(3) 14/4/2016 tarihli ve 6704 sayılı Kanunun 6 ncı maddesiyle, bu
+fıkrada yer alan “kaza veya zarara ilişkin tespit tutanağını veya
+bilirkişi raporunu” ibaresi “zorunlu mali sorumluluk sigortası genel
+şartlarıyla belirlenen belgeleri” şeklinde değiştirilmiştir.*
 
 6087/6088-1
 
@@ -4029,10 +4133,17 @@ yabancı plakalı araçların plakasına uygulanan, ancak tebliğ edilememiş
 olan trafik idari para cezalarının ödenmesi hâlinde trafik idari para
 cezası karar tutanağının tebliğ tarihi olarak ödeme tarihi esas alınır.
 
-**(Ek fıkra: 12/7/2013-6495/21 md.)** Yabancı plakalı araçların
-plakalarına düzenlenen, ancak tebliğ edilmemiş olan trafik idari para
-cezalarına ilişkin tutanakların tebliği ve tahsiline ilişkin usul ve
-esaslar Maliye ve İçişleri bakanlıklarınca müştereken belirlenir.
+**(Ek fıkra: 12/7/2013-6495/21 md.; (Değişik fıkra: 2/1/2017-KHK-680/59
+md.)** Sürücüsünün Türk vatandaşı olup olmadığına bakılmaksızın yabancı
+plakalı araçlara uygulanacak olan trafik idari para cezaları, tebligat
+şartı aranmaksızın sürücüsü bilgilendirilmek suretiyle tahsil edilir.
+Trafik cezaları tahsil edilmeden yabancı plakalı aracın ülkeyi terk
+etmesine izin verilmez. Türk plakalı araç kullanan yabancı sürücülerin
+trafik cezaları, cezanın yazıldığı araç sahibinden tahsil edilir. Bu
+fıkra hükümlerinin uygulanmasına ilişkin usul ve esaslar Gümrük ve
+Ticaret Bakanlığı, İçişleri Bakanlığı ve Maliye Bakanlığı ile Ulaştırma,
+Denizcilik ve Haberleşme Bakanlığınca müştereken çıkarılan yönetmelikle
+belirlenir. Uluslararası sözleşme hükümleri saklıdır.
 
 *Tescil plakasına göre tutanak düzenlenmesi:*
 
@@ -4335,6 +4446,12 @@ Sürücü belgelerinin verilmesi ve yenilenmesi hizmetlerinden elde edilen
 gelirin tamamı Türk Polis Teşkilatı Güçlendirme Vakfına aittir. Buna
 dair usul ve esas ile diğer hususlar İçişleri Bakanlığınca belirlenir.
 
+**(Ek fıkra: 3/10/2016-KHK-676/21 md.)** Basılı kâğıtlar ve tescil
+plakalarının yetkilendirilenler dışında basımını veya dağıtımını
+yapanlara 10.000 Türk Lirası idari para cezası verilir. Ayrıca bu
+kişiler Türk Ceza Kanununun 204 üncü maddesi hükmüne göre
+cezalandırılır.
+
 *Bilgi işlem merkezinin faaliyeti:*
 
 **Madde 132 –** Araçların, sürücülerin ve trafik suçu işleyenlerin
@@ -4397,11 +4514,11 @@ Ayrıca, araç onbeş gün süre ile trafikten men edilir.
 
 **(Ek fıkra: 31/5/2012-6321/3 md.)** İlgili belediyeden izin veya ruhsat
 almaksızın, belediye sınırları dâhilinde ticari amaçlı yolcu taşıyan
-kişiye, araç sahibine, bağlı bulunduğu durak, işyeri ve işletmelerin
+kişiye, (…)^(1)^ bağlı bulunduğu durak, işyeri ve işletmelerin
 sorumlularına birinci fıkrada gösterilen idari para cezası üç kat
 olarak, fiilin işlendiği tarihten itibaren bir yıl içinde tekerrürü
 halinde ise beş kat olarak uygulanır. Ayrıca, araç her defasında altmış
-gün süre ile trafikten men edilir.
+gün süre ile trafikten men edilir.^(1)^
 
 **(Ek fıkra: 31/5/2012-6321/3 md.)** Ayırıcı işareti bulunmayan üçüncü
 fıkra kapsamındaki araçlardan taşımacılık hizmeti alanlara da birinci
@@ -4427,6 +4544,13 @@ edilemez.
 Bir fiil 2918 sayılı Karayolları Trafik Kanununun idari para cezasını
 gerektiren muhtelif yasaklarını ihlal eder nitelikte ise faile, en ağır
 idari para cezası uygulanır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) Anayasa Mahkemesi’nin 11/9/2014 tarihli ve E:2014/52, K:2014/139
+sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “…araç
+sahibine…” ibaresi ile, aynı maddenin ikinci cümlesinin “araç sahibine”
+yönünden iptal edilmiştir.*
 
 6096-1
 
@@ -4569,9 +4693,10 @@ Maliye Bakanı yetkilidir.
 
 6096-3
 
-**Ek Madde 16 – (Ek: 13/2/2011-6111/60 md.) ^(1)^**
+**Ek Madde 16 – (Ek: 13/2/2011-6111/60 md.) ^(1)\ (2)^**
 
-Belediyelerce kendi bütçe kaynakları kullanılarak, karayollarında can ve
+Belediyelerce veya sermayesinin tamamı belediyelere ait şirketler
+tarafından kendi bütçe kaynakları kullanılarak, karayollarında can ve
 mal güvenliğini sağlamak, düzenli ve güvenli trafik akışını temin etmek
 amaçlarına hizmet etmek üzere kurulmuş veya kurulacak elektronik
 sistemlerin Emniyet Genel Müdürlüğünce trafik ihlallerinin tespiti
@@ -4579,7 +4704,11 @@ amacıyla kullanılması durumunda, aylık dönemler halinde yapılan
 tespitlere dayanılarak düzenlenen trafik idari yaptırım karar
 tutanaklarında yer alan trafik idari para cezasının % 30’u oranındaki
 tutar, izleyen ayın sonuna kadar Emniyet Genel Müdürlüğü bütçesinden
-ilgili belediyelere sistem kullanımı hizmet bedeli olarak ödenir.
+ilgili belediyelere sistem kullanımı hizmet bedeli olarak ödenir. **(Ek
+cümle: 20/8/2016-6745/30 md.)** Elektronik sistemlerin belediyeler
+tarafından hasılat paylaşımı yoluyla kurdurulması ve işlettirilmesi
+hâlinde belediyelere ödenecek tutar, elektronik sistemlerin yatırım
+maliyetine ulaşıncaya kadar %30, sonrasında %15 olarak uygulanır. ^(2)^
 
 Bu madde kapsamında hizmetinden yararlanılacak elektronik sistemlerin
 taşıması gereken teknik özellikler,  kurulması  gereken yerler  ve
@@ -4602,6 +4731,59 @@ Aday sürücülerle ilgili olarak yönetmelikte belirtilen iptal edilme
 şartlarının oluşması hâlinde, bu Kanunun 6 ncı maddesinde sayılan
 görevliler tarafından sürücü belgeleri iptal edilir.
 
+*Noterliklere devir*
+
+**Ek Madde 18-(Ek: 2/1/2017-KHK-680/61 md.) **
+
+Emniyet Genel Müdürlüğünce yürütülen araç tescil hizmetlerine ilişkin iş
+ve işlemler, bu Kanunun 131 inci maddesi hükümleri saklı kalmak üzere,
+Türkiye Noterler Birliği koordinesinde noterliklere devredilebilir. Bu
+durumda;
+
+a\) Araç tescil işlemlerine ilişkin olarak noterliklere devredilen iş ve
+işlemler hakkında mevzuatta Emniyet birimlerine yapılmış olan atıflar,
+noterliklere yapılmış sayılır.
+
+b\) Araç sicil ve tescil sistemi veri tabanı Türkiye Noterler Birliğince
+tutulur ve bu kuruluşça yönetimi ve güvenliği sağlanır. Veri tabanında
+yer alan bilgiler anlık olarak Emniyet Genel Müdürlüğü ile paylaşılır.
+
+–––––––––
+
+*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 215 inci maddesiyle bu
+maddenin mezkur Kanunun yayımını izleyen üçüncü ayın başında yürürlüğe
+girmesi hüküm altına alınmıştır.*
+
+*(2) 20/8/2016 tarihli ve 6745 sayılı Kanunun 30 uncu maddesiyle, bu
+maddenin birinci fıkrasının birinci cümlesinde yer alan “Belediyelerce”
+ibaresinden sonra gelmek üzere “veya sermayesinin tamamı belediyelere
+ait şirketler tarafından” ibaresi eklenmiştir.*
+
+6096-4
+
+c\) Araç tescil işlemi karşılığında, noterler tarafından alınacak ücret,
+araç tescil hizmetlerine ilişkin iş ve işlemler ile bu maddenin
+uygulanmasına ilişkin usul ve esaslar; Bilim, Sanayi ve Teknoloji
+Bakanlığı, Maliye Bakanlığı ve Ulaştırma, Denizcilik ve Haberleşme
+Bakanlığı ile Türkiye Noterler Birliğinin görüşleri alınarak, Adalet
+Bakanlığı ve İçişleri Bakanlığınca müştereken çıkarılan yönetmelikle
+belirlenir.
+
+ç) Devir işlemleri tamamlanıncaya kadar, araç tescil işlemlerine ilişkin
+iş ve işlemler daha önce bu görev ve hizmetleri yapmakta olan birimler
+tarafından yürütülmeye devam olunur.
+
+Araç sicilleri ve bu sicillerin tutulmasına dayanak olan belgeler
+gizlidir. Bunlar, yetkili ve sorumlular ile teftiş ve denetim yetkisi
+olanlar dışında kimse tarafından görülüp incelenemez. Mahkemeler bu
+hükmün dışındadır. Bu bilgileri işleyen görevliler ve araç kayıtlarından
+faydalanan diğer görevliler de bu gizliliğe uymak zorundadırlar.
+
+Birinci fıkrada devre ilişkin öngörülen hükümler istihbarat, gizlilik
+veya güvenlik gerektiren hizmetlerde kullanılan araçların her türlü
+tescil işlemi ile belge ve plakalarını verme ve sivil plaka işlemleri
+hakkında uygulanmaz.
+
 ONİKİNCİ KISIM
 
 *Geçici Hükümler*
@@ -4616,20 +4798,12 @@ tarihte başlanır ve iki yıl içinde tamamlanır.
 Bu değiştirme ve yenilemeler harca tabi değildir.
 
 İki yıllık süre sonunda değiştirilmeyen, araçlara ait belgelerle şoför
-ehliyetnameleri ve sürücü belgeleri,değiştirilinceye kadar geçersiz
+ehliyetnameleri ve sürücü belgeleri, değiştirilinceye kadar geçersiz
 sayılır.
 
 Geçersiz belgelerle araç kullanılması veya aracın trafiğe çıkarılması
 halinde şoför ve sürücüler araç kullanmaktan ve bu araçlar trafikten men
 edilir.
-
-–––––––––
-
-*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 215 inci maddesiyle bu
-maddenin mezkur Kanunun yayımını izleyen üçüncü ayın başında yürürlüğe
-girmesi hüküm altına alınmıştır.*
-
-6096-4
 
 **Geçici Madde 2 –** 6085 sayılı Karayolları Trafik Kanununa göre
 verilmiş olan şoför ehliyetnameleri değiştirilinceye kadar;
@@ -4645,6 +4819,8 @@ ile kullanılan araçları,
 
 Kullanabilirler.
 
+6096-5
+
 **Geçici Madde 3 –** Bu Kanunun yürürlüğe girdiği tarihten önce
 edinilmiş ve çeşitli nedenlerle tescili yapılmamış tarımda kullanılan
 lastik tekerlekli traktörlerin tescili, bu Kanunun yürürlüğe girdiği
@@ -4653,8 +4829,8 @@ sahibi olduklarını kanıtlayan bir belge vermeleri şartı ile yapılır.
 
 Bu Kanunun yürürlüğe girdiği tarihten önce satışı yapılmış olan
 araçların trafikte ve vergi kaydında maliki olarak görünen eski
-sahipleri,bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde,
-noterlikçe düzenlenen satış belgesi ile trafik bürosuna
+sahipleri, bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl
+içinde, noterlikçe düzenlenen satış belgesi ile trafik bürosuna
 başvurduklarında, yeni malikin de beraber başvurusu veya muvafakatı
 aranmaksızın trafik kaydı ve trafiğin duyurusu ile de vergi kaydı yeni
 maliki adına devir edilir, Satışlar zincirleme devam etmiş ise bu
@@ -4698,12 +4874,12 @@ sürücü sınavları 42 nci maddenin (c) fıkrası hükümleri gereğince
 
 Yapılır.
 
-6096-5
-
 **Geçici Madde 6 –** Taksimetrelerin hangi il ve ilçelerde hangi
 tarihten itibaren, takoğrafların, öncelikle hangi cins araçlarda hangi
 tarihten itibaren kullanılacağına ilişkin esaslar yönetmelikte
 gösterilir.
+
+6096-6
 
 **Geçici Madde 7 – (Ek: 18/11/1986 - 3321/2 md.)**
 
@@ -4763,8 +4939,6 @@ göre yeni kadro tespit ve ihdas edilinceye kadar bu Kanunun yürürlüğe
 girdiği tarihte uygulanmakta olan mevcut kadroların kullanılmasına devam
 olunur.
 
-6096-6
-
 **Geçici Madde 13 – (Ek: 17/10/1996 - 4199/46 md.)**
 
 Bu Kanun ile yapılan yeni düzenleme sebebi ile kadro ve unvanları
@@ -4773,6 +4947,8 @@ unvanları değişenler veya kaldırılanlar yeni bir kadroya atanıncaya
 kadar durumlarına uygun işlerde görevlendirilirler ve eski kadrolarına
 ait aylık, ek gösterge ve her türlü hakları yeni görevlerinde kaldıkları
 sürece şahıslarına bağlı olarak saklı tutulur.
+
+6096-7
 
 **Geçici Madde 14 – (Ek: 17/10/1996 - 4199/46 md.)**
 
@@ -4827,15 +5003,15 @@ aranan en az ortaokul veya sekiz yıllık temel eğitimi bitirmiş
 bulunmaları şartı, bu Kanunun yürürlüğe girdiği tarihten itibaren beş
 yıl süreyle aranmaz. İlkokul mezunu olmaları yeterli sayılır.
 
-6096-7
-
 **Geçici Madde 21** – **(Ek: 11/1/2011-6099/15 md.)**
 
 Bu Kanunun 110 uncu maddesinin birinci fıkrasının göreve ilişkin hükmü,
 yürürlüğe girdiği tarihten önce idari yargıda ve Askeri Yüksek İdare
 Mahkemesinde açılmış bulunan davalara uygulanmaz.
 
-**Geçici Madde 22** – **(Ek: 12/7/2013-6495/23 md.) ^(1)^**
+6096-8
+
+**Geçici Madde 22** – **(Ek: 12/7/2013-6495/23 md.)**
 
 Sürücü belgesi sınıfları, sürücü belgelerine ait esaslar ve sürücü
 adaylarında aranacak şartlar yönetmelikte belirleninceye kadar bu
@@ -4860,6 +5036,19 @@ hâlinde, gerekli harçlar ve indirimsiz değerli kâğıt bedeli ödendikten
 sonra kendilerine geçersiz sayılan sürücü belgesinin karşılığı olan yeni
 sürücü belgesi verilir. Bu işlemlere ait usul ve esaslar İçişleri
 Bakanlığınca belirlenir.
+
+**Geçici Madde 23-(Ek: 2/1/2017-KHK-680/62 md.)**
+
+Mevcut araçları için Jandarma Genel Komutanlığı ve Sahil Güvenlik
+Komutanlığınca bu Kanunun 22 nci maddesinin birinci fıkrasının (e)
+bendine göre yapılacak tescil işlemleri bu maddenin yayımı tarihinden
+itibaren üç ay içinde tamamlanır.
+
+**Geçici Madde 24-(Ek: 2/1/2017-KHK-680/62 md.)**
+
+Bu Kanunun 115 inci maddesinin sekizinci fıkrasının uygulanmasına
+ilişkin yönetmelik, bu maddenin yayımı tarihinden itibaren altı ay
+içinde yürürlüğe konulur.
 
 **Ek Geçici Madde – (Ek: 27/8/1991 - 3759/2 md.)**
 
@@ -4894,13 +5083,6 @@ Yürürlüğe girer.
 *Yürütme :*
 
 **Madde 138 –** Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-
-––––––––––––––––––––
-
-*(1) Bu maddede yer alan 2918 sayılı Kanunun 38, 39 ve 41 inci
-maddelerinin 12/7/2013 tarihli ve 6495 sayılı Kanun ile değiştirilmeden
-önceki halleri için mezkur Kanunun mülga hükümlerine ya da bir önceki
-haline bakabilirsiniz.*
 
 6097/6098-1
 
@@ -5117,44 +5299,60 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 6100-1/6106-5
 
-  --------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------
-  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**        **2918 sayılı Kanunun değişen veya iptal edilen maddeleri**                                **Yürürlüğe Giriş Tarihi**
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------
+  **Değiştiren Kanunun/KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2918 sayılı Kanunun değişen veya iptal edilen maddeleri**                                **Yürürlüğe Giriş Tarihi**
 
-  5904                                                                              116                                                                                        3/7/2009
+  5904                                                                                116                                                                                        3/7/2009
 
-  5942                                                                              (20/d ‘nin dördüncü paragrafı)                                                             31/12/2009
-                                                                                                                                                                               
-                                                                                    İşlenemeyen Hüküm Geçici Madde 1                                                           1/1/2010
-                                                                                                                                                                               
-                                                                                    20 nci maddenin başlığı, d ve e bentleri                                                   1/5/2010
+  5942                                                                                (20/d ‘nin dördüncü paragrafı)                                                             31/12/2009
+                                                                                                                                                                                 
+                                                                                      İşlenemeyen Hüküm Geçici Madde 1                                                           1/1/2010
+                                                                                                                                                                                 
+                                                                                      20 nci maddenin başlığı, d ve e bentleri                                                   1/5/2010
 
-  6001                                                                              5, 7, 8, 13, 15, 16, 50, 65, 121                                                           13/7/2010
+  6001                                                                                5, 7, 8, 13, 15, 16, 50, 65, 121                                                           13/7/2010
 
-  6014                                                                              65                                                                                         31/7/2010
+  6014                                                                                65                                                                                         31/7/2010
 
-  6099                                                                              110, Geçici Madde 21                                                                       19/1/2011
+  6099                                                                                110, Geçici Madde 21                                                                       19/1/2011
 
-  6111                                                                              8, 20, 21, 22, 91, 98                                                                      25/2/2011
-                                                                                                                                                                               
-                                                                                    Ek Madde 16                                                                                25/2/2011 tarihini izleyen üçüncü ayın başında
+  6111                                                                                8, 20, 21, 22, 91, 98                                                                      25/2/2011
+                                                                                                                                                                                 
+                                                                                      Ek Madde 16                                                                                25/2/2011 tarihini izleyen üçüncü ayın başında
 
-  6321                                                                              79 , Ek Madde 2                                                                            3/6/2012
+  6321                                                                                79 , Ek Madde 2                                                                            3/6/2012
 
-  6353                                                                              41                                                                                         12/7/2012
+  6353                                                                                41                                                                                         12/7/2012
 
-  Anayasa Mah.’nin 29/11/2012 tarihli ve E.: 2012/106, K.: 2012/190 sayılı Kararı   36 ncı maddenin üçüncü fıkrasının                                                          6/3/2013
-                                                                                                                                                                               
-                                                                                    dördüncü cümlesi                                                                           
+  Anayasa Mah.’nin 29/11/2012 tarihli ve E.: 2012/106, K.: 2012/190 sayılı Kararı     36 ncı maddenin üçüncü fıkrasının                                                          6/3/2013
+                                                                                                                                                                                 
+                                                                                      dördüncü cümlesi                                                                           
 
-  6462                                                                              38, 61, 77                                                                                 3/5/2013
+  6462                                                                                38, 61, 77                                                                                 3/5/2013
 
-  6487                                                                              36, 48, Ek Madde 13                                                                        11/6/2013
+  6487                                                                                36, 48, Ek Madde 13                                                                        11/6/2013
 
-  6495                                                                              3                                                                                          1/8/2013
-                                                                                                                                                                               
-                                                                                    8, 38, 39, 40, 41, 42, 45, 112, 114, 115, 119, Ek Madde 13, Ek Madde 17, Geçici Madde 22   2/8/2013
+  6495                                                                                3                                                                                          1/8/2013
+                                                                                                                                                                                 
+                                                                                      8, 38, 39, 40, 41, 42, 45, 112, 114, 115, 119, Ek Madde 13, Ek Madde 17, Geçici Madde 22   2/8/2013
 
-  6518                                                                              4                                                                                          19/2/2014
-  --------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------
+  6518                                                                                4                                                                                          19/2/2014
+
+  6525                                                                                71                                                                                         27/2/2014
+
+  Anayasa Mah.’nin 11/9/2014 tarihli ve E.: 2014/52, K.: 2014/139 sayılı Kararı       Ek Madde 2                                                                                 9/4/2015
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------ ------------------------------------------------
+
+6106-6
+
+  ------------------------------------------------------------------------------------ ---------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **2918 sayılı Kanunun değişen veya iptal edilen maddeleri**      **Yürürlüğe Giriş Tarihi**
+  6645                                                                                 98                                                               23/4/2015
+  6704                                                                                 90, 92, 97, 99                                                   26/4/2016
+  6745                                                                                 Ek Madde 16                                                      7/9/2016
+  KHK/676                                                                              23, 131                                                          29/10/2016
+  KHK/680                                                                              22, 28, 35, 115, Ek Madde 18, Geçici Madde 23, Geçici Madde 24   6/1/2017
+  KHK/687                                                                              65/A                                                             9/2/2017
+  ------------------------------------------------------------------------------------ ---------------------------------------------------------------- ----------------------------
 
 
