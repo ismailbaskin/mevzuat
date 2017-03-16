@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 665 sayılı KHK ile Değişik Hali**
+**4857 sayılı Kanunun 6270 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -2323,22 +2323,25 @@ c\) 28 inci maddesine aykırı olarak çalışma belgesi düzenleme
 yükümlülüğüne aykırı davranan veya bu belgeye gerçeğe aykırı bilgi
 yazan,
 
-İşveren veya işveren vekiline bu durumdaki her işçi için elli milyon
-lira para cezası verilir.
+İşveren veya işveren vekiline bu durumdaki her işçi için **(Değişik
+ibare:17/1/2012-6270/17 md.)** *yüzon Türk Lirası idari para cezası*
+verilir.
 
 **Toplu işçi çıkarma ile ilgili hükümlere aykırılık**
 
 **MADDE 100. -** Bu Kanunun 29 uncu maddesindeki hükümlere aykırı olarak
 işçi çıkaran işveren veya işveren vekiline işten çıkardığı her işçi için
-ikiyüz milyon lira para cezası verilir.
+**(Değişik ibare:17/1/2012-6270/17 md.)** *dörtyüzelli Türk Lirası idari
+para cezası* verilir.
 
 **Özürlü ve eski hükümlü çalıştırma zorunluluğuna aykırılık**
 
 **MADDE 101. -** Bu Kanunun 30 uncu maddesindeki hükümlere aykırı olarak
 özürlü ve eski hükümlü çalıştırmayan işveren veya işveren vekiline
 çalıştırmadığı her özürlü ve eski hükümlü ve çalıştırmadığı her ay için
-yediyüzelli milyon lira para cezası verilir. Kamu kuruluşları da bu para
-cezasından hiçbir şekilde muaf tutulamaz.
+**(Değişik ibare:17/1/2012-6270/17 md.)** *binyediyüz Türk Lirası idari
+para cezası* verilir. Kamu kuruluşları da bu para cezasından hiçbir
+şekilde muaf tutulamaz.
 
 **Ücret ile ilgili hükümlere aykırılık**
 
@@ -2351,20 +2354,23 @@ veya eksik ödeyen, 39 uncu maddesinde belirtilen komisyonun belirlediği
 asgari ücreti işçiye ödemeyen veya noksan ödeyen, ücret, prim, ikramiye
 ve bu nitelikteki her çeşit istihkakını zorunlu tutulduğu halde özel
 olarak açılan banka hesabına ödemeyen işveren, işveren vekili ve üçüncü
-kişiye bu durumda olan her işçi ve her ay için yüz Yeni Türk Lirası
-idari para cezası,
+kişiye bu durumda olan her işçi ve her ay için **(Değişik
+ibare:17/1/2012-6270/17 md.)** *yüzyirmibeş Türk Lirası* idari para
+cezası,
 
 b\) 37 nci maddesine aykırı olarak ücrete ilişkin hesap pusulası
 düzenlemeyen veya işçi ücretlerinden 38 inci maddeye aykırı olarak ücret
 kesme cezası veren veya yaptığı ücret kesintisinin sebebini ve hesabını
 bildirmeyen 52 nci maddedeki belgeyi vermeyen işveren veya işveren
-vekiline ikiyüz milyon lira para cezası,
+vekiline **(Değişik ibare:17/1/2012-6270/17 md.)** *dörtyüzelli Türk
+Lirası idari para cezası*,
 
 c\) 41 inci maddesinde belirtilen fazla çalışmalara ilişkin ücreti
 ödemeyen, işçiye hak ettiği serbest zamanı altı ay zarfında
 kullandırmayan, fazla saatlerde yapılacak çalışmalar için işçinin
 onayını almayan işveren veya işveren vekiline, bu durumda olan her işçi
-için yüz milyon lira para cezası,
+için **(Değişik ibare:17/1/2012-6270/17 md.)** *ikiyüzyirmi Türk Lirası
+idari para cezası*,
 
 Verilir.
 
@@ -2377,7 +2383,8 @@ veya 59 uncu maddedeki hak edilmiş izni kullanmadan iş sözleşmesinin
 sona ermesi halinde bu izne ait ücreti ödemeyen veya 60 ıncı maddede
 belirtilen yönetmeliğin esas ve usullerine aykırı olarak izin
 kullandırmayan veya eksik kullandıran işveren veya işveren vekiline bu
-durumda olan her işçi için yüz milyon lira para cezası verilir.
+durumda olan her işçi için **(Değişik ibare:17/1/2012-6270/17 md.)**
+*ikiyüzyirmi Türk Lirası idari para cezası* verilir.
 
 **İşin düzenlenmesine ilişkin hükümlere aykırılık**
 
@@ -2395,12 +2402,13 @@ hareket eden 74 üncü maddesindeki hükme aykırı olarak doğumdan önceki ve
 sonraki sürelerde gebe veya doğum yapmış kadınları çalıştıran veya
 ücretsiz izin vermeyen, 75 inci maddesindeki işçi özlük dosyalarını
 düzenlemeyen, 76 ncı maddesinde belirtilen yönetmelik hükümlerine
-uymayan işveren veya işveren vekiline beşyüz milyon lira para cezası
-verilir.
+uymayan işveren veya işveren vekiline **(Değişik ibare:17/1/2012-6270/17
+md.)** *binikiyüz Türk Lirası idari para cezası* verilir.
 
 64 üncü ve 65 inci maddede öngörülen hükümlere aykırı davranan işveren
-veya işveren vekiline bu durumda olan her işçi için yüz milyon lira para
-cezası verilir.
+veya işveren vekiline bu durumda olan her işçi için **(Değişik
+ibare:17/1/2012-6270/17 md.)** *ikiyüzyirmi Türk Lirası idari para
+cezası* verilir.
 
 **İş sağlığı ve güvenliği ile ilgili hükümlere aykırılık**
 
@@ -2410,13 +2418,14 @@ Bu Kanunun;
 
 a\) 78 inci maddesinde öngörülen yönetmeliklerdeki hükümlere uymayan
 işveren veya işveren vekiline, alınmayan her iş sağlığı ve güvenliği
-önlemi için iki yüz Yeni Türk Lirası, alınmayan önlemler için izleyen
-her ay aynı miktar,
+önlemi için **(Değişik ibare:17/1/2012-6270/17 md.)** *ikiyüzelli Türk
+Lirası*, alınmayan önlemler için izleyen her ay aynı miktar,
 
 b\) 86 ncı maddesi uyarınca işçilere doktor raporu almayan işveren veya
 işveren vekiline bu durumda olan her işçi için, 87 nci maddesi gereğince
 çocuklara doktor raporu almayan işveren veya işveren vekiline bu
-durumdaki her çocuk için iki yüz Yeni Türk Lirası,
+durumdaki her çocuk için **(Değişik ibare:17/1/2012-6270/17 md.)**
+*ikiyüzelli Türk Lirası idari*,
 
 c\) 77 nci maddesine aykırı hareket eden, 78 inci maddesi gereği işletme
 belgesi almadan işyeri açan veya belgelendirilmesi gereken işler veya
@@ -2428,14 +2437,17 @@ davranan, iş sağlığı ve güvenliği kurullarınca alınan kararları
 uygulamayan, 81 inci maddesinde belirtilen yükümlülükleri yerine
 getirmeyen, 88 ve 89 uncu maddelerinde öngörülen yönetmeliklerde
 gösterilen şartlara ve usullere uymayan işveren veya işveren vekiline
-biner Yeni Türk Lirası,
+**(Değişik ibare:17/1/2012-6270/17 md.)** *binikiyüzellişer Türk
+Lirası*,
 
 d\) Bu Kanunun 85 inci maddesine aykırı olarak ağır ve tehlikeli işlerde
 onaltı yaşından küçükleri çalıştıran veya aynı maddede belirtilen
 yönetmelikte gösterilen yaş kayıtlarına aykırı işçi çalıştıran işveren
-veya işveren vekiline her işçi için bin Yeni Türk Lirası, aynı maddenin
-birinci fıkrasında belirtilen mesleki eğitim almamış işçi çalıştıran
-işveren veya işveren vekiline her işçi için beşyüz Yeni Türk Lirası,
+veya işveren vekiline her işçi için **(Değişik ibare:17/1/2012-6270/17
+md.)** *binikiyüzelli Türk Lirası*, aynı maddenin birinci fıkrasında
+belirtilen mesleki eğitim almamış işçi çalıştıran işveren veya işveren
+vekiline her işçi için **(Değişik ibare:17/1/2012-6270/17 md.)**
+*beşyüzelli Türk Lirası*,
 
 idari para cezası verilir.
 
@@ -2732,6 +2744,8 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     KHK/665           2/11/2011                 2/11/2011                                                  -                                        30
                                                                                                                                                          
                            (Mükerrer)                                                                                                                    
+
+  1.     6270              26/1/2012                 26/1/2012                                                  -                                        99, 100, 101, 102, 103, 104, 105
   ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- --------------------------------------------------
 
 [^1]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
