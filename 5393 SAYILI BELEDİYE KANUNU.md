@@ -1,5 +1,4 @@
-5393 sayılı Kanunun Anayasa mahkemesinin 4/2/2010 tarihli ve E.: 2008/27
-K.: 2010/29 sayılı Kararı ile Değişik Hali
+5393 sayılı Kanunun 6306 sayılı Kanun ile Değişik Hali
 
 **BELEDİYE KANUNU**
 
@@ -1819,8 +1818,9 @@ dönüşüm ve gelişim alanı olarak ilan edilebilmesi için yukarıda sayılan
 hususlardan birinin veya bir kaçının gerçekleşmesi ve bu alanın belediye
 veya mücavir alan sınırları içerisinde bulunması şarttır. Ancak, kamunun
 mülkiyetinde veya kullanımında olan yerlerde kentsel dönüşüm ve gelişim
-proje alanı ilan edilebilmesi ve uygulama yapılabilmesi Bakanlar Kurulu
-kararına bağlıdır.
+proje alanı ilan edilebilmesi ve uygulama yapılabilmesi için ilgili
+belediyenin talebi ve Çevre ve Şehircilik Bakanlığının teklifi üzerine
+Bakanlar Kurulunca bu yönde karar alınması şarttır.*^(1)^*
 
 Kentsel dönüşüm ve gelişim proje alanı olarak ilan edilecek alanın;
 üzerinde yapı olan veya olmayan imarlı veya imarsız alanlar olması, yapı
@@ -1853,6 +1853,14 @@ alanları hariç kamuya ait gayrimenkuller harca esas değer üzerinden
 belediyelere devredilir. Kentsel dönüşüm ve gelişim proje alanlarında
 yıkılarak yeniden yapılacak münferit yapılarda ilgili vergi, resim ve
 harçların dörtte biri alınır.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(1) 16/5/2012 tarihli ve 6306 sayılı Kanunun 17 nci maddesi ile bu
+fıkrada yer alan “yapılabilmesi Bakanlar Kurulu kararına bağlıdır.”
+ibaresi “yapılabilmesi için ilgili belediyenin talebi ve Çevre ve
+Şehircilik Bakanlığının teklifi üzerine Bakanlar Kurulunca bu yönde
+karar alınması şarttır.” şeklinde değiştirilmiştir.*
 
 Kentsel dönüşüm ve gelişim proje alanlarındaki gayrimenkul sahipleri ve
 24/2/1984 tarihli ve 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı
@@ -1911,6 +1919,30 @@ bankaya belli olacak hak sahipleri adına bloke edilir. Belediye kentsel
 dönüşüm ve gelişim projelerinin uygulama alanında bulunan taşınmazların
 kamulaştırılması sırasında veraset ilamı çıkarmaya veya tapudaki kayıt
 malikine göre işlem yapmaya yetkilidir.
+
+**(Ek: 16/5/2012-6306/17 md.)** Büyükşehirlerde büyükşehir belediye
+meclisinin, il ve ilçelerde belediye meclislerinin salt çoğunluk ile
+alacağı karar ile masrafların tamamı veya bir kısmı belediye bütçesinden
+karşılanmak kaydıyla kentin uygun görülen alanlarında bina cephelerinde
+değişiklik ve yenileme ile özel aydınlatma ve çevre tanzimi çalışmaları
+yapılabilir. Cephe değişikliği yapılacak binalarda telif hakkı sahibi
+proje müelliflerine talep etmeleri hâlinde, değiştirilecek cephe veya
+cephelerin beher metrekaresi için bir günlük net asgari ücret tutarını
+geçmemek üzere telif hakkı ödenir. Büyükşehir belediye meclisince uygun
+görülmesi hâlinde, büyükşehir belediyesi içindeki ilçe belediyeleri
+kendi sınırları içinde bu fıkrada belirtilen iş ve işlemleri yapabilir.
+
+**(Ek: 16/5/2012-6306/17 md.)** Bina cephelerinde değişiklik ve yenileme
+ile özel aydınlatma ve çevre tanzimi çalışmaları için yapılması gereken
+iş, işlem ve yetkilendirmeler, kat maliklerinin arsa payı çoğunluğu ile
+verecekleri karara göre yapılır.
+
+**(Ek: 16/5/2012-6306/17 md.)** Büyükşehir belediyelerince, kentsel
+dönüşüm ve gelişim alanı ilan edilen alanlar ile 5366 sayılı Kanuna göre
+yenileme alanı ilan edilen alanlarda veya bu Kanunun 75 inci maddesine
+göre kamu kurum ve kuruluşları ile protokol yapmaları hâlinde,
+büyükşehir belediye meclisi kararı ile, yıkılan ibadethane ve yurtların
+yerine veya ihtiyaç duyulan yerlerde ibadethane ve yurt inşa edilebilir.
 
 Kentsel dönüşüm ve gelişim projesi kapsamındaki işler, kamu idareleriyle
 75 inci madde çerçevesinde ortak hizmet projeleri aracılığıyla
@@ -2334,7 +2366,7 @@ avukatlık ücreti yükletilemez.
                                                                                                                                                     
                                                                                                             K.: 2010/29                             
 
-  1.                                                                                                                                                
+  1.     6306                       31/5/2012                                     31/5/2012                                                         73
 
   1.                                                                                                                                                
   ------ -------------------------- --------------------------------------------- ------------------------- --------------------------------------- ------------------------------------------------
