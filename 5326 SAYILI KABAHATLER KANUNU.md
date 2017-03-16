@@ -1,4 +1,4 @@
-**5326 sayılı Kanunun ilk hali**
+**5328 sayılı Kanun ile değişik hali**
 
 **KABAHATLER** **KANUNU**
 
@@ -742,8 +742,28 @@ sulh ceza mahkemesine başvuruda bulunulabilir.
 
 **Yürürlük**
 
-**MADDE 44**- (1) Bu Kanun 1 Nisan 2005 tarihinde yürürlüğe girer.
+**MADDE 44**- (1) Bu Kanun 1 Haziran 2005 tarihinde yürürlüğe girer.
 
 **Yürütme**
 
 **MADDE 45-** (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+–––––––––––––––––
+
+*(1) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve
+5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde
+değiştirilmiştir.*
+
+**5326 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
+
+**MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
+
+**GÖSTERİR LİSTE**
+
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası**   **5326 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5328                                                                         44                                                            31/3/2005
+  ---------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+
+
