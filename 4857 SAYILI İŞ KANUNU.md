@@ -1,4 +1,4 @@
-**4857 sayılı Kanunun 5797 sayılı Kanunla Değişik Hali**
+**4857 sayılı Kanunun 5838 sayılı Kanunla Değişik Hali**
 
 **İŞ KANUNU**
 
@@ -514,9 +514,10 @@ ile çalışma saatleri içinde sendikal faaliyetlere katılmak.
 
 b\) İşyeri sendika temsilciliği yapmak.
 
-c\) Mevzuattan veya sözleşmeden doğan haklarını takip için işveren
-aleyhine idari veya adli makamlara başvurmak veya bu hususta başlatılmış
-sürece katılmak.
+c\) Mevzuattan veya sözleşmeden doğan haklarını takip **(Ek
+ibare:18/2/2009-5838/32 md.)** *veya yükümlülüklerini yerine getirmek*
+için işveren aleyhine idari veya adli makamlara başvurmak veya bu
+hususta başlatılmış sürece katılmak.
 
 d\) Irk, renk, cinsiyet, medeni hal, aile yükümlülükleri, hamilelik,
 doğum, din, siyasi görüş ve benzeri nedenler.
@@ -2665,6 +2666,10 @@ maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
   1.     5763              26/5/2008                 1/1/2009                                                   -                                        85
 
   1.     5797              19/8/2008                 1/7/2008 tarihinden geçerli olmak üzere yayımı tarihinde   -                                        30
+
+  1.     5838              28/2/2009                 28/2/2009                                                  -                                        18
+                                                                                                                                                         
+                           (Mükerrer)                                                                                                                    
   ------ ----------------- ------------------------- ---------------------------------------------------------- ---------------------------------------- --------------------------------------------------
 
 [^1]: 5763 sayılı Kanunun 38 inci maddesi uyarınca, bu Kanunun
