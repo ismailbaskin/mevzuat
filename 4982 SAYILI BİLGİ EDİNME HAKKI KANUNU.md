@@ -1,4 +1,4 @@
-**6495 sayılı Kanun ile değişik hali**
+8617
 
 **BİLGİ EDİNME HAKKI KANUNU**
 
@@ -29,9 +29,8 @@ niteliğindeki meslek kuruluşlarının faaliyetlerinde uygulanır.
 1.11.1984 tarihli ve 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair
 Kanun hükümleri saklıdır.
 
-**(Ek fıkra: 12/7/2013-6495/33 md.)** Ölçme, Seçme ve Yerleştirme
-Merkezi Başkanlığı tarafından uygulanan sınavlara ait soru ve cevaplar
-bu Kanun kapsamı dışındadır.
+**(Ek fıkra: 12/7/2013-6495/33 md.; İptal fıkra: Anayasa Mahkemesi’nin
+4/12/2014 tarihli ve E.:2013/114, K.:2014/184 sayılı Kararı ile.)**
 
 *Tanımlar*
 
@@ -509,10 +508,12 @@ YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
 
 **GÖSTERİR LİSTE**
 
-  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
-  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**   **4982 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
-  5432                                                                              13 ve 14                                                      22/11/2005
-  6495                                                                              2                                                             /7/2013
-  --------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  -------------------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
+  **Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası**                    **4982 sayılı Kanunun değişen veya iptal edilen maddeleri**   **Yürürlüğe Giriş Tarihi**
+  5432                                                                                               13 ve 14                                                      22/11/2005
+  6495                                                                                               2                                                             2/8/2013
+  Anayasa Mahkemesi’nin 4/12/2014 tarihli ve E.: 2013/114, K.: 2014/22 (Yürürlüğü Durdurma) Kararı   2                                                             6/12/2014
+  Anayasa Mahkemesi’nin 4/12/2014 tarihli ve E.: 2013/114, K.: 2014/184 sayılı Kararı                2                                                             16/7/2015
+  -------------------------------------------------------------------------------------------------- ------------------------------------------------------------- ----------------------------
 
 
