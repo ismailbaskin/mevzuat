@@ -1,5 +1,4 @@
-**5216 sayılı Kanunun Anayasa Mahkemesinin 4//2010 tarihli ve E.:2008/28
-K.:2010/30 sayılı Kararı ile Değişik Hali**
+**5216 sayılı Kanunun 661 sayılı KHK ile Değişik Hali**
 
 **BÜYÜKŞEHİR BELEDİYESİ KANUNU*^(1)^***
 
@@ -656,11 +655,10 @@ oluşur.
 Birimlerin kurulması, kaldırılması veya birleştirilmesi büyükşehir
 belediyesi meclisinin kararı ile olur.
 
-Büyükşehir belediyesinde başkan yardımcısı bulunmaz. Hizmetlerin etkili
-ve verimli bir şekilde yürütülebilmesi için, genel sekretere yardımcı
-olmak üzere, nüfusu üçmilyonun üzerindeki büyükşehir belediyelerinde en
-fazla beş, diğerlerinde en fazla üç genel sekreter yardımcısı
-atanabilir.
+Büyükşehir belediyesinde başkan yardımcısı bulunmaz. **(Değişik cümle:
+24/10/2011-KHK/661/ 59 md.)** Hizmetlerin etkili ve verimli bir şekilde
+yürütülebilmesi için, genel sekretere yardımcı olmak üzere, norm kadroya
+uygun olarak genel sekreter yardımcısı atanabilir.
 
 Büyükşehir belediyesinde hizmetlerin yürütülmesi belediye başkanı adına
 onun direktifi ve sorumluluğu altında mevzuat hükümlerine, belediyenin
@@ -673,15 +671,17 @@ olarak genel sekreter ve yardımcıları tarafından sağlanır.
 başkanı tarafından atanır. Personelden müdür ve üstü unvanlı olanlar ilk
 toplantıda büyükşehir belediye meclisinin bilgisine sunulur.
 
-Genel sekreter, belediye başkanının teklifi üzerine İçişleri Bakanı
-tarafından atanır. Genel sekreter kadrosuna atananlar, genel idare
-hizmeti sınıfına dahil bakanlık genel müdürleri, genel sekreter
-yardımcısı kadrosuna atananlar ise bakanlık bağımsız daire başkanları
-için ilgili mevzuatında öngörülen tüm haklardan aynen yararlanırlar.
+**(Değişik: 24/10/2011-KHK/661/ 60 md.)** Genel sekreter, belediye
+başkanının teklifi üzerine İçişleri Bakanı tarafından atanır. Genel
+sekreter kadrosuna atananlar, genel idare hizmeti sınıfına dahil
+bakanlık genel müdürleri, genel sekreter yardımcısı kadrosuna atananlar
+bakanlık müstakil daire başkanları, 1. hukuk müşaviri ve daire
+başkanlığı kadrosuna atananlar ise bakanlık daire başkanları için ilgili
+mevzuatında öngörülen ek gösterge, makam, görev ve temsil tazminatları
+ile 657 sayılı Devlet Memurları Kanununun 152 nci maddesi uyarınca
+ödenen zam ve tazminatlardan aynen yararlanırlar.
 
-Büyükşehir belediyesi 1.hukuk müşaviri ve daire başkanları, bağlı genel
-müdürlüklerin daire başkanlarının yararlandığı makam ve görev
-tazminatından aynen yararlanırlar.*^(1)^*
+**(Değişik: 24/10/2011-KHK/661/ 60 md.)**
 
 Sözleşmeli ve işçi statüsünde çalışanlar hariç belediye memurlarına,
 başarı durumlarına göre toplam memur sayısının % 10'unu ve Devlet
@@ -743,12 +743,6 @@ m\) Yapılacak hizmetler karşılığı alınacak ücretler.
 n\) Şartlı ve şartsız bağışlar.
 
 o\) Diğer gelirler.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu
-fıkrada yer alan “Büyükşehir belediyesi” ibaresinden sonra gelmek üzere
-“1.hukuk müşaviri ve” ibaresi eklenmiştir.*
 
 **(Mülga: 2/7/2008-5779/8 md.)**
 
@@ -1239,7 +1233,7 @@ aktarılır.
                                                                                                                                                                         
                                                                                                                                 E.:2008/28 K.:2010/30 sayılı Karar      
 
-                                                                                                                                                                        
+  KHK/661                    2/11/2011                                                                2/11/2011                                                         21, 22
   -------------------------- ------------------------------------------------------------------------ ------------------------- --------------------------------------- ------------------------------------------------
 
 
