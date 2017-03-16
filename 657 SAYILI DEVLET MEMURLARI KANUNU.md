@@ -1,109 +1,71 @@
-** Anayasa Mahkemesi’nin 27/3/2014 tarihli ve**
+**6552 sayılı Kanun ile değişik hali**
 
-**E.: 2013/101, K.: 2014/63 sayılı Kararı ile değişik hali**
+[]{#K13 .anchor}**DEVLET MEMURLARI KANUNU ^(1)(2)(3)^**
 
- 
+**Kanun Numarası : 657**
 
-[]{#K13 .anchor}DEVLET MEMURLARI KANUNU ^(1)\ (2)^
+**Kabul Tarihi : 14/7/1965 **
 
- 
+**Yayımlandığı R.Gazete : Tarih : 23/7/1965 Sayı : 12056**
 
- 
+**Yayımlandığı Düstur : Tertip : 5 Cilt : 4 Sayfa : 3044**
 
-                                                         Kanun
-Numarası              : 657
+*Bu Kanunun yürürlükte olmayan hükümleri için bakınız*
 
-                                                         Kabul
-Tarihi                    : 14/7/1965
+*"Yürürlükteki Bazı Kanunların Mülga Hükümleri Külliyatı"*
 
-Yayımlandığı R.Gazete  : Tarih : 23/7/1965   Sayı : 12056
+*Cilt:2 Sayfa: 805*
 
-Yayımlandığı Düstur       : Tertip : 5   Cilt : 4   Sayfa : 3044
+*Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren*
 
- 
+*yönetmelikler için, "Yönetmelikler Külliyatı" nın kanunlara göre*
 
-\*
-
-\* \*
-
- 
-
-Bu Kanunun yürürlükte olmayan hükümleri için bakınız
-
-"Yürürlükteki Bazı Kanunların Mülga Hükümleri Külliyatı"
-
-Cilt:2      Sayfa: 805
-
- 
-
-\*
-
-\* \*
-
-Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe giren
-
-yönetmelikler için, "Yönetmelikler Külliyatı" nın kanunlara göre
-
-düzenlenen nümerik fihristine bakınız.
-
-\*
-
-\* \*
-
-** **
+*düzenlenen nümerik fihristine bakınız.*
 
 KISIM - I
 
-Genel Hükümler
-
- 
-
- 
+*Genel Hükümler*
 
 BÖLÜM: 1
 
-Kapsam, Amaç, Temel İlkeler, İstihdam Şekilleri
+*Kapsam, Amaç, Temel İlkeler, İstihdam Şekilleri*
 
- 
+*Kapsam:*
 
-             Kapsam:
+**Madde 1 – (Değişik: 30/5/1974 - KHK - 12/1 md. Aynen kabul 15/5/1975 -
+1897/1 md.)**
 
-**             Madde 1 – (Değişik: 30/5/1974 - KHK - 12/1 md. Aynen
-kabul 15/5/1975 - 1897/1 md.)**
+Bu Kanun, Genel ve Katma Bütçeli Kurumlar, İl Özel İdareleri,
+Belediyeler, İl Özel İdareleri ve Belediyelerin kurdukları birlikler ile
+bunlara bağlı döner sermayeli kuruluşlarda, kanunlarla kurulan fonlarda,
+kefalet sandıklarında veya Beden Terbiyesi Bölge Müdürlüklerinde çalışan
+memurlar hakkında uygulanır.
 
-             Bu Kanun, Genel ve Katma Bütçeli Kurumlar, İl Özel
-İdareleri, Belediyeler, İl Özel İdareleri ve Belediyelerin kurdukları
-birlikler ile bunlara bağlı döner sermayeli kuruluşlarda, kanunlarla
-kurulan fonlarda, kefalet sandıklarında veya Beden Terbiyesi Bölge
-Müdürlüklerinde çalışan memurlar hakkında uygulanır.
-
-             Sözleşmeli ve geçici personel hakkında bu Kanunda
-belirtilen özel hükümler uygulanır.
-
- 
-
- 
-
- 
-
- 
+Sözleşmeli ve geçici personel hakkında bu Kanunda belirtilen özel
+hükümler uygulanır.
 
 ——————————
 
-(1)   a - 8/6/1984 tarihli ve 217 sayılı Kanun Hükmünde Kararnamenin 30
+*(1) a - 8/6/1984 tarihli ve 217 sayılı Kanun Hükmünde Kararnamenin 30
 uncu maddesi ile Kanunlarda geçen "Devlet Personel Dairesi" ibaresi
-"Devlet Personel Başkanlığı" olarak değiştirilmiştir.
+"Devlet Personel Başkanlığı" olarak değiştirilmiştir.*
 
-     b - 29/11/1984 tarihli ve 243 sayılı Kanun Hükmünde Kararnamenin 55
+*b - 29/11/1984 tarihli ve 243 sayılı Kanun Hükmünde Kararnamenin 55
 inci maddesine göre; 657 sayılı Kanun ile ek ve değişikliklerinde,
 13/12/1960 gün ve 160 sayılı Kanunun 4 üncü maddesine yapılan atıflar
 8/6/1984 gün ve 217 sayılı Kanun Hükmünde Kararnamenin ilgili
-maddelerine yapılmış sayılır.
+maddelerine yapılmış sayılır.*
 
 *(2) Bu Kanunda, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu
-hükümlerine  aykırılık bulunması durumunda, 5302 sayılı Kanun
-hükümlerinin uygulanacağı,  söz konusu Kanunun 70 inci maddesi ile hüküm
-altına alınmıştır.*
+hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun
+hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm
+altına alınmıştır. *
+
+*(3) 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunun 84 üncü
+maddesiyle; bu Kanunda belediyenin sorumlu ve yetkili kılındığı görev ve
+hizmetlerle sınırlı olarak, 5393 sayılı Belediye Kanunu hükümlerine
+aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı
+hüküm altına alınmıştır.*
 
 4180
 
@@ -281,58 +243,65 @@ Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca belirlenir.”
 
  
 
-**(Ek fıkra: 5/7/1991 - KHK -  433/1 md.; Mülga: 27/12/1991 - KHK - 
+**(Ek fıkra: 5/7/1991 - KHK - 433/1 md.; Mülga: 27/12/1991 - KHK -
 475/11 md.)**
 
-             C) Geçici personel:
+C\) Geçici personel:
 
-             Bir yıldan az süreli veya mevsimlik hizmet olduğuna Devlet
-Personel Başkanlığı ve Maliye Bakanlığının görüşlerine dayanılarak
-Bakanlar Kurulunca karar verilen görevlerde ve belirtilen ücret ve adet
-sınırları içinde sözleşme ile çalıştırılan ve işçi sayılmayan
-kimselerdir.
+Bir yıldan az süreli veya mevsimlik hizmet olduğuna Devlet Personel
+Başkanlığı ve Maliye Bakanlığının görüşlerine dayanılarak Bakanlar
+Kurulunca karar verilen görevlerde ve belirtilen ücret ve adet sınırları
+içinde sözleşme ile çalıştırılan ve işçi sayılmayan kimselerdir.
 
-             D) İşçiler:
+**(Ek paragraf: 10/9/2014-6552/66 md.)** Özelleştirme uygulamaları
+sebebiyle iş akitleri kamu veya özel sektör işverenince feshedilen ve
+24/11/1994 tarihli ve 4046 sayılı Kanun kapsamında diğer kamu kurum ve
+kuruluşlarına nakil hakkı bulunmayan personel de bu fıkra kapsamında
+yaşlılık veya malullük aylığı almaya hak kazanıncaya kadar istihdam
+edilebilir. Bu kapsamda istihdam edileceklerin sayısı, öğrenim
+durumlarına göre çalışma şartları ve bunlara ödenecek ücretler ile diğer
+hususlar Devlet Personel Başkanlığı ve Maliye Bakanlığının görüşleri
+üzerine Bakanlar Kurulunca belirlenir.
 
-             **(Değişik birinci cümle: 4/4/2007-5620/4 md.)** (A), (B)
-ve (C) fık­ra­la­rın­da be­lir­ti­len­ler dı­şın­da ka­lan ve il­gi­li
+D\) İşçiler:
+
+**(Değişik birinci cümle: 4/4/2007-5620/4 md.)** (A), (B) ve (C)
+fık­ra­la­rın­da be­lir­ti­len­ler dı­şın­da ka­lan ve il­gi­li
 mev­zu­atı ge­re­ğin­ce tah­sis edi­len sü­rek­li iş­çi kad­ro­la­rın­da
 be­lir­siz sü­re­li iş söz­leş­me­le­riy­le ça­lış­tı­rı­lan sü­rek­li
 iş­çi­ler ile mev­sim­lik ve­ya kam­pan­ya iş­le­rin­de ya da or­man
 yan­gı­nıy­la mü­ca­de­le hiz­met­le­rin­de il­gi­li mev­zu­atı­na gö­re
-ge­çi­ci iş po­zis­yon­la­rın­da al­tı ay­dan az ol­mak üze­re 
-be­lir­li sü­re­li iş söz­leş­me­le­riy­le ça­lış­tı­rı­lan ge­çi­ci
+ge­çi­ci iş po­zis­yon­la­rın­da al­tı ay­dan az ol­mak üze­re be­lir­li
+sü­re­li iş söz­leş­me­le­riy­le ça­lış­tı­rı­lan ge­çi­ci
 iş­çi­ler­dir.Bunlar hakkında bu Kanun hükümleri uygulanmaz.
 
-             Dört istihdam şekli dışında personel çalıştırılamıyacağı:
+*Dört istihdam şekli dışında personel çalıştırılamıyacağı:*
 
-**             Madde 5 – (Değişik: 23/12/1972 - KHK -  2/1 md.) **
+**Madde 5 – (Değişik: 23/12/1972 - KHK - 2/1 md.) **
 
-             Bu Kanuna tabi kurumlar, dördüncü maddede yazılı dört
-istihdam şekli dışında personel çalıştıramazlar.
+Bu Kanuna tabi kurumlar, dördüncü maddede yazılı dört istihdam şekli
+dışında personel çalıştıramazlar.
 
-                                                                    
 BÖLÜM: 2
 
-                                                          Ödevler ve
-Sorumluluklar
+*Ödevler ve Sorumluluklar*
 
-             Sadakat:
+*Sadakat:*
 
-             **Madde 6 – (Değişik: 12/5/1982 - 2670/1 md.)**
+**Madde 6 – (Değişik: 12/5/1982 - 2670/1 md.)**
 
-             Devlet   memurları,  Türkiye  Cumhuriyeti  Anayasasına  ve 
-kanunlarına  sadakatla bağlı  kalmak  ve  milletin  hizmetinde Türkiye
-Cumhuriyeti   kanunlarını sadakatla uygulamak zorundadırlar.Devlet
-memurları bu hususu "Asli Devlet Memurluğuna" atandıktan sonra en geç
-bir ay içinde kurumlarınca düzenlenecek merasimle yetkili amirlerin
-huzurunda yapacakları yeminle belirtirler ve özlük dosyalarına konulacak
-aşağıdaki "Yemin Belgesi" ni imzalayarak göreve başlarlar.
+Devlet memurları, Türkiye Cumhuriyeti Anayasasına ve kanunlarına
+sadakatla bağlı kalmak ve milletin hizmetinde Türkiye Cumhuriyeti
+kanunlarını sadakatla uygulamak zorundadırlar.Devlet memurları bu hususu
+"Asli Devlet Memurluğuna" atandıktan sonra en geç bir ay içinde
+kurumlarınca düzenlenecek merasimle yetkili amirlerin huzurunda
+yapacakları yeminle belirtirler ve özlük dosyalarına konulacak aşağıdaki
+"Yemin Belgesi" ni imzalayarak göreve başlarlar.
 
-             Türkiye Cumhuriyeti Anayasasına, Atatürk İnkılap ve
-İlkelerine, Anayasada ifadesi bulunan Türk Milliyetçiliğine sadakatla
-bağlı kalacağıma; Türkiye Cumhuriyeti kanunlarını milletin hizmetinde
-olarak tarafsız ve eşitlik ilkelerine bağlı kalarak uygulayacağıma; Türk
+Türkiye Cumhuriyeti Anayasasına, Atatürk İnkılap ve İlkelerine,
+Anayasada ifadesi bulunan Türk Milliyetçiliğine sadakatla bağlı
+kalacağıma; Türkiye Cumhuriyeti kanunlarını milletin hizmetinde olarak
+tarafsız ve eşitlik ilkelerine bağlı kalarak uygulayacağıma; Türk
 Milletinin milli, ahlaki, insani, manevi ve kültürel değerlerini
 benimseyip, koruyup bunları geliştirmek için çalışacağıma; insan
 haklarına ve Anayasanın temel ilkelerine dayanan milli, demokratik,
@@ -340,18 +309,16 @@ laik, bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve
 sorumluluklarını bilerek, bunları davranış halinde göstereceğime namusum
 ve şerefim üzerine yemin ederim.
 
-             Tarafsızlık ve devlete bağlılık:
+*Tarafsızlık ve devlete bağlılık:*
 
-**             Madde 7 – (Değişik: 12/5/1982 - 2670/2 md.)**
+**Madde 7 – (Değişik: 12/5/1982 - 2670/2 md.)**
 
-             Devlet memurları siyasi partiye üye olamazlar, herhangi bir
-siyasi parti, kişi veya zümrenin yararını veya zararını hedef tutan bir
+Devlet memurları siyasi partiye üye olamazlar, herhangi bir siyasi
+parti, kişi veya zümrenin yararını veya zararını hedef tutan bir
 davranışta bulunamazlar; görevlerini yerine getirirlerken dil, ırk,
 cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep gibi ayırım
 yapamazlar; hiçbir şekilde siyasi ve ideolojik amaçlı beyanda ve eylemde
 bulunamazlar ve bu eylemlere katılamazlar.
-
-            
 
 4182-1
 
@@ -1134,7 +1101,7 @@ kontrolörleri, İçişleri Bakanlığı Dernekler Denetçi Yardımcıları, ^(1
 (…)^(34)^ , (...) ^(1)^ (…)^(34)^ , (…) ^(35)^ (…)^(40)^ , (…)^(34)^,
 (…)^(34)^, (…)^(34)^, (…) ^(20)^, Sosyal Güvenlik Uzman Yardımcıları,
 Çalışma Uzman Yardımcıları ve Sosyal Güvenlik Eğitim Uzman Yardımcıları,
-Yurt Dışı İşçi Hizmetleri Uzman Yardımcıları, İş Sağlığı ve Güvenlik
+Yurt Dışı İşçi Hizmetleri Uzman Yardımcıları, İş Sağlığı ve Güvenliği
 Uzman Yardımcıları, Çalışma ve Sosyal Güvenlik Eğitim Uzman
 Yardımcıları, Kültür ve Turizm Uzman Yardımcıları, Yazma Eser Uzman
 Yardımcıları, ^(32)^ Ulaştırma ve Haberleşme Uzman Yardımcıları,
@@ -2238,25 +2205,20 @@ atamaya yetkili amirin onayı ile ilişkileri kesilir.
 İlişkileri kesilenler ilgili kurumlarca derhal Devlet Personel
 Başkanlığına bildirilir.
 
-*Adaylık süresi sonunda başarısızlık: ^(2)^*
+*Adaylık süresi sonunda başarısızlık: *
 
 **Madde 57 – (Değişik: 12/5/1982 - 2670/22 md.)**
 
-**(İptal birinci cümle: Anayasa Mahkemesi’nin 14/11/2013 tarihli ve E.:
-2013/15, K.: 2013/131 sayılı Kararı ile.)** İlişkileri kesilenler ilgili
-kurumlarca derhal Devlet Personel Başkanlığına bildirilir.
+**(Değişik birinci fıkra: 10/9/2014 - 6552/67 md.)** Adaylık süresi
+içinde aylıktan kesme veya kademe ilerlemesinin durdurulması cezası
+almış olanların disiplin amirlerinin teklifi ve atamaya yetkili amirin
+onayı ile ilişikleri kesilir. İlişikleri kesilenler ilgili kurumlarca
+derhâl Devlet Personel Başkanlığına bildirilir.
 
 ––––––––––
 
-*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle, bu
+*(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle,bu
 maddede yer alan “sicil” ibaresi “disiplin” olarak değiştirilmiş ve
-metne işlenmiştir.*
-
-*(2) 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle, bu
-maddenin birinci fıkrasında yer alan “Adaylardan en geç iki yıl içinde
-Devlet memuru olabilmeleri için olumlu sicil alamayanların sicil
-amirlerinin teklifi” ibaresi “Adaylık süresi içinde disiplin cezası
-almış olanların disiplin amirlerinin teklifi” olarak değiştirilmiş ve
 metne işlenmiştir.*
 
 4201
@@ -5267,6 +5229,9 @@ ihtisas memurları için (aday konsolosluk ve ihtisas memurları dahil) %
 
 m\) M.İ.T. fiili kadrosuna dahil personel için % 345 ine,
 
+n\) **(Ek: 10/9/2014 - 6552/68 md.)** Türkiye İş Kurumu iş ve meslek
+danışmanları için %150 sine,
+
 B - EĞİTİM, ÖĞRETİM TAZMİNATI ^(1)^
 
 Eğitim ve Öğretim Hizmetleri Sınıfına dahil öğretmen unvanlı kadrolarda
@@ -7064,87 +7029,87 @@ maddesine bakınız.
 
 4248
 
- 
+68 yaşını geçmemek kaydıyla Müsteşar sözleşmeli olarak çalıştırılabilir
+ve sosyal güvenlik kurumlarından almakta oldukları aylıkları kesilmez.
 
-             68 yaşını geçmemek kaydıyla Müsteşar sözleşmeli olarak
-çalıştırılabilir ve sosyal güvenlik kurumlarından almakta oldukları
-aylıkları kesilmez.
+Bu suretle çalıştırılacakların sözleşme usül ve esasları, ücret miktarı
+ve her çeşit ödemeleri ile diğer hakları Başbakan tarafından tesbit
+edilir.
 
-             Bu suretle çalıştırılacakların sözleşme usül ve esasları,
-ücret miktarı ve her çeşit ödemeleri ile diğer hakları Başbakan
-tarafından tesbit edilir.
+Bu şekilde çalıştırılacak sözleşmeli personel, aksine talepler olmadığı
+takdirde T.C. Emekli Sandığı ile ilgilendirilir; bunlar hakkında
+1/11/1983 tarihli ve 2937 sayılı Kanun hükümleri uygulanır.
 
-             Bu şekilde çalıştırılacak sözleşmeli personel, aksine
-talepler olmadığı takdirde T.C. Emekli Sandığı ile ilgilendirilir;
-bunlar hakkında 1/11/1983 tarihli ve 2937 sayılı Kanun hükümleri
-uygulanır.
+**Ek Madde 30 – (30/12/1987 - KHK - 306/4 md. ile gelen madde hükmü
+olup, madde numarası teselsül ettirilmiştir.; Mülga: 13/2/2011-6111/117
+md.)**
 
-             **Ek Madde 30 – (30/12/1987 - KHK - 306/4 md. ile gelen
-madde hükmü olup, madde numarası teselsül ettirilmiştir.; Mülga:
-13/2/2011-6111/117 md.)**
+**Ek Madde 31 – (Ek:17/5/1990 - 3649/1 md.)**
 
-             **Ek Madde 31 – (Ek:17/5/1990 - 3649/1 md.)**
+Bu Kanun kapsamına giren ve görevleri sebebiyle haklarında kamu davası
+açılmış olup da beraat edenlerin;
 
-             Bu Kanun kapsamına giren ve görevleri sebebiyle haklarında
-kamu davası açılmış olup da beraat edenlerin;
+a\) Vekalet verdikleri avukata, Avukatlık Asgari Ücret Tarifesine göre
+ödedikleri ücret,
 
-             a) Vekalet verdikleri avukata, Avukatlık Asgari Ücret
-Tarifesine göre ödedikleri ücret,
+b\) Belgelendirilmiş olmak kaydıyla dava ile ilgili olarak yaptıkları
+masraflar,
 
-             b) Belgelendirilmiş olmak kaydıyla dava ile ilgili olarak
-yaptıkları masraflar,
+Kurumların bütçesine konulacak ödenekten karşılanır.
 
-             Kurumların bütçesine konulacak ödenekten karşılanır.
+**Ek Madde 32 – (Ek: 9/4/1990 - KHK - 418/12 md.; İptal: Ana. Mah'nin
+5/12/1992 tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile, Yeniden
+düzenleme: 18/5/1994 - KHK - 527/11 md.) ^(1)(2)^**
 
-             **Ek Madde 32 – (Ek: 9/4/1990 - KHK -  418/12 md.; İptal:
-Ana. Mah'nin 5/12/1992 tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile,
-Yeniden düzenleme: 18/5/1994 - KHK - 527/11 md.) ^(1)(2)^**
+Eğitim ve öğretim Hizmetleri Sınıfına dahil öğretmen unvanlı kadrolarda
+görevli olup;fiilen öğretmenlik yapanlara (ilköğretim ve okul müdürleri
+ile yardımcıları,cezaevi okullarında çalışan öğretmenler,
+yönetici,eğitim uzmanı ve eğitim uzman yardımcıları dahil (…)^(2)^ ) her
+öğretim yılında bir defaya mahsus olmak üzere ve öğretim yılının
+başladığı ay içinde Milli Eğitim Bakanı tarafından belirlenecek tarihte
+Bakanlar Kurulunca belirlenecek miktarda,öğretim yılına hazırlık ödeneği
+ödenir.
 
-             Eğitim ve öğretim Hizmetleri Sınıfına dahil öğretmen
-unvanlı kadrolarda görevli olup; fiilen öğretmenlik yapanlara
-(ilköğretim ve okul müdürleri ile yardımcıları, cezaevi okullarında
-çalışan öğretmenler, yönetici, eğitim uzmanı ve eğitim uzman
-yardımcıları dahil (…)^(2)^ ) her öğretim yılında bir defaya mahsus
-olmak üzere ve öğretim yılının başladığı ay içinde Milli Eğitim Bakanı
-tarafından belirlenecek tarihte Bakanlar Kurulunca belirlenecek
-miktarda, öğretim yılına hazırlık ödeneği ödenir.
+Bu ödenek damga vergisi hariç diğer vergi ve kesintilere tabi tutulmaz.
 
-             Bu ödenek damga vergisi hariç diğer vergi ve kesintilere
-tabi tutulmaz.
-
-            **Ek Madde 33 – (Ek: 23/2/1995 - KHK - 547/10 md.; Değişik:
+**Ek Madde 33 – (Ek: 23/2/1995 - KHK - 547/10 md.; Değişik:
 21/1/2010-5947/10 md.)**
 
 Yataklı tedavi kurumları, seyyar hastaneler, ağız ve diş sağlığı
-merkezleri ve 112 acil sağlık hizmetlerinde haftalık çalışma süresi
-dışında normal, acil veya branş nöbeti tutarak, bu nöbet karşılığında
-kurumunca izin kullanmasına müsaade edilmeyen memurlar ile sözleşmeli
-personele, izin suretiyle karşılanamayan her bir nöbet saati için (nöbet
-süresi kesintisiz 6 saatten az olmamak üzere), aşağıda gösterilen
-gösterge rakamlarının aylık katsayısı ile çarpılması sonucu hesaplanacak
-tutarda nöbet ücreti ödenir. **(Ek cümle:2/1/2014 - 6514/10 md.)** Bu
-ücret yoğun bakım, acil servis ve 112 acil sağlık hizmetlerinde tutulan
-söz konusu nöbetler için yüzde elli oranında artırımlı ödenir. Ancak
-ayda 130 saatten fazlası için ödeme yapılmaz. Bu ücret damga vergisi
-hariç herhangi bir vergi ve kesintiye tabi tutulmaz.
+merkezleri, aile sağlığı merkezleri, toplum sağlığı merkezleri ve 112
+acil sağlık hizmetlerinde haftalık çalışma süresi dışında normal, acil
+veya branş nöbeti tutarak, bu nöbet karşılığında kurumunca izin
+kullanmasına müsaade edilmeyen memurlar ile sözleşmeli personele, izin
+suretiyle karşılanamayan her bir nöbet saati için (nöbet süresi
+kesintisiz 6 saatten az olmamak üzere), aşağıda gösterilen gösterge
+rakamlarının aylık katsayısı ile çarpılması sonucu hesaplanacak tutarda
+nöbet ücreti ödenir. **(Ek cümle:2/1/2014 - 6514/10 md.)** Bu ücret
+yoğun bakım, acil servis ve 112 acil sağlık hizmetlerinde tutulan söz
+konusu nöbetler için yüzde elli oranında artırımlı ödenir. Ancak ayda
+aile sağlığı ve toplum sağlığı merkezlerinde 60 saatten, diğer yerlerde
+ve hiçbir şekilde 130 saatten fazlası için ödeme yapılmaz. Bu ücret
+damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaz. ^(3)^
 
 ———————————
 
-\(1) Ek 31 inci madde numarası, 18/5/1994 tarih ve 527 sayılı KHK'nin 11
-inci maddesi ile Ek Madde 32 olarak düzeltilmiştir.
+*(1)Ek 31 inci madde numarası, 18/5/1994 tarih ve 527 sayılı KHK'nin 11
+inci maddesi ile Ek Madde 32 olarak düzeltilmiştir.*
 
 *(2) 4/6/2010 tarihli ve 5984 sayılı Kanunun 4 üncü maddesiyle bu
 maddenin birinci fıkrasında yer alan “İlköğretim Müfettişleri hariç”
 ibaresi madde metninden çıkarılmıştır.*
 
+*(3) 10/9/2014 tarihli ve 6552 sayılı Kanunun 69 uncu maddesiyle, bu
+fıkranın birinci cümlesine “ağız ve diş sağlığı merkezleri” ibaresinden
+sonra gelmek üzere “, aile sağlığı merkezleri, toplum sağlığı
+merkezleri” ibaresi, üçüncü cümlesine “ayda” ibaresinden sonra gelmek
+üzere “aile sağlığı ve toplum sağlığı merkezlerinde 60 saatten, diğer
+yerlerde ve hiçbir şekilde” ibaresi eklenmiştir.*
+
 4249
 
- 
-
- 
-
   ----------------------------------------------------------------------- ----------
-                                                                          Gösterge
+                                                                          Gösterge
 
   a\) Eğitim görevlisi^(1)^, başasistan, uzman tabip                      100
 
@@ -7161,32 +7126,33 @@ ibaresi madde metninden çıkarılmıştır.*
   e\) Diğer personel                                                      35
   ----------------------------------------------------------------------- ----------
 
- 
+Bu madde hükmü, üniversitelerin yataklı tedavi kurumlarında çalışan ve
+4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 50 nci
+maddesinin (e) bendi kapsamında bulunanlar ile yataklı tedavi
+kurumlarında çalışan ve 11/4/1928 tarihli ve 1219 sayılı Kanunun ek 14
+üncü maddesinin dördüncü fıkrası kapsamında bulunanlar hakkında da
+uygulanır. ^(2)^
 
-             Bu madde hükmü, üniversitelerin yataklı tedavi kurumlarında
-çalışan ve 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 50
-nci maddesinin (e) bendi kapsamında bulunanlar hakkında da uygulanır.
+İcap nöbeti tutan ve bu nöbet karşılığında kurumunca izin kullanmasına
+müsaade edilmeyen memurlar ile sözleşmeli personele, izin suretiyle
+karşılanamayan her bir icap nöbeti saati için, icap nöbeti süresi
+kesintisiz 12 saatten az olmamak üzere, yukarıda nöbet ücreti için
+belirlenen ücretin yüzde 40'ı tutarında icap nöbet ücreti ödenir. Bu
+şekilde ücretlendirilebilecek toplam icap nöbeti süresi aylık 120 saati
+geçemez.
 
-             İcap nöbeti tutan ve bu nöbet karşılığında kurumunca izin
-kullanmasına müsaade edilmeyen memurlar ile sözleşmeli personele, izin
-suretiyle karşılanamayan her bir icap nöbeti saati için, icap nöbeti
-süresi kesintisiz 12 saatten az olmamak üzere, yukarıda nöbet ücreti
-için belirlenen ücretin yüzde 40'ı tutarında icap nöbet ücreti ödenir.
-Bu şekilde ücretlendirilebilecek toplam icap nöbeti süresi aylık 120
-saati geçemez.
+Bu madde uyarınca yapılacak ödemeler, döner sermayesi bulunan kurumlarda
+döner sermaye bütçesinden karşılanır.
 
-             Bu madde uyarınca yapılacak ödemeler, döner sermayesi
-bulunan kurumlarda döner sermaye bütçesinden karşılanır.
+*Yurtdışı Eğitim Masraflarının Tahsili*
 
-** **            *Yurtdışı Eğitim Masraflarının Tahsili*
+**Ek Madde 34 – (Ek: 1/8/1996 - 4160/2 md.)**
 
-**             Ek Madde 34 – (Ek: 1/8/1996 - 4160/2 md.)**
-
-             İlgili kanunlarına göre; öğrenim yapmak, yetiştirilmek,
-eğitilmek, bilgilerini artırmak, staj yapmak veya benzeri bir nedenle
-geçici süreli görevlendirilmek suretiyle, üç ay veya daha fazla süre ile
-yurtdışına gönderilen kamu personeli yurtdışında bulundukları sürenin
-iki katı kadar mecburi hizmetle yükümlüdürler. Bu şekilde yurt dışına
+İlgili kanunlarına göre; öğrenim yapmak, yetiştirilmek, eğitilmek,
+bilgilerini artırmak, staj yapmak veya benzeri bir nedenle geçici süreli
+görevlendirilmek suretiyle, üç ay veya daha fazla süre ile yurtdışına
+gönderilen kamu personeli yurtdışında bulundukları sürenin iki katı
+kadar mecburi hizmetle yükümlüdürler. Bu şekilde yurt dışına
 gönderilecek personelden, örneği Maliye Bakanlığı tarafından hazırlanmış
 "Yüklenme Senedi ile Muteber İmzalı Müteselsil Kefalet Senedi" alınır.
 
@@ -7197,99 +7163,100 @@ olarak yapılmış olan her türlü masraflar aynı döviz cins ve miktarı
 üzerinden borçlandırılır. Döviz borcu toplamından mecburi hizmetin
 tamamlanan kısmı için hesaplanan miktar indirilir. Hesaplanan borç
 miktarı, ilgilinin durumu ve ödettirilecek meblağ dikkate alınarak azami
+
 beş yıla kadar taksitlendirilebilir. Borç miktarı ilgili tarafından Türk
 Lirası ile ödenir ve yapılan ödeme miktarı tahsil tarihindeki T.C.
 Merkez Bankasınca tespit ve ilan edilen efektif satış kuru üzerinden
 dövize çevrilerek yukarıda belirlenen şekilde hesaplanan döviz borcundan
 mahsup edilir.
 
-          **(Değişik üçüncü fıkra: 17/9/2004 – 5234/1 md.)**
-Yönetmelikle belirlenen başarısızlık ve geri çağrılma hallerinde de
-ilgililer için fiilen döviz olarak yapılmış olan her türlü masrafların
-tamamı aynı esaslara göre ödettirilir. Bu yönetmelik Maliye ve Millî
-Eğitim bakanlıklarının görüşü üzerine Devlet Personel Başkanlığınca
-hazırlanır.
+**(Değişik üçüncü fıkra: 17/9/2004 – 5234/1 md.)** Yönetmelikle
+belirlenen başarısızlık ve geri çağrılma hallerinde de ilgililer için
+fiilen döviz olarak yapılmış olan her türlü masrafların tamamı aynı
+esaslara göre ödettirilir. Bu yönetmelik Maliye ve Millî Eğitim
+bakanlıklarının görüşü üzerine Devlet Personel Başkanlığınca hazırlanır.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*(1) 11/10/2011 tarihli 663 sayılı KHK’nın 58 inci maddesiyle  (a)
-sırasında geçen “Klinik şefi, şef yardımcısı” ibareleri “Eğitim
-görevlisi” şeklinde değiştirilmiştir.*
+*(1) 11/10/2011 tarihli 663 sayılı KHK’nın 58 inci maddesiyle bu
+tablonun (a) sırasında geçen “Klinik şefi, şef yardımcısı” ibareleri
+“Eğitim görevlisi” şeklinde değiştirilmiştir.*
+
+*(2) 10/9/2014 tarihli ve 6552 sayılı Kanunun 69 uncu maddesiyle ek 33
+üncü maddenin ikinci fıkrasına “(e) bendi kapsamında bulunanlar”
+ibaresinden sonra gelmek üzere “ile yataklı tedavi kurumlarında çalışan
+ve 11/4/1928 tarihli ve 1219 sayılı Kanunun ek 14 üncü maddesinin
+dördüncü fıkrası kapsamında bulunanlar” ibaresi eklenmiştir.*
 
 4250/4250-4
 
- 
-
-             30.4.1992 tarih ve 3797 sayılı Milli Eğitim Bakanlığının
-Teşkilat ve Görevleri Hakkında Kanunun 19 uncu maddesine 492 sayılı
-Kanun Hükmünde Kararname ile eklenen (ı) bendi kapsamında bulunanlar
-hakkında üçüncü fıkra hükmü, 8.4.1929 tarih ve 1416 sayılı Ecnebi
-Memleketlere Gönderilecek Talebe Hakkında Kanun ve diğer kanun hükümleri
-uyarınca yurtdışına gönderilen öğrenciler hakkında da bu madde hükümleri
+30.4.1992 tarih ve 3797 sayılı Milli Eğitim Bakanlığının Teşkilat ve
+Görevleri Hakkında Kanunun 19 uncu maddesine 492 sayılı Kanun Hükmünde
+Kararname ile eklenen (ı) bendi kapsamında bulunanlar hakkında üçüncü
+fıkra hükmü, 8.4.1929 tarih ve 1416 sayılı Ecnebi Memleketlere
+Gönderilecek Talebe Hakkında Kanun ve diğer kanun hükümleri uyarınca
+yurtdışına gönderilen öğrenciler hakkında da bu madde hükümleri
 uygulanır.
 
-             Kendi imkanları ile yurtdışında öğrenim gören öğrenciler bu
-madde hükmünün dışındadır.
+Kendi imkanları ile yurtdışında öğrenim gören öğrenciler bu madde
+hükmünün dışındadır.
 
-             Yurt İçinde Okutulan Öğrencilerin Mecburi Hizmet
-Yükümlülüğü
+*Yurt İçinde Okutulan Öğrencilerin Mecburi Hizmet Yükümlülüğü*
 
-**             Ek Madde 35 – (Ek: 1/8/1996 - 4160/2 md.)**
+**Ek Madde 35 – (Ek: 1/8/1996 - 4160/2 md.)**
 
-             Kamu kurum ve kuruluşları tarafından personel kanunları ve
-diğer özel kanunlarda yer alan hükümlere göre bu maddenin yürürlüğe
-girdiği tarihten itibaren okutulacak yeni öğrencilere mecburi hizmet
-yükümlülüğü getirilemez.
+Kamu kurum ve kuruluşları tarafından personel kanunları ve diğer özel
+kanunlarda yer alan hükümlere göre bu maddenin yürürlüğe girdiği
+tarihten itibaren okutulacak yeni öğrencilere mecburi hizmet yükümlülüğü
+getirilemez.
 
-             Bu maddenin yürürlüğe girdiği tarihte mecburi hizmet
-karşılığı okutulmakta olan öğrenciler, mezuniyetlerinden veya memuriyete
+Bu maddenin yürürlüğe girdiği tarihte mecburi hizmet karşılığı
+okutulmakta olan öğrenciler, mezuniyetlerinden veya memuriyete
 atanmalarından sonra kurumlarından mecburi hizmet yükümlülüğünün
 kaldırılmasını talep edebilirler. Bu takdirde başka hiçbir işleme gerek
 kalmaksızın, mecburi hizmet yükümlülüğü ve tazminat borçları (1.1.1995
 tarihinden önce mecburi hizmet yükümlülüğünü ihlal edenlerin borçları
 dahil) ortadan kalkar.
 
-             Yurtdışında okutulanlar ile Türk Silahlı Kuvvetleri ve
-Emniyet Genel Müdürlüğü tarafından okutulanlar hakkında bu madde hükmü
-uygulanmaz.
+Yurtdışında okutulanlar ile Türk Silahlı Kuvvetleri ve Emniyet Genel
+Müdürlüğü tarafından okutulanlar hakkında bu madde hükmü uygulanmaz.
 
-*             Bakanlıklararası Ortak Kültür Komisyonu tarafından yurt
-dışında görevlendirme*
+*Bakanlıklararası Ortak Kültür Komisyonu tarafından yurt dışında
+görevlendirme*
 
-*            * **Ek Madde 36 – (Ek : 4/7/2001 -KHK- 631/8 md.) **
+**Ek Madde 36 – (Ek : 4/7/2001 -KHK- 631/8 md.) **
 
-**            ** Türk kültürünün yurt dışında tanıtılması, yayılması ve
-korunması, yurt dışındaki Türk vatandaşları ile soydaşların kültürel
-bağlarının korunması, güçlendirilmesi ve dini konularda aydınlatılması
-ile Türk dilinin öğretilmesi amacıyla, bu Kanun ile 2914 sayılı
-Yükseköğretim Personel Kanununa tabi personel arasından,
-Bakanlıklararası Ortak Kültür Komisyonu tarafından yurt dışında
-görevlendirilenler, bu görevleri süresince aylıklı izinli sayılırlar ve
-bunlara ayrıca, görevlendirildikleri ülkede sürekli görevle bulunan ve 9
-uncu derecenin 1 inci kademesinden aylık alan bekar meslek memuruna
-ödenmekte olan yurt dışı aylığının %60’ını geçmemek üzere hiçbir vergiye
-tâbi tutulmaksızın Bakanlar Kurulu tarafından tespit edilecek miktarda
-ödeme yapılır. Bu şekilde yurt dışında görevlendirilen personele ayni
-veya nakdi olarak yapılan diğer ödemeler bu ödemeden mahsup edilir.
-^(1)^
+Türk kültürünün yurt dışında tanıtılması, yayılması ve korunması, yurt
+dışındaki Türk vatandaşları ile soydaşların kültürel bağlarının
+korunması, güçlendirilmesi ve dini konularda aydınlatılması ile Türk
+dilinin öğretilmesi amacıyla, bu Kanun ile 2914 sayılı Yükseköğretim
+Personel Kanununa tabi personel arasından, Bakanlıklararası Ortak Kültür
+Komisyonu tarafından yurt dışında görevlendirilenler, bu görevleri
+süresince aylıklı izinli sayılırlar ve bunlara ayrıca,
+görevlendirildikleri ülkede sürekli görevle bulunan ve 9 uncu derecenin
+1 inci kademesinden aylık alan bekar meslek memuruna ödenmekte olan yurt
+dışı aylığının %60’ını geçmemek üzere hiçbir vergiye tâbi tutulmaksızın
+Bakanlar Kurulu tarafından tespit edilecek miktarda ödeme yapılır. Bu
+şekilde yurt dışında görevlendirilen personele ayni veya nakdi olarak
+yapılan diğer ödemeler bu ödemeden mahsup edilir. ^(1)^
 
-             Kapsama dahil personel, yurt dışı görevleri karşılığında
-diğer kurumlar tarafından ödeme yapılması suretiyle Bakanlıklararası
-Ortak Kültür Komisyonu tarafından bu maddeye göre görevlendirilebilir.
+Kapsama dahil personel, yurt dışı görevleri karşılığında diğer kurumlar
+tarafından ödeme yapılması suretiyle Bakanlıklararası Ortak Kültür
+Komisyonu tarafından bu maddeye göre görevlendirilebilir.
 
-             Bu madde uyarınca yurt dışında görevlendirilecek personelin
-unvanı, sayısı, nitelikleri, seçim esas ve usulleri, görev yerleri ve
-süreleri, izinleri, yurt dışındaki görevlerinin sona erdirilmesi ile bu
-maddenin uygulanmasına ilişkin diğer esas ve usuller, Dışişleri, Milli
-Eğitim ve Kültür Bakanlıkları ile Diyanet İşleri Başkanlığı ve Yurtdışı
-Türkler ve Akraba Topluluklar Başkanlığının görüşleri ve Maliye
-Bakanlığının teklifi üzerine Bakanlar Kurulunca belirlenir.^(2)^
+Bu madde uyarınca yurt dışında görevlendirilecek personelin unvanı,
+sayısı, nitelikleri, seçim esas ve usulleri, görev yerleri ve süreleri,
+izinleri, yurt dışındaki görevlerinin sona erdirilmesi ile bu maddenin
+uygulanmasına ilişkin diğer esas ve usuller, Dışişleri, Milli Eğitim ve
+Kültür Bakanlıkları ile Diyanet İşleri Başkanlığı ve Yurtdışı Türkler ve
+Akraba Topluluklar Başkanlığının görüşleri ve Maliye Bakanlığının
+teklifi üzerine Bakanlar Kurulunca belirlenir.^(2)^
 
 ––––––––––––––––––
 
 *(1) Bu fıkraya 17/9/2004 tarihli ve 5234 sayılı Kanunun 1 inci
-maddesiyle, “geçmemek üzere” ibaresinden sonra gelmek üzere “hiçbir
-vergiye tâbi tutulmaksızın” ibaresi eklenmiş ve metne işlenmiştir.*
+maddesiyle,“geçmemek üzere” ibaresinden sonra gelmek üzere “hiçbir
+vergiye tâbi tutulmaksızın”ibaresi eklenmiş ve metne işlenmiştir.*
 
 *(2) 24/10/2011 tarihli ve 661 sayılı KHK’nın 102 nci maddesiyle bu
 fıkrada yer alan “Diyanet İşleri Başkanlığının” ibaresi “Diyanet İşleri
@@ -10219,16 +10186,16 @@ devamına bakınız.***
 
 4272-20
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------ ----------------------------------------- ------------------------------------------------------
-  **UNVANI**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           **Derece**   **1/1/1994’den**                          **1/1/1995’den İtibaren Uygulanacak Ek Göstergeler**
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    **İtibaren Uygulanacak Ek Göstergeler**   
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------ ----------------------------------------- ------------------------------------------------------
+  **UNVANI**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        **Derece**   **1/1/1994’den**                          **1/1/1995’den İtibaren Uygulanacak Ek Göstergeler**
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 **İtibaren Uygulanacak Ek Göstergeler**   
 
-  2\. YARGI KURULUŞLARI, BAĞLI VE İLGİLİ KURULUŞLAR İLE YÜKSEK ÖĞRETİM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 1            3200                                      3600
-  KURULUŞLARINDA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-  Vakıflar Meclisi Üyesi, Yönetim Kurulu Üyesi, A.O.Ç. Müdürü, Devlet Personel Başkanlığı Başkan Yardımcısı, Türkiye Halk Sağlığı Kurumu Başkan Yardımcısı, Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkan Yardımcısı, Türkiye Kamu Hastaneleri Kurumu Başkan Yardımcısı^(30)^ Türk Patent Enstitüsü Başkan Yardımcısı.^(3)^ Atom Enerjisi Kurumu Başkan Yard., Özel Çevre Koruma Kurumu Başkan Yardımcısı, (…)^(26)^ , (…)^(19)^, Adli Tıp Kurumu Başkan Yardımcısı, Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Denetleme Kurulu Başkanı ile Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu, Atatürk Kültür Merkezi Başkan Yardımcıları, Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkan Yardımcısı, (…)^(25)^ (…)^(25)^ (…)^(25)^ Hazine Müsteşarlığı (…)^(25)^ Daire Başkanı (Ana ve Yardımcı Hizmet Birimi), Türkiye İstatistik Kurumu Daire Başkanı, (...)^(29)^ Milli Güvenlik Kurulu Genel Sekreterliği Daire Başkanı ve Genel Sekreter Müşaviri,^(31)^ Türkiye Yazma Eserler Başkanlığı Daire Başkanı, Türkiye Yazma Eserler Başkanlığı Araştırma ve Eğitim Merkezi Müdürü, Türkiye Yazma Eserler Başkanlığı Bölge Müdürü, Türkiye Yazma Eserler Başkanlığı Müşaviri,^(24)^Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı Daire Başkanı, ^(20)^ Gelir İdaresi Daire Başkanı, Afet ve Acil Durum Yönetimi Başkanlığı Daire Başkanı, Vergi Dairesi Başkanı,Genel Müdür Yardımcısı, Sosyal Güvenlik Kurumu Aktüerya ve Fon Yönetimi Daire Başkanı, Sosyal Güvenlik Kurumu İnsan Kaynakları Daire Başkanı, Sosyal Güvenlik Kurumu Destek Hizmetleri Daire Başkanı, Sosyal Güvenlik Kurumu İnşaat ve Emlak Daire Başkanı, Sosyal Güvenlik İl Müdürü (Ankara, İstanbul, İzmir)^(14)^, Teftiş Kurulu Başkanı, Teftiş ve Kontrol Kurulu Başkanı, Teftiş ve Tetkik Kurulu Başkanı, Vakıflar Genel Müdürlüğü                                                          
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------ ----------------------------------------- ------------------------------------------------------
+  2\. YARGI KURULUŞLARI, BAĞLI VE İLGİLİ KURULUŞLAR İLE YÜKSEK ÖĞRETİM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              1            3200                                      3600
+  KURULUŞLARINDA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+  Vakıflar Meclisi Üyesi, Yönetim Kurulu Üyesi, A.O.Ç. Müdürü, Devlet Personel Başkanlığı Başkan Yardımcısı, Türkiye Halk Sağlığı Kurumu Başkan Yardımcısı, Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkan Yardımcısı, Türkiye Kamu Hastaneleri Kurumu Başkan Yardımcısı^(30)^ Türk Patent Enstitüsü Başkan Yardımcısı.^(3)^ Atom Enerjisi Kurumu Başkan Yard., Özel Çevre Koruma Kurumu Başkan Yardımcısı, (…)^(26)^ , (…)^(19)^, Adli Tıp Kurumu Başkan Yardımcısı, Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Denetleme Kurulu Başkanı ile Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu, Atatürk Kültür Merkezi Başkan Yardımcıları, Milli Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkan Yardımcısı, (…)^(25)^ (…)^(25)^ (…)^(25)^ Hazine Müsteşarlığı (…)^(25)^ Daire Başkanı (Ana ve Yardımcı Hizmet Birimi), Türkiye İstatistik Kurumu Daire Başkanı, (…)^(29)^ Milli Güvenlik Kurulu Genel Sekreterliği Daire Başkanı ve Genel Sekreter Müşaviri,^(31)^ Türkiye Yazma Eserler Başkanlığı Daire Başkanı, Türkiye Yazma Eserler Başkanlığı Araştırma ve Eğitim Merkezi Müdürü, Türkiye Yazma Eserler Başkanlığı Bölge Müdürü, Türkiye Yazma Eserler Başkanlığı Müşaviri,^(24)^Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı Daire Başkanı, ^(20)^ Gelir İdaresi Daire Başkanı, Afet ve Acil Durum Yönetimi Başkanlığı Daire Başkanı, Vergi Dairesi Başkanı,Genel Müdür Yardımcısı, Sosyal Güvenlik Kurumu Aktüerya ve Fon Yönetimi Daire Başkanı, Sosyal Güvenlik Kurumu İnsan Kaynakları Daire Başkanı, Sosyal Güvenlik Kurumu Destek Hizmetleri Daire Başkanı, Sosyal Güvenlik Kurumu İnşaat ve Emlak Daire Başkanı, Sosyal Güvenlik Kurumu Eğitim, Araştırma ve Geliştirme Merkezi Başkanı ^(34)^, Sosyal Güvenlik İl Müdürü (Ankara, İstanbul, İzmir)^(14)^, Teftiş Kurulu Başkanı, Teftiş ve Kontrol Kurulu Başkanı, Teftiş ve Tetkik Kurulu Başkanı, Vakıflar Genel Müdürlüğü                                                          
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------ ----------------------------------------- ------------------------------------------------------
 
 4272-21
 
@@ -10429,7 +10396,7 @@ Grup Başkanı,” ibaresi eklenmiştir.*
 bölüme “Türkiye İstatistik Kurumu Daire Başkanı,” ibaresinden sonra
 gelmek üzere “Türk İşbirliği ve Koordinasyon Ajansı Daire Başkanı,”
 ibaresi eklenmiş ve söz konusu ibare Anayasa Mahkemesinin 22/11/2012
-tarihli ve E:2011/148, K:2012/186 sayılı kararıyla iptal edilmiştir.*
+tarihli ve E:2011/148, K:2012/186 sayılı kararıyla iptal edilmiştir. *
 
 *(30) 11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle bu
 bölümde yer alan “Devlet Personel Başkanlığı Başkan Yardımcısı”
@@ -10455,7 +10422,12 @@ Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim
 Kuruluşlarında” başlıklı bölümüne “Türkiye İstatistik Kurumu Bölge
 Müdürü,” ibaresinden sonra gelmek üzere “Daire Başkanı, Gelir İdaresi
 Grup Başkanı, Milli Güvenlik Kurulu Genel Sekreterliği Grup Başkanı,”
-ibaresi eklenmiştir.*
+ibaresi eklenmiştir. *
+
+*(34) 10/9/2014 tarihli ve 6552 sayılı Kanunun 68 inci maddesiyle, bu
+bölüme “Sosyal Güvenlik Kurumu İnşaat ve Emlak Daire Başkanı,”
+ibaresinden sonra gelmek üzere “Sosyal Güvenlik Kurumu Eğitim, Araştırma
+ve Geliştirme Merkezi Başkanı,” ibaresi eklenmiştir.*
 
 4272-25
 
@@ -10789,52 +10761,52 @@ Başkanı ve” ibareleri metinden çıkarılmıştır.*
 
  
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------- ------------------------------------------- -------------------------------------------------------
-  1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  **1/1/1994’den**                            **1/1/1995’den İtibaren  Uygulanacak Ek Göstergeler**
-      =                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      **İtibaren   Uygulanacak Ek Göstergeler**   
-      UNVANI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-      ======                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Derece                                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ------                                               
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------- ------------------------------------------- -------------------------------------------------------
+  1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         **1/1/1994’den**                            **1/1/1995’den İtibaren  Uygulanacak Ek Göstergeler**
+      =                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             **İtibaren   Uygulanacak Ek Göstergeler**   
+      UNVANI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+      ======                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Derece                                               
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ------                                               
 
-  Kredi ve Risk İzleme Müdürü, İstihbarat ve Kredi Değerlendirme Müdürü, Emlak İşleri Müdürü, Merkez Muhasebe Müdürü, İstihbarat ve Proje Değerlendirme Müdürü, Bireysel ve Özel Bankacılık Müdürü, Mevduat ve Banka Hizmetleri Müdürü, İnşaat ve Emlak Müdürü, Araştırma, Geliştirme ve Planlama Müdürü, Kredi Pazarlama Müdürü, Dış İlişkiler Operasyon Müdürü, Dış Muhabir İlişkiler Müdürü, Hukuk İşleri Müdürü, Büro Müdürü ve Disiplin Kurulu Başkanı olanlar^(1)^,Sosyal Güvenlik İl Müdürü^(2)^,Yazma Eser Kütüphanesi Müdürü, ^(5)^ Anayasa Mahkemesi Başkanlığı  Müdürleri ^(6)^                                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  ===                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  6- MAHALLİ İDARELER İLE BAĞLI VE İLGİLİ KURULUŞLARDA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             1        2600                                        3000
-  Daire Başkanı,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  Büyükşehir Belediye ile bağlı kuruluşlarındaki I. Hukuk Müşaviri, ^(3)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  Belediye Başkan Yardımcısı,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  Boğaziçi İmar Müdürü,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  İl Afet ve Acil Durum Müdürü, ^(4)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  Sivil Savunma Arama ve Kurtarma Birlik Müdürü, ^(4)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-  Fen ve Tetkik Kurulu Başkanı                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             1        2600                                        3000
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------- ------------------------------------------- -------------------------------------------------------
+  Kredi ve Risk İzleme Müdürü, İstihbarat ve Kredi Değerlendirme Müdürü, Emlak İşleri Müdürü, Merkez Muhasebe Müdürü, İstihbarat ve Proje Değerlendirme Müdürü, Bireysel ve Özel Bankacılık Müdürü, Mevduat ve Banka Hizmetleri Müdürü, İnşaat ve Emlak Müdürü, Araştırma, Geliştirme ve Planlama Müdürü, Kredi Pazarlama Müdürü, Dış İlişkiler Operasyon Müdürü, Dış Muhabir İlişkiler Müdürü, Hukuk İşleri Müdürü, Büro Müdürü ve Disiplin Kurulu Başkanı olanlar^(1)^,Sosyal Güvenlik İl Müdürü^(2)^, Sosyal Güvenlik Kurumu Eğitim, Araştırma ve Geliştirme Merkezi Başkan Yardımcısı^(7)^, Yazma Eser Kütüphanesi Müdürü, ^(5)^ Anayasa Mahkemesi Başkanlığı Müdürleri ^(6)^                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  =                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  6- MAHALLİ İDARELER İLE BAĞLI VE İLGİLİ KURULUŞLARDA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  Daire Başkanı,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    1        2600                                        3000
+  Büyükşehir Belediye ile bağlı kuruluşlarındaki I. Hukuk Müşaviri, ^(3)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  Belediye Başkan Yardımcısı,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  Boğaziçi İmar Müdürü,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  İl Afet ve Acil Durum Müdürü, ^(4)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  Sivil Savunma Arama ve Kurtarma Birlik Müdürü, ^(4)^                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  Fen ve Tetkik Kurulu Başkanı                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    1        2600                                        3000
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------- ------------------------------------------- -------------------------------------------------------
 
  
 
@@ -10865,6 +10837,11 @@ Yazma Eser Kütüphanesi Müdürü” ibaresi eklenmiş ve metne işlenmiştir.*
 *(6) 30/3/2011 tarihli ve 6216 sayılı Kanunun 75 inci maddesiyle, bu
 bölüme “Anayasa Mahkemesi Başkanlığı Müdürleri” ibaresi eklenmiş ve
 metne işlenmiştir.*
+
+*(7) 10/9/2014 tarihli ve 6552 sayılı Kanunun 68 inci maddesiyle, bu
+bölüme “Sosyal Güvenlik İl Müdürü,” ibaresinden sonra gelmek üzere
+“Sosyal Güvenlik Kurumu Eğitim, Araştırma ve Geliştirme Merkezi Başkan
+Yardımcısı,” ibaresi eklenmiştir.*
 
 4272-31
 
@@ -13665,6 +13642,8 @@ fıkraları                                
   6528                                                                                   36, 152, I sayılı Cetvel                                               14/3/2014
 
   Anayasa Mahkemesi’nin 27/3/2014 tarihli ve E.: 2013/101, K.: 2014/63 sayılı Kararı     36                                                                     22/7/2014
+
+  6552                                                                                   4, 57, 152, Ek Madde 33, II sayılı Cetvel,                             11/9/2014
   -------------------------------------------------------------------------------------- ---------------------------------------------------------------------- --------------------------------------
 
 
