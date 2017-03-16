@@ -1,4 +1,4 @@
-**13/10/2006 tarihli ve 5551 sayılı Kanun ile değişik hali**
+**10/5/2007 tarihli ve 5659 sayılı Kanun ile değişik hali**
 
 **TÜRKİYE CUMHURİYETİ ANAYASASI ^(1)^**
 
@@ -3645,6 +3645,13 @@ katılmayanlar, Anayasanın halkoylamasını takip eden beş yıl içinde
 yapılacak genel ve ara seçimleri ile mahalli seçimlere ve diğer
 halkoylamalarına katılamazlar, seçimlerde aday olamazlar.
 
+**Geçici Madde 17 – (Ek: 10/5/2007-5659/1 md.)**
+
+Bu Kanunun yürürlüğe girmesinden sonra yapılacak ilk genel seçimde,
+Anayasanın 67 nci maddesinin son fıkrası 10/6/1983 tarihli ve 2839
+sayılı Milletvekili Seçimi Kanununun bağımsız adayların birleşik oy
+pusulasında yer almasına ilişkin hükümleri bakımından uygulanmaz.
+
 YEDİNCİ KISIM
 
 *Son Hükümler*
@@ -3862,6 +3869,11 @@ halinde tümüyle oylanır.
 **Madde 2 –** Bu Kanun yayımı tarihinde yürürlüğe girer ve
 halkoylamasına sunulması halinde oylanır.
 
+**10- 10/5/2007 tarihli ve 5659 sayılı Kanunun 2 nci Maddesi:**
+
+**Madde 2 –** Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna
+sunulması halinde oylanır.
+
 **2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN**
 
 **MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ**
@@ -3900,6 +3912,8 @@ halkoylamasına sunulması halinde oylanır.
   5428                   130, 160, 161, 162, 163, İşlenemeyen Hüküm                                                                                                                                              9/11/2005
 
   5551                   76, İşlenemeyen Hüküm                                                                                                                                                                   17/10/2006
+
+  5659                   67, İşlenemeyen Hüküm                                                                                                                                                                   18/5/2007
   ---------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
